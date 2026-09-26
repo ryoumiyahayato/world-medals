@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-26",
+  "volume": "撒丁王国与意大利王国：勋奖章首包（二）",
+  "scope": "从已完成的 MedalBook 撒丁／意大利王国目录中选取3个有独立制度证据的章种；同章各等级归入同一 family。此为隔离卷数据，尚未并入公共 HTML。",
+  "families": [
+    {
+      "family_id": "IT-KOI-002",
+      "awarding_authority": "Kingdom of Sardinia; later Kingdom of Italy",
+      "name_zh": "军事勇敢勋章",
+      "name_original": "Medaglia al Valor Militare / Medal for Military Valour",
+      "date_note": "金、银级于1833-03-26恢复设立；1793为前身制度时期，不用作本版勋章的创设日期。铜级始于1887-12-08。",
+      "source_ids": ["difesa_military_valour_history", "rd5100_bronze_medal", "mb_military_valour_gold", "mb_military_valour_silver", "mb_military_valour_bronze"]
+    },
+    {
+      "family_id": "IT-KOI-003",
+      "awarding_authority": "Kingdom of Sardinia; later Kingdom of Italy",
+      "name_zh": "民事勇敢勋章",
+      "name_original": "Medaglia al Valore Civile / Medal for Civil Valour",
+      "date_note": "1851-04-30设立（撒丁王国）；金、银、铜为同一勋章的等级。照片只说明为意大利王国时期实物，具体授予日期待考。",
+      "source_ids": ["quirinale_civil_valour", "commons_civil_valour_unknown_specimen", "mb_civil_valour_gold", "mb_civil_valour_silver", "mb_civil_valour_bronze"]
+    },
+    {
+      "family_id": "IT-KOI-004",
+      "awarding_authority": "Kingdom of Italy",
+      "name_zh": "战争功绩十字章",
+      "name_original": "Croce al Merito di Guerra / War Merit Cross",
+      "date_note": "1918-01-19，R.D. no.205创设；1918-03-10，R.D. no.356修订相关规定。所配实物未证实具体颁发日期。",
+      "source_ids": ["difesa_war_merit_register", "rd356_war_merit_cross", "mb_war_merit_cross", "commons_war_merit_front", "commons_war_merit_back"]
+    }
+  ],
+  "records": [
+    {
+      "id": "IT-KOI-002-V01",
+      "family": "IT-KOI-002",
+      "name": "军事勇敢勋章",
+      "original": "Medaglia d'oro al Valor Militare",
+      "date": "金、银级恢复设立：1833-03-26；本件为意大利王国时期实物，具体颁发日期待考。",
+      "variant": "金级（Gold Medal）；照片所示为罗维戈省意大利步兵协会会旗上的实物，章体、金属挂接部与会旗上所见绶带段完整；不据照片判断金属成分。",
+      "views": [
+        {
+          "key": "IT-KOI-002-V01-VIEW",
+          "label": "实物正面·会旗所挂"
+        }
+      ],
+      "source_ids": ["difesa_military_valour_history", "mb_military_valour_gold", "commons_military_valour_gold"]
+    },
+    {
+      "id": "IT-KOI-003-S01",
+      "family": "IT-KOI-003",
+      "name": "民事勇敢勋章",
+      "original": "Medaglia al Valore Civile",
+      "date": "1851-04-30设立（撒丁王国）；本图为意大利王国时期实物，制作／授予日期待考。",
+      "variant": "王国时期实物；等级与材质待考，不凭照片颜色判定金、银或铜级；正面照片低清参考。",
+      "views": [
+        {
+          "key": "IT-KOI-003-S01-VIEW",
+          "label": "实物正面"
+        }
+      ],
+      "source_ids": ["quirinale_civil_valour", "commons_civil_valour_unknown_specimen"]
+    },
+    {
+      "id": "IT-KOI-004-V01",
+      "family": "IT-KOI-004",
+      "name": "战争功绩十字章",
+      "original": "Croce al Merito di Guerra",
+      "date": "1918-01-19创设；所配实物的授予日期待考。",
+      "variant": "王国时期实物；来源将正、背面标为同一件 Michele Pisani 服役纪念实物。图中完整呈现十字章体，未展示绶带或悬环，故不补定绶带、材质等级或具体授奖日。",
+      "views": [
+        {
+          "key": "IT-KOI-004-V01-FRONT",
+          "label": "实物正面"
+        },
+        {
+          "key": "IT-KOI-004-V01-BACK",
+          "label": "实物背面·同一件"
+        }
+      ],
+      "source_ids": ["difesa_war_merit_register", "rd356_war_merit_cross", "mb_war_merit_cross", "commons_war_merit_front", "commons_war_merit_back"]
+    }
+  ],
+  "unpictured_appendix": [
+    {
+      "family": "IT-KOI-002",
+      "variant_id": "IT-KOI-002-V02",
+      "grade": "银级",
+      "status": "有记载未配图",
+      "source_ids": ["difesa_military_valour_history", "mb_military_valour_silver"]
+    },
+    {
+      "family": "IT-KOI-002",
+      "variant_id": "IT-KOI-002-V03",
+      "grade": "铜级",
+      "status": "有记载未配图",
+      "source_ids": ["rd5100_bronze_medal", "mb_military_valour_bronze"]
+    },
+    {
+      "family": "IT-KOI-003",
+      "variant_id": "IT-KOI-003-V01",
+      "grade": "金级",
+      "status": "有记载未配图；现有王国时期实物图片等级未能对应",
+      "source_ids": ["quirinale_civil_valour", "mb_civil_valour_gold"]
+    },
+    {
+      "family": "IT-KOI-003",
+      "variant_id": "IT-KOI-003-V02",
+      "grade": "银级",
+      "status": "有记载未配图；现有王国时期实物图片等级未能对应",
+      "source_ids": ["quirinale_civil_valour", "mb_civil_valour_silver"]
+    },
+    {
+      "family": "IT-KOI-003",
+      "variant_id": "IT-KOI-003-V03",
+      "grade": "铜级",
+      "status": "有记载未配图；现有王国时期实物图片等级未能对应",
+      "source_ids": ["quirinale_civil_valour", "mb_civil_valour_bronze"]
+    }
+  ],
+  "notes": [
+    "军事勇敢勋章金、银、铜级合并为 IT-KOI-002；不把三种等级当作三个章种。",
+    "民事勇敢勋章王国时期实物图的等级尚未确认，使用 specimen ID（S01），不将其误配至金、银或铜级。",
+    "战争功绩十字章与 Cross for Military Valour / Croce per il Valor Militare 为不同制度项目，未合并。",
+    "正文记录仅含有实物完整章体照片的对象；只展示绶带、商业目录缩略图或裁损的候选图不计入本包图片数。"
+  ]
+}

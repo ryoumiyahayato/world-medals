@@ -1,0 +1,38 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "Sweden — SHM order candidates batch 1",
+  "batch_id": "SWE-SHM-ORDERS-B1-20260926",
+  "status": "candidate_only_no_local_images_not_ready_for_public_merge",
+  "candidates_file": "data/volumes/sweden_shm_orders_batch1_2026-09-26_candidates.json",
+  "sources_file": "sources/sweden_shm_orders_batch1_sources_2026-09-26.json",
+  "source_matrix_file": "data/source_atlas/sweden_source_matrix.json",
+  "raw_candidates_file": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+  "checkpoint_file": "data/checkpoints/sweden_shm_orders_batch1_2026-09-26.json",
+  "image_manifest": "assets/images/sweden_shm_orders_batch1/images_manifest.json",
+  "counts": {
+    "planned_sources": 8,
+    "completed_sources": 5,
+    "partial_sources": 1,
+    "blocked_sources": 1,
+    "not_started_sources": 1,
+    "raw_candidates": 951,
+    "independent_award_families_candidate": 5,
+    "candidate_variant_rows": 15,
+    "records_ready_for_merge": 0,
+    "local_images_decoded": 0,
+    "official_diagrams": 0,
+    "specimen_photos": 0,
+    "exclusions_clothing_equipment": 122,
+    "exclusions_ribbon_only": 72,
+    "unreviewed_or_unresolved_objects": 514
+  },
+  "family_ids": [
+    "SWE-SERAFIMERORDEN",
+    "SWE-SVARDSORDEN",
+    "SWE-NORDSTJARNEORDEN",
+    "SWE-VASAORDEN",
+    "SWE-CARL-XIII-ORDEN"
+  ],
+  "image_note": "No file is counted as a local image until original bytes are acquired, decoded, and checked for complete insignia.",
+  "merge_note": "Candidate metadata only; do not append these candidate rows to public index until image or a permitted no-image appendix workflow is explicitly handled by parent."
+}

@@ -1,0 +1,567 @@
+{
+  "source_id": "FR-SAMLHOC-LEGION-HONOUR",
+  "source_name": "SAMLHOC / France Phaléristique — Légion d’honneur directory",
+  "as_of": "2026-09-26",
+  "status": "complete_direct_subpage_sweep_and_visual_review",
+  "boundary": "Seed page and every distinct direct child URL under /phaleristique/ordres-chevalerie/legion_honneur/ exposed by the seed. Sibling editorial pages and unrelated decorations excluded.",
+  "seed_url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/",
+  "discovered_page_urls": 32,
+  "cached_pages": 32,
+  "failed_pages": 0,
+  "raw_source_rows": 32,
+  "distinct_award_image_urls": 21,
+  "downloaded_decoded_images": 21,
+  "failed_images": 0,
+  "pages": [
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/",
+      "title": "Ordre national de la Légion d'honneur - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/legion_honneur_main.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/cadrelh.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_brevets/",
+      "title": "brevets - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/02_legion_honneur_brevets.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier_1_empire/",
+      "title": "collier du 2 e type - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/03_legion_honneur_collier_1_empire.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh1emp2tcol.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier_3_republique/",
+      "title": "Le collier de la 3 e République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/04_legion_honneur_collier_3_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh3repcol.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier/",
+      "title": "Le collier des 4 e & 5 e Républiques - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/05_legion_honneur_collier.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh45repscol.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_commandeur_5_republique/",
+      "title": "Commandeur - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/06_legion_honneur_commandeur_5_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcoma.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_1_empire/",
+      "title": "Premier Empire - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/07_legion_honneur_croix_1_empire.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh1emp1tar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_empire/",
+      "title": "Second Empire - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/08_legion_honneur_croix_2_empire.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_republique/",
+      "title": "Seconde République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/09_legion_honneur_croix_2_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh2rep1ar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_restauration/",
+      "title": "Seconde Restauration - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/10_legion_honneur_croix_2_restauration.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh2restar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_3_republique/",
+      "title": "Troisième République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/11_legion_honneur_croix_3_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh3repchevar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_5_republique/",
+      "title": "Cinquième République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/12_legion_honneur_croix_5_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcxchevoffa.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_cent_jours/",
+      "title": "Cent-Jours - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/13_legion_honneur_croix_cent_jours.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcentsjoursar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_maisons_education/",
+      "title": "insignes - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/14_legion_honneur_croix_maisons_education.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lheduc.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_monarchie_juillet/",
+      "title": "Monarchie de Juillet - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/15_legion_honneur_croix_monarchie_juillet.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhmjar.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_decret_16-03-1852/",
+      "title": "décret organique - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/16_legion_honneur_decret_16-03-1852.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_decret_elevation/",
+      "title": "grand officier - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/17_legion_honneur_decret_elevation.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_decret_exclusion/",
+      "title": "exclusion - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/18_legion_honneur_decret_exclusion.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_grand-croix_5_republique/",
+      "title": "Grand'croix - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/19_legion_honneur_grand-croix_5_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhgc.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_loi_19-05-1802/",
+      "title": "loi du 29 floréal an X - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/20_legion_honneur_loi_19-05-1802.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_ordonnance_26-03-1816/",
+      "title": "ordonnance royale du 26 mars 1816 - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/21_legion_honneur_ordonnance_26-03-1816.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_1_empire/",
+      "title": "Premier Empire - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/22_legion_honneur_plaque_1_empire.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplakgabrod1.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_2_empire/",
+      "title": "Second Empire - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/23_legion_honneur_plaque_2_empire.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak2emp1.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_2_republique/",
+      "title": "Seconde République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/24_legion_honneur_plaque_2_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak2rep.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_3_republique/",
+      "title": "Troisième République - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/25_legion_honneur_plaque_3_republique.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak3repgc.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_monarchie_juillet/",
+      "title": "Monarchie de Juillet - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/26_legion_honneur_plaque_monarchie_juillet.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplaklp.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaques/",
+      "title": "Quatrième & cinquième Républiques - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/27_legion_honneur_plaques.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplakgc.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_premiere_remise/",
+      "title": "Invalides - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/28_legion_honneur_premiere_remise.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_sacre_napoleon_1/",
+      "title": "collier du 1 er type - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/29_legion_honneur_sacre_napoleon_1.html",
+      "image_urls": [
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/napoleongerard.jpg"
+      ]
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_unites_formations_militaires_decorees/",
+      "title": "Liste - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/30_legion_honneur_unites_formations_militaires_decorees.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_villes_decorees/",
+      "title": "Liste - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/31_legion_honneur_villes_decorees.html",
+      "image_urls": []
+    },
+    {
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/petit_journal_4/",
+      "title": "Marie-Jeanne Schellinck - SAMLHOC",
+      "status": "cached",
+      "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/32_petit_journal_4.html",
+      "image_urls": []
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/cadrelh.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/cadrelh.jpg",
+      "status": "downloaded_decoded",
+      "width": 641,
+      "height": 353,
+      "bytes": 32024,
+      "sha256": "1e4eab76abd6041b9a16d4c71d307d49f65b8847801327dc76ade0c4144e5172",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Not an award-object image; excluded.",
+      "classification": "non_object"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh1emp1tar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh1emp1tar.jpg",
+      "status": "downloaded_decoded",
+      "width": 361,
+      "height": 353,
+      "bytes": 25036,
+      "sha256": "fe0e950feea94422e2139e8a49c9df1c364d173be9e9db8f6d8d83674e6ee5b6",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh1emp2tcol.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh1emp2tcol.jpg",
+      "status": "downloaded_decoded",
+      "width": 680,
+      "height": 563,
+      "bytes": 47036,
+      "sha256": "477495664650b5c411b60e33a9d3a0367a83586a85b2fa9c704daf002f91e473",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh2rep1ar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh2rep1ar.jpg",
+      "status": "downloaded_decoded",
+      "width": 351,
+      "height": 389,
+      "bytes": 28008,
+      "sha256": "59d9e31394cecc6245f38566f06145eac56d1fb11f83c1f074e3e80b3e24eb68",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh2restar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh2restar.jpg",
+      "status": "downloaded_decoded",
+      "width": 367,
+      "height": 409,
+      "bytes": 32617,
+      "sha256": "b720d7f0af113574a01c94140bf3ae7d9e479896f7594e3accd31c5640201656",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh3repchevar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh3repchevar.jpg",
+      "status": "downloaded_decoded",
+      "width": 383,
+      "height": 490,
+      "bytes": 39941,
+      "sha256": "4b0840e57cdc5ba999ea80c9b2d60368cdd9c8c30a1dab9b1ce2ed8697e6f17f",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh3repcol.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh3repcol.jpg",
+      "status": "downloaded_decoded",
+      "width": 427,
+      "height": 560,
+      "bytes": 36893,
+      "sha256": "d7e23799bca86074342b297ede9aea824cd17422ce65b49e5fc7664ff439716e",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lh45repscol.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lh45repscol.jpg",
+      "status": "downloaded_decoded",
+      "width": 479,
+      "height": 567,
+      "bytes": 21860,
+      "sha256": "b40f2a3f6a1535e338660fe348b4935aa9baaf180ae05b23ef697d2ecaa376ea",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcentsjoursar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhcentsjoursar.jpg",
+      "status": "downloaded_decoded",
+      "width": 337,
+      "height": 455,
+      "bytes": 31259,
+      "sha256": "40181c3ce594d59601c307c13f82e639dd6bde17c968fd89952f813e88409a2b",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcoma.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhcoma.jpg",
+      "status": "downloaded_decoded",
+      "width": 227,
+      "height": 439,
+      "bytes": 18164,
+      "sha256": "0d4cf49b6f4fc8673046b0343f87e33bf9d323dc19eed2e9e9ea42611352d048",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhcxchevoffa.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhcxchevoffa.jpg",
+      "status": "downloaded_decoded",
+      "width": 416,
+      "height": 465,
+      "bytes": 38219,
+      "sha256": "042dac7824a5232705578acb3b6e675f5074680eb454b61b29110db4ce14baad",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lheduc.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lheduc.jpg",
+      "status": "downloaded_decoded",
+      "width": 198,
+      "height": 488,
+      "bytes": 27727,
+      "sha256": "7cbe75021ff61d1cb31755de6b20b4c11806c6efe56a7fc444357de37729ae32",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete related institutional insignia; excluded from the formal award family variants.",
+      "classification": "related_not_formal_award_variant"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhgc.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhgc.jpg",
+      "status": "downloaded_decoded",
+      "width": 498,
+      "height": 478,
+      "bytes": 21465,
+      "sha256": "ada9f233f66cb4e3bedfb4ba3cc99985b904a06ee8072ac8ff309c037213ae98",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhmjar.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhmjar.jpg",
+      "status": "downloaded_decoded",
+      "width": 344,
+      "height": 408,
+      "bytes": 33478,
+      "sha256": "1a4a2985edf0c0d151799fafb96e2928ef43a61dfbaf0a06e6b6ab9c383f73aa",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak2emp1.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak2emp1.jpg",
+      "status": "downloaded_decoded",
+      "width": 427,
+      "height": 416,
+      "bytes": 53904,
+      "sha256": "29329e324f02fb7770f0f5b7d854f7a9d7b2e1ba736628ec2197ec1ad0a3945b",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak2rep.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak2rep.jpg",
+      "status": "downloaded_decoded",
+      "width": 425,
+      "height": 412,
+      "bytes": 41490,
+      "sha256": "9d7e2c4a186224e8728d880c25e76ad213b9a2891870a90b5b4cbb376fb7c8ca",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplak3repgc.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak3repgc.jpg",
+      "status": "downloaded_decoded",
+      "width": 500,
+      "height": 484,
+      "bytes": 97236,
+      "sha256": "e48f4a96230f2e1e0e8463a4f7c37a1b00d99a2602dd9011a1ef3a1ce90f2f6a",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplakgabrod1.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplakgabrod1.jpg",
+      "status": "downloaded_decoded",
+      "width": 426,
+      "height": 412,
+      "bytes": 44340,
+      "sha256": "4285bf47dd3cded7da57447b1da62137c9bab901c655d91f96d0867195bda9a6",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplakgc.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplakgc.jpg",
+      "status": "downloaded_decoded",
+      "width": 432,
+      "height": 408,
+      "bytes": 32476,
+      "sha256": "0b810e0e32a350befc9ed7c8136ec74e3c02111d52ef83abd7beadece03dd77e",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/lhplaklp.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/lhplaklp.jpg",
+      "status": "downloaded_decoded",
+      "width": 414,
+      "height": 398,
+      "bytes": 39647,
+      "sha256": "4d413e4ab92a53db038e9083920c1363934689328ddad6df2578069d5693cee4",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Complete award body or complete paired/set view in the source image; no search thumbnail or screenshot.",
+      "classification": "formal_award"
+    },
+    {
+      "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/napoleongerard.jpg",
+      "local_path": "sources/cache/france_samlhoc_legion_honour/images/napoleongerard.jpg",
+      "status": "downloaded_decoded",
+      "width": 299,
+      "height": 428,
+      "bytes": 24613,
+      "sha256": "d51ea39ea8ddef266349c880d1cb317ca6ac65a5a784fbb978e0e79be2c99ca4",
+      "publication_eligible": false,
+      "visually_reviewed": true,
+      "visual_result": "Not an award-object image; excluded.",
+      "classification": "context_only"
+    }
+  ],
+  "rights": "SAMLHOC legal notice reserves reproduction/adaptation rights; all downloaded media remain internal research evidence pending a separate reusable source.",
+  "next_checkpoint": "The 32-page direct-child directory and 21 images are complete and cached. Normalize deeper official-text sibling pages separately; seek open-licence substitutes for the 18 formal award views.",
+  "visual_review_summary": {
+    "reviewed_images": 21,
+    "formal_award_images": 18,
+    "related_insignia_images": 1,
+    "contextual_or_nonobject_images": 2,
+    "html_eligible": 0
+  }
+}

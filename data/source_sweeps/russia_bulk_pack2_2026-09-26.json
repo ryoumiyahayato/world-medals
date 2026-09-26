@@ -1,0 +1,67 @@
+{
+  "as_of": "2026-09-26",
+  "sweep_id": "russia_bulk_pack2_2026-09-26",
+  "scope": "Commons两个苏联劳动奖章分类的直接可见文件页；没有扩扫其他国家／时期来源。",
+  "source_units": [
+    {
+      "source_id": "commons_category_for_labour_valour",
+      "category_url": "https://commons.wikimedia.org/wiki/Category:Medal_%22For_Labour_Valour%22",
+      "category_cache": "sources/pages/russia_normalization_pack2/commons_category_labour_valour.html",
+      "planned_direct_file_pages": 13,
+      "fetched_direct_file_pages": 13,
+      "status": "completed_direct_category_listing_and_file_page_fetch"
+    },
+    {
+      "source_id": "commons_category_for_distinguished_labour",
+      "category_url": "https://commons.wikimedia.org/wiki/Category:Medal_%22For_Distinguished_Labour%22",
+      "category_cache": "sources/pages/russia_normalization_pack2/commons_category_distinguished_labour.html",
+      "planned_direct_file_pages": 12,
+      "fetched_direct_file_pages": 12,
+      "status": "completed_direct_category_listing_and_file_page_fetch"
+    }
+  ],
+  "counts": {
+    "planned_source_categories": 2,
+    "completed_source_categories": 2,
+    "partial_source_categories": 0,
+    "blocked_source_categories": 0,
+    "not_started_source_categories": 0,
+    "direct_file_pages_planned": 25,
+    "direct_file_pages_fetched": 25,
+    "downloaded_selected_original_images": 2
+  },
+  "direct_file_pages": [
+    {"category": "labour_valour", "file_title": "Kadiev-medal-td.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_01.html", "disposition": "false_positive_quarantined", "note": "页面说明为1970年列宁百年纪念章相关奖状／证书图，而非本奖章章体。"},
+    {"category": "labour_valour", "file_title": "SU Medal For Labour Valour ribbon.svg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_02.html", "disposition": "excluded_ribbon_only"},
+    {"category": "labour_valour", "file_title": "Medal For Labour Valour Current.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_03.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须逐页复核其原始图、图像性质及与具体版型的对应。"},
+    {"category": "labour_valour", "file_title": "Medal trudovoj doblest.png", "cache": "sources/pages/russia_normalization_pack2/labour_valour_04.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须逐页复核其原始图、图像性质及与具体版型的对应。"},
+    {"category": "labour_valour", "file_title": "Medalla de ls Treballadors Distingits.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_05.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；多语言分类收录不自动证明对应本family或具体型式。"},
+    {"category": "labour_valour", "file_title": "Outstanding achievements labor.png", "cache": "sources/pages/russia_normalization_pack2/labour_valour_06.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须进一步核实对象、图像性质与版型。"},
+    {"category": "labour_valour", "file_title": "Soviet Medal For Labour Valour OBVERSE.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_07.html", "disposition": "selected_primary_front_image", "local_image": "assets/raw/russia_normalization_pack2/ussr-medal-for-labour-valour-obverse.jpg"},
+    {"category": "labour_valour", "file_title": "Soviet Medal For Labour Valour REVERSE.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_08.html", "disposition": "quarantine_unpaired_reverse", "note": "作为反面候选留存；没有同件配对证据，本包不配图。"},
+    {"category": "labour_valour", "file_title": "Stamp of USSR 1058.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_09.html", "disposition": "excluded_postage_stamp"},
+    {"category": "labour_valour", "file_title": "Stamp of USSR 1066.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_10.html", "disposition": "excluded_postage_stamp"},
+    {"category": "labour_valour", "file_title": "TDb01733.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_11.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须核实实物对象、来源许可和版型。"},
+    {"category": "labour_valour", "file_title": "TDb01733R.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_12.html", "disposition": "quarantine_pairing_unverified", "note": "疑似反面或另一视图；与TDb01733.jpg及具体实物关系未完成核验。"},
+    {"category": "labour_valour", "file_title": "Медаль За трудову доблесть.jpg", "cache": "sources/pages/russia_normalization_pack2/labour_valour_13.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须复核原图及与俄文family、具体版型的关系。"},
+    {"category": "distinguished_labour", "file_title": "SU Medal For Distinguished Labour ribbon.svg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_01.html", "disposition": "excluded_ribbon_only"},
+    {"category": "distinguished_labour", "file_title": "DistinguishedLabourRibbon.png", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_02.html", "disposition": "excluded_ribbon_only"},
+    {"category": "distinguished_labour", "file_title": "Medal For Distinguished Labour.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_03.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；须逐页核验图片完整度及确切型式。"},
+    {"category": "distinguished_labour", "file_title": "Medalla de la Distinció Laboral.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_04.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；多语言分类收录不自动证明对应具体型式。"},
+    {"category": "distinguished_labour", "file_title": "Soviet Medal For Distinguished Labour OBVERSE.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_05.html", "disposition": "quarantine_not_selected", "note": "完整性／清晰度不足以优先于本批选定照片；保留来源页待复核。"},
+    {"category": "distinguished_labour", "file_title": "Soviet Medal For Distinguished Labour REVERSE.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_06.html", "disposition": "quarantine_unpaired_reverse", "note": "作为反面候选留存；没有同件配对证据，本包不配图。"},
+    {"category": "distinguished_labour", "file_title": "Stamp of USSR 1059.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_07.html", "disposition": "excluded_postage_stamp"},
+    {"category": "distinguished_labour", "file_title": "Stamp of USSR 1067.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_08.html", "disposition": "excluded_postage_stamp"},
+    {"category": "distinguished_labour", "file_title": "TOt00752.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_09.html", "disposition": "quarantine_not_selected", "note": "未在本批纳入；需核验对象描述、图像完整度、许可及型式。"},
+    {"category": "distinguished_labour", "file_title": "TOt00752R.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_10.html", "disposition": "quarantine_pairing_unverified", "note": "疑似反面或另一视图；与TOt00752.jpg及具体实物关系未完成核验。"},
+    {"category": "distinguished_labour", "file_title": "За трудовое отличие аверс.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_11.html", "disposition": "selected_primary_front_image", "local_image": "assets/raw/russia_normalization_pack2/ussr-medal-for-distinguished-labour-obverse.jpg"},
+    {"category": "distinguished_labour", "file_title": "За трудовое отличие реверс.jpg", "cache": "sources/pages/russia_normalization_pack2/distinguished_labour_12.html", "disposition": "quarantine_unpaired_reverse", "note": "作者和拍摄时间接近，但未找到足以证明与所选正面为同一实物的编号或说明；不配图。"}
+  ],
+  "false_positive_or_conflict_count": 1,
+  "conflicts": [],
+  "notes": [
+    "直接分类页共列出并抓取25个文件对象页：劳动英勇13页，劳动优秀12页；不等同于已递归耗尽Commons全部子分类或整个平台。",
+    "历史俄国文献目录两条法令记录通过网页访问核读题名、颁布主体及1938-12-27日期；本地直接下载因SSL失败，原件未缓存。",
+    "类别范围来源完成数为2/2；俄罗斯source matrix所列全局来源系统状态未在本批修改。"
+  ]
+}

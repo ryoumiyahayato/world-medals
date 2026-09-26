@@ -1,0 +1,122 @@
+{
+  "as_of": "2026-09-26",
+  "batch_id": "mena_gap_round1_2026-09-26",
+  "scope": "已收录西亚／北非国家补漏；埃及",
+  "source_plan": {
+    "planned_sources": 1,
+    "completed_sources": 1,
+    "partial_sources": 0,
+    "blocked_sources": 0,
+    "not_started_sources": 0
+  },
+  "source_completion": {
+    "system": "Wawards Egypt",
+    "boundary": "已读完本地缓存中的50条埃及目录候选，逐条解析对象页锚点图片与授予说明",
+    "raw_rows_reviewed": 50,
+    "selected_rows": 34,
+    "excluded_rows": 16
+  },
+  "counts": {
+    "new_independent_families": 34,
+    "new_variants": 34,
+    "complete_local_images": 34,
+    "unresolved_or_excluded_candidates": 16
+  },
+  "validation": {
+    "decode_failures": 0,
+    "zero_byte_files": 0,
+    "duplicate_hash_with_existing": 0,
+    "duplicate_hash_within_batch": 0,
+    "image_dimensions": "全部已解码；来源图均为600×600；完整轮廓可见；低清参考"
+  },
+  "excluded_candidates": [
+    {
+      "title": "Collar of Fuad I",
+      "source_id": "wawards-egypt-aae3ccbf98f521e55958",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of Ismail",
+      "source_id": "wawards-egypt-48b1cea7d55552c3f1d7",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of Muhammad Ali",
+      "source_id": "wawards-egypt-86c6cf1d714e3eb2bf6d",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of the Nile",
+      "source_id": "wawards-egypt-7e72a62dbd79d37ef4d1",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of the Virtues",
+      "source_id": "wawards-egypt-e3dec46128c8cc545d52",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Palestine Medal",
+      "source_id": "wawards-egypt-d5a9db598f0caa87651d",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Collar of the Nile",
+      "source_id": "wawards-egypt-9157b2d0b1639e57bf3b",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Liberation Medal",
+      "source_id": "wawards-egypt-3b753436a9edf22c6741",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Liberation Order",
+      "source_id": "wawards-egypt-ee315c13712641a99016",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Medal of Merit",
+      "source_id": "wawards-egypt-b5f7d95af7c8a79c25d5",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of Independence",
+      "source_id": "wawards-egypt-0565b6e030d3891e2fb3",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of Merit",
+      "source_id": "wawards-egypt-e3b95bb61b359bfba776",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of the Nile",
+      "source_id": "wawards-egypt-40cc97ea9f8bf7f03616",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of the Republic",
+      "source_id": "wawards-egypt-56feaa87fd422b96e9dd",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Order of the Virtues",
+      "source_id": "wawards-egypt-e7883a088dde78facbc9",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    },
+    {
+      "title": "Palestine Medal",
+      "source_id": "wawards-egypt-bdf2be648727abf3c6ed",
+      "reason": "已有正文同一章种、或本批先保留为差集候选；未重复纳入"
+    }
+  ],
+  "files": {
+    "volume": "data/volumes/mena_gap_round1_2026-09-26.json",
+    "manifest": "data/volumes/mena_gap_round1_manifest_2026-09-26.json",
+    "sources": "data/volumes/mena_gap_round1_sources_2026-09-26.json",
+    "image_dir": "assets/images/mena_gap_round1_2026-09-26",
+    "raw_input": "data/raw_candidates/wawards_egypt.jsonl"
+  },
+  "next_batch": "继续审查苏丹目录差集、埃及官方文本所列但缺对象图的项目，以及奥斯曼／土耳其已收录卷的未绑定正式奖励。"
+}

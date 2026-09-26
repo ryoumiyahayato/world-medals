@@ -1,0 +1,403 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "ordering": "priority, partial before new where operationally useful",
+  "items": [
+    {
+      "source_id": "bogazici_ottoman",
+      "source_name": "Boğaziçi University Digital Archive supplied record",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "medalbook_sudan",
+      "source_name": "MedalBook Sudan catalogue",
+      "scope_ids": [
+        "sudan"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://www.medalbook.com/africa-north/sudan-1",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "picryl_ottoman",
+      "source_name": "PICRYL Ottoman medals topic result set",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "spink_ottoman",
+      "source_name": "Spink Ottoman specialist auctions",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "not_started",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "sudan_presidency_medals",
+      "source_name": "Sudan Presidency — Medals and Decorations",
+      "scope_ids": [
+        "sudan"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": "https://www.presidency.gov.sd/medals-decorations",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "turkishculture_ottoman",
+      "source_name": "Turkish Culture Portal Ottoman medals page",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "turkishmedals_campaigns_ottoman",
+      "source_name": "turkishmedals.net Wayback — campaign medals",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "turkishmedals_decorations_ottoman",
+      "source_name": "turkishmedals.net Wayback — decorations",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "wawards_sudan",
+      "source_name": "Wawards Sudan catalogue",
+      "scope_ids": [
+        "sudan"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://wawards.org/en/sudan.html",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "commons_egypt_awards",
+      "source_name": "Wikimedia Commons Egypt orders and medals category tree",
+      "scope_ids": [
+        "egypt"
+      ],
+      "priority": 2,
+      "status": "not_started",
+      "base_url": "https://commons.wikimedia.org/",
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "commons_sudan_awards",
+      "source_name": "Wikimedia Commons Sudan orders and medals category tree",
+      "scope_ids": [
+        "sudan"
+      ],
+      "priority": 2,
+      "status": "blocked",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Sudan",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "egypt_abdeen_medals_museum",
+      "source_name": "Abdeen Palace medals and decorations museum",
+      "scope_ids": [
+        "egypt"
+      ],
+      "priority": 2,
+      "status": "partial",
+      "base_url": "https://www.presidency.eg/en/القصور-الرئاسية/قصر-عابدين/",
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "bayerisches-armeemuseum-official",
+      "source_name": "Bayerisches Armeemuseum official object pages",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "blocked",
+      "base_url": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "dhm-awards-collection",
+      "source_name": "Deutsches Historisches Museum Militaria / Auszeichnungen",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "partial",
+      "base_url": "https://www.dhm.de/archiv/sammlungen/militaria/orden.html",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "dhm-historical-order-catalogue",
+      "source_name": "DHM historical order collection catalogue/history pages",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.dhm.de/archiv/magazine/orden/geschichte_ausbau.htm",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "dhm-lemo-pour-le-merite",
+      "source_name": "DHM LeMO illustrated object page (Prussian reference)",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "partial",
+      "base_url": "https://www.dhm.de/lemo/bestand/objekt/ab2934",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "dhm-militaria-collection",
+      "source_name": "Deutsches Historisches Museum Militaria collection",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "partial",
+      "base_url": "https://www.dhm.de/archiv/sammlungen/militaria/index.html",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "dhm-object-database",
+      "source_name": "DHM expanded object database",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "blocked",
+      "base_url": "https://db.dhm.de",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "FR-CHEMINS-DE-MEMOIRE",
+      "source_name": "Les médailles commémoratives françaises",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.cheminsdememoire.gouv.fr/fr/les-medailles-commemoratives-francaises",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-GALLICA",
+      "source_name": "Gallica / Bibliothèque nationale de France",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://gallica.bnf.fr/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-LEGIFRANCE",
+      "source_name": "Légifrance",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.legifrance.gouv.fr/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-MONNAIE-DE-PARIS",
+      "source_name": "Collections patrimoniales de la Monnaie de Paris",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://collectionspatrimoniales.monnaiedeparis.fr/fr/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-OFFICIAL-CHANCERY-TIMELINE",
+      "source_name": "La France | La grande chancellerie",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.legiondhonneur.fr/fr/la-france-frise",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-PARIS-MUSEES",
+      "source_name": "Paris Musées Collections",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.parismuseescollections.paris.fr/en/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "FR-SAMLHOC-MEDALS-CATALOGUE",
+      "source_name": "SAMLHOC médailles index",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.samlhoc.fr/phaleristique/medailles/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "gsta-prussian-finding-aid",
+      "source_name": "Geheimes Staatsarchiv Preußischer Kulturbesitz finding aid",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "blocked",
+      "base_url": "https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_77/xml/inhalt/GStA_i_ha_rep_77_2_15_3_2.htm",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "jpn-cabinet-honours",
+      "source_name": "内閣府 叙勲・褒章制度/受章者資料",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www8.cao.go.jp/shokun/",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "jpn-kunaicho-shoryobu",
+      "source_name": "宮内庁 宮内公文書館/皇室関連資料",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.kunaicho.go.jp/",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "jpn-ndl-967000",
+      "source_name": "大日本帝国勲章記章誌（平田春行 編）",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "priority": 9,
+      "status": "blocked",
+      "base_url": "https://dl.ndl.go.jp/pid/967000",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "jpn-ndlsearch-and-jacar",
+      "source_name": "国立国会図書館サーチ / JACAR",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://ndlsearch.ndl.go.jp/",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "jpn-rekihaku-digital",
+      "source_name": "国立歴史民俗博物館データベース",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "priority": 9,
+      "status": "not_started",
+      "base_url": "https://www.rekihaku.ac.jp/",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "landesmuseum-wuerttemberg-collection",
+      "source_name": "Landesmuseum Württemberg collection overview",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "blocked",
+      "base_url": "https://www.landesmuseum-stuttgart.de/sammlung/kunst-und-kulturgeschichte/",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "weitze-german-states-index",
+      "source_name": "Helmut Weitze German States pre-1933 index",
+      "scope_ids": [
+        "german_states"
+      ],
+      "priority": 9,
+      "status": "partial",
+      "base_url": "https://www.weitze.com/militaria/Auszeichnungen_deutscher_Staaten_bis_1933.html",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "日本明治第二小包：菊花章頸飾、已登记缺图的明治二十七八年／三十七八年従軍記章",
+  "status": "ready_for_parent_merge",
+  "completed": {
+    "candidate_count": 5,
+    "new_record_count": 3,
+    "new_family_count": 1,
+    "existing_family_view_patch_count": 2,
+    "image_count": 4,
+    "complete_front_count": 3,
+    "paired_same_object_back_count": 1,
+    "decoded_count": 4,
+    "visually_checked_count": 4,
+    "source_entry_count": 10,
+    "public_release_cleared_image_count": 2,
+    "rights_restricted_research_images": 2
+  },
+  "files": {
+    "records": "data/volumes/japan_meiji_round3.json",
+    "manifest": "data/volumes/japan_meiji_round3_manifest.json",
+    "sources": "data/volumes/japan_meiji_round3_sources.json",
+    "candidates": "data/volumes/japan_meiji_round3_candidates.json",
+    "images": "assets/images/japan_meiji/JPN-*-round3 source-specific names",
+    "originals": "originals/japan_meiji_round3/JPN-*"
+  },
+  "validation": {
+    "json_parse": true,
+    "all_manifest_paths_exist": true,
+    "all_original_paths_exist": true,
+    "all_hashes_match_assets": true,
+    "all_hashes_match_originals": true,
+    "all_byte_counts_match": true,
+    "all_views_have_manifest": true,
+    "all_record_source_ids_resolve": true,
+    "image_decoding": "4/4 passed via System.Drawing Image.FromFile",
+    "visual_check": "4/4 viewed individually; complete object fronts confirmed; Met front/back are the same catalogued object",
+    "public_html_or_global_data_modified": false
+  },
+  "unresolved": [
+    "菊花章頸飾尚未取得同一件完整背面或拆件图；国立公文书馆图像页版权限制，暂作研究暂存。",
+    "明治三十七八年従軍記章仅取得丰田市博物馆完整正面（含原盒）且图像再利用许可未明；背面未取得，暂作研究暂存。",
+    "札幌市文化財数据库日清従軍記章对象页明确禁止未经许可转用图像，未下载。",
+    "Commons日俄従軍記章候选原图请求遭429，且上传者自摄文件缺明确馆藏对象出处；未下载、不重试。"
+  ],
+  "next_position": "父任务合并前检查菊花章頸飾与丰田市日俄従軍記章的图像权利；后续优先寻找两者的开放许可完整背面／拆件图。已登记日清、日俄family不重复统计。"
+}

@@ -1,0 +1,90 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "俄罗斯帝国：既有候选查漏包",
+  "records_file": "data/volumes/russian_empire_gap_2026-09-26.json",
+  "image_directory": "assets/images/russian_empire_gap_2026-09-26/",
+  "counts": {
+    "distinct_award_families": 3,
+    "variant_rows": 7,
+    "complete_image_files": 7
+  },
+  "images": [
+    {
+      "view_key": "RUS-IMP-GAP-02-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-02.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Anna_1st_class_badge_star_(Russian_Empire_1908-1910)_-_Tallinn_Museum_of_Orders.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Order_of_Saint_Anna_1st_class_badge_star_%28Russian_Empire_1908-1910%29_-_Tallinn_Museum_of_Orders.jpg/1920px-Order_of_Saint_Anna_1st_class_badge_star_%28Russian_Empire_1908-1910%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 3076,
+      "height": 2110,
+      "sha256": "a7a2602de546f4239b963df15eef7f919f8ed17328a1d4777b0fa0088066a093",
+      "license": "CC BY-SA 4.0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Borodun\" title=\"User:Borodun\">Borodun</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-03-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-03.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Anna_2nd_class_badge_(Russian_Empire_1797-1801)_-_Tallinn_Museum_of_Orders.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Order_of_Saint_Anna_2nd_class_badge_%28Russian_Empire_1797-1801%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "width": 1705,
+      "height": 1485,
+      "sha256": "3e567c99a10f87b54533f83fe5d31522a4069526757d85ff9954319f1e9b5628",
+      "license": "CC BY-SA 4.0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Borodun\" title=\"User:Borodun\">Borodun</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-04-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-04.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_St._Anna,_2nd_class_with_swords_-_National_Museum_of_Finland_-_DSC04031.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Order_of_St._Anna%2C_2nd_class_with_swords_-_National_Museum_of_Finland_-_DSC04031.JPG/1920px-Order_of_St._Anna%2C_2nd_class_with_swords_-_National_Museum_of_Finland_-_DSC04031.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 2698,
+      "height": 3875,
+      "sha256": "651298db2e658c37923c7f1624d20c9da29cde4eb25dee57e2d53bcd668c61fe",
+      "license": "CC0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-05-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-05.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Stanislaus,_1st_class_-_National_Museum_of_Finland_-_DSC04038.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Order_of_Saint_Stanislaus%2C_1st_class_-_National_Museum_of_Finland_-_DSC04038.JPG/1920px-Order_of_Saint_Stanislaus%2C_1st_class_-_National_Museum_of_Finland_-_DSC04038.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 4320,
+      "height": 3240,
+      "sha256": "8ee5b6b8370c9ca1433f90817841a55e33b4737440112063fd5536f1d18e3b3e",
+      "license": "CC0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-06-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-06.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Stanislaus,_2nd_class_with_swords,_1879,_Senator_Hjalmar_Palin_-_National_Museum_of_Finland_-_DSC04032.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Order_of_Saint_Stanislaus%2C_2nd_class_with_swords%2C_1879%2C_Senator_Hjalmar_Palin_-_National_Museum_of_Finland_-_DSC04032.JPG/1920px-Order_of_Saint_Stanislaus%2C_2nd_class_with_swords%2C_1879%2C_Senator_Hjalmar_Palin_-_National_Museum_of_Finland_-_DSC04032.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 2877,
+      "height": 3888,
+      "sha256": "d1641ef80eff6ba748367a6044be8b22dbc96fd4499c37a3d354d6060de69df2",
+      "license": "CC0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-07-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-07.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_St._Vladimir,_2nd_class,_Russia,_1885,_General_Georg_Edvard_Ramsay_-_National_Museum_of_Finland_-_DSC04036.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Order_of_St._Vladimir%2C_2nd_class%2C_Russia%2C_1885%2C_General_Georg_Edvard_Ramsay_-_National_Museum_of_Finland_-_DSC04036.JPG/1920px-Order_of_St._Vladimir%2C_2nd_class%2C_Russia%2C_1885%2C_General_Georg_Edvard_Ramsay_-_National_Museum_of_Finland_-_DSC04036.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 4320,
+      "height": 3240,
+      "sha256": "79fffcf868814d6917bda21384d1847269e3d17d7ec0789ba9c8959e2e9f32b8",
+      "license": "CC0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>"
+    },
+    {
+      "view_key": "RUS-IMP-GAP-08-VIEW",
+      "local_path": "assets/images/russian_empire_gap_2026-09-26/rus-imp-gap-08.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_St._Vladimir,_4th_class,_Russia,_1839,_Herman_Rosenberg_-_National_Museum_of_Finland_-_DSC04034.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Order_of_St._Vladimir%2C_4th_class%2C_Russia%2C_1839%2C_Herman_Rosenberg_-_National_Museum_of_Finland_-_DSC04034.JPG/1920px-Order_of_St._Vladimir%2C_4th_class%2C_Russia%2C_1839%2C_Herman_Rosenberg_-_National_Museum_of_Finland_-_DSC04034.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 3240,
+      "height": 4320,
+      "sha256": "829ff808e63d8145b9e833373d5547d9380194ff6e78e428d023a4ce80443dee",
+      "license": "CC0",
+      "creator": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>"
+    }
+  ]
+}

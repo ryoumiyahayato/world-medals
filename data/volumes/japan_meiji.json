@@ -1,0 +1,222 @@
+{
+  "as_of": "2026-09-25",
+  "issuer": "日本帝国中央政府",
+  "period": "明治时期（1868–1912）",
+  "records": [
+    {
+      "id": "JPN-MEIJI-FORMOSA-EXPEDITION-01",
+      "family": "JPN-MEIJI-FORMOSA-EXPEDITION",
+      "name": "台湾出兵従軍牌（台湾征讨奖牌）",
+      "original": "台湾出兵従軍牌 / Formosa Expedition Medal",
+      "date": "1875年（明治8年）制定；表彰1874年台湾出兵从军者",
+      "variant": "従軍牌；单一版式；Met藏品06.454，银质、白绶绿边；具体等级不适用",
+      "views": [
+        {
+          "key": "JPM-FORMOSA-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-FORMOSA-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-formosa-institution",
+        "jpm-formosa-object",
+        "jpm-formosa-image-front",
+        "jpm-formosa-image-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-RISING-SUN-CLASS1",
+      "family": "JPN-ORDER-RISING-SUN",
+      "name": "旭日章",
+      "original": "旭日章 / Order of the Rising Sun",
+      "date": "1875年（明治8年）制定；图示实物由Met定为19世纪末",
+      "variant": "等级待核；Met藏品06.426a–c含大绶章及副章／星章、钮、略绶组件；背面仅配同一藏品副章背面照",
+      "views": [
+        {
+          "key": "JPM-RISING-SUN-1-FULL",
+          "label": "大绶章整体正面"
+        },
+        {
+          "key": "JPM-RISING-SUN-STAR-F",
+          "label": "副章正面"
+        },
+        {
+          "key": "JPM-RISING-SUN-STAR-B",
+          "label": "副章背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-rising-sun-establishment",
+        "jpm-rising-sun-object",
+        "jpm-rising-sun-image-full",
+        "jpm-rising-sun-image-star-front",
+        "jpm-rising-sun-image-star-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-SACRED-TREASURE-CLASS7",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "name": "瑞宝章",
+      "original": "瑞宝章 / Order of the Sacred Treasure",
+      "date": "1888年（明治21年）制定；图示实物由Met定为19世纪末",
+      "variant": "等级待核；白色三角形绶带、黄条；Met藏品06.442a,b；有同件背面照",
+      "views": [
+        {
+          "key": "JPM-SACRED-TREASURE-7-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-SACRED-TREASURE-7-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-sacred-treasure-establishment",
+        "jpm-sacred-treasure-object",
+        "jpm-sacred-treasure-image-front",
+        "jpm-sacred-treasure-image-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-PRECIOUS-CROWN-PAULOWNIA",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "name": "宝冠章（桐花型）",
+      "original": "宝冠章（桐花） / Order of the Precious Crown, Paulownia",
+      "date": "1888年（明治21年）制定；图示实物由Met定为19世纪末",
+      "variant": "等级待核；绶章与副章同组；Met藏品06.411a,b；仅收录可确认的整体正面图",
+      "views": [
+        {
+          "key": "JPM-PRECIOUS-CROWN-PAULOWNIA-F",
+          "label": "整体正面"
+        }
+      ],
+      "source_ids": [
+        "jpm-precious-crown-establishment",
+        "jpm-precious-crown-object",
+        "jpm-precious-crown-govt-scope",
+        "jpm-precious-crown-image-front"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-GOLDEN-KITE-CLASS7",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "name": "金鵄勋章",
+      "original": "金鵄勲章 / Order of the Golden Kite",
+      "date": "1890年（明治23年）制定；本图为NARA所藏底片于1917–1918年拍摄",
+      "variant": "功七级；完整正面照；NARA题签明确标作第七级；金属与珐琅材质待核；未见背面照",
+      "views": [
+        {
+          "key": "JPM-GOLDEN-KITE-7-F",
+          "label": "正面（1917–1918年档案照片）"
+        }
+      ],
+      "source_ids": [
+        "jpm-golden-kite-establishment",
+        "jpm-golden-kite-nara-record",
+        "jpm-golden-kite-image"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-CONSTITUTION-MEDAL-GOLD",
+      "family": "JPN-MEIJI-CONSTITUTION-PROMULGATION-MEDAL",
+      "name": "大日本帝国宪法发布纪念章",
+      "original": "大日本帝国憲法発布記念章 / Medal Commemorating the Promulgation of the Constitution of the Empire of Japan",
+      "date": "1889年（明治22年）；图示Met实物定为19世纪末",
+      "variant": "金质；等级／授予条件待核；Met藏品06.448；同件配套正背面",
+      "views": [
+        {
+          "key": "JPM-CONSTITUTION-GOLD-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-CONSTITUTION-GOLD-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-constitution-object-u-tokyo",
+        "jpm-constitution-object-met-gold",
+        "jpm-constitution-gold-front",
+        "jpm-constitution-gold-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-CONSTITUTION-MEDAL-SILVER",
+      "family": "JPN-MEIJI-CONSTITUTION-PROMULGATION-MEDAL",
+      "name": "大日本帝国宪法发布纪念章",
+      "original": "大日本帝国憲法発布記念章 / Medal Commemorating the Promulgation of the Constitution of the Empire of Japan",
+      "date": "1889年（明治22年）；图示Met实物定为19世纪末",
+      "variant": "银质；等级／授予条件待核；Met藏品06.449；同件配套正背面",
+      "views": [
+        {
+          "key": "JPM-CONSTITUTION-SILVER-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-CONSTITUTION-SILVER-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-constitution-object-u-tokyo",
+        "jpm-constitution-object-met-silver",
+        "jpm-constitution-silver-front",
+        "jpm-constitution-silver-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-SINO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "family": "JPN-MEIJI-SINO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "name": "明治二十七八年従軍記章",
+      "original": "明治二十七八年従軍記章 / Campaign Medal for the 1894–1895 War",
+      "date": "甲午战争期间（1894–1895）；设立与授予规则待核",
+      "variant": "待补可靠完整实物图；此条仅凭国立公文书馆授付决裁录登记，不以缩略图替代",
+      "views": [],
+      "source_ids": [
+        "jpm-sino-campaign-archives",
+        "jpm-sino-medal-museum-catalogue"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-BOXER-REBELLION-CAMPAIGN-MEDAL",
+      "family": "JPN-MEIJI-BOXER-REBELLION-CAMPAIGN-MEDAL",
+      "name": "明治三十三年従軍記章",
+      "original": "明治三十三年従軍記章 / Meiji 33 Campaign Medal",
+      "date": "1902年（明治35年）勅令第142号规定；纪念1900年清国事变从军",
+      "variant": "Met藏品06.456；青铜质，绿绶白条；正背同件完整图；无等级体系",
+      "views": [
+        {
+          "key": "JPM-BOXER-MEIJI33-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-BOXER-MEIJI33-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpm-boxer-met-object",
+        "jpm-boxer-met-front",
+        "jpm-boxer-met-back",
+        "jpm-boxer-authoritative-register",
+        "jpm-boxer-regulation"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-RUSSO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "family": "JPN-MEIJI-RUSSO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "name": "明治三十七八年従軍記章",
+      "original": "明治三十七八年従軍記章 / Meiji 37–38 Campaign Medal",
+      "date": "1904–1905年日俄战争；该记章条例及授予实务仍需查原始法令",
+      "variant": "有丰田市博物馆实物目录记录；原站完整原图请求失败，待补图",
+      "views": [],
+      "source_ids": [
+        "jpm-russo-object-toyota",
+        "jpm-russo-national-register"
+      ]
+    }
+  ]
+}

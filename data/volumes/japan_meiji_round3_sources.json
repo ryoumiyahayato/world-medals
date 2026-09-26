@@ -1,0 +1,108 @@
+{
+  "jpn-round3-cao-collar-official-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:Collar_of_the_Supreme_Order_of_the_Chrysanthemum.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Collar_of_the_Supreme_Order_of_the_Chrysanthemum.png",
+    "local_path": "assets/images/japan_official_commons_batch1/collar_supreme_order_chrysanthemum.png",
+    "summary": "日本内阁府署名的菊花章頸飾官方参考图；完整显示颈链、中央菊花章、星章和悬挂结构。该图支持頸飾形制，不用于推定具体制作年或受授人。",
+    "artist": "Cabinet Office, Government of Japan（Commons文件页署名）",
+    "license": "CC BY 4.0 / Government of Japan Standard Terms Version 2",
+    "dimensions": [1500, 1950],
+    "bytes": 3941312,
+    "sha256": "61e97f90ef1a7d2de024e1dec7b9fb2a48c857f087af010e79a8bbcf4fb7fc6e",
+    "decoded": true,
+    "visually_checked": true,
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-archives-collar-object": {
+    "page": "https://www.archives.go.jp/exhibition/digital/ayumi/contents5_01/04/",
+    "summary": "国立公文书馆页面题为「大勲位菊花章頸飾・同勲記」，说明昭和3年（1928）西园寺因多年功劳获授大勲位菊花章頸飾；页面提供四张对象/勲记照片。",
+    "excerpt": "昭和3年（1928）、多年の功労がたたえられ、西園寺に大勲位菊花章頸飾が授与されました。",
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-archives-collar-image": {
+    "page": "https://www.archives.go.jp/exhibition/digital/ayumi/contents5_01/04/03.html",
+    "image_url": "https://www.archives.go.jp/exhibition/digital/ayumi/contents5_01/04/img/photo03.png",
+    "local_path": "assets/images/japan_meiji/JPN-CHRYSANTHEMUM-COLLAR-NATIONAL-ARCHIVES-SAIONJI-photo03.png",
+    "summary": "国立公文书馆photo03原始图；打开盒盖后完整显示颈链、中央颈飾及副章正面。不是人物佩戴照，也未以证书图代替章体图。",
+    "artist": "国立公文书馆（摄影者未标）",
+    "license": "页面页脚标注Copyright 2017 National Archives of Japan, All Rights Reserved；未见开放再利用许可",
+    "dimensions": [2000, 1535],
+    "bytes": 4180436,
+    "sha256": "6c9ae6bd84e392d10238326ce73342b6156abca5fafd2f2af93248248a43ba11",
+    "decoded": true,
+    "visually_checked": true,
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sino-national-register": {
+    "page": "https://jpsearch.go.jp/item/najda-7Pjzt8VYTbv0Ug1o00882100",
+    "summary": "日本国立公文书馆Japan Search编目记录「明治二十七、八年従軍記章授付決裁録」，确认该奖章属于国家授付制度；本源不提供可直接使用的对象照片。",
+    "excerpt": "明治２７、８年従軍記章授付決裁録",
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sino-met-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60353",
+    "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/60353",
+    "summary": "Met藏品06.455；日本、明治时期、19世纪末；对象名Medal；介质为green ribbon with white center stripe；Met提供正背原始图并标Public Domain。",
+    "excerpt": "Accession Number: 06.455; Culture: Japan; Period: Meiji period (1868–1912); Date: late 19th century.",
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sino-commons-category": {
+    "page": "https://commons.wikimedia.org/wiki/Category:First_Sino-Japanese_War_Medal",
+    "summary": "Commons类别将Met 06.455的正背文件列入First Sino-Japanese War Medal；用于把Met对象身份与现有日清战争従軍记章family交叉对应，不单独替代Met对象页。",
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sino-image-front": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_455_F.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_455_F.JPG",
+    "local_path": "assets/images/japan_meiji/JPN-MEIJI-SINO-CAMPAIGN-MET-60353-front.jpg",
+    "summary": "Met 06.455原始正面图；奖章、绿白绶、挂扣完整。人工查看确认不是缩略图或裁切预览。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "CC0 1.0（Met Open Access；Commons文件页）",
+    "dimensions": [847, 925],
+    "bytes": 122672,
+    "sha256": "67a1aaf37dd9931f0beb08ffff03b1e3fa35fa912650a3832a143bd586a734cf",
+    "decoded": true,
+    "visually_checked": true,
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sino-image-back": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_455_B.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_455_B.JPG",
+    "local_path": "assets/images/japan_meiji/JPN-MEIJI-SINO-CAMPAIGN-MET-60353-back.jpg",
+    "summary": "Met 06.455同一件原始背面图；完整显示背针、绶带背及奖章背面文字/图案。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "CC0 1.0（Met Open Access；Commons文件页）",
+    "dimensions": [829, 925],
+    "bytes": 120916,
+    "sha256": "d732120952b06926021763b9a6d4c4e079da575ea9804e864dba052d4a7672b5",
+    "decoded": true,
+    "visually_checked": true,
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-russo-toyota-object": {
+    "page": "https://jmapps.ne.jp/toyotacitymuseum/det.html?data_id=13773",
+    "summary": "丰田市博物馆收蔵资料数据库ID 13773，题名明治三十七八年従軍記章；尺寸W35 H80，箱W55 H105 D20；公开解说称为捐赠者曾祖父之物，明治37年参加日露战争。",
+    "excerpt": "寄贈者曽祖父のもの。明治37年日露戦争に従軍。",
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-russo-toyota-image": {
+    "page": "https://jmapps.ne.jp/toyotacitymuseum/det.html?data_id=13773",
+    "image_url": "https://ibmuseum.mapps.ne.jp/files/toyotacitymuseum/media_files/large/5328.jpg?dt=20260926",
+    "local_path": "assets/images/japan_meiji/JPN-MEIJI-RUSSO-CAMPAIGN-TOYOTA-13773-large.jpg",
+    "summary": "丰田市博物馆对象页唯一large图；奖章完整正面与木盒同图，未裁切，未取得背面；已人工查看并确认图中实物对应页面题名。",
+    "artist": "丰田市博物馆（摄影者未标）",
+    "license": "页面未给CC或开放再利用许可；仅研究暂存，不应未经确认进入公开发布包",
+    "dimensions": [1600, 1198],
+    "bytes": 288520,
+    "sha256": "51ddc55a0787be1814056ae5cc67e671747da57007fae6730069e0799dcdc4dd",
+    "decoded": true,
+    "visually_checked": true,
+    "accessed": "2026-09-26"
+  },
+  "jpn-round3-sapporo-rights-blocked": {
+    "page": "https://jmapps.ne.jp/sapporo_bunka/det.html?data_id=2281",
+    "summary": "札幌市文化財数据库也记录日清战争従軍记章并提供对象图，但页面明确禁止文本与图像未经许可转用、转载、加工；未下载，不作为本包图。",
+    "excerpt": "本データベースのテキスト・画像の無断での転用・転載・加工等の行為を固く禁じます。",
+    "accessed": "2026-09-26"
+  }
+}

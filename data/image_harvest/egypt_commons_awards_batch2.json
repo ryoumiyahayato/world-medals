@@ -1,0 +1,91 @@
+{
+  "schema": "world-medals.image_harvest.manifest.v1",
+  "batch_id": "EGYPT-COMMONS-AWARDS-B2-20260926",
+  "as_of": "2026-09-26",
+  "source": "Wikimedia Commons — Egypt awards category tree",
+  "source_manifest": "data/image_harvest/egypt_commons_awards_batch1.json",
+  "scope": "Only the 19 original upload URLs already recorded in batch1 were retried. No category traversal, new search, thumbnail or screenshot substitution was performed.",
+  "retry_policy": {
+    "single_request_at_a_time": true,
+    "max_attempts_per_url": 2,
+    "delay_between_requests_seconds": 4,
+    "stop_condition": "Stop after the source returned HTTP 429 again; do not continue hammering the shared upload host."
+  },
+  "image_audit": {
+    "candidate_urls_inherited": 19,
+    "candidate_urls_attempted_this_batch": 2,
+    "http_requests_this_batch": 3,
+    "original_images_downloaded": 1,
+    "original_images_decoded": 1,
+    "original_images_visually_reviewed": 1,
+    "complete_object_images_confirmed": 0,
+    "diagram_or_non_object_images_reviewed_and_excluded": 1,
+    "rights_cleared_public_images": 0,
+    "local_image_dir": "sources/cache/egypt_commons_awards/harvest/images_batch2/"
+  },
+  "successful_results": [
+    {
+      "candidate_id": "EGY-COMMONS-001",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "EGY - Ordre du Nil - Collier.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:EGY_-_Ordre_du_Nil_-_Collier.png",
+      "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/EGY_-_Ordre_du_Nil_-_Collier.png",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": "downloaded_decoded_visual_reviewed_excluded_from_object_count",
+      "local_path": "sources/cache/egypt_commons_awards/harvest/images_batch2/EGY-COMMONS-001.png",
+      "bytes": 87566,
+      "sha256": "67AB0314447BADF95C4D0E6D8032DB830E0FF1754664D838595880C48C19BC7F",
+      "decoded_dimensions_px": [1920, 528],
+      "visual_review": {
+        "reviewed_with": "local image viewer",
+        "result": "The file decodes and shows a complete, clean vector rendering of the Nile collar/insignia arrangement with ribbon and central star geometry.",
+        "catalogue_decision": "Diagram/vector, not a physical object photograph; do not count as a complete object image or merge into the public catalogue image set."
+      }
+    }
+  ],
+  "rate_limited_or_deferred": [
+    {
+      "candidate_id": "EGY-COMMONS-002",
+      "status": "http_429_rate_limited",
+      "attempts": 2,
+      "local_path": null,
+      "last_http_status": 429,
+      "last_error_utc": "2026-09-26T05:06:42Z",
+      "retry_after_header": null,
+      "note": "The original upload URL returned the Wikimedia Too Many Requests page on both low-frequency attempts; no partial file was retained."
+    },
+    {"candidate_id":"EGY-COMMONS-003","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-004","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-005","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-006","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-007","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-008","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-009","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-010","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-011","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-012","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-013","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-014","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-015","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-016","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-017","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-018","status":"deferred_after_shared_http_429","attempts":0,"local_path":null},
+    {"candidate_id":"EGY-COMMONS-019","status":"deferred_after_shared_http_429","attempts":0,"local_path":null}
+  ],
+  "rate_limit": {
+    "prior_retry_boundary_utc": "2026-09-26T04:58:22Z",
+    "latest_http_status": 429,
+    "latest_error_utc": "2026-09-26T05:06:42Z",
+    "retry_after_header": null,
+    "handling": "Stopped after the second candidate failed again. The downloaded diagram remains cached and is not treated as a formal object image; all other URLs remain pending."
+  },
+  "public_files_modified": [],
+  "next_cursor": {
+    "status": "retry_deferred_original_urls_after_later_source_cooldown",
+    "source_manifest": "data/image_harvest/egypt_commons_awards_batch1.json",
+    "first_unattempted_candidate": "EGY-COMMONS-003",
+    "blocked_candidate": "EGY-COMMONS-002",
+    "reason": "The shared Wikimedia upload host continued to return HTTP 429 at low frequency; resume only with a later cooldown and one URL at a time.",
+    "no_thumbnail_substitution": true
+  }
+}

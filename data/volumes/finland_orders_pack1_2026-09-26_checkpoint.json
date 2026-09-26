@@ -1,0 +1,52 @@
+{
+  "checkpoint_id": "FIN-NATIONAL-ORDERS-P1-20260926",
+  "updated_at": "2026-09-26",
+  "scope": ["Finland national orders", "Denmark/Norway/Iceland source-matrix roll-forward", "Sweden SHM candidate pool review"],
+  "workspace_changes": "Created an independent Finland volume package and copied three validated images to its own image directory. Did not modify public index.html, navigation, styles, or global catalogue.",
+  "source_progress": {
+    "four_country_matrix_records_planned": 12,
+    "completed_exhaustively": 1,
+    "partial": 10,
+    "blocked": 1,
+    "not_started": 0,
+    "completed_source": "Official 2025 Finland orders guide: all 52 PDF pages text-extracted and semantically reviewed; insignia plate pages 12–17 were already rendered and visually checked in the preceding staging batch.",
+    "remaining_boundary": "Finland Commons category trees and Denmark/Norway/Iceland collections remain partial; no claim of complete Nordic coverage."
+  },
+  "package_counts": {
+    "raw_finland_candidates_in_prior_staging": 4,
+    "new_raw_candidates_added": 0,
+    "candidate_rows_promoted_this_batch": 1,
+    "independent_families_in_volume": 3,
+    "new_independent_families_this_batch": 1,
+    "previously_staged_families_revalidated": 2,
+    "variant_rows_in_volume": 3,
+    "new_variant_rows_this_batch": 1,
+    "local_images_present_decoded_and_visually_checked": 3,
+    "specimen_photographs": 2,
+    "official_diagrams": 1,
+    "selected_rows_missing_images": 0,
+    "held_finland_image_files": 2,
+    "unresolved_finland_candidates": 2
+  },
+  "sweden_shm_status": {
+    "candidate_families": 5,
+    "selected_variant_candidates": 15,
+    "local_decoded_images": 0,
+    "ready_variant_rows": 0,
+    "status": "held_by_saved SHM media timeout/technical-issue checkpoint; image endpoint not retried in this task"
+  },
+  "unresolved_or_not_promoted": [
+    "Cross of Liberty First Class with Star: selected museum photograph omits the breast star.",
+    "Cross of Liberty 1st-class diagram: individual file-page license is not cleared in the staged manifest.",
+    "Sweden SHM candidates: no local image bytes in the saved batch; 514 raw records remain unresolved or unreviewed.",
+    "Denmark, Norway and Iceland: official/source leads remain partial; no fully checked, reusable image promoted in this batch."
+  ],
+  "deliverables": [
+    "data/volumes/finland_orders_pack1_2026-09-26.json",
+    "data/volumes/finland_orders_pack1_2026-09-26_manifest.json",
+    "data/volumes/finland_orders_pack1_2026-09-26_sources.json",
+    "data/volumes/finland_orders_pack1_2026-09-26_conflicts.json",
+    "assets/images/finland_orders_pack1_2026-09-26/"
+  ],
+  "next_action": "Continue Finland White Rose/Lion category branches and image variants from eligible cached sources; seek an alternate licensed source for Swedish order objects; advance Denmark/Norway/Iceland official/source-matrix leads. Do not repeat the Commons API request that returned HTTP 429; do not retry SHM media while its saved failure condition remains unresolved."
+}

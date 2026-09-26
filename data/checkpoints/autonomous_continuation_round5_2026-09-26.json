@@ -1,0 +1,35 @@
+{
+  "as_of": "2026-09-26",
+  "round": "autonomous_continuation_round5",
+  "result": "completed_and_merged",
+  "baseline": {"formal_rows": 76, "families": 62, "local_image_views": 107},
+  "current": {"formal_rows": 109, "families": 80, "local_image_views": 145},
+  "added": {
+    "formal_rows": 33,
+    "new_families": 18,
+    "existing_family_new_variants": 15,
+    "local_image_views": 38,
+    "physical_photo_views": 35,
+    "official_or_historical_drawing_views": 3
+  },
+  "by_scope": {
+    "france": {"formal_rows": 15, "families_represented": 10, "image_views": 19},
+    "ottoman": {"formal_rows": 15, "new_families": 5, "existing_family_new_variants": 10, "image_views": 15},
+    "japan": {"formal_rows": 2, "new_families": 2, "image_views": 3, "image_nature": "official_or_historical_design"},
+    "egypt": {"formal_rows": 1, "new_families": 1, "image_views": 1}
+  },
+  "source_coverage": {"planned": 57, "completed": 24, "partial": 8, "blocked": 11, "not_started": 14},
+  "verification": {
+    "site_build": "PASS",
+    "static_validation": "PASS: 109 official rows, 80 families, 151 decoded local images including 6 related-gallery images",
+    "interaction_validation": "PASS",
+    "json_and_jsonl_validation": "PASS: 182 data JSON files; 33 JSONL files / 3872 rows",
+    "new_image_manifest_validation": "PASS: 38 image entries decoded; recorded SHA-256 values matched"
+  },
+  "resume": [
+    "France: recover an uncropped Tonkin image and continue missing Legion of Honour grades.",
+    "Ottoman: bind Künker 299 lot-specific images starting at lot 7107; do not repeat the completed text sweep.",
+    "Egypt: continue the Commons original-file rate-limit checkpoint after EGY-COMMONS-003.",
+    "Japan: continue NDL atlas candidate difference set; do not merge existing_identity_refresh records as new rows."
+  ]
+}

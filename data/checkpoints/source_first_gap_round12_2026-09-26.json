@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-09-26",
+  "batch": "已收录国家补充扫描与用户图谱差集",
+  "method": "SOURCE-FIRST BULK INGESTION",
+  "source_coverage": {
+    "planned_scopes": 6,
+    "completed_scopes": 2,
+    "partial_scopes": 4,
+    "not_started_scopes": 0,
+    "completed": [
+      "Wawards Egypt既有50条候选差集复核",
+      "MedalBook意大利既有5个列表页／343个对象页缓存的下一批归并"
+    ],
+    "partial": [
+      "英国现行勋章线索表及Commons对象页：补8个章种，仍有12个UK MOD缺图候选",
+      "美国NHHC目录：补19个章种，18个复合／错配候选保留",
+      "俄罗斯帝国Commons勋章分类：补3个章种，约100个俄罗斯三时期候选未审查",
+      "德国1933–1945 Commons分类：已缓存25个文件页并补8个本期章种，分类树未递归穷尽"
+    ]
+  },
+  "formal_delta": {
+    "new_families_after_global_dedupe": 90,
+    "new_variant_rows": 132,
+    "new_local_image_views": 176
+  },
+  "section_totals": {
+    "egypt": {"families": 46, "variants": 66, "images": 66},
+    "savoy_italy": {"families": 62, "variants": 101, "images": 179},
+    "united_kingdom": {"families": 57, "variants": 60, "images": 60},
+    "united_states": {"families": 27, "variants": 27, "images": 29},
+    "russian_empire": {"families": 6, "variants": 10, "images": 11},
+    "germany_1933_1945": {"families": 8, "variants": 8, "images": 9}
+  },
+  "editorial_corrections": [
+    "意大利pack5中的毛里齐亚纳军事功绩奖章小型版与pack4同一对象、同一图像，正式构建排除1行和2个重复图。",
+    "德国奥林匹克十字与奖章按同一奖励体系归为一个family，不拆成两个独立章种。",
+    "1939年版铁十字与普鲁士旧版共用PRU-IRONCROSS family，只新增1939版型。",
+    "用户德国1933–1945图谱仅作目录线索，未作为正文低清图。"
+  ],
+  "regression_checks": {
+    "official_rows": 801,
+    "global_families": 529,
+    "main_local_image_paths": 930,
+    "country_period_sections": 41,
+    "reused_image_payloads": 0,
+    "standalone_ribbon_rows": 0,
+    "generic_single_character_search": true,
+    "exclusive_country_filtering": true
+  },
+  "next": [
+    "继续递归德国1933–1945 Commons的民事、军事及服役章子分类，排除资格徽章与袖标。",
+    "逐项识别用户其余3张低清总图的来源和授予主体，再回原目录取得对象图。",
+    "继续意大利144个候选family key、英国12个缺图项、美国18个隔离项和俄罗斯约100个未审查候选。"
+  ]
+}

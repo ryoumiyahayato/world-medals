@@ -1,0 +1,23 @@
+{
+  "source_id": "medalbook_ottoman",
+  "source_name": "MedalBook — Ottoman Empire (1299–1922)",
+  "seed_url": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922",
+  "status": "complete",
+  "planned_index_pages": 6,
+  "processed_index_pages": 6,
+  "index_page_candidate_counts": {
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922": 79,
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922?page=2": 80,
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922?page=3": 80,
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922?page=4": 35,
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/badges-3": 9,
+    "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/insignia-4": 10
+  },
+  "discovered_item_pages": 279,
+  "processed_item_pages": 279,
+  "failed_pages": [],
+  "remaining_pages": 0,
+  "raw_candidate_file": "data/raw_candidates/medalbook_ottoman.jsonl",
+  "cache_directory": "sources/pages/medalbook_ottoman",
+  "completion_rule": "All four award pages, the badge and insignia category pages, and every discovered Ottoman item page were fetched."
+}

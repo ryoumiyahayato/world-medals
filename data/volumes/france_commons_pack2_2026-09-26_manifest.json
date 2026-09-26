@@ -1,0 +1,56 @@
+{
+  "volume": "france_commons_pack2_2026-09-26",
+  "as_of": "2026-09-26",
+  "responsibility_scope": "法国第二帝国／第三共和国；Commons开放文件中的战役纪念章、互助会荣誉奖章、消防员荣誉奖章和荣誉军团明确等级／时期版型",
+  "records_file": "data/volumes/france_commons_pack2_2026-09-26.json",
+  "sources_file": "data/volumes/france_commons_pack2_2026-09-26_sources.json",
+  "candidate_file": "data/volumes/france_commons_pack2_2026-09-26_candidates.json",
+  "checkpoint_file": "data/volumes/france_commons_pack2_2026-09-26_checkpoint.json",
+  "image_directory": "assets/images/france_third_republic_commons_pack2",
+  "original_directory": "originals/france_third_republic_commons_pack2",
+  "counts": {
+    "records": 15,
+    "distinct_families": 10,
+    "formal_new_rows": 15,
+    "records_with_complete_image": 15,
+    "image_files": 19,
+    "paired_views": 4,
+    "single_front_or_object_views": 11,
+    "missing_image_rows": 0,
+    "low_resolution_complete_rows": 5,
+    "research_only_or_excluded_candidates": 2
+  },
+  "excluded_local_files_not_in_images_map": [
+    {"path": "assets/images/france_third_republic_commons_pack2/tonkin-campaign-medal.jpg", "reason": "实际查看后确认章体下缘被文件裁切，未计正式完整图。"},
+    {"path": "assets/images/france_third_republic_commons_pack2/legion-third-republic-grand-cross-star.jpg", "reason": "实际查看后近摄图边缘风险，未在本包保守计入正式行。"}
+  ],
+  "image_quality_and_rights": {
+    "originals_downloaded": true,
+    "files_decoded": true,
+    "files_visually_reviewed": true,
+    "rights": "每一正式图像均对应Commons文件页公开许可：CC BY-SA 3.0/4.0、CC BY 4.0、CC0或文件页标明Public domain；署名与链接保存在sources文件。",
+    "limitations": "低清但完整的1870志愿矿工、Orient、Dardanelles、消防员及互助会金级保留为低清参考；未将其放大插值。"
+  },
+  "images": [
+    {"view_key": "FRA-III-WAR-1870-1871-ENGAGE-VOLONTAIRE-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/war-1870-1871-avers.jpg"},
+    {"view_key": "FRA-III-WAR-1870-1871-ENGAGE-VOLONTAIRE-REVERS", "local_path": "assets/images/france_third_republic_commons_pack2/war-1870-1871-revers.jpg"},
+    {"view_key": "FRA-III-WAR-1870-1871-VOLONTAIRES-MINEURS-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/war-1870-1871-volunteer-miners.jpg"},
+    {"view_key": "FRA-III-GREAT-WAR-1914-1918-RECTO", "local_path": "assets/images/france_third_republic_commons_pack2/great-war-1914-1918-recto.jpg"},
+    {"view_key": "FRA-III-GREAT-WAR-1914-1918-VERSO", "local_path": "assets/images/france_third_republic_commons_pack2/great-war-1914-1918-verso.jpg"},
+    {"view_key": "FRA-III-DAHOMEY-1892-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/dahomey-1892-avers.jpg"},
+    {"view_key": "FRA-III-DAHOMEY-1892-REVERS", "local_path": "assets/images/france_third_republic_commons_pack2/dahomey-1892-revers.jpg"},
+    {"view_key": "FRA-III-CHINA-1900-1901-OBJECT", "local_path": "assets/images/france_third_republic_commons_pack2/china-1900-1901.jpg"},
+    {"view_key": "FRA-III-SYRIE-CILICIE-LEVANT-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/syrie-cilicie-levante-am806865-1.jpg"},
+    {"view_key": "FRA-III-ORIENT-1926-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/orient-1926.jpg"},
+    {"view_key": "FRA-III-DARDANELLES-1926-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/dardanelles-1926.jpg"},
+    {"view_key": "FRA-III-FIREFIGHTERS-1900-1935-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/firefighters-1900-1935.jpg"},
+    {"view_key": "FRA-III-MUTUALITY-BRONZE-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/mutuality-bronze-avers.jpg"},
+    {"view_key": "FRA-III-MUTUALITY-SILVER-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/mutuality-silver-avers.jpg"},
+    {"view_key": "FRA-III-MUTUALITY-SILVER-REVERS", "local_path": "assets/images/france_third_republic_commons_pack2/mutuality-silver-revers.jpg"},
+    {"view_key": "FRA-III-MUTUALITY-GOLD-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/mutuality-gold-avers.jpg"},
+    {"view_key": "FRA-LEGION-HONOUR-SECOND-EMPIRE-CHEVALIER-AVERS", "local_path": "assets/images/france_third_republic_commons_pack2/legion-second-empire-chevalier-1180-5.jpg"},
+    {"view_key": "FRA-LEGION-HONOUR-THIRD-REPUBLIC-GRAND-CROSS-SET", "local_path": "assets/images/france_third_republic_commons_pack2/legion-third-republic-grand-cross-set.jpg"},
+    {"view_key": "FRA-LEGION-HONOUR-THIRD-REPUBLIC-OFFICIER-OBJECT", "local_path": "assets/images/france_third_republic_commons_pack2/legion-third-republic-officier-1870-1940.jpg"}
+  ],
+  "next_checkpoint": "本包15行已完成本地闭环；未修改公共catalogue/index.html。下一包可从Commons剩余开放候选继续，优先处理Tonkin等需替代完整图的候选。"
+}

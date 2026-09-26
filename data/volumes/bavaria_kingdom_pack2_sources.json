@@ -1,0 +1,72 @@
+{
+  "bav-pack2-feldzugs-paris-page": {
+    "page": "https://www.parismuseescollections.paris.fr/fr/musee-jean-moulin/oeuvres/feldzugs-denkzeichen-1866-konigreich-bayern",
+    "source_type": "Paris Musées公共馆藏对象页",
+    "object_id": "Musée de la Libération de Paris – musée du Général Leclerc – musée Jean Moulin, Inv. 2002.2066X",
+    "summary": "对象页题名Feldzugs-Denkzeichen 1866 (Königreich Bayern)，作者匿名，年代1866–1867，青铜，长4cm、宽3.6cm。页面明确说明绶带与另行悬挂环缺失、顶部有环；反面中心铭文1866；两面图样说明和CC0下载入口均可见。",
+    "accessed": "2026-09-26",
+    "institution": "Musée de la Libération de Paris - musée du Général Leclerc - musée Jean Moulin",
+    "license": "CC0 Paris Musées / Musée de la Libération de Paris – musée du Général Leclerc – musée Jean Moulin"
+  },
+  "bav-pack2-feldzugs-paris-iiif": {
+    "page": "https://apicollections.parismusees.paris.fr/iiif/600001497/manifest",
+    "source_type": "Paris Musées IIIF Manifest",
+    "object_id": "600001497; canvas LPDP_203747-5",
+    "summary": "IIIF manifest的canvas为LPDP_203747-5，图像尺寸1889×2160；可下载的4k样式原图实际显示完整青铜十字、顶部环与反面1866铭文。Manifest版权字段为CC0 Paris Musées。",
+    "accessed": "2026-09-26",
+    "image_url": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/LEC/lpdp_203747-5.jpg?itok=_a7XhAq3",
+    "license": "CC0",
+    "downloaded_file": "assets/images/bavaria_kingdom_pack2/feldzugs-denkzeichen-1866-paris-musees.jpg",
+    "original_file": "originals/bavaria_kingdom_pack2/feldzugs-denkzeichen-1866-paris-musees.jpg",
+    "dimensions": [1889, 2160],
+    "image_object_area": "完整青铜十字本体和顶部环在图内；来源实物无绶带及另行悬挂环；照片为反面，1866铭文完整可见",
+    "sha256": "2ec40b9e4b495e1de14c338bba71d05a51afa161ce839a0830b3941dec037548",
+    "visual_check": "2026-09-26实际打开本地原图并确认可解码；四个十字臂、边缘、顶部环、橡叶圈与1866铭文完整"
+  },
+  "bav-pack2-mvo-official-history": {
+    "page": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+    "source_type": "Bayerisches Armeemuseum官方对象说明",
+    "summary": "页面标题为Komturkreuz des bayerischen Militär-Verdienstordens 1866。正文说明Ludwig II于1866年7月19日设立Militär-Verdienstorden，以补充未达到1806年Max-Joseph-Orden严格条件的军事功绩；说明其可授予外国军人和文职人员，并描述MVO中心L字、狮、MERENTI及1866背铭。正文还明确把Militär-Verdienstorden einschließlich Militärverdienstkreuz作为1866战役中巴伐利亚军队常见奖励体系。",
+    "accessed": "2026-09-26",
+    "object_id": "Bayerisches Armeemuseum Inv. N 3165（Komturkreuz页面对象；非本包Commons十字同一实物）"
+  },
+  "bav-pack2-mvkreuz-europeana-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bavarian_Military_Merit_Cross_3rd_Class_with_Crown_and_Swords.jpg",
+    "secondary_page": "http://www.europeana1914-1918.eu/en/contributions/16614",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bavarian_Military_Merit_Cross_3rd_Class_with_Crown_and_Swords.jpg",
+    "source_type": "Commons文件页；Europeana 1914–1918/Age Exchange个人资料图像",
+    "object_id": "Alex Ichenhauser个人战争资料；Age Exchange贡献，经Europeana批量导入；无博物馆馆藏号",
+    "summary": "文件页对象标题明确为Bavarian Military Merit Cross 3rd Class with Crown and Swords；说明Alex Ichenhauser在第14巴伐利亚步兵团服役并于1917/18参加Somme、Flanders、Cambrai，获授该十字；文件页将图像归于Europeana 1914–1918，摄影者Europeana staff photographer，来源资料由Age Exchange贡献。实际图像显示完整十字、皇冠、双剑和顶部环，未见绶带。",
+    "accessed": "2026-09-26",
+    "author": "Europeana staff photographer",
+    "institution": "Age Exchange / Europeana 1914–1918（资料来源；非馆藏号）",
+    "license": "CC BY-SA 3.0；文件页同时标Public Domain Mark 1.0（按文件页保留两项权利说明）",
+    "downloaded_file": "assets/images/bavaria_kingdom_pack2/military-merit-cross-3rd-class-crown-swords.jpg",
+    "original_file": "originals/bavaria_kingdom_pack2/military-merit-cross-3rd-class-crown-swords.jpg",
+    "dimensions": [520, 848],
+    "image_object_area": "完整十字、皇冠、双剑、顶部环和下端均在图内；未见绶带；低清参考",
+    "sha256": "5c7d5b7b803ec6bea1aaad16fd14077e04aa11ce7a542b0e4ecccd89c676ab92",
+    "visual_check": "2026-09-26实际打开本地原图并确认可解码；等级标题对应的皇冠、双剑、十字和顶部环可见，未将相邻资料/证书当作勋章图"
+  },
+  "bav-pack2-army-denkzeichen-blocked": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bayern_Armeedenkzeichen_1866_Vorderseite.jpg",
+    "secondary_page": "https://commons.wikimedia.org/wiki/File:Bayern_Armeedenkzeichen_1866_Rückseite.jpg",
+    "object_page": "https://www.deutsche-digitale-bibliothek.de/item/4BCTTS5LO2PADT3RNPHZAPJQLKZJ6PC7",
+    "source_type": "候选Commons对象页/DDB博物馆对象",
+    "summary": "Commons正背页面给出完整文件名、作者Joachim Specht、Public domain；DDB对象给出DHM馆藏O 56/260、1866年、铜质十字和丝带。当前原图请求返回429，未下载/未收录。",
+    "accessed": "2026-09-26",
+    "download_status": "blocked_by_source_rate_limit_429",
+    "next_step": "使用DDB/DHM允许的图像出口或统一限速后再请求原图，实际查看后单独登记。"
+  },
+  "bav-pack2-mvo-tallinn-blocked": {
+    "pages": [
+      "https://commons.wikimedia.org/wiki/File:Military_Merit_Order_grand_cross_with_swords_badge_(Bavaria)_-_Tallinn_Museum_of_Orders.jpg",
+      "https://commons.wikimedia.org/wiki/File:Military_Merit_Order_grand_cross_with_swords_star_(Bavaria)_-_Tallinn_Museum_of_Orders.jpg"
+    ],
+    "source_type": "Tallinn Museum of Orders公开展陈照片（Commons文件页）",
+    "summary": "文件页分别描述巴伐利亚军事功绩勋章大十字加剑挂章与胸星，来源为Tallinn Museum of Orders展陈，摄影者Borodun，CC BY-SA 4.0；文件页尺寸分别1152×1325和857×854。当前原图请求遭Wikimedia 429，未写入正式图目录。",
+    "accessed": "2026-09-26",
+    "download_status": "blocked_by_source_rate_limit_429",
+    "next_step": "后续按统一限速下载两个原图并实际查看，保留挂章/胸星为同一大十字版型的独立视图，不默认同一件。"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "batch_id": "PRU-B2-20260926",
+  "as_of": "2026-09-26",
+  "status": "saved_for_parent_merge",
+  "input_checkpoint": "data/volumes/prussia_batch1_checkpoint_2026-09-26.json",
+  "completed": [
+    "按首包断点检查黑鹰勋章独立family；DHM目录确认普鲁士目录身份",
+    "取得并人工查看黑鹰勋章挂章正面，章体金属部分完整；绶带上端出画，已在records明示",
+    "取得并人工查看黑鹰勋章1840-1850领链图，但因两端出画排除",
+    "取得并人工查看1897百年纪念章反面，但因缺正面排除",
+    "保存合格原图、排除图、来源、尺寸、字节数和SHA-256；未修改公共文件"
+  ],
+  "new_record_count": 1,
+  "new_independent_family_count": 1,
+  "excluded_count": 2,
+  "not_done": [
+    "黑鹰勋章有馆藏编号的完整全套／背面或完整领链",
+    "一般荣誉奖章的一级／二级及正式主要版型",
+    "杜佩尔十字战斗员／非战斗员／预备队完整实物图",
+    "1897百年纪念章正面或同一件正背配对",
+    "黑鹰文件Commons页面本地快照（本包只保存来源URL，避免重复触发限流）"
+  ],
+  "next_start": {
+    "scope": "PRU-GENERAL-HONOUR",
+    "action": "从已保存目录线索寻找明确馆藏对象页和完整实物正面；若仍只有历史版面或商品缩略图，继续只记候选，不入records",
+    "do_not_repeat": ["PRU-BLACK-EAGLE-BADGE-UNK-01", "PRU-RED-EAGLE-GRAND-1858-01", "PRU-RED-EAGLE-II-STAR-DIAMONDS-1885-01", "PRU-HOHENZOLLERN-KNIGHTS-CROSS-SWORDS-01"]
+  },
+  "files_written_by_this_task": [
+    "data/volumes/prussia_batch2_candidates_2026-09-26.json",
+    "data/volumes/prussia_batch2_2026-09-26.json",
+    "data/volumes/prussia_batch2_manifest_2026-09-26.json",
+    "data/volumes/prussia_batch2_checkpoint_2026-09-26.json",
+    "sources/prussia_batch2_sources_2026-09-26.json",
+    "assets/images/prussia_batch2_black-eagle-badge-ribbon.jpg",
+    "assets/images/prussia_batch2_black-eagle-collar-1840-1850.jpg",
+    "assets/images/prussia_batch2_centenary-medal-1897.jpg",
+    "originals/prussia_batch2_black-eagle-badge-ribbon.jpg",
+    "originals/prussia_batch2_black-eagle-collar-1840-1850.jpg",
+    "originals/prussia_batch2_centenary-medal-1897.jpg"
+  ],
+  "shared_files_not_modified": [
+    "data/catalogue.json",
+    "data/progress.json",
+    "index.html",
+    "assets/site.css",
+    "data/volumes/prussia_kingdom.json",
+    "data/volumes/prussia_kingdom_manifest.json"
+  ]
+}

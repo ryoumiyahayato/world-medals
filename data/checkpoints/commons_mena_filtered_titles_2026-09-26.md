@@ -1,0 +1,1223 @@
+## 乌兹别克斯坦 (127)
+- Medals of Uzbekistan | "Red fighter" medal.jpg | BXSR MK tomonidan taʼsis etilgan "Qizil jangchi" koʻkrak nishoni
+- Orders, decorations and medals of Uzbekistan | 10-year Independent.jpg | Памятный знак 10 летие независимости Узбекистана
+- Orders, decorations and medals of Uzbekistan | 15 let voorujennym silam.jpg | Памятный знак 15 лет вооружённым силам Узбекистана
+- Medals of Uzbekistan | 1941-1945-yillardagi ulug' vatan urushidagi g'alabaning 65 yilligi yubiley medali.jpg | 1941-1945-yillardagi ulug' vatan urushidagi g'alabaning 65 yilligi yubiley medali
+- Orders, decorations and medals of Uzbekistan | 20 let voorujennym silam.jpg | Памятный знак 20 лет вооруженным силам Узбекистана
+- Orders, decorations and medals of Uzbekistan | 25 let nezavisimosti Uzbekistana.jpg | Памятный знак "25 лет независимости Республики Узбекистан
+- Orders, decorations and medals of Uzbekistan | 25 let voorujennym silam.jpg | Памятный знак 25 лет вооружённым силам Республики Узбекистан
+- Orders, decorations and medals of Uzbekistan | 25-let Konstitutsii Uzbekistana.jpg | Памятный знак 25 лет Конституции Узбекистана
+- Medals of Uzbekistan | 70 let pobedy.jpg | Памятная юбилейная медаль 70-летие Победы
+- Medals of Uzbekistan | 70 years Victory Day medal Uzbekistan.jpg | Узбекская медаль «70-летие Победы во Второй мировой войне» (эквивалент юбилейной медали «70 лет Победы в Великой Отечественной войне 1941—1945 гг.»)
+- Orders, decorations and medals of Uzbekistan | DONOR.jpg | нагрудный знак «Почетный донор Республики Узбекистан»
+- Orders, decorations and medals of Uzbekistan | FAXRIY MURABBIY.jpg | Орден «Фахрий мураббий»
+- Orders, decorations and medals of Uzbekistan | GEOLOG.jpg | нагрудный знак «Заслуженный геолог Республики Узбекистан»
+- Orders, decorations and medals of Uzbekistan | GIDROMETEOROLOGIYA ALOCHISI.jpg | нагрудный знак «Отличник гидрометеорологической службы»
+- Orders, decorations and medals of Uzbekistan | Gordost mahalli.jpg | Нагрудный знак «Гордость махалли»
+- Badges of honorary titles of Uzbekistan | Honored Artist of the Republic of Uzbekistan.png | Нагрудный знак к почётному званию «Заслуженный артист Республики Узбекистан».
+- Badges of honorary titles of Uzbekistan | Honored Irrigator of the Republic of Uzbekistan.png | Ўзбекистон хизмат кўрсатган ирригатор Oʻzbekiston xizmat koʻrsatgan irrigator
+- Orders, decorations and medals of Uzbekistan | ILGOR FERMER.jpg | нагрудный знак «Илгор фермер»
+- Orders of Uzbekistan | Imom Buxoriy ordeni tasmasi.png | Imom Buxoriy ordeni tasmasi
+- Orders of Uzbekistan | Imom Buxoriy ordeni.png | Imom Buxoriy ordeni
+- Medals of Uzbekistan | Inson huquqlari himoyasi uchun koʻkrak nishoni orqa tomoni.png | Inson huquqlari himoyasi uchun koʻkrak nishoni orqa tomoni
+- Medals of Uzbekistan | Inson huquqlari himoyasi uchun koʻkrak nishoni.png | Inson huquqlari himoyasi uchun koʻkrak nishoni
+- Orders of Uzbekistan | Jaloliddin Manguberdi ordeni.jpg | Order "Jaloliddin Manguberdi"
+- Medals of Uzbekistan | Jasorat.png | Узбекская медаль Жасорат
+- Orders, decorations and medals of Uzbekistan | KOMMUNAL ALOCHISI.jpg | нагрудный знак «Уй-жой коммунал хизмат кўрсатиш аълочиси»
+- Orders, decorations and medals of Uzbekistan | KUTUBXONA ALOCHISI.jpg | нагрудный знак «Отличник информационной-библиотечной службы»
+- Medals of Uzbekistan | Kelajak bunyodkori medali (old).png | «Kelajak bunyodkori» medalining old tomoni
+- Medals of Uzbekistan | Kelajak bunyodkori medali.png | «Kelajak bunyodkori» medali
+- Medals of Uzbekistan | Kokrak nishon.png | Kokrak nishon
+- Orders, decorations and medals of Uzbekistan | LIDER INNOVATSII.jpg | нагрудный знак «Лидер инновационных идей»
+- Orders, decorations and medals of Uzbekistan | MADANIYAT.jpg | нагрудный знак «Маданият ва санъат фидокори»
+- Orders, decorations and medals of Uzbekistan | MANAVIY ALOCHISI.jpg | нагрудный знак Вооруженных Сил «Маънавий-маърифий ишлар аълочиси»
+- Orders, decorations and medals of Uzbekistan | MANAVIYAT.jpg | нагрудный знак «Манавият фидойиси»
+- Orders, decorations and medals of Uzbekistan | MARD OGLON.jpg | нагрудный знак премии «Мард углон»
+- Orders, decorations and medals of Uzbekistan | MEHR-SAHOVAT.jpg | нагрудный знак «Мехр-саховат»
+- Orders, decorations and medals of Uzbekistan | MEXNATKASH DEXKON.jpg | нагрудный знак «МЕХНАТКАШ ДЕХКОН»
+- Orders of Uzbekistan | Mardlik.jpg | Узбекский орден Mardlik
+- Medals of Uzbekistan | MehrSahovat.jpg | "Mehr-sahovat" ko‘krak nishoni, O‘zbekiston
+- Orders of Uzbekistan | Mekhnat shukhrati.png | Узбекский орден "Мехнат шухрати"
+- Medals of Uzbekistan | Miuz381.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz382.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz383.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz384.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz385.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz386.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz387.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz388.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz389.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz390.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz391.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Miuz392.jpg | Oʻzbekistonning 2001-yil sotuvga chiqarilgan pochta markasi
+- Orders of Uzbekistan | Mutaqillik 10 yilligi.png | 10 years of Uzbekistan Independence
+- Orders, decorations and medals of Uzbekistan | NAMUNALI TOMORQACHI.jpg | нагрудный знак «Намунали томоркачи»
+- Orders, decorations and medals of Uzbekistan | O'zbek Madaniyat Elchisi.png | O'zbek Madaniyat Elchisi
+- Orders of Uzbekistan | Oliy darajali Imom Buxoriy ordeni (zanjirli).png | Oliy darajali Imom Buxoriy ordeni
+- Orders of Uzbekistan | Oliy darajali Imom Buxoriy ordeni.png | Oliy darajali Imom Buxoriy ordeni
+- Orders of Uzbekistan | Orden Jaloliddin Manguberdi.jpg | Орден республики Узбекистан "Жалолиддин Мангуберди"
+- Badges of honorary titles of Uzbekistan | Ozbekiston Respublikasida xizmat korsatgan quruv.png | Ozbekiston Respublikasida xizmat korsatgan quruv
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston Davlat fan arbobi (medali).jpg | Знак Заслуженный деятель науки Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston iftixori unvoni (medali).jpg | Знак к почётному званию «Узбекистон ифтихори»
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston iftixori unvoni (medali).png | Узбекистон ифтихори
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston kommunal, maishiy va savdo sohasida xizmat koʻrsatgan xodim.jpg | Знак Заслуженного работника коммунального хозяйства Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston sanʻat arbobi (medali).jpg | Знак Заслуженного деятеля искусств Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq artisti (medali).jpg | Знак народного артиста Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq baxshi (medali).jpg | Знак Народного бахши Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq hofizi (medali).jpg | Знак Народного хафиза Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq oʻqituvchisi (medali).jpg | Знак Народного учителя Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq rassomi (medali).jpg | Знак Народного художника Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq shoiri (medali).jpg | Знак Народного поэта Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq ustasi.jpg | Знак Народного мастера Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xalq yozuvchisi (medali).jpg | National Writer of Uzbekistan medallion
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan aloqa xodimi.jpg | Знак Заслуженного работника связи Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan artist.jpg | Знак Заслуженного артиста Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan chorvador.jpg | Знак Заслуженного животновода Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan fuqaro aviatsiyasi xodimi.jpg | Знак Заслуженного работника гражданской авиации Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan iqtisodchi.jpg | Ўзбекистон хизмат кўрсатган иқтисодчи Oʻzbekiston xizmat koʻrsatgan iqtisodchi
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan irrigator.jpg | Ўзбекистон хизмат кўрсатган ирригатор Oʻzbekiston xizmat koʻrsatgan irrigator
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan ixtirochi va ratsionalizator.jpg | Знак Заслуженного изобретателя и рационализатора Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan jurnalist.jpg | Знак Заслуженного журналиста Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan madaniyat xodimi.jpg | Знак Заслуженного работника культуры Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan meʼmor.jpg | Знак Заслуженного архитектора Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan paxtakor.jpg | Знак Заслуженного хлопкороба Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan pillachi.jpg | Знак Заслуженного шелковода Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan qishloq xoʻjalik xodimi.jpg | Знак Заслуженного работника сельского хозяйства Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan quruvchi.jpg | Знак Заслуженного строителя Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan sanoat xodimi.jpg | Знак Заслуженного работника промышленности Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan sogʻliqni saqlash xodimi.jpg | Знак Заслуженного работника здравоохранения Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan sport ustozi.jpg | Знак Заслуженного тренера Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan sportchi.jpg | Знак Заслуженного спортсмена Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan transport xodimi.jpg | Знак Заслуженного работника транспорта Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan xalq taʼlimi xodimi.jpg | Знак Заслуженного работника народного образования Узбекистана
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan yoshlar murabbiysi.jpg | Ўзбекистон хизмат кўрсатган ёшлар мураббийси Oʻzbekiston xizmat koʻrsatgan yoshlar murabbiysi
+- Badges of honorary titles of Uzbekistan | Oʻzbekiston xizmat koʻrsatgan yurist.jpg | Знак Заслуженного юриста Узбекистана
+- Medals of Uzbekistan | O‘zbekiston Respublikasi xalq baxshisi.jpg | O‘zbekiston Respublikasi xalq baxshisi
+- Medals of Uzbekistan | O‘zbekiston Respublikasi xalq rassomi.png | O‘zbekiston Respublikasi xalq rassomi
+- Medals of Uzbekistan | O‘zbekiston Respublikasida xizmat ko‘rsatgan fuqaro aviatsiyasi xodimi.png | O‘zbekiston Respublikasida xizmat ko‘rsatgan fuqaro aviatsiyasi xodimi
+- Medals of Uzbekistan | O‘zbekiston Respublikasida xizmat ko‘rsatgan geolog.png | O‘zbekiston Respublikasida xizmat ko‘rsatgan geolog
+- Medals of Uzbekistan | O‘zbekiston Respublikasida xizmat ko‘rsatgan quruvchi.png | O‘zbekiston Respublikasida xizmat ko‘rsatgan quruvchi
+- Orders, decorations and medals of Uzbekistan | PRAVA CHELOVEKA.jpg | нагрудный знак «За защиту прав человека»
+- Orders, decorations and medals of Uzbekistan | PRAVO ALOCHISI.jpg | нагрудный знак «Отличник правовой пропаганды»
+- Badges of honorary titles of Uzbekistan | People Hofiz Uzbekistan.png | Нагрудный знак к почётному званию «Народный хофиз Узбекистана»
+- Badges of honorary titles of Uzbekistan | People's Artist of the Republic of Uzbekistan (visual arts).png | Знак Народного художника Узбекистана
+- Orders, decorations and medals of Uzbekistan | QISHLOQ XOJALIGI FIDOYISI.jpg | нагрудный знак «Ўзбекистон Республикаси қишлоқ хўжалиги фидойиси»
+- Orders, decorations and medals of Uzbekistan | SALOMATLIK 1 ST.jpg | Орден Саломатлик 1 степени
+- Orders, decorations and medals of Uzbekistan | SALOMATLIK 2 ST.png | Орден Саломатлик 2 степени
+- Orders, decorations and medals of Uzbekistan | SOGLOM TURMUSH.jpg | Орден Саломатлик 2 степени
+- Orders of Uzbekistan | Shon sharaf 1kl.png | Узбекский орден "Шон-шараф" 1 степени
+- Orders of Uzbekistan | Shon-Sharaf 2kl.png | Узбекский орден "Шон-шараф" 2 степени
+- Medals of Uzbekistan | Sodiq xizmarlari uchun.jpg | Узбекская медаль Sodiq xizmarlari uchun
+- Orders of Uzbekistan | Sogʻlom avlod uchun ordeni (medali)-1.jpg | Узбекский орден Soglom avlod uchun
+- Medals of Uzbekistan | Tabiat himoyachisi ko‘krak nishoni.png | Tabiat himoyachisi ko‘krak nishoni
+- Medals of Uzbekistan | Toshkent quruvchisi.png | Toshkent quruvchisi medali. 1966-yilgi Toshkent zilzilasida Toshkentni qayta qurish ishlarida ishtirok etgan quruvchilarga topshirilgan medal
+- Orders, decorations and medals of Uzbekistan | URMON FIDOYISI.jpg | нагрудный знак «Ўзбекистон Республикаси ўрмон хўжалиги фидойиси»
+- Orders, decorations and medals of Uzbekistan | UZBEKISTON BELGISI.jpg | нагрудный знак "Знак Узбекистана"
+- Orders, decorations and medals of Uzbekistan | Uz 20 let nezavisimosti.jpg | Памятный знак 20 лет независимости Узбекистана
+- Orders, decorations and medals of Uzbekistan | Veteran truda I stepen.jpg | Нагрудный знак «Ветеран труда» I степени
+- Orders, decorations and medals of Uzbekistan | Veteran truda II stepen.jpg | Нагрудный знак «Ветеран труда» II степени
+- Orders, decorations and medals of Uzbekistan | Veteran truda III stepen.jpg | Нагрудный знак «Ветеран труда» III степени
+- Orders, decorations and medals of Uzbekistan | XALKLAR DUSTLIGI.jpg | нагрудный знак «Дружба народов»
+- Medals of Uzbekistan | Xalq baxshisi.png | Xalq baxshisi
+- Orders, decorations and medals of Uzbekistan | Xalq salomatligi posboni nishoni.png | Xalq salomatligi posboni nishoni
+- Orders, decorations and medals of Uzbekistan | Za vklad v GO.jpg | За вклад в развитие гражданского общества
+- Badges of honorary titles of Uzbekistan | Заслуженный журналист Узбекистана.png | The honorary title is awarded to journalists, editorial boards of newspapers and magazines, television and radio broadcasting, news agencies, publishers, other organizations that h
+- Badges of honorary titles of Uzbekistan | Заслуженный спортсмен Республики Узбекистан.png | Знак к почётному званию «Заслуженный спортсмен Республики Узбекистан»
+- Badges of honorary titles of Uzbekistan | Заслуженный тренер Республики Узбекистан.png | Знак к почётному званию «Заслуженный тренер Республики Узбекистан»
+- Medals of Uzbekistan | Медаль jasorat.jpg | Медаль jasorat фото
+- Medals of Uzbekistan | “Oʻzbekiston Respublikasi mustaqilligining 30 yilligi” ko'krak, esdalik nishoni.jpg | “Oʻzbekiston Respublikasi mustaqilligining 30 yilligi”ko'krak/esdalik nishoni
+
+## 也门 (1)
+- Orders, decorations and medals of Yemen | Orden de la República (Yemen).svg | Placa de la Orden de la República, máxima condecoración de Yemen. Dibujo basado en foto de un condecorado:  [1] .
+
+## 伊拉克 (5)
+- Iraq Commitment Medal | Iraq Commitment Medal.jpg | The proposed medal awarded to service members by Iraq for service within their borders 2003-2011.
+- Military decorations of Iraq | May movemant 1941 medal.jpg | May movement medal (1973 medal given to defenders of the pro-Nazi  Rashid Ali Al-Gaylani coup ).
+- Military decorations of Iraq | انواط الجيش العراقي copy.jpg | list of the military medals in the era befor 2003 in iraq
+- Orders, decorations and medals of Iraq | نوط الشرطة للخدمة الممتازة.jpg | The Police Medal for Excellent Service: It is an old Iraqi medallion that dates back to 1953 at the time of the Iraqi monarchy, and the inscription shows the face of King Faisal II
+- Military decorations of Iraq | نوط حركة 18 تشرين 1963.jpg | من الانواط العسكرية العراقية التي صدرت عام 1963 ومنحت لضباط الجيش العراقي المساهمين في حركة 18 تشرين 1963 ضد عناصر ومليشيات الحرس القومي البعثية.
+
+## 伊朗／波斯 (74)
+- Fadakari Badge | 13990516000299637323127202899376 رونمایی نشان فداکاری دانشگاه افسری امام علی.jpg | رونمایی نشان فداکاری دانشگاه افسری امام علی
+- Fadakari Badge | 1399051613021126220903354 مراسم رونمایی از نشان فداکاری به دانشگاه افسری.jpg | مراسم رونمایی از نشان فداکاری به دانشگاه افسری
+- Fadakari Badge | 1399051613021143420903354 مراسم رونمایی از نشان فداکاری به دانشگاه افسری.jpg | مراسم رونمایی از نشان فداکاری به دانشگاه افسری
+- Orders, decorations and medals of Iran | 1591772416IMG 8370 resize.jpg | ،
+- Fadakari Badge | 1th Anniversary of awarding the Fadakari badge to Imam Ali Military University 06.jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | 1th Anniversary of awarding the Fadakari badge to Imam Ali Military University 07.jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | 1th Anniversary of awarding the Fadakari badge to Imam Ali Military University 13.jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | 1th Anniversary of awarding the Fadakari badge to Imam Ali Military University 16.jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | 1th Anniversary of awarding the Fadakari badge to Imam Ali Military University 18.jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | 3517303 رونمایی از نشان «فداکاری» ارتش.jpg | رونمایی از نشان «فداکاری» ارتش
+- Orders, decorations and medals of Iran | AV medallic 5 Tomans minted under Ahmad shah Qajar, commemorating the 10th anniversary of his reign. Struck in Tehran.jpg | IRAN, Qajars. Ahmad Shah. AH 1327-1344 / AD 1909-1925. AV Medallic 5 Tomans (31mm, 18.02 g, 12h). Commemorating the 10th Anniversary of Reign. Tehran mint. Dated AH 1337 (AD 1918/9
+- Orders, decorations and medals of Iran | Ahmad Shah Qajar 1st Class medal of Jiladat.jpg | مدال جلادت درجه یک احمد شاه
+- Orders, decorations and medals of Iran | Commemorative medal minted on the occcassion of Naser al-Din Shah Qajar's visit to London.jpg | IRAN, Qajars.  Nasir al-Din Shah . AH 1264-1313 / AD 1848-1896. Æ Medal (76.5mm, 249.0 g, 12h). Visit to London. London mint. By A.B. Wyon. Dated 20 June 1873. NASSER - ED - DEEN S
+- Orders, decorations and medals of Iran | Commemorative medal minted on the occcassion of Naser al-Din Shah Qajar's visit to the Arsenal.jpg | IRAN, Qajars. Nasir al-Din Shah. AH 1264-1313 / AD 1848-1896. Restrike AV Medal (36mm, 28.73 g, 12h). Visit of the Shah to the Arsenal. Dated AH 1301 (AD 1883/4). Bust facing sligh
+- Orders, decorations and medals of Iran | Commemorative medal minted on the occcassion of Naser al-Din Shah Qajar's visit to the Paris Mint.jpg;.jpg | IRAN, Qajars. Nasir al-Din Shah. AH 1264-1313 / AD 1848-1896. Æ Medal (41mm, 31.88 g, 12h). Visit to the Paris Mint. Dually dated 1870 and 15 July 1873. AURO ARGENTO ÆRI FLANDO FER
+- Orders, decorations and medals of Iran | Commemoratve gold medal of Bank melli Iran for 50th anniversary of Palavi Dynasty.jpg | یادبود تأسیس بانک ملی ایران بمناسبت پنجاهمین سال شاهنشاهی پهلوی
+- Fadakari Badge | Fadakari badge (cropped).jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Fadakari Badge | Fadakari badge 02 (cropped).jpg | The commemoration ceremony of the anniversary of the awarding of the Fadakari badge, which was presented to Imam Ali University by the Commander-in-Chief, was held on Wednesday mor
+- Orders, decorations and medals of Iran | Farah Pahlavi Nowruz Commemorative Medal 1980.jpg | نشان یادبود نوروز فرح پهلوی با تاریخ خورشیدی
+- Orders, decorations and medals of Iran | IRAN Asain games medal 1974.jpg | The only Asian Games in Iran in 1974
+- Orders, decorations and medals of Iran | IRAN, Qajars. Muzzafar al-Din Shah. AH 1313-1324, AD 1896-1907. AV 5 Tomans Medal.jpg | IRAN, Qajars. Muzzafar al-Din Shah. AH 1313-1324 / AD 1896-1907. AV 5 Tomans Medal (38mm, 13.92 g, 12h). Medal of Valor. Dated AH 1317 (AD 1899/1900). Lion standing left on ornate 
+- Orders, decorations and medals of Iran | Medal 2500 years of the Persian Empire overse AEACollections.jpg | 2,500 year celebration of the Persian Empire medal.
+- Orders, decorations and medals of Iran | Medal 2500 years of the Persian Empire reverse AEACollections.jpg | Medal 2500th anniversary of the Persian Empire, reverse. Private collection
+- Orders, decorations and medals of Iran | Medal for Achievement.jpg | Dr. Salim's medal from the University of Tehran for graduating with his two bachelor's degrees at the top of his class (side 1).
+- Orders, decorations and medals of Iran | Medal of Achievement Other Side.jpg | Dr. Salim's medal from the University of Tehran for graduating with his two bachelor's degrees at the top of his class (side 2).
+- Orders, decorations and medals of Iran | Medal of Sepahy (1st Class) - Imperial Iran.svg | Medal of Sepahy (1st Class)
+- Orders, decorations and medals of Iran | Medal of Sepahy (2nd Class) - Imperial Iran.svg | Medal of Sepah (2nd Class)
+- Orders, decorations and medals of Iran | Medal of Sepahy (3rd Class) - Imperial Iran.svg | Medal of Sepahy (3rd Class)
+- Medal of Honors of Iran | Medal1az6Kharejeh.jpg | مدال درجهٔ اوّل از مرتبه ششم خارجه که بمنزله نشان یاوری است
+- Medal of Honors of Iran | Medal2az7Kharejeh.jpg | مدال دویم از درجه هفتم که بمنزله سلطانی است
+- Orders, decorations and medals of Iran | Mohammad Ali Qajar Jiladat Order 1325.jpg | نشان جلادت محمدعلی شاه نوع خطی؛ 1325
+- Orders, decorations and medals of Iran | Mohammad Ali Qajar Jiladat order 1326.jpg | مدال جلادت محمدعلی شاه قاجار
+- Orders of Iran | Mohammad Reza Pahlavi Order of 20 years Service.jpg | نشان 20 سال خدمت محمدرضا پهلوی
+- Orders, decorations and medals of Iran | Mohammad Shah Qajar 1st Class order of Jiladat.jpg | نشان درجه یک جلادت محمد شاه قاجار
+- Orders, decorations and medals of Iran | Mozaffar Al-Din Qajar Jiladat Bronze Order.jpg | مدال جلادت برنز مظفرالدین شاه؛ 1317
+- Orders, decorations and medals of Iran | Mozaffar al-Din Qajar 1st class Jiladat Order .jpg | نشان درجه جلادت مظفرالدین شاه
+- Orders, decorations and medals of Iran | Mozaffar al-Din Qajar Jiladat order 1317.jpg | نشان درجه دو جلادت مظفرالدین شاه
+- Orders, decorations and medals of Iran | Mozaffar al-Din Qajar Jiladat order.jpg | نشان درجه دو جلادت مظفرالدین شاه؛ 1317
+- Orders, decorations and medals of Iran | Mozaffar al-din Qajar 1st order of Jiladat.jpg | نشان درجه یک جلادت مظفرالدین شاه
+- Orders, decorations and medals of Iran | Naser Al-din Qajar Jiladat Medal 1209.jpg | مدال جلادت ناصرالدین شاه سال 1209
+- Orders of Iran | Naser Al-din Qajar gold Jiladat medal 1301.jpg | نشان درجه یک جلادت ناصرالدین شاه؛ ضرب 1301 هجری
+- Orders, decorations and medals of Iran | Naser al din Qajar 1st order of Jiladat 1311.jpg | نشان درجه یک جلادت ناصرالدین شاه
+- Orders, decorations and medals of Iran | Naser al-Din Qajar 1st Jiladat Order hammered.jpg | نشان درجه یک جلادت چکشی ناصرالدین شاه
+- Orders, decorations and medals of Iran | Naser al-Din Qajar 2nd class jiladat order 1300.png | مدال درجه دو جلادت ناصرالدین شاه
+- Orders, decorations and medals of Iran | Naser al-Din Qajar Jiladat order 3rd class.jpg | مدال درجه سه جلادت ناصرالدین شاه
+- Orders, decorations and medals of Iran | Naser al-din Qajar Jiladat Order 1296.jpg | نشان جلادت ناصرالدین شاه ضرب 1296
+- Orders, decorations and medals of Iran | Naser al-din Qajar Jiladat medal 1273.jpg | نشان جلادت چکشی ناصرالدین شاه؛ ضرب سال 1273
+- Orders, decorations and medals of Iran | Naser al-din Qajar Jiladat order 2nd 1298.jpg | نشان درجه دو جلادت ناصرالدین شاه
+- Orders, decorations and medals of Iran | Naser al-din Qajar jiladat order 1301.jpg | مدال درجه دو جلادت ناصرالدین شاه 1300 هجری
+- Medal of Honors of Iran | Neshan5Kharejeh.jpg | نشان درجهٔ پنجم خارجه بمنزله یاوری دوم است
+- Medal of Honors of Iran | NeshanKhareje1.jpg | نشان درجه اول خارجه بمنزله نشان میرپنجی
+- Medal of Honors of Iran | NeshanKhareje3.jpg | نشان درجه سوم خارجه بمنزله سرتیپی
+- Medal of Honors of Iran | NeshanKhareje4.jpg | نشان درجه چهارم خارجه قاجار
+- Medal of Honors of Iran | NeshanMirpanji1.jpg | نشان درجه اول میرپنجی قاجار
+- Medal of Honors of Iran | NeshanMirpanji2.jpg | نشان درجه دوم میرپنجی قاجار
+- Medal of Honors of Iran | NeshanMirpanji3.jpg | نشان درجه سوم میرپنجی قاجار
+- Medal of Honors of Iran | NeshanShakhs2.jpg | نشان شخص دویم و سردار کل
+- Orders, decorations and medals of Iran | Neshanha.pdf | نشان‌های دولت ایران در زمان ناصرالدین‌شاه
+- Orders of Iran | Orde van Ali Perzie 1880 Gritzner 001.jpg | Order of Ali Iran 1893
+- Orders, decorations and medals of Iran | Order Nezamnameh.jpg | Order Nezamnameh Golestan Palace
+- Orders, decorations and medals of Iran | Order of Azarabadegan.jpg | The Shah awarded the Order to the military soldiers involved in reclaiming Iranian Azerbaijan.
+- Orders of Iran | Order of Independence star IRI.png | Star of the Order of Independence of the Islamic Republic of Iran
+- Orders, decorations and medals of Iran | Order of the Crown of Iran Taj AEA Collections.jpg | Grand Cordon or First Class insignia of the Order of the Taj or Crown of Iran, Pahlavi Era. Part of the Adrià Espineta Arias Collections (AEA Collections).
+- Orders of Iran | Order of the Islamic Republic of Iran AEA.png | Approximate design of the Star of the Order of the Islamic Reublic of Iran
+- Orders of Iran | Pahalvi Order of 20 years service.jpg | نشان 20 سال خدمت محمدرضا شاه
+- Orders, decorations and medals of Iran | Pahlavi in Imam Reza Shrine commemorative Medal 1980.jpg | نشان یادبود محمدرضا پهلوی در حرم حضرت رضا
+- Medal of Honors of Iran | Persio-Aqdas.jpg | 
+- Orders of Iran | Reza Shah Order of Service.jpg | نشان خدمت رضا شاه
+- Orders of Iran | Reza Shah order of Sepah.jpg | نشان سپه در بدو تشکیل
+- Orders, decorations and medals of Iran | Specimen Jioladat order of Naser al-Din Qajar.jpg | نشان نمونه جلادت ناصرالدین شاه
+- Orders of Iran | The orders and decorations of Naser al-Din Shah Qajar, Qajar Iran, circa 1875.jpg | THE ORDERS AND DECORATIONS OF NASIR AL-DIN SHAH QAJAR  QAJAR IRAN, CIRCA 1875   French and Persian manuscript on paper, 42ff. with varying lines of copperplate and black nasta'liq 
+- Orders, decorations and medals of Iran | مدال های طلای دوران شاه.jpg | برخی مدال های طلای دوران محمدرضا پهلوی که به مناسبت های مختلف ضرب شده اند.
+- Orders, decorations and medals of Iran | مدال یادبود دومین نمایشگاه بازرگانی.jpg | مدال طلای دومین نمایشگاه بازرگانی بین الملل آسیائی
+- Orders, decorations and medals of Iran | نشان افتخار.jpg | نشان افتخار جهادگر عرصه فرهنگ و هنر
+
+## 叙利亚 (13)
+- Orders, decorations and medals of Syria | Hero of Syria (blank).png |  Hero of Syria  is a supreme Syrian civil and military award, established by the Presidential decree No 75 of October 20, 1973.
+- Orders, decorations and medals of Syria | Hero of Syria.png |  Hero of Syria  is a supreme Syrian civil and military award, established by the Presidential decree No 75 of October 20, 1973.
+- Orders, decorations and medals of Syria | Medal of 8th March.jpg | Medal of 8th March (Syria)
+- Orders, decorations and medals of Syria | Medal of Training.jpg | Медаль "За подготовку" с оливковой ветвью за повторное награждение (Сирия)
+- Orders of Syria | Order of the Wounded (Syria).jpg | Order of the Wounded (Syria)
+- Orders of Syria | Overcoming (2012 exhibition, Museum of modern history) 62.jpg | Выставка «Преодоление: Русская Церковь и Советская власть» в Государственном центральном музее современной истории России в Москве. 2012
+- Orders of Syria | Syr bravery order.png | Order of Bravery (Syria)
+- Orders, decorations and medals of Syria | Syr-6thoctober-full.png | The "6th of October" medal, received by Syrian soldiers for participation in the Yom Kippur War (or October War) of 1973.
+- Orders, decorations and medals of Syria | Syr-6thoctober-medal.png | The "6th of October" medal, received by Syrian soldiers for participation in the Yom Kippur War (or October War) of 1973.
+- Orders, decorations and medals of Syria | Syria 6th October medal.png | The Syrian 6th of October Medal.
+- Orders, decorations and medals of Syria | Медаль «Боевое содружество» (Сирия).png | Medal «Combat Commonwealth» (Syria)
+- Orders, decorations and medals of Syria | Медаль «За подготовку» (Сирия).png | Медаль "За подготовку" с оливковой ветвью (Сирия)
+- Orders, decorations and medals of Syria | Медаль САР «Боевое содружество».jpg | Медаль САР «Боевое содружество»
+
+## 哈萨克斯坦 (142)
+- Medals of Kazakhstan | -zgiFBCJw2U.jpg | "Ерлігі үшін" медалі
+- Medals of Kazakhstan | 0S8A9369.jpg | Batyr Shapagaty Medal
+- Medals of Kazakhstan | 1000040955-removebg-preview.png | Медаль народного артиста
+- Medals of Kazakhstan | 100ЛЖДК.jpg | Медаль в ознаменование 100-летия железной дороги Казахстана
+- Medals of Kazakhstan | 1а.jpg | Нагрудный знак Администрации Президента Республики Казахстан "За безупречную службу"
+- Badges of Kazakhstan | 50let Aksu.jpg | Jubilee badge "50 Years of the city of Aksu" (Aksu, Pavlodar region, Kazakhstan)
+- Badges of Kazakhstan | Astana Kurmet azamat.png | Нагрудный знак "Почётный гражданин города Астаны"
+- Orders, decorations and medals of Kazakhstan | Awards of Malik Saparov at the Kazakhstan Military History Museum.jpg | Awards of Malik Saparov at the Kazakhstan Military History Museum, Astana
+- Badges of Kazakhstan | Badge Development Healthcare, Kazakhstan.png | Нагрудный знак «За вклад в развитие здравоохранения», Казахстан.
+- Badges of Kazakhstan | Badge Development Science, Kazakhstan.png | Нагрудный знак «За заслуги в развитии науки Республики Казахстан».
+- Medals of Kazakhstan | Döyüş medalları.jpg | Döyüş medalları
+- Badges of Kazakhstan | Ecology Excellence Bagde KZ.jpg | "Excellence in Ecology" Badge
+- Badges of Kazakhstan | Ecology Excellence KZ.jpg | «Excellence in Ecology» Badge
+- Medals of Kazakhstan | Eren Enbegi Ushin 1tip.png | Медаль Республики Казахстан «За трудовое отличие» 1 тип
+- Badges of Kazakhstan | Excellence in Healthcare badge, Kazakhstan.png | Нагрудный знак «Отличник здравоохранения», Казахстан.
+- Medals of Kazakhstan | Excellence state service.jpg | Нагрудный знак Агентства Республики Казахстан по делам государственной службы "Отличник государственной службы"
+- Badges of Kazakhstan | Excellent of Culture, Kazakhstan (badge).png | Нагрудный знак «Отличник культуры», Казахстан.
+- Badges of Kazakhstan | For merits in development of a science.jpg | Breastplate "For merits in development of a science of Republic Kazakhstan"
+- Hero of Kazakhstan | Halyk kaharmany original 1270249959254.jpg | Государственная награда Республики Казахстан - Золотая звезда к званию "Народный герой"
+- Hero of Kazakhstan | Heldenorden van Kazachstan.jpg | Hero of th People of Kazachstan Hero of Labour
+- Medals of Kazakhstan | Hero Work KZ.jpg | The state award of Republic Kazakhstan - the Gold star to a rank " the Hero of Work of Kazakhstan "
+- Hero of Kazakhstan | Hero of Kazakhstan.png | Hero of Kazakhstan
+- Orders of Kazakhstan | Hero of Labour of Kazakhstan (transparent background).png | This image includes elements that have been taken or adapted from this file:
+- Orders of Kazakhstan | Hero of Labour of Kazakhstan icon.jpg | The state award of Republic Kazakhstan - the Gold star to a rank " the Hero of Work of Kazakhstan "
+- Badges of Kazakhstan | Honorable badge "for contribution to city development". Aksu city in Pavlodar Province, Kazakhstan.jpg | Honorable badge "for contribution to city development".  Aksu  city in  Pavlodar Province ,  Kazakhstan .  Estimated since August 2006 in commemoration of the 45-th anniversary of 
+- Badges of Kazakhstan | Honorary Worker of Education of the Republic of Kazakhstan.png | Нагрудный знак «Почётный работник образования Республики Казахстан».
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | Honorary title of the Kazakh SSR.png | Нагрудный знак к почётному званию Казахской ССР.
+- Badges of Kazakhstan | Honored Master of Sports, Kazakhstan (badge).png | Нагрудный знак к спортивному званию «Заслуженный мастер спорта Республики Казахстан».
+- Badges of Kazakhstan | Honored Trainer, Kazakhstan (badge).png | Нагрудный знак к спортивному званию «Заслуженный тренер Республики Казахстан».
+- Badges of Kazakhstan | Honored Worker of Kazakhstan.png | Нагрудный знак к Почётному званию "Заслуженный деятель Казахстана"
+- Badges of Kazakhstan | Ibrayi Altinsarin Znak.jpg | Нагрудный знак "Ибрай Алтынсарин"
+- Badges of Kazakhstan | KZ Excellence in Justice.jpg | Нагрудный знак "Отличник юстиции Республики Казахстан"
+- Medals of Kazakhstan | KZ Excellent financial control system 1kl.png | Нагрудный знак Счётного комитета по контролю за исполнением республиканского бюджета "Отличник системы финансового контроля" 1 степени
+- Medals of Kazakhstan | KZ Excellent financial control system 2kl.png | Нагрудный знак Счётного комитета по контролю за исполнением республиканского бюджета "Отличник системы финансового контроля" 2 степени
+- Badges of Kazakhstan | KZ Excellent kultural.jpg | Нагрудный знак "Отличник культуры"
+- Badges of Kazakhstan | KZ Excellent water transport.png | Нагрудный знак Республики Казахстан «Отличник водного транспорта»
+- Badges of Kazakhstan | KZ For contribution to the development of oil and gas industry.jpg | Нагрудный знак "За вклад в развитие нефтегазовой отрасли" (Казахстан)
+- Badges of Kazakhstan | KZ For contribution to the development of public health.jpg | Нагрудный знак Республики Казахстан «За вклад в развитие здравоохранения»
+- Badges of Kazakhstan | KZ For contribution to the development of public health.png | Нагрудный знак Республики Казахстан «За вклад в развитие здравоохранения»
+- Badges of Kazakhstan | KZ Honorary autofreighter.png | Нагрудный знак Республики Казахстан «Почётный автотранспортник»
+- Badges of Kazakhstan | KZ Honorary aviator.jpg | Нагрудный знак Республики Казахстан «Почётный авиатор»
+- Badges of Kazakhstan | KZ Honorary donor.jpg | Нагрудный знак "Почётный донор" тип 1 и 2
+- Badges of Kazakhstan | KZ Honorary road builder.png | Нагрудный знак Республики Казахстан «Почётный дорожник»
+- Badges of Kazakhstan | KZ Honored Worker of the nuclear industry.jpg | Нагрудный знак "Заслуженный работник атомной отрасли Республики Казахстан"
+- Badges of Kazakhstan | KZ Honored worker of oil and gas sphere.jpg | Нагрудный знак "Заслуженный деятель нефтегазовой сферы" (Казахстан)
+- Badges of Kazakhstan | KZ Master Sport.png | Нагрудный знак "Мастер спорта" Казахстана
+- Medals of Kazakhstan | KZ Med Sirbar 20yehr.jpg | Юбилейная ведомственная медаль «20 лет Службе внешней разведки Республики Казахстан»
+- Medals of Kazakhstan | KZ Med Sirbar.jpg | Медаль "За внесённый вклад внешней разведке" (Казахстан)
+- Medals of Kazakhstan | KZ Medal Elbasi Guard 1 kl.jpg | Ведомственная медаль Службы охраны Республики Казахстан "За доблестное обеспечение безопасности Лидера Нации" 1 степени
+- Medals of Kazakhstan | KZ Medal Elbasi Guard 2 kl.jpg | Ведомственная медаль Службы охраны Республики Казахстан "За доблестное обеспечение безопасности Лидера Нации" 2 степени
+- Medals of Kazakhstan | KZ Medal Elbasi Guard 3 kl v1.JPG | Ведомственная медаль Службы охраны Республики Казахстан "За доблестное обеспечение безопасности Лидера Нации" 3 степени (до 2014)
+- Medals of Kazakhstan | KZ Medal Elbasi Guard 3 kl.jpg | Ведомственная медаль Службы охраны Республики Казахстан "За доблестное обеспечение безопасности Лидера Нации" 3 степени
+- Medals of Kazakhstan | KZ Medal custom sluhzba 3.jpg | Медаль "За безупречную службу в таможенных органах" 3 степени (Казахстан)
+- Medals of Kazakhstan | KZ MedalVeteranSluzhbi.jpg | Ведомственная медаль Службы охраны Президента "Ветеран" (Казахстан)
+- Orders of Kazakhstan | KZ Order Labor Glory 1kl.jpg | Государственная награда Республики Казахстан - орден "Трудовая слава" 1 степени
+- Orders of Kazakhstan | KZ Order Labor Glory 2kl.jpg | Государственная награда Республики Казахстан - орден "Трудовая слава" 2 степени
+- Orders of Kazakhstan | KZ Order Labor Glory 3kl.jpg | Государственная награда Республики Казахстан - орден "Трудовая слава" 3 степени
+- Badges of Kazakhstan | KZ Otl fin slughbi.jpg | Нагрудный знак "Отличник финансовой службы"
+- Badges of Kazakhstan | KZ Otl social.jpg | Нагрудный знак "отличник социально-трудовой сферы"
+- Orders of Kazakhstan | KZ PeoplesHero Халық-қаһарманы 20240404 Astana-KazNatMus 301dpi.jpg | People’s Hero of Kazakhstan.
+- Badges of Kazakhstan | KZ Poch arhit.JPG | Нагрудный знак "Почётный архитектор"
+- Badges of Kazakhstan | KZ Poch sport.jpg | Нагрудный знак "Почётный спортивный работник"
+- Badges of Kazakhstan | KZ Poch stroitel.JPG | Нагрудный знак "Почётный строитель"
+- Badges of Kazakhstan | KZ Poch urist.jpg | Нагрудный знак "Почётный работник органов юстиции"
+- Prizes of Kazakhstan | KZ Premium.png | Нагрудный знак лауреата Государственной премии Республики Казахстан
+- Badges of Kazakhstan | KZ SportZaslugi.gif | Нагрудный знак "За заслуги в развитии физкультуры и спорта Казахстана"
+- Badges of Kazakhstan | KZ Statistika uzdegi.png | Нагрудный знак "Отличник статистики Республики Казахстан"
+- Medals of Kazakhstan | KZ medal Erligi ushin.jpg | Медаль "За мужество" (Казахстан)
+- Medals of Kazakhstan | KZ medal Shapagat.jpg | Медаль "Шапагат" (Казахстан)
+- Badges of Kazakhstan | KZ sport award2.jpg | Нагрудный знак "Отличник сферы туризма"
+- Badges of Kazakhstan | KZ sport merit 1.JPG | Нагрудный знак "За вклад в развитие физической культуры и спорта"
+- Badges of Kazakhstan | KZ turism award1.jpeg | Нагрудный знак "За клад в развитие туризма"
+- Badges of Kazakhstan | KZ urist.jpg | Нагрудный знак "За вклад в развитие юстиции"
+- Orders of Kazakhstan | Kazakh Golden Pendant.jpg | "Altyn alka" (Golden Pendant) is a state award of Kazakhstan.  The "Altyn alka" pendant was introduced in 1993. It is awarded to mothers who have given birth to and brought up ten 
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | Kazakh SSR City Soviet Deputy pin (cropped).jpg | pin of a City Soviet Deputy (Member) of the Kazakh SSR, Central State Museum of Kazakhstan, Almaty, July 2025
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | Kazakh SSR City Soviet Deputy pin.jpg | pin of a City Soviet Deputy (Member) of the Kazakh SSR, Central State Museum of Kazakhstan, Almaty, July 2025
+- Badges of Kazakhstan | Kurmetti azamat.jpg | The badge of an "Honorary Citizen of the City of Aksu " (Pavlodar Region, Kazakhstan)
+- Badges of Kazakhstan | Kurmetti azamat1.jpg | The badge of an "Honorary Citizen of the City of Aksu " (Pavlodar Region, Kazakhstan)
+- Badges of Kazakhstan | Kz Honorary Miner.jpg | Нагрудный знак "Почётный горняк"
+- Medals of Kazakhstan | Madal Shapagat 1type.jpeg | Медаль "Шапагат"
+- Medals of Kazakhstan | Medal Turyakulova.jpg |  Медаль имени Назира Тюрякулова 
+- Medals of Kazakhstan | Medal of the work.jpeg | Медаль "Еңбек ардагері"
+- Medals of Kazakhstan | Military Brotherhood Medal.jpg | Military Brotherhood Medal
+- Orders, decorations and medals of Kazakhstan | Muhametjan Ibraev awards and belongings at the Kazakhstan Military History Museum.jpg | Muhametjan Ibraev awards and belongings at the Kazakhstan Military History Museum, Astana
+- Medals of Kazakhstan | Nagradigoskazmed001akaz.jpg | Медаль Республики Казахстан «За отвагу»
+- Orders of Kazakhstan | Order1993.jpg | Ордена и медали Республики Казахстан образца 1993 года.
+- Orders of Kazakhstan | Order1995.jpg | Ордена Доблесть и Дружба образца 1995 года.
+- Orders of Kazakhstan | Order1999.jpg | Ордена и медали Республики Казахстан образца 1999 года.
+- Badges of Kazakhstan | Otl zdrav.png | Нагрудный знак "Отличник здравоохранения Республики Казахстан"
+- Medals of Kazakhstan | PcFd-ubZZ8M.jpg | "Ерен еңбегі үшін" медалі
+- Badges of Kazakhstan | Pilot-cosmonaut of Kazakhstan.png | Нагрудный знак к почётному званию «Лётчик-космонавт Казахстана».
+- Badges of Kazakhstan | Poch En RK 2015.png | Нагрудный знак "Почётный энергетик Республики Казахстан", вариант 2015 года
+- Badges of Kazakhstan | Poch En RK.png | Нагрудный знак "Почётный энергетик Республики Казахстан"
+- Badges of Kazakhstan | Poch svyazist.jpg | Нагрудный знак "Почётный связист"
+- Medals of Kazakhstan | Post-563-1323004467.jpg | Медаль Республики Казахстан «За трудовое отличие» 1 тип с орфографической ошибкой
+- Badges of Kazakhstan | RZ Honorary worker of the chemical sphere.jpg | Нагрудный знак "Почётный работник химической сферы" (Казахстан)
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of literature and art (obverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области литературы и искусства (аверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of literature and art (reverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области литературы и искусства (реверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of literature and art named after Abay (obverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области литературы и искусства имени Абая (аверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of literature and art named after Abay (reverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области литературы и искусства имени Абая (реверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of science and technology named after Al-Farabi (obverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области науки и техники имени аль-Фараби (аверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the field of science and technology named after Al-Farabi (reverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области науки и техники имени аль-Фараби (реверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the humanities named after A. Baitursynuly (obverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области гуманитарных наук имени А. Байтурсынулы (аверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan in the humanities named after A. Baitursynuly (reverse).png | Нагрудный знак лауреата Государственной премии Республики Казахстан в области гуманитарных наук имени А. Байтурсынулы (реверс).
+- Prizes of Kazakhstan | State Prize of the Republic of Kazakhstan.png | Нагрудный знак лауреата Государственной премии Республики Казахстан.
+- Medals of Kazakhstan | T1HXWJBBzGo.jpg | "Жауынгерлік ерлігі үшін" медалі
+- Badges of Kazakhstan | The honourable worker of education.jpg | Breastplate to a rank "the Honourable worker of education of Republic Kazakhstan".
+- Medals of Kazakhstan | Veterans of the special risk department.jpg | Veterans of the special risk department
+- Badges of Kazakhstan | Worker of Culture, Kazakhstan (badge).png | Нагрудный знак «Деятель культуры», Казахстан.
+- Badges of Kazakhstan | Worker of Culture.jpg | Breastplate "Cultural figure of the Republic of Kazakhstan"
+- Badges of Kazakhstan | Ybyrai Altynsarin badge.png | Нагрудный знак «Ибрай Алтынсарин».
+- Badges of Kazakhstan | Za zaslugi.jpg | Lapel badge "For Services to the City" (Aksu, Pavlodar region, Kazakhstan)
+- Badges of Kazakhstan | Zanger 1.jpg | Нагрудный знак "Юрист" 1 класса
+- Badges of Kazakhstan | Zanger 2.jpg | Нагрудный знак "Юрист" 2 класса
+- Badges of Kazakhstan | Zanger 3.jpg | Нагрудный знак "Юрист" 3 класса
+- Badges of Kazakhstan | Zasl En RK 2015.png | Нагрудный знак "Заслуженный энергетик Республики Казахстан", вариант 2015 года
+- Badges of Kazakhstan | Zasl En RK.png | Нагрудный знак "Заслуженный энергетик Республики Казахстан"
+- Orders of Kazakhstan | Znak Presidenta RK.jpg | Знак Президента Республики Казахстан
+- Medals of Kazakhstan | «Астана 20 жыл» мерейтойлық медалі.jpg | «Астана 20 жыл» мерейтойлық медалі
+- Medals of Kazakhstan | «Шымкент қаласының құрметті азаматы» атағы.jpg | «Шымкент қаласының құрметті азаматы» атағы
+- Medals of Kazakhstan | «Құрметті құрылысшы» ведомстволық наградасы және құрмет белгісі.jpg | «Құрметті құрылысшы» ведомстволық наградасы және құрмет белгісі
+- Badges of Kazakhstan | Алма-Ата значок герб.jpg |  Алма-Ата значок герб 
+- Hero of Kazakhstan | Ертаев Халық қаһарманы.JPG | Ертаев Бахытжан Ертаевич. Халык Кахарманы. Генерал-лейтенант
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | За заслуги перед республикой КазССР.png | Заслуженный архитектор КазССР
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | Заслуженный деятель Казахской ССР.png | Заслуженный деятель Казахской ССР
+- Badges of Kazakhstan | Заслуженный деятель Казахстана.jpg | Нагрудный знак к Почётному званию "Заслуженный деятель Казахстана"
+- Hero of Kazakhstan | Звезда Народного героя 1.jpg | Sign "Gold star" ("Fknsy Жулдыз ") to a rank "National hero". A sign on an old sample.
+- Hero of Kazakhstan | Звезда Народного героя.svg | Hero of Kazakhstan
+- Hero of Kazakhstan | Золотая звезда первого типа (до 1998 года).svg | Hero of Kazakhstan (1991-1998)
+- Badges of Kazakhstan | Лётчик-космонавт Казахстана.jpg | Нагрудный знак к Почётному званию "Лётчик-космонавт Казахстана"
+- Badges of Kazakhstan | МСМК КЗ.png | Мастер спорта Казахстана международного класса
+- Badges of Kazakhstan | Медаль "75 лет Павлодарской области".jpg | Medal "75 years of Pavlodar region"
+- Medals of Kazakhstan | Медаль заслуженный артист Казахстана.png | Медаль за труд
+- Medals of Kazakhstan | Награда Бірлік.jpg | Медаль Ассамблеи "Бірлік"
+- Medals of Kazakhstan | Нагрудный знак «Почётный гражданин города Кокшетау».jpg | Нагрудный знак «Почётный гражданин города Кокшетау»
+- Orders of Kazakhstan | Подвеска Алтын алка.jpg | Знак "Золотая подвеска"
+- Orders of Kazakhstan | Подвеска Кумыс алка.jpg | Знак "Серебрянная подвеска"
+- Medals of Kazakhstan | Почетный градостроитель РК.png | Медаль "Почетный градостроитель РК"
+- Badges of honorary titles of the Kazakh Soviet Socialist Republic | Почётный знак КазССР.png | Почётный знак КазССР
+- Medals of Kazakhstan | Серик Сваев - Орден Чести - 2026.jpg | «Орден Чести, которым был награжден композитор Серик Сваев за значительный вклад в культурную историю и творческую деятельность в 2026 году».
+- Badges of Kazakhstan | Усть-Каменогорск значок.jpg | Усть-Каменогорск значок  символический знак города 1970
+- Medals of Kazakhstan | Қазақстан Тәуелсіздігінің 25 жылдығына арналған мерейтойлық медалі.jpg | Қазақстан Тәуелсіздігінің 25 жылдығына арналған мерейтойлық медалі
+
+## 土耳其共和国 (52)
+- Orders, decorations and medals of Turkey | Abbas I Hilmi Pasha met de Orde van het Verheven Portret.jpeg | 
+- Medals of Turkey | Assortment of Ottoman Awards.jpg | Honorary medals and seals of the Star Intelligence Agency
+- Medals of Turkey | Atatürk Evi Konya 82.jpg | girişte soldaki büyük salondaki küçük sergi
+- Medal of Independence (Turkey) | Atatürk in 1925.jpg | Mustafa Kemal Atatürk in 1925
+- Medal of Independence (Turkey) | Atatürk in white tie-original.jpg | The first President of the Republic of Turkey  Mustafa Kemal Atatürk  in a  top hat  and  white tie .
+- Medal of Independence (Turkey) | Atatürk in white tie.jpg | The first President of the Republic of Turkey  Mustafa Kemal Atatürk  in a  top hat  and  white tie 
+- Medal of Independence (Turkey) | Atatürk silindir şapka, frak ve İstiklâl Madalyası ile bir törende, 1925.jpg | Reisicumhur Gazi Mustafa Kemal silindir şapka, frak ve İstiklâl Madalyası ile bir törende, 1925. Arka planda görülen paşalar arasında Ali Sait (Akbaytogan) bulunmaktadır.
+- Medal of Independence (Turkey) | Cemil Ozcaglar Ismet Inonu.jpg | CHP Bolu Milletvekili Cemil Özçağlar (solda) ve Cumhurbaşkanı İsmet İnönü. Ağustos 1939 Bolu. C. Özçağlar'ın ceketinin yakasında İstiklal Madalyası takılı.
+- Medal of Independence (Turkey) | Cemil ozcaglar istiklal madalyası onyuz.jpg | Cemil Özçağlar'a ait kırmızı şeritli İstiklal Madalyası'nın önyüzü.
+- Medal of Independence (Turkey) | Dereli köyü4.JPG | Dereli köyünden İstiklal madalyası sahibi Mehmet Akgün'ün (merhum) İstiklal madalyasını taşıyan oğlu Hacı Abdullah Akgün
+- Medal of Independence (Turkey) | Dereli köyü5.JPG | İstiklal Savaşı Gazisi Mehmet Akgün'ün İstiklal madalyası
+- Medals of Turkey | Distinctive medal of Ottoman army "Military madalya".jpg | Distinctive medal of Ottoman army "Military madalya" belonged to the Army of Islam. Museum of History of Azerbaijan, Baku.
+- Medal of Independence (Turkey) | Gazi1933.jpg | Cumhurbaşkanı Mustafa Kemal Atatürk'ün 29 Ekim 1933'te çekilmiş fotoğrafıdır.
+- Medals of Turkey | Hilaliahmer gümüş madalya.JPG | 
+- Medals of Turkey | Hilaliahmer-madalyası.gif | 
+- Medal of Independence (Turkey) | Insigne Turciae.svg | The coat of arms that won the 1925 contest for a national emblem for Turkey. The Ministry of Education (Maarif Vekili, now Eğitim Bakanlığı) initiated a competition to select a nat
+- Orders of Turkey | Insigne van een Turkse Marinepiloot.jpg | Insigne, niet officieel
+- Medal of Independence (Turkey) | Istiklal madalyası.JPG | İstiklal madalyası,(iki taraflı resmi) madalya kendi koleksiyonumda bulunmaktadır.
+- Medals of Turkey | Istiklal madalyası.gif | Turkish Medal of independence's front and rear photo.
+- Medal of Independence (Turkey) | Istiklal madalyası.jpg | During the Turkish War of Independence, arms and ammunition were transferred to Anatolia through İnebolu. The town was attacked and defended itself with determination, and was hono
+- Medal of Independence (Turkey) | Istiklalmadalyasi.jpg | 
+- Medals of Turkey | Ittifak madalya.gif | 
+- Military awards and decorations of Turkey | Kore savaş madalyası.jpg | kore savaş madalyası
+- Medal of Independence (Turkey) | Mareşal Fevzi Çakmak.jpg | An old photograph of Marshal Fevzi Çakmak from the late 20s or early 30s.
+- Medal of Independence (Turkey) | Mekteb-i Mülkiye-i Fünun-u Şahane4.jpg | Mekteb-i Mülkiye-i Fünun-u Şahane
+- Orders of Turkey | Order of the Merit of Turkey.svg | Знак ордена Заслуг нового типа (с 2013 года)
+- Order of the Republic (Turkey) | Order of the Republic of Turkey.svg | Знак ордена Республики нового типа (с 2013 года)
+- Civil awards and decorations of Turkey | Presidential Culture and Arts Grand Awards of Turkey.svg | Presidential Culture and Arts Grand Awards of Turkey
+- Medal of Independence (Turkey) | Refik Saydam.jpg | Former Prime Minister of the Republic of Turkey  en:Refik Saydam 
+- Order of State Superior Altruism of Republic of Turkey | Republic of Türkiye State Medal of Distinguished Sacrifice (back).svg | Republic of Türkiye State Medal of Distinguished Sacrifice (back)
+- Order of State Superior Altruism of Republic of Turkey | Republic of Türkiye State Medal of Distinguished Sacrifice (front).svg | Republic of Türkiye State Medal of Distinguished Sacrifice (front)
+- Order of State Superior Altruism of Republic of Turkey | Republic of Türkiye State Medal of Distinguished Sacrifice.svg | Republic of Türkiye State Medal of Distinguished Sacrifice
+- Order of the Republic (Turkey) | Rib. Bar of Order of the Republic.png | Ribbon Bar of Order of Republic Medal of Turkey.
+- Medals of Turkey | State Medal of Distinguished Service (Turkey).png | Official Template for State Medal of Distinguished Service (Turkey), published on State Newspaper (Resmi Gazete) (Issue Code : 070888)
+- Medals of Turkey | State Medal of Distinguished Service Template (Back).png | State Medal of Distinguished Service Template (Back)
+- Medals of Turkey | State Medal of Distinguished Service Template (Front).png | State Medal of Distinguished Service Template (Front)
+- Medals of Turkey | State Medal of Distinguished Service Template (Pin).png | State Medal of Distinguished Service Template (Pin)
+- Orders of Turkey | State Medal of Pride of the Republic of Turkey.jpg | State Medal of Pride of the Republic of Turkey
+- Medals of Turkey | TC Cumhuriyet Nişanı.png | TC Cumhuriyet Nişanı
+- Medal of Independence (Turkey) | TC DA aa (21)(2).jpg | Former coat of arms of Turkey (never used)
+- Medals of Turkey | TC Devlet Nişanı.png | TC Devlet Nişanı
+- Medals of Turkey | TC Devlet Övünç Madalyası.png | TC Devlet Övünç Madalyası
+- State Medal of Honour of the Republic of Turkey | TC Devlet Şeref Madalyası.png | TC Devlet Şeref Madalyası
+- Medals of Turkey | TC Liyakat Nişanı.png | TC Liyakat Nişanı
+- Orders of Turkey | TURKISH ARMED FORCES MEDAL OF HONOUR.jpg | De Medaille van Eer van de Turkse Strijdkrachten
+- Medals of Turkey | Turkish Armed Forces Medal of Merit.png | Ribbon of Turkish Armed Forces Medal of Merit
+- Medal of Distinguished Service (Turkey) | VictoryMuseumAfyonkarahisar (13).JPG | Image of Golden Medal of Distinguished Service (Turkey) bestowed to İsmet Pasha (İnönü) by the Commander-in-Chief Mustafa Kemal Pasha (Atatürk) in 1921 for his victory at the Battl
+- Medal of Independence (Turkey) | VictoryMuseumAfyonkarahisar (14).JPG | Image of the Medal of Independence with Red-Green Ribbon (Turkey) bestowed to İsmet Pasha (İnönü) by the Grand National Assembly of Turkey in 1924 (right) and the copy of the orgin
+- Medal of Independence (Turkey) | İstiklal Madalyası - Türk İstiklal Madalyası.png | Türkiye İstiklal Madalyası
+- Medals of Turkey | İstiklal Madalyası.jpg | Medal of Independence
+- Orders, decorations and medals of Turkey | Şefik Aker's medals.jpg | Şefik Aker's medals at the Istanbul Military Museum.
+- Medal of Independence (Turkey) | Мустафа Кемал Ататурк.jpg | Mustafa Kemal Atatürk
+
+## 埃及 (18)
+- Medals of Egypt | (2)وسام الجمهورية من الدرجة الأولى 1977.jpg | وسام الجمهورية من الدرجة الأولى 1977 حصل عليه الدكتور محمد ناجى المحلاوى رئيس جامعة عين شمس
+- Medals of Egypt | CairoRodaKalthumMedals.jpg | Umm Kalthoum Museum, medals of the songstress (Order of Independence of Egypt, Gold medal on Science Day 1964, Medal of the armament week 1955), Roda island, Cairo, Egypt
+- Medals of Egypt | Illustrirte Zeitung (1843) 18 280 1 Ehrenmedaille für Mehemet Ali Vorderseite.PNG |  Muhammad Ali of Egypt  (1769-1849)
+- Medals of Egypt | Illustrirte Zeitung (1843) 18 280 2 Ehrenmedaille für Mehemet Ali Rückseite.PNG | Ehrenmedaille für Mehemet Ali, Rückseite
+- Medals of Egypt | Jamalandkhaled.jpeg |  Gamal Abdel Nasser  et le moukhtar d'Iraq al-Manshiyya, qui se sont rencontrés lors de la bataille de la poche de Falouja.      
+- Medals of Egypt | Medal issued by Gen. Gordon during the Siege of Khartum.png | Medal issued by Gen. Gordon during the Siege of Khartum. These medals were presented in gold, silver or lead to those who served his Government in any unusual way. The medal bears 
+- Medals of Egypt | Médaille en bronze doré du concours international du commerce de Suez.jpg | Médaille en bronze doré du concours international du commerce de Suez. Le premier canal fut commencé par le pharaon Senousret III (1887-1849 BC) et achevé par Séthi Ier et Ramsès I
+- Orders of Egypt | Order of Sciences & Arts (Egypt).jpg | Order of Sciences and Arts
+- Medals of Egypt | Regates Du Caire - Cairo River Club Rowing Medal 1945.jpg | Regates Du Caire - Cairo River Club - Rowing Medal 1945
+- Medals of Egypt | Regates Du Caires - Cairo River Club - Open Fours Rowing Medal - 9th December 1945.jpg | Regates Du Caires - Cairo River Club - Open Fours Rowing Medal - 9th December 1945
+- Medals of Egypt | إبراهيم باشا يقتحم أسوار عكَّا.jpg | Ibrahim Pasha and his army penetrating the mighty walls of Acre. Photo of a Medallion Presented to  Dar Al-Kutub Al-Misryya  Publishing house, by Mahmud Fakhri Pasha.
+- Medals of Egypt | إبراهيم باشا يقود جيشه في معركة قونية.jpg | Ibrahim Pasha leading his Army in the battle of Konya. Photo of a Medallion Presented to Dar Al-Kutub Al-Misryya Publishing house, by Mahmud Fakhri Pasha.
+- Medals of Egypt | اليوبيل الفضى لجامعة عين شمس .jpg | تكريم الدكتور محمد ناجى المحلاوى فى اليوبيل الدهبى لجامعة عين شمس
+- Medals of Egypt | اليوبيل الفضى لجامعة عين شمس.jpg | تكريم الدكتور محمد ناجى المحلاوى فى اليوبيل الدهبى لجامعة عين شمس
+- Medals of Egypt | وسام الاستحقاق من الدرجة الثالثة (1960 ).jpg | وسام الاستحقاق من الدرجة الثالثة 1960  حصل عليه الدكتور محمد ناجى المحلاوى رئيس جامعة عين شمس
+- Medals of Egypt | وسام الاستحقاق من الدرجة الثالثة 1960.jpg | وسام الاستحقاق من الدرجة الثالثة 1960  حصل عليه الدكتور محمد ناجى المحلاوى رئيس جامعة عين شمس
+- Medals of Egypt | وسام الاستحقاق من الدرجة الرابعة (!).jpg | وسام الاستحقاق من الدرجة الرابعة  حصل عليه الدكتور محمد ناجى المحلاوى رئيس جامعة عين شمس
+- Medals of Egypt | وسام الجمهورية من الدرجة الأولى 1977.jpg | وسام الجمهورية من الدرجة الأولى 1977 حصل عليه الدكتور محمد ناجى المحلاوى رئيس جامعة عين شمس
+
+## 奥斯曼帝国 (225)
+- Order of the Medjidie | 1893.აბდულჰამიდ II-ის მიერ იონა მეუნარგიას სულთნ მეჯიდის ორდენით დაჯილდოების სიგელი.jpg | 1893.აბდულჰამიდ II-ის მიერ იონა მეუნარგიას სულთნ მეჯიდის IV ხარისხის ორდენით დაჯილდოების სიგელი
+- Order of Osmanieh | 2. Derece Nişanı Osmanî (yeşil mine).png | 2. Derece Nişanı Osmanî (yeşil mine)
+- Order of the Medjidie | 2. Derece Osmanlı Mecidi Şemse Nişanı.png | 2nd Degree Ottoman Mecidi Şemse Medal
+- Order of the Medjidie | 2016-08-24 D3 3973 Q 3 O BD K1 Musee de l armee KLM MRA K2 Chapelie K3 K4.jpg | Royal Museum of the Armed Forces and of Military History in  Brussels 
+- Order of the Crescent | Admiral Sir Sidney Smith (1764-1840) - Louis-Marie Autissier.jpg | 
+- Order of the Crescent | Admiral Sir Sidney Smith (1764-1840) - Louis-Marie Autissier.png | 
+- Medals of the Ottoman Empire | Amir Nuri as-Shaalan 0001.jpg | Amir Nuri Sha'lan. Long-time leader of the Ruala Bedouins. Despite his exhausting life, he was 103 years old.
+- Order of the Crescent | Aristide Michel Perrot - Collection historique des ordres de chevalerie civils et militaires (1820) pl. XXXV.jpg | 
+- Medals of the Ottoman Empire | Aristide Michel Perrot - Collection historique des ordres de chevalerie civils et militaires (1820) pl. XXXVI.jpg | 
+- Order of the Medjidie | Atatürk ve Redif Müzesi eserler (4).jpg | Kocaeli'nin İzmit ilçesindeki Atatürk ve Redif Müzesinden görünüm.
+- Military decorations of the Ottoman Empire | Atik Girit Madalyası.png |  Atik Girit Madalyası : 36 mm. 24 gr. (gümüş). İhtas Tarihi: H.1285, M.1868. Madalyanın Tuğrasını Hüsrev Efendi, Yazılarını Naif Efendi, Resim ve nakışlarını Mr.Robertson yapmıştır
+- Order of Glory (Ottoman Empire) | Avram Petronijević.jpg | Litography of  Avram Petronijević  (1791-1852), Historical Museum of Serbia
+- Military decorations of the Ottoman Empire | Baschavus, palace usher.jpg | Baschavus, palace usher
+- Military decorations of the Ottoman Empire | Battle of Vienna.Sipahis.jpg | Sipahis at the Battle of Vienna (for articles on "Sipahi, see  de:Sipahi   dk:Spahi   en:Sipahi   fr:Spahi ).
+- Military decorations of the Ottoman Empire | Battle of Vienna.SultanMurads with janissaries.jpg | Chamberlain of Sultan Murad IV with janissaries, Austrian National Library
+- Order of the Medjidie | Berat of Ottoman Empire.jpg | Official document with Sultan's Tughra for awards in Ottoman Empire.
+- Military decorations of the Ottoman Empire | Bosna Madalyası.png | Bosna Madalyası 37 mm. 22.7 gr. (H.1266, M.1849)
+- Order of the Medjidie | Cavelier de Cuverville, Jules Marie Armand de, par Gambier, BNF Gallica.jpg |  Jules Marie Armand de Cavelier de Cuverville  (1834 - 1912), amiral et homme politique français.
+- Military decorations of the Ottoman Empire | Cebeci.jpg | A "cebeci" soldier of Ottoman army.
+- Medals of the Ottoman Empire | Cedid-yemen-madalyası 25 mm.8.6 gr. gümüş H.1310 M.1892.gif | 
+- Military decorations of the Ottoman Empire | Chelenk ls van Nelson.jpg | Chelenk, een Turkse aigrette, zoals Nelson die droeg.
+- Order of the Medjidie | Compiègne - palais, musée du Second Empire 30.jpg | Second Empire museum inside Compiègne palace (Oise, France)
+- Gallipoli Star | De IJzeren Halve Maan van Turkije 1914 - 1918.jpg | IJZEREN HALVE MAAN
+- Order of the Imperial portrait | De Orde van het Verheven Portret Turkije.jpg | Orde van het Verheven Portret Turkije 1848, Detail van het portret.
+- Order of the Medjidie | Decorations - Medals - Foreign - Turkey. Order of the Medjidi, 5th class - NARA - 26433078.jpg |      Scope and content:   Photographer: American Numistatic Co.   
+- Order of the Medjidie | Decorations - Medals - Foreign - Turkish Decorations - NARA - 26433080.jpg |      Scope and content:   Photographer: Bailey, Banks and Biddle, Co.   
+- Orders of the Ottoman Empire | Diamond chelengk of Ottoman Empire.jpg |   Replica of the diamond chelengk. 
+- Order of the Medjidie | Distribution of the Medjidie, After the Battle of Citate.jpg | Distribution of the  Medjidie , After the  Battle of Cetate , 1854
+- Order of Glory (Ottoman Empire) | Drie Ottomaande onderscheidingen rond 1915.jpg | Drie onderscheidingen, illustratie bij een overzicht
+- Military decorations of the Ottoman Empire | Eckarth 1789 11a Ehrenzeichen auf den Turban.jpg |  Privileg. Zittauisches Historisches, Topographisches, Biographisches monathliches Tage-Buch  (Eckarthisches Tagebuch), bei Jacob Friedrich Neumann, Jg. 1789, Textillustration "Ehr
+- Turkish Crimea Medal | Frederick Hammersley medals 2024.jpg | The medals of Frederick Hammersley as displayed at the Royal Army Physical Training Museum in Aldershot in Hampshire
+- Medals of the Ottoman Empire | Galiçya cephesi madl.ve 15.kolordu madalyaları.JPG | 
+- Medals of the Ottoman Empire | Galiçya cephesi madl.ve 15.kolordu madalyaları.gif | 
+- Gallipoli Star | Gallipoli-star-BBen Co..jpg | Turkse onderscheiding
+- Gallipoli Star | Gallipoli-star-german Godet.jpg | 
+- Gallipoli Star | Gallipoli-star-jhwerner.jpg | 
+- Gallipoli Star | Gallipoli-star-ribband.jpg | 
+- Gallipoli Star | Gallipoli-star-turkish.jpg | 
+- Gallipoli Star | Gallipoli-star-unadorned.jpg | Gallipoli Star photographed from Ian Watts collection.
+- Gallipoli Star | Gallipoli-star.jpg | Gallipoli Star photographed from my collection.
+- Liyakat Medal | Gold Liyakat Medal (miniature, obverse).jpg | Ottomański Złoty Medal Walecznych  - miniatura, awers)
+- Liyakat Medal | Gold Liyakat Medal (miniature, reverse).jpg | Ottomański Złoty Medal Walecznych  - miniatura, rewers)
+- Turkish Crimea Medal | Gouden Turkse Sebastapolmedaille 1854.jpg | Gouden Medaille voor de generaals in de Krimoorlog
+- Imtiyaz Medal | Gouden medaille voor dapperheid en IJzeren Halve Rode Maan van Turkije.jpg | twee decoraties
+- Gallipoli Star | Hello Sailor ! Matroos met IJzeren Halve Maan.jpg | Deutscher Soldat WW I mit dem "Eisernen Halbmond"
+- Medals of the Ottoman Empire | Hicaz-demiryolu-maan-mevkii.gif | وسام آخر خاص بالمشروع تم في سنة 1322 هـ الموافق 1904م.      
+- Order of Honour (Ottoman Empire) | Hoge Orde van de Eer Ottomaanse Rijk 2.jpg | Hoge Orde van de Eer, Osmaanse Rijk 1879? - 1918
+- Order of Honour (Ottoman Empire) | Hoge Orde van de Eer Turkije cravatte.jpg | Cravatte van de orde
+- Order of the Crescent | Horace Vernet Le général Maximilien-Sébastien Foy.jpg | Horace Vernet (1789–1863–): Général de division Maximilien-Sébastien Foy, Mitglied der französischen Deputiertenkammer (1775–1825). Öl auf Leinwand, 73 x 59,5 cm. National Gallery 
+- Military decorations of the Ottoman Empire | Horatio Nelson NPG 789.jpg | 
+- Military decorations of the Ottoman Empire | Horatio Nelson, 1st Viscount Nelson (1758-1805) Vice-Admiral & Victor of Trafalgar, by Leonardo Guzzardi GAC 15080.jpg |  Portrait of Vice-Admiral Horatio Nelson, 1st Viscount Nelson KB  by Leonardo Guzzardi  Medium oil on canvas  Measurements H 65 x W 50.1 cm  Government Art Collection    Accession 
+- Order of the Crescent | Horatio Nelson00.jpg | 
+- Military decorations of the Ottoman Empire | HoratioNelson1.jpg | 
+- Orders of the Ottoman Empire | Huisorde van de Omanen aan lint..jpg | Order of the Illustrious Ottoman Dynasty(Hanedani Ali Osman Nishani)on it's ribbon
+- Orders of the Ottoman Empire | Huisorde van de Osmanen aan lint.jpg | Huisorde van de Osmanen
+- Order of the Medjidie | Imperial Order of the Medjidie, Turkey, from the World's Decorations series (N30) for Allen & Ginter Cigarettes MET DP838300.jpg |     Print; Prints   
+- Order of the Medjidie | Imperial Order of the Medjidie, Turkey, from the World's Decorations series (N44) for Allen & Ginter Cigarettes MET DP839356.jpg |     Print; Prints   
+- Imtiyaz Medal | Imtiyaz in goud keerzijde.jpg | Turkse medaille 1882 - 1918
+- Imtiyaz Medal | Imtiyaz in goud voorzijde.jpg | Turkse medaille 1882 - 1918
+- Imtiyaz Medal | Imtiyaz in zilver met gesp.jpg | Turkse medaille 1882 - 1918 zilver met gesp.
+- Imtiyaz Medal | Imtyaz Medaille met meer wit voor Lay-out.jpg |  Imtyaz medaille 
+- Order of the Medjidie | Iranian orders.jpg | Old Iranian orders from Qajar and Pahlavi from Moqadam museum
+- Medals of the Ottoman Empire | Ittifak madalya.JPG | madalya kendi koleksiyonumda bulunmaktadır
+- Order of the Medjidie | Jean Chapelié.JPG |  Buste de Jean Chapelié, Musée du Cinquantenaire, Bruxelles, Belgique.               Royal Museums of Art and History                                      Native name   Musées roya
+- Orders of the Ottoman Empire | Khedive the Order of Justice.jpg | Khedive the Order of Justice of the Ottoman Empire.
+- Order of Osmanieh | Kraschan för riddare av Nischan-Imtiazorden, Osmanska riket (Turkiet) ca 1900 - Livrustkammaren - 18590.tif | 
+- Imtiyaz Medal | Küçük imtiyaz madalyası 23.5 mm.6.1 gr.gümüş 1302 (1884).gif | Küçük imtiyaz madalyası (gümüş), madalya kendi koleksiyonumda bulunmaktadır.Küçük imtiyaz madalyası, biriki ufak değişikliği haricinde büyük imtiyaz madalyasının tıpatp aynısıdır. 
+- Imtiyaz Medal | Küçük imtiyaz madalyası-gümüş 23.5 mm 6.1 gr.JPG | Küçük imtiyaz madalyası (gümüş), madalya kendi koleksiyonumda bulunmaktadır.Küçük imtiyaz madalyası, biriki ufak değişikliği haricinde büyük imtiyaz madalyasının tıpatp aynısıdır. 
+- Order of the Crescent | Lord Nelson before Trafalgar.jpg |   An imaginary full-length portrait to left wearing vice-admiral’s undress uniform with the star and ribbon of the Bath, the Neapolitan Order of St Ferdinand and of Merit, the Turk
+- Order of the Medjidie | MEDJIDIE ORDE Turkije Ve Klasse.jpg | De Keizerlijke Orde van Mejidie of "Medjidjie", in het Turks "Nishan-i-Mejidie", "Nishan-i-Majidia" of "Mecidi Nishani"
+- Order of the Medjidie | MEDJIDIE ruban.jpg | Ruban de l'ordre de MEDJIDIE.
+- Order of the Medjidie | Mecidi 1Kl Bruststern.jpg | Mecidi erste Klasse Bruststern
+- Order of the Medjidie | Mecidi 1Kl.jpg | Mecidi erste Klasse
+- Order of the Medjidie | Mecidiye order.jpg | Mecidiye order, star and badge. Late 19th c.
+- Medals of the Ottoman Empire | Medaille van de Halve Rode Maan.jpg | Turkse Medaille 1903
+- Medals of the Ottoman Empire | Medaille voor Hulp aan Gewonde Ottomaanse Soldaten.jpg | Turkse medaille 19e eeuw
+- Order of the Medjidie | Medaille-turque-IMG 1099.JPG |  Work by  Rama    This  Medjidie order  was founded in 1851 and awarded to civilians and the military.
+- Turkish Crimea Medal | Medal, campaign (AM 1929.364-8).jpg | Turkish Crimea Medal (Sardinian), 1854-56 Medal awarded to 102 James Holmes, 8th Hussars silver medal; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that
+- Turkish Crimea Medal | Medal, campaign (AM 799886-1).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map 
+- Turkish Crimea Medal | Medal, campaign (AM 799886-2).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map 
+- Turkish Crimea Medal | Medal, campaign (AM 799886-3).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map 
+- Turkish Crimea Medal | Medal, campaign (AM 799886-4).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map 
+- Turkish Crimea Medal | Medal, campaign (AM 799887-1).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed; with ribbon; ornate suspension bar silver medal; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is
+- Turkish Crimea Medal | Medal, campaign (AM 799887-2).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed; with ribbon; ornate suspension bar silver medal; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is
+- Turkish Crimea Medal | Medal, campaign (AM 799887-3).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed; with ribbon; ornate suspension bar silver medal; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is
+- Turkish Crimea Medal | Medal, campaign (AM 799887-4).jpg | Turkish Crimea Medal, (Sardinian) 1854-56 unnamed; with ribbon; ornate suspension bar silver medal; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is
+- Medal for the Montenegrin-Ottoman War 1861-1862 | Medal, campaign (AM 800964-1).jpg | Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountai
+- Medal for the Montenegrin-Ottoman War 1861-1862 | Medal, campaign (AM 800964-2).jpg | Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountai
+- Medal for the Montenegrin-Ottoman War 1861-1862 | Medal, campaign (AM 800964-3).jpg | Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountai
+- Medal for the Montenegrin-Ottoman War 1861-1862 | Medal, campaign (AM 800964-4).jpg | Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountai
+- Medal for the Montenegrin-Ottoman War 1861-1862 | Medal, campaign (AM 800964-5).jpg | Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountai
+- Turkish Crimea Medal | Medal, campaign (AM 802391-1).jpg | Turkish Crimea Medal (British) 1854-56 Medal awarded to Harry Cave, Royal Navy circular silver medal; ring suspension; with ribbon obverse- map of Crimea spread over cannon wheel r
+- Turkish Crimea Medal | Medal, campaign (AM 802391-2).jpg | Turkish Crimea Medal (British) 1854-56 Medal awarded to Harry Cave, Royal Navy circular silver medal; ring suspension; with ribbon obverse- map of Crimea spread over cannon wheel r
+- Turkish Crimea Medal | Medal, campaign (AM 802391-3).jpg | Turkish Crimea Medal (British) 1854-56 Medal awarded to Harry Cave, Royal Navy circular silver medal; ring suspension; with ribbon obverse- map of Crimea spread over cannon wheel r
+- Syrian Campaign Medal (1840) | Medal, campaign (AM 806826-1).jpg | St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse
+- Syrian Campaign Medal (1840) | Medal, campaign (AM 806826-2).jpg | St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse
+- Syrian Campaign Medal (1840) | Medal, campaign (AM 806826-3).jpg | St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse
+- Syrian Campaign Medal (1840) | Medal, campaign (AM 806826-4).jpg | St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse
+- Syrian Campaign Medal (1840) | Medal, campaign (AM 806826-5).jpg | St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse
+- Turkish Crimea Medal | Medal, campaign (AM 806838-1).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-2).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-3).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-4).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-5).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-6).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-7).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 806838-8).jpg | Turkish Crimea Medal, (British) 1854-56 circular silver medal; ornamental scroll suspension; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to
+- Turkish Crimea Medal | Medal, campaign (AM 809206-1).jpg | Turkish Crimea Medal, (British) 1854-56 silver medal; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to left are three cannon balls and a ramr
+- Turkish Crimea Medal | Medal, campaign (AM 809206-2).jpg | Turkish Crimea Medal, (British) 1854-56 silver medal; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to left are three cannon balls and a ramr
+- Turkish Crimea Medal | Medal, campaign (AM 809206-3).jpg | Turkish Crimea Medal, (British) 1854-56 silver medal; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to left are three cannon balls and a ramr
+- Turkish Crimea Medal | Medal, campaign (AM 809206-4).jpg | Turkish Crimea Medal, (British) 1854-56 silver medal; with ribbon obverse- map of Crimea spread over cannon wheel resting on Russian flag; to left are three cannon balls and a ramr
+- Turkish Crimea Medal | Medal, campaign (AM 809207-1).jpg | Turkish Crimea Medal (Sardinian), 1854-56 unnamed and name of recipient not known circular silver medal; ornate swivelling suspender; with ribbon obverse- map of Crimea spread over
+- Turkish Crimea Medal | Medal, campaign (AM 809207-2).jpg | Turkish Crimea Medal (Sardinian), 1854-56 unnamed and name of recipient not known circular silver medal; ornate swivelling suspender; with ribbon obverse- map of Crimea spread over
+- Turkish Crimea Medal | Medal, campaign (AM 809207-3).jpg | Turkish Crimea Medal (Sardinian), 1854-56 unnamed and name of recipient not known circular silver medal; ornate swivelling suspender; with ribbon obverse- map of Crimea spread over
+- Turkish Crimea Medal | Medal, campaign (AM 809207-4).jpg | Turkish Crimea Medal (Sardinian), 1854-56 unnamed and name of recipient not known circular silver medal; ornate swivelling suspender; with ribbon obverse- map of Crimea spread over
+- Gallipoli Star | Medal, decoration (AM 1945.9-1).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-2).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-3).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-4).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-5).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-6).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 1945.9-7).jpg | The Ottoman War Medal (Officers), WW1 Also known as the Turkish Gallipoli Star silver and red enamel; crescent inside star encircling the tughra (cypher) of Sultan Mehmed Reshad V 
+- Gallipoli Star | Medal, decoration (AM 768453-1).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 768453-2).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 768453-3).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 768453-4).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 768453-5).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 768453-6).jpg | Ottoman War Medal 1915, WW1 Also known as the Turkish Gallipoli Star five-pointed star; white(zinc) metal and red imitation enamel; brooch pin fasteningverso obverse- crescent insi
+- Gallipoli Star | Medal, decoration (AM 774643-1).jpg | Ottoman War Medal, WW1 Also known as the Gallipoli Star, or Turkish Gallipoli Star five-point star; white (zinc) metal with red (painted) surfaces; crescent inside star encircling 
+- Gallipoli Star | Medal, decoration (AM 774643-2).jpg | Ottoman War Medal, WW1 Also known as the Gallipoli Star, or Turkish Gallipoli Star five-point star; white (zinc) metal with red (painted) surfaces; crescent inside star encircling 
+- Gallipoli Star | Medal, decoration (AM 774643-3).jpg | Ottoman War Medal, WW1 Also known as the Gallipoli Star, or Turkish Gallipoli Star five-point star; white (zinc) metal with red (painted) surfaces; crescent inside star encircling 
+- Order of the Medjidie | Medal, order (AM 809240-1).jpg | Turkish Order of Medjidie (Crimean War) medal and ribbon; a star of seven triple quills with small crescents and five-pointed stars between them, suspended from a red enamelled cre
+- Order of the Medjidie | Medal, order (AM 809240-2).jpg | Turkish Order of Medjidie (Crimean War) medal and ribbon; a star of seven triple quills with small crescents and five-pointed stars between them, suspended from a red enamelled cre
+- Order of the Medjidie | Medal, order (AM 809240-3).jpg | Turkish Order of Medjidie (Crimean War) medal and ribbon; a star of seven triple quills with small crescents and five-pointed stars between them, suspended from a red enamelled cre
+- Order of Glory (Ottoman Empire) | Medals of Samuel Finley Breese Morse about 1870 detail, from- Samuel+F+B+Morse+MET+DP-17643-003 (cropped).jpg |   photograph by Mathew B. Brady (MET, 2005.100.888) 
+- Order of the Medjidie | Medjidie-Orden.jpg | Türkisch-osmanischer  Medjidie-Orden 
+- Order of the Medjidie | Medjidieorder.jpg | 
+- Military decorations of the Ottoman Empire | Melchior Lorck - A Turkish warrior.jpg | Ottoman Soldiers from contemporary European Illustrations by Melchior Lorck, 1570-83
+- Order of the Medjidie | Meyers b11 s0409.jpg | 
+- Medals of the Ottoman Empire | My quest of the Arab horse BHL20334750.jpg | My quest of the Arab horse /  by Homer Davenport.
+- Order of the Medjidie | Médjidié4classe.png | Ordre Impérial turc du Médjidié quatrième classe
+- Order of Honour (Ottoman Empire) | Nişan-i Imtiyaz.jpg | Order of Distinction (Nişan-i Imtiyaz) of the Ottoman Empire.
+- Order of Glory (Ottoman Empire) | Nişan-ı İftihar of the Ottoman Empire.jpg | Order of Glory of the Ottoman Empire
+- Order of the Crescent | OTT Order of the Crescent BAR.svg | Ribbon bar of the Order of the Crescent of the Ottoman Empire
+- Order of Glory (Ottoman Empire) | Orde van de Glorie Ottomaanse Rijk.jpg | Orde van de Glorie, eerste model
+- Order of Glory (Ottoman Empire) | Orde van de Glorie volgens Ackermann 1855.jpg | Orde van de Glorie
+- Order of the Crescent | Orde van de Halve Maan Turkije 1800.jpg | Juweel van de orde
+- Order of the Crescent | Orde van de Halve Maan met diamanten.jpg | Orde van de Halve Maan, Ottomaanse onderscheiding
+- Order of the Crescent | Orde van de Halve Maan volgens Ackermann 1855.jpg | Orde van de Halve Maan 1800 Turkije
+- Order of the Medjidie | Ordenstecken, Medjidieorden, 4 kl., Osmanska riket - Livrustkammaren - 10067.tif | Ottoman Order of the Medjidie, 4th class medal.
+- Order of Osmanieh | Ordenstecken, Nischan-Imtiazorden, Osmanska riket (Turkiet) - Livrustkammaren - 18589.tif | Åttauddig strålstjärna av guld med välvda bladknippen om fem blad med graverad dekor, över fyra av knippena fäst ett grönemaljerat skriftband med turkisk text i guld (fosterlandskä
+- Order of Osmanieh | Ordenstecken, Nischan-Imtiazorden, Osmanska riket (Turkiet) - Livrustkammaren - 69957.tif | Åttauddig strålstjärna av guld med välvda bladknippen om fem blad med graverad dekor, över fyra av knippena fäst ett grönemaljerat skriftband med turkisk text i guld (fosterlandskä
+- Order of Glory (Ottoman Empire) | Order of Glory (Ottoman Empire).jpg | Order of Glory (Ottoman Empire)
+- Order of the Medjidie | Order of Medschidie, Turkey, from the Military Series (N224) issued by Kinney Tobacco Company to promote Sweet Caporal Cigarettes MET DPB874391.jpg |     Print; Prints   
+- Order of Honour (Ottoman Empire) | Order of Merit (Ottoman Empire).jpg | Order of Merit (Ottoman Empire)
+- Order of Osmanieh | Order of Osmanie of the Ottoman Empire.jpg | Order of Osmanieh of the Ottoman Empire.
+- Order of Osmanieh | Order of Osmanieh 1st class badge (Ottoman Empire) - Tallinn Museum of Orders.jpg | Order of Osmanieh 1st class, badge. Ottoman Empire. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of Osmanieh | Order of Osmanieh 1st class badge star (Ottoman Empire) - Tallinn Museum of Orders.jpg | Order of Osmanieh 1st class, badge and star. Ottoman Empire. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of Osmanieh | Order of Osmanieh 1st class star1 (Ottoman Empire) - Tallinn Museum of Orders.jpg | Order of Osmanieh 1st class, star. Ottoman Empire. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of Osmanieh | Order of Osmanieh 1st class star2 (Ottoman Empire) - Tallinn Museum of Orders.jpg | Order of Osmanieh 1st class, star. Ottoman Empire. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of Osmanieh | Order of Osmanieh.jpg | Order of Osmanieh
+- Order of the Medjidie | Order of the Medjidie 1st class star (Ottoman Empire) - Tallinn Museum of Orders.jpg | Order of the Medjidie (Mecidiye Nişanı) 1st class, star. Ottoman Empire. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of the Medjidie | Order of the Medjidie awarded to Major Rodolph De Salis of the 8th Hussars.jpg | Photo (by me, R. de Salis Rodolph  ( talk ) 18:36, 29 August 2014 (UTC)) of the Order of the Medjidie awarded to Major Rodolph De Salis of the 8th Hussars.    Other information    
+- Order of the Medjidie | Order of the Medjidie lenta.png | Order_of_the_Medjidie_ribbon
+- Order of Osmanieh | Order of the Osmanie lenta.png | Order_of_the_Osmanie_ribbon
+- Orders of the Ottoman Empire | Order of the Ottoman Chamber of Deputies.jpg | The Order of the Ottoman Chamber of Deputies.
+- Order of the Medjidie | Ordre du Medjidié 3ème classe (Commandeur).jpg | Attribué à Henri Dupuy de Lôme.
+- Order of Osmanieh | Osmana-ordenis.svg | Part of Ottoman Coat of Arms, order: Nişan-ı Osmânî
+- Order of Osmanieh | Osmani 2.Klasse Hals.jpg | Osmanje-Orden
+- Order of Osmanieh | Osmani Kreuz 1Kl.jpg | Osmanje-Orden - Kreuz erste Klasse
+- Order of Osmanieh | Osmanie I Star.jpg | Osmanie Order I class Star
+- Order of Osmanieh | Osmanie I.jpg | Osmanie order 1-st class
+- Order of Osmanieh | Osmanie III.jpg | Osmanie 3-rd class
+- Order of Osmanieh | Osmanie Order (Nishani Osmani) 1862.jpg | Turkse ridderorde
+- Order of Osmanieh | Osmanie Order 3rd Class.jpg | Osmanie Order (Nishani Osmani), 3rd Class, Ottoman Empire.
+- Orders of the Ottoman Empire | Osmanli-nisani-nisanlar.svg | Detail of Ottoman Coat of Arms. Ornament and orders.
+- Orders of the Ottoman Empire | Osmanse Orde van het Onderwijs.jpg | Osmaanse ridderorde
+- Military decorations of the Ottoman Empire | Ralamb - 103 - Beylerbey of Bosnia.jpg |  Governor, Beylerbey, of Bosnia   "Rumeli Beglerbeg de Bosnia"
+- Military decorations of the Ottoman Empire | Ralamb soldier with head.jpg | Turkish soldier from Ralamb Costume Book. Miniatures in Indian ink with gouache and some gilding. They were acquired in Constantinople in 1657-58 by Claes Rålamb who led a Swedish 
+- Military decorations of the Ottoman Empire | Rear-Admiral Sir Horatio Nelson, 1758–1805.jpg | 
+- Medals of the Ottoman Empire | Red crescent.jpg | bronze order for the red crescent
+- Order of the Crescent | Replica Knighthood Badges Used by Nelson 2 - 54756172301.jpg | The Turkish Order of the Crescent
+- Gallipoli Star | Richard Baer, Josef Mengele, Rudolf Hoess, Auschwitz. Album Höcker (cropped).jpg | Auschwitz, Poland, Three SS officers socialize on the grounds of the SS retreat outside of Auschwitz, at “Solahütte”, 1944. In the middle: Dr. Josef Mengele.
+- Order of the Medjidie | Ridderorde Turkse wapen 1918.svg | Detail of the Turkish weapon
+- Orders of the Ottoman Empire | Ridderorden onder het Turkse wapen 1918.jpg | Detail van het Turkse (Ottomaanse) wapen
+- Order of Osmanieh | Robert-Brindle.webp | Robert-Brindle, Bishop of Nottingham
+- Order of Glory (Ottoman Empire) | Samuel Morse (cropped).jpg |   Samuel F. B. Morse   (between 1855 and 1865) Photoportrait by Mathew Brady
+- Order of Glory (Ottoman Empire) | Samuel Morse.jpg |   Samuel F. B. Morse   (between 1855 and 1865) Photoportrait by Mathew Brady
+- Order of Glory (Ottoman Empire) | Samuel+F+B+Morse+MET+DP-17643-003.jpg |   photograph by Mathew B. Brady (MET, 2005.100.888) 
+- Order of the Crescent | Sebastianilegiondhonneur.jpg | 
+- Medals of the Ottoman Empire | Silistremadalyası.jpg | 
+- Turkish Crimea Medal | Silver Turkish Crimea medal (Sardinian version) issued to Private William Greenwood of Britain.JPG | This Silver Turkish Crimea medal was made circa 1855 and is of the pattern originally itended for issue by Turkey's Sardinian allies for their services against Imperial Russia in t
+- Syrian Campaign Medal (1840) | St Jean d'Acre Medal, 1842.jpg | Turkish medal awarded to British servicemen for Egyptian–Ottoman War (1839–41), depicted on Taddy cigarette card
+- Order of Honour (Ottoman Empire) | Ster van de Hoge Orde van de Eer Gritzner.jpg | Ster, getekend door Maximilian Gritzner
+- Order of the Crescent | Ster van de Orde van de Halve Maan Turkije 1800.JPG | Ster  Turkije 1800
+- Order of the Crescent | Ster van de Orde van de Halve Maan Turkije 1800.jpg | Ster 1800 Turkije - Etoile de l'Ordre du Croissant
+- Order of the Medjidie | TR Commander's Cross of the Order of Medijdie of Turkey.jpg | Komandoria Orderu Medżydów (Imperium Osmańskie)
+- Turkish Crimea Medal | TR Crimean War Medal.jpg | Medal Wojny Krymskiej 1855 (Imperium Osmańskie) - medal turecki dla wojsk brytyjskich
+- Medals of the Ottoman Empire | TR Kanûn-u Esâsî Madalyası.jpg | Kanûn-u Esâsî Madalyası
+- Gallipoli Star | TUR Harp Madalyasi BAR.svg | Ribbon bar: War Medal (1915) = Gallipoli Star = Iron Crescent – Ottoman Empire.
+- Gallipoli Star | TUR Harp Madalyasi non-combat BAR.svg | Ribbon bar: War Medal (1915) = Gallipoli Star = Iron Crescent – non-combatant version – Ottoman Empire.
+- Order of the Medjidie | Takasaki Masakaze.jpg | Portrait of Takasaki Masakaze (高崎正風, 1836 – 1912)
+- Order of the Crescent | Tassaert - Horace-François-Bastien Sébastiani de la Porta, comte de l'Empire.jpg | 
+- Turkish Crimea Medal | Turkish crimea medal.jpg | Turkish Crimean War medal Public domain
+- Turkish Crimea Medal | Turkse Campagnemedaille voor de Krimoorlog 1854.jpg | Turkse Medaille voor Britse troepen
+- Medals of the Ottoman Empire | Turkse spoorwegmedaille in goud.jpg | Turkse medaille Hadjuz spoorlijn 1912
+- Order of Osmanieh | Twee Turkse orden voor sjabloon.jpg | Twee Turkse Orden
+- Gallipoli Star | Türkische Orden , item 1.jpg | 
+- Gallipoli Star | Türkischer Eiserner Halbmond - Erinnerungen von Hinrich Detjen, Kriegsgefangenschaft in Ägypten, item 1.jpg | 
+- Orders of the Ottoman Empire | Vliegersinsigne Turkse landmacht 1914.jpg | Insigne van een piloot
+- Medals of the Ottoman Empire | Vlootinzamelingsmedaille van Turkije 1913.jpg | De bijgewerkte wikiconforme tekening naar  [1]  Medaille in goud
+- Turkish Crimea Medal | William Henry Pennington 1890.jpg | William Henry Pennington (1833-1923)  in 1890 wearing his Crimean War medals
+- Turkish Crimea Medal | William Henry Pennington medals 1890.jpg | William Henry Pennington (1833-1923) in 1890 wearing the uniform of the 11th Hussars and his Crimean War medals
+- Order of the Medjidie | Wimphen, général, Nadar, Gallica.jpg |  Emmanuel Félix de Wimpffen  (1811 - 1884), général français
+- Medals of the Ottoman Empire | Yemen madalyası-gümüş.JPG | 
+- Medals of the Ottoman Empire | Çanakkale er madalyası-.JPG | çanakkale er madalyası, madalya kendi koleksiyonumda bulunmaktadır.
+- Gallipoli Star | Çanakkale subay madalyası-temizlenmiş.JPG | 
+- Medals of the Ottoman Empire | Şehit-evladı-malül-askere-iane madalyası.gif | Şehid Evladı ve Malül Askere iane Sergisi Madalyası
+- Turkish Crimea Medal | Крымская медаль для британцев.jpg | Турецкая медаль «В память Крымской войны для союзных войск «Kirun-Medal», 1855. Для британцев. Музей военной формы, Москва.
+- Turkish Crimea Medal | Крымская медаль для сардинцев.jpg | Турецкая медаль «В память Крымской войны для союзных войск «Kirun-Medal», 1855. Для сардинцев. Музей военной формы, Москва.
+- Turkish Crimea Medal | Крымская медаль для французов.jpg | Турецкая медаль «В память Крымской войны для союзных войск «Kirun-Medal», 1855. Для французов. Музей военной формы, Москва.
+- Order of the Medjidie | Орден Меджидие 5-й степени.jpg | Орден Меджидие 5-й степени (Крымский). Турция, середина XIX века. Музей военной формы, Москва.
+- Order of Osmanieh | Орден Османие.png | Улучшенная фотография ордена Османие
+- Gallipoli Star | אות הכבוד הסהר התורכי שקיבל וולף על לחימה במלחמת העולם ה1 1918 - i אור btm14659.jpeg | אות הכבוד הסהר התורכי שקיבל וולף על לחימה במלחמת העולם ה1 1918. -  / אורי וולף 
+- Order of the Medjidie | אותות כבוד שהרצל קבל מאת השולטן התורכי בעת בקורו בקושטא-JNF043861.jpeg | אותות כבוד שהרצל קבל מאת השולטן התורכי בעת בקורו בקושטא
+
+## 巴基斯坦 (22)
+- Orders, decorations and medals of Pakistan | (Star of Sacrifice) „Звезда самопожертвования" Пакистан.jpg | Награда Мобильного госпиталя МЧС Украины за оказание медицинской помощи населению Пакистана, пострадавшему во время землетрясения в Пакистане в октябре 2005 года. Обратная сторона 
+- Orders, decorations and medals of Pakistan | (Star of Sacrifice) „Звезда самопожертвования".jpg | орден Исламской Республики Пакистан ‘Sitara-i-Eisaar’ (Star of Sacrifice) „Звезда самопожертвования".
+- Military awards and decorations of Pakistan | 35 year service medal.png | Ribbon Bar of the medal.
+- Medals of Pakistan | FC College Gold Medal - back.JPG | FC College Gold Medal back
+- Medals of Pakistan | FC College Gold Medal.JPG | FC COLLEGE University Gold Medal
+- Medals of Pakistan | Fakhr-e-Kashmir.png | Fakhr-e-Kashmir or Honor/Pride of Kashmir award Those honored with this award were recognized for their gallantry during the 1947-48 Kashmir War.
+- Medals of Pakistan | Gold Wound Strip - Pakistan.png | Gold Wound Strip - Pakistan Ribbon
+- Medals of Pakistan | Harb medal.jpg | Tamgha-e-Jang 1965 (Pakistan Medal for the 1965 Indo-Pakistani War)
+- Orders of Pakistan | Hilal-e-kashmir.jpg | Hilal-e-Kashmir, HK
+- Military awards and decorations of Pakistan | Jang medal.jpg | 
+- Military awards and decorations of Pakistan | Pakistan Republic Commemoration Medal (Obverse).jpg | Pakistani medal awarded to commemorate Pakistan becoming a republic in 1956
+- Military awards and decorations of Pakistan | Pakistan Republic Commemoration Medal (Reverse).jpg | Pakistani medal awarded to commemorate Pakistan becoming a republic in 1956
+- Medals of Pakistan | Sitara-e-Jurat.jpg | Pak Army Third Highest Miliatry award
+- Medals of Pakistan | Sitra-e-Jurat.jpg | Pakistan Army Sitar-e-Jurat Award
+- Medals of Pakistan | Tamgha-e-Diffa Shaqma Clasp.png | Tamgha-e-Diffa with Shaqma Clasp
+- Military awards and decorations of Pakistan | Tamgha-e-Diffa with Older Clasps.png | Tamgha-e-Diffa with all the Clasps except Siachen Glacier
+- Military awards and decorations of Pakistan | Tamgha-i-Imtiaz awarded by Admiral Noman Bashir, Chief of Naval Staff.jpg | Tamgha-i-Imtiaz (August 2008) awarded by the Government of Pakistan for exemplary services in Pakistan Military.
+- Orders, decorations and medals of Pakistan | Звезда. Пакистан. 2005 год.jpg | орден Исламской Республики Пакистан ‘Sitara-i-Eisaar’ (Star of Sacrifice) „Звезда самопожертвования". Тыльная сторона .
+- Orders, decorations and medals of Pakistan | Звезда. Пакистан.jpg | орден Исламской Республики Пакистан ‘Sitara-i-Eisaar’ (Star of Sacrifice) „Звезда самопожертвования". Общий вид.
+- Orders, decorations and medals of Pakistan | Надпись на планке „Звезды самопожертвования".jpg | орден Исламской Республики Пакистан ‘Sitara-i-Eisaar’ (Star of Sacrifice) „Звезда самопожертвования". Надпись на планке
+- Orders of Pakistan | نشان حیدر.jpg |  Nishan-e-Haider 
+- Orders, decorations and medals of Pakistan | „Звезда самопожертвования". Пакистан.jpg | Награда Мобильного госпиталя МЧС Украины за оказание медицинской помощи населению Пакистана, пострадавшему во время землетрясения в Пакистане в октябре 2005 года.
+
+## 巴林 (1)
+- Orders, decorations and medals of Bahrain | The-emir-of-bahrain-shaikh-isa-bin-sulman-al-khalifa-presents-the-bahrain-medal-0ff416-1024.jpg | The Emir of Bahrain , Shaikh Isa Bin Sulman Al-Khalifa, presents the Bahrain Medal to LT. GEN. Charles Horner, commanding general, U.S. Central Air Force. Horner is visiting the em
+
+## 摩洛哥 (12)
+- Military decorations of Morocco | Medal of the Green Scarab, 1923.jpg | Medal of the Green Scarab (Morocco), 1923
+- Orders of Morocco | ORDRE de MEHDAUIA 1926.jpg | Marokkaanse ridderorde, tetouan en Spaans-Marokko
+- Orders of Morocco | Order of Mehdauia grand cross badge (Spanish protectorate in Morocco 1926-1956) - Tallinn Museum of Orders.jpg | Order of Mehdauia, badge of Grand Cross, 1926-1956. Spanish protectorate in Morocco. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Orders of Morocco | Order of Mehdauia grand cross star (Spanish protectorate in Morocco 1926-1956) - Tallinn Museum of Orders.jpg | Order of Mehdauia, star of Grand Cross, 1926-1956. Spanish protectorate in Morocco. The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Military decorations of Morocco | Order of Military Merit (Morocco).jpg | Medal of the Order of Military Merit (Morocco), 1913
+- Orders of Morocco | Order of Muhammad.jpg | Collar of the Order of Muhammad (1st Class)
+- Orders of Morocco | Wissam al-Istihkak al-Watani.svg | National Order of Merit (Morocco)
+- Orders of Morocco | Wissam al-Istiqlal.svg | Order of Independence (Morocco)
+- Orders of Morocco | Wissam al-Izdihar.svg | The Order of Prosperity (Morocco)
+- Orders of Morocco | Wissam al-Mukafaâ al-Wataniya.svg | Order of National Recompense (Morocco)
+- Orders of Morocco | Wissam al-’Uala.svg | The Order of Fidelity (Morocco)
+- Orders of Morocco | Wissam as-Shugl.svg | The Order of Labour (Morocco)
+
+## 沙特阿拉伯 (7)
+- Military decorations of Saudi Arabia | Air Force Hawk Medal, 3nd Class SA.png | Air Force Hawk Medal, 3nd Class - Saudi Arabia military
+- Orders of Saudi Arabia | Gouden Ster van de Orde van Faisal Saudi Arabia.jpg | Order of Faisal,  Saudi Arabia
+- Orders, decorations and medals of Saudi Arabia | King saud star.jpg | King saud star
+- Orders of Saudi Arabia | Orde van Faisal Saoedi Arabia.jpg | Order of Faisal
+- Orders, decorations and medals of Saudi Arabia | Order of king Abdullaziz by king saud of saudi arabia.jpg | Order of king Abdullaziz by king saud of saudi arabia
+- Orders of Saudi Arabia | Ster Faisal.jpg | Order of Faisal Saoedi Arabia
+- Orders of Saudi Arabia | Ster van de Orde van Faisal IIe Klasse zilver.jpg | Order of Faisal, Star of silver
+
+## 科威特 (11)
+- Kuwait Liberation Medal (Kuwait) | DSC00051-kuw-sau-medals.JPG | combat medals from Saudi Arabia (left) and Kuwait (right) taken during Gulf war , 1991.
+- Kuwait Liberation Medal (Kuwait) | KLMKuwait.jpg | 
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Fifth Class), reverse.png | Reverse of Kuwait campaign medal for 1990-91 Gulf War
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Fifth Class).png |  Kuwait Liberation Medal (Fifth Class) 
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Fourth Class), obverse.png | Reverse of Kuwait campaign medal for 1990-91 Gulf War, junior officers version
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Fourth Class), reverse.png | Reverse of Kuwait campaign medal for 1990-91 Gulf War, junior officers version
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (K).jpg |  Kuwait Liberation Medal (Kuwait) .
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Kuwait), Case-028.JPG | 
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Kuwait)-029.JPG | 
+- Kuwait Liberation Medal (Kuwait) | Kuwait Liberation Medal (Kuwait)-030.JPG | 
+- Kuwait Liberation Medal (Kuwait) | KuwaitLib.png | KuwaitLib
+
+## 突尼斯 (4)
+- Orders of Tunisia | Huisorde van de Husainid, of Nishan al-Aila van de Bey van Tunis.jpg |  Huisorde van de Husainid 
+- Orders of Tunisia | Orde van het Fundamentele Verbond of Nishan al-Ahed al-Aman van de Bey van Tunis.jpg | Als in titel, kleinood
+- Medals of Tunisia | Ultra Mirage El Djerid Marathon - 50K Medal UMED 2025 01.jpg | Ultra Mirage El Djerid Marathon - 50K Medal UMED 2025
+- Medals of Tunisia | Ultra Mirage El Djerid Marathon - 50K Medal UMED 2025 02.jpg | Ultra Mirage El Djerid Marathon - 50K Medal UMED 2025
+
+## 约旦 (2)
+- Orders of Jordan | JOR Order of Military Merit (Knight).png | Ribbon of Knight of  the Order of Military Merit (Jordan)
+- Orders, decorations and medals of Jordan | Jordan JSOC Insignia.jpg | Jordan JSOC Emblem
+
+## 苏丹 (139)
+- Order of Regional Government | 19002 999 1-removebg-preview.png | Orders, decorations and medals of Sudan
+- 1956 Sudan independence related awards | 20003 1504 1-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Orders, decorations and medals of Sudan | Army+Distinguished+Service+Medal+1-removebg-preview.png | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | Army+Distinguished+Service+Medal+2-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Bravery (Sudan) | Bravery Medal part of Order of Merit of the Sudanese Republic.png | Bravery medal part of Order of Merit of the Sudanese Republic
+- Collar of Honour (Sudan) | Chain of Honor Sudan.png | Ribbon bar of the Chain of Honor, Republic of Sudan
+- Collar of Honour (Sudan) | Collar of Honour Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Constitution Medal 1973.jpg | Orders, decorations and medals of Sudan
+- Sash of Honour (Sudan) | Cordon of Honour (Sudan).gif | Cordon of Honour (Sudan). Sash
+- Sash of Honour (Sudan) | Cordon of Honour.jpg | Orders, decorations and medals of Sudan
+- Order of Bravery (Sudan) | Decoration for Bravery 3rd class.jpg | Orders, decorations and medals of Sudan
+- Order of Bravery (Sudan) | Decoration for bravery 2nd class.jpg | Orders, decorations and medals of Sudan
+- Order of Bravery (Sudan) | Decoration ofr Bravery 1st class.jpg | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | Distinguished Service Decoration-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1933 Defence Force awards | Distinguished Service Medal robin.jpg | Orders, decorations and medals of Sudan
+- Order of the Two Niles | El-Nilen part of Order of Merit of the Sudanese Republic.jpg | El-Nilen Medal, part of Order of Merit of the Sudanese Republic
+- Order of the Two Niles | El-Nilen part of Order of Merit of the Sudanese Republic.png | El-Nilen part of Order of Merit of the Sudanese Republic
+- 1956 Sudan independence related awards | Evacuation of Forgeign Troops 1956.jpg | Orders, decorations and medals of Sudan
+- Order of Righteous Son of Sudan | Ibn albar Medal part of Order of Merit of the Sudanese Republic.png | Ibn albar (rightfull son) part of Order of Merit of the Sudanese Republic
+- 1956 Sudan independence related awards | Indepedence Medal 1956.jpg | Orders, decorations and medals of Sudan
+- Collar of Honour (Sudan) | Insigina Honor.jpg | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Jadara Bronze back part of Order of Merit of the Sudanese Republic.png | Jadara Medal (back), part of Order of Merit of the Sudanese Republic
+- Order of Merit of the Sudanese Republic | Jadara Bronze front part of Order of Merit of the Sudanese Republic.png | Jadara Bronze Medal (front), part of Order of Merit of the Sudanese Republic
+- Order of Merit of the Sudanese Republic | Jadara Gold back part of Order of Merit of the Sudanese Republic.png | Jadara Gold Medal (back), part of Order of Merit of the Sudanese Republic
+- Order of Merit of the Sudanese Republic | Jadara Gold front part of Order of Merit of the Sudanese Republic.jpg | Jadara Gold Medal (front), part of Order of Merit of the Sudanese Republic
+- 1933 Defence Force awards | Long seervice and good conduct medal officers prison service.jpg | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | Long service and good conudct medal offciers prisoon service.jpg | Orders, decorations and medals of Sudan
+- Medal for Gallantry | Medal For Gallantry back-removebg-preview.png | Orders, decorations and medals of Sudan
+- Medal for Gallantry | Medal For Gallantry-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Medal For Merit I Class back-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Medal For Merit I Class-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Medal For Merit III Class back-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Medal For Merit III Class-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Medal for Breavery.jpg | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | Medal of Duty Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Orders, decorations and medals of Sudan | Medal of Educational Hierarchy-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1956 Sudan independence related awards | Medal of Evacuation back-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Medal for Gallantry | Medal of Gallantry.jpg | Orders, decorations and medals of Sudan
+- 1956 Sudan independence related awards | Medal of Independence back-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1956 Sudan independence related awards | Medal of Independence.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Military Accomplishment | Medal of Military achievement.jpg | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Medal of Presistence.jpg | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Medal of the revolution of the 25th May 1969.jpg | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.311.1-1).jpg | Queen's Sudan Medal 1896-7 Medal awarded to 3435 H Eley, 1st Battalion, Lincolnshire Regiment circular silver medal; with ribbon obverse- Half length figure of Queen Victoria weari
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.311.1-2).jpg | Queen's Sudan Medal 1896-7 Medal awarded to 3435 H Eley, 1st Battalion, Lincolnshire Regiment circular silver medal; with ribbon obverse- Half length figure of Queen Victoria weari
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.311.1-3).jpg | Queen's Sudan Medal 1896-7 Medal awarded to 3435 H Eley, 1st Battalion, Lincolnshire Regiment circular silver medal; with ribbon obverse- Half length figure of Queen Victoria weari
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.311.1-4).jpg | Queen's Sudan Medal 1896-7 Medal awarded to 3435 H Eley, 1st Battalion, Lincolnshire Regiment circular silver medal; with ribbon obverse- Half length figure of Queen Victoria weari
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.311.1-7).jpg | Queen's Sudan Medal 1896-7 Medal awarded to 3435 H Eley, 1st Battalion, Lincolnshire Regiment circular silver medal; with ribbon obverse- Half length figure of Queen Victoria weari
+- Queen's Sudan Medal | Medal, campaign (AM 2001.25.312.1-7).jpg | India Medal 1895-1902 Medal awarded to 3435 Sgt. Henry Eley, 1st Bn Lincolnshire Regt. silver circular medal; 36mm diameter; scroll bar suspension; with ribbon with one bar- WAZIRI
+- Queen's Sudan Medal | Medal, campaign (AM 799921-1).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Queen's Sudan Medal | Medal, campaign (AM 799921-2).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Queen's Sudan Medal | Medal, campaign (AM 799921-3).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Queen's Sudan Medal | Medal, campaign (AM 799921-4).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Queen's Sudan Medal | Medal, campaign (AM 799921-5).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Queen's Sudan Medal | Medal, campaign (AM 799921-6).jpg | Queen's Sudan Medal 1896-98 Medal awarded to 4048 Pte F. Boyle, 2nd Lancashire Fusiliers silver medal; straight swivelling suspension bar; with ribbon obverse- half length figure o
+- Order of Righteous Son of Sudan | Miniature+Order+of+Loyal+Son+of+Sudan+3-removebg-preview.png | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | Native Officer s Decoration-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Queen's Sudan Medal | Obv.jpg |  Obverse for medals     Queen's Sudan Medal 1896-97   East And Central Africa Medal 1899  
+- Order of the Two Niles | Odren Dva Nila Sudan 02.jpg | Odren Dva Nila Sudan. Odlikovanje za Rodoljuba Čolakovića. Legat Rodoljuba Čolakovića i Milice Zorić u Muzeju Semberije u Bijeljini, snimljeno krajem novembra 2024. godine.
+- Order of Distinction (Sudan) | Order of Distinction (Sudan) Class III.png | Order of Distinction (Sudan) Class III
+- Order of Distinction (Sudan) | Order of Distinction (Sudan), class I.png | Order of Distinction (Sudan)
+- Order of Distinction (Sudan) | Order of Distinction (Sudan).png | Order of Distinction (Sudan)
+- Order of Distinction (Sudan) | Order of Distinction Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Distinction (Sudan) | Order of Excellence.jpg | Orders, decorations and medals of Sudan
+- Order of Military Accomplishment | Order of Military Accomplishment Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Military Accomplishment | Order of Military Accomplishment-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of National Unity-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of Persistence-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1956 Sudan independence related awards | Order of Political Accomplishment-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of the Republic (Sudan) | Order of Republic.jpg | Orders, decorations and medals of Sudan
+- Order of Sport (Sudan) | Order of Sport.jpg | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Order of Victory-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of Victory2-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of alliance 1975.jpg | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Order of national Unity.jpg | Orders, decorations and medals of Sudan
+- 1956 Sudan independence related awards | Order of political achievement.jpg | Orders, decorations and medals of Sudan
+- Order of Regional Government | Order of regional goverment 1st.jpg | Orders, decorations and medals of Sudan
+- Order of Regional Government | Order of regional goverment 2nd.jpg | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Order of the Alliance-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of the Constitution-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of the Constitution2-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of the Republic (Sudan) | Order of the Republic Sudan.png | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Order of the Revolution-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1969 cop d’état related awards | Order of the Revolution2-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of the Two Niles | Order of the Two Niles grand cross insignias (Sudan 1961-1969) - Tallinn Museum of Orders.jpg | Order of the Two Niles, insignias of Grand Cross, 1961-1969. Sudan The exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.
+- Order of the Two Niles | Order of the Twon Nile.jpg | Orders, decorations and medals of Sudan
+- Order of Righteous Son of Sudan | Order of the loyal son of the Sudan.jpg | Orders, decorations and medals of Sudan
+- Order of the Republic (Sudan) | Order of the republic Sudan, 2nd issue.png | Order of the republic Sudan, 2nd issue
+- Order of Sport (Sudan) | Order+of+Sport +Silver+Ob-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Sport (Sudan) | Order+of+Sport +Silver-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Order+of+the+Two+Niles +Commander+2-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Order+of+the+Two+Niles +Grand+Cross+Breast+Star-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Order+of+the+Two+Niles +Grand+Cross-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Order+of+the+Two+Niles,+Commander+1.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Ordre des Deux Nils (Soudan)-Musée de la Légion d'honneur.jpg | Ordre des Deux Nils (Soudan)   Ordre à cinq grades créé le 15 novembre 1961   Musée de la Légion d'honneur (Paris)  
+- 1933 Defence Force awards | Police Medal for Distinguished Service.jpg | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | Police and Prison Service Medal for Meritorious Service-removebg-previe.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Orders, decorations and medals of Sudan | Police and Prison Service Medal for Meritorious Service-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- 1933 Defence Force awards | Police long service and conduct medal.jpg | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | Prison Long And Distinguished Service Medal back-removebg-preview.png | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | Prison Long And Distinguished Service Medal-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of Production (Sudan) | Production Bronze part of Order of Merit of the Sudanese Republic.png | Production Bronze Medal, part of Order of Merit of the Sudanese Republic
+- Order of Production (Sudan) | Production Gold part of Order of Merit of the Sudanese Republic.png | Production Gold Medal, part of Order of Merit of the Sudanese Republic
+- Order of Production (Sudan) | Production Silver part of Order of Merit of the Sudanese Republic.png | Production Silver Medal, part of Order of Merit of the Sudanese Republic
+- Queen's Sudan Medal | Queen s Sudan Medal In Bronze back-removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen s Sudan Medal In Bronze-removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen s Sudan Medal In Silver back-removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen s Sudan Medal In Silver-removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen s Sudan Medal Obverse -removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen s Sudan Medal Reverse -removebg-preview.png | Orders, decorations and medals of Sudan
+- Queen's Sudan Medal | Queen's Sudan Medal (Obverse).jpg | British campaign medal awarded  for the Sudanese campaign 1896-98.
+- Queen's Sudan Medal | Queen's Sudan Medal (Reverse).jpg | British campaign medal awarded  for the Sudanese campaign 1896-98.
+- Queen's Sudan Medal | Queens Sudan Medal BAR.svg | Ribbon bar: Queen's Sudan Medal (British)
+- Queen's Sudan Medal | Queens Sudan Medal rev.jpg | Queens Sudan Medal 1896-97 reverse
+- Queen's Sudan Medal | Queens Sudan Medal.jpg | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | SDF Long Service and conduct 1933.jpg | Orders, decorations and medals of Sudan
+- 1933 Defence Force awards | SDF Native Officers 1933.jpg | Orders, decorations and medals of Sudan
+- Sash of Honour (Sudan) | Sash of Honour Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Science, Literature and Arts | Science gold part of Order of Merit of the Sudanese Republic.png | Since Gold Medal (front), part of Order of Merit of the Sudanese Republic
+- Order of Science, Literature and Arts | Science silver part of Order of Merit of the Sudanese Republic.png | Since Sliver Medal, part of Order of Merit of the Sudanese Republic
+- Order of the Two Niles | Soudan 2nils collier-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Soudan 2nils plaque-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Soudan 2nils-removebg-preview.png | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | Star of Civil Accomplishment-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Military Accomplishment | Star of Military Accomplishment Sudan-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Military Accomplishment | Star of Military Accomplishment-removebg-preview.png | Orders, decorations and medals of Sudan Permission: Under the 1996 law copyright does not extend to state emblems and symbols or official documents.  [1996 Section 6]  
+- Order of Military Accomplishment | Star of Miltary achievment.jpg | Orders, decorations and medals of Sudan
+- Order of Bravery (Sudan) | Sudan Medal of Bravery.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Sudan Order of Merit Bronze.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Sudan Order of Merit Gold front.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Sudan Order of Merit Silver.png | Orders, decorations and medals of Sudan
+- Order of Merit of the Sudanese Republic | Sudan Order of Merit.png | Orders, decorations and medals of Sudan
+- Order of the Republic (Sudan) | Sudan Order of the Republic.png | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | Sudan+Order+of+Civil+Accomplishment+LPM-removebg-preview.png | Orders, decorations and medals of Sudan
+- Order of the Republic (Sudan) | Sudan+Order+of+Republic+II+C+Badge+ME-removebg-preview.png | Orders, decorations and medals of Sudan
+- Orders, decorations and medals of Sudan | The Sudanese Barnstar of National Merit.png | The Sudanese Barnstar of National Merit
+- Order of the Two Niles | Two+Niles+Knight+LPM-removebg-preview.png | Orders, decorations and medals of Sudan
+- 1969 cop d’état related awards | Victroy Medal.jpg | Orders, decorations and medals of Sudan
+- Order of the Two Niles | Volgograd Panorama Museum — Order of the Two Niles.jpg | Орден Двух Нилов (Судан), которыми награждён город Волгоград. Знак ордена (на ленте) и звезда. Коллекция музея-панорамы «Сталинградская битва» в городе Волгограде.  [1] .
+
+## 阿塞拜疆 (301)
+- SVG orders, decorations and medals of Azerbaijan | "ASAN xidmət" ilə səmərəli əməkdaşlığa görə" medalı.svg | "ASAN xidmət" ilə səmərəli əməkdaşlığa görə" medalı
+- Medals of Azerbaijan | "Azərbaycan Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)" yubiley medalı.jpg | "Azərbaycan Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Azərbaycan Dövlət Gömrük Komitəsinin 26 illiyi (1992-2017)" yubiley medalı.jpg | "Azərbaycan Dövlət Gömrük Komitəsinin 26 illiyi (1992-2017)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920–2020)" yubiley medalı.png | "Azərbaycan Dövlət Neft və Sənaye Universitetinin 100 illiyi (1920–2020)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Dövlət Pedaqoji Universitetinin 100 illiyi (1921–2021)" yubiley medalı.png | "Azərbaycan Dövlət Pedaqoji Universitetinin 100 illiyi (1921–2021)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)" yubiley medalı.png | "Azərbaycan Dəmir Yollarının 140 illiyi (1880–2020)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Narı" döş nişanı.png | "Azərbaycan Narı" döş nişanı — Azərbaycan Nar İstehsalçıları və İxracatçıları Assosiasiyası (ANİİA) tərəfindən təsis edilmiş mükafat.
+- Medals of Azerbaijan | "Azərbaycan Ordusunun 100 illiyi (1918-2018)" yubiley medalı.png | "Azərbaycan Ordusunun 100 illiyi (1918-2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Polisinin 100 illiyi (1918–2018)" yubiley medalı.png | "Azərbaycan Polisinin 100 illiyi (1918–2018)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Polisinin 90 illiyi (1918–2008)" yubiley medalı.png | "Azərbaycan Polisinin 90 illiyi (1918–2008)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Polisinin 95 illiyi (1918–2013)" yubiley medalı.png | "Azərbaycan Polisinin 95 illiyi (1918–2013)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Prokurorluğunun 100 illiyi (1918-2018)" yubiley medalı.png | "Azərbaycan Prokurorluğunun 100 illiyi (1918-2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992–2012)" yubiley medalı.png | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992–2012)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992–2017)" yubiley medalı.png | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992–2017)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992–2022)" yubiley medalı.png | "Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 30 illiyi (1992–2022)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007–2017)" yubiley medalı.png | "Azərbaycan Respublikası Dövlət Miqrasiya Xidmətinin 10 illiyi (2007–2017)" yubiley medalının lenti
+- Medals of Azerbaijan | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005–2015)" yubiley medalı.png | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005–2015)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)" yubiley medalı.png | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 15 illiyi (2005–2020)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 20 illiyi (2005–2025)" yubiley medalı.png | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 20 illiyi (2005–2025)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 5 illiyi (2005–2010)" yubiley medalı.png | "Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 5 illiyi (2005–2010)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Konstitusiyasının 30 illiyi (1995–2025)" yubiley medalı.png | "Azərbaycan Respublikası Konstitusiyasının 30 illiyi (1995–2025)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Minatəmizləmə Agentliyinin 25 illiyi (1998–2023)" yubiley medalı.png | "Azərbaycan Respublikası Minatəmizləmə Agentliyinin 25 illiyi (1998–2023)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Müdafiə Sənayesi Nazirliyinin 15 illiyi (2005–2020)" yubiley medalı.png | "Azərbaycan Respublikası Müdafiə Sənayesi Nazirliyinin 15 illiyi (2005–2020)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Məhkəmə-Hüquq Şurasının 20 illiyi (2005–2025)" yubiley medalı.png | "Azərbaycan Respublikası Məhkəmə-Hüquq Şurasının 20 illiyi (2005–2025)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)" yubiley medalı.png | "Azərbaycan Respublikası Prezidentinin təhlükəsizliyini təmin edən orqanın 30 illiyi (1993–2023)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Silahlı Qüvvələrinin 10 illiyi (1991–2001)" yubiley medalı.png | "Azərbaycan Respublikası Silahlı Qüvvələrinin 10 illiyi (1991–2001)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918–2008)" yubiley medalı.png | "Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918–2008)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)" yubiley medalı.png | "Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918-2013)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012–2022)" yubiley medalı.png | "Azərbaycan Respublikası Səfərbərlik və Hərbi Xidmətə Çağırış üzrə Dövlət Xidmətinin 10 illiyi (2012–2022)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası Vergilər Nazirliyinin 10 illiyi (2000–2010)" yubiley medalı.png | "Azərbaycan Respublikası Vergilər Nazirliyinin 10 illiyi (2000–2010)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993–2013)" yubiley medalı.png | "Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993–2013)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)" yubiley medalı.png | "Azərbaycan Respublikası Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993–2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919-2019)" yubiley medal.png | Медаль «100-річчя органів дипломатичної служби Азербайджанської Республіки»
+- Medals of Azerbaijan | "Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919-2019)" yubiley medalı.png | "Azərbaycan Respublikası diplomatik xidmət orqanlarının 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919–2009)" yubiley medalı.png | "Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919–2009)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919–2009)" yubiley medalı.png | "Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 90 illiyi (1919–2009)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919–2014)" yubiley medalı.png | "Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919–2014)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikasının Prezidenti yanında Vətəndaşlara Xidmət və Sosial İnnovasiyalar üzrə Dövlət Agentliyinin 10 illiyi (2012–2022)" yubiley medalı.png | "Azərbaycan Respublikasının Prezidenti yanında Vətəndaşlara Xidmət və Sosial İnnovasiyalar üzrə Dövlət Agentliyinin 10 illiyi (2012–2022)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi" yubiley medalı.png | "Azərbaycan Respublikasının dövlət müstəqilliyinin bərpasının 20 illiyi" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Respublikasının strateji obyektlərin mühafizəsi orqanlarının 30 illiyi (1993–2023)" yubiley medalı.png | "Azərbaycan Respublikasının strateji obyektlərin mühafizəsi orqanlarının 30 illiyi (1993–2023)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)" yubiley medalı.png | "Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) təsisatının 20 illiyi (2002–2022)" yubiley medalı.png | "Azərbaycan Respublikasının İnsan hüquqları üzrə müvəkkili (ombudsman) təsisatının 20 illiyi (2002–2022)" yubiley medalı
+- Badges of honorary titles of Azerbaijan | "Azərbaycan Respublikasının Əməkdar məşqçisi" mükafatı.png | "Azərbaycan Respublikasının Əməkdar məşqçisi" mükafatı
+- Badges of honorary titles of Azerbaijan | "Azərbaycan Respublikasının Əməkdar İdman Ustas" mükafatı.png | "Azərbaycan Respublikasının Əməkdar İdman Ustası" mükafatı
+- Medals of Azerbaijan | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı (ümumi).jpg | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı.jpg | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı.png | "Azərbaycan Sərhəd Mühafizəsinin 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919–2009)" yubiley medalı.png | "Azərbaycan Sərhəd Mühafizəsinin 90 illiyi (1919–2009)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919–2014)" yubiley medalı.png | "Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919–2014)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Xalq Cümhuriyyətinin 100 illiyi (1918-2018)" yubiley medalı.jpg | This is the picture of the Jubilee medal dedicated to "The 100th anniversary of the Azerbaijan Democratic Republic (1918-2018)". It is launched according to the Decree of the Presi
+- Medals of Azerbaijan | "Azərbaycan Xalq Cümhuriyyətinin 100 illiyi (1918-2018)" yubiley medalı.png | "Azərbaycan Xalq Cümhuriyyətinin 100 illiyi (1918-2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)" yubiley medalı.jpg | "Azərbaycan Xüsusi Dövlət Mühafizə Xidmətinin 20 illiyi (1993-2013)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Azərbaycan Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993-2018)" yubiley medalı.jpg | "Azərbaycan Xüsusi Dövlət Mühafizə Xidmətinin 25 illiyi (1993-2018)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Azərbaycan Xəzər Dəniz Gəmiçiliyinin 160 illiyi (1858–2018)" yubiley medalı.png | "Azərbaycan Xəzər Dəniz Gəmiçiliyinin 160 illiyi (1858–2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan avtomobil yolları — 100 il (1918–2018)" yubiley medalı.png | "Azərbaycan avtomobil yolları — 100 il (1918–2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan milli mətbuatının 150 illiyi (1875–2025)" yubiley medalı.png | "Azərbaycan milli mətbuatının 150 illiyi (1875–2025)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalı.jpg | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalı
+- Medals of Azerbaijan | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalının arxa tərəfi.png | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalının arxa tərəfi
+- Medals of Azerbaijan | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalının ön tərəfi.png | "Azərbaycan Ədliyyəsinin 100 illiyi (1918-2018)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Bakı Dövlət Universitetinin 100 illiyi (1919-2019)" yubiley medalı.jpg | "Bakı Dövlət Universitetinin 100 illiyi (1919-2019)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Bakı Dövlət Universitetinin 100 illiyi (1919-2019)" yubiley medalı.png | "Bakı Dövlət Universitetinin 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Bakı Dövlət Universitetinin 100 illiyi" yubiley medalı.jpg | "Bakı Dövlət Universitetinin 100 illiyi (1919-2019)" yubiley medalı
+- Medals of Azerbaijan | "Böyük Vətən müharibəsində qələbənin 75 illiyi (1945–2020)" yubiley medalı.png | "Böyük Vətən müharibəsində qələbənin 75 illiyi (1945–2020)" yubiley medalı
+- Medals of Azerbaijan | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 1-ci dərəcəli medalı.png | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 1-ci dərəcəli medalının ön tərəfi
+- Medals of Azerbaijan | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 2-ci dərəcəli medalı.png | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 2-ci dərəcəli medalının ön tərəfi
+- Medals of Azerbaijan | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 3-cü dərəcəli medalı.png | "Daxili işlər orqanlarında qüsursuz xidmətə görə" 3-cü dərəcəli medalının ön tərəfi
+- Medals of Azerbaijan | "Daxili işlər orqanlarında xidmətdə fərqlənməyə görə" medalı.png | "Daxili işlər orqanlarında xidmətdə fərqlənməyə görə" medalının ön tərəfi
+- Medals of Azerbaijan | "Diaspor fəaliyyətində xidmətə görə" medalı.png | "Diaspor fəaliyyətində xidmətə görə" medalı
+- Medals of Azerbaijan | "Diplomatik xidmətdə fərqlənməyə görə" medalı.png | "Diplomatik xidmətdə fərqlənməyə görə" medalının ön tərəfi
+- Medals of Azerbaijan | "Diplomatik xidmətə verilən töhfəyə görə" medalı.png | "Diplomatik xidmətə verilən töhfəyə görə" medalı
+- Medals of Azerbaijan | "Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)" yubiley medalı.jpg | "Dövlət Miqrasiya Xidmətinin 10 illiyi (2007-2017)" yubiley medalının təsviri
+- Medals of Azerbaijan | "Dövlət qulluğunda fərqlənməyə görə" medalı.png | "Dövlət qulluğunda fərqlənməyə görə" medalının ön tərəfi
+- Medals of Azerbaijan | "Fövqəladə hallar orqanları ilə səmərəli əməkdaşlığa görə" medalı.png | "Fövqəladə hallar orqanları ilə səmərəli əməkdaşlığa görə" medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 1-ci dərəcəli medalı.png | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 1-ci dərəcəli medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 2-ci dərəcəli medalı.png | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 2-ci dərəcəli medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 3-cü dərəcəli medalı.png | "Fövqəladə hallar orqanlarında qüsursuz xidmətə görə" 3-cü dərəcəli medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 1-ci dərəcəli dərəcəli medalı.png | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 1-ci dərəcəli dərəcəli medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 2-ci dərəcəli dərəcəli medalı.png | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 2-ci dərəcəli dərəcəli medalı
+- Medals of Azerbaijan | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 3-cü dərəcəli dərəcəli medalı.png | "Fövqəladə hallar orqanlarında xidmətdə fərqlənməyə görə" 3-cü dərəcəli dərəcəli medalı
+- Medals of Azerbaijan | "Gömrük orqanları ilə səmərəli əməkdaşlığa görə" medalı.png | "Gömrük orqanları ilə səmərəli əməkdaşlığa görə" medalı
+- Medals of Azerbaijan | "Gəmiçilik sahəsində xidmətlərə görə" medalı.png | "Gəmiçilik sahəsində xidmətlərə görə" medalı
+- Medals of Azerbaijan | "Hero of the Patriotic War" medal of Azerbaijan.png | “Vətən Müharibəsi Qəhrəmanı” Azərbaycan Respublikası medalı
+- Medals of Azerbaijan | "Heydər Əliyevin 100 illiyi (1923-2023)" yubiley medalı.png | "Heydər Əliyevin 100 illiyi (1923-2023)" yubiley medalı
+- Medals of Azerbaijan | "Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə" medalı - lent.png | "Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə" Azərbaycan Respublikasının medalı
+- Medals of Azerbaijan | "Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə" medalı.png | "Hərbi vətənpərvərlik tərbiyəsində xidmətlərə görə" Azərbaycan Respublikasının medalı
+- Medals of Azerbaijan | "Minatəmizləmə sahəsində xidmətlərə görə" medalı.png | "Minatəmizləmə sahəsində xidmətlərə görə" medalı
+- Medals of Azerbaijan | "Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə" medalı.jpg | "Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə" medalının təsviri
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qulluqda fərqlənməyə görə" medalı.jpg | "Miqrasiya orqanlarında qulluqda fərqlənməyə görə" medalının təsviri
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 1-ci dərəcəli medalı.png | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 1-ci dərəcəli medalı
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 2-ci dərəcəli medalı.png | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 2-ci dərəcəli medalı
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 3-cü dərəcəli medalı.png | "Miqrasiya orqanlarında qüsursuz qulluğa görə" 3-cü dərəcəli medalı
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" I dərəcəli medalı.jpg | "Miqrasiya orqanlarında qüsursuz qulluğa görə" I dərəcəli medalının təsviri
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" II dərəcəli medalı.jpg | "Miqrasiya orqanlarında qüsursuz qulluğa görə" II dərəcəli medalının təsviri
+- Medals of Azerbaijan | "Miqrasiya orqanlarında qüsursuz qulluğa görə" III dərəcəli medalı.jpg | "Miqrasiya orqanlarında qüsursuz qulluğa görə" III dərəcəli medalının təsviri
+- Medals of Azerbaijan | "Müdafiə sənayesi sahəsində əməkdaşlığa görə" medalı.png | "Müdafiə sənayesi sahəsində əməkdaşlığa görə" medalı
+- Medals of Azerbaijan | "Mülki Aviasiyasının 75 illiyi (1938–2013)" yubiley medalı.png | "Mülki Aviasiyasının 75 illiyi (1938–2013)" yubiley medalının ön tərəfi
+- Medals of Azerbaijan | "Mülki aviasiya sahəsində xidmətlərə görə" medalı.jpg | "Mülki aviasiya sahəsində xidmətlərə görə" medalının təsviri
+- Medals of Azerbaijan | "Mülki aviasiya sahəsində xidmətlərə görə" medalı.png | "Mülki aviasiya sahəsində xidmətlərə görə" medalı
+- Medals of Azerbaijan | "Prokurorluq orqanları ilə səmərəli əməkdaşlığa görə" medalı.png | "Prokurorluq orqanlarında qulluqda fərqlənməyə görə" medalı
+- Medals of Azerbaijan | "Prokurorluq orqanlarında qulluqda fərqlənməyə görə" medalı.png | "Prokurorluq orqanlarında qulluqda fərqlənməyə görə" medalı
+- Medals of Azerbaijan | "Qüsursuz xidmətə görə" medalı 1-ci dərəcəli.png | "Qüsursuz xidmətə görə" medalı 1-ci dərəcəli
+- Medals of Azerbaijan | "Sərhəddə fərqlənməyə görə" medalı.png | "Sərhəddə fərqlənməyə görə" medalı
+- Taraggi | "Tərəqqi" medalı.jpg | Taraggi medal
+- Taraggi | "Tərəqqi" medalı.png | Taraggi medal
+- Medals of Azerbaijan | "Vergi orqanları ilə səmərəli əməkdaşlığa görə" medalı.png | "Vergi orqanları ilə səmərəli əməkdaşlığa görə" medalı
+- Medals of Azerbaijan | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 1-ci dərəcəli medalı.png | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 1-ci dərəcəli medalının üz tərəfi
+- Medals of Azerbaijan | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 2-ci dərəcəli medalı.png | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 2-ci dərəcəli medalının üz tərəfi
+- Medals of Azerbaijan | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 3-cü dərəcəli medalı.png | "Vergi orqanlarında xidmətdə fərqlənməyə görə" 3-cü dərəcəli medalının üz tərəfi
+- Medals of Azerbaijan | "Şücaətə görə" medalı.png | "Şücaətə görə" medalı
+- Medals of Azerbaijan | "Ədliyyə sahəsində fərqlənməyə görə" medalı.png | "Ədliyyə sahəsində fərqlənməyə görə" medalı
+- Badges of honorary titles of Azerbaijan | "Əməkdar artist" fəxri adının döş nişanı 2.png | “Əməkdar artist” fəxri adının döş nişanı
+- Medals of Azerbaijan | "Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə" medalı.png | "Ətraf mühitin mühafizəsi sahəsində fərqlənməyə görə" medalı
+- Medals of Azerbaijan | 1941-1945 75 illiyi yubiley medalı ön üzü.png | "1941-1945-ci illər Böyük Vətən müharibəsində Qələbənin 75 illiyi" yubiley medalı ön üzü
+- Medals of Azerbaijan | 2ci dərəcəli fərqlənmə ordeni.png | 2ci dərəcəli
+- Medals of Azerbaijan | 30illikmedali.png | "Azərbaycan Respublikasının xüsusi rabitə və informasiya təhlükəsizliyi orqanlarının 30 illiyi (1993–2023)" yubiley medalı
+- Medals of Azerbaijan | 75MA.jpg | 1938-2013
+- Medals of Azerbaijan | ADYmedal140 (cropped).jpg | “Azərbaycan Dəmir Yollarının 140 illiyi (1880-2020)” Azərbaycan Respublikasının yubiley medalı təsis edilib.
+- Medals of Azerbaijan | ADYmedal140-2.jpg | “Azərbaycan Dəmir Yollarının 140 illiyi (1880-2020)” Azərbaycan Respublikasının yubiley medalı təsis edilib.
+- Medals of Azerbaijan | ADYmedal140.jpg | “Azərbaycan Dəmir Yollarının 140 illiyi (1880-2020)” Azərbaycan Respublikasının yubiley medalı təsis edilib.
+- Orders, decorations and medals of Azerbaijan | AR FHN "Xilasedici - 2-ci dərəcə" Döş Nişanı.jpg | Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin "Xilasedici - 2-ci dərəcə" Döş Nişanı
+- Orders, decorations and medals of Azerbaijan | AR FHN "Xilasedici - 3-cü dərəcə" Döş Nişanı.jpg | Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin "Xilasedici - 3-cü dərəcə" Döş Nişanı
+- Orders, decorations and medals of Azerbaijan | AZ Prezidentinin fexri diplomu.png | Azərbaycan Respublikası Prezidentinin fəxri diplomu
+- Badges of honorary titles of Azerbaijan | AZ fexri adinin dos nisani.png | Azərbaycan Respublikası fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | AZ fexri adlarinin siyahiları.png | Azərbaycan Respublikası fəxri adlarının siyahıları
+- Taraggi | AZE Progress Medal (2009) BAR.svg | Ribbon bar: Taraggi Medal ("Progress Medal") – model since 22 May 2009; Azerbaijan.
+- Taraggi | AZE Progress Medal (until 2009) BAR.svg | Ribbon bar: Taraggi Medal ("Progress Medal") – model (until 22 April 2009); Azerbaijan.
+- Medals of Azerbaijan | Arxdm1m.jpg | 1993-2013
+- Signs on Azerbaijan | Az idman ustasi.png | Azərbaycanın Idman Ustası
+- Medals of Azerbaijan | Azad Mirzajanzade International Silver Medal.png | Azad Mirzajanzade International Silver Medal
+- Medals of Azerbaijan | Aze Brave Warrior Medale.png | Aze_Brave_Warrior_Medale
+- Medals of Azerbaijan | Azərbaycan Bayragı ordeni.png | təltif olunub
+- Medals of Azerbaijan | Azərbaycan Ordusunun 100 illiyi (1918-2018) yubiley medalı.png | ORDEN
+- Medals of Azerbaijan | Azərbaycan Polisinin 100 illiyi (1918-2018) yubiley medalı.jpg | "Azərbaycan Polisinin 100 illiyi (1918-2018)" yubiley medalı
+- Orders, decorations and medals of Azerbaijan | Azərbaycan Prokurorluğunun 100 illiyi (1918-2018) yubiley medalı.jpg | “Azərbaycan Prokurorluğunun 100 illiyi (1918–2018)” Azərbaycan Respublikasının yubiley medalının təsis edilməsi ilə əlaqədar “Azərbaycan Respublikasının orden və medallarının təsis
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələri Veteranı medalı-2013.jpg | Azərbaycan Respublikasının “Azərbaycan Respublikası Silahlı Qüvvələri Veteranı” medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələri Veteranı medalı.jpg | Azərbaycan Respublikasının "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələrinin 10 illiyi yubiley medalı - ön.jpg | Azərbaycan Respublikasının «Azərbaycan Respublikası Silahlı Qüvvələrinin 10 illiyi (1991—2001)» yubiley medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918-2008) yubiley medalı - arxa.jpg | Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918-2008) yubiley medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918-2008) yubiley medalı - ön.jpg | Azərbaycan Respublikası Silahlı Qüvvələrinin 90 illiyi (1918-2008) yubiley medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi yubiley medalı - ön.jpg | Azərbaycan Respublikasının «Azərbaycan Respublikası Silahlı Qüvvələrinin 95 illiyi (1918—2013)» yubiley medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009) yubiley medalı.jpg | Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009) yubiley medalı
+- Medals of Azerbaijan | Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009) yubiley medalının təsviri.JPG | Azərbaycan Respublikası diplomatik xidmət orqanlarının 90 illiyi (1919-2009) yubiley medalının təsviri
+- Medals of Azerbaijan | Azərbaycan Respublikası dövlət təhlükəsizliyi və xarici kəşfiyyat orqanlarının 100 illik yubiley medalının yaxalığı 2.jpg | The picture depicts anniversary medal of the Republic of Azerbaijan "100th anniversary of the state security and foreign intelligence agencies of the Republic of Azerbaijan (1919-2
+- Badges of honorary titles of Azerbaijan | Azərbaycan Respublikasının xalq rəssamı.png | People's Artist of the Republic of Azerbaijan
+- Badges of honorary titles of Azerbaijan | Azərbaycan Respublikasının əməkdar memarı.png | Azərbaycan Respublikasının əməkdar memarı
+- Badges of honorary titles of Azerbaijan | Azərbaycan Respublikasının əməkdar rəssamı.png | Honored Artist of the Republic of Azerbaijan
+- Badges of honorary titles of Azerbaijan | Azərbaycan Respublikasının əməkdar xadimi.png | Azərbaycan Respublikasının əməkdar (elm, incəsənət) xadimi
+- SVG orders, decorations and medals of Azerbaijan | Ağdamın Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Aghdam" (2020 Nagorno-Karabakh war)
+- Orders, decorations and medals of Azerbaijan | Aşıq Ələsgər - 150 yubiley medalı.jpg | Aşıq Ələsgər - 150 yubiley medalı
+- Medals of Azerbaijan | Cebrayilin.jpg | Cəbrayılın azad olunmasına görə
+- SVG orders, decorations and medals of Azerbaijan | Cəbrayılın Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Jabrayil" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Cəsur Döyüşçü medalı.png | Cəsur Döyüşçü medalı
+- SVG orders, decorations and medals of Azerbaijan | Cəsur Döyüşçü medalı.svg | Azerbaijani medal "Brave Warrior" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | DMB20İLİ1m1.jpg | 1991-2011
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 1-ci dərəcə-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 1-ci dərəcəsi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 1-ci dərəcə-arxa-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 1-ci dərəcəsinin arxa tərəfi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 1-ci dərəcə-ön-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 1-ci dərəcəsi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 2-ci dərəcə-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 2-ci dərəcəsi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 2-ci dərəcə-arxa-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 2-ci dərəcəsinin arxa tərəfi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 2-ci dərəcə-ön-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 2-ci dərəcəsi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 3-cü dərəcə-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 3-cü dərəcəsi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 3-cü dərəcə-arxa-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 3-cü dərəcəsinin arxa tərəfi
+- Medals of Azerbaijan | Daxili işlər orqanlarında qüsursuz xidmətə görə medalı, 3-cü dərəcə-ön-2013.jpg | Azərbaycan Respublikasının “Daxili işlər orqanlarında qüsursuz xidmətə görə” medalının 3-cü dərəcəsi
+- Medals of Azerbaijan | Dövlət qulluğunda fərqlənməyə görə medalı-2003.JPG | Azərbaycan Respublikasının “Dövlət qulluğunda fərqlənməyə görə” medalı
+- Medals of Azerbaijan | Dövlət qulluğunda fərqlənməyə görə medalı-2013.jpg | Azərbaycan Respublikasının “Dövlət qulluğunda fərqlənməyə görə” medalı
+- SVG orders, decorations and medals of Azerbaijan | Döyüşdə Fərqlənməyə Görə medalı.svg | Azerbaijani medal "For Distinction in Battle medal" (2020 Nagorno-Karabakh war)
+- Badges of honorary titles of Azerbaijan | Eixdn1m1 2.png | “Əməkdar incəsənət xadimi” fəxri adının döş nişanı
+- Medals of Azerbaijan | Fhnym10ilm1.png | 2005-2015
+- Medals of Azerbaijan | Fhoqx1m.jpg | I dərəcə
+- Medals of Azerbaijan | Fhoqx2m.jpg | II dərəcə
+- Medals of Azerbaijan | Fhoqx3m.jpg | III dərəcə
+- Medals of Azerbaijan | Fhoym5il.jpg | 2005-2010
+- Medals of Azerbaijan | Fhqxg1m.jpg | 1 dərəcə
+- Medals of Azerbaijan | Fhqxg2m.jpg | 2 dərəcə
+- Medals of Azerbaijan | Fhqxg3m.jpg | 3 dərəcə
+- Medals of Azerbaijan | Fhsegm1.jpg | 1medal
+- Medals of Azerbaijan | For impeccable service medal 1st degree.png | 1-ci dərəcəli "Qüsursuz xidmətə görə" medalı
+- Medals of Azerbaijan | For impeccable service medal 2nd degree.png | 2-ci dərəcəli "Qüsursuz xidmətə görə" medalı
+- Medals of Azerbaijan | For impeccable service medal 3rd degree.png | 3-cü dərəcəli "Qüsursuz xidmətə görə" medalı
+- Medals of Azerbaijan | For services in the field of military cooperation medal.png | "Hərbi əməkdaşlıq sahəsində xidmətlərə görə" medalı
+- Medals of Azerbaijan | For the distinction in battle medal.png | "Döyüşdə fərqlənməyə görə" medalı
+- Medals of Azerbaijan | For the services in the rear in the Patriotic War medal.png | "Vətən müharibəsində arxa cəbhədə xidmətlərə görə" medalı
+- Medals of Azerbaijan | Fuzulinin azad olunmasi.jpg | Fuzulinin azad olunmasi ugrunda
+- Medals of Azerbaijan | Füzuli medalı.jpg | "Füzulinin azad olunması uğrunda" medal
+- SVG orders, decorations and medals of Azerbaijan | Füzulinin Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Fuzuli" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Gəmiçilik sahəsində xidmətlərə görə medalı.jpg | "Gəmiçilik sahəsində xidmətlərə görə" medalı
+- Badges of honorary titles of Azerbaijan | Gənclər üçün Prezident Mükafatı.png | Gənclər üçün Prezident Mükafatının nişanı
+- Orders, decorations and medals of Azerbaijan | Hazi Aslanov Order of Azerbaijan.jpg | Hazi Aslanov Order of Azerbaijan
+- Badges of honorary titles of Azerbaijan | Honored Artist of the Republic of Azerbaijan.png | Honored Artist of the Republic of Azerbaijan
+- Badges of honorary titles of Azerbaijan | Honored Pilot of Azerbaijan.png | Azərbaycan Respublikasının əməkdar pilotu
+- Medals of Azerbaijan | Hərbi əməkdaşlıq sahəsində xidmətlərə görə medalı-2013.jpg | Azərbaycan Respublikasının “Hərbi əməkdaşlıq sahəsində xidmətlərə görə” medalı
+- Medals of Azerbaijan | Hərbi əməkdaşlıq sahəsində xidmətlərə görə medalı.jpg | Azərbaycan Respublikasının “Hərbi əməkdaşlıq sahəsində xidmətlərə görə” medalı
+- Medals of Azerbaijan | Jubilee medal of 100th anniversary of the Azerbaijani army.jpg | "Azərbaycan Ordusunun 100 illiyi (1918-2018)" yubiley medalı
+- SVG orders, decorations and medals of Azerbaijan | Kəlbəcərin Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Kalbajar" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Lacinin.jpg | Laçının azad olunmasına görə
+- SVG orders, decorations and medals of Azerbaijan | Laçının Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Lachin" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Medal "For Distinction in Military Service" 1st degree.png | 1-ci dərəcəli "Hərbi xidmətdə fərqlənməyə görə" medalı
+- Medals of Azerbaijan | Medal "For Distinction in Military Service" 2nd degree.png | 2-ci dərəcəli "Hərbi xidmətdə fərqlənməyə görə" medalı
+- Medals of Azerbaijan | Medal "For Distinction in Military Service" 3rd degree.png | 3-cü dərəcəli "Hərbi xidmətdə fərqlənməyə görə" medalı
+- Medals of Azerbaijan | Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə medalı.png | "Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə" medalının ön tərəfi
+- SVG orders, decorations and medals of Azerbaijan | National Hero of Azerbaijan.svg | Медаль Национального Героя Азербайджана
+- Orders, decorations and medals of Azerbaijan | Naxçıvan Muxtar Respublikasının əməkdar incəsənət xadiminin döş nişanı.png | Naxçıvan Muxtar Respublikasının əməkdar incəsənət xadiminin döş nişanı
+- Medals of Azerbaijan | Participant of the Patriotic War medal.png | "Vətən müharibəsi iştirakçısı" medalı
+- Medals of Azerbaijan | Patriot Kor Order.png | Patriot Kor Order
+- Badges of honorary titles of Azerbaijan | People's Artist of the Republic of Azerbaijan.png | People's Artist of the Azerbaijan
+- SVG orders, decorations and medals of Azerbaijan | Qarabağ ordeni.svg | Azerbaijani order "Karabakh" (2020 Nagorno-Karabakh war)
+- Orders, decorations and medals of Azerbaijan | Qubadlinin.jpg | Qubadlının azad olunmasına görə
+- SVG orders, decorations and medals of Azerbaijan | Qubadlının Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Gubadly" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Qüsursuz xidmətə görə 2 dərəcəli medal lenti.jpg | Qüsursuz xidmətə görə 2 dərəcəli medal lenti
+- Medals of Azerbaijan | Qüsursuz xidmətə görə 3 dərəcəli medal lenti.jpg | Qüsursuz xidmətə görə 3 dərəcəli medal lenti
+- Medals of Azerbaijan | Sign of winner of Lenin Komsomol prize of Azerbaijan.png |  “Sign of winner of Lenin Komsomol prize of Azerbaijan”. 
+- SVG orders, decorations and medals of Azerbaijan | Suqovuşanın Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Sugovushan" (2020 Nagorno-Karabakh war)
+- Artist medal (Azerbaijan) | Sənətkar medalı.png | Senetkar award
+- Medals of Azerbaijan | Sərhəddə fərqlənməyə görə medalı-1993.jpg | Azərbaycan Respublikasının “Sərhəddə fərqlənməyə görə” medalının 1993-cü il tarixli təsviri
+- Medals of Azerbaijan | Sərhəddə fərqlənməyə görə medalı.jpg | Sərhəddə fərqlənməyə görə medalı
+- Medals of Azerbaijan | The jubilee medal of the Republic of Azerbaijan.jpg | The Azerbaijani medal "100th Anniversary of the Diplomatic Service Bodies of the Republic of Azerbaijan (1919 - 2019)"
+- Medals of Azerbaijan | The medal struck on the occasion of opening the Azerbaijan Parliament.jpg | The medal struck on the occasion of opening the Azerbaijan Parliament, Museum of History of Azerbaijan, Baku.
+- Medals of Azerbaijan | Türk Dünyası Kahramanı İbad Hüseynli Medalı.png | Türk Dünyası Kəhrəmanı İbad Hüseynli Medalı
+- Medals of Azerbaijan | Türk Dünyası Kahramanı İbad Hüseynli.png | Türk Dünyası Kahramanı İbad Hüseynli Medalı
+- Taraggi | Tərəqqi medalı (08.07.2011).jpg | Tərəqqi medalı
+- Taraggi | Tərəqqi medalı - lent (2009).png | "Tərəqqi" medalının lenti (2013-)
+- Taraggi | Tərəqqi medalı - lent (until 2009).png | "Tərəqqi" medalının lenti (2009-cu ilədək)
+- Taraggi | Tərəqqi medalı lenti variantı.png | Tərəqqi medalının versiyalarından birinin lenti
+- Taraggi | Tərəqqi medalı-1993.jpg | Azərbaycan Respublikasının “Tərəqqi” medalının 1993-cü il tarixli təsviri
+- Taraggi | Tərəqqi medalı-yeni-lent.jpg | "Tərəqqi" medalının lenti
+- Taraggi | Tərəqqi medalı-yeni.jpg | "Tərəqqi" medalı
+- Taraggi | Tərəqqi medalı.jpg | "Tərəqqi" medalı
+- Vagif Samadoghlu Medal | Vagif Samadoghlu medal.png | Vaqif Səmədoğlu medalı - face
+- Vagif Samadoghlu Medal | Vagif Samadoghlu medal2.png | Vaqif Səmədoğlu medalı
+- Medals of Azerbaijan | Veten ugrunda medalı.png | Vətən uğrunda medalı
+- Medals of Azerbaijan | Veteran of Azerbaijani Armed Forces medal.png | "Azərbaycan Respublikası Silahlı Qüvvələri Veteranı" medalı
+- Orders of Azerbaijan | VƏTƏN.png | ORDEN
+- SVG orders, decorations and medals of Azerbaijan | Vətən Müharibəsi Iştirakçısı medalı.svg | Azerbaijani medal "Participant of the Patriotic War" (2020 Nagorno-Karabakh war)
+- SVG orders, decorations and medals of Azerbaijan | Vətən Müharibəsi Qəhrəmanı medalı.svg | Azerbaijani medal "Hero of the Patriotic War" (2020 Nagorno-Karabakh war)
+- SVG orders, decorations and medals of Azerbaijan | Vətən Müharibəsində Arxa Cəbhədə Xidmətlərə Görə medalı.svg | Azerbaijani medal "For Services in the Rear in the Patriotic War" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Vətən Müharibəsinin arxa cəbhəsində xidmətlərə görə medalı.jpeg | "Vətən Müharibəsinin arxa cəbhəsində xidmətlərə görə" medalı
+- Badges of honorary titles of Azerbaijan | Xalq artistinin döş nişanı.png | Azərbaycan Respublikasının Xalq artistinin döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Xalq rəssamının döş nişanı.png | Azərbaycan Respublikasının Xalq rəssamının döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Xalq yazıçısının döş nişanı.png | Azərbaycan Respublikasının Xalq yazıçısının döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Xalq şairinin döş nişanı.png | Azərbaycan Respublikasının Xalq şairinin döş nişanı (1998–2009)
+- SVG orders, decorations and medals of Azerbaijan | Xocavəndin Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Khojavend" (2020 Nagorno-Karabakh war)
+- SVG orders, decorations and medals of Azerbaijan | Zəfər ordeni.svg | Azerbaijani order "Zafar" (2020 Nagorno-Karabakh war)
+- SVG orders, decorations and medals of Azerbaijan | Zəngilanın Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Zangilan" (2020 Nagorno-Karabakh war)
+- Decorations of the Caucasian Muslims Office | Şeyxülislam ordeni.jpg | Sheikh ul-Islam Order
+- SVG orders, decorations and medals of Azerbaijan | Şuşanın Azad Olunmasına Görə medalı.svg | Azerbaijani medal "For the Liberation of Shusha" (2020 Nagorno-Karabakh war)
+- Medals of Azerbaijan | Şücaətə görə medalı - arxa tərəfi.jpg | Şücaətə görə medalı
+- Medals of Azerbaijan | Şücaətə görə medalı.jpg | Şücaətə görə medalı
+- Badges of honorary titles of Azerbaijan | Əməkdar artist fəxri adının döş nişanı.png | "Əməkdar artist" fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | Əməkdar artistin döş nişanı.png | Azərbaycan Respublikasının Əməkdar artistinin döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Əməkdar elm xadiminin döş nişanı.png | Azərbaycan Respublikasının Əməkdar elm xadiminin döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Əməkdar rəssamın döş nişanı.png | Azərbaycan Respublikasının Əməkdar rəssamının döş nişanı (1998–2009)
+- Badges of honorary titles of Azerbaijan | Заслуженный артист Азербайджана.jpg | фотография награды
+- Badges of honorary titles of Azerbaijan | Заслуженный артист Азербайджанской Республики.jpg | 
+- Badges of honorary titles of Azerbaijan | Заслуженный артист.jpg | Заслуженный артист Азербайджана (2002г.)
+- Medals of Azerbaijan | Медаль "За заслуги в диаспорской деятельности".jpg | Медаль Азербайджанской Республики
+- Badges of honorary titles of Azerbaijan | Медаль Заслуженный артист Азербайджана.jpg | образец медали
+- Badges of honorary titles of Azerbaijan | Народный артист Азербайджана.jpg | фотография награды
+- Medals of Azerbaijan | “Azərbaycan Polisinin 95 illiyi (1918-2013)” Azərbaycan Respublikasının yubiley medalı.jpg | “Azərbaycan Polisinin 95 illiyi (1918-2013)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)” Azərbaycan Respublikasının yubiley medalı.jpg | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 20 illiyi (1992-2012)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” Azərbaycan Respublikasının yubiley medalı - arxa tərəfi.jpg | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” Azərbaycan Respublikasının yubiley medalı - arxa tərəfi
+- Medals of Azerbaijan | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” Azərbaycan Respublikasının yubiley medalı.jpg | “Azərbaycan Respublikası Dövlət Gömrük Komitəsinin 25 illiyi (1992-2017)” Azərbaycan Respublikasının yubiley medalı - arxa tərəfi
+- Medals of Azerbaijan | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı - arxa.png | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı - hər iki tərəf.png | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı - ön.png | “Azərbaycan Respublikası Fövqəladə Hallar Nazirliyinin 10 illiyi (2005-2015)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı-arxa.jpg | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı-ön.jpg | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı.jpg | “Azərbaycan Respublikası milli təhlükəsizlik orqanlarının 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Badges of honorary titles of Azerbaijan | “Azərbaycan Respublikasının Fəxri Bədən Tərbiyəsi və İdman İşçisi” mükafatı.png | “Azərbaycan Respublikasının Fəxri Bədən Tərbiyəsi və İdman İşçisi” mükafatı
+- Medals of Azerbaijan | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı - hər iki tərəf.jpg | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı - lent.jpg | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı.jpg | “Azərbaycan Sərhəd Mühafizəsinin 95 illiyi (1919-2014)” Azərbaycan Respublikasının yubiley medalı
+- Medals of Azerbaijan | “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” Azərbaycan Respublikası medalı.jpg | “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” Azərbaycan Respublikası medalı
+- Medals of Azerbaijan | “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” medalı.png | “Miqrasiya orqanları ilə səmərəli əməkdaşlığa görə” medalı
+- Medals of Azerbaijan | “Miqrasiya orqanlarında qulluqda fərqlənməyə görə” Azərbaycan Respublikası medalı.jpg | “Miqrasiya orqanlarında qulluqda fərqlənməyə görə” Azərbaycan Respublikası medalı
+- Medals of Azerbaijan | “Miqrasiya orqanlarında qulluqda fərqlənməyə görə” medalı.png | "Miqrasiya orqanlarında qulluqda fərqlənməyə görə" medalı
+- Medals of Azerbaijan | “Miqrasiya orqanlarında qüsursuz qulluğa görə” I dərəcəli Azərbaycan Respublikası medalı.jpg | “Miqrasiya orqanlarında qüsursuz qulluğa görə” I dərəcəli Azərbaycan Respublikası medalı
+- Medals of Azerbaijan | “Miqrasiya orqanlarında qüsursuz qulluğa görə” II dərəcəli Azərbaycan Respublikası medalı.jpg | “Miqrasiya orqanlarında qüsursuz qulluğa görə” II dərəcəli Azərbaycan Respublikası medalı
+- Medals of Azerbaijan | “Miqrasiya orqanlarında qüsursuz qulluğa görə” III dərəcəli Azərbaycan Respublikası medalı.jpg | “Miqrasiya orqanlarında qüsursuz qulluğa görə” III dərəcəli Azərbaycan Respublikası medalı
+- Orders, decorations and medals of Azerbaijan | “Naxçıvan Muxtar Respublikasına xidmətlərə görə” nişanı.jpg | “Naxçıvan Muxtar Respublikasına xidmətlərə görə” nişanı
+- Orders, decorations and medals of Azerbaijan | “Rəşadətli əməyə görə” nişanı.jpg | “Rəşadətli əməyə görə” nişanı
+- Orders of Azerbaijan | “Vətən Övladı” ictimai ordeni.png | “Dədə Qorqud” Milli Fondu və “Azərbaycan Dünyası” beynəlxalq dərgisinin birgə layihəsi olan “Vətən Övladı” ictimai ordeni
+- Badges of honorary titles of Azerbaijan | “Xalq artisti” fəxri adının döş nişanı.jpg | “Xalq artisti” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Xalq rəssamı” fəxri adının döş nişanı.jpg | “Xalq rəssamı” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Xalq yazıçısı” fəxri adının döş nişanı.(crop).png | “Xalq yazıçısı” fəxri adının döş nişanı.
+- Badges of honorary titles of Azerbaijan | “Xalq yazıçısı” fəxri adının döş nişanı.jpg | “Xalq yazıçısı” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Xalq şairi” fəxri adının döş nişanı.jpg | “Xalq şairi” fəxri adının döş nişanı
+- Honored Artist of the Republic of Azerbaijan | “Əməkdar artist” fəxri adının döş nişanı.jpg | “Əməkdar artist” fəxri adının döş nişanı
+- Medals of Azerbaijan | “Əməkdar bədən tərbiyəsi və idman xadimi” fəxri adının döş nişanı.jpg | “Əməkdar bədən tərbiyəsi və idman xadimi” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar dövlət qulluqçusu” fəxri adının döş nişanı.jpg | “Əməkdar dövlət qulluqçusu” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar elm xadimi” fəxri adının döş nişanı.jpg | “Əməkdar elm xadimi” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar hüquqşünas” fəxri adının döş nişanı.jpg | “Əməkdar hüquqşünas” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar həkim” fəxri adının döş nişanı.jpg | “Əməkdar həkim” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar incəsənət xadimi” fəxri adının döş nişanı.jpg | “Əməkdar incəsənət xadimi” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar jurnalist” fəxri adının döş nişanı.jpg | “Əməkdar jurnalist” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar kənd təsərrüfatı işçisi” fəxri adının döş nişanı.jpg | “Əməkdar kənd təsərrüfatı işçisi” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar memar” fəxri adının döş nişanı.jpg | “Əməkdar memar” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar mühəndis” fəxri adının döş nişanı.jpg | “Əməkdar mühəndis” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar müəllim” fəxri adının döş nişanı.jpg | “Əməkdar müəllim” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar mədəniyyət işçisi” fəxri adının döş nişanı.jpg | “Əməkdar mədəniyyət işçisi” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar rəssam” fəxri adının döş nişanı.jpg | “Əməkdar rəssam” fəxri adının döş nişanı
+- Badges of honorary titles of Azerbaijan | “Əməkdar tibb işçisi” fəxri adının döş nişanı.jpg | “Əməkdar tibb işçisi” fəxri adının döş nişanı
+
+## 阿富汗 (9)
+- Medals of Afghanistan | Afghan Medal 1360 1395 National Archive.jpg | افغان مډال
+- Medals of Afghanistan | Afghan Ministry of the Interior medal.JPG | Médaille d'honneur du Ministère de l'Intérieur - Afghanistan
+- Medals of Afghanistan | Afghanistan Campaign Cross.png | Afghanistan Campaign Cross
+- Medals of Afghanistan | Ghazi Mir Bacha Khan Medal Front and Back Jul 28 2023.png | State (government) Medal - Afghanistan
+- Medals of Afghanistan | Medal "From the Grateful Afghan People".png | Медаль "От благодарного афганского народа"
+- Medals of Afghanistan | Military medal issued by Abdur Rahman Khan Barakzai on the occasion of the Capture of Hazarajat (Bamyan).jpg | AFGHANISTAN, Barakzais. 'Abd al-Rahman. AH 1297-1319 / AD 1880-1901. AV Military Medal (28x36mm, 14.34 g, 12h). Capture of Hazarajat (Bamyan). Dated AH 1311 (AD 1893/4). Morton &am
+- Medals of Afghanistan | SovietAfghanistan ServiceMedal Gomel-MilMus 20250106 3840px.jpg | Soviet Medal for Loyal Service in Afghanistan awarded to the KGB operative G. I. Dmitrienko (*1950) during his time of service in Afghanistan in the 1980s.
+- Medals of Afghanistan | Медаль "Воину-интернационалисту от благодарного Афганского народа".jpg | медаль и удостоверение к медали
+- Medals of Afghanistan | “Medal for Service in State Security”8823344C-7815-4093-B0EB-CCD8725534E4.png | KHAD medal
+
+## 阿尔及利亚 (4)
+- National Order of Merit (Algeria) | ALG Athir National order for Merit.svg | Sign of the National Order of Merit of Class Athir (Algeria)
+- National Order of Merit (Algeria) | ALG National order for Merit.svg | Sign of the National Order of Merit (Algeria)
+- Medals of Algeria | Médaille de chahid (Algérie).jpg | Médaille de chahid donnée à la famille
+- Medals of Algeria | Médaille de moudjahid (Algérie).jpg | Médaille de moudjahid
+
+## 阿曼 (13)
+- Military decorations of Oman | Armed Forces Campaign Medal (Oman).png | Midalit al-Hamalat - Instituted by Sultan Said bin Taimur in 1959 and awarded to all officers and trained enlisted men who participated in the Jebel Akhdar war against the follower
+- Military decorations of Oman | Armed Forces Commendation Medal (Oman).png | Commendation Medal instituted by Sultan Said bin Taimur in 1960.
+- Military decorations of Oman | Armed Forces Endurance Medal (Oman).png | Armed Forces Endurance Medal (Oman), Midaliat al-Sumood, given in 1976 to those who served for at least thirty days during the  Dhofar rebellion 
+- Military decorations of Oman | Armed Forces Endurance Medal (Oman).tiff | Armed Forces Endurance Medal (Oman), Midaliat al-Sumood, given in 1976 to those who served for at least thirty days during the  Dhofar rebellion 
+- Military decorations of Oman | Armed Forces Long Service and Good Conduct Medal (Oman).tiff | شريط ميدالية الخدمة الطويلة والسلوك الحسن
+- Military decorations of Oman | Armed Forces Peace Medal (Oman).png | Peace Medal (Oman)
+- Military decorations of Oman | Armed Forces Peace Medal and Operational Award.tiff | شريط ميدالية السلام العماني
+- Military decorations of Oman | Armed Forces Special Service Medal (Oman).png | The Special Service Medal was instituted by Sultan Qaboos in 1985. It is awarded for five years of distinguished service in the Sultan's Special Force.
+- Military decorations of Oman | Armed Forces Sultan's Bravery Medal (Oman).png | Armed Forces Sultan's Bravery Medal (Oman), Midalit al-Jura'at, instituted in 1967
+- Military decorations of Oman | Armed Forces Sultan's Gallantry Medal 1960 (Oman).jpg | Sultan's Gallantry Medal ribbon bar - Oman's highest military medal.
+- Military decorations of Oman | Armed Forces Sultan's Gallantry Medal 1960 (Oman).png | Armed Forces Sultan's Gallantry Medal (Oman), Midalit al-Shuja'at, original version instituted in 1960
+- Military decorations of Oman | Armed Forces Sultan's Gallantry Medal 1973 (Oman).png | Armed Forces Sultan's Gallantry Medal 1973 (Oman), Midalit al-Shuja'at, alternate version instituted in 1973
+- Military decorations of Oman | Armed Forces Sultan's Shooting Medal (Oman).png | Armed Forces Sultan's Shooting Medal (Oman) 1983

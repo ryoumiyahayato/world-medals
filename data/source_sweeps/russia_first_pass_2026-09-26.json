@@ -1,0 +1,119 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "俄罗斯帝国、苏联、俄罗斯联邦—来源优先首轮",
+  "candidate_math": {
+    "raw_directory_entries": 126,
+    "after_family_merge": 124,
+    "merges": [
+      {
+        "from": "RF-MEDAL-01",
+        "to": "RUS-FED-ORD-03"
+      },
+      {
+        "from": "RF-MEDAL-21",
+        "to": "RUS-FED-ORD-20"
+      }
+    ],
+    "note": "9 + 20 + 55 + (20 RF orders + 1 independently named St George Cross + 21 RF medal entries) = 126 source entries; merge the 2 named order-medal forms into same-name orders ⇒124 candidate families."
+  },
+  "sources_scanned": [
+    {
+      "id": "RF decree",
+      "scope_done": "Relevant award-list / sameness-of-degrees sections of consolidated 189-page PDF cached; p.3/4 award inventory and p.3 identity rule; relevant pp.12,25,27,34 text extracted, pp.3 and p.4 visually checked.",
+      "status": "partial"
+    },
+    {
+      "id": "Mondvor USSR order index",
+      "scope_done": "20/20 visible order index links read; detail pages not scanned.",
+      "status": "partial"
+    },
+    {
+      "id": "Mondvor USSR medal index",
+      "scope_done": "55/55 visible medal index links read; detail pages not scanned.",
+      "status": "partial"
+    },
+    {
+      "id": "Commons Empire orders",
+      "scope_done": "Top level examined; 9 order-family category headings captured; recursive tree unexhausted.",
+      "status": "partial"
+    },
+    {
+      "id": "Commons Empire medals",
+      "scope_done": "Top-level page examined: 17 subcategories, 113 direct files; one selected medal pair processed; remaining subcategories not exhausted.",
+      "status": "partial"
+    },
+    {
+      "id": "Commons USSR orders",
+      "scope_done": "Category tree examined (23 subcats, about 20 award-family categories); recursive file-page sweep incomplete.",
+      "status": "partial"
+    },
+    {
+      "id": "Commons USSR medals",
+      "scope_done": "Category tree examined (38 subcats, 41 direct files); recursive file-page sweep incomplete.",
+      "status": "partial"
+    },
+    {
+      "id": "Medalirus",
+      "scope_done": "Homepage/index only; robots Crawl-delay 40 seconds strictly recorded; no deep crawl.",
+      "status": "partial"
+    },
+    {
+      "id": "award.gov.ru",
+      "scope_done": "Legacy official portal pages found through search and referenced by file pages; direct page opening timed out/failed.",
+      "status": "blocked"
+    },
+    {
+      "id": "Commons batch 1 image pages",
+      "scope_done": "12 image files and corresponding individual Commons pages cached; downloaded from original image URLs, decoded and visually checked.",
+      "status": "completed"
+    },
+    {
+      "id": "Hermitage collection database",
+      "scope_done": "Not directly searched; single object lead only came from a Commons caption.",
+      "status": "not_started"
+    },
+    {
+      "id": "State Historical Museum collection database",
+      "scope_done": "No award queries or result pages opened in this pass.",
+      "status": "not_started"
+    },
+    {
+      "id": "Russian State Library catalogue / illustrated books",
+      "scope_done": "No bibliographic query set run in this pass.",
+      "status": "not_started"
+    },
+    {
+      "id": "Professional auction archives",
+      "scope_done": "No systematic auction lot or pagination sweep; individual web search results were discovery clues only.",
+      "status": "not_started"
+    }
+  ],
+  "image_batch": {
+    "families_selected": 9,
+    "variant_drafts": 10,
+    "strict_variant_rows": 8,
+    "pending_variant_identity_rows": 2,
+    "original_image_files": 12,
+    "physical_photo_views": 8,
+    "official_design_images": 4,
+    "decode_failures": 0,
+    "pairing_unconfirmed_families": [
+      "RUS-IMP-MED-RUSSO-JAPANESE",
+      "USSR-MED-04"
+    ]
+  },
+  "unresolved": [
+    "Imperial order taxonomy source is only a Commons category tree in this pass; no full Empire award inventory, medalirus only index and subject to 40-second delay.",
+    "Museum collection databases, RSL illustrated-book catalogue, and professional auction archives remain unstarted source classes.",
+    "Mondvor index counts are complete but no object/statute pages have been exhausted; its image reuse terms restrict redistribution.",
+    "Do not pair the Russo-Japanese medal front/reverse or Soviet 1942 For Courage front/reverse as one artifact without direct evidence.",
+    "Order of Lenin and Red Banner physical photos identify family but exact issue/model/mounted style remains unverified.",
+    "Older RF For Courage diagram is from legacy official website as recorded on the file page; exact current model/2024 statutory appearance requires comparison.",
+    "RF Saint George Cross is separately listed in current decree; retain distinct candidate family pending issuer taxonomy review."
+  ],
+  "access_and_scope_limits": [
+    "No Commons API or /w/ route was used; ordinary file/category pages only.",
+    "No authentication, paywall, or source-site restrictions bypassed.",
+    "No out-of-scope workspace accessed; no public index/build/navigation files modified."
+  ]
+}

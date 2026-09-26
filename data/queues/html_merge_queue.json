@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "rebuild_policy": "One rebuild after a material normalized and image-reviewed batch; never one item at a time.",
+  "items": [
+    {
+      "scope_id": "ottoman_empire",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    },
+    {
+      "scope_id": "france_second_third_republic",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    },
+    {
+      "scope_id": "german_states",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    },
+    {
+      "scope_id": "japan_meiji_taisho",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    },
+    {
+      "scope_id": "egypt",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    },
+    {
+      "scope_id": "sudan",
+      "priority": 1,
+      "status": "waiting_for_normalized_and_image_reviewed_batch",
+      "target": "Existing offline index.html",
+      "ui_contract": "名称＋日期｜等级／版别｜完整图样"
+    }
+  ]
+}

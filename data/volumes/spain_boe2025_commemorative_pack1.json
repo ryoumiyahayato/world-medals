@@ -1,0 +1,498 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "西班牙历史纪念奖励（BOE 2025专题图录）",
+  "records": [
+    {
+      "id": "ESP-BAILEN-MEDAL-V01",
+      "family": "ESP-BAILEN-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "拜伦战役奖章",
+      "original": "Medalla de Bailén",
+      "date": "1808年独立战争战役奖励",
+      "variant": "馆藏实物；完整章体、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-BAILEN-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第126页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-FRENCH-SQUADRON-SURRENDER-MEDAL-V01",
+      "family": "ESP-FRENCH-SQUADRON-SURRENDER-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "法国舰队投降纪念奖章",
+      "original": "Medalla de la rendición de la Escuadra francesa",
+      "date": "1808年独立战争时期",
+      "variant": "馆藏实物；完整圆章、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-FRENCH-SQUADRON-SURRENDER-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第126页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-NORTH-DISTINCTION-CROSS-V01",
+      "family": "ESP-NORTH-DISTINCTION-CROSS",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "北方军团杰出十字章",
+      "original": "Cruz de distinción del Norte",
+      "date": "1808–1814年独立战争时期",
+      "variant": "完整十字、王冠、月桂悬挂与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-NORTH-DISTINCTION-CROSS-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第126页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-SAPPERS-DEPARTURE-CROSS-V01",
+      "family": "ESP-SAPPERS-DEPARTURE-CROSS",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "工兵出走纪念十字章",
+      "original": "Cruz de la salida de los Zapadores",
+      "date": "1817年设立；纪念1808年行动",
+      "variant": "完整王冠十字章与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-SAPPERS-DEPARTURE-CROSS-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第126页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-IRUN-DISTINCTION-MEDAL-V01",
+      "family": "ESP-IRUN-DISTINCTION-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "伊伦杰出奖章",
+      "original": "Medalla de distinción de Irún",
+      "date": "1837年设立；第一次卡洛斯战争",
+      "variant": "完整实物正面、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-IRUN-DISTINCTION-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-TERUEL-DEFENCE-MEDAL-V01",
+      "family": "ESP-TERUEL-DEFENCE-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "特鲁埃尔保卫奖章",
+      "original": "Medalla de la defensa de Teruel",
+      "date": "1874年设立；卡洛斯战争",
+      "variant": "完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-TERUEL-DEFENCE-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-MONTEJURRA-MEDAL-V01",
+      "family": "ESP-MONTEJURRA-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "蒙特胡拉奖章",
+      "original": "Medalla de Montejurra",
+      "date": "1873年；卡洛斯派奖励",
+      "variant": "完整十字形章体、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-MONTEJURRA-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-VIZCAYA-MEDAL-V01",
+      "family": "ESP-VIZCAYA-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "比斯开奖章",
+      "original": "Medalla de Vizcaya",
+      "date": "1874年；卡洛斯派奖励",
+      "variant": "完整实物正面、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-VIZCAYA-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-EPIDEMICS-DISTINCTION-CROSS-V01",
+      "family": "ESP-EPIDEMICS-DISTINCTION-CROSS",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "防疫杰出十字章",
+      "original": "Cruz de distinción de Epidemias",
+      "date": "1829年设立",
+      "variant": "完整十字章、月桂悬挂与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-EPIDEMICS-DISTINCTION-CROSS-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-NUMANCIA-CIRCUMNAVIGATION-MEDAL-V01",
+      "family": "ESP-NUMANCIA-CIRCUMNAVIGATION-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "努曼西亚号环球航行奖章",
+      "original": "Medalla de la circunnavegación de la Numancia",
+      "date": "1868年设立；纪念1865–1867年航行",
+      "variant": "完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-NUMANCIA-CIRCUMNAVIGATION-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-NAUTILUS-CIRCUMNAVIGATION-MEDAL-V01",
+      "family": "ESP-NAUTILUS-CIRCUMNAVIGATION-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "鹦鹉螺号环球航行奖章",
+      "original": "Medalla de la circunnavegación de la Nautilus",
+      "date": "1894年设立；纪念1892–1894年航行",
+      "variant": "完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-NAUTILUS-CIRCUMNAVIGATION-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-ALFONSO-XIII-OATH-MEDAL-V01",
+      "family": "ESP-ALFONSO-XIII-OATH-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "阿方索十三世宣誓纪念章",
+      "original": "Medalla de la jura de Alfonso XIII",
+      "date": "1902年设立",
+      "variant": "完整实物正面、悬挂结构与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-ALFONSO-XIII-OATH-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第129页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-ZARAGOZA-SIEGES-CENTENARY-MEDAL-V01",
+      "family": "ESP-ZARAGOZA-SIEGES-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "萨拉戈萨围城百年纪念章",
+      "original": "Medalla de los sitios de Zaragoza",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "银级／协作者型；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-ZARAGOZA-SIEGES-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第130页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-CADIZ-CONSTITUTION-CENTENARY-MEDAL-V01",
+      "family": "ESP-CADIZ-CONSTITUTION-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "1812年宪法与加的斯围城百年纪念章",
+      "original": "Medalla de la Constitución de 1812 y sitio de Cádiz",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "铜级／参与者型；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-CADIZ-CONSTITUTION-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第130页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-CIUDAD-RODRIGO-SIEGE-CENTENARY-MEDAL-V01",
+      "family": "ESP-CIUDAD-RODRIGO-SIEGE-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "罗德里戈城围城百年纪念章",
+      "original": "Medalla del sitio de Ciudad Rodrigo",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "银级；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-CIUDAD-RODRIGO-SIEGE-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第130页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-CHICLANA-BATTLE-CENTENARY-MEDAL-V01",
+      "family": "ESP-CHICLANA-BATTLE-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "奇克拉纳战役百年纪念章",
+      "original": "Medalla de la batalla de Chiclana",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "银级；完整十字形章体、月桂悬挂与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-CHICLANA-BATTLE-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第130页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-GERONA-SIEGES-CENTENARY-MEDAL-V01",
+      "family": "ESP-GERONA-SIEGES-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "赫罗纳围城百年纪念章",
+      "original": "Medalla de los sitios de Gerona",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "银级／保卫者型；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-GERONA-SIEGES-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第132页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-BRIHUEGA-VILLAVICIOSA-CENTENARY-MEDAL-V01",
+      "family": "ESP-BRIHUEGA-VILLAVICIOSA-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "布里韦加轰炸与比利亚维西奥萨战役纪念章",
+      "original": "Medalla del bombardeo y asalto de Brihuega y de la batalla de Villaviciosa",
+      "date": "1908–1914年历史纪念章系列",
+      "variant": "银级；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-BRIHUEGA-VILLAVICIOSA-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第132页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-VIGO-RECONQUEST-CENTENARY-MEDAL-V01",
+      "family": "ESP-VIGO-RECONQUEST-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "维戈收复百年纪念章",
+      "original": "Medalla de la reconquista de Vigo",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "铜级；完整实物正面与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-VIGO-RECONQUEST-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第132页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-VITORIA-BATTLE-CENTENARY-MEDAL-V01",
+      "family": "ESP-VITORIA-BATTLE-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "维多利亚战役百年纪念章",
+      "original": "Medalla de la batalla de Vitoria",
+      "date": "1908–1914年百年纪念章系列",
+      "variant": "银级；完整十字章、王冠与绶带；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-VITORIA-BATTLE-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第132页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-LEPANTO-IV-CENTENARY-MEDAL-V01",
+      "family": "ESP-LEPANTO-IV-CENTENARY-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "勒班陀战役四百周年纪念章",
+      "original": "Medalla conmemorativa del IV Centenario de la Batalla de Lepanto",
+      "date": "1971年设立",
+      "variant": "同一章种完整正背面；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-LEPANTO-IV-CENTENARY-MEDAL-V01-VIEW-1",
+          "label": "正面"
+        },
+        {
+          "key": "ESP-LEPANTO-IV-CENTENARY-MEDAL-V01-VIEW-2",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第132页；仅用于本地研究图鉴。"
+    },
+    {
+      "id": "ESP-OPERATION-BALMIS-MEDAL-V01",
+      "family": "ESP-OPERATION-BALMIS-MEDAL",
+      "country_zh": "西班牙王国",
+      "issuer": "西班牙相应历史政权与军政机关",
+      "name": "巴尔米斯行动纪念章",
+      "original": "Medalla conmemorativa de la operación Balmis",
+      "date": "2020-07-28设立",
+      "variant": "2020式；同一实物完整正背面；历史专题图录照片·2025；低清参考",
+      "views": [
+        {
+          "key": "ESP-OPERATION-BALMIS-MEDAL-V01-VIEW-1",
+          "label": "正面"
+        },
+        {
+          "key": "ESP-OPERATION-BALMIS-MEDAL-V01-VIEW-2",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "es_boe_military_book_2025_commemorative_chapter"
+      ],
+      "image_kind": "catalogue_photo",
+      "html_eligible": true,
+      "internal_notes": "BOE 2025专题著作第6章；PDF第133页；仅用于本地研究图鉴。"
+    }
+  ]
+}

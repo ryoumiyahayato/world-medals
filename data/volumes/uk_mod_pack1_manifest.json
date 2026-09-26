@@ -1,0 +1,535 @@
+{
+  "volume": "英国：国防部勋奖章指南首包",
+  "as_of": "2026-09-26",
+  "records_file": "data/volumes/uk_mod_pack1.json",
+  "image_directory": "assets/images/uk_mod_pack1/",
+  "counts": {
+    "distinct_award_families": 49,
+    "variant_rows": 52,
+    "complete_image_files": 52
+  },
+  "images": [
+    {
+      "view_key": "GB-UK-ATLANTIC-STAR-V-ATLANTIC-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-atlantic-star--atlantic-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a619aabe5274a0a1b10eac8/s960_Atlantic_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "5026ec2c3a0d180453cd79405a19babbef9a270dee839aa6f60625e3328f6c52",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GULF-MEDAL-1990-1991-V-GULF-MEDAL-1990-1991-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-gulf-medal-1990-1991--gulf-medal-1990-1991.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6145b440f0b60ab9a7befa/s960_Gulf_War_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "5eea644c673561e144bef23b905814d983881f98295e97cba29e9e5e1d8fe2a2",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-CONSPICUOUS-GALLANTRY-CROSS-CGC-V-CONSPICUOUS-GALLANTRY-CROSS-CGC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-conspicuous-gallantry-cross-cgc--conspicuous-gallantry-cross-cgc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61109540f0b652634cbc3b/s960_Conspicous_Gallantry_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "98a9c886fb9501ed3cb44a5d8a3d84c1f79e856a4ef16dadc35f980de2a6c8de",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-V-KING-S-COMMENDATION-FOR-BRAVERY-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-king-s-commendation-for-bravery--king-s-commendation-for-bravery.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6173e8ed915d0afa3b0bc5/s960_Queens_Commendation_for_bravery_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "74bb26a77247a4859397f6e515c744f6590b26f64f1d586e794c53b6ddb64f6e",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ELIZABETH-CROSS-V-CROSS-THE-SAME-PAGE-ALSO-SHOWS-A-MINIATURE-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-elizabeth-cross--cross-the-same-page-also-shows-a-miniature.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a615be8e5274a443e00c7eb/s960_Elizabeth_Cross__and_MIN__copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "999baaab0c26985076f3dd12db66c82dd3a0a72ea851559b0bc626c5b7309208",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-DISTINGUISHED-FLYING-CROSS-DFC-V-DISTINGUISHED-FLYING-CROSS-DFC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-distinguished-flying-cross-dfc--distinguished-flying-cross-dfc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a615bd640f0b60abc6701e3/s960_Distinuished_Flying_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "5fd758a7bf6c3c67555bfcde50ccc5dcfa473757746626a08a4df3f5957d58cc",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-MENTION-IN-DESPATCHES-V-MENTION-IN-DESPATCHES-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-mention-in-despatches--mention-in-despatches.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a616a2aed915d0afa3b034f/s960_Mentioned_in_Dispatches_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "12a05e6beb1c64b429d0a0adbdc8b8f7fee8d9d9970d8392da69786ac9e22091",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-1918-62-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-general-service-medal--general-service-medal-1918-62.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a614b63ed915d7dfb585101/s960_General_Service_1918__Malya__copy_2.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "391103e23b0ab6400677de9d4dcef1f078bfd410a16312ef568fc4445890fa80",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-1962-2007-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-general-service-medal--general-service-medal-1962-2007.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a615a8eed915d0afc4603e0/s960_General_Service_1962-2007_copy_2.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "ef1c76c333fb397bc84337729dfaae66be0ba0d47d08740ef2e756bc95bf3245",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-2008-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-general-service-medal--general-service-medal-2008.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6140e5ed915d7dfea6e42b/s960_General_Service_2008_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "7674a7b5a92301ec1b467bf08cf4c0270fda2564ee2f026fcb3f7f805c11f534",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-AIR-FORCE-CROSS-AFC-V-AIR-FORCE-CROSS-AFC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-air-force-cross-afc--air-force-cross-afc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a612dfced915d7dfb583684/s960_Air_Force_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "8c3acbaaa4eaef7b2c8fcbd695e0c133ff2f96a1ac2584d120ad00b211053822",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-1939-TO-1945-STAR-V-1939-TO-1945-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-1939-to-1945-star--1939-to-1945-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60cb9ae5274a443e004009/s960_1939-1945_Star.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "bb71ebcfb45dd0fd46b2e8cf2817c9fbbfd64b09b95ffe5db1415d3913e60561",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-AFRICA-STAR-V-AFRICA-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-africa-star--africa-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a621470e5274a0a37ef1cc7/s960_Africa_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "f81ea3659f3aa34da7eb9fbcbe69e61e672693d56e1120828e9e5a3fdfd91313",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-AFGHANISTAN-V-OPERATIONAL-SERVICE-MEDAL-AFGHANISTAN-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-operational-service-medal-afghanistan--operational-service-medal-afghanistan.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a613fb6ed915d7dfea6e312/s960_Afghan_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "878a9dbeb7236a58601bbb172bb2e13b0294ea8ca5d15598dd0857871149f130",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-RAF-LSGC-MEDAL-V-ROYAL-AIR-FORCE-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-raf-lsgc-medal--royal-air-force-long-service-and-good-conduct-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a537ca3ed915d5954747f29/s960_RAF_LSGC_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "02f7ca6376ef66c7ee2fb051e00c8bc3717e5581a5b6d9d92d11eb639c8a851f",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KING-S-COMMENDATION-FOR-VALUABLE-SERVICE-V-KING-S-COMMENDATION-FOR-VALUABLE-SERVICE-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-king-s-commendation-for-valuable-service--king-s-commendation-for-valuable-service.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61bcd3e5274a0a204881a9/s960_Queens_Commendation_for_valuable_service_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "e1d7cee2b6846269c71e49f89984a173eb021735690b5443228444c4340ab05e",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-FRANCE-AND-GERMANY-STAR-V-FRANCE-AND-GERMANY-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-france-and-germany-star--france-and-germany-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61cf6140f0b60abc6767b1/s960_France_and_Germany_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "38c7f5bf58719049868e5d862f7b4f0a650914d6a89da1b9c1ff0848dfaa215a",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KINGS-CORONATION-MEDAL-2023-V-THE-KING-S-CORONATION-MEDAL-2023-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-kings-coronation-medal-2023--the-king-s-coronation-medal-2023.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/645ba193c6e897000ca0fcaf/s960_coronation_medal_.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "997133885ca1d49ea1d83d2331a6d5dde76079597cb9b961c958b73916e13845",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ARMY-LSGC-MEDAL-V-ARMY-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-army-lsgc-medal--army-long-service-and-good-conduct-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61f6c240f0b63b5bc8e531/s960_Army-LSGC_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "f642106d94ab6d6dad319593f209eff2ed1a16a55296ceb412afc6027259baf4",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-DEMOCRATIC-REPUBLIC-OF-CONGO-V-OPERATIONAL-SERVICE-MEDAL-DEMOCRATIC-REPUBLIC-OF-CONGO-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-operational-service-medal-democratic-republic-of-congo--operational-service-medal-democratic-republic-of-congo.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61b3f340f0b60ab9a82131/s960_Congo_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "d3b6d7d13cbb42007d8ddc1f0ad2f590e3a365e141c88b692119da66b32424c3",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-PLATINUM-JUBILEE-MEDAL-2022-V-HM-THE-QUEEN-S-PLATINUM-JUBILEE-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-platinum-jubilee-medal-2022--hm-the-queen-s-platinum-jubilee-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/6454e1222f6222000ca6a5a6/s960_platinum_Jubilee_JB_HR.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "5d500a9bd0a2a66e15d79a3a410f2dc47e8124511a67436d82669016c24c74e3",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-AFRICA-GENERAL-SERVICE-MEDAL-V-THE-AFRICA-GENERAL-SERVICE-MEDAL-WITH-KENYA-CLASP-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-africa-general-service-medal--the-africa-general-service-medal-with-kenya-clasp.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/64b66c3d71749c001389ed51/s960_Africa_General_Service_Medal_with_Kenya_Clasp.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "077f776e124cfb4283a4bbabf85ae3bc0e669e777face0fd1c9f304be3ed7e02",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-SIERRA-LEONE-V-OPERATIONAL-SERVICE-MEDAL-SIERRA-LEONE-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-operational-service-medal-sierra-leone--operational-service-medal-sierra-leone.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6206c8e5274a0a37ef11fc/s960_Sierra_Leone_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "6effd641233cae273d2dc8c80f534c45adfb91a94a7f8bc4afd821b613c40855",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-IN-THE-AIR-V-KING-S-COMMENDATION-FOR-BRAVERY-IN-THE-AIR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-king-s-commendation-for-bravery-in-the-air--king-s-commendation-for-bravery-in-the-air.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61c0dfed915d0afa3b4f6d/s960_Queens_Commendation_for_Bravery_in_the_air_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "b71c16410ab9754ebcc356103882c180c0b1b1a3313718f0af600b4a1766402d",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ROYAL-RED-CROSS-V-ROYAL-RED-CROSS-CLASS-II-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-royal-red-cross--royal-red-cross-class-ii.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61c67ded915d0afc4662c5/s960_Royal_Red_Cross_Class_II_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "d781a38af7b2fe6c938d98389465954094996af0746047cc4fc901ccae26dbb6",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-NAVAL-GENERAL-SERVICE-MEDAL-1915-V-NAVAL-GENERAL-SERVICE-MEDAL-1915-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-naval-general-service-medal-1915--naval-general-service-medal-1915.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/614c67c58fa8f56109de6430/s960_Naval_General_Services_Medal_1915..jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "d33ba2fafec083044459a7eea8b39480a65783583e8fecabc184318acd0efe2f",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-V-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-accumulated-campaign-service-medal--accumulated-campaign-service-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a610f0eed915d7dfb581a5e/s960_Accumulated_Service_single-stripe.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "3e37ef547d58d5de7688eb1c66d9cbcf40138e2cc52671d55eb0172fcdec00b6",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-V-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-2011-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-accumulated-campaign-service-medal--accumulated-campaign-service-medal-2011.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a614b74e5274a443e00b951/s960_Accumulated_service_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "1ca6d6de63cfb9830846e1ae26a0f6f406c984ef8e93471329af4680528fcd7b",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KOREA-MEDAL-V-KOREA-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-korea-medal--korea-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61aa02ed915d0afc46499c/s960_Korea_Medal_copy_2.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "1b4cd36c1f85669740f0961ed92b4f144f93833c3913ebce1ed4911ce908481c",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-EBOLA-MEDAL-V-EBOLA-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-ebola-medal--ebola-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a616e4ced915d0afa3b06e4/s960_Ebola_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "83a22440cf1592570f7932d725c286b8ed13a65b33d35a1009c15a3daa55a08e",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-DIAMOND-JUBILEE-MEDAL-2012-V-HM-THE-QUEEN-S-DIAMOND-JUBILEE-MEDAL-2012-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-diamond-jubilee-medal-2012--hm-the-queen-s-diamond-jubilee-medal-2012.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a614b7c40f0b60abc66f32b/s960_Diamond_Jubille_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "ee8d5b0e97837572a4bec531a5190f8ea84441c87c2ae548d108a0f04fe364de",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GEORGE-MEDAL-GM-V-GEORGE-MEDAL-GM-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-george-medal-gm--george-medal-gm.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60dda240f0b652634c8a86/s960_George_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "9ebf5edfe52a7dce341e40ebbfba85f1b5b87dc042e911b25b1934c4c30024d4",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KING-S-VOLUNTEER-RESERVES-MEDAL-KVRM-V-KING-S-VOLUNTEER-RESERVES-MEDAL-KVRM-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-king-s-volunteer-reserves-medal-kvrm--king-s-volunteer-reserves-medal-kvrm.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60caeced915d7dfea674ab/s960_Queens_Volunteer_Reserves_Medal.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "d7985becdc2401fafb484a7e36e74ac6d0a6ffccfe59e1b3c471a53b5532ab14",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-BURMA-STAR-V-BURMA-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-burma-star--burma-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60c5ede5274a443e003a39/s960_Burma_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "347bae16503a6e938bf649576d20d1f619e41bd0fb661ac8839a1e0b773c9e75",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ITALY-STAR-V-ITALY-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-italy-star--italy-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61c6c540f0b60ab9a831d7/s960_Italy_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "fa38d51a5700ba3f0c0b2b1be83cf5cbc0515caedc13fd23d3d7ef6efbcf0d76",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-PACIFIC-STAR-MALAYA-SINGAPORE-AND-THE-PACIFIC-OCEAN-V-PACIFIC-STAR-MALAYA-SINGAPORE-AND-THE-PACIFIC-OCEAN-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-pacific-star-malaya-singapore-and-the-pacific-ocean--pacific-star-malaya-singapore-and-the-pacific-ocean.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61343a40f0b65266e7e887/s960_Pacific_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "e8ed71fac76c9787824ec99ead6ace41b8f8dd2db5cfbe46b1d8b156fa0f5ae7",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-KING-S-GALLANTRY-MEDAL-KGM-V-KING-S-GALLANTRY-MEDAL-KGM-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-king-s-gallantry-medal-kgm--king-s-gallantry-medal-kgm.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a616e16ed915d0afa3b06ac/s960_Queens_Gallantry_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "8774b4bd405b18d1f9788526dc3765b7062bab88f87ce9a4543b7a3d4863cbf6",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GEORGE-CROSS-GC-V-GEORGE-CROSS-GC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-george-cross-gc--george-cross-gc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a621ae6e5274a0a37ef21e1/s960_George_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "ddfc17958e810b58e57edbfb7f2000674d125b0d888bc86ee4486493f256ed3a",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ARCTIC-STAR-V-ARCTIC-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-arctic-star--arctic-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60e93640f0b652634c95ee/s960_Artic_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "d96b9fe226489c87587554020b9e5f9b97ffd3a73345e7f2bd09c55edb9691eb",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-DEFENCE-MEDAL-V-DEFENCE-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-defence-medal--defence-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a619c4fed915d0afa3b2ea5/s960_Defence_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "fe009435454f4f41c54b7463fc0758ee7c98ea2dd0bc34ad90dc21213197e8dd",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-VICTORIA-CROSS-VC-V-VICTORIA-CROSS-VC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-victoria-cross-vc--victoria-cross-vc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61664640f0b60abc670b3b/s960_Victoria_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "8c4dae8e27f162ec351ef36e150a751137ecc15c8f92f2ffe6cfab3e8bc6ab60",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-GOLDEN-JUBILEE-MEDAL-2002-V-HM-THE-QUEEN-S-GOLDEN-JUBILEE-MEDAL-2002-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-golden-jubilee-medal-2002--hm-the-queen-s-golden-jubilee-medal-2002.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61e682e5274a0a2048a518/s960_Golden_Jubilee_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "89089834026c5f9068755440327f782d8e739bd5cf9b00269a05daafcb54efcc",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-CADET-FORCES-MEDAL-V-CADET-FORCES-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-cadet-forces-medal--cadet-forces-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60cf0240f0b652634c7bac/s960_Cadet_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "7116fcbe726efb10aa08fcdce6fc891d4dbe0bd333f95511e5442a8c628ef8aa",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-SILVER-JUBILEE-MEDAL-1977-V-HM-THE-QUEEN-S-SILVER-JUBILEE-MEDAL-1977-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-silver-jubilee-medal-1977--hm-the-queen-s-silver-jubilee-medal-1977.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61c363e5274a0a1b110fb6/s960_Silver_Jubilee_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "de2b8b6c88801e34ac43c22a626736475fbd5035d0fcb7554a6e33d2da7f72c2",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-DISTINGUISHED-SERVICE-CROSS-DSC-V-DISTINGUISHED-SERVICE-CROSS-DSC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-distinguished-service-cross-dsc--distinguished-service-cross-dsc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a60d051e5274a443e0044fc/s960_Distinuished_Service_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "c32f59b41cc93004af65aa56113cea3a134dc5237f4a6e2c93d72ebb8687228a",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-ROYAL-NAVAL-LSGC-MEDAL-V-ROYAL-NAVAL-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-royal-naval-lsgc-medal--royal-naval-long-service-and-good-conduct-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a612e9ee5274a443e009ecb/s960_RN_LSGC_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "fa078e88f44f400d59cceb0b4609e60c984c68e0b5a758f3078773b5c2384954",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-IRAQ-MEDAL-V-IRAQ-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-iraq-medal--iraq-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a611342e5274a443e008600/s960_Iraq_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "638b2274964477c7a8a894fd453fab9a00ed2f7b3538224f66b0aa2c7e64af44",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-VOLUNTEER-RESERVES-SERVICE-MEDAL-V-VOLUNTEER-RESERVES-SERVICE-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-volunteer-reserves-service-medal--volunteer-reserves-service-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6209fa40f0b63b5bc8f475/s960_Volunteer_Reserves_Service_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "da51e9a41db4fd134c3903af2d16b0c94feb976b8bdf1a477ec664c304c430fd",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-AIR-CREW-EUROPE-STAR-V-AIR-CREW-EUROPE-STAR-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-air-crew-europe-star--air-crew-europe-star.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a61affce5274a0a1b10fe64/s960_Air_Crew_Europe_Star_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "7dbc60b6c49afc79add62b26186a9ad604bcc95b1687a6ca9f53fdb2e912a9c4",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-MILITARY-CROSS-MC-V-MILITARY-CROSS-MC-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-military-cross-mc--military-cross-mc.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a619cf640f0b60abc673abf/s960_Military_Cross_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "2e66e08688ee9539101d5a056c16d52893d48e2b8d201bfa3e7d92f806720013",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-SOUTH-ATLANTIC-MEDAL-V-SOUTH-ATLANTIC-MEDAL-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-south-atlantic-medal--south-atlantic-medal.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6103fc40f0b652634cb03e/s960_South_Atlantic_Medal_copy.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "9cc143a97797321a752bbb880abb5519d84a49c3d0df466010a5dadfbb386082",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    },
+    {
+      "view_key": "GB-UK-WAR-MEDAL-1939-TO-1945-V-WAR-MEDAL-1939-TO-1945-IMAGE",
+      "local_path": "assets/images/uk_mod_pack1/gb-uk-war-medal-1939-to-1945--war-medal-1939-to-1945.jpg",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "direct_image_url": "https://assets.publishing.service.gov.uk/media/5a6207c040f0b63b5bc8f2b1/s960_War_Medal_1939-1945_copy_2.jpg",
+      "width": 960,
+      "height": 640,
+      "sha256": "313cd4dab19592c610c0ae3923308c553c954f4f73e4022ae993d20d4e154289",
+      "rights": "Reuse rights not established by this collection page; retain for research, do not imply public reuse permission."
+    }
+  ],
+  "source_coverage": "One complete GOV.UK MOD guidance page section sweep. Covers visible gallantry, WWI/WWII, post-WWII campaign, jubilee/coronation, long-service and Elizabeth Cross headings; it is not a complete UK/British Empire catalogue.",
+  "rejected_incomplete_images": 1
+}

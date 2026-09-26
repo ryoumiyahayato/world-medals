@@ -1,0 +1,39 @@
+{
+  "batch_id": "PRU-B3-20260926",
+  "as_of": "2026-09-26",
+  "status": "saved_for_parent_merge",
+  "input_checkpoint": "data/volumes/prussia_batch2_checkpoint_2026-09-26.json",
+  "completed": [
+    "按剩余候选优先检查柯尼希格雷茨纪念十字、一般荣誉奖章、服役奖章和霍亨索伦纪念章",
+    "对两个已知Commons原图地址各尝试一次下载；均返回HTTP 429，未保存错误响应",
+    "确认Weitze本地索引只有商业缩略图，Düppel只有历史版面线索，均未入编",
+    "保存候选差集、来源阻塞记录和空records包；未修改公共文件"
+  ],
+  "new_record_count": 0,
+  "new_independent_family_count": 0,
+  "next_start": {
+    "scope": "PRU-KONIGGRATZ-CROSS / PRU-GENERAL-HONOUR",
+    "action": "等待Wikimedia限流解除后，从已记录对象页取得原图并人工查看；若仍受限，转官方馆藏或博物馆图录，不用缩略图代理。随后处理PRU-SERVICE-DECORATIONS。",
+    "do_not_repeat": [
+      "PRU-BLACK-EAGLE-BADGE-UNK-01",
+      "PRU-RED-EAGLE-GRAND-1858-01",
+      "PRU-RED-EAGLE-II-STAR-DIAMONDS-1885-01",
+      "PRU-HOHENZOLLERN-KNIGHTS-CROSS-SWORDS-01"
+    ]
+  },
+  "files_written_by_this_task": [
+    "data/volumes/prussia_batch3_candidates_2026-09-26.json",
+    "data/volumes/prussia_batch3_2026-09-26.json",
+    "data/volumes/prussia_batch3_manifest_2026-09-26.json",
+    "data/volumes/prussia_batch3_checkpoint_2026-09-26.json",
+    "sources/prussia_batch3_sources_2026-09-26.json"
+  ],
+  "shared_files_not_modified": [
+    "data/catalogue.json",
+    "data/progress.json",
+    "index.html",
+    "assets/site.css",
+    "data/volumes/prussia_kingdom.json",
+    "data/volumes/prussia_kingdom_manifest.json"
+  ]
+}

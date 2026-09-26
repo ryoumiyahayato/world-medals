@@ -1,0 +1,858 @@
+{
+  "legion-world": {
+    "page": "https://www.legiondhonneur.fr/fr/le-musee/les-collections/le-monde",
+    "summary": "法国荣誉军团博物馆：Médjidié 1852年8月；Osmanié 1862年。",
+    "accessed": "2026-09-25"
+  },
+  "darphane-sefkat": {
+    "page": "https://www.darphane.gov.tr/duyuru/osmanlidan-gunumuze-bir-zarafet-sembolu-sefkat-nisani-darphane-koleksiyonunda",
+    "summary": "土耳其铸币局：Şefkat Nişanı 于1878年设立。",
+    "accessed": "2026-09-25"
+  },
+  "tdv-nisan": {
+    "page": "https://islamansiklopedisi.org.tr/nisan--madalya",
+    "summary": "1852-08-29 Mecidi Nişanı regulations; Osmaniye Nişanı regulations 1861-12-12; Şefkat Nişanı 1878; Iftihar order regulations recorded in 1833; Imtiyaz order granted by 1841 and had no grades.",
+    "accessed": "2026-09-25"
+  },
+  "awm-liyakat": {
+    "page": "https://www.awm.gov.au/collection/C980773",
+    "summary": "澳大利亚战争纪念馆：Liyakat Medal 1890年设立，有金、银等级。",
+    "accessed": "2026-09-25"
+  },
+  "awm-war-1915": {
+    "page": "https://www.awm.gov.au/collection/C136371",
+    "summary": "澳大利亚战争纪念馆：Turkish War Medal 于1915年3月1日设立，单一等级；Gallipoli Star 是误称。",
+    "accessed": "2026-09-25"
+  },
+  "awm-crimea": {
+    "page": "https://www.awm.gov.au/collection/C95119",
+    "summary": "澳大利亚战争纪念馆：Sardinian type 正面有 LA CRIMEA 1855，背面有1271纪年。",
+    "accessed": "2026-09-25"
+  },
+  "tdv-madalya": {
+    "page": "https://islamansiklopedisi.org.tr/madalya",
+    "summary": "Ottoman medals grouped by sultan and date; includes 1847 Yemen and Kurdistan, 1850 Bosnia, 1865 cholera, 1877 Plevne/Bosnia battle, 1899 Maarif, 1900 Hejaz Railway, 1914 Tayyare and other cataloged medals.",
+    "accessed": "2026-09-25"
+  },
+  "image-MEDJIDIE": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_order_(AM_809240-1).jpg",
+    "summary": "Turkish Order of Medjidie (Crimean War) medal and ribbon; a star of seven triple quills with small crescents and five-pointed stars between them, suspended from a red enamelled crescent and star suspender with green enamelled edges obverse- Sultan Abdülmecid's royal cipher with inscription around on a gold-bordered circle of red enamel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Medal%2C_order_%28AM_809240-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "",
+    "sha256": "e1f1ef3e27af9e4166e7adcc2b676057c7dee8bd819a1c0cb2fe9f94c6b70423",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-MEDJIDIE_BACK": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_order_(AM_809240-2).jpg",
+    "summary": "Turkish Order of Medjidie (Crimean War) medal and ribbon; a star of seven triple quills with small crescents and five-pointed stars between them, suspended from a red enamelled crescent and star suspender with green enamelled edges obverse- Sultan Abdülmecid's royal cipher with inscription around on a gold-bordered circle of red enamel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Medal%2C_order_%28AM_809240-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "",
+    "sha256": "14a4d7b470842ac221ba55a792bbf9e7f856c7adc955c834bfb9a6869c18f434",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-OSMANIEH": {
+    "page": "https://commons.wikimedia.org/wiki/File:Order_of_Osmanieh_1st_class_badge_star_(Ottoman_Empire)_-_Tallinn_Museum_of_Orders.jpg",
+    "summary": "Order of Osmanieh 1st class, badge and star. Ottoman Empire.\nThe exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Order_of_Osmanieh_1st_class_badge_star_%28Ottoman_Empire%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Borodun",
+    "sha256": "3b86e3b27263db3521f8c14b281f875a07d246ecacabca36698c903dffa69695",
+    "dimensions": [
+      1831,
+      1345
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-CHARITY": {
+    "page": "https://commons.wikimedia.org/wiki/File:Order_of_Charity_1st_class_badge_(Ottoman_Empire_1900)_-_Tallinn_Museum_of_Orders.jpg",
+    "summary": "Order of Charity 1st class, badge, c.1900. Ottoman Empire.\nThe exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Order_of_Charity_1st_class_badge_%28Ottoman_Empire_1900%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Borodun",
+    "sha256": "d4ad6a0117475d7b6b614d87ec5354409bae339f90951e219c86a4a293097978",
+    "dimensions": [
+      956,
+      1244
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-LIYAKAT": {
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_Liyakat_Medal_(miniature,_obverse).jpg",
+    "summary": "Ottomański Złoty Medal Walecznych  - miniatura, awers)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gold_Liyakat_Medal_%28miniature%2C_obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Jakubkaja",
+    "sha256": "45d2ff2521b76868db84dace94dc4b02aba53dedeaf9535f564a8e929bc85b34",
+    "dimensions": [
+      1911,
+      3510
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-LIYAKAT_BACK": {
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_Liyakat_Medal_(miniature,_reverse).jpg",
+    "summary": "Ottomański Złoty Medal Walecznych  - miniatura, rewers)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Gold_Liyakat_Medal_%28miniature%2C_reverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Jakubkaja",
+    "sha256": "554c9344113094b440a4ec8030fe22d79372087669866fec971f5dd59f052237",
+    "dimensions": [
+      1918,
+      3525
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-GALLIPOLI": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_decoration_(AM_774643-1).jpg",
+    "summary": "Ottoman War Medal, WW1 Also known as the Gallipoli Star, or Turkish Gallipoli Star five-point star; white (zinc) metal with red (painted) surfaces; crescent inside star encircling sultan's cipher and characters representing El Ghazi (The Victorious); below is date 1333 (1915) in Turkish numerals; brooch fastening verso",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Medal%2C_decoration_%28AM_774643-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "",
+    "sha256": "eb70c88c53ac9184ef6d91d78f56802346a7b68a959247c49f8ed236c7d30341",
+    "dimensions": [
+      1399,
+      1540
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-CRIMEA": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_campaign_(AM_799886-1).jpg",
+    "summary": "Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is resting on the Russian flag; to the left are three cannon balls and a ramrod, to the right, an anchor and mortar; issuing from behind the cannon are the four flags of the allies; in exurgue- LA CRIMEA 1855 reverse- enclosed within a laurel wreath, the Sultan’s cypher, below in Turkish script ‘CRIMEA’ and the year 1271 A.H. (1855 AD) ribbon- narrow ribbon; watered crimson with green edges",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Medal%2C_campaign_%28AM_799886-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "Abdülmecid",
+    "sha256": "6e9afbf123dbbf1493580b400db341c71a4cb9a8a516efa30432f77c56259f13",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-CRIMEA_FRONT": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_campaign_(AM_799886-2).jpg",
+    "summary": "Turkish Crimea Medal, (Sardinian) 1854-56 unnamed medal pierced with ring suspension; with narrow ribbon silver medal; pierced with ring clasp suspension; with ribbon obverse- map of the Crimea spread over the wheel of a cannon that is resting on the Russian flag; to the left are three cannon balls and a ramrod, to the right, an anchor and mortar; issuing from behind the cannon are the four flags of the allies; in exurgue- LA CRIMEA 1855 reverse- enclosed within a laurel wreath, the Sultan’s cypher, below in Turkish script ‘CRIMEA’ and the year 1271 A.H. (1855 AD) ribbon- narrow ribbon; watered crimson with green edges",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Medal%2C_campaign_%28AM_799886-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "Abdülmecid",
+    "sha256": "e58cf1b34c194ba33561242a51b9715e7e8141e0b27d95597f4a6d5e66471490",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-ACRE": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_campaign_(AM_806826-1).jpg",
+    "summary": "St Jean d'Acre Medal, 1840 Probably the medal awarded to Lieutenant William Horton, Royal Navy. circular silver medal; straight swivel suspender; 30mm diameter; with ribbon obverse- the Toughra of the Sultan Abdul Mecid Khan II of the Ottoman Empire (the slave of the good); laurel sprays either side reverse- a fortress flying the Ottoman flag with six five-pointed stars around the top; a commemorative inscription and date in Arabic at lower edge (The People of Syria and the Citadel of Acre. A.H. 1258) unnamed ribbon (faded)- red with white edges NOTE- Medal usually has plain ring suspension.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Medal%2C_campaign_%28AM_806826-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "",
+    "sha256": "5b12741a9477d15cc7d296d97f8dae4664b6080b3056533b3e9f776ae1835690",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-MONTENEGRO": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal,_campaign_(AM_800964-1).jpg",
+    "summary": "Ottoman Empire Medal for Montenegrin-Ottoman War, 1861-1862 circular silver medal; unnamed; with ribbon suspension- crescent with stars above and pin fastening obverse- the mountains of Montenegro, Turkish flag and field gun; script below exurgue- (Relying on the Assistance of Almighty God, Abdulaziz, sovereign of the Ottoman Empire) reverse- crescent and arabic script- KARADAG (Montenegro) ribbon- narrow ribbon- green - red - green",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Medal%2C_campaign_%28AM_800964-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 4.0",
+    "artist": "",
+    "sha256": "176cc4d9995f11d6e75be66489e84654a34e8251475370e5a358e088691a98db",
+    "dimensions": [
+      3648,
+      5472
+    ],
+    "accessed": "2026-09-25"
+  },
+  "image-CONSTITUTION": {
+    "page": "https://commons.wikimedia.org/wiki/File:TR_Kanûn-u_Esâsî_Madalyası.jpg",
+    "summary": "Kanûn-u Esâsî Madalyası",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/TR_Kan%C3%BBn-u_Es%C3%A2s%C3%AE_Madalyas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Jakubkaja",
+    "sha256": "bcc1b82acdb09006670658117cbd364e4d827db26d9128efce8d41e20f66c694",
+    "dimensions": [
+      484,
+      807
+    ],
+    "accessed": "2026-09-25"
+  },
+  "legacy-page-MEDJ-I": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-badge-i-class-sash-badge-c-1900-eu22298",
+    "summary": "一等大绶章; 无剑；银质、金质中心; 本件约1900年；配现代绶带",
+    "object_key": "MEDJ-I",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-MEDJ-I-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-badge-i-class-sash-badge-c-1900-eu22298",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC6524.jpg?v=1699302422&width=1946",
+    "summary": "MEDJ-I 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "28022739e2d9cd13c29cadd89077c4f379c1e9526e46ee4ca709ca2e76009463",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "image-LEG-MEDJ-I-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-badge-i-class-sash-badge-c-1900-eu22298",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC6526_f45dc406-3174-4326-b1fa-db30a9540260.jpg?v=1699302422&width=1946",
+    "summary": "MEDJ-I 背面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "08917f9e073186e655d5ae1e2f97a5fa8a4113181ff2175f62a11feb3ec6972a",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-MEDJ-II": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-medjidie-mecidiye-civil-division-ii-class-star-c1880-eu21288",
+    "summary": "二等星章；文职版; 无剑；银质、金质中心; 本件约1880年",
+    "object_key": "MEDJ-II",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-MEDJ-II-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-medjidie-mecidiye-civil-division-ii-class-star-c1880-eu21288",
+    "image_url": "https://www.emedals.com/cdn/shop/files/l22_mnc4632_355.jpg?v=1692909294&width=1946",
+    "summary": "MEDJ-II 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "efe3312785a189d696ad21b182c0cf8385712f04e6f33cf64e0ba31e710fb0f4",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-MEDJ-IV": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-iv-class-m0580-78",
+    "summary": "四等挂章; 无剑；银质、金质中心; 正面、背面",
+    "object_key": "MEDJ-IV",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-MEDJ-IV-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-iv-class-m0580-78",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC5337.jpg?v=1702415002&width=1946",
+    "summary": "MEDJ-IV 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "a71e897e04b602575169c78e578c251a8fde3d9cd356e8fb068cd98e47573108",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "image-LEG-MEDJ-IV-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-iv-class-m0580-78",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC5339.jpg?v=1702415004&width=1946",
+    "summary": "MEDJ-IV 背面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "2d9e806c616a1248c73023a44b6c80ad39edc3f83e35bc91c6ab8b054171dc7a",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-MEDJ-V-S": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-order-of-medjidie-mecidiye-v-class-knight-military-division-eu18190",
+    "summary": "五等挂章；军事版; 交叉剑饰，银色剑; 银质；替换绶带",
+    "object_key": "MEDJ-V-S",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-MEDJ-V-S-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-order-of-medjidie-mecidiye-v-class-knight-military-division-eu18190",
+    "image_url": "https://www.emedals.com/cdn/shop/files/c20116_emd5320_1.jpg?v=1692892961&width=1946",
+    "summary": "MEDJ-V-S 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "7e447019a7562adfd183dada2fa58ed486f5fc66851563ca94e6d1937fd1ab73",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-OSM-III": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-osmanieh-commander-c1910-eg2912",
+    "summary": "三等指挥官章；第二型; 无剑；银质镀金; 本件约1910年",
+    "object_key": "OSM-III",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-OSM-III-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-osmanieh-commander-c1910-eg2912",
+    "image_url": "https://www.emedals.com/cdn/shop/files/m181_1480.jpg?v=1692878389&width=1946",
+    "summary": "OSM-III 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "20428bdfe759cd2cab21b3c11383acfa07804122bf9036a3cc39a5fa1da15898",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-IFT-ORDER": {
+    "page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-%C4%B1_%C4%B0ftihar_of_the_Ottoman_Empire.jpg",
+    "summary": "镶饰挂章；带绶带; 无剑；具体等级未详",
+    "object_key": "IFT-ORDER",
+    "accessed": "2026-09-25"
+  },
+  "legacy-page-IMT-ORDER": {
+    "page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-i_Imtiyaz.jpg",
+    "summary": "镶钻挂章；无剑; 不是圆形的 İmtiyaz 奖章",
+    "object_key": "IMT-ORDER",
+    "accessed": "2026-09-25"
+  },
+  "legacy-page-EDU-ORDER": {
+    "page": "https://commons.wikimedia.org/wiki/File:Osmanse_Orde_van_het_Onderwijs.jpg",
+    "summary": "教育奖励；挂章; 具体等级未详; 完整旧图，清晰度较低",
+    "object_key": "EDU-ORDER",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-EDU-ORDER-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Osmanse_Orde_van_het_Onderwijs.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Osmanse_Orde_van_het_Onderwijs.jpg",
+    "summary": "EDU-ORDER 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      236,
+      612
+    ],
+    "sha256": "e3f36e42ba5a04a96903f753be1738d14c6ca40e7f7d0929c43f3d624b007972",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-LIY-S": {
+    "page": "https://www.awm.gov.au/collection/C980773",
+    "summary": "银质；无剑扣; 花丝悬挂式佩戴实例; 本件约1890年代",
+    "object_key": "LIY-S",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-LIY-S-1": {
+    "page": "https://www.awm.gov.au/collection/C980773",
+    "image_url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/REL29504/screen/3833625.JPG",
+    "summary": "LIY-S 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      404,
+      653
+    ],
+    "sha256": "4483d579787e419b8484f1fe4c0ae22daec7a089cbcc650d4f644aab7fe9a5de",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-LIY-MINI": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-miniature-liyakat-medal-medal-for-merit-c1915-w7752",
+    "summary": "微型章；铜质; 交叉剑扣，金色剑饰; 不是足尺寸金质等级",
+    "object_key": "LIY-MINI",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-LIY-MINI-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-miniature-liyakat-medal-medal-for-merit-c1915-w7752",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC9484.jpg?v=1736174188&width=1946",
+    "summary": "LIY-MINI 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "df222abf0dda7e01e947404c599183eca63c6c663293a48017e8766bb2af4d3b",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "image-LEG-LIY-MINI-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-miniature-liyakat-medal-medal-for-merit-c1915-w7752",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC9485.jpg?v=1736174188&width=1946",
+    "summary": "LIY-MINI 背面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "2a6669e84acedac24c86979ab05514a4b321b390c4f98fc6ce06fa4e494f0233",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-IMT-MEDAL": {
+    "page": "https://spink.com/lot/21001001382",
+    "summary": "银质奖章；36毫米; 授名背铭实例; 正、背同图",
+    "object_key": "IMT-MEDAL",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-IMT-MEDAL-1": {
+    "page": "https://spink.com/lot/21001001382",
+    "image_url": "https://d3ums4016ncdkp.cloudfront.net/auction/main/21001/21001_1382_1.jpg",
+    "summary": "IMT-MEDAL 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      500,
+      579
+    ],
+    "sha256": "5ba64c14dbc9c06b130b1100409f4332111c5ce94dbbc3fe71a56573870fe0b0",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-SANAYI": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+    "summary": "银质；31毫米; 民用奖励；替换绶带; 正面、背面",
+    "object_key": "SANAYI",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-SANAYI-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC3256_2034f12a-b2cd-4afd-9711-5d3290d6aad8.jpg?v=1755103291&width=1946",
+    "summary": "SANAYI 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "e03a44dd7733e10e21f0946224c9de8ea97d539783bac9588149f1408ea2391b",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "image-LEG-SANAYI-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+    "image_url": "https://www.emedals.com/cdn/shop/files/MNC3258_0fdb669c-2d96-4c36-8e2d-a514006cd790.jpg?v=1755103293&width=1946",
+    "summary": "SANAYI 背面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "sha256": "70b0b8e6d07d0e4bcd08804dc126e015fc0bb9962e3d9a062f96772befb672d2",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-RED-CRESCENT": {
+    "page": "https://commons.wikimedia.org/wiki/File:Red_crescent.jpg",
+    "summary": "铜质佩戴章; 救护／慈善奖励; 正面",
+    "object_key": "RED-CRESCENT",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-RED-CRESCENT-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Red_crescent.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Red_crescent.jpg",
+    "summary": "RED-CRESCENT 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      800,
+      1200
+    ],
+    "sha256": "a10be0733a3c802c883dcf0f5c2c4bcb7f222b2988d3686a825022caa373d995",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-NUSRET": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/199927",
+    "summary": "金质大章；28.9毫米; 正、背同图",
+    "object_key": "NUSRET",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-NUSRET-1": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/199927",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07189q00.jpg",
+    "summary": "NUSRET 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1242,
+      934
+    ],
+    "sha256": "12437278d3c9fa8b83ecde9483f372b43df0ee5f23591d9559421c46286e92bb",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-AGRI-S": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192759",
+    "summary": "银质；44.4毫米; 非佩戴型；民用奖励; 正、背同图",
+    "object_key": "AGRI-S",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-AGRI-S-1": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192759",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07297q00.jpg",
+    "summary": "AGRI-S 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      2756,
+      1372
+    ],
+    "sha256": "6a9d0dd3548f6eb6d6950fef0ed529e41f1a591ac407f8f34842538b477b2f6f",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-GRAD": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192775",
+    "summary": "银质；毕业奖励; 佩戴型；授名背铭; 正、背同图",
+    "object_key": "GRAD",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-GRAD-1": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192775",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07313q00.jpg",
+    "summary": "GRAD 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1866,
+      1549
+    ],
+    "sha256": "d95b6e4eccaf142a6772283fb5b2c99927f6552d5b416c6ce5386dc182b93cff",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-HEJAZ-G": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192776",
+    "summary": "金质小型佩戴章；29.5毫米; 铁路募助／纪念; 章体正背、原盒同图",
+    "object_key": "HEJAZ-G",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-HEJAZ-G-1": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192776",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07314q00.jpg",
+    "summary": "HEJAZ-G 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      2369,
+      1723
+    ],
+    "sha256": "7f4e845a29697c0d88e4a8131139ac82f9caccbebc2dcfe68680232bfbad09c1",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-MAAN": {
+    "page": "https://commons.wikimedia.org/wiki/File:Hicaz-demiryolu-maan-mevkii.gif",
+    "summary": "银质；51毫米; 非佩戴纪念章; 正、背同图",
+    "object_key": "MAAN",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-MAAN-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Hicaz-demiryolu-maan-mevkii.gif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hicaz-demiryolu-maan-mevkii.gif",
+    "summary": "MAAN 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      678,
+      328
+    ],
+    "sha256": "e49414bc695462bf0616de6f7f586ce9a0b10a0f4b4742a9ef1cb3a60d00e4fa",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-RELIEF": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192774",
+    "summary": "镍质；26.8毫米; 非佩戴型；救济展览; 正、背同图",
+    "object_key": "RELIEF",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-RELIEF-1": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192774",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07312q00.jpg",
+    "summary": "RELIEF 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1666,
+      829
+    ],
+    "sha256": "26daaae9addc1460d165d3ec73e71dd793a235cd8d73ee9ac40e0b487df15d6c",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-BOSNIA": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bosna_Madalyas%C4%B1.png",
+    "summary": "战役奖章；穿孔佩戴实例; 材质等级待核; 正、背同图",
+    "object_key": "BOSNIA",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-BOSNIA-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bosna_Madalyas%C4%B1.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bosna_Madalyas%C4%B1.png",
+    "summary": "BOSNIA 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      652,
+      330
+    ],
+    "sha256": "7b228f8c9ba2b30744045a1b929e44c6ed4c74eb9113b659f4c2920624aff622",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-YEMEN-I": {
+    "page": "https://commons.wikimedia.org/wiki/File:Yemen_madalyas%C4%B1-g%C3%BCm%C3%BC%C5%9F.JPG",
+    "summary": "银质；战役奖章; 装饰悬挂式; 正、背同图",
+    "object_key": "YEMEN-I",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-YEMEN-I-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Yemen_madalyas%C4%B1-g%C3%BCm%C3%BC%C5%9F.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Yemen_madalyas%C4%B1-g%C3%BCm%C3%BC%C5%9F.JPG",
+    "summary": "YEMEN-I 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      939,
+      672
+    ],
+    "sha256": "19b3eb28cb751f4ed318946e3406a110dcda3705fdbd352ba738f21e8d5eb300",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-YEMEN-II": {
+    "page": "https://commons.wikimedia.org/wiki/File:Cedid-yemen-madalyas%C4%B1_25_mm.8.6_gr._g%C3%BCm%C3%BC%C5%9F_H.1310_M.1892.gif",
+    "summary": "银质；25毫米; 战役奖章; 正、背同图",
+    "object_key": "YEMEN-II",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-YEMEN-II-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Cedid-yemen-madalyas%C4%B1_25_mm.8.6_gr._g%C3%BCm%C3%BC%C5%9F_H.1310_M.1892.gif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cedid-yemen-madalyas%C4%B1_25_mm.8.6_gr._g%C3%BCm%C3%BC%C5%9F_H.1310_M.1892.gif",
+    "summary": "YEMEN-II 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      781,
+      391
+    ],
+    "sha256": "709adaa1573b5d8d048817076c9a8ec4f9ad936adacb2b3b9fd139b424e4720a",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-KARS": {
+    "page": "https://data.fitzmuseum.cam.ac.uk/id/object/141551",
+    "summary": "银质；36.7毫米; 战役奖章; 正面",
+    "object_key": "KARS",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-KARS-1": {
+    "page": "https://data.fitzmuseum.cam.ac.uk/id/object/141551",
+    "image_url": "https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm15/LW_0340_281_29.jpg",
+    "summary": "KARS 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      133,
+      365
+    ],
+    "sha256": "95247526569c4042ba241cebda6b6f05d142d29048ebff464028196d2ebc015e",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-CONSTITUTION": {
+    "page": "https://commons.wikimedia.org/wiki/File:TR_Kan%C3%BBn-u_Es%C3%A2s%C3%AE_Madalyas%C4%B1.jpg",
+    "summary": "宪政纪念佩戴章; 银色章体；金属等级未核; 正面",
+    "object_key": "CONSTITUTION",
+    "accessed": "2026-09-25"
+  },
+  "legacy-page-NAVAL": {
+    "page": "https://commons.wikimedia.org/wiki/File:Vlootinzamelingsmedaille_van_Turkije_1913.jpg",
+    "summary": "金色佩戴章；材质等级未核; 海军募捐; 正、背同图",
+    "object_key": "NAVAL",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-NAVAL-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Vlootinzamelingsmedaille_van_Turkije_1913.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vlootinzamelingsmedaille_van_Turkije_1913.jpg",
+    "summary": "NAVAL 正背同图; legacy candidate independently opened and decoded",
+    "dimensions": [
+      260,
+      1029
+    ],
+    "sha256": "a41d1e2d5cafda94c793a94353e0dbdf9fd0eee1e89959ba41415fff4be53aa2",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-WAR": {
+    "page": "https://commons.wikimedia.org/wiki/File:Gallipoli-star.jpg",
+    "summary": "单一等级；军事奖励; 红色星形章; 本件制造商未详",
+    "object_key": "WAR",
+    "accessed": "2026-09-25"
+  },
+  "legacy-page-CHELENGK-COPY": {
+    "page": "https://commons.wikimedia.org/wiki/File:Diamond_chelengk_of_Ottoman_Empire.jpg",
+    "summary": "复制品 / Copy; 仿18世纪末宫廷赏赐羽饰; 完整斜视图",
+    "object_key": "CHELENGK-COPY",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-CHELENGK-COPY-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Diamond_chelengk_of_Ottoman_Empire.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Diamond_chelengk_of_Ottoman_Empire.jpg",
+    "summary": "CHELENGK-COPY 正面; legacy candidate independently opened and decoded",
+    "dimensions": [
+      1280,
+      951
+    ],
+    "sha256": "e8906e9147a31c665e9b6ddf80279f3f9b89f1add650332562ef2a0fa649daac",
+    "accessed": "2026-09-25",
+    "license": "原站版权／许可待核；仅供本地研究"
+  },
+  "legacy-page-DEPUTIES": {
+    "page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Ottoman_Chamber_of_Deputies.jpg",
+    "summary": "议员／机构徽章; 珐琅星章；不按军功等级划分; 正面",
+    "object_key": "DEPUTIES",
+    "accessed": "2026-09-25"
+  },
+  "kuenker-plevne": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/199996",
+    "summary": "Auction 299 lot 7259: silver 26.8mm Plevne medal with old original ribbon; 1877 siege, awarded in 1878; former ANS and Morton & Eden collection.",
+    "object_id": "Auction 299, lot 7259",
+    "accessed": "2026-09-25"
+  },
+  "image-PLEVNE-KUENKER": {
+    "page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/199996",
+    "image_url": "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07259q00.jpg",
+    "summary": "complete front and reverse in one photograph",
+    "dimensions": [
+      1346,
+      1514
+    ],
+    "sha256": "a8c23a82cf9801551fc5a4cc05723cefb8725e121a23c630b8677ab3fa28cb18",
+    "license": "Künker copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-IFT-ORDER-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-%C4%B1_%C4%B0ftihar_of_the_Ottoman_Empire.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ni%C5%9Fan-%C4%B1_%C4%B0ftihar_of_the_Ottoman_Empire.jpg",
+    "summary": "荣誉勋章完整正面；TDV：1833年公布章程，早期金银镶钻；1851–1852年停用。",
+    "dimensions": [
+      1501,
+      1099
+    ],
+    "sha256": "3f4d0d3bc8f72574a1ac09ca42f11085101f712060818cc3b33a347cae58f1aa",
+    "accessed": "2026-09-25",
+    "license": "Commons file page: PD-Ottoman / PD-US"
+  },
+  "image-LEG-IMT-ORDER-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-i_Imtiyaz.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ni%C5%9Fan-i_Imtiyaz.jpg",
+    "summary": "伊姆提雅兹勋章完整正面；TDV：阿卜杜勒迈吉德时期创设，1841年已有授予记录，制度不分等级。",
+    "dimensions": [
+      606,
+      721
+    ],
+    "sha256": "bcc2ba24d1d8554d63140b7fb89a7941f7d1d587c7ec48f0bd527f6f752e937a",
+    "accessed": "2026-09-25",
+    "license": "Commons file page: PD-Ottoman / PD-US"
+  },
+  "ttk-rulers": {
+    "page": "https://ttk.gov.tr/osmanli-padisahlari/",
+    "summary": "Turkish Historical Society list of Ottoman sultans and their reign years; used for ruler navigation.",
+    "accessed": "2026-09-25"
+  },
+  "maarif-order": {
+    "page": "https://turkmaarifansiklopedisi.org.tr/maarif-nisani",
+    "summary": "Maarif Nişanı received formal status on 1910-05-15, in three grades; distinct from abolished Maarif Madalyası.",
+    "accessed": "2026-09-25"
+  },
+  "image-LEG-DEPUTIES-1": {
+    "page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Ottoman_Chamber_of_Deputies.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Order_of_the_Ottoman_Chamber_of_Deputies.jpg",
+    "summary": "Complete front, Commons label says Ottoman Chamber of Deputies order; photographer/author unknown.",
+    "dimensions": [
+      1086,
+      1028
+    ],
+    "sha256": "5797562f6b8f8cffa2c8d0a6852edd4c6f399d7d0a540379c73ac4cf54c2eb98",
+    "accessed": "2026-09-25",
+    "license": "Commons file page: PD-Ottoman / PD-US"
+  },
+  "image-TAHLISIYE-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-life-saving-medal-medal-of-tahlisiye-eu21417",
+    "image_url": "https://www.emedals.com/cdn/shop/files/ai1_0846.jpg?v=1692910018&width=1946",
+    "summary": "EU21417 正面; 1000x750 source file",
+    "sha256": "32df2693f27edf5c6c7e4dbdfb3c773681a8cb43009fd1440396660bbf127803",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "image-TAHLISIYE-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-life-saving-medal-medal-of-tahlisiye-eu21417",
+    "image_url": "https://www.emedals.com/cdn/shop/files/ai1_0848.jpg?v=1692910025&width=1946",
+    "summary": "EU21417 背面; 1000x750 source file",
+    "sha256": "b0541f1929a0e83ee521165a2d43f2031826261875349499d137d854cbd19d8c",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "emedals-tahlisiye": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-life-saving-medal-medal-of-tahlisiye-eu21417",
+    "object_id": "EU21417",
+    "accessed": "2026-09-25",
+    "summary": "Tahlisiye Madalyası, instituted 1859; silver, 36.7 mm; original hanger, replacement ribbon; front and reverse source photos."
+  },
+  "image-GREEK-1": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-medal-for-ottoman-greek-war-of-1897-eu14917rl2",
+    "image_url": "https://www.emedals.com/cdn/shop/files/c18-016215_1_1.jpg?v=1692893854&width=1445",
+    "summary": "EU14917 正面; complete medal, ribbon missing",
+    "sha256": "ed64ee07f83f49d36af0b90a0f2338ce2fecfaa409ee83cbfa95dfe1d9dc4fea",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "image-GREEK-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-medal-for-ottoman-greek-war-of-1897-eu14917rl2",
+    "image_url": "https://www.emedals.com/cdn/shop/files/c18-016217_1_1.jpg?v=1692893836&width=1445",
+    "summary": "EU14917 斜视背面; complete medal, ribbon missing",
+    "sha256": "9f1aa07e31d1ca5e4fe6f46d7e9d2f56f930478047a8c15a36e632085516c23f",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "emedals-greek-war": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-medal-for-ottoman-greek-war-of-1897-eu14917rl2",
+    "object_id": "EU14917",
+    "accessed": "2026-09-25",
+    "summary": "Ottoman Greek War Medal dated AH 1314 / 1897; silver, 24.5 mm. Complete medal and suspension bar photographed front and oblique reverse; ribbon absent."
+  },
+  "image-RED-CRESCENT-2": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-red-crescent-medal-iii-class-bronze-grade-c1918-eu20367",
+    "image_url": "https://www.emedals.com/cdn/shop/files/l22_mnc6762_249.jpg?v=1692906551&width=1946",
+    "summary": "EU20367 正面; same specimen",
+    "sha256": "0c322c42e918520fa818cd48c7e4a4e8d3ffcced23b6c9c861ffc63ea18339b0",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "image-RED-CRESCENT-3": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-red-crescent-medal-iii-class-bronze-grade-c1918-eu20367",
+    "image_url": "https://www.emedals.com/cdn/shop/files/l22_mnc6764_250.jpg?v=1692906562&width=1946",
+    "summary": "EU20367 背面; same specimen",
+    "sha256": "b3015a04a6dc1c940eec496fb7522755e66a27d4851e80b3a01d88729fb9ce90",
+    "dimensions": [
+      1000,
+      750
+    ],
+    "license": "eMedals copyright; local research only",
+    "accessed": "2026-09-25"
+  },
+  "emedals-red-crescent": {
+    "page": "https://www.emedals.com/products/turkey-ottoman-empire-a-red-crescent-medal-iii-class-bronze-grade-c1918-eu20367",
+    "object_id": "EU20367",
+    "accessed": "2026-09-25",
+    "summary": "Third class bronze Ottoman Red Crescent Medal, 28.7 x 61 mm including suspension; original ribbon and case; same specimen photographed front and back. Source estimates circa 1918 production."
+  },
+  "kuenker-red-crescent-statutes": {
+    "page": "https://www.kuenker.de/tuerkei/680973",
+    "object_id": "eLive Auction 75, lot 486",
+    "accessed": "2026-09-25",
+    "summary": "Künker cites statutes of 4 Zilkade AH 1330 for a three-grade gold, silver, bronze Red Crescent medal; oak leaves for war merit. Established under Sultan Mehmed V in 1912. Künker lot is a distinct bronze specimen, not the pictured eMedals object."
+  },
+  "sothebys-earthquake-gold": {
+    "page": "https://www.sothebys.com/en/buy/auction/2026/arts-of-the-islamic-world-india-l26220/istanbul-earthquake-medal-1894",
+    "object_id": "L26220, lot 246",
+    "accessed": "2026-09-25",
+    "summary": "Istanbul Earthquake Medal 1894, gold, 28 mm excluding suspension, original ribbon and stickpin, reverse engraved Abbas Hilmi Pasha; awarded to supporters of victims of 10 July 1894 earthquake. Only complete obverse view downloaded.",
+    "image_url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/a2/39/32b93f664d318ef0bdfc168fef48/l26220-dkf4s.jpg",
+    "sha256": "0201afe03b24217a5ee6662cfc6f55b98cd05fe9a0328141388a563796d7cfc8",
+    "dimensions": [
+      1438,
+      1596
+    ],
+    "license": "Sotheby’s copyright; local research only"
+  }
+}

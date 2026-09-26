@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-09-26",
+  "images": [
+    {
+      "view_key": "JPN-WWI-CAMPAIGN-DESIGN-F",
+      "local_path": "assets/images/japan_official_commons_batch2/wwi_campaign_design_front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Design_of_WWI_Campaign_Medal_Japan_front.jpg",
+      "license": "NDL历史图式；Commons保留来源法域说明",
+      "dimensions": [586, 1182],
+      "sha256": "0d79bcdb3cebdbde42cc765c078ec08feccf685fa1c41c139f8fb99dd5d87722",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "view_key": "JPN-WWI-CAMPAIGN-DESIGN-B1",
+      "local_path": "assets/images/japan_official_commons_batch2/wwi_campaign_design_back_1.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Design_of_WWI_Campaign_Medal_Japan_back_1.jpg",
+      "license": "NDL历史图式；Commons保留来源法域说明",
+      "dimensions": [473, 457],
+      "sha256": "3badabb417978f664a6f43197a2b7f6accebadf1535642228b9a94f89680584e",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

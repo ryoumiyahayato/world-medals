@@ -1,0 +1,24 @@
+{
+  "volume": "prussia_kingdom",
+  "batch_id": "PRU-B3-20260926",
+  "as_of": "2026-09-26",
+  "scope": "普鲁士军功／长期服役／战役纪念／一般荣誉候选第三小包",
+  "records_file": "data/volumes/prussia_batch3_2026-09-26.json",
+  "sources_file": "sources/prussia_batch3_sources_2026-09-26.json",
+  "candidate_file": "data/volumes/prussia_batch3_candidates_2026-09-26.json",
+  "checkpoint_file": "data/volumes/prussia_batch3_checkpoint_2026-09-26.json",
+  "images": [],
+  "counts": {
+    "independent_families_in_batch": 0,
+    "new_records": 0,
+    "complete_image_files": 0,
+    "rows_with_complete_obverse_and_reverse_pair": 0,
+    "rate_limited_sources": 2,
+    "commercial_thumbnail_only_candidates": 2,
+    "historical_plate_only_candidates": 1
+  },
+  "integrity": {
+    "public_html_or_shared_catalogue_modified": false,
+    "no_unverified_image_added": true
+  }
+}

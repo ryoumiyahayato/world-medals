@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-09-26",
+  "task": "巴伐利亚王国第二小包",
+  "status": "complete_for_package",
+  "scope_completed": [
+    "以pack1候选、pack1记录和公共catalogue做差集，确认Feldzugs-Denkzeichen 1866和Militär-Verdienstkreuz三等版型未收录",
+    "实际打开Paris Musées对象页及IIIF manifest，下载并查看CC0公共馆藏反面图",
+    "实际打开Commons/Europeana军事功绩十字对象页，下载、解码并查看三等加冠加剑完整十字图",
+    "为两个本地图片保存来源页、图像地址、许可/机构、尺寸、SHA-256和视觉核查",
+    "尝试Armeedenkzeichen 1866与MVO Tallinn图源；429响应未写入正式图目录",
+    "未修改公共catalogue.json、progress.json、index.html、公共样式/导航/搜索或其他分卷"
+  ],
+  "new_families": 2,
+  "new_variant_rows": 2,
+  "complete_image_files": 2,
+  "pending_scope_rows": [
+    "BAV-ARMY-DENKZEICHEN-1866",
+    "BAV-MILITARY-MERIT-ORDER（Großkreuz挂章/胸星、Komturkreuz、Ritterkreuz）",
+    "BAV-MILITARY-MERIT-CROSS（二等Beamtenband、一等及其他剑饰）",
+    "Feldzugs-Denkzeichen 1866同一对象的正面/另一视图"
+  ],
+  "blocking_or_uncertain": [
+    "Wikimedia Commons原图请求对Armeedenkzeichen 1866和Tallinn MVO返回429；已保留页面和待办，不把错误页当图片。",
+    "Feldzugs-Denkzeichen 1866的巴黎对象页与Armeedenkzeichen 1866名称相近，family关系需依德语制度目录复核；本包按来源题名暂分开。",
+    "军事功绩十字文件页没有馆藏号，只有Europeana/Age Exchange个人资料对象；低清但等级标题、皇冠与双剑明确。"
+  ],
+  "next_action": "下一次先处理BAV-ARMY-DENKZEICHEN-1866的DDB/DHM合法图像出口；随后获取MVO大十字挂章/胸星，避免重复请求已返回429的同一地址。"
+}

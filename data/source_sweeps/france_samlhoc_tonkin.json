@@ -1,0 +1,148 @@
+{
+  "source_id": "FR-SAMLHOC-TONKIN",
+  "source_name": "SAMLHOC / France Phaléristique — Tonkin-focused sweep",
+  "as_of": "2026-09-26",
+  "accessed": "2026-09-26",
+  "status": "complete_current_tonkin_scope_with_image_boundary",
+  "scope_rule": "Started from the SAMLHOC Tonkin commemorative-medal page, followed its explicit medal and diploma subpages, then checked the same-site Colonial Medal TONKIN section and Indochina Merit page because they provide directly related Tonkin/Annam legal and object evidence. No broad SAMLHOC crawl was performed.",
+  "source_pages_processed": 7,
+  "source_pages": [
+    {
+      "role": "SAMLHOC medal index",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/medailles_index.html",
+      "result": "Index lists Médaille commémorative de l’expédition du Tonkin (1885); used as the directory boundary."
+    },
+    {
+      "role": "Tonkin main page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_expedition_tonkin/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/tonkin_main.html",
+      "result": "History, law dates, ribbon, physical type, Marine/Terre model distinction, suspension variants, BnF/JO text section and 1950 late attribution captured."
+    },
+    {
+      "role": "Tonkin object image subpage",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_expedition_tonkin/medaille_commemorative_expedition_tonkin_insigne/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/tonkin_insigne.html",
+      "result": "Complete Marine obverse/reverse image and separate Army reverse image; image credit Serge Lainé."
+    },
+    {
+      "role": "Tonkin diploma image subpage",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_expedition_tonkin/medaille_commemorative_expedition_tonkin_diplome/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/tonkin_diplome.html",
+      "result": "Army diploma marked 1886 and Navy diploma marked 1892; image credit Cyrille Cardona."
+    },
+    {
+      "role": "Colonial Medal TONKIN section",
+      "url": "https://www.samlhoc.fr/phaleristique/decorations/medaille_coloniale/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/coloniale.html",
+      "result": "TONKIN section lines 1188–1226 captured all listed 1895–1929 clasp eligibility decrees and campaigns; page-level image is a different CÔTE DES SOMALIS clasp and is excluded from Tonkin object evidence."
+    },
+    {
+      "role": "Colonial Medal official-text compilation",
+      "url": "https://www.samlhoc.fr/phaleristique/decorations/medaille_coloniale_textes_officiels/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/coloniale_textes_officiels.html",
+      "result": "7 June 1895 decree, 30 September/4 October 1895 clarification, base legal text and clasp administration cross-checked."
+    },
+    {
+      "role": "Indochina Merit page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_merite_indochine/",
+      "local_cache": "sources/cache/france_samlhoc_tonkin/merite_indochine.html",
+      "result": "1890 creation, named 20 September 1890 attribution, 1 May 1891 repeal, object description and complete image pair captured."
+    }
+  ],
+  "continuation_tokens_exhausted": true,
+  "pagination_or_hidden_queue": false,
+  "candidate_rows": 3,
+  "families_in_candidates": 3,
+  "candidate_difference_summary": {
+    "existing_family_variant_or_coverage_gap": 2,
+    "difference_candidate": 1,
+    "new_normalized_families_admitted": 0,
+    "note": "This is a source sweep, not a public-volume merge. Existing Tonkin and Colonial Medal families remain unchanged; the Indochina Merit item is retained for normalization review."
+  },
+  "image_audit": {
+    "distinct_award_or_related_image_urls_found": 7,
+    "images_downloaded": 7,
+    "images_decoded_and_viewed": 7,
+    "complete_object_pair_files": 2,
+    "object_variant_reverse_only_files": 1,
+    "document_image_files": 2,
+    "contextual_non_object_files": 1,
+    "excluded_wrong_clasp_files": 1,
+    "award_image_urls": [
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/tonkinar.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/tonkinar.jpg",
+        "role": "complete Marine model obverse/reverse",
+        "dimensions_px": [374, 377],
+        "bytes": 38628,
+        "sha256": "26E804443453233C2328AADE5E862B761BF402AE233CA4FE30411A7913C3D692"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/tonkinrter.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/tonkinrter.jpg",
+        "role": "Army model reverse only",
+        "dimensions_px": [156, 246],
+        "bytes": 35022,
+        "sha256": "7D9DB38DAAEB09762B2D8B08106C2852B628426226EE85613B62102B6917F160"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/tonkindipt.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/tonkindipt.jpg",
+        "role": "Army diploma marked 1886",
+        "dimensions_px": [343, 500],
+        "bytes": 52697,
+        "sha256": "86B9CC0911095E455865F5C1B6A8FF4BCA452CC3E02BD8E1B3C244A1E54CBB96"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/tonkindipm.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/tonkindipm.jpg",
+        "role": "Navy diploma marked 1892",
+        "dimensions_px": [345, 500],
+        "bytes": 50403,
+        "sha256": "E1D35929B5042504128576EA38F7E7757961AE6133AE7AD8FA45AACAA62177DB"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/conquete_tonkin.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/conquete_tonkin.jpg",
+        "role": "contextual historical illustration, not an award object",
+        "dimensions_px": [752, 562],
+        "bytes": 176980,
+        "sha256": "D75F987C60910171620363EFE2FC6FAA85CEEF5F7B15C9C2C010F46E75505259"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/coloar.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/coloar.jpg",
+        "role": "Colonial Medal page image; CÔTE DES SOMALIS clasp, not TONKIN",
+        "dimensions_px": [411, 383],
+        "bytes": 20787,
+        "sha256": "5CD75D174010523BAE70814933EB8BE39B0C530D8F72E35F9C2E37CBEA7F3280"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/medmertindoar.jpg",
+        "local_path": "sources/cache/france_samlhoc_tonkin/medmertindoar.jpg",
+        "role": "Indochina Merit complete obverse/reverse pair",
+        "dimensions_px": [397, 456],
+        "bytes": 95289,
+        "sha256": "395CE9838FBB50E19D7E84A92A6DE4D9E8F3E1027A95E967E1B84FD9E68A36FE"
+      }
+    ]
+  },
+  "raw_candidate_file": "data/raw_candidates/france_samlhoc_tonkin.jsonl",
+  "metadata_cache_directory": "sources/cache/france_samlhoc_tonkin",
+  "failures": [
+    {
+      "scope": "web-renderer image-link fetch",
+      "result": "Some SAMLHOC media click operations timed out in the web renderer, but direct terminal page requests and original-media downloads succeeded; no page was counted as unavailable."
+    },
+    {
+      "scope": "Tonkin clasp object imagery",
+      "result": "No image URL specifically depicting the TONKIN clasp was exposed in the Colonial Medal TONKIN section. The only page-level Colonial Medal image is a CÔTE DES SOMALIS clasp and was explicitly excluded."
+    },
+    {
+      "scope": "rights",
+      "result": "SAMLHOC footer says all rights reserved 2026; contributors are named for the Tonkin object/diploma images, but no reuse licence was stated."
+    }
+  ],
+  "next_checkpoint": "Tonkin main page, explicit object/diploma subpages, Colonial Medal TONKIN legal segment and Indochina Merit page are cached and swept. Next work may independently seek a full Tonkin-clasp object photograph or primary Légifrance/BnF scans; do not expand this package to unrelated SAMLHOC pages."
+}

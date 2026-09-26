@@ -1,0 +1,370 @@
+[
+  {
+    "legacy_key": "MEDJ-I",
+    "name": "麦吉迪勋章",
+    "original": "Mecidiye / Order of the Medjidie",
+    "variant": "一等大绶章\n无剑；银质、金质中心\n本件约1900年；配现代绶带",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-badge-i-class-sash-badge-c-1900-eu22298",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/MNC6524.jpg?v=1699302422&width=1946",
+      "https://www.emedals.com/cdn/shop/files/MNC6526_f45dc406-3174-4326-b1fa-db30a9540260.jpg?v=1699302422&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-MEDJ-I"
+  },
+  {
+    "legacy_key": "MEDJ-II",
+    "name": "麦吉迪勋章",
+    "original": "Mecidiye / Order of the Medjidie",
+    "variant": "二等星章；文职版\n无剑；银质、金质中心\n本件约1880年",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-medjidie-mecidiye-civil-division-ii-class-star-c1880-eu21288",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/l22_mnc4632_355.jpg?v=1692909294&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-MEDJ-II"
+  },
+  {
+    "legacy_key": "MEDJ-IV",
+    "name": "麦吉迪勋章",
+    "original": "Mecidiye / Order of the Medjidie",
+    "variant": "四等挂章\n无剑；银质、金质中心\n正面、背面",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-the-medjidie-iv-class-m0580-78",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/MNC5337.jpg?v=1702415002&width=1946",
+      "https://www.emedals.com/cdn/shop/files/MNC5339.jpg?v=1702415004&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-MEDJ-IV"
+  },
+  {
+    "legacy_key": "MEDJ-V-S",
+    "name": "麦吉迪勋章",
+    "original": "Mecidiye / Order of the Medjidie",
+    "variant": "五等挂章；军事版\n交叉剑饰，银色剑\n银质；替换绶带",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-order-of-medjidie-mecidiye-v-class-knight-military-division-eu18190",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/c20116_emd5320_1.jpg?v=1692892961&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-MEDJ-V-S"
+  },
+  {
+    "legacy_key": "OSM-III",
+    "name": "奥斯曼尼勋章",
+    "original": "Osmaniye / Order of Osmanieh",
+    "variant": "三等指挥官章；第二型\n无剑；银质镀金\n本件约1910年",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-an-order-of-osmanieh-commander-c1910-eg2912",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/m181_1480.jpg?v=1692878389&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-OSM-III"
+  },
+  {
+    "legacy_key": "IFT-ORDER",
+    "name": "荣誉勋章",
+    "original": "Nişan-ı İftihar / Order of Glory",
+    "variant": "镶饰挂章；带绶带\n无剑；具体等级未详",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-%C4%B1_%C4%B0ftihar_of_the_Ottoman_Empire.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ni%C5%9Fan-%C4%B1_%C4%B0ftihar_of_the_Ottoman_Empire.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-IFT-ORDER"
+  },
+  {
+    "legacy_key": "IMT-ORDER",
+    "name": "优异／特权勋章",
+    "original": "Nişan-ı İmtiyaz",
+    "variant": "镶钻挂章；无剑\n不是圆形的 İmtiyaz 奖章",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ni%C5%9Fan-i_Imtiyaz.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ni%C5%9Fan-i_Imtiyaz.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-IMT-ORDER"
+  },
+  {
+    "legacy_key": "EDU-ORDER",
+    "name": "教育勋章",
+    "original": "Maârif Nişanı / Order of Education",
+    "variant": "教育奖励；挂章\n具体等级未详\n完整旧图，清晰度较低",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Osmanse_Orde_van_het_Onderwijs.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/77/Osmanse_Orde_van_het_Onderwijs.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-EDU-ORDER"
+  },
+  {
+    "legacy_key": "LIY-S",
+    "name": "功绩奖章",
+    "original": "Liyakat Madalyası",
+    "variant": "银质；无剑扣\n花丝悬挂式佩戴实例\n本件约1890年代",
+    "source_page": "https://www.awm.gov.au/collection/C980773",
+    "image_urls": [
+      "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/REL29504/screen/3833625.JPG"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-LIY-S"
+  },
+  {
+    "legacy_key": "LIY-MINI",
+    "name": "功绩奖章",
+    "original": "Liyakat Madalyası",
+    "variant": "微型章；铜质\n交叉剑扣，金色剑饰\n不是足尺寸金质等级",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-a-miniature-liyakat-medal-medal-for-merit-c1915-w7752",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/MNC9484.jpg?v=1736174188&width=1946",
+      "https://www.emedals.com/cdn/shop/files/MNC9485.jpg?v=1736174188&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-LIY-MINI"
+  },
+  {
+    "legacy_key": "IMT-MEDAL",
+    "name": "优异奖章",
+    "original": "İmtiyaz Madalyası",
+    "variant": "银质奖章；36毫米\n授名背铭实例\n正、背同图",
+    "source_page": "https://spink.com/lot/21001001382",
+    "image_urls": [
+      "https://d3ums4016ncdkp.cloudfront.net/auction/main/21001/21001_1382_1.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-IMT-MEDAL"
+  },
+  {
+    "legacy_key": "SANAYI",
+    "name": "工业／技艺奖章",
+    "original": "Sanayi Madalyası",
+    "variant": "银质；31毫米\n民用奖励；替换绶带\n正面、背面",
+    "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+    "image_urls": [
+      "https://www.emedals.com/cdn/shop/files/MNC3256_2034f12a-b2cd-4afd-9711-5d3290d6aad8.jpg?v=1755103291&width=1946",
+      "https://www.emedals.com/cdn/shop/files/MNC3258_0fdb669c-2d96-4c36-8e2d-a514006cd790.jpg?v=1755103293&width=1946"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-SANAYI"
+  },
+  {
+    "legacy_key": "RED-CRESCENT",
+    "name": "红新月奖章",
+    "original": "Hilâl-i Ahmer Madalyası",
+    "variant": "铜质佩戴章\n救护／慈善奖励\n正面",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Red_crescent.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/Red_crescent.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-RED-CRESCENT"
+  },
+  {
+    "legacy_key": "NUSRET",
+    "name": "胜利清真寺奖章",
+    "original": "Cami-i Nusret Madalyası",
+    "variant": "金质大章；28.9毫米\n正、背同图",
+    "source_page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/199927",
+    "image_urls": [
+      "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07189q00.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-NUSRET"
+  },
+  {
+    "legacy_key": "AGRI-S",
+    "name": "农业与工业奖章",
+    "original": "Zira'at ve Sına'at Madalyası",
+    "variant": "银质；44.4毫米\n非佩戴型；民用奖励\n正、背同图",
+    "source_page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192759",
+    "image_urls": [
+      "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07297q00.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-AGRI-S"
+  },
+  {
+    "legacy_key": "GRAD",
+    "name": "教育／毕业奖章",
+    "original": "Ma'ârif Madalyası",
+    "variant": "银质；毕业奖励\n佩戴型；授名背铭\n正、背同图",
+    "source_page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192775",
+    "image_urls": [
+      "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07313q00.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-GRAD"
+  },
+  {
+    "legacy_key": "HEJAZ-G",
+    "name": "汉志铁路奖章",
+    "original": "Hamidiye-Hicaz Demiryolu Madalyası",
+    "variant": "金质小型佩戴章；29.5毫米\n铁路募助／纪念\n章体正背、原盒同图",
+    "source_page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192776",
+    "image_urls": [
+      "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07314q00.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-HEJAZ-G"
+  },
+  {
+    "legacy_key": "MAAN",
+    "name": "汉志铁路马安段纪念章",
+    "original": "Hicaz Demiryolu — Maan",
+    "variant": "银质；51毫米\n非佩戴纪念章\n正、背同图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hicaz-demiryolu-maan-mevkii.gif",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Hicaz-demiryolu-maan-mevkii.gif"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-MAAN"
+  },
+  {
+    "legacy_key": "RELIEF",
+    "name": "遗孤与伤残军人救济展览章",
+    "original": "Şehid Evladı ve Malül Askere İane Sergisi",
+    "variant": "镍质；26.8毫米\n非佩戴型；救济展览\n正、背同图",
+    "source_page": "https://www.kuenker.de/tuerkei-osmanisches-reich-the-ottoman-collection-orden-und-ehrenzeichen/192774",
+    "image_urls": [
+      "https://kuenker.s3.eu-central-1.amazonaws.com/images/auction/00092/07312q00.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-RELIEF"
+  },
+  {
+    "legacy_key": "BOSNIA",
+    "name": "波斯尼亚奖章",
+    "original": "Bosna Madalyası",
+    "variant": "战役奖章；穿孔佩戴实例\n材质等级待核\n正、背同图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bosna_Madalyas%C4%B1.png",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bosna_Madalyas%C4%B1.png"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-BOSNIA"
+  },
+  {
+    "legacy_key": "YEMEN-I",
+    "name": "第一也门奖章",
+    "original": "Yemen Madalyası",
+    "variant": "银质；战役奖章\n装饰悬挂式\n正、背同图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Yemen_madalyas%C4%B1-g%C3%BCm%C3%BC%C5%9F.JPG",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/Yemen_madalyas%C4%B1-g%C3%BCm%C3%BC%C5%9F.JPG"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-YEMEN-I"
+  },
+  {
+    "legacy_key": "YEMEN-II",
+    "name": "第二也门奖章",
+    "original": "Cedid Yemen Madalyası",
+    "variant": "银质；25毫米\n战役奖章\n正、背同图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cedid-yemen-madalyas%C4%B1_25_mm.8.6_gr._g%C3%BCm%C3%BC%C5%9F_H.1310_M.1892.gif",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cedid-yemen-madalyas%C4%B1_25_mm.8.6_gr._g%C3%BCm%C3%BC%C5%9F_H.1310_M.1892.gif"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-YEMEN-II"
+  },
+  {
+    "legacy_key": "KARS",
+    "name": "卡尔斯保卫奖章",
+    "original": "Kars / Medal for the Defence of Kars",
+    "variant": "银质；36.7毫米\n战役奖章\n正面",
+    "source_page": "https://data.fitzmuseum.cam.ac.uk/id/object/141551",
+    "image_urls": [
+      "https://data.fitzmuseum.cam.ac.uk/imagestore/cm/cm15/LW_0340_281_29.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-KARS"
+  },
+  {
+    "legacy_key": "CONSTITUTION",
+    "name": "宪法纪念奖章",
+    "original": "Kanûn-u Esâsî Madalyası",
+    "variant": "宪政纪念佩戴章\n银色章体；金属等级未核\n正面",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TR_Kan%C3%BBn-u_Es%C3%A2s%C3%AE_Madalyas%C4%B1.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/TR_Kan%C3%BBn-u_Es%C3%A2s%C3%AE_Madalyas%C4%B1.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "merged",
+    "target": "OTT-CONSTITUTION-01"
+  },
+  {
+    "legacy_key": "NAVAL",
+    "name": "海军募捐奖章",
+    "original": "Donanma İane Madalyası",
+    "variant": "金色佩戴章；材质等级未核\n海军募捐\n正、背同图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vlootinzamelingsmedaille_van_Turkije_1913.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vlootinzamelingsmedaille_van_Turkije_1913.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "main_gallery",
+    "target": "OTT-LEG-NAVAL"
+  },
+  {
+    "legacy_key": "WAR",
+    "name": "奥斯曼战争奖章",
+    "original": "Harp Madalyası / Gallipoli Star",
+    "variant": "单一等级；军事奖励\n红色星形章\n本件制造商未详",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gallipoli-star.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/Gallipoli-star.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "merged",
+    "target": "OTT-WAR-1915-01"
+  },
+  {
+    "legacy_key": "CHELENGK-COPY",
+    "name": "切伦克羽饰",
+    "original": "Çelenk / Chelengk",
+    "variant": "复制品 / Copy\n仿18世纪末宫廷赏赐羽饰\n完整斜视图",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Diamond_chelengk_of_Ottoman_Empire.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/31/Diamond_chelengk_of_Ottoman_Empire.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-CHELENGK-COPY"
+  },
+  {
+    "legacy_key": "DEPUTIES",
+    "name": "奥斯曼众议院徽章",
+    "original": "Ottoman Chamber of Deputies Badge",
+    "variant": "议员／机构徽章\n珐琅星章；不按军功等级划分\n正面",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Ottoman_Chamber_of_Deputies.jpg",
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Order_of_the_Ottoman_Chamber_of_Deputies.jpg"
+    ],
+    "status": "已迁移",
+    "disposition": "related_gallery",
+    "target": "OTT-LEG-DEPUTIES"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "schema": "checkpoint-v1",
+  "batch_id": "japan_ndl_public_plates_batch1",
+  "as_of": "2026-09-26",
+  "scope": "NDL 1937 PID 1441381 directory and related text pages; separate 1918 PID 967000 plate route",
+  "completed": {
+    "directory_pages": [14, 15, 16],
+    "supporting_pages_visual_reviewed": [19, 21, 22, 23, 28, 30, 31, 32, 33, 41, 43, 44, 94, 95, 96],
+    "candidate_records": 30,
+    "cached_page_images": 32,
+    "decoded_page_images": 32,
+    "plate_numbers": 0,
+    "object_images_eligible_for_html": 0
+  },
+  "dedupe": {
+    "existing_overlap": 14,
+    "same_family_new_variant_candidate": 6,
+    "new_family_candidate": 7,
+    "new_or_unresolved": 3,
+    "checked_volumes": [
+      "data/volumes/japan_meiji.json",
+      "data/volumes/japan_meiji_round2.json",
+      "data/volumes/japan_meiji_round3.json"
+    ]
+  },
+  "artifacts": {
+    "raw_candidates": "data/raw_candidates/japan_ndl_public_plates_batch1.jsonl",
+    "sweep": "data/source_sweeps/japan_ndl_public_plates_batch1.json",
+    "image_manifest": "sources/japan_ndl_public_plates_batch1_manifest.json",
+    "page_cache": "sources/pages/sources_ndl_967000/atlas_1441381_pages"
+  },
+  "blocked": {
+    "source_id": "jpn-ndl-967000",
+    "url": "https://dl.ndl.go.jp/pid/967000",
+    "plate_count": 16,
+    "stage": "plate_image_access",
+    "reason": "Cached metadata/entry exists, but the tested IIIF/page-image endpoints returned 404/5xx or access-denied; no placeholder accepted."
+  },
+  "next_position": "Stop NDL sweep here. Next work is official/object-image verification for the 30 candidate IDs; do not re-download the 32 cached pages or alter public files."
+}

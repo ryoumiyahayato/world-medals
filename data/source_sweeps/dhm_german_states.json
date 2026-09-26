@@ -1,0 +1,204 @@
+{
+  "schema": "source-sweep/v2",
+  "sweep_id": "DHM-GERMAN-STATES-20260926",
+  "as_of": "2026-09-26",
+  "status": "completed_cached_catalog_object_sweep_with_bavaria_alternative",
+  "scope": [
+    "Prussia",
+    "non-Prussian German states"
+  ],
+  "sources": {
+    "db_object_database": {
+      "source_id": "dhm-object-database",
+      "url": "https://db.dhm.de",
+      "local_snapshot": "sources/pages/german_states_source_discovery/dhm_object_database.html",
+      "page_title": "Service Status - Proof-of-Work",
+      "status": "blocked_pow",
+      "attempted": "Landing request only; no search/query endpoint was executed and no challenge was bypassed."
+    },
+    "dhm_catalogue": {
+      "source_id": "dhm-historical-order-catalogue",
+      "catalog_pages": [
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_1.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_2.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_3.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_4.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_5.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_6.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_7.html",
+        "sources/pages/german_states_source_discovery/dhm_order_catalog_8.html"
+      ],
+      "catalog_base": "https://www.dhm.de/archiv/magazine/orden/",
+      "role": "historical illustrated directory and object-page candidate source"
+    },
+    "dhm_directory_pages": {
+      "source_pages": [
+        "sources/pages/german_states_source_discovery/dhm_auszeichnungen.html",
+        "sources/pages/german_states_source_discovery/dhm_militaria.html",
+        "sources/pages/german_states_source_discovery/dhm_militaria_bestand.html",
+        "sources/pages/german_states_source_discovery/dhm_catalog_history.html",
+        "sources/pages/german_states_source_discovery/dhm_order_overview.html",
+        "sources/pages/german_states_source_discovery/dhm_order_preface.html"
+      ],
+      "role": "collection scope and directory-link audit"
+    },
+    "lemo": {
+      "source_id": "dhm-lemo-pour-le-merite",
+      "local_snapshot": "sources/pages/german_states_source_discovery/dhm_lemo_pour_le_merite_ab2934.html",
+      "role": "official object-page cross-check"
+    },
+    "alternative": {
+      "source_id": "weitze-bayern-12-alternative",
+      "url": "https://www.weitze.com/militaria/Bayern_12.html",
+      "local_snapshot": "sources/pages/german_states_source_discovery/weitze_bayern_12.html",
+      "reason": "Cached non-Prussian replacement sweep after db.dhm.de PoW block; no product pages or images downloaded."
+    }
+  },
+  "processed": {
+    "db_landing_pages": 1,
+    "db_search_results": 0,
+    "dhm_catalog_pages": 8,
+    "dhm_catalog_cards_total": 159,
+    "dhm_german_target_cards": 63,
+    "dhm_object_pages_opened": 63,
+    "dhm_object_pages_cached": 63,
+    "dhm_object_image_links": 66,
+    "lemo_object_pages": 1,
+    "official_images_downloaded": 0,
+    "alternative_bavaria_pages": 1,
+    "alternative_bavaria_cards": 60,
+    "alternative_product_pages_opened": 0,
+    "alternative_images_downloaded": 0
+  },
+  "ranges": {
+    "dhm_catalog": "katalog.htm through katalog8.htm; all 159 catalogue cards parsed; 63 German/Prussian candidate cards retained",
+    "dhm_abbs": "All 63 retained candidate object links fetched and cached under dhm_order_abbs/",
+    "lemo": "ab2934 single official object page",
+    "alternative_bavaria": "Bayern_12.html all visible product cards (60) parsed from cached page"
+  },
+  "extraction": {
+    "dhm_records_written": 64,
+    "alternative_records_written": 60,
+    "dhm_by_scope": {
+      "prussia": 23,
+      "bavaria": 2,
+      "other_german_state": 11,
+      "saxony_or_saxon_line": 9,
+      "wuerttemberg": 1,
+      "german_state_unresolved": 8,
+      "german_empire_or_unresolved": 8,
+      "modern_german_out_of_period": 2
+    },
+    "dhm_by_difference_status": {
+      "existing_family_or_variant_review": 15,
+      "candidate_pending_identity": 41,
+      "related_or_composite_review": 6,
+      "out_of_period_or_boundary_review": 2
+    },
+    "dhm_by_primary_family": {
+      "PRU-BLACK-EAGLE": 2,
+      "PRU-ORDER-WILHELM": 1,
+      "null": 9,
+      "HESSE-KASSEL-WILHELM-ORDER": 1,
+      "SAX-RAUTENKRONE": 1,
+      "PRU-POUR-LE-MERITE": 4,
+      "SAX-MILITARY-ST-HENRY": 4,
+      "BAV-TAPFERKEITSMEDAILLE": 1,
+      "PRU-MILITARY-MERIT-MEDAL": 2,
+      "WUERTTEMBERG-MILITARY-MERIT-MEDAL": 1,
+      "PRU-IRONCROSS": 2,
+      "GERMAN-STATE-WAR-MEMORIAL-MEDAL-UNRESOLVED": 8,
+      "GERMAN-STATE-MILITARY-MERIT-MEDAL-UNRESOLVED": 2,
+      "BRAUNSCHWEIG-WATERLOO-MEDAL": 1,
+      "HANOVER-WATERLOO-MEDAL": 1,
+      "OLDENBURG-CIVIL-MERIT-MEDAL": 1,
+      "SAX-COBURG-HERZOG-ALFRED-MEDAL": 1,
+      "ANHALT-MERIT-ORDER": 1,
+      "ANHALT-BERNBURG-MERIT-MEDAL": 1,
+      "SAX-SIDONIA-ORDER": 1,
+      "PRU-WOMEN-MERIT-CROSS": 1,
+      "PRU-LUISEN-ORDER": 1,
+      "PRU-JOHANNITER-ORDER": 1,
+      "PRU-RED-CROSS-MEDAL": 1,
+      "PRU-FIRE-BRIGADE-MEMORIAL": 1,
+      "PRU-LIFESAVING-MEDAL": 1,
+      "GERMAN-STATE-SERVICE-DECORATION-UNRESOLVED": 2,
+      "GERMAN-EMPIRE_OR_LATER-AWARD-UNRESOLVED": 5,
+      "PRU-ORDER-CROWN": 3,
+      "BRANDENBURG-CHAPTER-CROSS": 1,
+      "PRU-RED-EAGLE": 1,
+      "PRU-WILHELM-II-AIDE-MEMORIAL": 1
+    },
+    "alternative_by_difference_status": {
+      "existing_family_or_variant_review": 5,
+      "new_family_candidate": 4,
+      "unclassified_catalog_candidate": 51
+    },
+    "alternative_by_family": {
+      "BAV-MILITARY-MERIT-CROSS": 3,
+      "BAV-UNRESOLVED-GERMAN-STATE-AWARD": 4,
+      "null": 51,
+      "BAV-MILITARY-MAX-JOSEPH": 2
+    },
+    "raw_dhm_file": "data/raw_candidates/dhm_german_states.jsonl",
+    "raw_alternative_file": "data/raw_candidates/weitze_bayern_alternative_german_states.jsonl"
+  },
+  "unprocessed_boundary": [
+    "db.dhm.de object search remains blocked by Proof-of-Work page; no challenge was bypassed.",
+    "The 96 foreign/non-target catalog cards were not written to the German-state candidate JSONL.",
+    "Historical catalogue plate image files and LeMO image were not downloaded; links and declared dimensions are retained only as source leads.",
+    "No formal award records were created; object descriptions remain candidate evidence pending independent chronology/issuing-body review.",
+    "Bavaria alternative product pages and original images remain unopened/undownloaded."
+  ],
+  "rights_note": "DHM historical plates and object-page images are not assumed reusable; commercial thumbnails are not formal images.",
+  "cache_validation": {
+    "catalog_snapshots": [
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_1.html",
+        "bytes": 16001,
+        "sha256": "0ebcccf1b385149677ebd735e4423becf44744a2b9c879ba8ed6a095ad83c503"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_2.html",
+        "bytes": 15249,
+        "sha256": "5d80048a8226c5cf179ea99b8ba7a94645acd81aac40391bf84adab9cfc30afc"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_3.html",
+        "bytes": 15550,
+        "sha256": "f9d18925a2708961c8be1e66a8457b83beab943e361cfd332f5d1ab964847c25"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_4.html",
+        "bytes": 15585,
+        "sha256": "2e2f37ef132b246ff0e2b26795c9bdfd843841f91a388cfc6355fe5374b86755"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_5.html",
+        "bytes": 15767,
+        "sha256": "646a089cd385885c9ec2cb034dc52e8bc81381c9851954f7b562ca9994dede98"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_6.html",
+        "bytes": 16042,
+        "sha256": "320fad7a91f513cd0e56a9d31e4357fc3dffa625a403b6b7c3e5fd8470196e0b"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_7.html",
+        "bytes": 15489,
+        "sha256": "67c961d4bcc1866bbe80545c976f1bdc3099aca88d6b28851e393213d6f00c59"
+      },
+      {
+        "file": "sources/pages/german_states_source_discovery/dhm_order_catalog_8.html",
+        "bytes": 15347,
+        "sha256": "0fa6002832fcff3266369c08bc63e0d03603e5400587fd8537c83c8ddc053c8f"
+      }
+    ],
+    "object_page_cache_count": 63,
+    "raw_dhm_sha256": "54a74dfb5e62a62d1e09fbd22c0253e5fb21a3bf8f0769ccc502124f34d297fa",
+    "raw_alternative_sha256": "8576b658c0c96c162e2a2f4a30da361d820f78bf5ba3285e3752e15324efe831"
+  },
+  "notes": [
+    "Catalog-page URLs in raw candidates resolve to katalog.htm/katalog2.htm…katalog8.htm; local snapshots use normalized dhm_order_catalog_N.html filenames."
+  ]
+}

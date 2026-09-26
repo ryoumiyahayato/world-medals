@@ -1,0 +1,473 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "Global offline HTML catalogue",
+  "main_families": 568,
+  "main_variants": 840,
+  "main_local_images": 969,
+  "related_variants": 6,
+  "related_local_images": 6,
+  "unpictured_documented": 29,
+  "unpictured_main_families": 26,
+  "legacy_candidates_start": 28,
+  "legacy_migration_unresolved": 0,
+  "legacy_without_complete_local_image": 0,
+  "active_volumes": {
+    "mena_round7": {
+      "families_in_batch": 161,
+      "net_new_global_families": 150,
+      "variants": 230,
+      "images": 230
+    },
+    "ottoman": {
+      "families": 53,
+      "variants": 151,
+      "images": 161
+    },
+    "japan_meiji": {
+      "families": 15,
+      "variants": 20,
+      "images": 33
+    },
+    "prussia_kingdom": {
+      "families": 8,
+      "variants": 11,
+      "images": 13
+    },
+    "france_third_republic": {
+      "families": 16,
+      "variants": 23,
+      "images": 30
+    },
+    "france_second_empire": {
+      "families": 3,
+      "variants": 4,
+      "images": 5
+    },
+    "bavaria_kingdom": {
+      "families": 4,
+      "variants": 4,
+      "images": 4
+    },
+    "japan_taisho": {
+      "families": 3,
+      "variants": 3,
+      "images": 4
+    },
+    "egypt": {
+      "families": 46,
+      "variants": 66,
+      "images": 66
+    },
+    "france_first_empire": {
+      "families": 1,
+      "variants": 1,
+      "images": 1
+    },
+    "france_bourbon": {
+      "families": 1,
+      "variants": 3,
+      "images": 4
+    },
+    "france_july": {
+      "families": 1,
+      "variants": 3,
+      "images": 4
+    },
+    "france_second_republic": {
+      "families": 1,
+      "variants": 1,
+      "images": 1
+    },
+    "france_fourth_fifth": {
+      "families": 1,
+      "variants": 4,
+      "images": 4
+    },
+    "armenia": {
+      "families": 16,
+      "variants": 18,
+      "images": 18
+    },
+    "united_kingdom": {
+      "families": 57,
+      "variants": 60,
+      "images": 60
+    },
+    "united_states": {
+      "families": 27,
+      "variants": 27,
+      "images": 29
+    },
+    "russian_empire": {
+      "families": 6,
+      "variants": 10,
+      "images": 11
+    },
+    "soviet_union": {
+      "families": 24,
+      "variants": 24,
+      "images": 25
+    },
+    "russian_federation": {
+      "families": 2,
+      "variants": 3,
+      "images": 3
+    },
+    "spain_kingdom": {
+      "families": 70,
+      "variants": 118,
+      "images": 125
+    },
+    "savoy_italy": {
+      "families": 62,
+      "variants": 101,
+      "images": 179
+    },
+    "germany_1933_1945": {
+      "families": 8,
+      "variants": 8,
+      "images": 9
+    },
+    "finland": {
+      "families": 3,
+      "variants": 3,
+      "images": 3
+    },
+    "sweden": {
+      "families": 1,
+      "variants": 1,
+      "images": 1
+    },
+    "norway": {
+      "families": 1,
+      "variants": 1,
+      "images": 1
+    },
+    "korean_empire": {
+      "families": 4,
+      "variants": 4,
+      "images": 4
+    },
+    "south_korea": {
+      "families": 12,
+      "variants": 12,
+      "images": 12
+    },
+    "north_korea": {
+      "families": 5,
+      "variants": 5,
+      "images": 5
+    },
+    "republic_of_china": {
+      "families": 2,
+      "variants": 2,
+      "images": 2
+    }
+  },
+  "ingestion_method": "AUTONOMOUS_SOURCE_DISCOVERY_V2 / SOURCE_FIRST_BULK_INGESTION",
+  "autonomous_source_discovery_2026_09_26": {
+    "global_source_atlas": "data/source_atlas/global_source_atlas.json",
+    "scope_matrices": 6,
+    "planned_sources": 56,
+    "completed_sources": 17,
+    "partial_sources": 9,
+    "blocked_sources": 9,
+    "not_started_sources": 21,
+    "new_raw_candidate_rows": 510,
+    "explicit_new_family_candidates_before_dedupe": 82,
+    "new_normalized_families": 0,
+    "new_normalized_variants": 0,
+    "new_catalogue_ready_images": 0,
+    "checkpoint": "data/checkpoints/autonomous_source_discovery_v2_bootstrap_2026-09-26.json"
+  },
+  "ottoman_source_sweep_2026_09_26": {
+    "planned_source_systems": 17,
+    "complete_source_systems": 9,
+    "partial_or_blocked_source_systems": 7,
+    "not_started_source_systems": 1,
+    "raw_candidate_rows": 2744,
+    "explicit_conflicts": 273,
+    "medalbook_provisional_main_families": 97,
+    "medalbook_matched_existing_families": 27,
+    "medalbook_unresolved_main_family_keys": 70,
+    "new_formal_html_families": 0,
+    "new_formal_html_variants": 0,
+    "new_formal_html_images": 0
+  },
+  "next_batch": "继续东亚与苏联来源差集：Wikimedia限流后重取朝鲜10个、中华民国8个已定位完整图；补韩国官方12类中的逐等级独立图；继续大韩帝国八卦章、紫鹰章；苏联MedalBook目录中的库图佐夫勋章与在武装力量中为祖国服务勋章首选对象页缺完整图，改取下一版型，并继续奖章目录。随后回到英国、美国、德国、意大利和奥斯曼既有缺口。",
+  "review_items": [
+    "日本旭日章、瑞宝章具体等级；宪法纪念章金银版授予条件；黄绶褒章旧式制度起始年。",
+    "法国消防员荣誉奖章馆藏说明与1937法规年限冲突；胜利奖章私藏扫描具体版型。",
+    "普鲁士Pour le Mérite和平级照片的馆藏号未注明；巴伐利亚Feldzugs-Denkzeichen仅取得反面，未入正文。"
+  ],
+  "limits": [
+    "已通过本地HTTP在真实浏览器检查页面布局、检索跳转和菊花大绶章原图弹窗；未逐页截图存档。",
+    "部分原图版权仅允许本地研究，不能据此公开发布整库。"
+  ],
+  "autonomous_continuation_round2_2026_09_26": {
+    "checkpoint": "data/checkpoints/autonomous_continuation_round2_2026-09-26.json",
+    "planned_sources": 57,
+    "completed_sources": 22,
+    "partial_sources": 7,
+    "blocked_sources": 11,
+    "not_started_sources": 17,
+    "new_raw_candidate_rows": 288,
+    "downloaded_and_decoded_images": 158,
+    "visually_accepted_complete_images": 76,
+    "publication_eligible_images": 0,
+    "html_rebuilt": false
+  },
+  "autonomous_continuation_round3_2026_09_26": {
+    "checkpoint": "data/checkpoints/autonomous_continuation_round3_2026-09-26.json",
+    "planned_sources": 57,
+    "completed_sources": 23,
+    "partial_sources": 8,
+    "blocked_sources": 11,
+    "not_started_sources": 15,
+    "ottoman_rows_mapped": 75,
+    "japan_candidates": 13,
+    "egypt_commons_unique_files": 99,
+    "rights_cleared_html_image_replacements": 1,
+    "html_rebuilt": true
+  },
+  "autonomous_continuation_round4_2026_09_26": {
+    "checkpoint": "data/checkpoints/autonomous_continuation_round4_2026-09-26.json",
+    "planned_sources": 57,
+    "completed_sources": 24,
+    "partial_sources": 8,
+    "blocked_sources": 11,
+    "not_started_sources": 14,
+    "new_formal_families": 2,
+    "new_formal_variants": 2,
+    "new_formal_images": 2,
+    "html_rebuilt": true
+  },
+  "autonomous_continuation_round5_2026_09_26": {
+    "checkpoint": "data/checkpoints/autonomous_continuation_round5_2026-09-26.json",
+    "planned_sources": 57,
+    "completed_sources": 24,
+    "partial_sources": 8,
+    "blocked_sources": 11,
+    "not_started_sources": 14,
+    "new_formal_families": 18,
+    "new_formal_variants": 33,
+    "existing_families_with_new_variants": 15,
+    "new_formal_images": 38,
+    "physical_photo_views": 35,
+    "official_or_historical_drawing_views": 3,
+    "html_rebuilt": true
+  },
+  "autonomous_continuation_round6_2026_09_26": {
+    "checkpoint": "data/checkpoints/autonomous_continuation_round6_2026-09-26.json",
+    "completed_source_systems": 2,
+    "new_formal_families": 0,
+    "new_formal_variants": 15,
+    "existing_families_with_new_variants": 1,
+    "new_formal_images": 18,
+    "physical_photo_views": 11,
+    "official_or_historical_drawing_views": 7,
+    "search_single_character_chinese_fixed": true,
+    "html_rebuilt": true
+  },
+  "autonomous_continuation_round7_2026_09_26": {
+    "checkpoint": "data/checkpoints/mena_round7_formalization_2026-09-26.json",
+    "planned_source_systems": 29,
+    "completed_source_systems": 28,
+    "partial_source_systems": 1,
+    "not_started_source_systems": 0,
+    "commons_level1_unique_files": 1250,
+    "commons_core_deep_unique_files": 2293,
+    "commons_core_deep_resolved_image_records": 2027,
+    "new_formal_families_before_global_dedupe": 161,
+    "new_formal_families_after_global_dedupe": 150,
+    "new_formal_variants": 230,
+    "new_formal_images": 230,
+    "physical_photo_views": 168,
+    "official_or_public_design_views": 58,
+    "historical_drawing_views": 2,
+    "user_restored_reference_views": 2,
+    "ottoman_unresolved_normalization_rows": 536,
+    "kuenker_299_unbound_lots": 51,
+    "html_rebuilt": true
+  },
+  "country_hierarchy_repair_2026_09_26": {
+    "country_sections_split": 17,
+    "iran_status_active": true,
+    "egypt_status_active": true,
+    "sudan_status_active": true,
+    "armenia_status_active": true,
+    "cross_country_duplicate_paths": 0,
+    "cross_country_duplicate_sha256": 0,
+    "removed_public_batch_labels": true,
+    "armenia_new_formal_families": 16,
+    "armenia_new_formal_variants": 18,
+    "armenia_new_official_design_images": 18,
+    "html_rebuilt": true
+  },
+  "country_filter_france_repair_and_ottoman_pack2_2026_09_26": {
+    "france_historical_sections": 7,
+    "france_legion_mixed_section_removed": true,
+    "country_and_period_exclusive_filtering": true,
+    "search_result_owner_section_filtering": true,
+    "standalone_ribbon_rows_removed": 3,
+    "ottoman_medalbook_pages_formalized": 56,
+    "ottoman_medalbook_families_represented": 29,
+    "ottoman_total_families": 53,
+    "ottoman_total_variants": 151,
+    "ottoman_total_images": 161,
+    "desktop_browser_filter_check": true,
+    "mobile_390px_overflow": false,
+    "html_rebuilt": true
+  },
+  "europe_anglo_russia_bulk_round_2026_09_26": {
+    "taxonomy_rule": "国家／时期／授予机构 → 独立章种 → 等级／版型；同章种的等级、星章、颈章、大绶佩章、挂章、剑饰、材质、时期图式、制造商和微型章不拆成新章种",
+    "new_formal_families": 75,
+    "new_formal_variants": 114,
+    "new_local_images": 118,
+    "uk_mod_raw_candidates": 67,
+    "uk_formal_families": 49,
+    "uk_formal_variants": 52,
+    "uk_formal_images": 52,
+    "us_raw_candidates": 41,
+    "us_formal_families": 8,
+    "us_formal_variants": 8,
+    "us_formal_images": 10,
+    "russia_raw_catalogue_rows": 126,
+    "russia_merged_candidate_families": 124,
+    "russia_formal_families": 9,
+    "russia_formal_variants": 10,
+    "russia_formal_images": 12,
+    "spain_boe_formal_families": 8,
+    "spain_boe_formal_variants": 41,
+    "spain_boe_official_diagrams": 41,
+    "italy_medalbook_listing_pages_complete": 5,
+    "italy_medalbook_object_pages_complete": 343,
+    "italy_provisional_family_keys": 163,
+    "italy_formal_families": 1,
+    "italy_formal_variants": 3,
+    "italy_historical_official_plates": 3,
+    "sweden_shm_query_hits": 1144,
+    "sweden_shm_unique_objects": 951,
+    "sweden_order_family_candidates": 5,
+    "sweden_badge_star_candidates": 243,
+    "sweden_excluded_uniform_objects": 122,
+    "sweden_excluded_ribbons": 72,
+    "sweden_priority_variants_image_pending": 15,
+    "sweden_local_images": 0,
+    "single_character_search_generic": true,
+    "browser_country_filter_check": true,
+    "mobile_390px_overflow": false,
+    "html_rebuilt": true
+  },
+  "source_first_expansion_round9_2026_09_26": {
+    "taxonomy_rule": "授予主体／历史时期 → 独立章种 → 等级／版型；同一章种的等级、星章、颈章、大绶佩章、剑饰、材质、时期图式和制造商不拆为新章种",
+    "new_formal_families": 43,
+    "new_formal_variants": 51,
+    "new_main_image_views": 55,
+    "spain_boe_pdf_pages": 285,
+    "spain_embedded_images_extracted": 121,
+    "spain_campaign_and_historical_families": 24,
+    "spain_campaign_and_historical_variants": 26,
+    "spain_campaign_and_historical_images": 28,
+    "spain_discontinued_families": 11,
+    "spain_discontinued_variants": 17,
+    "spain_discontinued_images": 18,
+    "finland_formal_families": 3,
+    "finland_formal_variants": 3,
+    "finland_formal_images": 3,
+    "soviet_new_families": 2,
+    "soviet_family_level_variant_rows": 2,
+    "soviet_new_images": 2,
+    "russia_direct_commons_file_pages_swept": 25,
+    "russia_remaining_candidates": 113,
+    "italy_new_families": 3,
+    "italy_new_variant_rows": 3,
+    "italy_new_images": 4,
+    "italy_medalbook_remaining_provisional_family_keys": 160,
+    "italy_medalbook_remaining_candidate_rows": 336,
+    "sweden_candidate_families_image_pending": 5,
+    "sweden_candidate_variants_image_pending": 15,
+    "single_character_search_generic": true,
+    "html_rebuilt": true
+  },
+  "source_first_expansion_round10_2026_09_26": {
+    "new_formal_families": 34,
+    "new_formal_variants": 41,
+    "new_main_image_views": 45,
+    "spain_boe_commemorative_families": 22,
+    "spain_boe_commemorative_variants": 22,
+    "spain_boe_commemorative_images": 24,
+    "spain_boe_institutional_families": 5,
+    "spain_boe_institutional_variants": 12,
+    "spain_boe_institutional_images": 14,
+    "soviet_new_families": 2,
+    "soviet_new_variant_rows": 2,
+    "soviet_new_images": 2,
+    "soviet_candidate_families_reviewed": 10,
+    "soviet_candidates_quarantined_or_unillustrated": 8,
+    "soviet_remaining_unexamined_candidates": 103,
+    "italy_new_families": 3,
+    "italy_new_variants": 3,
+    "italy_new_images": 3,
+    "sweden_new_families": 1,
+    "sweden_new_variants": 1,
+    "sweden_new_images": 1,
+    "norway_new_families": 1,
+    "norway_new_variants": 1,
+    "norway_new_images": 1,
+    "sweden_shm_unresolved_families": 5,
+    "sweden_shm_unresolved_variants": 15,
+    "html_rebuilt": true
+  },
+  "source_first_expansion_round11_2026_09_26": {
+    "source_system": "MedalBook Kingdom of Sardinia & Kingdom of Italy existing complete sweep",
+    "source_listing_pages_previously_completed": 5,
+    "source_object_pages_previously_completed": 343,
+    "new_formal_families": 35,
+    "new_formal_variants": 35,
+    "new_main_image_views": 69,
+    "candidate_family_keys_reconciled": 35,
+    "candidate_rows_reconciled": 72,
+    "remaining_candidate_family_keys": 125,
+    "remaining_candidate_rows": 264,
+    "cross_country_duplicate_paths": 0,
+    "cross_country_duplicate_sha256": 0,
+    "all_reused_image_payloads": 0,
+    "standalone_ribbon_rows": 0,
+    "single_character_search_generic": true,
+    "country_and_period_exclusive_filtering": true,
+    "html_rebuilt": true
+  },
+  "source_first_gap_round12_2026_09_26": {
+    "checkpoint": "data/checkpoints/source_first_gap_round12_2026-09-26.json",
+    "planned_source_scopes": 6,
+    "completed_source_scopes": 2,
+    "partial_source_scopes": 4,
+    "not_started_source_scopes": 0,
+    "new_formal_families_after_global_dedupe": 90,
+    "new_formal_variants": 132,
+    "new_main_image_views": 176,
+    "egypt_new_families": 34,
+    "egypt_new_variants": 34,
+    "egypt_new_images": 34,
+    "italy_new_families_after_dedupe": 19,
+    "italy_new_variants_after_dedupe": 56,
+    "italy_new_images_after_dedupe": 99,
+    "uk_new_families": 8,
+    "us_new_families": 19,
+    "russian_empire_new_families": 3,
+    "russian_empire_new_variants": 7,
+    "germany_1933_1945_section_families": 8,
+    "germany_global_new_families": 7,
+    "duplicate_family_rows_excluded": 1,
+    "duplicate_image_payloads_excluded": 2,
+    "user_atlas_files_cached": 5,
+    "user_atlas_body_images_used": 0,
+    "cross_country_duplicate_paths": 0,
+    "cross_country_duplicate_sha256": 0,
+    "standalone_ribbon_rows": 0,
+    "single_character_search_generic": true,
+    "country_and_period_exclusive_filtering": true,
+    "html_rebuilt": true
+  }
+}

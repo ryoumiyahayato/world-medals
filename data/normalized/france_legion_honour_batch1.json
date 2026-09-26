@@ -1,0 +1,336 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "batch_id": "france_legion_honour_batch1",
+  "status": "normalized_research_only",
+  "summary": {
+    "source_pages": 32,
+    "source_images": 21,
+    "family_count": 1,
+    "formal_variant_views": 18,
+    "third_republic_variant_views": 3,
+    "second_empire_variant_views": 1,
+    "related_or_context_images": 3,
+    "html_eligible_images": 0
+  },
+  "families": [
+    {
+      "family_id": "FRA-LEGION-HONOUR",
+      "names": [
+        "Légion d’honneur",
+        "Ordre national de la Légion d’honneur",
+        "荣誉军团勋章"
+      ],
+      "established": "1802-05-19",
+      "period_rule": "Single continuing family across regimes; regime models and grades are variants, not new families.",
+      "variants": [
+        {
+          "variant_id": "FRA-LEGION-FIRST-EMPIRE-CROSS-FIRST-TYPE-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "First Empire",
+          "variant": "cross, first type, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_1_empire/",
+          "source_title": "Premier Empire - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh1emp1tar.jpg",
+          "image_dimensions": [
+            361,
+            353
+          ],
+          "image_sha256": "fe0e950feea94422e2139e8a49c9df1c364d173be9e9db8f6d8d83674e6ee5b6",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FIRST-EMPIRE-COLLAR-SECOND-TYPE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "First Empire",
+          "variant": "collar, second type",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier_1_empire/",
+          "source_title": "collier du 2 e type - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh1emp2tcol.jpg",
+          "image_dimensions": [
+            680,
+            563
+          ],
+          "image_sha256": "477495664650b5c411b60e33a9d3a0367a83586a85b2fa9c704daf002f91e473",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-SECOND-REPUBLIC-CROSS-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Second Republic",
+          "variant": "cross, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_republique/",
+          "source_title": "Seconde République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh2rep1ar.jpg",
+          "image_dimensions": [
+            351,
+            389
+          ],
+          "image_sha256": "59d9e31394cecc6245f38566f06145eac56d1fb11f83c1f074e3e80b3e24eb68",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-SECOND-RESTORATION-CROSS-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Second Restoration",
+          "variant": "cross, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_restauration/",
+          "source_title": "Seconde Restauration - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh2restar.jpg",
+          "image_dimensions": [
+            367,
+            409
+          ],
+          "image_sha256": "b720d7f0af113574a01c94140bf3ae7d9e479896f7594e3accd31c5640201656",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-THIRD-REPUBLIC-CHEVALIER-CROSS-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Third Republic",
+          "variant": "chevalier cross, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_3_republique/",
+          "source_title": "Troisième République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh3repchevar.jpg",
+          "image_dimensions": [
+            383,
+            490
+          ],
+          "image_sha256": "4b0840e57cdc5ba999ea80c9b2d60368cdd9c8c30a1dab9b1ce2ed8697e6f17f",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-THIRD-REPUBLIC-COLLAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Third Republic",
+          "variant": "collar",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier_3_republique/",
+          "source_title": "Le collier de la 3 e République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh3repcol.jpg",
+          "image_dimensions": [
+            427,
+            560
+          ],
+          "image_sha256": "d7e23799bca86074342b297ede9aea824cd17422ce65b49e5fc7664ff439716e",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FOURTH-FIFTH-REPUBLICS-COLLAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Fourth/Fifth Republics",
+          "variant": "collar",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_collier/",
+          "source_title": "Le collier des 4 e & 5 e Républiques - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lh45repscol.jpg",
+          "image_dimensions": [
+            479,
+            567
+          ],
+          "image_sha256": "b40f2a3f6a1535e338660fe348b4935aa9baaf180ae05b23ef697d2ecaa376ea",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-HUNDRED-DAYS-CROSS-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Hundred Days",
+          "variant": "cross, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_cent_jours/",
+          "source_title": "Cent-Jours - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhcentsjoursar.jpg",
+          "image_dimensions": [
+            337,
+            455
+          ],
+          "image_sha256": "40181c3ce594d59601c307c13f82e639dd6bde17c968fd89952f813e88409a2b",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FIFTH-REPUBLIC-COMMANDER-CROSS",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Fifth Republic",
+          "variant": "commander cross",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_commandeur_5_republique/",
+          "source_title": "Commandeur - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhcoma.jpg",
+          "image_dimensions": [
+            227,
+            439
+          ],
+          "image_sha256": "0d4cf49b6f4fc8673046b0343f87e33bf9d323dc19eed2e9e9ea42611352d048",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FIFTH-REPUBLIC-CHEVALIER-OFFICIER-CROSSES-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Fifth Republic",
+          "variant": "chevalier/officier crosses, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_5_republique/",
+          "source_title": "Cinquième République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhcxchevoffa.jpg",
+          "image_dimensions": [
+            416,
+            465
+          ],
+          "image_sha256": "042dac7824a5232705578acb3b6e675f5074680eb454b61b29110db4ce14baad",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FIFTH-REPUBLIC-GRAND-CROSS-SET",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Fifth Republic",
+          "variant": "grand cross set",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_grand-croix_5_republique/",
+          "source_title": "Grand'croix - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhgc.jpg",
+          "image_dimensions": [
+            498,
+            478
+          ],
+          "image_sha256": "ada9f233f66cb4e3bedfb4ba3cc99985b904a06ee8072ac8ff309c037213ae98",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-JULY-MONARCHY-CROSS-OBVERSE-REVERSE",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "July Monarchy",
+          "variant": "cross, obverse/reverse",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_monarchie_juillet/",
+          "source_title": "Monarchie de Juillet - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhmjar.jpg",
+          "image_dimensions": [
+            344,
+            408
+          ],
+          "image_sha256": "1a4a2985edf0c0d151799fafb96e2928ef43a61dfbaf0a06e6b6ab9c383f73aa",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-SECOND-EMPIRE-GRAND-CROSS-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Second Empire",
+          "variant": "grand-cross breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_2_empire/",
+          "source_title": "Second Empire - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak2emp1.jpg",
+          "image_dimensions": [
+            427,
+            416
+          ],
+          "image_sha256": "29329e324f02fb7770f0f5b7d854f7a9d7b2e1ba736628ec2197ec1ad0a3945b",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-SECOND-REPUBLIC-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Second Republic",
+          "variant": "breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_2_republique/",
+          "source_title": "Seconde République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak2rep.jpg",
+          "image_dimensions": [
+            425,
+            412
+          ],
+          "image_sha256": "9d7e2c4a186224e8728d880c25e76ad213b9a2891870a90b5b4cbb376fb7c8ca",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-THIRD-REPUBLIC-GRAND-CROSS-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Third Republic",
+          "variant": "grand-cross breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_3_republique/",
+          "source_title": "Troisième République - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplak3repgc.jpg",
+          "image_dimensions": [
+            500,
+            484
+          ],
+          "image_sha256": "e48f4a96230f2e1e0e8463a4f7c37a1b00d99a2602dd9011a1ef3a1ce90f2f6a",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FIRST-EMPIRE-EMBROIDERED-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "First Empire",
+          "variant": "embroidered breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_1_empire/",
+          "source_title": "Premier Empire - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplakgabrod1.jpg",
+          "image_dimensions": [
+            426,
+            412
+          ],
+          "image_sha256": "4285bf47dd3cded7da57447b1da62137c9bab901c655d91f96d0867195bda9a6",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-FOURTH-FIFTH-REPUBLICS-GRAND-CROSS-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "Fourth/Fifth Republics",
+          "variant": "grand-cross breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaques/",
+          "source_title": "Quatrième & cinquième Républiques - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplakgc.jpg",
+          "image_dimensions": [
+            432,
+            408
+          ],
+          "image_sha256": "0b810e0e32a350befc9ed7c8136ec74e3c02111d52ef83abd7beadece03dd77e",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        },
+        {
+          "variant_id": "FRA-LEGION-JULY-MONARCHY-BREAST-STAR",
+          "family": "FRA-LEGION-HONOUR",
+          "regime": "July Monarchy",
+          "variant": "breast star",
+          "source_page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_plaque_monarchie_juillet/",
+          "source_title": "Monarchie de Juillet - SAMLHOC",
+          "image_path": "sources/cache/france_samlhoc_legion_honour/images/lhplaklp.jpg",
+          "image_dimensions": [
+            414,
+            398
+          ],
+          "image_sha256": "4d413e4ab92a53db038e9083920c1363934689328ddad6df2578069d5693cee4",
+          "completeness": "visually reviewed complete reference",
+          "rights": "SAMLHOC all-rights-reserved research cache; not HTML eligible",
+          "html_eligible": false
+        }
+      ]
+    }
+  ]
+}

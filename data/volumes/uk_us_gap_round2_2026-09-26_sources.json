@@ -1,0 +1,145 @@
+{
+  "as_of": "2026-09-26",
+  "package": "UK–US gap round 2",
+  "source_root": "sources/uk_us_gap_round2_2026-09-26",
+  "sources": [
+    {
+      "id": "uk_orders_clue_table",
+      "type": "user-provided candidate directory image",
+      "local_files": [
+        "sources/uk_us_gap_round2_2026-09-26/clues/uk-orders-hierarchy-clue-1.jpg",
+        "sources/uk_us_gap_round2_2026-09-26/clues/uk-world-orders-clue-2.jpg",
+        "sources/uk_us_gap_round2_2026-09-26/clues/uk-world-orders-clue-3.jpg",
+        "sources/uk_us_gap_round2_2026-09-26/clues/uk-world-orders-clue-4.jpg"
+      ],
+      "use": "候选目录／差集核对；第一张可辨识嘉德、蓟花、巴斯、功绩、圣米迦勒及圣乔治、皇家维多利亚、大英帝国、荣誉伙伴等。四张低清总表均不作为正文图。",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "cabinet_office_orders_page",
+      "type": "official UK honours overview",
+      "url": "https://honours.cabinetoffice.gov.uk/about/orders-and-medals/",
+      "use": "英国勋章体系名称与设立沿革的官方交叉核对入口；不直接提供本批所有物件照片。",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "royal_family_cmg_page",
+      "type": "official UK royal household overview",
+      "url": "https://www.royal.uk/order-st-michael-and-st-george",
+      "use": "圣米迦勒及圣乔治勋章制度核对；照片使用Tallinn Museum/Commons对象图。",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_garter_1884",
+      "type": "historical plate",
+      "url": "https://commons.wikimedia.org/wiki/File:GarterInsigniaBurkes.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/GarterInsigniaBurkes.JPG",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-garter.jpg",
+      "excerpt": "The insignia of a Knight of the Order of the Garter; image from Bernard Burke's General Armory, 1884; Public domain.",
+      "rights": "Public domain / Public Domain Mark 1.0",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_thistle_1884",
+      "type": "historical plate",
+      "url": "https://commons.wikimedia.org/wiki/File:Order_of_the_ThistleInsignia.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Order_of_the_ThistleInsignia.JPG",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-thistle2.jpg",
+      "excerpt": "The insignia of a Knight of the Order of the Thistle; image from Bernard Burke's General Armory, 1884; Public domain.",
+      "rights": "Public domain / Public Domain Mark 1.0",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_bath_finland",
+      "type": "museum object photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Order_of_the_Bath,_Great_Britain,_Urho_Kekkonen,_1900-1986_-_National_Museum_of_Finland_-_DSC04006.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Order_of_the_Bath%2C_Great_Britain%2C_Urho_Kekkonen%2C_1900-1986_-_National_Museum_of_Finland_-_DSC04006.JPG",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-bath2.jpg",
+      "excerpt": "Award in the National Museum of Finland; photography permitted without restriction; CC0. The selected frame shows a complete Grand Cross breast star.",
+      "rights": "CC0 1.0",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_merit_nightingale",
+      "type": "museum object photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Order_of_Merit_awarded_to_Florence_Nightingale_-_National_Army_Museum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Order_of_Merit_awarded_to_Florence_Nightingale_-_National_Army_Museum.jpg",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-order_merit_florence.jpg",
+      "excerpt": "Order of Merit badge awarded to Florence Nightingale; National Army Museum; local download uses the 960px Commons derivative of the 1220×1828 original.",
+      "rights": "CC BY-SA 4.0 (The wub)",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_cmg_tallinn",
+      "type": "museum object photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Michael_and_Saint_George_grand_cross_badge_(United_Kingdom_1870-1900)_-_Tallinn_Museum_of_Orders.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Order_of_Saint_Michael_and_Saint_George_grand_cross_badge_%28United_Kingdom_1870-1900%29_-_Tallinn_Museum_of_Orders.jpg",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-cmg_tallinn.jpg",
+      "excerpt": "Grand Cross badge, United Kingdom 1870–1900; Tallinn Museum of Orders; local download uses 960px derivative of original 1272×1390 photograph.",
+      "rights": "CC BY-SA 4.0 (Borodun)",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_rvo_tallinn",
+      "type": "museum object photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Royal_Victorian_Order_grand_cross_badge_(United_Kingdom)_-_Tallinn_Museum_of_Orders.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Royal_Victorian_Order_grand_cross_badge_%28United_Kingdom%29_-_Tallinn_Museum_of_Orders.jpg",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-rvo_tallinn.jpg",
+      "excerpt": "Royal Victorian Order Grand Cross badge, Tallinn Museum of Orders; local download uses 960px derivative of original 1055×1168 photograph.",
+      "rights": "CC BY-SA 4.0 (Borodun)",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "rmg_obe_med1969_1",
+      "type": "museum object page and record shot",
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-374545",
+      "image_url": "https://collections.rmg.co.uk/media/657/397/l4738_002.jpg",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-obe_rmg.jpg",
+      "cache_page": "sources/uk_us_gap_round2_2026-09-26/rmg_obe_page.html",
+      "object": "MED1969.1; Badge and star: Order of the British Empire, 1st class (civil); silver; Garrard; after 1937",
+      "rights": "Record Shot—Do not reproduce; research-only pending permission",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "commons_companion_of_honour",
+      "type": "order badge drawing",
+      "url": "https://commons.wikimedia.org/wiki/File:Companion_of_Honour.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Companion_of_Honour.jpg",
+      "local_cache": "assets/images/uk_us_gap_round2_2026-09-26/uk-ch2.jpg",
+      "excerpt": "Companion of Honour; Robert Prummel drawing; complete badge and ribbon, 225×328; not a specimen photograph.",
+      "rights": "CC BY-SA 2.5",
+      "accessed": "2026-09-26"
+    },
+    {
+      "id": "us_nhhc_awards_visible_directory",
+      "type": "official US Naval History and Heritage Command visible directory",
+      "url": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign.html",
+      "local_cache": "sources/uk_us_gap_round2_2026-09-26/nhhc_pages/",
+      "candidate_cache": "sources/uk_us_gap_round2_2026-09-26/nhhc_raw_directory_candidates.json",
+      "image_cache": "sources/uk_us_gap_round2_2026-09-26/nhhc_image_candidate_downloads.json",
+      "coverage": "19个本批采用的单枚正式奖章对象页；原目录共有37个可见候选，复合图、人物照、缺章体图和现有正文重复项留在未收录队列。",
+      "accessed": "2026-09-26"
+    }
+  ],
+  "page_cache": [
+    "american-defense-service-medal.html",
+    "antarctic-service-medal.html",
+    "china-service-medal.html",
+    "dominican-campaign-medal.html",
+    "humanitarian-service-medal.html",
+    "kosovo-campaign-medal.html",
+    "medal-for-humane-action-berlin-airlift.html",
+    "mexican-service-medal.html",
+    "national-defense-service-medal.html",
+    "navy-occupation-service-medal.html",
+    "nicaraguan-campaign-medal.html",
+    "second-nicaraguan-campaign-medal.html",
+    "usn-civil-war-medal.html",
+    "usn-cuban-pacification-medal.html",
+    "usn-philippine-campaign-medal.html",
+    "usn-spanish-campaign-medal.html",
+    "world-war-i-victory-medal.html",
+    "world-war-ii-victory-medal.html",
+    "yangtze-service-medal.html"
+  ]
+}

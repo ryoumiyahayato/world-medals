@@ -1,0 +1,704 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "撒丁王国／意大利王国：MedalBook目录正式奖励第四包",
+  "records_file": "data/volumes/italy_medalbook_pack4_2026-09-26.json",
+  "image_directory": "assets/images/italy_medalbook_pack4_2026-09-26/",
+  "counts": {
+    "distinct_award_families": 35,
+    "variant_rows": 35,
+    "complete_image_files": 69
+  },
+  "images": [
+    {
+      "view_key": "IT-KOI-009-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-009-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/aeronautic-valour-medal/aeronautic-valour-medal-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/7e13963448d9e1c899e520737cb84b11fd59b5b8/store/fit/528/348/907678c74e4e71573a0c42ed5ab3cf3d491c1ba188b49770e745270e4e33/Aeronautic+Valour+Medal%2C+in+Bronze+1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "bfcac4e5339b550f5d54ce33a8b8ff3b157b0e1d1fcb6495bd97c78f0bd99cd4",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-009-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-009-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/aeronautic-valour-medal/aeronautic-valour-medal-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/ad7da89549d4711429fbf3d5b5159f0f429a74dd/store/fit/528/348/d7a2bc5646f807fd37f9a180e64c98e6d6dea30bb7d169b761439f646ae7/Aeronautic+Valour+Medal%2C+in+Bronze+2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "f25fa9ef6298d947ba4fe2b30ae2b1630504bd3b196dab07e47dcb504202b7d2",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-010-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-010-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/air-force-long-service-medal/air-force-long-service-medal-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/cfe9f73f27e7a0a7cc2d328ff42dff2d94635927/store/fit/528/348/d2e7ff6fee791dfef559624ddab77c9a0c1178e7c292ed071ddda91e5cee/b_0703.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "273b481acb32d3599f03945110c997092ea249fc36c1dfdc2fb0f39bc9be5c3b",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-010-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-010-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/air-force-long-service-medal/air-force-long-service-medal-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/9530dfa324b2aed0b472bca0ae98540726e34261/store/fit/528/348/8a75fd3666d4406730626274f9dcc409b5d6b3e1b856f2e730f7e9b4451e/b_0706.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "757704e8db60dc2d52e82faf0b788240439c84e72486288664130799447455ed",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-011-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-011-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/china-campaign-medal/china-campaign-medal-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/2af3b29e1e0402a2b3f10a96ec8e34169a823176/store/fit/528/348/25ada83caeea01b024d3ea48984ba0c3a5ef4f1ef73b681f911f825c0b03/A_Rare_Italian_C_5464e58eb1b851.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "006b93288f6cc3b8e499af2344b884dc7539526ef9bd3b133f1d9f6c7e4fd0ea",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-011-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-011-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/china-campaign-medal/china-campaign-medal-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/80a70d6744327de634d5d364a039805f7e62851e/store/fit/528/348/38b9094ac8e1f7fe492fe8cde7d2566ac36ad9a813a36416106c1c91cb63/IMG_05.jpg5464e5b6a28c0.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "12c894f3eb3f882eec851e52a81b1ba41a913dcd958f427a414b3aaf3578163c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-012-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-012-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-military-campaigns-in-east-africa/commemorative-medal-for-military-campaigns-in-east-africa-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/4f2dff5ba6fcfc9ff1c3307451b95196b1a51328/store/fit/528/348/18fec0352105b69b6030af826639eb4988e59018fe0f7d2196ff8616c758/an_italian_east__5356b4ec41891.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "fc1f3c57dd91e7d3426a344954338d1edad6a4a922c95279cf191533e38f0a7d",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-012-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-012-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-military-campaigns-in-east-africa/commemorative-medal-for-military-campaigns-in-east-africa-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/16ac2ed43c97308b5470f1bdb258972221c129f8/store/fit/528/348/6b35093187ecb6378d7d1063a8d9d07ff53b11791bfb440ecb3db683c010/img_04.jpg5356b4fd2a158.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "e3019360f70fe8e0e4fd25138ab691d7c12df7c3db4b639429b39ecbcea762d9",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-013-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-013-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-albania-campaign/commemorative-medal-for-the-albania-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/71652e7c9be5a22373127701a9391d7a0ebb6204/store/fit/528/348/3aa7709f0a2b748a44a0936388c4ada5b3a46eb98a7a9cdc65e056281588/an_italian_medal_54f5c1d55e82c1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "f44bdab76c28a4ddb533a7fad0ec5b48150afc1591656bc10f9443008ace5b59",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-013-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-013-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-albania-campaign/commemorative-medal-for-the-albania-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/3d609b825899bc5868427b2f91dea935c53a3baa/store/fit/528/348/c038a48267d6a78fa7f121d6c234cab8e8f67ca709482102db9b9097b421/img_02.jpg54f5c1ed7198e.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "5274452ee6b5c62508a7da85c67cabc889b50eded2a82d13490b1752d021315f",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-014-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-014-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-expedition-to-fiume/commemorative-medal-for-the-expedition-to-fiume-in-bronze-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/167922c6f6c911d59ff67100a2b8e3557fa3a687/store/fit/528/348/8b1776469a77e173aa854d850d0c25eaafbb554296feac434bb766240668/em106a1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "571548c3c2e823456c8d04fd758c22d1c61dfe22a8c6a58d143eddf903bce8f6",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-014-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-014-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-expedition-to-fiume/commemorative-medal-for-the-expedition-to-fiume-in-bronze-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/566356c5acdea13f3a596fa1cd8f93bbac028332/store/fit/528/348/f13ab502c30326c342b29618be6687c4a391bb9f70f8b2a9ae425ecbbed2/em106c.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "43e18001218c6512ecbbb3e027c932890132158041bc31fa68a5850a30844abd",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-015-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-015-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-italy-brazil-atlantic-crossing/commemorative-medal-for-the-italy-brazil-atlantic-crossing-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/357f514bf27e96054d7d91bd87507380121fc145/store/fit/528/348/bcd61e6f9f418a2118d56c6e4b294d97815de023e0f272c8bb01e9d8d345/Italy_to_Brazil__52ab581ae323a11.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "85e808f4ac17c48481e05227836791eeda0eae10f05c67d084efee68188b818b",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-015-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-015-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-italy-brazil-atlantic-crossing/commemorative-medal-for-the-italy-brazil-atlantic-crossing-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/f9b3a4f93b70a44145af8b5848e6816fb8e14249/store/fit/528/348/0d1ea831aced6d0d9ddcf7e72904ab4546a6b1e2842cd1649234449eb3b0/IMG_9131-copy1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "8424bde6e562eb593c758721d317ea4cc42fa0445b3b1efb8658de34af2b76cc",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-016-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-016-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-libya-campaigns/commemorative-medal-for-the-libya-campaigns-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/62a1beee2900acff095bf949326facebca6b86dd/store/fit/528/348/f0e5bc4616cd2092f3a984d6a2818cc5c0649ff068e2479bb5d8914ae152/1912_Medal_for_t_52a761b1ae3491.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "533fc397a3f4865deaf0a90bd2829f95466fe837ff84a72d40c79bbe6a697e86",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-016-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-016-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-libya-campaigns/commemorative-medal-for-the-libya-campaigns-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/40e7a60f2879e9ee43dc283b1478075064a5580b/store/fit/528/348/5325bd05d562bd8fe84c81da86b827549f416b98b4522d1adc2c745f8d30/IMG_9216-copy.jpg52a761c21f5b2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "63e827bda844fa0f7ee5140640ff26dbcbd3bc2616f528c950fccebb7be400e5",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-017-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-017-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-merit-for-the-messina-earthquake/commemorative-medal-for-the-messina-earthquake-in-bronze-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/dbaf4a4e10ab0ad364ee856dfa9f2d9855f1b0fd/store/fit/528/348/5d935c50bb28fd242bc5d299566ab7d5b001c27fbac1ca31fa63a64cecde/bronze1.jpg",
+      "width": 312,
+      "height": 348,
+      "sha256": "e4c5268fe86c44a789e8da682082b75c657030009c10e7bb70471e1d0b32b6af",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-017-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-017-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-merit-for-the-messina-earthquake/commemorative-medal-for-the-messina-earthquake-in-bronze-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/6cd7a7a6d479f9ff57b431017a30eedd24929ca0/store/fit/528/348/886040d0a224ca2aa34bf6f8f86ec9d5ab364d44854811601975840f012a/reverse1.jpg",
+      "width": 300,
+      "height": 348,
+      "sha256": "6998d7c830509725ec495991060294c1703a266473c349132caca4b1696ad70e",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-018-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-018-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/cross-for-military-valour/cross-for-military-valour-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/b05eb5169fdba605a402b3a97c172c0b08cdd839/store/fit/528/348/318185ed3c7a0bdc59310090e2b3fd14955a5ddb4716d74182c191f4fc38/1942_cross_for_m_52f6701e0911c1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "f9a8f5b7e3004f1f862241ba2ff062156131dc15b333ca9add0fa93a92732d2c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-018-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-018-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/cross-for-military-valour/cross-for-military-valour-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/66e19d8f8a0f803de576a3cab78e744197391116/store/fit/528/348/07503e568a1ee08b51a1a2fb929c12ccd84b34c15b659843644815dde18d/rev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "c9edb7fe803b9431ea83555faf52d749b39818500232459123cf78fbfb5bb641",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-019-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-019-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/italian-red-cross-medal-of-merit/italian-red-cross-medal-of-merit-in-gold-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/799bf9112dc626a66bcfcd0cd4165887bd784165/store/fit/528/348/20957f08f233a4e3a97b98c76a1d0d38bd99c688f96def12ea3560c6a423/Italian+Red+Cross+Medal+of+Merit%2C+in+Gold+1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "17f0d4dbdd160ce3ed9c1dae5a0d52dcfebd9f957adc3eaef3b64d45902e2ddc",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-019-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-019-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/italian-red-cross-medal-of-merit/italian-red-cross-medal-of-merit-in-gold-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/4ddbfd80fcaee2c65e622c46447a6d4f84678cd0/store/fit/528/348/7a5f755ff511e0fcf31e4dbb4627b8b345166b5f6bea6fb978a6c3b43405/Italian+Red+Cross+Medal+of+Merit%2C+in+Gold+3.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "dde876f744d5787b0425e146aac7140a67fe5f8bd2d4096f7927824a5a29f847",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-020-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-020-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/long-service-cross/long-service-cross-in-gold-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/0c967535f7cff1df5358ee1f25496f3571d49b11/store/fit/528/348/172ec732fb208835dd7b49deca605b7e0598eae139de298c9609c14f7509/Italian_Long_Ser_52f67c0d1005a1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "8989b4d574de24d0b00ad0650d25423c43109d3d6850d0dcb25128fd1afaf792",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-020-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-020-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/long-service-cross/long-service-cross-in-gold-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/9d9606c835f9e678e81e8f49d9a85115bd74c471/store/fit/528/348/38e42e3dd6cea44b2cffbff5fec184541ba46e2774a16bd7d784d6b75b0b/war+material+rev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "ffcc17c792dc9d9484c3ff1a7eccb65ec1de3b37a90f9970f66603751b4d28ca",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-021-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-021-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-africa-campaign/medal-for-the-africa-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/000233767b329c23d169ce93962e210d925b7e11/store/fit/528/348/3db9b9678378b58c4047f1763a22d05cf6b3992ad39bbe8777d4843564a5/African_Campaign_52e2827e236c8.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "258896acccc9ed0f73871f20d182ca491637580d78fdda527e8e762d89d80c5d",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-021-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-021-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-africa-campaign/medal-for-the-africa-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/764c2ecc25033ee052035781cc78bb00ccad6025/store/fit/528/348/551dfb8966838838b2394000302509e322fef27a8b79bea222573b18bda9/IMG_8849.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "97ee4d84fb11be823ad84af7aa82c5cc6efb4f933721bccfee0dbece2c6a5581",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-022-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-022-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-crimea-campaign/medal-for-the-crimea-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/901527153e4f7718e8ea5a5d3182e7b50c4240da/store/fit/528/348/e6c0c11da4f02e8116582409d85b3a67007047e8b7f4c21bdc3410d3dbd6/Medal+for+the+Crimea+Campaign+1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "4d5d076990d7e5677bafb8036ade37c546def1aab7a335997613334f380bc63c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-022-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-022-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-crimea-campaign/medal-for-the-crimea-campaign-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/0222085396d73e6a649c98476ad20af6493d04e4/store/fit/528/348/4821647799290351d5dc9e231b81d5869ff5e099726059bd2e077daa3d27/Medal+for+the+Crimea+Campaign+2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "de572d68c9530868cd3a645df4f6fee18e1d56b4374ae5d666a7575c5bcf23c5",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-023-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-023-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-liberation-of-sicily/medal-for-the-liberation-of-sicily-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/2ed41e73ff8ab415aa127b9036d63c36abf19e34/store/fit/528/348/d0f89f1658014d2a0bf615a4acecb55f24c4d282fed51f8a6b9d307ab8e5/liberation+of+sicily+ME71.jpg",
+      "width": 214,
+      "height": 348,
+      "sha256": "cb363c507b88df93f35d108bd616ab9d4345586310c079874a996063c60769f7",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-024-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-024-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-war-of-independence-and-the-unification-of-italy/medal-for-the-war-independence-and-the-unification-of-italy-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/8e1d0cca87b7c466266e4a1128db96d77ff4a1b1/store/fit/528/348/4ea21634dca987486cd9093cdfd646c00cfc317ae2ad3b11399c03ad1d68/a_06051.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "1baa4a810764f68a7baefa5c67ee84cddacf6fbfca7ce96107a35d5f4a3a0e16",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-024-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-024-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-the-war-of-independence-and-the-unification-of-italy/medal-for-the-war-independence-and-the-unification-of-italy-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/1e4af09e3027eb496f44ff60f260172bfd4dd65f/store/fit/528/348/09e5d74553a2d0694f81d914c441288a6cb4c94fb12eb07374bfa0eb22e7/a_0607.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "9d7375083f5fdbc77f4336f60f9ed7566ef7fac5e8ef2a5208cf10ccc8a24e26",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-025-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-025-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-war-disabled/medal-for-war-disabled-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/f27ce4bb3f91806c3267ca2a75d01426236fa509/store/fit/528/348/6a5f949fe0983ad7f73aba4d59003f1b055058836b4b2e4505b577731d29/obv.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "f0b4a39481768391ce4bb2c8b6425cead596e85e57a94f80cf31fc47db91c23b",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-025-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-025-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-war-disabled/medal-for-war-disabled-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/0129a75812b6d8213aa96bab4a43c7ed230f8efa/store/fit/528/348/dd3d80933a7e19cdba6d9bd76d7dd11c38f667632c4847c68a2f652de171/rev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "e9cff597bd90ac886a3e40ecf585a5d43b212a216657a96f7d60929ebb336ab4",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-026-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-026-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-honour-for-mothers-of-large-families/medal-of-honour-for-mothers-of-large-families-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/44b22c7944614ac86200b4896f0b050f69c14e2f/store/fit/528/348/ef48a7a20bea2e2ece29e14a0424ca56de22456cdb0063a4d646ab05866c/obverse5.jpg",
+      "width": 93,
+      "height": 348,
+      "sha256": "081397d1f30508ac88bdf58e9a3c23bfab67dbec566e06d4ce1a5068592cf942",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-026-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-026-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-honour-for-mothers-of-large-families/medal-of-honour-for-mothers-of-large-families-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/88f7b10e182dcb6c0cc6187bb701bad6a54916c1/store/fit/528/348/e640e02d845218db45f4bf7845046db540237bbedc57601f44cd5e935302/reverse21.jpg",
+      "width": 90,
+      "height": 348,
+      "sha256": "aaac0b69342dd7cb538f51fffcf1d16f58bbe9e13b85acfdc54696fbac5db20a",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-027-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-027-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-air-force-pioneers/medal-of-merit-for-air-force-pioneers-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/676f1e63e2dbb3ef991af1b4dfc4a12caa8f54f0/store/fit/528/348/2e8e7b0ef23961d82d469c59dd8f0288d0acda297aa7b91c56017c248999/the_aeronautical_52a76cdc425f2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "91ab1d8df0f26db54651ba98d431a1a283a5b32a0ae564fd5880ff8b27583000",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-027-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-027-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-air-force-pioneers/medal-of-merit-for-air-force-pioneers-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/a28db023709e4ad65839b9ce986091dc60868fed/store/fit/528/348/0c5382d22efdb5fb01c94eaf459dc400b7db81395262c4edb4fea7ad4c71/airforcerev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "4b7ba02eba7c4457982abdfb103094c246cd39706676aa99071d9ed8f4777e5f",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-028-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-028-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-long-service-in-the-royal-guard-of-finance/medal-of-merit-for-long-service-in-the-royal-guard-of-finance-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/5bd336b6d8c84d6369e543bc0a33a30f16cc4b97/store/fit/528/348/5d8c8377be68a6f7efd3ec035dee20275dd0c98749a3186005a2e6ce43b0/longcommandmeritobv.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "30096cb51655a488047676d6b8148efe89195ccfc0c745ea11462146c92c68b8",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-028-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-028-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-long-service-in-the-royal-guard-of-finance/medal-of-merit-for-long-service-in-the-royal-guard-of-finance-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/f5ee63da36fcdef3bdf0a9d6e941193e414ee754/store/fit/528/348/67608a9a4a8bdf2b9f152d964a8cd8e777d8ed9275900e56ccbae1f44e0c/longcommandmeritrev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "67564bfd80d1350ec89b48d259bf8b3463e1eb1060bc8dc5ea710418a6edd347",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-029-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-029-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-public-health/medal-of-merit-for-public-health-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/d4b403bea7838dc77edc1508790a7c1332273969/store/fit/528/348/27df28628690b42a374201b55878b387139582f69c90c3de27fd775913fc/public_sanitatio_520cde985a769.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "e035249fe356da31d39b1c09db34b9e7999b29463b2aa852f8cb529ecceead95",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-029-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-029-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-public-health/medal-of-merit-for-public-health-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/c4ff670bc0ed87a2f716b6f15446f8e3e6fc0eb3/store/fit/1000/750/255c581b1b16ea5c33aa5b10445c7c2cea307c425c85abd50f74b5a8c856/public_sanitatio_520cde985a7691.jpg",
+      "width": 1000,
+      "height": 750,
+      "sha256": "2910ae806cbc9610b9ed3e9a98a15a60031363d19dcfc84888ab78c861d0bada",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-030-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-030-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-service-in-national-fire-brigades/medal-of-merit-for-service-in-national-fire-brigades-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/e275b6b1cf3ad563be5c4976db39556b19454a4b/store/fit/528/348/8c32e7eb274553e0c47845a018efe70fe314523b50368e0e6774982ce186/an_italian_fire__54d8e85b4b64b1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "3f9b6c6923629fccd7b9c001bb139f7635da93db3a3a5b3bdb42f9cde27a4782",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-030-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-030-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-service-in-national-fire-brigades/medal-of-merit-for-service-in-national-fire-brigades-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/2b3c6efdba6b613d920897d78d94ef483069b9bc/store/fit/528/348/ab59ba10ffdf5adb3af9e339945150fa43ca0502ea04f2d3c73903a8c7c6/img_03.jpg54d8e93a3dad6.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "23badb9dbe09d9fbfa3a92b765a2a7b061623b024b61d52e97d8c5ab81e60bbd",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-031-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-031-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-volunteers/medal-of-merit-for-volunteers-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/c11c8279c872e095a406796c30a4e772e438fb58/store/fit/528/348/0cc6a429ef41ee9c0cbf6713f55c815ee34f0d82508c8825f5c2e96d4944/1915_1918_Italia_538f8477cefcf.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "736ed91cf36b857755eade22fc2bcbfaec19fa5e5c28683cd6458e4b6f7ca09c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-031-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-031-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-volunteers/medal-of-merit-for-volunteers-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/97d536a2f1a63c50caed800a4914c4cce2c18e54/store/fit/528/348/1c84aebc7af9b4ef6febaeb0c3156dfbe617e800c4df0f10e4a16146196d/IMG_03.jpg538f849f2dca1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "943503113e34077629e6d8653dbb042265b0074cc9bc9a65b20e6874782530d4",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-032-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-032-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-of-long-command-of-the-royal-army/medal-of-merit-of-long-command-of-the-royal-army-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/c97578a36985abd8caa44aadaf89e1f46d8fa4cc/store/fit/528/348/20e29ee48484164b31b89650bb5a6f54c6fecc73f8b8eaef4fbcc2061360/bronze+obv.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "6a7af4daf2d4194741a79254a54eb5a16c0b14987c70b778e4b69e917fe94cb6",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-032-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-032-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-of-long-command-of-the-royal-army/medal-of-merit-of-long-command-of-the-royal-army-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/93d00c96b5e712502b12dda6bc1b518f75530aa5/store/fit/528/348/e6c258cbc04366a87cb29765608719fac30d4eff359d81b78da768b45ebf/bronze+rev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "8021974cbdc46a814b8384de99f19cf82547c2dbfc30c44c98c347dbae4e3cb0",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-033-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-033-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-national-gratitude-to-mothers-of-the-fallen/medal-for-the-national-gratitude-to-mothers-of-the-fallen-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/deb1add4d7c380bda45ba73d9cdeea12bf515615/store/fit/528/348/2856da455f8f433f9b04a9f3cf6fe246b23e4ea69a9966a726e5586ac6c4/Italian_Mothers__531f645b715cd.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "c32fed56294076b2a07233bb3ba3b84541fddf538c314e6ceb314600f9644a01",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-033-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-033-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-national-gratitude-to-mothers-of-the-fallen/medal-for-the-national-gratitude-to-mothers-of-the-fallen-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/c66b5c8d2ba09852c211644bedf1ec4e9579b1b9/store/fit/528/348/ef91e0607ce2d94f115241cfcd4f7242ed0a4dc3e892368ba57857d6cb9a/IMG_02.jpg531f6479a30a1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "725d8c928f2912cff1b14e37aaa895e5e0a9056a1332615b6fe43b4fa5a08131",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-034-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-034-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/merit-cross-for-long-service-in-the-financial-police/merit-cross-for-long-service-in-the-financial-police-for-16-years-in-silver-4",
+      "direct_image_url": "https://www.medalbook.com/attachments/6b1856f140e734e48de0e461896426cb238d938d/store/fit/528/348/cf462c63749f110053cf66cc15628e284e54c5961aa3b5605d1c48bf7ac7/An_Italian_Silve_54135180ef8081.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "5ec441d224637c37568953130c10898be8151da22948f2a80f93ee2ea2e59e48",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-034-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-034-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/merit-cross-for-long-service-in-the-financial-police/merit-cross-for-long-service-in-the-financial-police-for-16-years-in-silver-4",
+      "direct_image_url": "https://www.medalbook.com/attachments/808a6d5bf7ca7dffc06eb35bbe675f151abdaf26/store/fit/528/348/96027bcf3f8f7b1ef3c12b59a4dada446a13e94a5a664e9951570eefcc7a/IMG_04.jpg541351a543489.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "4f73ff7cafb0771c4434c480cad259151ee000b3a794b1be7eab9d547116e882",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-035-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-035-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/merit-of-medal-for-the-marsica-earthquake/merit-medal-for-the-marsica-earthquake-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/5b961f9cce9778401c8200c409a38e4a188b11e4/store/fit/528/348/0be46e72e327c3f491dc158c3f6384b98bc2ba65a391fb7ee562b956cc6e/g_907.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "547d1f0c89930c1a883fbf51b8f31653ba18c68739ad8223c25eddb8e39111c4",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-035-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-035-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/merit-of-medal-for-the-marsica-earthquake/merit-medal-for-the-marsica-earthquake-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/cf35468fed1100a0f419bec40e39604602fdcfec/store/fit/528/348/9a70cc7d9dca346fc622967ac48d9fe6c74d218f0d779f5fe84b1bb94d40/g_909.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "01ee944394ccf2d1b19d88741e434d4b3347bb1fbb4071973885249558ea4636",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-036-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-036-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/military-merit-mauritiana-medal/military-merit-mauritiana-medal-small-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/481feefccda0453c47d8cb60edd3cf75741d1b07/store/fit/528/348/8b166d555e49f69186733bc1ed6c586a161d5a99f47eedcf99b2797314d8/small+medal+obv.jpg",
+      "width": 166,
+      "height": 348,
+      "sha256": "d3f759ff5cb8c9baf322acec975011b5217412c319b55f2b60af0cfa4c3d0cd8",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-036-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-036-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/military-merit-mauritiana-medal/military-merit-mauritiana-medal-small-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/af7c1af9f4cccb7eb21c95ec0346aaaea1f2c222/store/fit/528/348/bd8e2f78247d168bd28dae8645d19ac92e0c8ec063954ba4cf96cf31ab5c/small+medal+rev.jpg",
+      "width": 162,
+      "height": 348,
+      "sha256": "53012962c01c7fa5f4a51b2cd6fd555933818abccee81ea8770f7acf0dcd7dfe",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-037-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-037-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/naval-medal-of-honour-for-long-service/national-medal-of-honour-for-long-service-in-silver-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/7fbaac1c5205287954c72a1ac09330e9c7192d48/store/fit/528/348/53be21e4a8952603c1de1487a0baa71999e292cae7afb45cbc45bf5efc9b/IT152a1.jpg",
+      "width": 351,
+      "height": 348,
+      "sha256": "b7230d3e9a91b6a203402737ab6619adde383ec387ee04a749d34d94c9fc37ea",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-037-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-037-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/naval-medal-of-honour-for-long-service/national-medal-of-honour-for-long-service-in-silver-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/86a7272edbca970ab27b4fea7ff2764ee90e48f2/store/fit/528/348/d0d01ba2dd91e00359b7140d13bafd6e52ed1263f9d1d23a5158bbd90f6b/IT152c.jpg",
+      "width": 352,
+      "height": 348,
+      "sha256": "8ad583b782a636d86f4fdfd495564c84be25fa71aa63789cdfad8668b6d53255",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-038-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-038-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/pantheon-medal-for-the-honour-guard/pantheon-medal-for-the-honour-guard-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/54f9134416dd5b379495c647c7adfa308d3993aa/store/fit/528/348/6e0bb4498d55bb192092448fe323ed96505d96b40889c3f0a933e66d273b/obv.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "3bcca89dd5f0d8e8a551ecf32bc40c135d58e377707434bfabfe42356bf60a5c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-038-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-038-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/pantheon-medal-for-the-honour-guard/pantheon-medal-for-the-honour-guard-in-silver-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/c7aec72a222c069ccd03a891d3813e178d17437f/store/fit/528/348/3bf66a84d6d68556d289b534f984603f4674ca4e1d4a61d0cbc8fdc7c7d8/rev+2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "b8cf82f183914c942fdcd0301642fe2126180034aab9ac6203b7b664472c76c8",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-039-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-039-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/red-cross-medal-for-voluntary-nurses/red-cross-medal-for-voluntary-nurses-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/8783acc720b58bfa21317c2820b09d92ff408c59/store/fit/528/348/98607e0b64991f36d008a67076d6ac83d398ae2722f289779590c74aa63c/IT294a.jpg",
+      "width": 348,
+      "height": 348,
+      "sha256": "d600d8e044d741aa523c14f6cd413fe7585841f76aaee522288a42c1537f12e7",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-039-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-039-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/red-cross-medal-for-voluntary-nurses/red-cross-medal-for-voluntary-nurses-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/f49bc927aa3074b42988446231ebff4d2a46dfaf/store/fit/528/348/060b572fe03aa586557b22eb64bdbcc59f8088f80da077316b529443e055/IT294c.jpg",
+      "width": 348,
+      "height": 348,
+      "sha256": "e9211c42d0d4652f00d40fd000dccb646e434f3fc618bbb18c098e7fe3fcad47",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-040-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-040-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/royal-house-remembrance-medal/royal-house-remembrance-medal-in-silver-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/a4909bdbd8f1708c52dc154ac30a0d3b9d6f6ec1/store/fit/528/348/8e31ca0c0bc7b7c86eaad54cef5573037053ed39a45ef1b134a9b32da8f6/Royal+House+Remembrance+Medal%2C+in+Silver+1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "f758154b2ef091e5f5a32b99426ef7b4590d39a923532023deaca44a9cf68fd1",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-040-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-040-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/royal-house-remembrance-medal/royal-house-remembrance-medal-in-silver-2",
+      "direct_image_url": "https://www.medalbook.com/attachments/001630792d1907ed16e25a9f35f85796171cdcc8/store/fit/528/348/8773d78cc37239aa8056a92ebf855642ca40fcacf64c0db6e7ea6041c72f/Royal+House+Remembrance+Medal%2C+in+Silver+2.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "b3b9368037892154c24b5fc7dcb60713f2436adbeb297632d1375cae1d862bd6",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-041-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-041-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/star-of-rural-merit/star-of-rural-merit-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/81e019447259ff22be77fdba453e1a337c3bb74a/store/fit/528/348/7017592cc86c85959b68b28cea2b0eea7a63d7a499863e92d14e4dd13575/Star+of+Rural+Merit%2C+in+Bronze+1.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "04af3028336f359205c88cbbaad8f74ba283d332f77643ab657670319399b25d",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-041-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-041-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/star-of-rural-merit/star-of-rural-merit-in-bronze-3",
+      "direct_image_url": "https://www.medalbook.com/attachments/d3d28c2d8ee4ff4d4ce8a08a649fc54c63a7afd7/store/fit/528/348/23e2dc3655ef69f68dc87398db36d1a0926d3f68b044fa56f86b89353c12/Star+of+Rural+Merit%2C+in+Bronze+3.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "820867716c7f24c722bb40b7d00cf6cd62a2c506cb1747064be611d4b4efb47f",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-042-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-042-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/civil-order-of-savoy/civil-order-of-savoy-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/95e8049ac396b3fe4ac276814b513e90c85fdda8/store/fit/528/348/ae1d5a8f354701573379ad924aea6a1a93d28e2d9e9ebd2f60c3910e96f8/Sardin+Civ+Savoy.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "79c46bd2f0b21ba5b9ee924111fcceb05d97fc7f61e2d5ddb3b95a7c14cfcd7c",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-042-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-042-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/civil-order-of-savoy/civil-order-of-savoy-1",
+      "direct_image_url": "https://www.medalbook.com/attachments/164a6b409115d2baac2855433bf269768b7c426d/store/fit/528/348/d797558e9ad07357415c004b9a0481c4d9feddae043ffb813138f4897df2/Sardin+Civ+Savoy+Rev.jpg",
+      "width": 464,
+      "height": 348,
+      "sha256": "0d89b6b52a1767ba69ef1e24de7aec5937b5fe9530b884095e81c118a325c12b",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-043-V01-VIEW-1",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-043-v01-1.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-1815-1855/military-order-of-savoy-type-i-5",
+      "direct_image_url": "https://www.medalbook.com/attachments/d7154b165f530937d38bc5e5d0ab694d332cf289/store/fit/528/348/56c53ed38e3dfc22acf088ef554f2e85909aec89a61a46bbbc9c164f6718/s6.jpg",
+      "width": 153,
+      "height": 348,
+      "sha256": "89d7aa2fee498306a0397f9abf81e8ab37233093322dd7cc4fb2f60f90cbe2c0",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    },
+    {
+      "view_key": "IT-KOI-043-V01-VIEW-2",
+      "local_path": "assets/images/italy_medalbook_pack4_2026-09-26/it-koi-043-v01-2.jpg",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-1815-1855/military-order-of-savoy-type-i-5",
+      "direct_image_url": "https://www.medalbook.com/attachments/a780e62fbd5cbc966fc6ef1ca88c9050cd0c2b27/store/fit/528/348/e85bb8faa4eb1e8a1402d157df097e79d06cc53409cff9824b6132771a59/ss.jpg",
+      "width": 150,
+      "height": 348,
+      "sha256": "b1ab25fd908fbb6e9710a67e7d2e444b5b02de9b9533430cc6a83946086d9682",
+      "rights": "商业专题目录图片；仅保留作本地研究图鉴，未主张公开再利用许可。"
+    }
+  ],
+  "source_coverage": "MedalBook Kingdom of Sardinia & Kingdom of Italy existing complete sweep: 5/5 listing pages and 343/343 distinct object pages; 35 additional formal-family groups normalized in this package."
+}

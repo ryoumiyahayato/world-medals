@@ -1,0 +1,61 @@
+{
+  "source": "nigde_academic_ottoman",
+  "status": "processed_accessible",
+  "access_date": "2026-09-26",
+  "planned": [
+    "https://doi.org/10.47356/turkishstudies.43669",
+    "DOI-resolved public PDF",
+    "Any public attachment or figure file linked by the DOI landing response"
+  ],
+  "processed": [
+    "sources/pages/nigde_academic_doi_headers.txt",
+    "sources/books/nigde_academic_article.pdf",
+    "tmp/pdfs/nigde/page-05.png through page-17.png"
+  ],
+  "failed": [],
+  "remaining": [],
+  "landing": {
+    "doi_url": "https://doi.org/10.47356/turkishstudies.43669",
+    "redirect_chain": [
+      "https://doi.org/10.47356/turkishstudies.43669",
+      "http://www.turkishstudies.net/files/turkishstudies/f6522325-7519-4618-b21c-29bde2666142.pdf",
+      "https://turkishstudies.net/files/turkishstudies/f6522325-7519-4618-b21c-29bde2666142.pdf"
+    ],
+    "landing_note": "The DOI resolves directly to the public PDF; no separate HTML article landing page or additional public attachment was exposed in the response."
+  },
+  "article": {
+    "title": "Niğde Müzesi’ndeki Osmanlı Madalyaları / Ottoman Medals in Nigde Museum",
+    "authors": ["Necla Dursun", "Hatun Tığ"],
+    "journal": "Turkish Studies - Social, 15(5), 2483-2500",
+    "year": 2020,
+    "pdf_pages": 18,
+    "license": "CC BY-NC 4.0",
+    "pdf_path": "sources/books/nigde_academic_article.pdf",
+    "pdf_bytes": 1318665,
+    "pdf_sha256": "EE422D7B8AE446B5709CCC4B7FA1C16133E6287ABD14325F7814F8B34B291DB6"
+  },
+  "candidate_file": "data/raw_candidates/nigde_academic_ottoman.jsonl",
+  "candidate_count": 33,
+  "candidate_breakdown": {
+    "museum_catalog_items": 15,
+    "historical_context_names": 13,
+    "reference_figures": 5,
+    "catalog_items_with_paired_pdf_figures": 15,
+    "crop_possible_records": 20,
+    "date_conflict_records": 1,
+    "unidentified_or_altered_catalog_items": 1
+  },
+  "figure_scan": {
+    "catalog_figure_range": "Fotoğraf 1-30, PDF pages 5-13",
+    "reference_figure_range": "Fotoğraf 31-36, PDF pages 15-17",
+    "catalog_image_note": "All 15 catalog records have printed paired photographs with museum inventory labels. Images are embedded in the PDF; no standalone original image URL was supplied.",
+    "crop_note": "Page renders and embedded raster dimensions were checked. Crops are technically possible for the 15 catalog pairs and figure 31-36, but the source PDF raster is retained as the provenance object and no cropped image was promoted to a final catalogue asset.",
+    "visual_check": "PDF metadata and text were read; pages 5-13 and 15-17 were rendered and visually inspected. Pages 5-13 show catalog pairs; page 15 shows ribbon/hanger reference; pages 16-17 show comparative coin/motif figures."
+  },
+  "notes": [
+    "The candidate JSONL preserves PDF page numbers, printed page numbers, catalog/inventory numbers, Turkish names, date strings, figure labels and embedded raster dimensions.",
+    "Catalog items 1-2 are separate museum inventories sharing the Nişan-ı İftihar identity group; catalog items 11-12 are separate inventories sharing the Hicaz railway service identity group.",
+    "The article’s introduction-only historical names are kept under historical_context and are not counted as Niğde object rows.",
+    "No network search beyond this DOI and its direct resolved PDF was performed."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "batch_id": "france_legion_honour_batch1",
+  "conflicts": [
+    {
+      "type": "RIGHTS",
+      "scope": "all 21 cached media",
+      "status": "held",
+      "detail": "SAMLHOC states all rights reserved and no open reuse licence; none may enter public HTML from this cache."
+    },
+    {
+      "type": "COVERAGE",
+      "scope": "Second Empire",
+      "status": "partial",
+      "detail": "The direct-child sweep exposed a Second Empire breast star image but no separate Second Empire cross object page; do not infer the missing cross from another regime."
+    }
+  ]
+}

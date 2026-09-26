@@ -1,0 +1,169 @@
+{
+  "source_id": "wikipedia_multilang_ottoman",
+  "source_name": "Specified Wikipedia multilingual Ottoman awards lists, English category, and Medjidie/War Medal pages",
+  "as_of": "2026-09-26",
+  "accessed": "2026-09-26",
+  "status": "complete",
+  "source_complete": true,
+  "started_at": "2026-09-26T02:43:10.5026169Z",
+  "completed_at": "2026-09-26T02:43:10.5060193Z",
+  "completion_rule": "Each fixed page was fetched once or read from the local cache; all internal links in the specified list/page wikitext and current English category member/subcategory blocks were recorded. No image bytes were downloaded.",
+  "fixed_sources": [
+    {
+      "language": "en",
+      "title": "Category:Orders, decorations, and medals of the Ottoman Empire",
+      "mode": "html_category",
+      "fetch_url": "https://en.wikipedia.org/wiki/Category:Orders,_decorations,_and_medals_of_the_Ottoman_Empire",
+      "page_url": "https://en.wikipedia.org/wiki/Category%3AOrders%2C_decorations%2C_and_medals_of_the_Ottoman_Empire"
+    },
+    {
+      "language": "de",
+      "title": "Liste der osmanischen Orden und Ehrenzeichen",
+      "mode": "wikitext_list",
+      "fetch_url": "https://de.wikipedia.org/w/index.php?title=Liste%20der%20osmanischen%20Orden%20und%20Ehrenzeichen&action=raw",
+      "page_url": "https://de.wikipedia.org/wiki/Liste_der_osmanischen_Orden_und_Ehrenzeichen"
+    },
+    {
+      "language": "it",
+      "title": "Onorificenze dell'Impero ottomano",
+      "mode": "wikitext_list",
+      "fetch_url": "https://it.wikipedia.org/w/index.php?title=Onorificenze%20dell%27Impero%20ottomano&action=raw",
+      "page_url": "https://it.wikipedia.org/wiki/Onorificenze_dell%27Impero_ottomano"
+    },
+    {
+      "language": "ru",
+      "title": "Награды Османской Империи",
+      "mode": "wikitext_list",
+      "fetch_url": "https://ru.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B%20%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8&action=raw",
+      "page_url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8"
+    },
+    {
+      "language": "en",
+      "title": "Order of the Medjidie",
+      "mode": "wikitext_page",
+      "fetch_url": "https://en.wikipedia.org/w/index.php?title=Order%20of%20the%20Medjidie&action=raw",
+      "page_url": "https://en.wikipedia.org/wiki/Order_of_the_Medjidie"
+    },
+    {
+      "language": "en",
+      "title": "Ottoman War Medal",
+      "mode": "wikitext_page",
+      "fetch_url": "https://en.wikipedia.org/w/index.php?title=Ottoman%20War%20Medal&action=raw",
+      "page_url": "https://en.wikipedia.org/wiki/Ottoman_War_Medal"
+    }
+  ],
+  "languages": [
+    "en",
+    "de",
+    "it",
+    "ru"
+  ],
+  "pages_requested": 6,
+  "pages_completed": 6,
+  "pages_failed": 0,
+  "candidate_rows": 222,
+  "unique_language_target_links": 218,
+  "page_summaries": [
+    {
+      "language": "en",
+      "title": "Category:Orders, decorations, and medals of the Ottoman Empire",
+      "page_url": "https://en.wikipedia.org/wiki/Category%3AOrders%2C_decorations%2C_and_medals_of_the_Ottoman_Empire",
+      "fetch_url": "https://en.wikipedia.org/wiki/Category:Orders,_decorations,_and_medals_of_the_Ottoman_Empire",
+      "mode": "html_category",
+      "status": "complete",
+      "bytes": 63944,
+      "rows": 15,
+      "cache_hit": true,
+      "pagination_exhausted": true,
+      "category_subcategories": [
+        "Category:Recipients of the Order of Distinction (Ottoman Empire)",
+        "Category:Recipients of the Order of Glory (Ottoman Empire)",
+        "Category:Knights of the Order of the Crescent",
+        "Category:Military awards and decorations of the Ottoman Empire",
+        "Category:Recipients of the Order of Osmanieh (Ottoman Empire)"
+      ],
+      "category_members": [
+        "Order of Charity",
+        "Chelengk",
+        "Order of the Crescent",
+        "Order of Distinction (Ottoman Empire)",
+        "Order of Glory (Ottoman Empire)",
+        "Liakat Medal",
+        "Order of Osmanieh",
+        "Order of the Highest Privilege (Ottoman Empire)",
+        "Order of the House of Osman",
+        "Order of the Medjidie"
+      ],
+      "reported_pages_in_category": 10,
+      "reported_pages_total": 10
+    },
+    {
+      "language": "de",
+      "title": "Liste der osmanischen Orden und Ehrenzeichen",
+      "page_url": "https://de.wikipedia.org/wiki/Liste_der_osmanischen_Orden_und_Ehrenzeichen",
+      "fetch_url": "https://de.wikipedia.org/w/index.php?title=Liste%20der%20osmanischen%20Orden%20und%20Ehrenzeichen&action=raw",
+      "mode": "wikitext_list",
+      "status": "complete",
+      "bytes": 4244,
+      "rows": 33,
+      "cache_hit": true,
+      "pagination_exhausted": true
+    },
+    {
+      "language": "it",
+      "title": "Onorificenze dell'Impero ottomano",
+      "page_url": "https://it.wikipedia.org/wiki/Onorificenze_dell%27Impero_ottomano",
+      "fetch_url": "https://it.wikipedia.org/w/index.php?title=Onorificenze%20dell%27Impero%20ottomano&action=raw",
+      "mode": "wikitext_list",
+      "status": "complete",
+      "bytes": 7362,
+      "rows": 51,
+      "cache_hit": true,
+      "pagination_exhausted": true
+    },
+    {
+      "language": "ru",
+      "title": "Награды Османской Империи",
+      "page_url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8",
+      "fetch_url": "https://ru.wikipedia.org/w/index.php?title=%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B%20%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8&action=raw",
+      "mode": "wikitext_list",
+      "status": "complete",
+      "bytes": 5583,
+      "rows": 37,
+      "cache_hit": true,
+      "pagination_exhausted": true
+    },
+    {
+      "language": "en",
+      "title": "Order of the Medjidie",
+      "page_url": "https://en.wikipedia.org/wiki/Order_of_the_Medjidie",
+      "fetch_url": "https://en.wikipedia.org/w/index.php?title=Order%20of%20the%20Medjidie&action=raw",
+      "mode": "wikitext_page",
+      "status": "complete",
+      "bytes": 10780,
+      "rows": 85,
+      "cache_hit": true,
+      "pagination_exhausted": true
+    },
+    {
+      "language": "en",
+      "title": "Ottoman War Medal",
+      "page_url": "https://en.wikipedia.org/wiki/Ottoman_War_Medal",
+      "fetch_url": "https://en.wikipedia.org/w/index.php?title=Ottoman%20War%20Medal&action=raw",
+      "mode": "wikitext_page",
+      "status": "complete",
+      "bytes": 30,
+      "rows": 1,
+      "cache_hit": true,
+      "pagination_exhausted": true
+    }
+  ],
+  "failures": [],
+  "continuation_tokens_exhausted": true,
+  "pagination_notes": [
+    "The English source is a current HTML category page; its visible member and subcategory blocks were exhausted. The three multilingual lists and two dedicated pages were fetched as current raw wikitext, so MediaWiki continuation tokens do not apply."
+  ],
+  "raw_candidate_file": "data/raw_candidates/wikipedia_multilang_ottoman.jsonl",
+  "metadata_cache_directory": "sources/cache/wikipedia_multilang_ottoman",
+  "no_original_image_downloads": true
+}

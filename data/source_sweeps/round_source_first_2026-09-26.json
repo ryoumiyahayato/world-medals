@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-09-26",
+  "method": "SOURCE_FIRST_BULK_INGESTION",
+  "scope": "Ottoman fixed seed matrix — first source-sweep batch",
+  "coverage": {
+    "planned_source_systems": 17,
+    "complete": 9,
+    "partial_or_blocked": 7,
+    "not_started": 1
+  },
+  "complete_sources": [
+    "Wikipedia multilingual fixed lists/pages",
+    "Turkey in the First World War — medals and orders",
+    "GWPDA Turkish medals",
+    "TDV NİŞAN / MADALYA article package",
+    "MedalBook Ottoman full visible catalogue",
+    "eMedals Turkey collections/orders/medals",
+    "Künker Auction 299 lots 7001–7448",
+    "GMIC Türkiye visible board and four specified topics",
+    "Niğde Museum academic article and plates"
+  ],
+  "partial_or_blocked_sources": [
+    "Wikimedia Commons: scoped category queue exhausted; one person-category request remained failed with HTTP 429.",
+    "Ottoman Bank Archive: legacy domain unavailable/unrelated; accessible SALT mirror collection completed at 400 records.",
+    "PICRYL: all 16 topic results attempted; 13 item pages read and 3 fetch failures retained.",
+    "turkishmedals.net decorations Wayback snapshot: archive host unreachable.",
+    "turkishmedals.net campaign-medals Wayback snapshot: archive host unreachable.",
+    "Boğaziçi supplied record: Cloudflare Turnstile access control; not bypassed.",
+    "Turkish Culture Portal supplied page: HTTP 502 and HTTPS 404."
+  ],
+  "not_started_sources": [
+    "Spink Ottoman specialist auctions: no fixed seed URL supplied in the matrix."
+  ],
+  "raw_ingestion": {
+    "candidate_rows_excluding_two_failure_metadata_rows": 2744,
+    "explicit_conflict_rows": 273,
+    "raw_directory": "data/raw_candidates/",
+    "conflict_file": "data/conflicts/ottoman_source_conflicts_2026-09-26.jsonl"
+  },
+  "source_highlights": {
+    "commons": "66 scoped categories fetched; 422 unique file candidates after deduplication.",
+    "wikipedia": "6 fixed pages, 4 languages, 222 raw rows, 0 failed pages.",
+    "kuenker299": "448/448 lots scanned; Ottoman section 7107–7448 contains 342 records; 49 font-map-degraded lots retained unresolved.",
+    "medalbook": "Six index/category pages and 279 visible object URLs; 260 awards plus badge/insignia paths and legacy aliases.",
+    "emedals": "32 collection pages; 658 page URLs collapsed to 363 unique product slugs; 361 products expose normalized image URLs.",
+    "salt_obarsiv": "400 accessible collection child records scanned.",
+    "gmic": "18/18 board pages, 449 listed topics, four specified topics and 51 visible post blocks.",
+    "tdv": "91 raw candidates; 3-page article PDF and one eight-object aggregate reference image cached.",
+    "nigde": "18-page PDF; 15 museum objects with paired plate figures, 13 historical-name candidates and 5 reference figures."
+  },
+  "normalization_checkpoint": {
+    "completed_scope": "MedalBook within-source parent-path grouping only",
+    "provisional_main_award_family_keys": 97,
+    "provisional_related_badge_or_insignia_keys": 17,
+    "matched_existing_family_keys": 27,
+    "unresolved_main_family_keys": 70,
+    "draft_file": "data/normalized_drafts/medalbook_ottoman_families.json",
+    "warning": "The 70 unresolved keys are candidates, not confirmed independent award families; cross-source merging has not yet been run."
+  },
+  "formal_catalogue_delta": {
+    "new_families": 0,
+    "existing_family_new_variants": 0,
+    "new_local_display_images": 0,
+    "html_rebuilt": false,
+    "reason": "Current user instruction made source sweep the first phase and prohibited frequent HTML rebuilds; no raw candidate was promoted before cross-source normalization."
+  },
+  "next_action": "Cross-source NORMALIZE/DEDUPE across the 2744 raw rows, then batch-bind images from Commons, eMedals, Künker and SALT and rebuild index.html once."
+}

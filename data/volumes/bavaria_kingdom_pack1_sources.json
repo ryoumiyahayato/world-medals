@@ -1,0 +1,88 @@
+{
+  "bav-pack1-tapferkeits-history-freundeskreis": {
+    "page": "https://www.freundeskreis-armeemuseum.de/erwerbungen/neueste-erwerbungen/",
+    "source_type": "Freunde des Bayerischen Armeemuseums e.V.专业沿革说明",
+    "summary": "页面说明1794年Carl Theodor为士官和士兵设立勇敢奖励，原称Militärverdienstmedaille，分金、银两级；Bayerische Tapferkeitsmedaille在1918年3月2日成为正式名称。页面同时说明Max-Joseph-Orden于1806年3月1日设立并追溯至1月1日。用于family沿革与连续授予判断，不将其当作本包图片对象页。",
+    "accessed": "2026-09-26"
+  },
+  "bav-pack1-tapferkeits-dhm-object": {
+    "page": "https://www.dhm.de/archiv/magazine/orden/abbs/036.htm",
+    "source_type": "德国历史博物馆历史勋章目录",
+    "object_id": "Kat.-Nr. 21 e; Inv.-Nr. O 57/24",
+    "summary": "DHM目录对象为银质Militär-Verdienstmedaille，巴伐利亚，1799–1806；背面铭文DER TAPFERKEIT；标出1794年10月30日设立、材质银和绸带、尺寸与重量。它是独立的早期银质馆藏对象，用于核对同一连续family、原始名称和铭文，不能误写成Commons金质照片的同一件。",
+    "accessed": "2026-09-26"
+  },
+  "bav-pack1-tapferkeits-front-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bayerische_Tapferkeitsdmedaille_Vorderseite_JS.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bayerische_Tapferkeitsdmedaille_Vorderseite_JS.jpg",
+    "object_id": "Commons file page; no museum accession supplied",
+    "source_type": "Wikimedia Commons图像文件页",
+    "summary": "文件页描述为Bayerische Tapferkeitsdmedaille Gold, Vorderseite；上传者/作者Joachim Specht，2009年，自有作品；实际图像显示完整圆形奖章、肖像、挂环和绶带，绶带上端出框。文件页没有馆藏号或同一实物标识。",
+    "accessed": "2026-09-26",
+    "author": "Joachim Specht",
+    "institution": "未提供馆藏机构；Commons自有作品上传",
+    "license": "Public domain（PD-self；文件页授权）",
+    "downloaded_file": "assets/images/bavaria_kingdom_pack1/tapferkeitsmedaille-gold-front.jpg",
+    "original_file": "originals/bavaria_kingdom_pack1/tapferkeitsmedaille-gold-front.jpg",
+    "dimensions": [496, 960],
+    "image_object_area": "完整圆形奖章与挂环在图内；绶带上端出框；按低清参考保存",
+    "sha256": "7e38fd0cd4ada0c0f94bf40e4d200091a27066869d4a9bbd734a553f131699eb",
+    "visual_check": "2026-09-26实际查看并确认可解码；正面肖像、边缘、挂环和奖章整体轮廓清楚"
+  },
+  "bav-pack1-tapferkeits-reverse-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bayerische_Tapferkeitsdmedaille_Rückseite_JS.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bayerische_Tapferkeitsdmedaille_R%C3%BCckseite_JS.jpg",
+    "object_id": "Commons file page; no museum accession supplied",
+    "source_type": "Wikimedia Commons图像文件页",
+    "summary": "文件页描述为Bayerische Tapferkeitsmedaille, Gold, Rückseite；上传者/作者Joachim Specht，2009年，自有作品；实际图像显示完整圆形奖章、巴伐利亚狮、剑、盾及DER TAPFERKEIT铭文、挂环和绶带。文件页没有馆藏号或同一实物标识，因此与正面图一起作为同版型独立参考，不声称同一件。",
+    "accessed": "2026-09-26",
+    "author": "Joachim Specht",
+    "institution": "未提供馆藏机构；Commons自有作品上传",
+    "license": "Public domain（PD-self；文件页授权）",
+    "downloaded_file": "assets/images/bavaria_kingdom_pack1/tapferkeitsmedaille-gold-reverse.jpg",
+    "original_file": "originals/bavaria_kingdom_pack1/tapferkeitsmedaille-gold-reverse.jpg",
+    "dimensions": [560, 944],
+    "image_object_area": "完整圆形奖章与挂环在图内；绶带上端出框；按低清参考保存",
+    "sha256": "ce5b5713b95847b192cd203a10b38c69da23aac5847286fe9fb2438bb55c494b",
+    "visual_check": "2026-09-26实际查看并确认可解码；狮、剑、盾、DER TAPFERKEIT铭文、边缘和奖章整体轮廓清楚"
+  },
+  "bav-pack1-max-joseph-history-freundeskreis": {
+    "page": "https://www.freundeskreis-armeemuseum.de/erwerbungen/neueste-erwerbungen/",
+    "source_type": "Freunde des Bayerischen Armeemuseums e.V.专业沿革说明",
+    "summary": "页面记载Militär-Max-Joseph-Orden的设立行为发生于1806年3月1日并追溯至1806年1月1日，且分Großkreuz、Kommandeurkreuz、Ritterkreuz三等；用于本记录的family、时期和大十字等级核对。",
+    "accessed": "2026-09-26"
+  },
+  "bav-pack1-max-joseph-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:MMJO_Großkreuz_mit_Stern.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/MMJO_Gro%C3%9Fkreuz_mit_Stern.jpg",
+    "object_id": "Commons file page; photograph by Stoakauz; accession/institution not supplied",
+    "source_type": "Wikimedia Commons图像文件页",
+    "summary": "文件页描述为Militär-Max-Joseph-Orden: Großkreuz mit Stern, Schärpendekoration；照片实际显示一枚完整大十字胸星及部分蓝白绶带/挂章。挂章下缘在画面外，故记录只对应完整胸星，不把出框挂章作为本行完整图。",
+    "accessed": "2026-09-26",
+    "author": "Stoakauz",
+    "institution": "未提供馆藏机构；文件页标为自有作品摄影",
+    "license": "CC BY 3.0；文件页同时列GFDL 1.2或以后版本",
+    "downloaded_file": "assets/images/bavaria_kingdom_pack1/militaer-max-joseph-grand-cross-with-star.jpg",
+    "original_file": "originals/bavaria_kingdom_pack1/militaer-max-joseph-grand-cross-with-star.jpg",
+    "dimensions": [1728, 3072],
+    "image_object_area": "胸星整体轮廓、中心蓝白珐琅、银色星芒均在图内；大十字挂章下缘出框，未计入本行；图像分辨率高于1200长边",
+    "sha256": "0b0a60e8d9e1db2978ea9c4e1ac21cfa4464ab1823206d1c65e93b885d7c1204",
+    "visual_check": "2026-09-26实际查看并确认可解码；胸星完整、绶带和挂章边界可辨，已排除出框挂章"
+  },
+  "bav-pack1-mvo-official-candidate": {
+    "page": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+    "source_type": "Bayerisches Armeemuseum官方对象说明",
+    "summary": "页面标题为Komturkreuz des bayerischen Militär-Verdienstordens 1866；正文说明Ludwig II于1866年7月19日设立MVO，用于补充不满足1806年Max-Joseph-Orden严格条件的军事功绩，也可授予有突出贡献的外国军人和文职人员。作为下一对象包的制度与图源入口。",
+    "accessed": "2026-09-26"
+  },
+  "bav-pack1-army-denkzeichen-blocked": {
+    "page": "https://commons.wikimedia.org/wiki/File:Bayern_Armeedenkzeichen_1866_Vorderseite.jpg",
+    "secondary_page": "https://commons.wikimedia.org/wiki/File:Bayern_Armeedenkzeichen_1866_Rückseite.jpg",
+    "source_type": "Wikimedia Commons候选对象页；DDB馆藏对象作制度/对象交叉入口",
+    "object_id": "DDB item 4BCTTS5LO2PADT3RNPHZAPJQLKZJ6PC7; Stiftung Deutsches Historisches Museum Inv. O 56/260",
+    "summary": "Commons文件页确认1866 Army Commemorative Badge正背的文件名、作者Joachim Specht及Public domain；DDB对象页线索给出DHM馆藏号、1866年、铜质与丝带。当前下载请求返回Wikimedia 429，因此没有把错误响应写入原图目录，留候选/检查点。",
+    "accessed": "2026-09-26",
+    "download_status": "blocked_by_source_rate_limit_429",
+    "next_step": "改用DDB/公共馆藏导出或在统一限速后下载原文件，实际解码与查看后再收录"
+  }
+}

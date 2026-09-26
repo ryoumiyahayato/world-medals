@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "法国第三共和国（1870–1940）首包：继续授予体系与殖民远征纪念奖章",
+  "records": [
+    {
+      "id": "FRA-III-MILITARY-MEDAL-1870-1940-01",
+      "family": "FRA-III-MEDAILLE-MILITAIRE",
+      "name": "法国军事奖章",
+      "original": "Médaille militaire",
+      "date": "1852年1月22日设立；图示模型生产期标为1870–1940",
+      "variant": "第三共和国模型；图示为完整奖章背面（可见“VALEUR ET DISCIPLINE”）；银色月桂冠、金色珐琅圆章；完整黄绿边绶带；反面视图",
+      "views": [],
+      "source_ids": [
+        "fr-pack1-military-medal-1852-law",
+        "fr-pack1-military-medal-iii-object"
+      ]
+    },
+    {
+      "id": "FRA-III-MADAGASCAR-1886-01",
+      "family": "FRA-III-MADAGASCAR-COMMEMORATIVE",
+      "name": "马达加斯加纪念奖章",
+      "original": "Médaille commémorative de Madagascar",
+      "date": "1886年7月31日法律；第一次远征（1883–1886）",
+      "variant": "第一次远征型；`MADAGASCAR` 加条；同一陈列对象正背并列；完整绶带；金属材质未独立检测",
+      "views": [
+        {
+          "key": "FRA-III-MADAGASCAR-1886-FRONT-BACK",
+          "label": "正背并列（同一陈列对象）"
+        }
+      ],
+      "source_ids": [
+        "fr-pack1-madagascar-1886-law",
+        "fr-pack1-madagascar-1886-object"
+      ]
+    },
+    {
+      "id": "FRA-III-MADAGASCAR-1896-01",
+      "family": "FRA-III-MADAGASCAR-COMMEMORATIVE",
+      "name": "马达加斯加纪念奖章",
+      "original": "Médaille commémorative de Madagascar",
+      "date": "1896年1月15日法律；第二次远征（1895）；1897年扩展授予期至1896年10月31日",
+      "variant": "第二次远征型；绶带 `1895` 加条；同一陈列对象正背并列；完整绶带；金属材质未独立检测",
+      "views": [
+        {
+          "key": "FRA-III-MADAGASCAR-1896-FRONT-BACK",
+          "label": "正背并列（同一陈列对象）"
+        }
+      ],
+      "source_ids": [
+        "fr-pack1-madagascar-1896-law",
+        "fr-pack1-madagascar-1896-object"
+      ]
+    }
+  ]
+}

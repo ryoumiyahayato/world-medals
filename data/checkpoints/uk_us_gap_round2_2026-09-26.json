@@ -1,0 +1,59 @@
+{
+  "checkpoint": "uk_us_gap_round2_2026-09-26",
+  "as_of": "2026-09-26",
+  "scope": "已收录英国／美国范围的差集补扫；英国用户提供体系表仅作候选目录，正文图回到对象页取得。",
+  "status": "complete_for_this_batch",
+  "source_progress": {
+    "planned_source_units": 3,
+    "completed_source_units": 3,
+    "partial_source_units": 0,
+    "not_started_source_units": 0,
+    "completed": [
+      "英国勋章体系表四张线索图的差集核对",
+      "Commons/博物馆英国订单对象图：嘉德、蓟花、巴斯、功绩、圣米迦勒及圣乔治、皇家维多利亚、荣誉伙伴",
+      "RMG英国大英帝国勋章对象页 + NHHC美国海军服役/战役奖章可见目录首批单枚图"
+    ]
+  },
+  "counts": {
+    "raw_candidates_reviewed": 37,
+    "uk_clue_images_archived_not_published": 4,
+    "us_nhhc_rows_added": 19,
+    "uk_order_rows_added": 8,
+    "families_added": 27,
+    "variants_added": 27,
+    "local_images_downloaded": 27,
+    "local_images_decoded": 27,
+    "low_resolution_references": 20,
+    "historical_or_drawing_images": 3,
+    "rights_restricted_research_images": 1,
+    "unresolved_visual_candidates": 18,
+    "uk_mod_no_complete_image_candidates_remaining": 12
+  },
+  "checks": {
+    "complete_medal_body_or_star": "27/27 visually checked; no ribbon-only image",
+    "source_table_used_as正文": false,
+    "composite_nhhc_images_promoted": false,
+    "existing_public_index_duplicate_check": "27 selected names absent from current UK 49-family and US 8-family正文 volumes",
+    "binary_decode": "System.Drawing.Image.FromFile succeeded for all 27 files",
+    "sha256_manifest": "27/27 present in data/volumes/uk_us_gap_round2_2026-09-26_manifest.json",
+    "public_files_modified": false
+  },
+  "partial_and_deferred": [
+    "美国NHHC目录中18个候选未入本批：复合图、仪式/人物图、已在正文的Sampson型、无法确认完整章体或其他版型冲突；保留在来源候选缓存中。",
+    "英国MOD原候选仍有12个正式奖章缺完整原图：1914/15 Star、British War Medal、Meritorious Service Medal、Royal Red Cross、Order of Bath、1953 Coronation、Order of British Empire、DSO、Victory Medal、2023 Coronation等；本批优先处理用户表提示的八个英国订单。",
+    "英国嘉德与蓟花采用1884年历史图录插图，荣誉伙伴采用低清图示；这些行已明确图像性质，后续仍应优先替换为可许可的馆藏实物照。",
+    "RMG大英帝国勋章照片对象页明确Record Shot—Do not reproduce，当前仅研究留档，不视为已取得公开出版许可。"
+  ],
+  "next_actions": [
+    "主任务审核27行后再决定是否并入公共HTML/Excel；本子任务不改公共HTML、site_build.py、validate_site.py或progress.json。",
+    "下一英国补图批次优先解决英国MOD 12个无图候选和Order of Bath/OBE的其他主要等级；先找对象页而非继续使用总表。",
+    "下一美国批次复核NHHC剩余18候选的完整视图、不同主要版型及许可。"
+  ],
+  "artifacts": {
+    "volume": "data/volumes/uk_us_gap_round2_2026-09-26.json",
+    "manifest": "data/volumes/uk_us_gap_round2_2026-09-26_manifest.json",
+    "sources": "data/volumes/uk_us_gap_round2_2026-09-26_sources.json",
+    "images": "assets/images/uk_us_gap_round2_2026-09-26/",
+    "source_cache": "sources/uk_us_gap_round2_2026-09-26/"
+  }
+}

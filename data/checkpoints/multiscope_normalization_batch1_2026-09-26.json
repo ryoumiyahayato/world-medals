@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "batch": "multiscope_normalized_batch1",
+  "summary": {
+    "input_rows": {
+      "france": 14,
+      "german_states": 345,
+      "japan": 30,
+      "egypt": 50,
+      "sudan": 71,
+      "total": 510
+    },
+    "normalized_family_records": 153,
+    "by_scope": {
+      "france_second_third_republic": 11,
+      "german_states": 14,
+      "japan_meiji_taisho": 24,
+      "egypt": 50,
+      "sudan": 54
+    },
+    "new_family_candidates": 109,
+    "matched_existing_or_cross_source": 41,
+    "needs_identity_review": 3,
+    "variant_candidates": 239.0,
+    "conflicts": 14,
+    "catalogue_ready_images": 0
+  },
+  "output": "data/normalized/multiscope_normalized_batch1.json",
+  "next_action": "Cross-check provisional Egypt/Sudan and German catalogue families against official/institutional sources, then create image-harvest packs for accepted differences."
+}

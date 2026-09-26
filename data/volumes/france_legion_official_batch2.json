@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-26",
+  "issuer": "法国历代政权",
+  "period": "波旁复辟至第五共和国",
+  "records": [
+    {"id":"FRA-LEGION-RESTORATION-OFFICER-DUDEVANT","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"波旁复辟时期（1814–1830）","variant":"军官章；亨利四世像／三朵百合版；Casimir Dudevant旧藏；制造商待考","views":[{"key":"FRA-LEGION-RESTORATION-OFFICER-DUDEVANT-FRONT","label":"完整正面"}],"source_ids":["paris-musees-mvr-280000768"]},
+    {"id":"FRA-LEGION-RESTORATION-CHEVALIER-HUGO-REDUCTION","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"波旁复辟时期（1825–1837）","variant":"骑士章缩章佩组；复辟模型，附百合勋饰及后加缩章；正背；制造商待考","views":[{"key":"FRA-LEGION-RESTORATION-CHEVALIER-HUGO-REDUCTION-FRONT","label":"完整正面佩组"},{"key":"FRA-LEGION-RESTORATION-CHEVALIER-HUGO-REDUCTION-BACK","label":"完整背面佩组"}],"source_ids":["paris-musees-mvh-240017345"]},
+    {"id":"FRA-LEGION-JULY-OFFICER-VICTOR-HUGO-1837","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"七月王朝模型（约1837）","variant":"军官章；亨利四世像／交叉三色旗版；原配绶带、无玫瑰花结；正背；制造商待考","views":[{"key":"FRA-LEGION-JULY-OFFICER-VICTOR-HUGO-FRONT","label":"完整正面"},{"key":"FRA-LEGION-JULY-OFFICER-VICTOR-HUGO-BACK","label":"完整背面"}],"source_ids":["paris-musees-mvh-240017343"]},
+    {"id":"FRA-LEGION-JULY-OFFICER-VICTOR-HUGO-REDUCTION","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"七月王朝模型（约1837）","variant":"军官章缩章；亨利四世像；绶带及玫瑰花结；制造商待考","views":[{"key":"FRA-LEGION-JULY-OFFICER-VICTOR-HUGO-REDUCTION","label":"完整正面"}],"source_ids":["paris-musees-mvh-240017344"]},
+    {"id":"FRA-LEGION-THIRD-REPUBLIC-CHEVALIER-RENDU","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"第三共和国1870式（馆藏断代1870–1951）","variant":"骑士章；共和国女神像并标1870／交叉三色旗版；正背；制造商待考","views":[{"key":"FRA-LEGION-THIRD-REPUBLIC-CHEVALIER-RENDU-FRONT","label":"完整正面"},{"key":"FRA-LEGION-THIRD-REPUBLIC-CHEVALIER-RENDU-BACK","label":"完整背面"}],"source_ids":["paris-musees-lec-600007795"]},
+    {"id":"FRA-LEGION-1945-GRAND-OFFICER-LECLERC-PLAQUE","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"1945年","variant":"大军官银质星章；共和国女神像并标1870；Leclerc旧藏；制造商待考","views":[{"key":"FRA-LEGION-1945-GRAND-OFFICER-LECLERC-PLAQUE","label":"完整正面"}],"source_ids":["paris-musees-lec-600003776"]},
+    {"id":"FRA-LEGION-POST-1951-COMMANDER-NOHAIN","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"1951年后","variant":"司令级颈章；共和国女神像／交叉三色旗与共和历设立日版；制造商待考","views":[{"key":"FRA-LEGION-POST-1951-COMMANDER-NOHAIN","label":"完整背面与颈绶"}],"source_ids":["paris-musees-lec-600001269"]},
+    {"id":"FRA-LEGION-FIFTH-REPUBLIC-OFFICER-FOUQUER-1971","family":"FRA-LEGION-HONOUR","name":"法国荣誉军团勋章","original":"Légion d’honneur","date":"第五共和国（1971）","variant":"军官章；共和国女神像／交叉三色旗与共和历设立日版；玫瑰花结；Arthus-Bertrand制","views":[{"key":"FRA-LEGION-FIFTH-REPUBLIC-OFFICER-FOUQUER-1971","label":"完整背面"}],"source_ids":["paris-musees-lec-600001087"]}
+  ]
+}

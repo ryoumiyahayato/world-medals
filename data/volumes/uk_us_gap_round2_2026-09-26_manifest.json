@@ -1,0 +1,317 @@
+{
+  "volume": "data/volumes/uk_us_gap_round2_2026-09-26.json",
+  "image_root": "assets/images/uk_us_gap_round2_2026-09-26",
+  "generated_at": "2026-09-26",
+  "verification": {
+    "all_files_exist": true,
+    "all_files_decode": true,
+    "all_views_are_complete_medal_bodies": true,
+    "ribbon_only_images": 0,
+    "source_table_images_used_as正文": 0,
+    "checks": "System.Drawing Image.FromFile + SHA-256; 27/27"
+  },
+  "images": [
+    {
+      "view_key": "GB-ORDER-GARTER-1348-KNIGHT-ILLUSTRATION-1884-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-garter.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:GarterInsigniaBurkes.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/GarterInsigniaBurkes.JPG",
+      "width": 486,
+      "height": 593,
+      "sha256": "dc4552d3505cfd7c7e82c76b7e22f7e5338b69ab51c4ff6185ec2989d251799a",
+      "license": "Public domain / Public Domain Mark 1.0（Commons文件页声明）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-THISTLE-1687-KNIGHT-ILLUSTRATION-1884-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-thistle2.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_ThistleInsignia.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Order_of_the_ThistleInsignia.JPG",
+      "width": 450,
+      "height": 573,
+      "sha256": "88d92b27c5c6ff15052e3d26699af9e394f5f27b709d52e7db0bc0c81b58db73",
+      "license": "Public domain / Public Domain Mark 1.0（Commons文件页声明）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-BATH-1725-GCB-STAR-FINLAND-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-bath2.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Bath,_Great_Britain,_Urho_Kekkonen,_1900-1986_-_National_Museum_of_Finland_-_DSC04006.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Order_of_the_Bath%2C_Great_Britain%2C_Urho_Kekkonen%2C_1900-1986_-_National_Museum_of_Finland_-_DSC04006.JPG",
+      "width": 1920,
+      "height": 1440,
+      "sha256": "5cb530c13d506e0d66cf40c4172fb9d0e7b8a3537a407e4b3299f848bfa3db5a",
+      "license": "CC0 1.0（Commons文件页声明）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-MERIT-1902-NIGHTINGALE-BADGE-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-order_merit_florence.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Merit_awarded_to_Florence_Nightingale_-_National_Army_Museum.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Order_of_Merit_awarded_to_Florence_Nightingale_-_National_Army_Museum.jpg",
+      "width": 960,
+      "height": 1438,
+      "sha256": "f14cdd664048f97a5b9f75658a3f19e6fb3dea7c824e574284e873c84055a910",
+      "license": "CC BY-SA 4.0（Commons文件页；The wub）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-CMG-1818-GC-BADGE-1870-1900-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-cmg_tallinn.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_Saint_Michael_and_Saint_George_grand_cross_badge_(United_Kingdom_1870-1900)_-_Tallinn_Museum_of_Orders.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Order_of_Saint_Michael_and_Saint_George_grand_cross_badge_%28United_Kingdom_1870-1900%29_-_Tallinn_Museum_of_Orders.jpg",
+      "width": 960,
+      "height": 1049,
+      "sha256": "9fea5dd7afa98b711a630a5e8a198f43a833d4226456ca5ff60cfc11f6092895",
+      "license": "CC BY-SA 4.0（Commons文件页；Borodun）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-RVO-1896-GC-BADGE-TALLINN-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-rvo_tallinn.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Royal_Victorian_Order_grand_cross_badge_(United_Kingdom)_-_Tallinn_Museum_of_Orders.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Royal_Victorian_Order_grand_cross_badge_%28United_Kingdom%29_-_Tallinn_Museum_of_Orders.jpg",
+      "width": 960,
+      "height": 1063,
+      "sha256": "1209b126470dfea76da67faa762540352de6d056cefe44652b30fc2a6ce9951c",
+      "license": "CC BY-SA 4.0（Commons文件页；Borodun）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-OBE-1917-GBE-CIVIL-BADGE-POST1937-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-obe_rmg.jpg",
+      "source_page": "https://www.rmg.co.uk/collections/objects/rmgc-object-374545",
+      "direct_image_url": "https://collections.rmg.co.uk/media/657/397/l4738_002.jpg",
+      "width": 621,
+      "height": 1280,
+      "sha256": "aed42e8aa4ea48b2a647b1abf7d0c80b24b1f23ba0adce77f11aa015e3cc7431",
+      "license": "RMG对象页限制：Record Shot—Do not reproduce；本地仅作为研究包留档，出版许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "GB-ORDER-CH-1917-COMPANION-BADGE-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/uk-ch2.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Companion_of_Honour.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Companion_of_Honour.jpg",
+      "width": 225,
+      "height": 328,
+      "sha256": "cd237cffa93faa7d472bac755d416e8d8c73ec2012b2cce88a61ab959eb3552c",
+      "license": "CC BY-SA 2.5（Commons文件页；Robert Prummel）",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-DSM-1939-1941-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-american-defense-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/american-defense-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/american-defense-service-medal/_jcr_content/body/media_asset/image.img.gif/1493655940466.gif",
+      "width": 144,
+      "height": 209,
+      "sha256": "b32d8b9a330d731aeb9b0476a540f0b1cb3b3fd3c02d33e5cc6de6fe85952e0a",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-ASM-1961-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-antarctica-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/antarctic-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/antarctic-service-medal/_jcr_content/body/media_asset_0/image.img.gif/1493828412221.gif",
+      "width": 144,
+      "height": 211,
+      "sha256": "16a0c4eef58499de6752d9777393926b81c20a8615ba3de1398da505749318f2",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-CSM-1937-1942-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-china-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/china-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/china-service-medal/_jcr_content/body/media_asset_0/image.img.gif/1493656290186.gif",
+      "width": 144,
+      "height": 205,
+      "sha256": "046094edc82f9c26e737591f89b42d3d67c1486bb2004d22d0d137cdbe977d3b",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-DCM-1916-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-dominican-campaign-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/dominican-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/dominican-campaign-medal/_jcr_content/body/media_asset_0/image.img.gif/1493408810909.gif",
+      "width": 144,
+      "height": 218,
+      "sha256": "2962998bd694b85a49a5f9c64ba09fae86d30a8c8775b9c018e6b3223fc7a36e",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-HSM-1977-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-humanitarian-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/humanitarian-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/humanitarian-service-medal/_jcr_content/body/media_asset/image.img.gif/1493828576036.gif",
+      "width": 144,
+      "height": 191,
+      "sha256": "24025e8960c2b1ed0c66c7b1956873ac23095d93e70328176d663e40595353fc",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-KCM-1999-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-kosovo-campaign-medal.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/kosovo-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/kosovo-campaign-medal/_jcr_content/body/media_asset_0/image.img.jpg/1493827510307.jpg",
+      "width": 144,
+      "height": 220,
+      "sha256": "628d1d14adee9c14c1184ac442eee232b2df73d9305b3af893656977686d6a65",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-MHA-1949-BERLIN-AIRLIFT-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-medal-for-humane-action-berlin-airlift.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/medal-for-humane-action-berlin-airlift.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/medal-for-humane-action-berlin-airlift/_jcr_content/body/media_asset_0/image.img.gif/1493825904724.gif",
+      "width": 144,
+      "height": 214,
+      "sha256": "af9b47153ddcc8ee913f905baabb4e82ba171f3dc9b28906d7e9b98481e79214",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-MSM-1914-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-mexican-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/mexican-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/mexican-service-medal/_jcr_content/body/media_asset_0/image.img.gif/1493655764295.gif",
+      "width": 144,
+      "height": 204,
+      "sha256": "c69ab67956edc0e8e7a73dec8a9c49b7ff3c177f10a8919466fbe5032bf9c151",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-NDSM-1953-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-national-defense-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/national-defense-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/national-defense-service-medal/_jcr_content/body/media_asset_0/image.img.gif/1493826249998.gif",
+      "width": 144,
+      "height": 202,
+      "sha256": "3ea9b8b36b74be8df136694b7308871874c097a22a6c251850042e71d7c22d55",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-NOSM-1945-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-navy-occupation-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/navy-occupation-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/navy-occupation-service-medal/_jcr_content/body/media_asset_0/image.img.gif/1493813643939.gif",
+      "width": 144,
+      "height": 210,
+      "sha256": "1f8f201c7e000aed20f6441171078018846a702b6235f5ce2a5aeaefbebdb29d",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-NCM-1912-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-nicaraguan-campaign-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/nicaraguan-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/nicaraguan-campaign-medal/_jcr_content/body/media_asset_0/image.img.gif/1493652132209.gif",
+      "width": 144,
+      "height": 220,
+      "sha256": "16714ae648b05c0381252068b45db6a553770caf989046b91582a828acec030a",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-NCM2-1926-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-second-nicaraguan-campaign-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/second-nicaraguan-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/second-nicaraguan-campaign-medal/_jcr_content/body/media_asset/image.img.gif/1492804944726.gif",
+      "width": 144,
+      "height": 207,
+      "sha256": "19476f87776d7d565547bd940a80a2b3b646eb5bca87aa704c57a71c2c930fc3",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-CWM-1908-USN-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-usn-civil-war-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/usn-civil-war-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/usn-civil-war-medal/_jcr_content/body/media_asset_0/image.img.gif/1493409191876.gif",
+      "width": 144,
+      "height": 231,
+      "sha256": "b543ae3f42d7b72b8fe9da5cc251f3c0a4eac7d2bba8f7164312ad44dc6123fe",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-CUPM-1909-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-usn-cuban-pacification-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/usn-cuban-pacification-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/usn-cuban-pacification-medal/_jcr_content/body/media_asset_0/image.img.gif/1493651742740.gif",
+      "width": 144,
+      "height": 219,
+      "sha256": "414d2839dcb0ece7d1f1a62f4b14447e43d8b87d76052078ddaa6fa12743eb6d",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-PC-MEDAL-1908-USN-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-usn-philippine-campaign-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/usn-philippine-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/usn-philippine-campaign-medal/_jcr_content/body/media_asset_0/image.img.gif/1493410174286.gif",
+      "width": 144,
+      "height": 211,
+      "sha256": "5c5b3b95ecace3a716ffd0e0fe01dec9547ea957f8e1335ec2f6ee46cf97abae",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-SCM-1898-USN-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-usn-spanish-campaign-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/usn-spanish-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/usn-spanish-campaign-medal/_jcr_content/body/media_asset_0/image.img.gif/1493409698798.gif",
+      "width": 144,
+      "height": 229,
+      "sha256": "69d780adcca786953957fad2e34db4c53e4e7e92165606234269596e4630ff54",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-WWIVM-1917-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-world-war-i-victory-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/world-war-i-victory-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/world-war-i-victory-medal/_jcr_content/body/image.img.gif/1459180965605.gif",
+      "width": 144,
+      "height": 207,
+      "sha256": "b6751b4a1e8682006f014b84d93e50cd4a3fd0adf41db6ca154e494fe7120f28",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-WWIIVM-1945-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-world-war-ii-victory-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/world-war-ii-victory-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/world-war-ii-victory-medal/_jcr_content/body/media_asset/image.img.gif/1492804528955.gif",
+      "width": 144,
+      "height": 214,
+      "sha256": "16006e4e28b2c9f2bff45e531b5faf9598cf9a976501d9ac2945769216f9742e",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    },
+    {
+      "view_key": "US-YSM-1926-1932-STANDARD-VIEW-1",
+      "local_path": "assets/images/uk_us_gap_round2_2026-09-26/us-yangtze-service-medal.gif",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/yangtze-service-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/yangtze-service-medal/_jcr_content/body/media_asset/image.img.gif/1493657763731.gif",
+      "width": 144,
+      "height": 205,
+      "sha256": "f15d2160eb049b085d975ba4d63d041e2410cbaae20197e829da9aecec721067",
+      "license": "NHHC页面图像；再利用许可待核",
+      "creator": "见来源页"
+    }
+  ],
+  "counts": {
+    "distinct_award_families": 27,
+    "variant_rows": 27,
+    "complete_image_files": 27
+  }
+}

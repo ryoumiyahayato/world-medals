@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-26",
+  "images": [
+    {
+      "view_key": "JPN-KOREA-ANNEXATION-DESIGN-F",
+      "local_path": "assets/images/japan_official_commons_batch1/korean_annexation_design_front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Design_of_Korean_Annexation_Commemorative_Medal_front.jpg",
+      "license": "NDL历史图式；Commons保留来源法域说明",
+      "dimensions": [472, 666],
+      "sha256": "5c3988a88455d37a702b32de4fd61528f04f8f47f972b42f40db73ffe0bd6c4f",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

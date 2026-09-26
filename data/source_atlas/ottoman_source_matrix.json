@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "scope_id": "ottoman_empire",
+  "scope_label": "Ottoman Empire / historical Turkey",
+  "seed_import": "data/source_sweeps/ottoman_seed_matrix_2026-09-26.json",
+  "source_ids": [
+    "commons_ottoman",
+    "wikipedia_multilang_ottoman",
+    "turkeyswar_ottoman",
+    "turkishmedals_decorations_ottoman",
+    "turkishmedals_campaigns_ottoman",
+    "gwpda_ottoman",
+    "ottoman_bank_archive_awards",
+    "tdv_nisan_madalya",
+    "medalbook_ottoman",
+    "emedals_ottoman",
+    "kuenker299_ottoman",
+    "spink_ottoman",
+    "gmic_ottoman",
+    "bogazici_ottoman",
+    "nigde_academic_ottoman",
+    "picryl_ottoman",
+    "turkishculture_ottoman"
+  ],
+  "coverage": {
+    "planned": 17,
+    "completed": 9,
+    "partial": 3,
+    "blocked": 4,
+    "not_started": 1
+  },
+  "next_action": "Cross-source normalize/dedupe the 2744 raw rows, then batch-bind Commons, eMedals, Künker and SALT images. Discover a concrete Spink archive entry autonomously rather than asking the user for a seed."
+}

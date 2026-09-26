@@ -1,0 +1,159 @@
+{
+  "as_of": "2026-09-26",
+  "issuer": "日本帝国中央政府",
+  "period": "明治时期（1868–1912）",
+  "records": [
+    {
+      "id": "JPN-MEIJI-CHRYSANTHEMUM-GRAND-CORDON-MET-60256",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "name": "大勲位菊花大綬章",
+      "original": "大勲位菊花大綬章 / Grand Cordon of the Supreme Order of the Chrysanthemum",
+      "date": "1876年（明治9年）制定；图示Met藏品06.434a–c，馆方定为19世纪末",
+      "variant": "大綬章正章；同一藏品另含副章星章；绶带、章体及悬挂结构完整；具体材质待核；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-CHRYSANTHEMUM-GRAND-CORDON-SASH-F",
+          "label": "正章与大绶整体正面"
+        },
+        {
+          "key": "JPM-CHRYSANTHEMUM-GRAND-CORDON-STAR-F",
+          "label": "副章星章正面"
+        },
+        {
+          "key": "JPM-CHRYSANTHEMUM-GRAND-CORDON-STAR-B",
+          "label": "副章星章背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-chrysanthemum",
+        "jpn-round2-met-chrysanthemum-object",
+        "jpn-round2-met-chrysanthemum-sash-front",
+        "jpn-round2-met-chrysanthemum-star-front",
+        "jpn-round2-met-chrysanthemum-star-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-MEDAL-HONOUR-RED-RIBBON-MET-60335",
+      "family": "JPN-MEDAL-HONOUR-RED-RIBBON",
+      "name": "紅綬褒章",
+      "original": "紅綬褒章 / Medal with Red Ribbon",
+      "date": "1881年（明治14年）制定；图示Met藏品06.443，馆方定为19世纪末",
+      "variant": "红绶；Met对象页仅将介质记为Red ribbon，具体金属材质待核；同一件实物正背；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-MEDAL-HONOUR-RED-RIBBON-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-MEDAL-HONOUR-RED-RIBBON-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-hosho",
+        "jpn-round2-archives-history",
+        "jpn-round2-met-red-ribbon-object",
+        "jpn-round2-met-red-ribbon-front",
+        "jpn-round2-met-red-ribbon-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-MEDAL-HONOUR-GREEN-RIBBON-MET-60336",
+      "family": "JPN-MEDAL-HONOUR-GREEN-RIBBON",
+      "name": "緑綬褒章",
+      "original": "緑綬褒章 / Medal with Green Ribbon",
+      "date": "1881年（明治14年）制定；图示Met藏品06.444，馆方定为19世纪末",
+      "variant": "绿绶；Met对象页仅将介质记为Green ribbon，具体金属材质待核；同一件实物正背；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-MEDAL-HONOUR-GREEN-RIBBON-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-MEDAL-HONOUR-GREEN-RIBBON-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-hosho",
+        "jpn-round2-archives-history",
+        "jpn-round2-met-green-ribbon-object",
+        "jpn-round2-met-green-ribbon-front",
+        "jpn-round2-met-green-ribbon-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-MEDAL-HONOUR-BLUE-RIBBON-MET-60337",
+      "family": "JPN-MEDAL-HONOUR-BLUE-RIBBON",
+      "name": "藍綬褒章",
+      "original": "藍綬褒章 / Medal with Blue Ribbon",
+      "date": "1881年（明治14年）制定；图示Met藏品06.445，馆方定为19世纪末",
+      "variant": "藍绶；Met对象页仅将介质记为Blue ribbon，具体金属材质待核；同一件实物正背；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-MEDAL-HONOUR-BLUE-RIBBON-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-MEDAL-HONOUR-BLUE-RIBBON-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-hosho",
+        "jpn-round2-archives-history",
+        "jpn-round2-met-blue-ribbon-object",
+        "jpn-round2-met-blue-ribbon-front",
+        "jpn-round2-met-blue-ribbon-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-MEDAL-HONOUR-YELLOW-RIBBON-GOLD-MET-60338",
+      "family": "JPN-MEDAL-HONOUR-YELLOW-RIBBON",
+      "name": "黄綬褒章（旧式）",
+      "original": "黄綬褒章 / Medal with Yellow Ribbon",
+      "date": "明治末期实物；Met藏品06.446，馆方定为19世纪末；制度起始年待核",
+      "variant": "黄綬旧式；Commons对象分类为Gold Medal with Yellow Ribbon；Met API仅记Yellow ribbon；具体材质留待原始制度资料核对；同一件实物正背；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-MEDAL-HONOUR-YELLOW-RIBBON-GOLD-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-MEDAL-HONOUR-YELLOW-RIBBON-GOLD-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-hosho",
+        "jpn-round2-met-yellow-gold-object",
+        "jpn-round2-met-yellow-gold-front",
+        "jpn-round2-met-yellow-gold-back"
+      ]
+    },
+    {
+      "id": "JPN-MEIJI-MEDAL-HONOUR-YELLOW-RIBBON-SILVER-MET-60340",
+      "family": "JPN-MEDAL-HONOUR-YELLOW-RIBBON",
+      "name": "黄綬褒章（旧式）",
+      "original": "黄綬褒章 / Medal with Yellow Ribbon",
+      "date": "明治末期实物；Met藏品06.447，馆方定为19世纪末；制度起始年待核",
+      "variant": "黄綬旧式；Commons对象分类为Silver Medal with Yellow Ribbon；Met API仅记Yellow ribbon；具体材质留待原始制度资料核对；同一件实物正背；原图完整但低清参考",
+      "views": [
+        {
+          "key": "JPM-MEDAL-HONOUR-YELLOW-RIBBON-SILVER-F",
+          "label": "正面"
+        },
+        {
+          "key": "JPM-MEDAL-HONOUR-YELLOW-RIBBON-SILVER-B",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "jpn-round2-cao-hosho",
+        "jpn-round2-met-yellow-silver-object",
+        "jpn-round2-met-yellow-silver-front",
+        "jpn-round2-met-yellow-silver-back"
+      ]
+    }
+  ]
+}

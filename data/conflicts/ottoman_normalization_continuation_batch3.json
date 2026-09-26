@@ -1,0 +1,305 @@
+{
+  "schema": "ottoman-normalization-conflicts-v2",
+  "batch_id": "ottoman_normalization_continuation_batch3",
+  "as_of": "2026-09-26",
+  "source_scope": "Künker 299 raw rows 177–334, plus local TDV/Obarsiv raw cross-source records",
+  "conflicts": [
+    {
+      "conflict_id": "ROW-177-WITHDRAWN",
+      "scope": "row 177 / lot 7177",
+      "severity": "closed_for_batch",
+      "source_rows": [
+        177
+      ],
+      "description": "The catalogue explicitly marks the lot as withdrawn.",
+      "resolution": "Excluded; no family or image binding."
+    },
+    {
+      "conflict_id": "ROW-178-FONT-MAP",
+      "scope": "row 178 / lot 7178",
+      "severity": "open",
+      "source_rows": [
+        178
+      ],
+      "description": "Title is blank and extracted text is font-map degraded; page-level images cannot establish identity.",
+      "resolution": "Keep unresolved; do not infer from neighboring lots."
+    },
+    {
+      "conflict_id": "SIKKE-CEDID-DATE",
+      "scope": "NEW-SIKKE-CEDID-1754",
+      "severity": "open",
+      "source_rows": [
+        182
+      ],
+      "description": "Künker gives 1754 [AH 1168]; TDV raw record gives 1168 (1755).",
+      "resolution": "Keep both source datings; no forced Gregorian conversion."
+    },
+    {
+      "conflict_id": "HILAL-VS-CRESCENT-ORDER",
+      "scope": "NEW-HILAL-MEDAL-1808",
+      "severity": "open",
+      "source_rows": [
+        188
+      ],
+      "description": "Künker describes a non-wearable silver Hilal medal; it is not the existing Crescent Order. Obarsiv cross record is a gold Hilal object, so material/identity requires review.",
+      "resolution": "Retain separate provisional medal candidate; do not merge with NEW-CRESCENT-ORDER."
+    },
+    {
+      "conflict_id": "CAMI-NUSRET-ALIAS",
+      "scope": "NEW-SCUTARI-1831",
+      "severity": "open",
+      "source_rows": [
+        189,
+        190,
+        191,
+        192,
+        193
+      ],
+      "description": "Câmi-i Nusret / Zafer Camii and İşkodra are source aliases for the same campaign-medal family, with distinct materials and wearable forms.",
+      "resolution": "Bind to existing NEW-SCUTARI-1831 with explicit Câmi-i Nusret variants."
+    },
+    {
+      "conflict_id": "TAKDIR-HUNER-LIFESAVING",
+      "scope": "NEW-TAKDIR-I-HUNER",
+      "severity": "open",
+      "source_rows": [
+        244,
+        245
+      ],
+      "description": "Batch1 contains a gold “Takdîr-i Hüner” title under OTT-LIFESAVING; TDV names the talent/merit record Tahsîn-i Hüner ve Mârifet. These are not sufficient for a merge.",
+      "resolution": "Keep a separate provisional family and flag the existing cross-family title conflict."
+    },
+    {
+      "conflict_id": "AGRI-TYPE-I-III",
+      "scope": "OTT-AGRI-INDUSTRY",
+      "severity": "open",
+      "source_rows": [
+        246,
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "description": "The 1863 Hirfet/Sanat/Ticaret medal and the 1893 agricultural/industrial exhibition medals are related series but distinct dated types.",
+      "resolution": "Use separate type/date variant keys within the existing family."
+    },
+    {
+      "conflict_id": "CRETE-AWARD-ISSUE-DATE",
+      "scope": "NEW-CRETE-1869",
+      "severity": "open",
+      "source_rows": [
+        249,
+        250
+      ],
+      "description": "Künker describes 1868 campaign context; Obarsiv records 1868 and actual issue 1869.",
+      "resolution": "Preserve both award and issue dating."
+    },
+    {
+      "conflict_id": "RUSYA-VS-PLEVNA",
+      "scope": "NEW-RUSSO-TURKISH-WAR-1877",
+      "severity": "open",
+      "source_rows": [
+        251,
+        252,
+        253,
+        254
+      ],
+      "description": "General Rusya Muhârebesi title is not identical to the existing Plevna-specific family.",
+      "resolution": "Continue NEW-RUSSO-TURKISH-WAR-1877 separately; do not merge into OTT-PLEVNA."
+    },
+    {
+      "conflict_id": "ALMAN-MULAKAT-SINGLE_SOURCE",
+      "scope": "NEW-ALMAN-MULAKAT-1889",
+      "severity": "open",
+      "source_rows": [
+        279,
+        280,
+        281
+      ],
+      "description": "Künker provides object-level title and variants but no independent cross source in the local cache.",
+      "resolution": "Retain provisional family, not admitted."
+    },
+    {
+      "conflict_id": "AGRI-1893-VS-EXISTING-1892",
+      "scope": "OTT-AGRI-INDUSTRY",
+      "severity": "open",
+      "source_rows": [
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "description": "Existing family has earlier 1892/1893 catalogue lines; this segment explicitly describes the October 1893 exhibition.",
+      "resolution": "Keep Type III 1893 keys; do not collapse dates."
+    },
+    {
+      "conflict_id": "ANADOLU-1895-1896",
+      "scope": "NEW-ANADOLU-MUSABININE-1895",
+      "severity": "open",
+      "source_rows": [
+        304
+      ],
+      "description": "Künker says 1895 [AH 1314], TDV gives 1313 (1895–96), Obarsiv object is dated 1896.",
+      "resolution": "Preserve source dating range and flag conflict."
+    },
+    {
+      "conflict_id": "SEHID-AID-TITLE-ALIAS",
+      "scope": "NEW-SEHID-EVLAD-MALUL-ASKER-1897",
+      "severity": "open",
+      "source_rows": [
+        311,
+        312
+      ],
+      "description": "Künker uses an exhibition title; Obarsiv uses Evlâd-ı Şühedaya ve Malûl Askerlere İane Madalyası for the same aid issue.",
+      "resolution": "Keep title alias in family notes; do not split."
+    },
+    {
+      "conflict_id": "HEJAZ-GENERAL-VS-MAAN",
+      "scope": "OTT-HEJAZ-RAIL / NEW-HEJAZ-MAAN-1904",
+      "severity": "open",
+      "source_rows": [
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        325,
+        326
+      ],
+      "description": "General Hejaz Railway medal and the specific Ma’an station-opening medal are distinct issues.",
+      "resolution": "Retain separate family for Ma’an; keep general variants in OTT-HEJAZ-RAIL."
+    },
+    {
+      "conflict_id": "HARIR-MATERIAL",
+      "scope": "NEW-HARIR-MUSABAKA-1904",
+      "severity": "open",
+      "source_rows": [
+        323,
+        324
+      ],
+      "description": "Künker title/row 324 says silver medal but description says bronze; Obarsiv cross record is bronze.",
+      "resolution": "Preserve row 324 as bronze non-wearable with catalogue contradiction."
+    },
+    {
+      "conflict_id": "CONSTITUTION-HILAL",
+      "scope": "NEW-CONSTITUTION-HILAL-1909",
+      "severity": "open",
+      "source_rows": [
+        329,
+        330,
+        331
+      ],
+      "description": "Hilâlli Kânûn-ı Esâsî resembles the Constitution medal but has two crescents and a not-yet-established purpose.",
+      "resolution": "Keep separate provisional family."
+    },
+    {
+      "conflict_id": "ROW-328-COIN-PROOF",
+      "scope": "row 328 / lot 7328",
+      "severity": "closed_for_batch",
+      "source_rows": [
+        328
+      ],
+      "description": "Catalogue identifies a proof strike of an Ottoman coin, not a formal award.",
+      "resolution": "Excluded as coin/currency/proof strike."
+    },
+    {
+      "conflict_id": "KUNKER-PAGE-IMAGE-BINDING",
+      "scope": "all selected Künker rows",
+      "severity": "open",
+      "source_rows": [
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        196,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        212,
+        213,
+        223,
+        228,
+        244,
+        245,
+        246,
+        247,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        279,
+        280,
+        281,
+        282,
+        283,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        311,
+        312,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ],
+      "description": "Cached PDF has page-level embedded image references, but lot-to-image binding remains pending and no lot-specific local image was downloaded or verified.",
+      "resolution": "Record image_refs as metadata only; all local image statuses remain not downloaded/not verified."
+    }
+  ],
+  "summary": {
+    "total_conflicts": 18,
+    "open_conflicts": 16,
+    "closed_for_batch": 2,
+    "public_files_changed": []
+  }
+}

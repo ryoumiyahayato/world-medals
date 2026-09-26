@@ -1,0 +1,291 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "奥斯曼帝国（约1299–1922）Commons开放许可首包：独立章种与重要版型",
+  "records": [
+    {
+      "id": "OTT-MECLIS-MEBUSAN-01",
+      "family": "OTT-MECLIS-MEBUSAN",
+      "name": "奥斯曼议院勋章",
+      "original": "Order of the Ottoman Chamber of Deputies",
+      "date": "约1912–1917（Commons文件元数据日期范围）",
+      "variant": "议院勋章；大型白色珐琅星芒挂章；正面完整实物照；材质与具体等级待考",
+      "views": [
+        {
+          "key": "OTT-MECLIS-MEBUSAN-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-a2dd8865ee29cb54"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-KHEDIVE-JUSTICE-01",
+      "family": "OTT-KHEDIVE-JUSTICE",
+      "name": "赫迪夫正义勋章",
+      "original": "Khedive the Order of Justice",
+      "date": "日期待考（文件页未给年代）",
+      "variant": "Order of Justice；大型银色徽章；红绿绶带与附属挂件完整；等级待考；赫迪夫体系（奥斯曼宗主权时期）",
+      "views": [
+        {
+          "key": "OTT-KHEDIVE-JUSTICE-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-965d641c46b1c8c7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-MEDJ-STAR-I-COMMONS-01",
+      "family": "OTT-MEDJ",
+      "name": "麦吉迪勋章",
+      "original": "Order of the Medjidie",
+      "date": "1852年设立；图示一等版",
+      "variant": "一等胸星；Tallinn Museum of Orders文件明确标为1st class star；完整星章正面；无绶带",
+      "views": [
+        {
+          "key": "OTT-MEDJ-STAR-I-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-0e5ca04411a35e95"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-MEDJ-COMMANDER-III-COMMONS-01",
+      "family": "OTT-MEDJ",
+      "name": "麦吉迪勋章",
+      "original": "Ordre du Medjidié 3ème classe (Commandeur)",
+      "date": "1852年设立；图示三等",
+      "variant": "三等／Commandeur；完整徽章正面；红色珐琅环与中央图章；无绶带",
+      "views": [
+        {
+          "key": "OTT-MEDJ-COMMANDER-III-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-4faae359f75240ee"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CRIMEA-BRITISH-AM802391-01",
+      "family": "OTT-CRIMEA",
+      "name": "克里米亚战争奖章",
+      "original": "Turkish Crimea Medal",
+      "date": "1854–1856（奖章名称与战争时期）",
+      "variant": "英国发行版；银质圆章；CRIMEA 1855及联合军旗/武器正面；完整粉绿绶带；同一实物正面",
+      "views": [
+        {
+          "key": "OTT-CRIMEA-BRITISH-AM802391-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-3a00d71c6a41927b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CANAKKALE-ER-01",
+      "family": "OTT-CANAKKALE",
+      "name": "恰纳卡莱奖章",
+      "original": "Çanakkale er madalyası",
+      "date": "日期待考（恰纳卡莱战役时期）",
+      "variant": "士兵版（er）；五角星中央奥斯曼徽记；盒装正面完整实物照；材质待考",
+      "views": [
+        {
+          "key": "OTT-CANAKKALE-ER-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-b9231a1a068e294b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CANAKKALE-SUBAY-01",
+      "family": "OTT-CANAKKALE",
+      "name": "恰纳卡莱奖章",
+      "original": "Çanakkale subay madalyası",
+      "date": "日期待考（恰纳卡莱战役时期）",
+      "variant": "军官版（subay）；红珐琅五角星、中央奥斯曼徽记；正面完整实物照；无绶带",
+      "views": [
+        {
+          "key": "OTT-CANAKKALE-SUBAY-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-ddd1ddb5020ced32"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SEFKAT-STAR-I-COMMONS-01",
+      "family": "OTT-SEFKAT",
+      "name": "谢夫卡特慈善勋章",
+      "original": "Order of Charity / Şefkat Order",
+      "date": "1900年文件标题所标一等实物",
+      "variant": "一等胸星；Order of Charity 1st class star；完整星章正面；无绶带",
+      "views": [
+        {
+          "key": "OTT-SEFKAT-STAR-I-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-0ef8cc16f0b034af"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SEFKAT-SASH-I-COMMONS-01",
+      "family": "OTT-SEFKAT",
+      "name": "谢夫卡特慈善勋章",
+      "original": "Order of Charity 1st class badge sash",
+      "date": "1900年文件标题所标一等实物",
+      "variant": "一等大绶章挂章；完整徽章、绶带结与大绶带；正面实物照",
+      "views": [
+        {
+          "key": "OTT-SEFKAT-SASH-I-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-4b8900d80a64b174"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-IMTIYAZ-MEDAL-SMALL-01",
+      "family": "OTT-IMTIYAZ-MEDAL",
+      "name": "伊姆蒂亚兹奖章",
+      "original": "Küçük İmtiyaz Madalyası",
+      "date": "日期待考（文件标题标23.5毫米、6.1克）",
+      "variant": "小型银质版；23.5 mm／6.1 g；同图显示正背两面完整；低清参考",
+      "views": [
+        {
+          "key": "OTT-IMTIYAZ-MEDAL-SMALL-01-FRONT",
+          "label": "正背并列（同一来源图像文件）"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-3ae887eaccaf474e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-OSM-STAR-I-TYPE1-COMMONS-01",
+      "family": "OTT-OSM",
+      "name": "奥斯曼尼耶勋章",
+      "original": "Order of Osmanieh",
+      "date": "1862年设立；图示一等",
+      "variant": "一等胸星；Tallinn Museum of Orders文件标为1st class star1；完整星章正面",
+      "views": [
+        {
+          "key": "OTT-OSM-STAR-I-TYPE1-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-a9e47c8b65508c5c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-OSM-BADGE-I-COMMONS-01",
+      "family": "OTT-OSM",
+      "name": "奥斯曼尼耶勋章",
+      "original": "Order of Osmanieh",
+      "date": "1862年设立；图示一等",
+      "variant": "一等挂章；Tallinn Museum of Orders文件标为1st class badge；完整挂章正面；无绶带",
+      "views": [
+        {
+          "key": "OTT-OSM-BADGE-I-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-5c66e3afcce79e10"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-OSM-STAR-I-TYPE2-COMMONS-01",
+      "family": "OTT-OSM",
+      "name": "奥斯曼尼耶勋章",
+      "original": "Order of Osmanieh",
+      "date": "1862年设立；图示一等",
+      "variant": "一等胸星；Tallinn Museum of Orders文件标为1st class star2；另一星章版型；完整正面",
+      "views": [
+        {
+          "key": "OTT-OSM-STAR-I-TYPE2-COMMONS-01-FRONT",
+          "label": "正面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-731fa0d383525578"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CRETE-ATIK-GIRIT-01",
+      "family": "OTT-CRETE-ATIK-GIRIT",
+      "name": "古克里特奖章",
+      "original": "Atik Girit Madalyası",
+      "date": "1866–1869（克里特起义时期线索）",
+      "variant": "古克里特／克里特战役奖章；同一图像文件显示正背两面完整；材质待考",
+      "views": [
+        {
+          "key": "OTT-CRETE-ATIK-GIRIT-01-FRONT",
+          "label": "正背并列（同一来源图像文件）"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-78b70dbfc111468e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SEHIT-EVLAD-MALUL-AID-01",
+      "family": "OTT-SEHIT-EVLAD-MALUL-AID",
+      "name": "阵亡者遗孤及残疾军人救济奖章",
+      "original": "Şehit evladı / malül askere iane madalyası",
+      "date": "日期待考",
+      "variant": "救济奖章；同一图像文件显示正背两面完整；材质与授予制度待考",
+      "views": [
+        {
+          "key": "OTT-SEHIT-EVLAD-MALUL-AID-01-FRONT",
+          "label": "正背并列（同一来源图像文件）"
+        }
+      ],
+      "source_ids": [
+        "commons-ottoman-6d65b9b494953169"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-09-26",
+  "issuer": "阿拉伯埃及共和国总统府",
+  "period": "埃及共和国（1953–）",
+  "images": [
+    {
+      "key": "egy-commons-carter-nile-collar",
+      "record_id": "EGY-REPUBLIC-NILE-COLLAR-CARTER-1979",
+      "view_key": "EGY-NILE-COLLAR-CARTER-1979-F",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-002.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Great_Order_of_the_Nile,_Carter_Museum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Great_Order_of_the_Nile%2C_Carter_Museum.jpg",
+      "artist": "ArtemisiaGentileschiFan",
+      "license": "CC0 1.0",
+      "dimensions": [4032, 3024],
+      "bytes": 633209,
+      "sha256": "217abf80f7e841b251ba95da233cf676efaaa6e983da6d6803ec6f03a2643d20",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

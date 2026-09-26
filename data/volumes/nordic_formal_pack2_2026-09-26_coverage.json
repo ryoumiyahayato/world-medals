@@ -1,0 +1,38 @@
+{
+  "coverage_version": "1.0",
+  "batch_id": "NORDIC-FORMAL-P2-20260926",
+  "as_of": "2026-09-26",
+  "source_work_units": {
+    "planned": 8,
+    "completed": 5,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 2,
+    "unit_definition": "每项为本收口批次的一项来源或范围活动；HTTP 429 作为瑞典替代图像活动的部分完成原因，不另重复计入 blocked。",
+    "units": [
+      {"id": "sweden-shm-candidate-pool", "status": "completed_metadata_review", "coverage": "5 candidate families / 15 selected variant candidates reviewed from cached candidate file; media outage means zero SHM images promoted."},
+      {"id": "sweden-royal-house-order-overview", "status": "completed", "coverage": "Serafimerorden establishment year and one-class/knight context recorded from official overview."},
+      {"id": "sweden-serafimer-alternative-image", "status": "completed", "coverage": "One complete Livrustkammaren Serafimer knight breast-star image acquired from Commons; object and file page, rights, full-resolution original decoded and visually checked."},
+      {"id": "sweden-other-alternative-images", "status": "partial", "coverage": "Alternative file-page leads existed for other Swedish families; one direct image request returned HTTP 429, then all Commons image requests stopped. No unavailable image counted."},
+      {"id": "norway-official-order-record", "status": "completed_cached_record", "coverage": "Existing local source matrix retains official Royal House date/class review; not reopened during closeout."},
+      {"id": "norway-st-olav-star-image", "status": "completed", "coverage": "One complete Fram Museum display photograph acquired, decoded and visually checked; grade remains unknown."},
+      {"id": "denmark-source-roll-forward", "status": "not_started", "coverage": "Existing matrix leads not harvested after parent-directed immediate closeout."},
+      {"id": "iceland-source-roll-forward", "status": "not_started", "coverage": "Existing matrix leads not harvested after parent-directed immediate closeout."}
+    ]
+  },
+  "record_counts": {
+    "raw_candidate_records_added": 0,
+    "cached_swedish_candidate_families_reviewed": 5,
+    "cached_swedish_variant_candidates_reviewed": 15,
+    "independent_families_promoted": 2,
+    "variant_rows_promoted": 2,
+    "source_photographs_downloaded_and_decoded": 2,
+    "display_files": 2,
+    "derivative_files": 1,
+    "selected_rows_missing_images": 0,
+    "unresolved_swedish_candidate_families": 5,
+    "unresolved_swedish_variant_candidates": 15,
+    "unresolved_or_not_harvested_denmark_iceland_scopes": 2
+  },
+  "coverage_boundary": "本包只包括瑞典 Serafimerorden 与挪威 St. Olav 两个有本地图像的独立授勋体系。SHM 的五个候选家族/十五版型仍为候选，尽管 Serafimerorden 家族在本卷由另一件 Livrustkammaren 图像得到一行入编；这不等于 SHM 候选版型逐项解决。丹麦、冰岛及其余瑞典家族不在本批正式行内。"
+}

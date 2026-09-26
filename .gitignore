@@ -1,0 +1,24 @@
+# Local dependency/runtime state
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Re-downloadable research caches and duplicate source material
+sources/
+originals/
+backups/
+tmp/
+outputs/
+assets/raw/
+assets/embeds/
+# Only images referenced by the current offline HTML are force-added to Git.
+assets/images/**
+data/review/
+data/staging/
+contact_sheet.jpg
+System.Collections.Specialized.OrderedDictionary
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.log

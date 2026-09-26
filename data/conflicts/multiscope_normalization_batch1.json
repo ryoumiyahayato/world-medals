@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "conflicts": [
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-LIBERATION-OF-KUWAIT-MEDAL",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1990,
+        1991
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-MEDAL-OF-6TH-OCTOBER",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1973,
+        1974
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-MEDAL-OF-COMBATANTS-OF-OCTOBER-1973",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1973,
+        1974
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-MEDAL-OF-THE-GOLDEN-ANNIVERSARY-OF-THE-23-JULY-REVOLUTION",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1952,
+        1973,
+        2002
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-THE-SINAI-STAR",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1972,
+        1974
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-MUHAMMAD-ALI",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1915,
+        1919
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-MERIT",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1953,
+        1972
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-THE-MILITARY-STAR",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1953,
+        1972
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-THE-REPUBLIC",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1953,
+        1958,
+        1972,
+        1984
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-ORDER-OF-THE-VIRTUES",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1915,
+        1953
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-PALESTINE-MEDAL",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1948,
+        1952
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-MEDAL-OF-LONG-SERVICE-AND-GOOD-EXAMPLE",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1959,
+        1972
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "egypt",
+      "family_id": "EGY-CAND-MEDAL-OF-TRAINING",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1959,
+        1973
+      ],
+      "status": "UNRESOLVED"
+    },
+    {
+      "scope_id": "sudan",
+      "family_id": "SDN-CAND-DEFENCE-FORCE-GENERAL-SERVICE-MEDAL",
+      "type": "DATE_CANDIDATES",
+      "values": [
+        1933,
+        1940,
+        1941
+      ],
+      "status": "UNRESOLVED"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "俄罗斯帝国：来源优先首包",
+  "records_file": "data/volumes/russian_empire_pack1.json",
+  "image_directory": "assets/images/russia_pack1/",
+  "counts": {
+    "distinct_award_families": 3,
+    "variant_rows": 3,
+    "complete_image_files": 4
+  },
+  "images": [
+    {
+      "view_key": "RUS-IMG-02-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-02.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_St_Andrew.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Order_of_St_Andrew.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "width": 4032,
+      "height": 3024,
+      "sha256": "348f0e821f5887eacf229778387d7345942b49ebe5358117e57c1987270fc993",
+      "license": "CC0 + PD-Art",
+      "creator": "Jane023"
+    },
+    {
+      "view_key": "RUS-IMG-03-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-03.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Insigne_de_l_Ordre_de_Saint-Georges_de_4e_classe.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Insigne_de_l%27Ordre_de_Saint-Georges_de_4e_classe.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "width": 1925,
+      "height": 2161,
+      "sha256": "16f75f6a4262e8808d71bec0a8aea2975ebb6a8ab8a190dd336f45b9fc691833",
+      "license": "CC BY-SA 4.0",
+      "creator": "Alain Charre"
+    },
+    {
+      "view_key": "RUS-IMG-07-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-07.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:M%C3%A9daille_de_la_Guerre_Russo-Japonaise_-_%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%92_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%C2%BB_%28avers%29.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/M%C3%A9daille_de_la_Guerre_Russo-Japonaise_-_%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%92_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%C2%BB_%28avers%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "width": 426,
+      "height": 738,
+      "sha256": "6328d390553001a5e496d090ee7e8380498e27d2e05cc7fef332132a8c8a852c",
+      "license": "CC BY-SA 4.0",
+      "creator": "Louis de Lauban"
+    },
+    {
+      "view_key": "RUS-IMG-08-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-08.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:M%C3%A9daille_de_la_Guerre_Russo-Japonaise_-_%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%92_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%C2%BB_%28revers%29.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/M%C3%A9daille_de_la_Guerre_Russo-Japonaise_-_%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%92_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B%C2%BB_%28revers%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "width": 411,
+      "height": 726,
+      "sha256": "cdc5ce918d7a10ca1734d33b9b94df9bba46eef666b9b222f35407350d681234",
+      "license": "CC BY-SA 4.0",
+      "creator": "Louis de Lauban"
+    }
+  ]
+}

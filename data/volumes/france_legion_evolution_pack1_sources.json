@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-09-26",
+  "sources": [
+    {
+      "source_id": "commons-legion-evolution-2022",
+      "title": "Legion d’Honneur Evolution.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Legion_d%E2%80%99Honneur_Evolution.png",
+      "author": "GrafVonEbbell",
+      "date": "2022-02-22",
+      "license": "CC BY-SA 4.0",
+      "source_description": "Examples of badges and stars from the First Empire through the Fourth and Fifth Republics.",
+      "local_source": "originals/legion_commons_pack1_2026-09-26/legion-evolution-5000.png",
+      "processing": "按来源图七个时期面板等分裁取；未生成、补画或改变章体。"
+    }
+  ]
+}

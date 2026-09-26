@@ -1,0 +1,109 @@
+{
+  "schema": "ottoman-normalization-continuation-conflicts-v1",
+  "batch_id": "ottoman_normalization_continuation_batch2",
+  "as_of": "2026-09-26",
+  "source_scope": "Cached MedalBook pages and prior normalized/raw candidates only; no new network access.",
+  "summary": {
+    "conflict_count": 6,
+    "families_with_conflicts": 5,
+    "identity_conflicts": 5,
+    "image_or_delivery_conflicts": 1,
+    "formal_admissions_blocked": 5
+  },
+  "conflicts": [
+    {
+      "conflict_id": "DANUBE_CAMPAIGN_ALIAS_OR_DISTINCT",
+      "family_key": "NEW-DANUBE-CAMPAIGN",
+      "severity": "high",
+      "type": "possible_alias_or_distinct_award",
+      "source_ids": [
+        "medalbook-ottoman-15972d0ca3ae82d9",
+        "medalbook-ottoman-9b6cbe318bf1f4f6",
+        "medalbook-ottoman-fcf0995eaa2390ca"
+      ],
+      "related_existing_family_ids": [
+        "OTT-CRIMEA",
+        "OTT-IFTIHAR-ORDER"
+      ],
+      "reason": "The cached 1854 page names a commemorative Danube Campaign medal for Ottoman allies, while the cached General Service 1853 pages call a different catalogue family the Danube Medal/Medal of Glory. Existing eMedals text also uses Danube Medal for Medal of Glory. No exact object, inscription, or independent institutional binding is present.",
+      "resolution": "Keep NEW-DANUBE-CAMPAIGN as an unresolved lead; no merge or formal admission."
+    },
+    {
+      "conflict_id": "HATTI_SINGLE_SOURCE_LIMITED_DESCRIPTION",
+      "family_key": "NEW-HATTI-HUMAYUN",
+      "severity": "medium",
+      "type": "single_catalogue_source_and_no_image",
+      "source_ids": [
+        "medalbook-ottoman-a8ffb89e6710499b",
+        "medalbook-ottoman-2c054cb50c2eabf0"
+      ],
+      "reason": "Bronze and gilt are separate catalogue pages with the same 1856 date, Ottoman Imperial Mint and Islahat Fermani description, but both pages are one source system and explicitly state that information is limited.",
+      "resolution": "Retain one family and two material variants provisionally; require independent source before admission."
+    },
+    {
+      "conflict_id": "MECRUCHIN_OFFICIAL_SCOPE_BOUNDARY",
+      "family_key": "NEW-MECRUCHIN",
+      "severity": "high",
+      "type": "non_official_association_award",
+      "source_ids": [
+        "medalbook-ottoman-9759ccc68a26c39b"
+      ],
+      "reason": "The cached page explicitly states that this association order was not recognized as an official Order of the Ottoman Empire.",
+      "resolution": "Keep in a related/non-official queue; do not count as a formal Ottoman Order family."
+    },
+    {
+      "conflict_id": "RUSSIAN_MISSION_FUZZY_ORDER_MATCH",
+      "family_key": "NEW-RUSSIAN-MISSION-1833",
+      "severity": "high",
+      "type": "fuzzy_match_not_identity",
+      "source_ids": [
+        "medalbook-ottoman-f4c12105b124d879",
+        "medalbook-ottoman-50074d41387e4d9c",
+        "medalbook-ottoman-89cc3c8a5087e2da"
+      ],
+      "related_existing_family_ids": [
+        "OTT-IMTIYAZ-ORDER"
+      ],
+      "reason": "The previous draft offered only a 0.481 automated suggestion toward OTT-IMTIYAZ-ORDER. The cached pages identify a Russian Military Mission medal and do not name Nişan-ı İmtiyaz. Bronze, gold and silver remain material variants of the catalogue family.",
+      "resolution": "Keep provisional and separate; do not merge on fuzzy score. Silver page image URLs remain un-downloaded."
+    },
+    {
+      "conflict_id": "RUSSO_TURKISH_1877_VS_PLEVNA",
+      "family_key": "NEW-RUSSO-TURKISH-WAR-1877",
+      "severity": "high",
+      "type": "same_war_context_distinct_title",
+      "source_ids": [
+        "medalbook-ottoman-89538a9a11ee19f3"
+      ],
+      "related_existing_family_ids": [
+        "OTT-PLEVNA"
+      ],
+      "reason": "Both the new page and OTT-PLEVNA concern 1877, and both cached descriptions use the Abdulhamid II cypher clue, but the new title is Turkish-Russian War Medal while the existing family is explicitly Plevne/Plevna Campaign Medal. The new page has no image or inscription to prove identity.",
+      "resolution": "Retain a distinct provisional lead; do not collapse into OTT-PLEVNA."
+    },
+    {
+      "conflict_id": "CONTINUATION_NO_LOCAL_IMAGE_VERIFICATION",
+      "family_key": "ALL-FIVE",
+      "severity": "medium",
+      "type": "delivery_image_missing",
+      "source_ids": [
+        "medalbook-ottoman-15972d0ca3ae82d9",
+        "medalbook-ottoman-a8ffb89e6710499b",
+        "medalbook-ottoman-2c054cb50c2eabf0",
+        "medalbook-ottoman-9759ccc68a26c39b",
+        "medalbook-ottoman-f4c12105b124d879",
+        "medalbook-ottoman-50074d41387e4d9c",
+        "medalbook-ottoman-89cc3c8a5087e2da",
+        "medalbook-ottoman-89538a9a11ee19f3"
+      ],
+      "reason": "The five keys have no local verified image in this continuation. Only the Russian Mission silver page exposes two raw image URLs in the cached raw record (four unique attachment URLs in the cached HTML), but this task forbids new downloads and no image is counted as obtained.",
+      "resolution": "Leave all five out of image-bearing output until a later authorized image-harvest pass downloads, decodes and verifies the corresponding complete object images."
+    }
+  ],
+  "output_files": [
+    "data/normalized/ottoman_normalized_continuation_batch2.json",
+    "data/conflicts/ottoman_normalization_continuation_batch2.json",
+    "data/checkpoints/ottoman_normalization_continuation_batch2_2026-09-26.json"
+  ],
+  "public_files_changed": []
+}

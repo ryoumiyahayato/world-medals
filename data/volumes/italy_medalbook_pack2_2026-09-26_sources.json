@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-26",
+  "package": "italy_medalbook_pack2_2026-09-26",
+  "access_date": "2026-09-26",
+  "sources": [
+    {
+      "source_id": "difesa_military_valour_history",
+      "kind": "official Ministry of Defence history page",
+      "title": "Le decorazioni al valor militare",
+      "url": "https://www.difesa.it/area-storica-html/pilloledistoria/le-decorazioni-al-valor-militare/34931.html",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/italy_military_valour_official_difesa.html",
+      "evidence_summary": "Traces the 1793 predecessor, the interruption/reorganization after 1815, and restoration of gold and silver Military Valour Medals by the 26 March 1833 Royal Warrant. Also distinguishes the medal classes and the Cross for Military Valour family.",
+      "supports": ["IT-KOI-002 family and date context", "gold and silver grades", "keeping the Cross for Military Valour distinct from the medal"]
+    },
+    {
+      "source_id": "rd5100_bronze_medal",
+      "kind": "transcription of primary royal decree",
+      "title": "Regio Decreto 8 dicembre 1887, n. 5100",
+      "url": "https://portalenormativo.it/atto/rd-1887-12-08-5100",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/italy_military_valour_bronze_rd5100.html",
+      "evidence_summary": "The decree title identifies the creation of the bronze Military Valour Medal. The transcription is used for the decree/date clue; it is not represented as an original Gazette scan.",
+      "supports": ["IT-KOI-002 bronze-grade date note"]
+    },
+    {
+      "source_id": "quirinale_civil_valour",
+      "kind": "official Presidency of the Republic honours page",
+      "title": "Medaglia al Valor Civile",
+      "url": "https://new.quirinale.it/page/valorcivile",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/italy_civil_valour_official_quirinale.html",
+      "evidence_summary": "Attributes the 30 April 1851 R.D. no.1168 to Victor Emmanuel II and lists gold, silver, and bronze degrees; the source is the current official institutional record for the award history.",
+      "supports": ["IT-KOI-003 family, institution date, and grades"]
+    },
+    {
+      "source_id": "difesa_war_merit_register",
+      "kind": "official Ministry of Defence historical legislation index",
+      "title": "Repertorio storico — 1910–1920",
+      "url": "https://www.difesa.it/legislazione/repertorio-storico-hammurabi-difesa/1910-1920/39360.html",
+      "evidence_summary": "Index entry: 19 January 1918, Royal Decree no.205, institution of a War Merit Cross; notes official-gazette publication.",
+      "supports": ["IT-KOI-004 institution date and legal identifier"]
+    },
+    {
+      "source_id": "rd356_war_merit_cross",
+      "kind": "primary legal act on Normattiva",
+      "title": "Regio Decreto 10 marzo 1918, n. 356",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=018U0356&atto.dataPubblicazioneGazzetta=1918-03-27&qId=&tipoDettaglio=originario",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/italy_war_merit_cross_rd205_normattiva.html",
+      "evidence_summary": "Amends provisions of R.D. 19 January 1918 no.205, including the War Merit Cross rules; supports distinguishing this cross from the Military Valour Cross.",
+      "supports": ["IT-KOI-004 legal chronology and distinction from the Cross for Military Valour"]
+    },
+    {
+      "source_id": "mb_military_valour_gold",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Military Valour, in Gold",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-military-valour/medal-for-military-valour-in-gold-1",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "evidence_summary": "Candidate name and gold variant; used for source-first grouping only, not as the sole date or physical-authentication evidence.",
+      "supports": ["IT-KOI-002 gold variant key"]
+    },
+    {
+      "source_id": "mb_military_valour_silver",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Military Valour, in Silver",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-military-valour/medal-for-military-valour-in-silver-2",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-002 silver candidate, pending image"]
+    },
+    {
+      "source_id": "mb_military_valour_bronze",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Military Valour, in Bronze",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-military-valour/medal-for-military-valour-in-bronze-3",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-002 bronze candidate, pending image"]
+    },
+    {
+      "source_id": "mb_civil_valour_gold",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Civil Valour, in Gold",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-civil-valour/medal-for-civil-valour-in-gold-1",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-003 gold candidate; no matching-grade image in this pack"]
+    },
+    {
+      "source_id": "mb_civil_valour_silver",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Civil Valour, in Silver",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-civil-valour/medal-for-civil-valour-in-silver-2",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-003 silver candidate; no matching-grade image in this pack"]
+    },
+    {
+      "source_id": "mb_civil_valour_bronze",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — Medal for Civil Valour, in Bronze",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-civil-valour/medal-for-civil-valour-in-bronze-3",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-003 bronze candidate; no matching-grade image in this pack"]
+    },
+    {
+      "source_id": "mb_war_merit_cross",
+      "kind": "specialist catalogue candidate page",
+      "title": "MedalBook — War Merit Cross",
+      "url": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/war-merit-cross/war-merit-cross-1",
+      "local_record": "data/staging/europe_central_west_2026-09-26/raw_candidates/medalbook_italy_kingdom.jsonl",
+      "supports": ["IT-KOI-004 candidate key only; official legislation determines date and family distinction"]
+    },
+    {
+      "source_id": "commons_military_valour_gold",
+      "kind": "photographed physical specimen",
+      "title": "Wikimedia Commons — Medaglia d'oro al valor militare-regno.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Medaglia_d%27oro_al_valor_militare-regno.jpg",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/medal_military_valour_gold_regno.jpg.html",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Medaglia_d%27oro_al_valor_militare-regno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Threecharlie",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "evidence_summary": "Page describes a Gold Medal of Military Valor issued during the Kingdom of Italy, present on the standard of the National Infantrymen Association, Rovigo provincial section; image visually checked.",
+      "supports": ["IT-KOI-002 pictured grade and specimen context", "image file/license metadata"]
+    },
+    {
+      "source_id": "commons_civil_valour_unknown_specimen",
+      "kind": "photographed physical specimen",
+      "title": "Wikimedia Commons — Valore civile regno.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Valore_civile_regno.JPG",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/medal_civil_valour_kingdom_grade_unknown.jpg.html",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Valore_civile_regno.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "ARCHIsavio",
+      "license": "CC BY-SA 3.0 (also offered under GFDL and earlier CC BY-SA versions)",
+      "evidence_summary": "Page identifies the subject as a Civil Valour Medal from the Kingdom of Italy, private collection. It does not identify degree, actual metal, issuer date, or recipient date; the local picture is 360×744 pixels.",
+      "supports": ["IT-KOI-003 pictured real-object specimen only", "image file/license metadata"]
+    },
+    {
+      "source_id": "commons_war_merit_front",
+      "kind": "photographed physical specimen; front view",
+      "title": "Wikimedia Commons — Croce al merito di Guerra, fronte.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Croce_al_merito_di_Guerra,_fronte.jpg",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/war_merit_cross_michele_pisani_front.jpg.html",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Croce_al_merito_di_Guerra%2C_fronte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_object_id": "Europeana 1914–1918 contribution 5575",
+      "author": "Europeana staff photographer; credit line Capozio Pasqualino",
+      "license": "Photograph CC BY-SA 3.0; physical object Public Domain Mark 1.0",
+      "evidence_summary": "Page labels this front view of a War Merit Cross and describes a WWI veteran, Michele Pisani; it says the two images relate to the same contribution and physical specimen. No exact award date is stated.",
+      "supports": ["IT-KOI-004 actual front view", "paired-object identification", "image file/license metadata"]
+    },
+    {
+      "source_id": "commons_war_merit_back",
+      "kind": "photographed physical specimen; reverse view",
+      "title": "Wikimedia Commons — Croce al merito di Guerra, retro.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Croce_al_merito_di_Guerra,_retro.jpg",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/war_merit_cross_michele_pisani_back.jpg.html",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Croce_al_merito_di_Guerra%2C_retro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_object_id": "Europeana 1914–1918 contribution 5575",
+      "author": "Europeana staff photographer; credit line Capozio Pasqualino",
+      "license": "Photograph CC BY-SA 3.0; physical object Public Domain Mark 1.0",
+      "evidence_summary": "Page labels this reverse view and repeats the front file's Europeana contribution and biographical account, supporting same-object pairing.",
+      "supports": ["IT-KOI-004 actual reverse view", "image file/license metadata"]
+    },
+    {
+      "source_id": "commons_war_merit_rejected_lowres",
+      "kind": "rejected visual candidate",
+      "title": "Wikimedia Commons — Croce al Merito di guerra (regno).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Croce_al_Merito_di_guerra_(regno).jpg",
+      "reason_not_used": "743×958; paired view crops the upper ribbon edge. Replaced by complete high-resolution front/reverse views of one identified object; this file is not in the output image directory."
+    },
+    {
+      "source_id": "commons_war_merit_rejected_mario",
+      "kind": "rejected visual candidate",
+      "title": "Wikimedia Commons — Croce al Merito di Guerra di mio Padre Mario Tremolada.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Croce_al_Merito_di_Guerra_di_mio_Padre_Mario_Tremolada.jpg",
+      "local_cache": "sources/italy_medalbook_pack2_2026-09-26/war_merit_cross_mario_tremolada.jpg.html",
+      "reason_not_used": "1055×1511; actual cross body visible but the top of the long ribbon is outside the frame. It is not included in the output image directory; retained source page explains the exclusion."
+    }
+  ],
+  "source_counts": {
+    "listed_in_italy_source_matrix": 5,
+    "completed": 1,
+    "partial": 2,
+    "not_started_or_discovered": 2,
+    "note": "This package is not a source-matrix sweep. It harvested selected official/legal pages and Commons file pages only; the Italy source matrix itself remains unchanged."
+  }
+}

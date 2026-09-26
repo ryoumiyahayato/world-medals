@@ -1,0 +1,116 @@
+[
+  {
+    "id": "OTT-LEG-RED-CRESCENT",
+    "family": "OTT-RED-CRESCENT",
+    "name": "红新月奖章",
+    "original": "Hilâl-i Ahmer Madalyası",
+    "date": "20世纪初",
+    "variant": "红新月救护奖章；铜色金属；授予机构待核",
+    "views": [
+      {
+        "key": "LEG-RED-CRESCENT-1",
+        "label": "正面"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-RED-CRESCENT",
+      "image-LEG-RED-CRESCENT-1"
+    ],
+    "origin_legacy_key": "RED-CRESCENT"
+  },
+  {
+    "id": "OTT-LEG-NUSRET",
+    "family": "OTT-NUSRET-MOSQUE",
+    "name": "胜利清真寺奖章",
+    "original": "Cami-i Nusret Madalyası",
+    "date": "19世纪前期",
+    "variant": "努斯雷特清真寺纪念章；金质；非佩戴",
+    "views": [
+      {
+        "key": "LEG-NUSRET-1",
+        "label": "正背同图"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-NUSRET",
+      "image-LEG-NUSRET-1"
+    ],
+    "origin_legacy_key": "NUSRET"
+  },
+  {
+    "id": "OTT-LEG-MAAN",
+    "family": "OTT-HEJAZ-MAAN",
+    "name": "汉志铁路马安段纪念章",
+    "original": "Hicaz Demiryolu — Maan",
+    "date": "1904",
+    "variant": "汉志铁路马安段开通纪念章；银质；非佩戴",
+    "views": [
+      {
+        "key": "LEG-MAAN-1",
+        "label": "正背同图"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-MAAN",
+      "image-LEG-MAAN-1"
+    ],
+    "origin_legacy_key": "MAAN"
+  },
+  {
+    "id": "OTT-LEG-RELIEF",
+    "family": "OTT-RELIEF-EXHIBITION",
+    "name": "遗孤与伤残军人救济展览章",
+    "original": "Şehid Evladı ve Malül Askere İane Sergisi",
+    "date": "1897",
+    "variant": "烈士遗孤与伤残军人救济展览纪念章；镍质；非佩戴",
+    "views": [
+      {
+        "key": "LEG-RELIEF-1",
+        "label": "正背同图"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-RELIEF",
+      "image-LEG-RELIEF-1"
+    ],
+    "origin_legacy_key": "RELIEF"
+  },
+  {
+    "id": "OTT-LEG-CHELENGK-COPY",
+    "family": "OTT-CHELENGK",
+    "name": "切伦克羽饰",
+    "original": "Çelenk / Chelengk",
+    "date": "约1870年制作",
+    "variant": "宫廷赏赐羽饰复制品 / Copy；非历史原授件",
+    "views": [
+      {
+        "key": "LEG-CHELENGK-COPY-1",
+        "label": "正面"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-CHELENGK-COPY",
+      "image-LEG-CHELENGK-COPY-1"
+    ],
+    "origin_legacy_key": "CHELENGK-COPY"
+  },
+  {
+    "id": "OTT-LEG-DEPUTIES",
+    "family": "OTT-DEPUTIES-BADGE",
+    "name": "奥斯曼众议院议员徽章",
+    "original": "Meclis-i Mebusan Azalarına Mahsus Nişan / Chamber of Deputies Badge",
+    "date": "设立日期待考；照片来源标注1912–1917",
+    "variant": "议员专用佩章；等级待核；不计入正式功绩章种",
+    "views": [
+      {
+        "key": "LEG-DEPUTIES-1",
+        "label": "正面"
+      }
+    ],
+    "source_ids": [
+      "legacy-page-DEPUTIES",
+      "image-LEG-DEPUTIES-1"
+    ],
+    "origin_legacy_key": "DEPUTIES"
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "schema": "german-states-normalization-checkpoint/v1",
+  "checkpoint_id": "GERMAN-STATES-NORMALIZE-B2-20260926",
+  "as_of": "2026-09-26",
+  "completed": true,
+  "task": "Normalize/dedupe Weitze Prussia 345 cards, Weitze Bavaria 60 cards, and DHM 64 candidates within German-states scope.",
+  "inputs": [
+    {
+      "path": "data/raw_candidates/weitze_preussen_12_german_states.jsonl",
+      "line_count": 345,
+      "byte_count": 587551,
+      "sha256": "1f56a8e851c2acfec10533d83638345e591bed821d08a83c2fb52e4f1a93cf60",
+      "source_kinds": [
+        "commercial"
+      ]
+    },
+    {
+      "path": "data/raw_candidates/weitze_bayern_alternative_german_states.jsonl",
+      "line_count": 60,
+      "byte_count": 87318,
+      "sha256": "8576b658c0c96c162e2a2f4a30da361d820f78bf5ba3285e3752e15324efe831",
+      "source_kinds": [
+        "commercial"
+      ]
+    },
+    {
+      "path": "data/raw_candidates/dhm_german_states.jsonl",
+      "line_count": 64,
+      "byte_count": 125877,
+      "sha256": "63d1c88d78320b255c714d35590ac15f0318210d108ce549b3ec5a5376b96a69",
+      "source_kinds": [
+        "dhm"
+      ]
+    }
+  ],
+  "summary_counts": {
+    "input_lines_total": 469,
+    "input_lines_by_source": {
+      "weitze_prussia": 345,
+      "weitze_bavaria": 60,
+      "dhm": 64
+    },
+    "unique_input_ids": 469,
+    "family_group_count_including_unresolved": 58,
+    "independent_family_count": 38,
+    "existing_family_match_family_count": 11,
+    "existing_family_match_input_lines": 178,
+    "new_family_candidate_family_count": 27,
+    "new_family_candidate_input_lines": 91,
+    "unresolved_or_compound_family_group_count": 20,
+    "unresolved_or_compound_input_lines": 200,
+    "variant_count": 301,
+    "variant_identity_review_count": 266,
+    "identity_review_input_lines": 434,
+    "missing_local_image_input_lines": 469,
+    "commercial_only_input_lines": 405,
+    "dhm_image_supported_input_lines": 64,
+    "dhm_image_supported_family_count": 44,
+    "dhm_image_supported_variant_count": 64,
+    "historical_plate_or_official_link_only_input_lines": 64,
+    "out_of_period_input_lines": 2,
+    "formal_records_created": 0,
+    "images_downloaded": 0,
+    "conflict_count": 15
+  },
+  "output_files": [
+    "data/normalized/german_states_normalized_batch2.json",
+    "data/conflicts/german_states_normalization_batch2.json",
+    "data/normalized/german_states_normalization_batch2_checkpoint.json"
+  ],
+  "public_files_modified": [],
+  "images_downloaded": false,
+  "next_cursor": {
+    "status": "ready_for_manual_identity_and_image_review",
+    "source_file": "data/raw_candidates/dhm_german_states.jsonl",
+    "line_number": 4,
+    "candidate_id": "dhm-order-006",
+    "reason": "First remaining DHM single-object page without a stable family guess; verify Bayern Hausritterorden vom heiligen Hubertus before any formal record.",
+    "completed_ranges": [
+      {
+        "source_file": "data/raw_candidates/weitze_preussen_12_german_states.jsonl",
+        "first_line": 1,
+        "last_line": 345
+      },
+      {
+        "source_file": "data/raw_candidates/weitze_bayern_alternative_german_states.jsonl",
+        "first_line": 1,
+        "last_line": 60
+      },
+      {
+        "source_file": "data/raw_candidates/dhm_german_states.jsonl",
+        "first_line": 1,
+        "last_line": 64
+      }
+    ],
+    "pending_priority": [
+      "dhm-order-006",
+      "dhm-order-011",
+      "dhm-order-077",
+      "dhm-order-086",
+      "dhm-order-093"
+    ]
+  },
+  "unresolved_boundaries": [
+    "Commercial cards require object-page and institutional confirmation.",
+    "DHM compound and no-family cards require manual family/object splitting.",
+    "No local image has been downloaded, decoded, or visually inspected in this normalization-only batch."
+  ]
+}

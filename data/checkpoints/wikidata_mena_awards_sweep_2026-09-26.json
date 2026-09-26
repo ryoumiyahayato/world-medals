@@ -1,0 +1,132 @@
+{
+  "as_of": "2026-09-26",
+  "method": "Wikidata pictured-award source sweep; no formal HTML changes",
+  "planned_countries": 24,
+  "completed_countries": 0,
+  "failed_countries": 24,
+  "candidate_rows": 0,
+  "counts_by_country_qid": {},
+  "failures": [
+    {
+      "country_qid": "Q12560",
+      "country": "Ottoman Empire",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q79",
+      "country": "Egypt",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q1049",
+      "country": "Sudan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q794",
+      "country": "Iran",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q43",
+      "country": "Turkey",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q796",
+      "country": "Iraq",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q810",
+      "country": "Jordan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q858",
+      "country": "Syria",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q822",
+      "country": "Lebanon",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q805",
+      "country": "Yemen",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q817",
+      "country": "Kuwait",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q398",
+      "country": "Bahrain",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q842",
+      "country": "Oman",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q878",
+      "country": "United Arab Emirates",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q851",
+      "country": "Saudi Arabia",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q889",
+      "country": "Afghanistan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q843",
+      "country": "Pakistan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q1028",
+      "country": "Morocco",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q262",
+      "country": "Algeria",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q948",
+      "country": "Tunisia",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q1016",
+      "country": "Libya",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q227",
+      "country": "Azerbaijan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q232",
+      "country": "Kazakhstan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    },
+    {
+      "country_qid": "Q265",
+      "country": "Uzbekistan",
+      "error": "HTTPError: HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+    }
+  ],
+  "output": "data/raw_candidates/wikidata_mena_awards_2026-09-26.jsonl"
+}

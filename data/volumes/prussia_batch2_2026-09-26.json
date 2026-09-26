@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "Kingdom of Prussia, 1815-1918; second gap package, independent Black Eagle family; other candidates remain pending",
+  "batch_id": "PRU-B2-20260926",
+  "candidate_file": "data/volumes/prussia_batch2_candidates_2026-09-26.json",
+  "records": [
+    {
+      "id": "PRU-BLACK-EAGLE-BADGE-UNK-01",
+      "family": "PRU-BLACK-EAGLE",
+      "name": "黑鹰勋章",
+      "original": "Hoher Orden vom Schwarzen Adler / Order of the Black Eagle",
+      "date": "1701设立；本件断代为18世纪末–19世纪初（来源说明；非颁发日期）",
+      "variant": "挂章；蓝珐琅十字、黑鹰纹饰与浅金色绶带；完整金属章体及悬挂环正面；绶带上端出画，故只将金属章体作为当前图样；归属Alexander II的来源说法带问号",
+      "views": [
+        { "key": "PRU-B2-BLACK-EAGLE-BADGE-OBV", "label": "正面" }
+      ],
+      "source_ids": [ "pru-b2-commons-black-eagle-badge", "pru-b2-dhm-black-eagle-directory" ]
+    }
+  ],
+  "notes": [
+    "本包新增独立 family PRU-BLACK-EAGLE 1行；金属章体完整但布绶带上端出画，按来源实物现状明示。",
+    "同一黑鹰勋章1840–1850领链图因两端出画排除；1897百年纪念章仅取得反面，排除，不进入records。",
+    "未修改公共 catalogue、progress、index.html 或首包文件。"
+  ]
+}

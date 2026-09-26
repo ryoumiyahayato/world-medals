@@ -1,0 +1,111 @@
+{
+  "source": "eMedals",
+  "source_id": "EMEDALS-TURKEY-SEEDS",
+  "as_of": "2026-09-26",
+  "seeds": [
+    {
+      "key": "all",
+      "url": "https://www.emedals.com/collections/europe-turkey",
+      "label": "Europe-Turkey total collection"
+    },
+    {
+      "key": "medals",
+      "url": "https://www.emedals.com/collections/europe-turkey-medals",
+      "label": "Europe-Turkey medals"
+    },
+    {
+      "key": "orders",
+      "url": "https://www.emedals.com/collections/europe-turkey-orders",
+      "label": "Europe-Turkey orders"
+    }
+  ],
+  "cache_directory": "sources/pages/emedals_ottoman",
+  "collection_pagination": {
+    "pages_processed": 32,
+    "seed_page_counts": {
+      "all": 17,
+      "medals": 9,
+      "orders": 6
+    },
+    "failed_pages": []
+  },
+  "product_pages": {
+    "unique_discovered": 658,
+    "processed": 658,
+    "failed_pages": [],
+    "invalid_product_pages": 0,
+    "with_image_urls": 654,
+    "total_image_urls": 1308,
+    "image_count_distribution": {
+      "0": 4,
+      "2": 654
+    },
+    "unique_discovered_url_forms": 658,
+    "unique_product_slugs": 363,
+    "duplicate_url_forms_collapsed": 295,
+    "processed_url_forms": 658,
+    "candidate_records_emitted": 363,
+    "raw_candidate_records": 658,
+    "url_form_with_image_urls": 654,
+    "raw_image_url_occurrences": 1308,
+    "url_form_image_count_distribution": {
+      "0": 4,
+      "2": 654
+    },
+    "canonical_with_image_urls": 361,
+    "canonical_total_image_urls": 361,
+    "canonical_image_count_distribution": {
+      "0": 2,
+      "1": 361
+    },
+    "note": "Raw URL-form extraction counts cover 658 processed product URL forms; candidate_records_emitted collapses collection-path duplicates to canonical product slugs, and canonical_* fields report the emitted JSONL records."
+  },
+  "status_counts": {
+    "period_unresolved_pending_review": 64,
+    "ottoman_candidate_pending_review": 255,
+    "modern_turkey_candidate": 3,
+    "period_conflict_or_transition_pending_review": 41
+  },
+  "period_class_counts": {
+    "scope_unresolved": 23,
+    "period_unresolved": 41,
+    "ottoman_candidate_pending_review": 255,
+    "modern_turkey_candidate": 3,
+    "period_conflict_or_transition": 41
+  },
+  "availability_counts": {
+    "OutOfStock": 336,
+    "InStock": 27
+  },
+  "outputs": {
+    "raw_candidates": "data/raw_candidates/emedals_ottoman.jsonl",
+    "cache_index": "sources\\pages\\emedals_ottoman\\cache_index.json"
+  },
+  "scope_notes": [
+    "Seeds cover total Europe-Turkey, medals, and orders collection pagination as exposed by current collection pages.",
+    "All visible collection pages were processed; sold-out/history product pages were retained and availability is recorded separately.",
+    "658 fetched product URL forms collapse to 363 unique product slugs; all collection-path URL variants and cache paths remain in each candidate record.",
+    "Modern Turkey, Ottoman, and ambiguous products are separated provisionally; no item is promoted to final catalogue without manual period and object verification.",
+    "Image URLs are extracted from cached product HTML as CDN originals with width/height/crop parameters removed; no image files were downloaded in this source-first pass.",
+    "CDN http/https duplicates were normalized to one https URL per product where present; two unique products had no image URL in cached HTML."
+  ],
+  "status": "complete_pages_and_products_pending_manual_review",
+  "next_checkpoint": "Begin manual period/category/object review from the 363 canonical candidates; prioritize Ottoman medal/order records, then resolve modern Turkey and ambiguous records. Bind image files only after selected object verification.",
+  "url_form_status_counts": {
+    "ottoman_candidate_pending_review": 474,
+    "period_conflict_or_transition_pending_review": 67,
+    "period_unresolved_pending_review": 112,
+    "modern_turkey_candidate": 5
+  },
+  "url_form_period_class_counts": {
+    "ottoman_candidate_pending_review": 474,
+    "period_conflict_or_transition": 67,
+    "period_unresolved": 75,
+    "modern_turkey_candidate": 5,
+    "scope_unresolved": 37
+  },
+  "url_form_availability_counts": {
+    "OutOfStock": 597,
+    "InStock": 61
+  }
+}

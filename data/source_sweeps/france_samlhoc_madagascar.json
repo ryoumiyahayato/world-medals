@@ -1,0 +1,125 @@
+{
+  "source_id": "FR-SAMLHOC-MADAGASCAR",
+  "source_name": "SAMLHOC / France Phaléristique — Madagascar commemorative medals",
+  "as_of": "2026-09-26",
+  "accessed": "2026-09-26",
+  "status": "complete_current_samlhoc_madagascar_scope_with_image_boundary",
+  "scope_rule": "Started from the SAMLHOC medal index, followed only the Madagascar entry's explicit main page, medal object subpages and shared diploma subpage, and cached the directly linked legal-notice page solely to record rights. No broad SAMLHOC crawl or unrelated Colonial Medal expansion was performed.",
+  "source_pages_processed": 6,
+  "source_pages": [
+    {
+      "role": "SAMLHOC medal index",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/medailles_index.html",
+      "result": "Current index lists the Madagascar commemorative-medal entry for the first and second expeditions; used as the directory boundary."
+    },
+    {
+      "role": "Madagascar main history and legal text",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/madagascar_main.html",
+      "result": "Main page title/date, 1883–1886 and 1894–1895 histories, physical descriptions, common ribbon, first-medal oval suspension, 1895 clasp, and transcribed 1886/1896/1897 legal text captured."
+    },
+    {
+      "role": "First-expedition object image page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/medailles_commemoratives_madagascar_expedition_1/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/madagascar_expedition_1.html",
+      "result": "Page heading explicitly identifies the first expedition and labels the complete source image Avers/Revers."
+    },
+    {
+      "role": "Second-expedition object image page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/medailles_commemoratives_madagascar_expedition_2/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/madagascar_expedition_2.html",
+      "result": "Page heading explicitly identifies the second expedition and labels the complete source image Avers/Revers."
+    },
+    {
+      "role": "Shared diploma image page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/medailles_commemoratives_madagascar_diplomes/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/madagascar_diplomes.html",
+      "result": "Shows the first-expedition diploma labelled remis en 1886 and the second-expedition diploma labelled remis en 1898; image contribution credited to Cyrille Cardona."
+    },
+    {
+      "role": "Rights and licence page",
+      "url": "https://www.samlhoc.fr/mentions-legales/",
+      "local_cache": "sources/cache/france_samlhoc_madagascar/mentions_legales.html",
+      "result": "SAMLHOC states that it owns or holds usage rights for site text/images and prohibits reproduction, representation, modification or publication without prior written permission; no open reuse licence found."
+    }
+  ],
+  "continuation_tokens_exhausted": true,
+  "pagination_or_hidden_queue": false,
+  "candidate_rows": 2,
+  "families_in_candidates": 1,
+  "candidate_difference_summary": {
+    "existing_family_variant_or_coverage_gap": 2,
+    "difference_candidate": 0,
+    "new_normalized_families_admitted": 0,
+    "note": "Both rows belong to the existing FRA-III-MADAGASCAR-COMMEMORATIVE family in local/source-atlas data. They are two major expedition variants (1886 and 1896 legal creation), not two new families. This package is raw-source coverage only and does not merge public volumes."
+  },
+  "image_audit": {
+    "distinct_award_or_related_image_urls_found": 4,
+    "images_downloaded": 4,
+    "images_decoded_and_viewed": 4,
+    "complete_object_pair_files": 2,
+    "object_variant_reverse_only_files": 0,
+    "document_image_files": 2,
+    "contextual_non_object_files": 0,
+    "excluded_wrong_clasp_files": 0,
+    "low_resolution_complete_object_files": 2,
+    "award_image_urls": [
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/mada1exar.jpg",
+        "local_path": "sources/cache/france_samlhoc_madagascar/mada1exar.jpg",
+        "role": "complete first-expedition obverse/reverse pair",
+        "dimensions_px": [360, 329],
+        "bytes": 38196,
+        "sha256": "0a754a11bfea7b284c0b0931a7d58d74e6b8bb30a5d82cfc08adbb16bdca7318"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/mada1exdip.jpg",
+        "local_path": "sources/cache/france_samlhoc_madagascar/mada1exdip.jpg",
+        "role": "first-expedition diploma; document only, excluded from object-image count",
+        "dimensions_px": [381, 500],
+        "bytes": 24368,
+        "sha256": "6b5d32f9b09f534dc74cd18941cc1b7be2a94ef5df94f21d2aa0eca3633d178d"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/mada2exar.jpg",
+        "local_path": "sources/cache/france_samlhoc_madagascar/mada2exar.jpg",
+        "role": "complete second-expedition obverse/reverse pair with 1895 clasp",
+        "dimensions_px": [425, 427],
+        "bytes": 95886,
+        "sha256": "892c38d7ec1c36c580c526f87e1a38954bbe17950229277c6f259aeefa10e563"
+      },
+      {
+        "url": "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/mada2exdip.jpg",
+        "local_path": "sources/cache/france_samlhoc_madagascar/mada2exdip.jpg",
+        "role": "second-expedition diploma labelled remis en 1898; document only, excluded from object-image count",
+        "dimensions_px": [346, 500],
+        "bytes": 44991,
+        "sha256": "cc8cfda26248ebed94d15f053f238888ab4e819b1c236df13acf2efb877c6ac3"
+      }
+    ],
+    "audit_method": "Each original JPEG was downloaded once from the URL exposed in its SAMLHOC page, decoded with System.Drawing, visually opened at original resolution, and SHA-256 hashed. The two medal images show complete obverse/reverse pairs; the two diploma images are retained as documents and are not counted as medal objects. No thumbnail, screenshot, generated image, or wrong-clasp image was used."
+  },
+  "raw_candidate_file": "data/raw_candidates/france_samlhoc_madagascar.jsonl",
+  "metadata_cache_directory": "sources/cache/france_samlhoc_madagascar",
+  "cache_manifest": "sources/cache/france_samlhoc_madagascar/cache_manifest.json",
+  "failures": [
+    {
+      "scope": "web-renderer image-link fetch",
+      "result": "The web renderer timed out on the four direct media clicks, but direct terminal requests to the exact source URLs succeeded and all four files decoded and were visually checked; no page was counted as unavailable."
+    },
+    {
+      "scope": "primary legal scans",
+      "result": "The SAMLHOC main page transcribes Journal officiel laws, decrees, circular and parliamentary debates but exposes no direct law-page hyperlinks in the Madagascar entry. This package records the transcriptions and exact references without claiming an independent primary-scan verification."
+    },
+    {
+      "scope": "image resolution",
+      "result": "Both complete medal pair files are below the preferred 1200 px long-edge priority (360 px and 427 px); they remain complete low-resolution source references and should not be treated as high-resolution publication masters."
+    },
+    {
+      "scope": "rights",
+      "result": "No open reuse licence was stated. SAMLHOC legal notice requires prior written permission for reproduction/adaptation; the cache is for research provenance."
+    }
+  ],
+  "next_checkpoint": "Current SAMLHOC Madagascar index, main page, first/second object pages, shared diploma page and rights page are cached and swept. Two existing-family variant rows are complete at the source-evidence level. Next work, if authorized, should independently locate higher-resolution object photographs or primary Journal officiel scans; do not broaden this package to unrelated SAMLHOC pages."
+}

@@ -1,0 +1,233 @@
+{
+  "schema": "image-harvest-v1",
+  "batch_id": "egypt_commons_awards_batch3",
+  "as_of": "2026-09-26",
+  "scope": "Exact 19 candidates from batch1 only; original files downloaded sequentially at low rate",
+  "records": [
+    {
+      "candidate_id": "EGY-COMMONS-001",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "EGY - Ordre du Nil - Collier.png",
+      "role": "Nile collar diagram/vector; not a physical object photograph",
+      "page_url": "https://commons.wikimedia.org/wiki/File:EGY_-_Ordre_du_Nil_-_Collier.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/EGY_-_Ordre_du_Nil_-_Collier.png",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Lion59131",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-001.png",
+      "status": "downloaded_decoded",
+      "width": 1920,
+      "height": 528,
+      "bytes": 87566,
+      "sha256": "67ab0314447badf95c4d0e6d8032db830e0ff1754664d838595880c48c19bc7f",
+      "visually_reviewed": false,
+      "body_eligible": false
+    },
+    {
+      "candidate_id": "EGY-COMMONS-002",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "Great Order of the Nile, Carter Museum.jpg",
+      "role": "museum-context object photograph candidate; Great Order of the Nile, Jimmy Carter Library and Museum category",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Great_Order_of_the_Nile,_Carter_Museum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Great_Order_of_the_Nile%2C_Carter_Museum.jpg",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "ArtemisiaGentileschiFan",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-002.jpg",
+      "status": "downloaded_decoded",
+      "width": 4032,
+      "height": 3024,
+      "bytes": 633209,
+      "sha256": "217abf80f7e841b251ba95da233cf676efaaa6e983da6d6803ec6f03a2643d20",
+      "visually_reviewed": false,
+      "body_eligible": false
+    },
+    {
+      "candidate_id": "EGY-COMMONS-003",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "Grand Cordon of the Order of the Nile (Egypt) - Memorial JK - Brasilia - DSC00434.JPG",
+      "role": "museum exhibit object photograph candidate; Grand Cordon, Memorial JK",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Grand_Cordon_of_the_Order_of_the_Nile_(Egypt)_-_Memorial_JK_-_Brasilia_-_DSC00434.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grand_Cordon_of_the_Order_of_the_Nile_%28Egypt%29_-_Memorial_JK_-_Brasilia_-_DSC00434.JPG",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Daderot",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-003.JPG",
+      "status": "downloaded_decoded",
+      "width": 3648,
+      "height": 2736,
+      "bytes": 3550598,
+      "sha256": "6e3f3637fe95210e7b9348557f6d9728bbb3cf04d960b1b977b3c652ba061135",
+      "visually_reviewed": false,
+      "body_eligible": false
+    },
+    {
+      "candidate_id": "EGY-COMMONS-004",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "Order of the Nile, 4th class.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Order_of_the_Nile,_4th_class.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Order_of_the_Nile%2C_4th_class.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests (f061ab2))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-005",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "Order of the Nile, star (Republic of Egypt).jpg",
+      "role": "Republic of Egypt Order of the Nile star candidate",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Order_of_the_Nile,_star_(Republic_of_Egypt).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Order_of_the_Nile,_star_%28Republic_of_Egypt%29.jpg",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Hsq7278",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-005.jpg",
+      "status": "downloaded_decoded",
+      "width": 568,
+      "height": 566,
+      "bytes": 88627,
+      "sha256": "fb3eae499b21e08aa10c557ca85838f0b8efe6d586eac1e4bf3c7bb96e5f836a",
+      "visually_reviewed": false,
+      "body_eligible": false
+    },
+    {
+      "candidate_id": "EGY-COMMONS-006",
+      "family_id": "EGY-PRES-NILE-SASH",
+      "file_title": "Orden Nila znak.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Orden_Nila_znak.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Orden_Nila_znak.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests (f061ab2))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-007",
+      "family_id": "EGY-PRES-NILE-SASH",
+      "file_title": "Orden Nila zveno.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Orden_Nila_zveno.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Orden_Nila_zveno.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests (f061ab2))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-008",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "file_title": "Orden Nila.jpg",
+      "role": "Order of the Nile object candidate",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Orden_Nila.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Orden_Nila.jpg",
+      "license": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+      "author": "Kei",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-008.jpg",
+      "status": "downloaded_decoded",
+      "width": 1552,
+      "height": 2716,
+      "bytes": 470280,
+      "sha256": "9474fc8285dd4ea088d22aa2330cbcd99d2e99e9ed25fc59c6031d66b2b0e867",
+      "visually_reviewed": false,
+      "body_eligible": false
+    },
+    {
+      "candidate_id": "EGY-COMMONS-009",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "(!)وسام الجمهورية من الدرجة الأولى 1977.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:(!)وسام_الجمهورية_من_الدرجة_الأولى_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%28%21%29%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests (f061ab2))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-010",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "(2)وسام الجمهورية من الدرجة الأولى 1977.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:(2)وسام_الجمهورية_من_الدرجة_الأولى_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%282%29%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests (f061ab2))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-011",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "وسام الجمهورية من الدرجة الأولى1977.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:وسام_الجمهورية_من_الدرجة_الأولى1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%891977.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-012",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "وسام الجمهورية والشريط.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:وسام_الجمهورية_والشريط.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B7.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-013",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "Orden Republike Egipat 01.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Orden_Republike_Egipat_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Orden_Republike_Egipat_01.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-014",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "file_title": "Orden Republike Egipat 02.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Orden_Republike_Egipat_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Orden_Republike_Egipat_02.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-015",
+      "family_id": "EGY-PRES-ORDER-VIRTUES",
+      "file_title": "Order of the Virtues Nishan al Kemal Egypt.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Order_of_the_Virtues_Nishan_al_Kemal_Egypt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Order_of_the_Virtues_Nishan_al_Kemal_Egypt.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-016",
+      "family_id": "EGY-PRES-MEDAL-SCIENCES-ARTS",
+      "file_title": "Order of Sciences & Arts (Egypt).jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Order_of_Sciences_%26_Arts_(Egypt).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Order_of_Sciences_%26_Arts_%28Egypt%29.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-017",
+      "family_id": "EGY-PRES-MEDAL-MERIT",
+      "file_title": "وسام الاستحقاق من الدرجة الثالثة 1960.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الثالثة_1960.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_1960.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-018",
+      "family_id": "EGY-PRES-MEDAL-MERIT",
+      "file_title": "وسام الاستحقاق من الدرجة الثالثة (1960 ).jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الثالثة_(1960_).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%281960_%29.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    },
+    {
+      "candidate_id": "EGY-COMMONS-019",
+      "family_id": "EGY-PRES-MEDAL-MERIT",
+      "file_title": "وسام الاستحقاق من الدرجة الرابعة (!).jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الرابعة_(!).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%28%21%29.jpg",
+      "status": "failed",
+      "error": "Response status code does not indicate success: 429 (Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1))."
+    }
+  ],
+  "counts": {
+    "candidates": 19,
+    "downloaded_decoded": 5,
+    "failed": 14,
+    "visually_reviewed": 0,
+    "body_eligible": 0
+  },
+  "public_files_modified": [],
+  "next_checkpoint": "Visual review all decoded originals, map exact grades/variants, and build an Egypt volume from only complete correctly identified open-licence images."
+}

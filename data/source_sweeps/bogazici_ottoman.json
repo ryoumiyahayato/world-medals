@@ -1,0 +1,11 @@
+{
+  "source_id": "bogazici_ottoman",
+  "source_name": "Boğaziçi University Digital Archive supplied record",
+  "seed_url": "https://digitalarchive.library.bogazici.edu.tr/items/8945da89-8a69-4d26-b910-20ea6d0d805f/full",
+  "status": "blocked_by_access_control",
+  "processed_pages": 0,
+  "raw_candidate_count": 0,
+  "access_result": "The URL returned a Cloudflare Turnstile security-verification form for access from outside Türkiye.",
+  "remaining": "Record metadata and attached files were not accessed.",
+  "notes": "No CAPTCHA was solved or bypassed; no candidate was fabricated."
+}

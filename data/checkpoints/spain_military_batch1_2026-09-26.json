@@ -1,0 +1,98 @@
+{
+  "batch_id": "ESP-MIL-B1-20260926",
+  "as_of": "2026-09-26",
+  "status": "saved_for_parent_merge",
+  "scope": "Spain / Spanish Kingdom military awards; 2003 regulation annex + 2018 Campaign Medal decree only",
+  "source_coverage": {
+    "planned": 11,
+    "completed": 2,
+    "partial": 3,
+    "blocked": 2,
+    "not_started": 4,
+    "details": {
+      "completed": [
+        "BOE RD 1040/2003 annex: HTML and figures 001–039 swept; figures 002–039 inspected; figure 001 is palette only",
+        "BOE RD 336/2018: complete six-page decree; p. 6 official drawing rendered/cropped"
+      ],
+      "partial": [
+        "BOE 2025 illustrated volume downloaded (285 pages), image reuse restricted, chapter-by-chapter sweep not complete",
+        "Prieto Barrio 20/38 topic pages swept; 18 remain; images copyright reserved",
+        "Commons four category/API requests reached 429 after two standalone files cached; stop requests; files excluded"
+      ],
+      "blocked": [
+        "CERES query returned 429; no retries",
+        "BVD candidate page returned 403; no retry, zero-byte snapshot excluded"
+      ],
+      "not_started": [
+        "Spanish military museum catalogues",
+        "Spanish national library/archive illustrated catalogues",
+        "Specialist Spanish auction archives",
+        "Remaining official honours portals/regulations, including San Fernando and San Hermenegildo"
+      ]
+    }
+  },
+  "difference": {
+    "existing_volumes_checked": [
+      "data/catalogue.json",
+      "data/volumes/mena_round7_2026-09-26.json"
+    ],
+    "formal_overlap_families_in_this_batch": 0,
+    "separate_existing_spain_reference": "MENA7 Isabella the Catholic order star; outside current military-awards scope"
+  },
+  "counts": {
+    "raw_candidates": 41,
+    "independent_families": 8,
+    "variant_rows": 41,
+    "official_diagram_images": 41,
+    "specimen_photos": 0,
+    "unresolved_or_uncovered_candidates": 5
+  },
+  "completed": [
+    "Created raw official-source candidate rows with direct BOE image/PDF source URLs, figure IDs, crop rectangles, source/crop SHA-256 and image dimensions.",
+    "Normalized by nation/issuer → award family → grade or wear-form variant; class, color distinction, collective ribbon/flag/plaque/insignia stayed within the applicable family.",
+    "Rendered and visually checked all 41 final crops via contact sheets; corrected incomplete plaque crops and page-15 insignia crop bounds; all 41 files decode.",
+    "Preserved original full annex plates 001–039 and the six-page campaign PDF plus 600-dpi p. 6 render.",
+    "Created an isolated merge-ready records volume, candidate family index, source record, source matrix, image manifest and checkpoint."
+  ],
+  "not_done": [
+    "San Fernando / San Hermenegildo / constancy rules and images, not included in the 2003 diagram batch.",
+    "18 remaining Prieto Barrio topic pages and remaining source sweeps.",
+    "Modern specimen photography and reverse images from actual objects.",
+    "The 2024+ Campaign Medal design variant; BOE 2018 diagram only.",
+    "Spanish national museum/archive/catalogue and auction source discovery."
+  ],
+  "next_start": {
+    "scope": "Sweden / SHM collections",
+    "action": "Page the SHM public API across recognized Swedish order/medal families; retain object IDs, object pages, original media URLs, credit, license and full-size decodable images. Normalize grades/wear forms under the award family; do not modify index.html/site_build.py or navigation.",
+    "do_not_repeat": [
+      "Wikimedia Commons Spain requests that returned 429",
+      "CERES query after 429",
+      "BVD page after 403"
+    ]
+  },
+  "files_written_by_this_task": [
+    "data/source_atlas/spain_source_matrix.json",
+    "data/raw_candidates/spain/boe_military_batch1_2026-09-26.jsonl",
+    "data/volumes/spain_military_batch1_2026-09-26_candidates.json",
+    "data/volumes/spain_military_batch1_2026-09-26.json",
+    "data/volumes/spain_military_batch1_2026-09-26_manifest.json",
+    "sources/spain_military_batch1_sources_2026-09-26.json",
+    "assets/images/spain_military_batch1/",
+    "assets/raw/spain_boe_2003/",
+    "assets/raw/spain_boe_2018/campaign_page6_600dpi.png"
+  ],
+  "shared_files_not_modified": [
+    "index.html",
+    "site_build.py",
+    "data/catalogue.json",
+    "data/progress.json",
+    "public navigation/styles"
+  ],
+  "integrity": {
+    "all_41_images_exist": true,
+    "all_41_images_decoded": true,
+    "all_crop_sha256_recorded": true,
+    "manual_visual_check_completed": true,
+    "package_not_merged_to_public_index": true
+  }
+}

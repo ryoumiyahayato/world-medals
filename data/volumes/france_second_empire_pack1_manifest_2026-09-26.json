@@ -1,0 +1,18 @@
+{
+  "volume": "France — Second Empire, 1852–1870 — pack 1",
+  "as_of": "2026-09-26",
+  "records_file": "data/volumes/france_second_empire_pack1_2026-09-26.json",
+  "sources_file": "sources/france_second_empire_pack1_sources_2026-09-26.json",
+  "candidate_file": "data/volumes/france_second_empire_pack1_candidates_2026-09-26.json",
+  "image_directory": "assets/images/france_second_empire_pack1/",
+  "counts": {"distinct_families": 2, "variant_rows": 2, "complete_image_files": 3, "excluded_files": 2},
+  "images": [
+    {"view_key": "FRA-SE-ITALY-1859-PRESENTATION-FRONT", "local_path": "assets/images/france_second_empire_pack1/italy-1859-paris-musees-front-cc0.jpg"},
+    {"view_key": "FRA-SE-ITALY-1859-PRESENTATION-REVERSE", "local_path": "assets/images/france_second_empire_pack1/italy-1859-paris-musees-cc0.jpg"},
+    {"view_key": "FRA-SE-MEXICO-1863-FRONT-BACK", "local_path": "assets/images/france_second_empire_pack1/mexico-1863-napoleon-foundation.jpg"}
+  ],
+  "excluded": [
+    "Saint Helena candidate was an award certificate, not a medal photograph.",
+    "China 1861 candidate was cropped and did not show a complete single specimen."
+  ]
+}

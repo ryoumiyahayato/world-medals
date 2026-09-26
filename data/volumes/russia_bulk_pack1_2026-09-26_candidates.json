@@ -1,0 +1,1911 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "俄罗斯帝国（本批只做Commons order-category差集）、苏联、俄罗斯联邦首批差集候选；非穷尽清单",
+  "existing_russia_families_excluded": [],
+  "existing_russia_variants_excluded": [],
+  "counts": {
+    "raw_source_entries": 126,
+    "source_directory_family_candidates_after_merging": 124,
+    "imperial_commons_order_candidates": 9,
+    "ussr_mondvor_order_candidates": 20,
+    "ussr_mondvor_medal_candidates": 55,
+    "rf_decree_entries": 42,
+    "rf_unique_candidate_families_after_two_order_medal_merges": 40
+  },
+  "merge_rules": [
+    "award_family按授予主体/时期与制度名称；同名等级、星章、颈章、肩绶章/挂章及加剑不拆family。",
+    "RF medal of the Order 'For Merit to the Fatherland' 并入同名订单family。",
+    "RF medal of the Order 'Parental Glory' 并入同名订单family。",
+    "Saint George Cross在总统令中是单独命名的区别标志，不当成Order of Saint George的等级；是否跨时期持续族谱合并待主编裁定。"
+  ],
+  "merge_cases": [
+    {
+      "raw_record_id": "RF-MEDAL-01",
+      "grouped_family_id": "RUS-FED-ORD-03",
+      "rationale": "勋章法令使用“勋章/订单的奖章”名称；总统令将订单、等级结构作为同名国家奖励系统，按项目规则归入同一family。"
+    },
+    {
+      "raw_record_id": "RF-MEDAL-21",
+      "grouped_family_id": "RUS-FED-ORD-20",
+      "rationale": "“Орден «Родительская слава»”与其“медаль ордена”作为同名家族的具体类型/等级；按项目规则不另拆family。"
+    }
+  ],
+  "source_candidate_families": [
+    {
+      "family_id": "RUS-IMP-ORD-01",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Андрея Первозванного"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-01"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-02",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Александра Невского"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-02"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-03",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святой Анны"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-03"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-04",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святой Екатерины"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-04"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-05",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Георгия"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-05"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-06",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Иоанна Иерусалимского"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-06"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-07",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Станислава"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-07"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-08",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Святого Владимира"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-08"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-IMP-ORD-09",
+      "polity": "Российская империя",
+      "period_candidate": "Имперская система, XVIII век–1917; даты каждой награды待核",
+      "original_names": [
+        "Орден Белого орла"
+      ],
+      "source_record_ids": [
+        "IMP-ORDER-09"
+      ],
+      "source_ids": [
+        "commons_empire_order_categories"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-01",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Ленина"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-01"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-02",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Октябрьской Революции"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-02"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-03",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден «Победа»"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-03"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-04",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Красного Знамени"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-04"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-05",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Суворова"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-05"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-06",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Кутузова"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-06"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-07",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Богдана Хмельницкого"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-07"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-08",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Александра Невского"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-08"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-09",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Ушакова"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-09"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-10",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Нахимова"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-10"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-11",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Отечественной войны"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-11"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-12",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Красной Звезды"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-12"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-13",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Славы"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-13"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-14",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Трудового Красного Знамени"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-14"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-15",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден «Знак Почёта»"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-15"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-16",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Дружбы народов"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-16"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-17",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден «За службу Родине в Вооружённых Силах СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-17"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-18",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Трудовой Славы"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-18"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-19",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден «За личное мужество»"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-19"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-ORD-20",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Орден Материнская слава"
+      ],
+      "source_record_ids": [
+        "USSR-ORDER-20"
+      ],
+      "source_ids": [
+        "mondvor_ussr_order_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-01",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За трудовую доблесть»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-01"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-02",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За трудовое отличие»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-02"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-03",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Ветеран труда»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-03"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-04",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За отвагу»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-04"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-05",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За боевые заслуги»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-05"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-06",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль Ушакова"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-06"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-07",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль Нахимова"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-07"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-08",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Партизану Отечественной войны»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-08"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-09",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За отличие в охране государственной границы СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-09"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-10",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За отличие в воинской службе»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-10"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-11",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Ветеран Вооружённых Сил СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-11"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-12",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За укрепление боевого содружества»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-12"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-13",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Ленинграда»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-13"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-14",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Москвы»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-14"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-15",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Одессы»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-15"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-16",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Севастополя»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-16"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-17",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Сталинграда»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-17"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-18",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Киева»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-18"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-19",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Кавказа»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-19"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-20",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За оборону Советского Заполярья»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-20"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-21",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За победу над Германией в Великой Отечественной войне 1941–1945 гг.»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-21"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-22",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За победу над Японией»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-22"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-23",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За взятие Будапешта»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-23"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-24",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За взятие Кёнигсберга»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-24"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-25",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За взятие Вены»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-25"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-26",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За взятие Берлина»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-26"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-27",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За освобождение Белграда»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-27"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-28",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За освобождение Варшавы»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-28"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-29",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За освобождение Праги»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-29"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-30",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За доблестный труд в Великой Отечественной войне 1941–1945 гг.»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-30"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-31",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За восстановление предприятий чёрной металлургии юга»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-31"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-32",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За восстановление угольных шахт Донбасса»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-32"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-33",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За освоение целинных земель»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-33"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-34",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За строительство Байкало-Амурской магистрали»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-34"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-35",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За преобразование Нечерноземья РСФСР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-35"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-36",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За освоение недр и развитие нефтегазового комплекса Западной Сибири»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-36"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-37",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За отличную службу по охране общественного порядка»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-37"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-38",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За отвагу на пожаре»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-38"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-39",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За спасение утопающих»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-39"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-40",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «В ознаменование 100-летия со дня рождения Владимира Ильича Ленина»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-40"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-41",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Двадцать лет Победы в Великой Отечественной войне 1941–1945 гг.»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-41"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-42",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Тридцать лет Победы в Великой Отечественной войне 1941–1945 гг.»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-42"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-43",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «Сорок лет Победы в Великой Отечественной войне 1941–1945 гг.»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-43"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-44",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «XX лет Рабоче-Крестьянской Красной Армии»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-44"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-45",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «30 лет Советской Армии и Флота»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-45"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-46",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «40 лет Вооружённых Сил СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-46"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-47",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «50 лет Вооружённых Сил СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-47"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-48",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «60 лет Вооружённых Сил СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-48"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-49",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «70 лет Вооружённых Сил СССР»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-49"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-50",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «50 лет советской милиции»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-50"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-51",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «В память 800-летия Москвы»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-51"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-52",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «В память 250-летия Ленинграда»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-52"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-53",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «В память 1500-летия Киева»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-53"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-54",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль материнства"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-54"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "USSR-MED-55",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "original_names": [
+        "Медаль «За безупречную службу»"
+      ],
+      "source_record_ids": [
+        "USSR-MEDAL-55"
+      ],
+      "source_ids": [
+        "mondvor_ussr_medal_index"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-01",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Святого апостола Андрея Первозванного"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-01"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-02",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Святого Георгия"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-02"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-03",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «За заслуги перед Отечеством»",
+        "Медаль ордена «За заслуги перед Отечеством»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-03",
+        "RF-MEDAL-01"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-04",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Святой великомученицы Екатерины"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-04"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-05",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Гагарина"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-05"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-06",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «За доблестный труд»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-06"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-07",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Александра Невского"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-07"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-08",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Суворова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-08"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-09",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Ушакова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-09"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-10",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Жукова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-10"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-11",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Кутузова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-11"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-12",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Нахимова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-12"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-13",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Мужества"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-13"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-14",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «За военные заслуги»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-14"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-15",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «За морские заслуги»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-15"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-16",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Почёта"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-16"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-17",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Дружбы"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-17"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-18",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден Пирогова"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-18"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-19",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «За заслуги в культуре и искусстве»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-19"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-ORD-20",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Орден «Родительская слава»",
+        "Медаль ордена «Родительская слава»"
+      ],
+      "source_record_ids": [
+        "RF-ORDER-20",
+        "RF-MEDAL-21"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-CROSS-ST-GEORGE",
+      "polity": "俄罗斯联邦",
+      "period_candidate": "俄罗斯联邦 (1992–present)",
+      "original_names": [
+        "Знак отличия ордена Святого Георгия — Георгиевский Крест"
+      ],
+      "source_record_ids": [
+        "RF-CROSS-ST-GEORGE"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-02",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За отвагу»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-02"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-03",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За храбрость»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-03"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-04",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Суворова"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-04"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-05",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Ушакова"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-05"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-06",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Жукова"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-06"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-07",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Нестерова"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-07"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-08",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Пушкина"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-08"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-09",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «Защитнику свободной России»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-09"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-10",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За отличие в охране общественного порядка»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-10"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-11",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За отличие в охране государственной границы»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-11"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-12",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За отвагу на пожаре»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-12"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-13",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За спасение погибавших»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-13"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-14",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль Луки Крымского"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-14"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-15",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За труды в культуре и искусстве»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-15"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-16",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За труды по сельскому хозяйству»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-16"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-17",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За развитие железных дорог»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-17"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-18",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За заслуги в освоении атомной энергии»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-18"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-19",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За заслуги в освоении космоса»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-19"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    },
+    {
+      "family_id": "RUS-FED-MED-20",
+      "polity": "Российская Федерация",
+      "period_candidate": "Российская Федерация (1992–present)",
+      "original_names": [
+        "Медаль «За развитие Сибири и Дальнего Востока»"
+      ],
+      "source_record_ids": [
+        "RF-MEDAL-20"
+      ],
+      "source_ids": [
+        "rf_decree_1099_2024"
+      ],
+      "status": "candidate_not_yet_merged_or_verified"
+    }
+  ],
+  "batch1_selected_family_ids": [
+    "RUS-IMP-ORD-01",
+    "RUS-IMP-ORD-05",
+    "RUS-IMP-MED-RUSSO-JAPANESE",
+    "USSR-ORD-01",
+    "USSR-ORD-04",
+    "USSR-ORD-05",
+    "USSR-MED-04",
+    "RUS-FED-MED-01",
+    "RUS-FED-MED-02"
+  ],
+  "notes": "Source-index names are raw candidates; titles and dates not individually substantiated for all 124 candidates. Detailed directory sweep remains open."
+}

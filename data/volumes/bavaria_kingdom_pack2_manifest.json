@@ -1,0 +1,40 @@
+{
+  "volume": "Bavaria — Kingdom of Bavaria, 1806–1918 — pack 2",
+  "as_of": "2026-09-26",
+  "responsibility_scope": "巴伐利亚王国第二小包；1866纪念奖励和军事功绩十字，兼顾实际可取得对象图与未完成的MVO/Armeedenkzeichen候选。",
+  "records_file": "data/volumes/bavaria_kingdom_pack2.json",
+  "sources_file": "data/volumes/bavaria_kingdom_pack2_sources.json",
+  "candidate_file": "data/volumes/bavaria_kingdom_pack2_candidates.json",
+  "image_directory": "assets/images/bavaria_kingdom_pack2/",
+  "original_directory": "originals/bavaria_kingdom_pack2/",
+  "source_archive": "sources/bavaria_kingdom_pack2/",
+  "counts": {
+    "candidate_scope_rows": 8,
+    "distinct_families_in_this_batch": 2,
+    "variant_rows": 2,
+    "complete_image_files": 2,
+    "unpictured_or_pending_scope_rows": 6,
+    "unresolved": 3
+  },
+  "image_quality_and_rights": [
+    "Feldzugs-Denkzeichen 1866：1889×2160，CC0 Paris Musées；完整青铜十字与顶部环，实物无绶带和另行悬挂环；反面1866铭文清楚。",
+    "Militär-Verdienstkreuz三等加冠加剑：520×848，CC BY-SA 3.0/PDM（按Commons页保留）；完整十字、皇冠、双剑和顶部环，未见绶带；低清参考。"
+  ],
+  "unresolved_notes": [
+    "Feldzugs-Denkzeichen 1866与待收的Armeedenkzeichen 1866名称相近，已按巴黎博物馆题名暂立独立family，制度关系待德语目录复核。",
+    "Feldzugs-Denkzeichen来源对象缺绶带，只有反面图；未用其他实物正面或绶带拼配。",
+    "MVO大十字挂章/胸星及Armeedenkzeichen 1866原图均受Wikimedia 429限制，未将失败响应计入图片。"
+  ],
+  "images": [
+    {
+      "view_key": "BAV-FELDZUGS-DENKZEICHEN-1866-REVERSE",
+      "local_path": "assets/images/bavaria_kingdom_pack2/feldzugs-denkzeichen-1866-paris-musees.jpg"
+    },
+    {
+      "view_key": "BAV-MILITARY-MERIT-CROSS-3RD-CROWN-SWORDS-FRONT",
+      "local_path": "assets/images/bavaria_kingdom_pack2/military-merit-cross-3rd-class-crown-swords.jpg"
+    }
+  ],
+  "public_files_touched": [],
+  "next_checkpoint": "继续从BAV-ARMY-DENKZEICHEN-1866和BAV-MILITARY-MERIT-ORDER开始；先尝试DDB/DHM合法对象图，再以统一限速获取Tallinn MVO大十字挂章/胸星原图。"
+}

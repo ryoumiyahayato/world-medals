@@ -1,0 +1,114 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "美国联邦军事奖励：NHHC/NARA首包",
+  "records_file": "data/volumes/us_nhhc_pack1.json",
+  "image_directory": "assets/images/us_nhhc_pack1/",
+  "counts": {
+    "distinct_award_families": 8,
+    "variant_rows": 8,
+    "complete_image_files": 10
+  },
+  "images": [
+    {
+      "view_key": "US-BSM-1944-V-PLAIN-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-bsm-1944-v-plain-1.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/decorations/bronze-star.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/decorations/bronze-star/_jcr_content/body/media_asset/image.img.jpg/1510779663754.jpg",
+      "width": 848,
+      "height": 1232,
+      "sha256": "0e0848c9be8ecc52f7d66402c2263c4c2f7ced1a4afc56e9e017032578bd6e3a",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-DFC-1926-V-STANDARD-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-dfc-1926-v-standard-1.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/decorations/distinguished-flying-cross.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/decorations/distinguished-flying-cross/_jcr_content/body/media_asset/image.img.jpg/1576248017812.jpg",
+      "width": 948,
+      "height": 1217,
+      "sha256": "90a1aa049fbe377d2869cef1ab92483627eec91e8d0b7821f853351bb351079e",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-PH-1932-V-OBVERSE-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-ph-1932-v-obverse-1.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/decorations/purple-heart-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/decorations/purple-heart-medal/_jcr_content/body/media_asset_1791384473/image.img.jpg/1565622152086.jpg",
+      "width": 826,
+      "height": 1230,
+      "sha256": "289fa532edf0716271549b7106415bdaae917fa776206a3e57d5926ac40cf7b6",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-SSM-1932-V-STANDARD-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-ssm-1932-v-standard-1.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/decorations/silver-star.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/decorations/silver-star/_jcr_content/body/media_asset/image.img.jpg/1510777923964.jpg",
+      "width": 908,
+      "height": 1210,
+      "sha256": "551f42e820fe0ae20699cdb7f1373b5ef0187974b70355ae7c9bd10b6c7db2cb",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-NGCM-1869-V-TYPE-I-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-ngcm-1869-v-type-i-1.jpg",
+      "source_page": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/navy-good-conduct-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/heritage/awards/service-campaign/navy-good-conduct-medal/_jcr_content/body/media_asset/image.img.jpg/1555960574150.jpg",
+      "width": 496,
+      "height": 858,
+      "sha256": "df458bab21a19fabf13e2cabad4aefd26a4da2fc5f6feb3d5300474ab7c3c64f",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-MANILA-BAY-1898-V-AH-FOY-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-manila-bay-1898-v-ah-foy-1.jpg",
+      "source_page": "https://www.history.navy.mil/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/battle-of-manila-bay-medal--ah-foy.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/battle-of-manila-bay-medal--ah-foy/_jcr_content/body/media_asset/image.img.jpg/1556890745214.jpg",
+      "width": 1238,
+      "height": 1280,
+      "sha256": "ff1682f916c8ea62bba63ce8178a5d935110fd0e03acac35d1d4c257e09c7b26",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-MANILA-BAY-1898-V-AH-FOY-VIEW-2",
+      "local_path": "assets/images/us_nhhc_pack1/us-manila-bay-1898-v-ah-foy-2.jpg",
+      "source_page": "https://www.history.navy.mil/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/battle-of-manila-bay-medal--ah-foy.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/battle-of-manila-bay-medal--ah-foy/_jcr_content/body/media_asset_2138253829/image.img.jpg/1556890853416.jpg",
+      "width": 1203,
+      "height": 1280,
+      "sha256": "c6dfcb9f3d6fedc6b3e5e22d8f45f65502168ae03ac852bee72755d98530a6ad",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-SAMPSON-1901-V-NEW-YORK-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-sampson-1901-v-new-york-1.jpg",
+      "source_page": "https://www.history.navy.mil/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/west-indies-naval-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/west-indies-naval-campaign-medal/_jcr_content/body/media_asset/image.img.jpg/1506432271736.jpg",
+      "width": 587,
+      "height": 783,
+      "sha256": "c27089554a21a6737a1b9f9699bdea762aa2143fb4a375684ebeac6a78cfb6a1",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-SAMPSON-1901-V-NEW-YORK-VIEW-2",
+      "local_path": "assets/images/us_nhhc_pack1/us-sampson-1901-v-new-york-2.jpg",
+      "source_page": "https://www.history.navy.mil/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/west-indies-naval-campaign-medal.html",
+      "direct_image_url": "https://www.history.navy.mil/content/history/nhhc/our-collections/artifacts/uniforms-and-personal-equipment/awards/medals/west-indies-naval-campaign-medal/_jcr_content/body/media_asset_976835904/image.img.jpg/1506432688459.jpg",
+      "width": 500,
+      "height": 784,
+      "sha256": "6ed02ffe891c11e82850ef98d28b3969ec79d951c132d7b84911cc7421d92fe3",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    },
+    {
+      "view_key": "US-SMM-1901-V-BRONZE-VIEW-1",
+      "local_path": "assets/images/us_nhhc_pack1/us-smm-1901-v-bronze-1.jpg",
+      "source_page": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/80-G-K-13000/80-G-K-13528.html",
+      "direct_image_url": "https://www.history.navy.mil/bin/imageDownload?image=/content/dam/nhhc/our-collections/photography/images/80-G-K-13000/80-G-K-13528&rendition=cq5dam.web.1280.1280.jpeg",
+      "width": 1280,
+      "height": 1266,
+      "sha256": "da6fb03325bea1b694d7af029b4a3a047a6f8a54acf000a060d6399630857a65",
+      "rights": "Source page does not provide a reuse license statement checked in this batch; retain as research reference and do not imply permission for redistribution."
+    }
+  ],
+  "source_coverage": "Complete sweep of the 37 direct object/article pages visibly linked from NHHC Decorations and Service/Campaign directories at access time, plus four supplementary NHHC artifact/archive records. NHHC states its award directory is not exhaustive; this is not a complete U.S. awards catalogue."
+}

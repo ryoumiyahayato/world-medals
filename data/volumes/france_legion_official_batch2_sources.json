@@ -1,0 +1,16 @@
+{
+  "as_of":"2026-09-26",
+  "source_system":"Paris Musées Collections / IIIF",
+  "license":"CC0 Paris Musées",
+  "local_cache":"sources/cache/france_legion_official_batch2/",
+  "objects":[
+    {"source_id":"paris-musees-mvr-280000768","inventory":"D 89.188.2","institution":"Musée de la Vie romantique"},
+    {"source_id":"paris-musees-mvh-240017345","inventory":"1180.4","institution":"Maison de Victor Hugo - Hauteville House"},
+    {"source_id":"paris-musees-mvh-240017343","inventory":"1182","institution":"Maison de Victor Hugo - Hauteville House"},
+    {"source_id":"paris-musees-mvh-240017344","inventory":"1183","institution":"Maison de Victor Hugo - Hauteville House"},
+    {"source_id":"paris-musees-lec-600007795","inventory":"1997.235","institution":"Musée de la Libération de Paris"},
+    {"source_id":"paris-musees-lec-600003776","inventory":"2012.0.29","institution":"Musée de la Libération de Paris"},
+    {"source_id":"paris-musees-lec-600001269","inventory":"2002.1623A","institution":"Musée de la Libération de Paris"},
+    {"source_id":"paris-musees-lec-600001087","inventory":"2012.0.24","institution":"Musée de la Libération de Paris","maker":"Arthus-Bertrand"}
+  ]
+}

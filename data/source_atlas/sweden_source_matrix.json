@@ -1,0 +1,397 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "scope_id": "sweden_shm_orders",
+  "scope_label": "瑞典王国五个具名骑士团；SHM Livrustkammaren API完整分页扫描批次1",
+  "languages": [
+    "sv",
+    "en"
+  ],
+  "taxonomy": [
+    "museum_api",
+    "museum_object_record",
+    "official_statutes",
+    "image_media"
+  ],
+  "existing_coverage": {
+    "volumes_checked": {
+      "files_checked": [
+        "data/catalogue.json",
+        "data/volumes/armenia_pack1.json",
+        "data/volumes/armenia_pack1_manifest.json",
+        "data/volumes/bavaria_kingdom_pack1.json",
+        "data/volumes/bavaria_kingdom_pack1_candidates.json",
+        "data/volumes/bavaria_kingdom_pack1_checkpoint.json",
+        "data/volumes/bavaria_kingdom_pack1_manifest.json",
+        "data/volumes/bavaria_kingdom_pack1_sources.json",
+        "data/volumes/bavaria_kingdom_pack2.json",
+        "data/volumes/bavaria_kingdom_pack2_candidates.json",
+        "data/volumes/bavaria_kingdom_pack2_checkpoint.json",
+        "data/volumes/bavaria_kingdom_pack2_manifest.json",
+        "data/volumes/bavaria_kingdom_pack2_sources.json",
+        "data/volumes/egypt_republic_pack1.json",
+        "data/volumes/egypt_republic_pack1_manifest.json",
+        "data/volumes/egypt_republic_pack1_sources.json",
+        "data/volumes/france_commons_pack2_2026-09-26.json",
+        "data/volumes/france_commons_pack2_2026-09-26_candidates.json",
+        "data/volumes/france_commons_pack2_2026-09-26_checkpoint.json",
+        "data/volumes/france_commons_pack2_2026-09-26_manifest.json",
+        "data/volumes/france_commons_pack2_2026-09-26_sources.json",
+        "data/volumes/france_legion_evolution_pack1.json",
+        "data/volumes/france_legion_evolution_pack1_manifest.json",
+        "data/volumes/france_legion_evolution_pack1_sources.json",
+        "data/volumes/france_legion_official_batch2.json",
+        "data/volumes/france_legion_official_batch2_manifest.json",
+        "data/volumes/france_legion_official_batch2_sources.json",
+        "data/volumes/france_second_empire_pack1_2026-09-26.json",
+        "data/volumes/france_second_empire_pack1_candidates_2026-09-26.json",
+        "data/volumes/france_second_empire_pack1_checkpoint_2026-09-26.json",
+        "data/volumes/france_second_empire_pack1_manifest_2026-09-26.json",
+        "data/volumes/france_third_republic.json",
+        "data/volumes/france_third_republic_manifest.json",
+        "data/volumes/france_third_republic_pack1.json",
+        "data/volumes/france_third_republic_pack1_candidates.json",
+        "data/volumes/france_third_republic_pack1_checkpoint.json",
+        "data/volumes/france_third_republic_pack1_manifest.json",
+        "data/volumes/france_third_republic_pack1_sources.json",
+        "data/volumes/france_third_republic_sources.json",
+        "data/volumes/japan_meiji.json",
+        "data/volumes/japan_meiji_manifest.json",
+        "data/volumes/japan_meiji_pack4.json",
+        "data/volumes/japan_meiji_pack4_new.json",
+        "data/volumes/japan_meiji_pack4_new_manifest.json",
+        "data/volumes/japan_meiji_round2.json",
+        "data/volumes/japan_meiji_round2_candidates.json",
+        "data/volumes/japan_meiji_round2_checkpoint.json",
+        "data/volumes/japan_meiji_round2_manifest.json",
+        "data/volumes/japan_meiji_round2_sources.json",
+        "data/volumes/japan_meiji_round3.json",
+        "data/volumes/japan_meiji_round3_candidates.json",
+        "data/volumes/japan_meiji_round3_checkpoint.json",
+        "data/volumes/japan_meiji_round3_manifest.json",
+        "data/volumes/japan_meiji_round3_sources.json",
+        "data/volumes/japan_meiji_sources.json",
+        "data/volumes/japan_meiji_taisho_pack4_manifest.json",
+        "data/volumes/japan_meiji_taisho_pack4_sources.json",
+        "data/volumes/japan_taisho_pack1.json",
+        "data/volumes/japan_taisho_pack1_manifest.json",
+        "data/volumes/japan_taisho_pack1_sources.json",
+        "data/volumes/japan_taisho_pack4.json",
+        "data/volumes/japan_taisho_pack4_new.json",
+        "data/volumes/japan_taisho_pack4_new_manifest.json",
+        "data/volumes/legion_commons_pack1_2026-09-26.json",
+        "data/volumes/legion_commons_pack1_2026-09-26_candidates.json",
+        "data/volumes/legion_commons_pack1_2026-09-26_checkpoint.json",
+        "data/volumes/legion_commons_pack1_2026-09-26_manifest.json",
+        "data/volumes/legion_commons_pack1_2026-09-26_sources.json",
+        "data/volumes/mena_round7_2026-09-26.json",
+        "data/volumes/mena_round7_manifest_2026-09-26.json",
+        "data/volumes/mena_round7_sources_2026-09-26.json",
+        "data/volumes/ottoman_commons_batch1.json",
+        "data/volumes/ottoman_commons_batch1_candidates.json",
+        "data/volumes/ottoman_commons_batch1_checkpoint.json",
+        "data/volumes/ottoman_commons_batch1_manifest.json",
+        "data/volumes/ottoman_commons_batch1_sources.json",
+        "data/volumes/ottoman_medalbook_pack2.json",
+        "data/volumes/ottoman_medalbook_pack2_manifest.json",
+        "data/volumes/prussia_batch1_2026-09-26.json",
+        "data/volumes/prussia_batch1_candidates_2026-09-26.json",
+        "data/volumes/prussia_batch1_checkpoint_2026-09-26.json",
+        "data/volumes/prussia_batch1_manifest_2026-09-26.json",
+        "data/volumes/prussia_batch2_2026-09-26.json",
+        "data/volumes/prussia_batch2_candidates_2026-09-26.json",
+        "data/volumes/prussia_batch2_checkpoint_2026-09-26.json",
+        "data/volumes/prussia_batch2_manifest_2026-09-26.json",
+        "data/volumes/prussia_batch3_2026-09-26.json",
+        "data/volumes/prussia_batch3_candidates_2026-09-26.json",
+        "data/volumes/prussia_batch3_checkpoint_2026-09-26.json",
+        "data/volumes/prussia_batch3_manifest_2026-09-26.json",
+        "data/volumes/prussia_kingdom.json",
+        "data/volumes/prussia_kingdom_manifest.json",
+        "data/volumes/prussia_kingdom_sources.json",
+        "data/volumes/russian_empire_pack1.json",
+        "data/volumes/russian_empire_pack1_manifest.json",
+        "data/volumes/russian_federation_pack1.json",
+        "data/volumes/russian_federation_pack1_manifest.json",
+        "data/volumes/russia_bulk_pack1_2026-09-26.json",
+        "data/volumes/russia_bulk_pack1_2026-09-26_candidates.json",
+        "data/volumes/russia_bulk_pack1_2026-09-26_checkpoint.json",
+        "data/volumes/russia_bulk_pack1_2026-09-26_manifest.json",
+        "data/volumes/soviet_union_pack1.json",
+        "data/volumes/soviet_union_pack1_manifest.json",
+        "data/volumes/spain_military_batch1_2026-09-26.json",
+        "data/volumes/spain_military_batch1_2026-09-26_candidates.json",
+        "data/volumes/spain_military_batch1_2026-09-26_manifest.json",
+        "data/volumes/uk_mod_pack1.json",
+        "data/volumes/uk_mod_pack1_manifest.json",
+        "data/volumes/us_nhhc_pack1.json",
+        "data/volumes/us_nhhc_pack1_manifest.json"
+      ],
+      "name_hits": []
+    },
+    "existing_formal_records_in_this_batch_scope": 0,
+    "difference_result": "SHM五个 order 名称在现有catalogue/volume文本中未检出正式对应行；本任务仅写隔离候选文件，未更改目录或公共入口。"
+  },
+  "source_counts": {
+    "planned": 8,
+    "completed": 5,
+    "partial": 1,
+    "blocked": 1,
+    "not_started": 1
+  },
+  "sources": [
+    {
+      "source_id": "se_shm_api_carl_xiii_orden",
+      "source_name": "Statens historiska museer / Livrustkammaren — Carl_XIII_orden public search API",
+      "base_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&limit=50",
+      "source_type": "museum_object_api_paged_search",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Collection object-production dating; not automatically an award establishment date.",
+      "content_coverage": "9 cached 50-item pages; 442 search hits; API-declared total 442. This query is complete for its current API result set, not exhaustive for all Swedish awards.",
+      "has_images": true,
+      "image_quality_notes": "Search API reports image dimensions as 0/null. Individual original-image resolution and completeness require downloading and visual inspection.",
+      "has_pagination": true,
+      "download_method": "Public API pagination by offset; original JSON pages retained under sources/cache/sweden_shm_api/.",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/cache/sweden_shm_api/Carl_XIII_orden/offset_*.json",
+      "raw_candidates": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+      "license_note": "API returns per-image rights fields (CC BY 4.0, PDM or BUS). BUS is excluded from this candidate batch; only exact image/item rights can be used."
+    },
+    {
+      "source_id": "se_shm_api_nordstjarneorden",
+      "source_name": "Statens historiska museer / Livrustkammaren — Nordstjarneorden public search API",
+      "base_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Nordstj%C3%A4rneorden&hasImage=1&institution=Livrustkammaren&limit=50",
+      "source_type": "museum_object_api_paged_search",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Collection object-production dating; not automatically an award establishment date.",
+      "content_coverage": "3 cached 50-item pages; 113 search hits; API-declared total 113. This query is complete for its current API result set, not exhaustive for all Swedish awards.",
+      "has_images": true,
+      "image_quality_notes": "Search API reports image dimensions as 0/null. Individual original-image resolution and completeness require downloading and visual inspection.",
+      "has_pagination": true,
+      "download_method": "Public API pagination by offset; original JSON pages retained under sources/cache/sweden_shm_api/.",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/cache/sweden_shm_api/Nordstjarneorden/offset_*.json",
+      "raw_candidates": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+      "license_note": "API returns per-image rights fields (CC BY 4.0, PDM or BUS). BUS is excluded from this candidate batch; only exact image/item rights can be used."
+    },
+    {
+      "source_id": "se_shm_api_serafimerorden",
+      "source_name": "Statens historiska museer / Livrustkammaren — Serafimerorden public search API",
+      "base_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Serafimerorden&hasImage=1&institution=Livrustkammaren&limit=50",
+      "source_type": "museum_object_api_paged_search",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Collection object-production dating; not automatically an award establishment date.",
+      "content_coverage": "6 cached 50-item pages; 282 search hits; API-declared total 282. This query is complete for its current API result set, not exhaustive for all Swedish awards.",
+      "has_images": true,
+      "image_quality_notes": "Search API reports image dimensions as 0/null. Individual original-image resolution and completeness require downloading and visual inspection.",
+      "has_pagination": true,
+      "download_method": "Public API pagination by offset; original JSON pages retained under sources/cache/sweden_shm_api/.",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/cache/sweden_shm_api/Serafimerorden/offset_*.json",
+      "raw_candidates": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+      "license_note": "API returns per-image rights fields (CC BY 4.0, PDM or BUS). BUS is excluded from this candidate batch; only exact image/item rights can be used."
+    },
+    {
+      "source_id": "se_shm_api_svardsorden",
+      "source_name": "Statens historiska museer / Livrustkammaren — Svardsorden public search API",
+      "base_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Sv%C3%A4rdsorden&hasImage=1&institution=Livrustkammaren&limit=50",
+      "source_type": "museum_object_api_paged_search",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Collection object-production dating; not automatically an award establishment date.",
+      "content_coverage": "4 cached 50-item pages; 192 search hits; API-declared total 192. This query is complete for its current API result set, not exhaustive for all Swedish awards.",
+      "has_images": true,
+      "image_quality_notes": "Search API reports image dimensions as 0/null. Individual original-image resolution and completeness require downloading and visual inspection.",
+      "has_pagination": true,
+      "download_method": "Public API pagination by offset; original JSON pages retained under sources/cache/sweden_shm_api/.",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/cache/sweden_shm_api/Svardsorden/offset_*.json",
+      "raw_candidates": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+      "license_note": "API returns per-image rights fields (CC BY 4.0, PDM or BUS). BUS is excluded from this candidate batch; only exact image/item rights can be used."
+    },
+    {
+      "source_id": "se_shm_api_vasaorden",
+      "source_name": "Statens historiska museer / Livrustkammaren — Vasaorden public search API",
+      "base_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Vasaorden&hasImage=1&institution=Livrustkammaren&limit=50",
+      "source_type": "museum_object_api_paged_search",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Collection object-production dating; not automatically an award establishment date.",
+      "content_coverage": "3 cached 50-item pages; 115 search hits; API-declared total 115. This query is complete for its current API result set, not exhaustive for all Swedish awards.",
+      "has_images": true,
+      "image_quality_notes": "Search API reports image dimensions as 0/null. Individual original-image resolution and completeness require downloading and visual inspection.",
+      "has_pagination": true,
+      "download_method": "Public API pagination by offset; original JSON pages retained under sources/cache/sweden_shm_api/.",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/cache/sweden_shm_api/Vasaorden/offset_*.json",
+      "raw_candidates": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl",
+      "license_note": "API returns per-image rights fields (CC BY 4.0, PDM or BUS). BUS is excluded from this candidate batch; only exact image/item rights can be used."
+    },
+    {
+      "source_id": "se_shm_object_pages_selected",
+      "source_name": "SHM public object pages — selected direct detail checks",
+      "base_url": "https://samlingar.shm.se/object/",
+      "source_type": "museum_object_detail_page",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Individual object dating, former ownership, object description, literature and image credit/license.",
+      "content_coverage": "Directly opened and read selected object pages for 432_LRK (Svärdsorden) and 1855_LRK (Carl XIII:s orden); 2 detailed page records checked. Selected API metadata retained for all 15 image candidates; remaining detail pages were not independently cached.",
+      "has_images": true,
+      "image_quality_notes": "Object pages can show multiple images, credits, and distinct per-image licenses. Do not assume all views share one license.",
+      "has_pagination": false,
+      "download_method": "Official SHM object-page retrieval via web reading; page excerpts/evidence notes are in the source file.",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "local_cache": "sources/sweden_shm_orders_batch1_sources_2026-09-26.json",
+      "coverage_result": "Verified badge identities, object dates, dimensions/description where visible, and CC BY 4.0 credit lines for the two opened pages; other records remain API-metadata candidates."
+    },
+    {
+      "source_id": "se_shm_original_media_batch1",
+      "source_name": "SHM original image media endpoints — selected badge/star candidates",
+      "base_url": "https://media.samlingar.shm.se/item/",
+      "source_type": "museum_original_media",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Sweden / Kingdom of Sweden"
+      ],
+      "date_coverage": "Not applicable.",
+      "content_coverage": "SHM public search service displays a notice that image files cannot currently be downloaded due to technical issues. A representative original large-image endpoint also timed out; no Swedish image bytes were saved. Fifteen individually licensed candidate URLs are preserved in the image manifest. Stop retries until the access condition changes.",
+      "has_images": true,
+      "image_quality_notes": "No downloaded image was decoded or visually checked; image count for this batch is zero.",
+      "has_pagination": false,
+      "download_method": "Direct `large` endpoint; connection timeout; no screenshot or preview substituted.",
+      "priority": 1,
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "local_cache": "assets/images/sweden_shm_orders_batch1/images_manifest.json",
+      "coverage_result": "No local image bytes; no image is HTML eligible.",
+      "service_status_notice": {
+        "url": "https://samlingar.shm.se/sok",
+        "accessed": "2026-09-26",
+        "text_sv": "Just nu har vi tekniska bekymmer som gör att det inte går att ladda ner bildfiler.",
+        "text_en": "We are currently experiencing technical issues that prevent image files from being downloaded."
+      },
+      "rights_note": "Selected candidates are CC BY 4.0 or PDM according to the API; retain author/institution and per-image license if download later succeeds."
+    },
+    {
+      "source_id": "se_sweden_official_order_statutes",
+      "source_name": "Swedish official order statutes and Royal Order portal",
+      "base_url": null,
+      "source_type": "official_regulation",
+      "languages": [
+        "sv"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Sweden"
+      ],
+      "date_coverage": "Founding dates, legal grades, award criteria and historic reform dates.",
+      "content_coverage": "Not started in this museum-API package.",
+      "has_images": false,
+      "image_quality_notes": "No visual source expected.",
+      "has_pagination": false,
+      "download_method": "Not started.",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-26",
+      "coverage_result": "Required before assigning founding dates or making a full legal grade taxonomy."
+    }
+  ],
+  "query_summary": {
+    "Carl_XIII_orden": {
+      "pages": 9,
+      "hits": 442,
+      "declared_total": 442,
+      "query_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&limit=50"
+    },
+    "Nordstjarneorden": {
+      "pages": 3,
+      "hits": 113,
+      "declared_total": 113,
+      "query_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Nordstj%C3%A4rneorden&hasImage=1&institution=Livrustkammaren&limit=50"
+    },
+    "Serafimerorden": {
+      "pages": 6,
+      "hits": 282,
+      "declared_total": 282,
+      "query_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Serafimerorden&hasImage=1&institution=Livrustkammaren&limit=50"
+    },
+    "Svardsorden": {
+      "pages": 4,
+      "hits": 192,
+      "declared_total": 192,
+      "query_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Sv%C3%A4rdsorden&hasImage=1&institution=Livrustkammaren&limit=50"
+    },
+    "Vasaorden": {
+      "pages": 3,
+      "hits": 115,
+      "declared_total": 115,
+      "query_url": "https://samlingar.shm.se/api/v1/search?type=object&query=Vasaorden&hasImage=1&institution=Livrustkammaren&limit=50"
+    }
+  },
+  "triage_summary": {
+    "unique_objects": 951,
+    "total_search_hits": 1144,
+    "query_hit_duplicates": 193,
+    "unique_ids_in_multiple_queries": 146,
+    "class_counts": {
+      "clothing_or_equipment": 122,
+      "other_or_unresolved": 494,
+      "named_order_insignia_candidate": 243,
+      "standalone_ribbon": 72,
+      "other_order_or_insignia_candidate": 20
+    },
+    "family_candidate_counts": {
+      "SWE-CARL-XIII-ORDEN": 12,
+      "SWE-SERAFIMERORDEN": 66,
+      "SWE-VASAORDEN": 53,
+      "SWE-SVARDSORDEN": 59,
+      "SWE-NORDSTJARNEORDEN": 53
+    },
+    "license_counts": {
+      "CC BY 4.0": 562,
+      "PDM": 385,
+      "BUS": 4
+    }
+  },
+  "next_action": "Wait for a working official SHM media endpoint or use an alternate licensed source. Download, decode and visually check the five first-priority whole badge/star files before marking any variant merge-ready; then independently sweep official order statutes."
+}

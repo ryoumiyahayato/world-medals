@@ -1,0 +1,50 @@
+{
+  "batch_id": "PRU-B1-20260926",
+  "as_of": "2026-09-26",
+  "status": "saved_for_parent_merge",
+  "completed": [
+    "读取CONTINUE_FR_DE_JP.md并核对现有prussia_kingdom数据",
+    "从DHM目录与Weitze普鲁士索引形成候选清单并与5个现有family做差集",
+    "实际保存并人工查看红鹰大十字、红鹰二等文职胸星、霍亨索伦骑士十字加剑三张完整正面图",
+    "保存三张原始文件副本、尺寸、字节数、SHA-256及来源／许可记录",
+    "保留DHM黑鹰条目的150×140缩略图为排除证据，不计入records"
+  ],
+  "not_done": [
+    "黑鹰勋章合格完整原图",
+    "红鹰勋章军用二等／四等、其他主要级别及背面",
+    "霍亨索伦勋章指挥官／大指挥官及鹰部版型",
+    "普鲁士一般荣誉奖章、杜佩尔十字、柯尼希格雷茨十字、1897百年纪念章、服役奖章、1916战争辅助十字等候选",
+    "Wikimedia两个已下载对象的本地HTML快照（下载后触发429，未重复请求）",
+    "霍亨索伦Commons许可元数据冲突复核"
+  ],
+  "next_start": {
+    "scope": "PRU-BLACK-EAGLE",
+    "action": "寻找明确馆藏对象页及可下载的完整正面／背面或领链原图；先检查DHM完整图、博物馆目录和已缓存候选，不把150×140缩略图入编",
+    "do_not_repeat": [
+      "PRU-RED-EAGLE-GRAND-1858-01",
+      "PRU-RED-EAGLE-II-STAR-DIAMONDS-1885-01",
+      "PRU-HOHENZOLLERN-KNIGHTS-CROSS-SWORDS-01"
+    ]
+  },
+  "files_written_by_this_task": [
+    "data/volumes/prussia_batch1_candidates_2026-09-26.json",
+    "data/volumes/prussia_batch1_2026-09-26.json",
+    "data/volumes/prussia_batch1_manifest_2026-09-26.json",
+    "data/volumes/prussia_batch1_checkpoint_2026-09-26.json",
+    "sources/prussia_batch1_sources_2026-09-26.json",
+    "assets/images/prussia_batch1_red-eagle-grand-badge-1858-1918.jpg",
+    "assets/images/prussia_batch1_red-eagle-ii-breast-star-diamonds-1885.jpg",
+    "assets/images/prussia_batch1_hohenzollern-knights-cross-swords.jpg",
+    "originals/prussia_batch1_red-eagle-grand-badge-1858-1918.jpg",
+    "originals/prussia_batch1_red-eagle-ii-breast-star-diamonds-1885.jpg",
+    "originals/prussia_batch1_hohenzollern-knights-cross-swords.jpg"
+  ],
+  "shared_files_not_modified": [
+    "data/catalogue.json",
+    "data/progress.json",
+    "index.html",
+    "assets/site.css",
+    "data/volumes/prussia_kingdom.json",
+    "data/volumes/prussia_kingdom_manifest.json"
+  ]
+}

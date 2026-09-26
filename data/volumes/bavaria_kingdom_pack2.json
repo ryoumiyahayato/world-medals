@@ -1,0 +1,44 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "巴伐利亚王国（1806–1918）第二小包：1866纪念奖励与军事功绩十字",
+  "scope": "在pack1候选差集基础上，实际收录两个独立family/variant；同时保留1866年新设奖励与王国末期继续授予版型。",
+  "candidate_file": "data/volumes/bavaria_kingdom_pack2_candidates.json",
+  "records": [
+    {
+      "id": "BAV-FELDZUGS-DENKZEICHEN-1866-01",
+      "family": "BAV-FELDZUGS-DENKZEICHEN-1866",
+      "name": "巴伐利亚1866年战役纪念章",
+      "original": "Feldzugs-Denkzeichen 1866 (Königreich Bayern)",
+      "date": "实物生产/年代1866–1867；具体设立日、颁发期与授予对象待考",
+      "variant": "青铜十字；照片显示完整章体与顶部环，中心为反面1866铭文；来源对象无绶带和另行悬挂环，按实物现状标注，不用其他实物补配；反面视图",
+      "views": [],
+      "source_ids": [
+        "bav-pack2-feldzugs-paris-page",
+        "bav-pack2-feldzugs-paris-iiif"
+      ]
+    },
+    {
+      "id": "BAV-MILITARY-MERIT-CROSS-3RD-CROWN-SWORDS-01",
+      "family": "BAV-MILITARY-MERIT-CROSS",
+      "name": "巴伐利亚军事功绩十字勋章",
+      "original": "Bayerisches Militär-Verdienstkreuz, 3. Klasse mit Krone und Schwertern",
+      "date": "王国末期/第一次世界大战时期版型；来源人物在1917–1918服役并获授，具体受授日期未详",
+      "variant": "三等加冠加剑；完整十字、皇冠、双剑与顶部环；照片未见绶带，按现有对象图样记录；Europeana/Age Exchange个人实物资料，低清参考",
+      "views": [
+        {
+          "key": "BAV-MILITARY-MERIT-CROSS-3RD-CROWN-SWORDS-FRONT",
+          "label": "正面（完整十字；未见绶带）"
+        }
+      ],
+      "source_ids": [
+        "bav-pack2-mvo-official-history",
+        "bav-pack2-mvkreuz-europeana-image"
+      ]
+    }
+  ],
+  "notes": [
+    "本包与pack1记录及现有公共catalogue做差集后新增BAV-FELDZUGS-DENKZEICHEN-1866与BAV-MILITARY-MERIT-CROSS的新记录；未修改公共catalogue、progress、index.html、公共样式/导航/搜索。",
+    "Feldzugs-Denkzeichen 1866按巴黎博物馆正式题名登记，不与待核的Armeedenkzeichen 1866自动合并；下一包需查德语制度目录解决两者关系。",
+    "军事功绩十字图来自Europeana/Age Exchange实物资料，文件页没有博物馆馆藏号；对象等级、皇冠与双剑由文件页标题/说明支持，照片未见绶带，未补配。"
+  ]
+}

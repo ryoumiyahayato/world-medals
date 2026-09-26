@@ -1,0 +1,67 @@
+{
+  "schema": "source-sweep-v1",
+  "source": "jpn-ndl-1441381",
+  "batch_id": "japan_ndl_public_plates_batch1",
+  "title": "大日本帝国勲章記章誌",
+  "status": "processed_directory_and_text_pages_no_object_plates",
+  "started_at": "2026-09-26T12:00:00+08:00",
+  "completed_at": "2026-09-26T12:20:00+08:00",
+  "rights": "PDM",
+  "attribution": "国立国会図書館 National Diet Library, JAPAN",
+  "planned": {
+    "manifest_url": "https://dl.ndl.go.jp/api/iiif/1441381/manifest.json",
+    "manifest_canvases": 101,
+    "directory_pages": [14, 15, 16],
+    "supporting_text_pages": [19, 21, 22, 23, 28, 30, 31, 32, 33, 41, 43, 44, 94, 95, 96],
+    "candidate_scope": "orders, rank tables, 從軍記章, 記念章, 褒章 and 各種記章"
+  },
+  "processed": {
+    "raw_candidates": "data/raw_candidates/japan_ndl_public_plates_batch1.jsonl",
+    "source_manifest": "sources/japan_ndl_public_plates_batch1_manifest.json",
+    "cached_scan_directory": "sources/pages/sources_ndl_967000/atlas_1441381_pages",
+    "candidate_count": 30,
+    "dedupe_counts": {
+      "existing_overlap": 14,
+      "same_family_new_variant_candidate": 6,
+      "new_family_candidate": 7,
+      "new_or_unresolved": 3
+    },
+    "full_page_scan_count": 32,
+    "full_page_scan_dimensions": "1600x1193",
+    "decoded_and_reopened": 32,
+    "visually_reviewed_pages": [14, 15, 16, 19, 21, 22, 23, 28, 30, 31, 32, 33, 41, 43, 44, 94, 95, 96],
+    "plate_number_count": 0,
+    "body_eligible_object_image_count": 0
+  },
+  "failed": [
+    {
+      "source_id": "jpn-ndl-967000",
+      "url": "https://dl.ndl.go.jp/pid/967000",
+      "stage": "plate_image_access",
+      "scope": "1918 source, 16 historical plates",
+      "reason": "Existing entry/metadata cache is available, but tested IIIF and page-image endpoints returned 404/5xx or access-denied. No error response was retained as an image."
+    }
+  ],
+  "remaining": [
+    "Do not promote the 30 directory candidates or the 32 text/table scans to the public HTML volume.",
+    "Verify exact Japanese titles, dates and grade/material from official regulations or an object source.",
+    "Locate complete front object images for new-family candidates in a separate image pass.",
+    "Retry the 1918 PID 967000 plates only when an official image route becomes available."
+  ],
+  "dedupe_against": {
+    "volumes_checked": [
+      "data/volumes/japan_meiji.json",
+      "data/volumes/japan_meiji_round2.json",
+      "data/volumes/japan_meiji_round3.json"
+    ],
+    "existing_family_count": 14,
+    "note": "No public volume, catalogue, index or shared HTML was modified."
+  },
+  "next_checkpoint": "japan_ndl_public_plates_batch1_complete_after_directory_pages_14-16; resume with official/object-image verification, not another NDL directory sweep",
+  "integrity": {
+    "manifest": "sources/japan_ndl_public_plates_batch1_manifest.json",
+    "raw_candidates": "data/raw_candidates/japan_ndl_public_plates_batch1.jsonl",
+    "all_image_hashes": "sha256 recorded per page in source manifest",
+    "crop_coordinate_space": "cached_1600x1193"
+  }
+}

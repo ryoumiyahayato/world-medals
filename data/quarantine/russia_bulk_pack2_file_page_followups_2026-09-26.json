@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "本批已抓取的两个Commons分类直接文件页中未被选为主图的对象页及配对／鉴定待办。",
+  "count": 23,
+  "items": [
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_01.html", "file_title": "Kadiev-medal-td.jpg", "status": "false_positive_quarantined", "reason": "目录页说明为1970年列宁百年纪念章相关证书图，不是劳动英勇奖章章体。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_02.html", "file_title": "SU Medal For Labour Valour ribbon.svg", "status": "excluded_ribbon_only", "reason": "仅有绶带；禁止作为章体图。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_03.html", "file_title": "Medal For Labour Valour Current.jpg", "status": "image_candidate_pending_review", "reason": "图像性质、原始文件和精确版型未在本批确认。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_04.html", "file_title": "Medal trudovoj doblest.png", "status": "image_candidate_pending_review", "reason": "图像性质、原始文件和精确版型未在本批确认。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_05.html", "file_title": "Medalla de ls Treballadors Distingits.jpg", "status": "image_candidate_pending_review", "reason": "多语言分类成员；family对应及精确版型待核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_06.html", "file_title": "Outstanding achievements labor.png", "status": "image_candidate_pending_review", "reason": "对象、图像性质及family对应待核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_08.html", "file_title": "Soviet Medal For Labour Valour REVERSE.jpg", "status": "unpaired_reverse_candidate", "reason": "无同件编号或配对证据；不与所选正面并排。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_09.html", "file_title": "Stamp of USSR 1058.jpg", "status": "excluded_postage_stamp", "reason": "邮票图而非奖章实物。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_10.html", "file_title": "Stamp of USSR 1066.jpg", "status": "excluded_postage_stamp", "reason": "邮票图而非奖章实物。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_11.html", "file_title": "TDb01733.jpg", "status": "image_candidate_pending_review", "reason": "对象、来源许可及精确版型待复核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_12.html", "file_title": "TDb01733R.jpg", "status": "pairing_unverified", "reason": "疑似反面或另一视图；与TDb01733.jpg的实物配对关系未证。"},
+    {"cache": "sources/pages/russia_normalization_pack2/labour_valour_13.html", "file_title": "Медаль За трудову доблесть.jpg", "status": "image_candidate_pending_review", "reason": "须复核图片对应、授权及精确版型。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_01.html", "file_title": "SU Medal For Distinguished Labour ribbon.svg", "status": "excluded_ribbon_only", "reason": "仅有绶带；禁止作为章体图。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_02.html", "file_title": "DistinguishedLabourRibbon.png", "status": "excluded_ribbon_only", "reason": "仅有绶带；禁止作为章体图。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_03.html", "file_title": "Medal For Distinguished Labour.jpg", "status": "image_candidate_pending_review", "reason": "图片完整度及精确版型待核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_04.html", "file_title": "Medalla de la Distinció Laboral.jpg", "status": "image_candidate_pending_review", "reason": "多语言分类成员；family对应及精确版型待核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_05.html", "file_title": "Soviet Medal For Distinguished Labour OBVERSE.jpg", "status": "image_candidate_pending_review", "reason": "本批未选；高清正面优先，保留来源页待进一步对照和复核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_06.html", "file_title": "Soviet Medal For Distinguished Labour REVERSE.jpg", "status": "unpaired_reverse_candidate", "reason": "无同件编号或配对证据；不与正面并排。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_07.html", "file_title": "Stamp of USSR 1059.jpg", "status": "excluded_postage_stamp", "reason": "邮票图而非奖章实物。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_08.html", "file_title": "Stamp of USSR 1067.jpg", "status": "excluded_postage_stamp", "reason": "邮票图而非奖章实物。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_09.html", "file_title": "TOt00752.jpg", "status": "image_candidate_pending_review", "reason": "对象说明、完整度、许可及精确型式待核。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_10.html", "file_title": "TOt00752R.jpg", "status": "pairing_unverified", "reason": "疑似反面或另一视图；与TOt00752.jpg的实物配对关系未证。"},
+    {"cache": "sources/pages/russia_normalization_pack2/distinguished_labour_12.html", "file_title": "За трудовое отличие реверс.jpg", "status": "unpaired_reverse_candidate", "reason": "作者和拍摄时间接近，但尚无足够依据确定与所选正面为同一件实物；未下载为本包图像。"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "as_of":"2026-09-26",
+  "status":"IDENTITY_CONFLICT",
+  "source_id":"paris-musees-mvh-240017342",
+  "source_title":"Réduction de la croix de Légion d'honneur de Léopold Sigisbert Hugo",
+  "source_url":"https://www.parismuseescollections.paris.fr/fr/maison-de-victor-hugo/oeuvres/reduction-de-la-croix-de-legion-d-honneur-de-leopold-sigisbert-hugo",
+  "reason":"馆藏标题称荣誉军团缩章，但图像正面铭文为 BONAPARTE I ROI DES ESP...，馆藏记录的铭文亦为 VIRTUTE ET FIDE / REX JOS NAP HISP ET IND，与荣誉军团不符；暂不入正式正文。",
+  "local_images":["assets/images/france_legion_official_batch2/first-empire-leopold-sigisbert-hugo-reduction-1808-1814-front.jpg","assets/images/france_legion_official_batch2/first-empire-leopold-sigisbert-hugo-reduction-1808-1814-back.jpg"]
+}

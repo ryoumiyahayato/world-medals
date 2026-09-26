@@ -1,0 +1,153 @@
+{
+  "batch_id": "SWE-SHM-ORDERS-B1-20260926",
+  "as_of": "2026-09-26",
+  "discovery_queue": [
+    {
+      "task": "official statutes and establishment dates",
+      "status": "not_started",
+      "priority": 1
+    }
+  ],
+  "image_queue": [
+    {
+      "object_id": "9D13DF03-48AB-4CB5-8523-AB59E847540F",
+      "family": "SWE-SERAFIMERORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/9D13DF03-48AB-4CB5-8523-AB59E847540F?type=object&query=Serafimerorden&hasImage=1&institution=Livrustkammaren&offset=50&n=70",
+      "original_url": "https://media.samlingar.shm.se/item/8c668ed7-4502-4880-be26-66153ca6b31b/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 1
+    },
+    {
+      "object_id": "3AF73294-0BAD-480D-BB67-62827DA201D4",
+      "family": "SWE-SERAFIMERORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/3AF73294-0BAD-480D-BB67-62827DA201D4?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&offset=100&n=126",
+      "original_url": "https://media.samlingar.shm.se/item/35556FAD-3E26-4BB3-9E41-9D332C0D4307/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "33B64533-18D7-4176-9412-190FB83AB7C8",
+      "family": "SWE-SERAFIMERORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/33B64533-18D7-4176-9412-190FB83AB7C8?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&offset=50&n=57",
+      "original_url": "https://media.samlingar.shm.se/item/CB397F82-D149-41CB-B2EB-CEA7DDF3034A/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "71380294-7B11-4654-967C-D595EDD80C8B",
+      "family": "SWE-SVARDSORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/71380294-7B11-4654-967C-D595EDD80C8B?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&offset=50&n=98",
+      "original_url": "https://media.samlingar.shm.se/item/6303CC1A-518F-42E0-AACE-BC141C68FC09/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 1
+    },
+    {
+      "object_id": "07418087-2FD4-46E4-B9FC-905C5DE111FC",
+      "family": "SWE-SVARDSORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/07418087-2FD4-46E4-B9FC-905C5DE111FC?type=object&query=Sv%C3%A4rdsorden&hasImage=1&institution=Livrustkammaren&offset=50&n=56",
+      "original_url": "https://media.samlingar.shm.se/item/3B8C5C54-7588-4B8B-BE91-AACDA7A33602/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "8D8EDE99-61B7-41D8-BE06-41FDFF61B58F",
+      "family": "SWE-SVARDSORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/8D8EDE99-61B7-41D8-BE06-41FDFF61B58F?type=object&query=Sv%C3%A4rdsorden&hasImage=1&institution=Livrustkammaren&n=50",
+      "original_url": "https://media.samlingar.shm.se/item/688B3B6A-0F80-4DF8-9B09-8BA42D3E6F8A/large",
+      "license": "PDM",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "6FF43489-DBEF-4787-8A96-5DEC45D7C312",
+      "family": "SWE-NORDSTJARNEORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/6FF43489-DBEF-4787-8A96-5DEC45D7C312?type=object&query=Nordstj%C3%A4rneorden&hasImage=1&institution=Livrustkammaren&n=10",
+      "original_url": "https://media.samlingar.shm.se/item/31D6AD30-8F8A-4CF2-971B-F3DB41F4D5D6/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 1
+    },
+    {
+      "object_id": "75AE6A5C-3797-49DA-9753-967681151248",
+      "family": "SWE-NORDSTJARNEORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/75AE6A5C-3797-49DA-9753-967681151248?type=object&query=Nordstj%C3%A4rneorden&hasImage=1&institution=Livrustkammaren&n=13",
+      "original_url": "https://media.samlingar.shm.se/item/C7F53B10-401C-4855-8E66-0A25970AD75F/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "76AC0B68-8590-4B0D-8F1A-EC5712CFD236",
+      "family": "SWE-NORDSTJARNEORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/76AC0B68-8590-4B0D-8F1A-EC5712CFD236?type=object&query=Nordstj%C3%A4rneorden&hasImage=1&institution=Livrustkammaren&offset=50&n=76",
+      "original_url": "https://media.samlingar.shm.se/item/55f8ef65-e05a-4560-8bff-c0d8b55a0bec/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "A913107C-F0DD-4B5D-AE38-BBA12CFFA7C5",
+      "family": "SWE-VASAORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/A913107C-F0DD-4B5D-AE38-BBA12CFFA7C5?type=object&query=Vasaorden&hasImage=1&institution=Livrustkammaren&offset=50&n=86",
+      "original_url": "https://media.samlingar.shm.se/item/d7057a76-6abf-497d-828a-192460b9425d/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 1
+    },
+    {
+      "object_id": "B60025C7-3162-4CCE-B17F-EBD307653686",
+      "family": "SWE-VASAORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/B60025C7-3162-4CCE-B17F-EBD307653686?type=object&query=Vasaorden&hasImage=1&institution=Livrustkammaren&offset=50&n=52",
+      "original_url": "https://media.samlingar.shm.se/item/88892FD4-17BC-47CA-87CA-D6C59090679F/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "5F18D93A-1EC5-40AB-BB40-52B09661DE35",
+      "family": "SWE-VASAORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/5F18D93A-1EC5-40AB-BB40-52B09661DE35?type=object&query=Vasaorden&hasImage=1&institution=Livrustkammaren&offset=50&n=51",
+      "original_url": "https://media.samlingar.shm.se/item/56d9db9b-e1ec-4190-b57f-c188413e145e/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "C6019EA9-9955-45D4-B735-2E4C4A7BF5F3",
+      "family": "SWE-CARL-XIII-ORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/C6019EA9-9955-45D4-B735-2E4C4A7BF5F3?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&n=33",
+      "original_url": "https://media.samlingar.shm.se/item/7b013830-9a35-489c-895c-3eb245e6ddf9/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 1
+    },
+    {
+      "object_id": "86A610F3-D989-4BC8-87E8-17DCBCACD8A8",
+      "family": "SWE-CARL-XIII-ORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/86A610F3-D989-4BC8-87E8-17DCBCACD8A8?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&n=24",
+      "original_url": "https://media.samlingar.shm.se/item/3e2b42e2-3443-4c81-9c6b-f631b516d7a6/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    },
+    {
+      "object_id": "FE570A1D-3A30-4265-BA1E-B2144E97942C",
+      "family": "SWE-CARL-XIII-ORDEN",
+      "object_page_url": "https://samlingar.shm.se/object/FE570A1D-3A30-4265-BA1E-B2144E97942C?type=object&query=Carl%20XIII%3As%20orden&hasImage=1&institution=Livrustkammaren&n=6",
+      "original_url": "https://media.samlingar.shm.se/item/b1180a87-3668-4da8-bd78-842bb95885ec/large",
+      "license": "CC BY 4.0",
+      "status": "blocked_on_media_host",
+      "priority": 2
+    }
+  ],
+  "remaining_raw_sweep": {
+    "unique_objects": 936,
+    "status": "retained_for_later_screening",
+    "raw_jsonl": "data/raw_candidates/sweden/shm_orders_api_2026-09-26.jsonl"
+  }
+}

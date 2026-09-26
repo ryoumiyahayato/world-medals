@@ -1,0 +1,24 @@
+{
+  "source_id": "picryl_ottoman",
+  "source_name": "PICRYL — Medals of the Ottoman Empire topic",
+  "seed_url": "https://picryl.com/topics/medals+of+the+ottoman+empire",
+  "status": "partial_with_item_fetch_failures",
+  "topic_pages": 1,
+  "topic_pages_processed": 1,
+  "visible_results": 16,
+  "item_pages_attempted": 16,
+  "item_pages_read": 13,
+  "item_pages_failed": 3,
+  "raw_candidate_count": 16,
+  "award_object_or_group_candidates": 11,
+  "historical_plate_candidates": 1,
+  "context_only_items": 4,
+  "raw_candidate_file": "data/raw_candidates/picryl_ottoman.jsonl",
+  "pagination": "page 1 of 1; no remaining topic pagination",
+  "image_note": "PICRYL derivative image URLs were recorded when exposed; original Commons images are delegated to the Commons source sweep.",
+  "failed_items": [
+    "Amir Nuri as-Shaalan 0001",
+    "Küçük İmtiyaz Madalyası second topic result",
+    "Photo of Yemen Madalyası — silver"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "巴伐利亚王国（1806–1918）首包候选差集；同时保留1794年设立、在王国时期继续授予的连续体系。候选来自巴伐利亚军事博物馆/专业协会说明、德国历史博物馆目录、Wikimedia Commons巴伐利亚奖励类别及当地语种总目录；不以已找到图片的对象反推目录。",
+  "existing_families_excluded_from_difference": [],
+  "existing_variants_checked": [],
+  "candidate_directory_sources": [
+    {
+      "id": "bav-pack1-directory-list",
+      "page": "https://de.wikipedia.org/wiki/Liste_der_bayerischen_Orden_und_Ehrenzeichen",
+      "source_type": "德语综合目录（发现入口）",
+      "role": "提取巴伐利亚正式勋章、奖章、服役与纪念奖励名称；每个实际收录项另以博物馆/专业页面或对象页核对。"
+    },
+    {
+      "id": "bav-pack1-directory-commons",
+      "page": "https://commons.wikimedia.org/wiki/Category:Military_decorations_of_the_Kingdom_of_Bavaria",
+      "source_type": "Wikimedia Commons当地语种/英文图像目录",
+      "role": "检查独立章种与已存在图像文件，不代替制度和对象身份核查。"
+    },
+    {
+      "id": "bav-pack1-dhm-directory",
+      "page": "https://www.dhm.de/archiv/magazine/orden/",
+      "source_type": "德国历史博物馆历史勋章目录",
+      "role": "用于核对巴伐利亚勋章实物条目、目录编号、材质和铭文；本包实际打开了Militär-Verdienstmedaille条目。"
+    },
+    {
+      "id": "bav-pack1-army-museum-overview",
+      "page": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+      "source_type": "Bayerisches Armeemuseum官方对象说明",
+      "role": "核对1866年军事功绩勋章设立及与Max-Joseph-Orden的制度关系，并为后续MVO候选提供官方入口。"
+    },
+    {
+      "id": "bav-pack1-specialist-history",
+      "page": "https://www.freundeskreis-armeemuseum.de/erwerbungen/neueste-erwerbungen/",
+      "source_type": "Freunde des Bayerischen Armeemuseums e.V.专业说明",
+      "role": "核对Max-Joseph-Orden、Tapferkeitsmedaille及Militär-Sanitäts-Orden的沿革；不是单独的图像许可来源。"
+    }
+  ],
+  "candidates": [
+    {
+      "family": "BAV-MILITARY-MAX-JOSEPH",
+      "original_names": ["Militär-Max-Joseph-Orden", "Militärorden von Max Joseph"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1806年设立；王国时期至1918年",
+      "status": "本包收录：大十字级胸星",
+      "sources": ["bav-pack1-specialist-history", "https://commons.wikimedia.org/wiki/Category:Military_Order_of_Max_Joseph"],
+      "next_step": "补同一对象或明确同版型的完整挂章、指挥官十字与骑士十字；不把本包照片中出框的挂章作为已配图。"
+    },
+    {
+      "family": "BAV-MILITARY-MERIT-ORDER",
+      "original_names": ["Bayerischer Militär-Verdienstorden", "Militär-Verdienstorden"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1866年7月19日设立；至1918年",
+      "status": "差集候选；官方对象说明已确认，待按等级和剑饰收录",
+      "sources": ["bav-pack1-army-museum-overview", "bav-pack1-directory-commons"],
+      "next_step": "优先获取官方/公共馆藏的Komturkreuz或Großkreuz完整正面，分别核对加剑、皇冠及星章。"
+    },
+    {
+      "family": "BAV-MILITARY-MERIT-CROSS",
+      "original_names": ["Bayerisches Militär-Verdienstkreuz", "Militär-Verdienstkreuz"],
+      "granting_body": "巴伐利亚王国",
+      "period": "20世纪初设立；王国末期及第一次世界大战时期",
+      "status": "差集候选；与Militär-Verdienstorden分开，避免将十字类混并",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "查制度设立公报及一至三等/皇冠/剑饰版型，确认不与MVO勋章等级重复。"
+    },
+    {
+      "family": "BAV-TAPFERKEITSMEDAILLE",
+      "original_names": ["Bayerische Tapferkeitsmedaille", "Militärverdienstmedaille"],
+      "granting_body": "巴伐利亚选侯国及巴伐利亚王国连续体系",
+      "period": "1794年设立；1806–1918王国时期继续授予；1918年正式改名",
+      "status": "本包收录：金质型正、背面参考图",
+      "sources": ["bav-pack1-specialist-history", "bav-pack1-dhm-directory", "https://commons.wikimedia.org/wiki/Category:Bayerische_Tapferkeitsmedaille"],
+      "next_step": "补银质型、早期肖像型与有馆藏号的同一实物正背；不将现有两张文件页默认视为同一件。"
+    },
+    {
+      "family": "BAV-ARMY-DENKZEICHEN-1866",
+      "original_names": ["Armeedenkzeichen 1866"],
+      "granting_body": "巴伐利亚王国军队",
+      "period": "1866年设立；德意志战争纪念奖励",
+      "status": "差集候选；Commons正背页面已确认，下载阶段遇429，未写入正式图目录",
+      "sources": ["bav-pack1-directory-commons", "https://www.deutsche-digitale-bibliothek.de/item/4BCTTS5LO2PADT3RNPHZAPJQLKZJ6PC7"],
+      "next_step": "换官方公共馆藏或限速重试原图；优先取得DDB对象与完整正面，确认铜质十字、绶带和1866背铭。"
+    },
+    {
+      "family": "BAV-MILITARY-DENKZEICHEN-1813-1815",
+      "original_names": ["Militär-Denkzeichen 1813/1814/1815", "Militärdenkzeichen"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1848年设立；纪念1813–1815战事",
+      "status": "差集候选；专业目录入口已发现，待对象页和图像",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-dhm-directory"],
+      "next_step": "核对不同年份铭文与是否为同一family下版型，避免将年份章面误算为新章种。"
+    },
+    {
+      "family": "BAV-VETERAN-DENKZEICHEN",
+      "original_names": ["Veteranen-Denkzeichen"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1848年设立；王国时期",
+      "status": "差集候选；待可靠对象图",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-dhm-directory"],
+      "next_step": "核对授予资格是否为正式国家奖励而非退伍协会纪念章，再找完整实物。"
+    },
+    {
+      "family": "BAV-DENKZEICHEN-1849",
+      "original_names": ["Denkzeichen für 1849", "Feldzug-Denkzeichen 1849"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1849年设立或授予；王国早期",
+      "status": "差集候选；名称和制度关系待核",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-dhm-directory"],
+      "next_step": "先核对德语目录中是否为两个不同奖励，再决定family拆分。"
+    },
+    {
+      "family": "BAV-MAXIMILIAN-ORDER-SCIENCE-ART",
+      "original_names": ["Bayerischer Maximiliansorden für Wissenschaft und Kunst"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1853年设立；王国时期",
+      "status": "差集候选；民事/学术奖励",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "区分勋章、胸星及授予领域，优先找博物馆实物照片。"
+    },
+    {
+      "family": "BAV-MILITARY-SANITARY",
+      "original_names": ["Militär-Sanitäts-Ehrenzeichen", "Militär-Sanitäts-Orden"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1812设立；1914改称Militär-Sanitäts-Orden；王国末期",
+      "status": "差集候选；沿革已由专业说明确认，待完整图",
+      "sources": ["bav-pack1-specialist-history", "bav-pack1-directory-commons"],
+      "next_step": "按金/银两级与1914名称改定核对具体版型，寻找完整奖章与绶带。"
+    },
+    {
+      "family": "BAV-SERVICE-LONG-SERVICE-CROSS",
+      "original_names": ["Dienstauszeichnungskreuz", "Dienstalterszeichen"],
+      "granting_body": "巴伐利亚王国军队/行政体系",
+      "period": "1876年后；王国时期",
+      "status": "差集候选；等级与名称沿革待核",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "分军队、Landwehr与文职服务年限，核对同名制度的时间线。"
+    },
+    {
+      "family": "BAV-LUDWIG-MEDAL-SCIENCE-ART",
+      "original_names": ["Ludwigsmedaille für Wissenschaft und Kunst"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1872年设立；王国时期",
+      "status": "差集候选；待公共馆藏图",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "确认是否包含独立等级/材质版型，寻找完整正面和背面。"
+    },
+    {
+      "family": "BAV-LUDWIG-MEDAL-INDUSTRY",
+      "original_names": ["Ludwigsmedaille für Industrie"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1872年设立；王国时期",
+      "status": "差集候选；待制度和对象核对",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "与科学艺术Ludwigsmedaille分开查图，不能用同模奖章照片替代。"
+    },
+    {
+      "family": "BAV-LANDWEHR-SERVICE-DECORATION",
+      "original_names": ["Landwehr-Dienstauszeichnung"],
+      "granting_body": "巴伐利亚王国Landwehr",
+      "period": "1876年后；王国时期",
+      "status": "差集候选；待服役体系和对象图",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "核对是否为独立奖励而非服务年限章的军种分支，优先公共馆藏。"
+    },
+    {
+      "family": "BAV-LIFESAVING-MEDAL",
+      "original_names": ["Rettungsmedaille"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1889年设立；王国时期",
+      "status": "差集候选；民事救生奖励",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "寻找正式授予规定及完整实物，区分州级救生奖与地方协会奖。"
+    },
+    {
+      "family": "BAV-ST-GEORGE-MEDAL",
+      "original_names": ["St. Georgs-Medaille"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1889年设立；王国时期",
+      "status": "差集候选；待奖章性质与对象图",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "核对正式授予主体和非纪念品属性，再进行图片收录。"
+    },
+    {
+      "family": "BAV-LUITPOLD-MEDAL",
+      "original_names": ["Luitpoldmedaille"],
+      "granting_body": "巴伐利亚摄政王/巴伐利亚王国",
+      "period": "1897年设立；王国晚期",
+      "status": "差集候选；待分授予用途与等级",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "核对民事功绩与纪念版本，优先保留有正式授予性质者。"
+    },
+    {
+      "family": "BAV-VOLUNTARY-NURSING-MERIT-CROSS",
+      "original_names": ["Verdienstkreuz für freiwillige Krankenpflege"],
+      "granting_body": "巴伐利亚王国",
+      "period": "1901年设立；王国晚期/第一次世界大战",
+      "status": "差集候选；正式护理功绩奖励",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "确认等级、剑饰和服务年限版型，寻找完整实物照片。"
+    },
+    {
+      "family": "BAV-FIRE-BRIGADE-MERIT-CROSS",
+      "original_names": ["Feuerwehr-Verdienstkreuz"],
+      "granting_body": "巴伐利亚王国消防体系",
+      "period": "1901年设立；王国晚期",
+      "status": "差集候选；正式消防功绩奖励",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "核对国家/部门授予性质与等级，排除协会徽章后再收录。"
+    },
+    {
+      "family": "BAV-ARMY-JUBILEE-1905",
+      "original_names": ["Jubiläumsmedaille für die bayerische Armee 1905"],
+      "granting_body": "巴伐利亚王国军队",
+      "period": "1905年；军队周年纪念奖励",
+      "status": "差集候选；专业拍卖目录列项，待公共对象页与制度性质核对",
+      "sources": ["bav-pack1-directory-list", "bav-pack1-directory-commons"],
+      "next_step": "核实是否正式授予而非一般纪念章，寻找可公开使用的完整实物图。"
+    }
+  ],
+  "package_boundary": "本包只落盘BAV-MILITARY-MAX-JOSEPH的大十字胸星与BAV-TAPFERKEITSMEDAILLE的金质型正背参考；其余18项保留候选，不以候选数量计入已完成。"
+}

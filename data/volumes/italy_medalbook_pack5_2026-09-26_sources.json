@@ -1,0 +1,1863 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-26",
+  "source_id": "medalbook_italy_kingdom_complete_sweep",
+  "source_type": "specialist catalogue index and cached object pages",
+  "source_root": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/",
+  "accessed": "2026-09-26",
+  "records": [
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-commander-cross-7",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Commander Cross",
+      "original_name": "Italy orders Order of the Roman Eagle, Commander Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-COMMANDER-CROSS-7",
+      "variant_name_candidate": "Order of the Roman Eagle, Commander Cross",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel III, and it was awarde",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/28f62ddf123113b20f1f420dd933aee2f9505aa9/store/fit/528/348/8164a58a224dee11f9ce75afde93e3048c0519c27ec05530599fd5748a44/knight+obv.jpg",
+        "https://www.medalbook.com/attachments/829bb4b509d1320c2476123b8e552b664cedf07f/store/fit/528/348/b7f49486651561eef11d30f2c159b3c3755a6e349d528c5f69ffcc99bdee/knight+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-grand-cross-breast-star-in-silver-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Grand Cross Breast Star, in Silver",
+      "original_name": "Italy orders Order of the Roman Eagle, Grand Cross Breast Star, in Silver",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-GRAND-CROSS-BREAST-STAR-IN-SILVER-4",
+      "variant_name_candidate": "Order of the Roman Eagle, Grand Cross Breast Star, in Silver",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Ema",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/1c3d0ecf8a6e722f2942d5cf02664c65a22d6b75/store/fit/1000/750/c35e0721a562804cff640da8842e9c0aaaaeb77eeb0bddc11683c0822635/Roman+Eagle+GC+Star.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-grand-cross-in-gold-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Grand Cross, in gold",
+      "original_name": "Italy orders Order of the Roman Eagle, Grand Cross, in gold",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-GRAND-CROSS-IN-GOLD-1",
+      "variant_name_candidate": "Order of the Roman Eagle, Grand Cross, in gold",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 makers E. Gardino, Rome History This short-lived Order was founded by Victor Emanuel III, and it was",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/b1c011099bd4b9d7a6d4c2419dce50e55eb54bec/store/fit/1000/750/688bb7e973e470a8edd9e65961013fcf87c04cab2d81db770d0280c22f73/Order+of+the+Roman+Eagle%2C+Grand+Cross%2C+Gold%2C+Wreath+and+Swords%2C+Obv+.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-grand-cross-in-silver-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Grand Cross, in Silver",
+      "original_name": "Italy orders Order of the Roman Eagle, Grand Cross, in Silver",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-GRAND-CROSS-IN-SILVER-3",
+      "variant_name_candidate": "Order of the Roman Eagle, Grand Cross, in Silver",
+      "date_candidates": [
+        "1697",
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel I",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/7279e7f857a6f86c31dae84d2f51904a3479b1fc/store/fit/528/348/b17c43703383849a4aabdfcff37687869e9d18d7c48aeb4b1e08ed488111/Roman+Eagle+GC+Rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-grand-officer's-cross-5",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Grand Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Roman Eagle, Grand Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-GRAND-OFFICER-S-CROSS-5",
+      "variant_name_candidate": "Order of the Roman Eagle, Grand Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel III, and it was awarded to cit",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/b0292d553e63c6af04e419ee47ba03471a4050ec/store/fit/528/348/f32d63973ace6a483e69197f6dd49d67a0e848d257557f889bf211982b05/grand+officer+obv.jpg",
+        "https://www.medalbook.com/attachments/286ef63651c18bfce08c473edf53dd89fd3f5842/store/fit/528/348/2c609f3b9ce0e648a1ede986bf8b6b938174f7faf6bb5cb45fb57e35b438/grand+officer+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-grand-officer's-cross-breast-star-6",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Grand Officer&#39;s Cross Breast Star",
+      "original_name": "Italy orders Order of the Roman Eagle, Grand Officer's Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-GRAND-OFFICER-S-CROSS-BREAST-STAR-6",
+      "variant_name_candidate": "Order of the Roman Eagle, Grand Officer's Cross Breast Star",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2000",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Order of the Roman Eagle, Grand Officer&#39;s Cross Breast Star //<![CDATA[ var AUTH_TOKEN = 'I0GX4LF5d8sH5YGGWmfkkflz5EyJ6zAJiJg/llRhWlIUtj2s4xghiYtKqUoD97BUENhq410WxD13FYCNP8mf1w=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Orders Order of the Roman Eagle Order of the Roman Eagle, Grand Officer's Cross Breast Star Order of the Roman Eagle, Grand Officer's Cross Breast Star SKU: 01.ITA.0132.106.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributions Esti",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/0a14bb9f1eca0153a01e464f16f34fcc877e379a/store/fit/528/348/c4258194fe5c93925851fe3c226ccf9f7962d17861715ef5e4946960dafc/em27a1.jpg",
+        "https://www.medalbook.com/attachments/cc14e9571d02efb007179249b0568ea3dc3bd430/store/fit/528/348/9cda17b8b9d18e4173823e1bcf098006fece7386b6d33c6c3ab34c5caff5/em27c.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-knight's-cross-9",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Knight&#39;s Cross",
+      "original_name": "Italy orders Order of the Roman Eagle, Knight's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-KNIGHT-S-CROSS-9",
+      "variant_name_candidate": "Order of the Roman Eagle, Knight's Cross",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel III, and it was awarded to citizens of \"friendly\" f",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/d4e1cc0425ad5919324b768ab07d966204d5ffa7/store/fit/528/348/799e127eb33048bd97fcca281e99a403cfe49ed5daca3c0703610e227746/an_italian_order_54f86cd3aed851.jpg",
+        "https://www.medalbook.com/attachments/13f714648c2be734f0c8d8de913385040dbdca7a/store/fit/528/348/d4920df5df5bf076a10da8d55e009b865b30fd0c9ae364ecacb0bbbc82af/img_03.jpg54f86cef26e26.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-medal-in-bronze-11",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Medal, in Bronze",
+      "original_name": "Italy orders Order of the Roman Eagle, Medal, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-MEDAL-IN-BRONZE-11",
+      "variant_name_candidate": "Order of the Roman Eagle, Medal, in Bronze",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel III, and it was awarded to citizens of \"friendly\" foreign nations in recognition of ext",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/7e2e1f23801d2e244d61f745c31504d5ef6e3430/store/fit/528/348/c897aabe7f8a392b32fe9e5aef32ecc43533964a33f6286d6c63d92884f6/BRONZE1.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "family_id": "IT-KOI-044",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-roman-eagle/order-of-the-roman-eagle-officer's-cross-8",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Roman Eagle, Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Roman Eagle, Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE::ORDER-OF-THE-ROMAN-EAGLE-OFFICER-S-CROSS-8",
+      "variant_name_candidate": "Order of the Roman Eagle, Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution March 14, 1942 History This short-lived Order was founded by Victor Emanuel III, and it was awarded to citizens of \"friendly",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/b82dbfefea12d53370076d92903da511967a94c1/store/fit/528/348/ec18d4344b976b619c3a8a0f42eb3311abeb337dad12e0b150eb73f26fe5/Order_of_the_Rom_52bdba10cf24c1.jpg",
+        "https://www.medalbook.com/attachments/055dc536f5a7f5fe119a85f6a655de7b22aeca01/store/fit/528/348/e7517c4c8dbe50f32918501057a6c03f2e0f2740b0c84997ebecd08aedad/officer+with+wreath+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-commander-5",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Commander",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Commander",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-COMMANDER-5",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Commander",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution August 14, 1815 History The Order was founded by King Victor Emmanuel I, and it was awarded to military",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/1d014f5fbfde4c493b01783a38882ed63155d046/store/fit/528/348/51d57882b0ffdc9e61b9b7b9484b67383a8ad0ef720444fc3ef404865cfb/The_Military_Ord_54465ad1c56481.jpg",
+        "https://www.medalbook.com/attachments/bda5b2cb64ec6d470148556c098d959f1e9a20ff/store/fit/528/348/ec9ef0433185e09ee32902416227ca6e39bc6da93e1259628e30649b0919/IMG_03.jpg54465afd0098a.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-grand-cross-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Grand Cross",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Grand Cross",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-GRAND-CROSS-1",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Grand Cross",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution August 14, 1815 History The Order was founded by King Victor Emmanuel I, and it was awarded to mi",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/5955083446eed19e95000820e0282a8e967a3ad3/store/fit/528/348/000e3c87ef56d59c3194d3e2023aecbf32207b120d3817c69db608c06ac2/Savoy+GC+Rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-grand-cross-breast-star-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Grand Cross Breast Star",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Grand Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-GRAND-CROSS-BREAST-STAR-2",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Grand Cross Breast Star",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Military Order of Savoy, Type II, Grand Cross Breast Star //<![CDATA[ var AUTH_TOKEN = 'hUAt+jMBL0TG0A/33MJeKHi8nqKiQVfd3ywtlx//kGxdV7+Ir2kZb8r46wQxJc+lIuDMdbnYF4KrTpNsvZH51g=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Orders Military Order of Savoy Type II (1855-1946) Military Order of Savoy, Type II, Grand Cross Breast Star Military Order of Savoy, Type II, Grand Cross Breast Star SKU: 01.ITA.0127.202.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of Jemike, Wikipedia See Licence Image courtesy of Jemike, Wikipedia See Licence Image courtesy of Jemike, Wikipedia See Licence Image courtesy of Jemike, Wikipedia See Licence Image courtesy of Jemike, Wikipedia See Licence Image courtesy of Jemike, Wikipedia See Licence Add To My Me",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/d4b24daacddff02f8f65eb66e8433358b0b19718/store/fit/528/348/eb9929a10aa7bd0f4461ea8e7fa85437b2da45523849043d433c9a97d8a4/Military+Order+of+Savoy%2C+Type+II%2C+Grand+Cross+Breast+Star+1.jpg",
+        "https://www.medalbook.com/attachments/e6f97623249775fdf97f90ee7d53c24978bca224/store/fit/528/348/b8ee8af5311f79eb5b98c02425c5b154ea0285a99b505cfe0fddd795933f/Military+Order+of+Savoy%2C+Type+II%2C+Grand+Cross+Breast+Star+2.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-grand-officer-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Grand Officer",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Grand Officer",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-GRAND-OFFICER-3",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Grand Officer",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution August 14, 1815 History The Order was founded by King Victor Emmanuel I, and it was awarded",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/461c456c764e2486155422f23efe24c8602ddfe2/store/fit/528/348/e4ade7b337315fdef04a950efa8fadff3a0f953f5240e972aa8a5e084f7d/the_military_ord_54465ad1c56481.jpg",
+        "https://www.medalbook.com/attachments/a8782ec289c3d1d7973c3f7879437a014552a341/store/fit/528/348/b1735d98b84f12b0afa3d9195f189aed68b2c906c5a16277d5a3a3e1221d/img_03.jpg54465afd0098a.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-grand-officer-breast-star-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Grand Officer Breast Star",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Grand Officer Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-GRAND-OFFICER-BREAST-STAR-4",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Grand Officer Breast Star",
+      "date_candidates": [
+        "1681",
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Ita",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/1117b51033e2cf6795311e9399ca8dd6c433d049/store/fit/528/348/4230f339e2a05c8411ab6cc4878818a3524ea7ced8f6269d4210358cf6d8/Military+Order+of+Savoy%2C+Type+II%2C+Grand+Officer+Breast+Star+%28in+silver%29+1.jpg",
+        "https://www.medalbook.com/attachments/918d73702cb2577159f0f7055e6b8c52fe3d7617/store/fit/528/348/556bfadff24eaacadc0468cbd5be8c5ebb5a3975b3017d02cbffbface732/Military+Order+of+Savoy%2C+Type+II%2C+Grand+Officer+Breast+Star+%28in+silver%29+2.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-knight-7",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Knight",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Knight",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-KNIGHT-7",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Knight",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution August 14, 1815 History The Order was founded by King Victor Emmanuel I, and it wa",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/4b75763a3d49a2b2262bd8f22e91e8d5339934f1/store/fit/528/348/2ec4b3017cae9e41d935dee90e1e026989062dc20913cb8c726b2ad99aac/an_italian_milit_55c8fbde603731.jpg",
+        "https://www.medalbook.com/attachments/67d806f20bd31a9946641ad27e932d78f2f4344c/store/fit/528/348/ce860b3d5bd474f1bc19652bc0d5c3bbc3afcae807c3d27ef35c2c4030dc/img_04.jpg55c8fc0eaf524.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-1855-1946",
+      "family_id": "IT-KOI-045",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/military-order-of-savoy/type-i-i-1855-1946/military-order-of-savoy-type-ii-officer-6",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Order of Savoy, Type II, Officer",
+      "original_name": "Italy orders Military Order of Savoy, Type II, Officer",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-1855-1946::MILITARY-ORDER-OF-SAVOY-TYPE-II-OFFICER-6",
+      "variant_name_candidate": "Military Order of Savoy, Type II, Officer",
+      "date_candidates": [
+        "1793",
+        "1815",
+        "1833",
+        "1855",
+        "1945",
+        "1946",
+        "1947",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of i",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/ed6af5161f75d3c91724a9ec36854ffa0f2bcc9c/store/fit/528/348/aad33ae606df4375d1070923ffc7d604e479938c5499e3200d643f393fd7/b_0485.jpg",
+        "https://www.medalbook.com/attachments/334faad0ea48ee3a59dc4db308afe3ff80afd7dc/store/fit/528/348/1243d167f3acc53bbf5c74ff8fa5f72e2b5d9447f5f7ecb880e0ebf275e3/b_04791.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st--maurice-and-st--lazarus-grand-cross-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St. Maurice and St. Lazarus, Grand Cross",
+      "original_name": "Italy orders Order of St. Maurice and St. Lazarus, Grand Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-GRAND-CROSS-1",
+      "variant_name_candidate": "Order of St. Maurice and St. Lazarus, Grand Cross",
+      "date_candidates": [
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Order was formed by the combination of two Orders of Knighthood, the Order",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/a4504d75f153626f16cee93bee7caf99bdeb0263/store/fit/528/348/1029efd0baefcb6f3413b73dc750325ad588d6b77c00b60540061f561944/gold+obv.jpg",
+        "https://www.medalbook.com/attachments/df2142791c35912b168e2715815ddd256732a5c9/store/fit/528/348/256b70ee89547136b03839caadd97b2189295f5d83e0dd3144fe06eae786/gold+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st--maurice-and-st--lazarus-grand-cross-breast-star-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St. Maurice and St. Lazarus, Grand Cross Breast Star",
+      "original_name": "Italy orders Order of St. Maurice and St. Lazarus, Grand Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-GRAND-CROSS-BREAST-STAR-2",
+      "variant_name_candidate": "Order of St. Maurice and St. Lazarus, Grand Cross Breast Star",
+      "date_candidates": [
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Order wa",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/82f118a079b531fc0404a631a76daed22f2cd9a9/store/fit/528/348/ed382ec6d794d40f52b955a9f8bb23f588d07cb280dfe635542867c63ec0/grand+cros+sbreast+star+obv.jpg",
+        "https://www.medalbook.com/attachments/b94da3b05c2b46a4d3c1fb4eab875f0678e1ee0e/store/fit/528/348/cb972e8d2082ce88437a64e3c82fb1d9a4036c622a248fb385ab985b89e0/grand+cros+sbreast+star+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st-maurice-and-st--lazarus-commander-cross-5",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St Maurice and St. Lazarus, Commander Cross",
+      "original_name": "Italy orders Order of St Maurice and St. Lazarus, Commander Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-COMMANDER-CROSS-5",
+      "variant_name_candidate": "Order of St Maurice and St. Lazarus, Commander Cross",
+      "date_candidates": [
+        "1506",
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Order was formed by the combination of two Orders of Knighthood,",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/df2cf0a7cc97be7c6e208bd104d1caaa5e92c2e6/store/fit/528/348/1e60fcc76389602d991d074529281d10b87a5709d8fdde6165cd0995a8ce/img_061.jpg52f4e969c00bd1.jpg",
+        "https://www.medalbook.com/attachments/8b76285c187d89c42a6dfa0290be2bc6f673af32/store/fit/528/348/b195454939ee6b36be9473c544ad8430777938cb21fbca94d6bd15cd70cd/img_08.jpg52f4e9803e6d5.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st-maurice-and-st--lazarus-grand-officer's-cross-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St Maurice and St. Lazarus, Grand Officer&#39;s Cross",
+      "original_name": "Italy orders Order of St Maurice and St. Lazarus, Grand Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-GRAND-OFFICER-S-CROSS-3",
+      "variant_name_candidate": "Order of St Maurice and St. Lazarus, Grand Officer's Cross",
+      "date_candidates": [
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Order was for",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/6923aa778ded6a9bfc2ed96e5d98b24b7f371c02/store/fit/528/348/c9f4040be91d94c91185db7c149426901fb6cf8e69615663b810bb39fab5/order_of_st._mau_5064bbc4ab9ba1.jpg",
+        "https://www.medalbook.com/attachments/c4422f9ec1a21dfb4865c10f8d909329928ca042/store/fit/528/348/39b8d759e9032700ff4be58f21c35790436c55d4da4b73e58a3222381bc4/ir3905a.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st-maurice-and-st--lazarus-grand-officer's-cross-breast-star-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St Maurice and St. Lazarus, Grand Officer&#39;s Cross Breast Star",
+      "original_name": "Italy orders Order of St Maurice and St. Lazarus, Grand Officer's Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-GRAND-OFFICER-S-CROSS-BREAST-STAR-4",
+      "variant_name_candidate": "Order of St Maurice and St. Lazarus, Grand Officer's Cross Breast Star",
+      "date_candidates": [
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institu",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/aeccddbb837444ceff33652af6e9a75a52f0a725/store/fit/528/348/bd43e9f19f42940af9b0c532a8d33b58901b6e5e92c990ac87379dddc5ba/i3481.jpg",
+        "https://www.medalbook.com/attachments/7550396030543ab4ee302c7209a1c79ee528312b/store/fit/528/348/97d352ca77e8acae24959a4d03954a1cf51585553cabef45e43b8e5beba0/i348b.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st-maurice-and-st--lazarus-knight's-cross-7",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St Maurice and St. Lazarus, Knight&#39;s Cross",
+      "original_name": "Italy orders Order of St Maurice and St. Lazarus, Knight's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-KNIGHT-S-CROSS-7",
+      "variant_name_candidate": "Order of St Maurice and St. Lazarus, Knight's Cross",
+      "date_candidates": [
+        "1572",
+        "1658",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Orde",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/0020425eb9510904b13f30adaea129e548aafce2/store/fit/528/348/a073853eafe59983ca98e356701910e9846a76f7b9a323d71cab3aa87ca9/a_57921.jpg",
+        "https://www.medalbook.com/attachments/7262e9c32d8d7abbd345fe094d00f29cc8264623/store/fit/528/348/a1d046d7c67bbcf79572adff6687cf2fb4db2608c93b222f3105bb46d21c/a_5795.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS",
+      "family_id": "IT-KOI-046",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-st-maurice-and-st-lazarus/order-of-st-maurice-and-st--lazarus-officer's-cross-6",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of St Maurice and St. Lazarus, Officer&#39;s Cross",
+      "original_name": "Italy orders Order of St Maurice and St. Lazarus, Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-ST-MAURICE-AND-ST-LAZARUS::ORDER-OF-ST-MAURICE-AND-ST-LAZARUS-OFFICER-S-CROSS-6",
+      "variant_name_candidate": "Order of St Maurice and St. Lazarus, Officer's Cross",
+      "date_candidates": [
+        "1572",
+        "1793",
+        "1816",
+        "1831",
+        "1855",
+        "1857",
+        "1945",
+        "1951",
+        "2000",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1572 History This Order was formed by the combination of two Orders of Knightho",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/acea990c19d02321576ffbe768abf07c744bda5d/store/fit/528/348/0c6e0168c03c4a75158060cdd7870509ea53e78855821ba019342454b420/an_italian_gold__54456044a4cb11.jpg",
+        "https://www.medalbook.com/attachments/420c36661f2828565a51b162e8c2012d224a15ff/store/fit/528/348/18f3c262b82a99962a67d0b819ff6d64aa0d8375de3474d193c3a40d651f/img_03.jpg5445607b73311.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-commander-cross-5",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Commander Cross",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Commander Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-COMMANDER-CROSS-5",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Commander Cross",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "1975",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Order of the Colonial Star of Italy, Commander Cross //<![CDATA[ var AUTH_TOKEN = '16srq+MQW0ilyOggah0Z9jTeEFmkc2jf1dkdnhZGjrpYvdiG4WJIoiwP8RtarNdxFtTnXh0lFGwpZzoU6Kw5KA=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Orders Order of the Colonial Star of Italy Order of the Colonial Star of Italy, Commander Cross Order of the Colonial Star of Italy, Commander Cross SKU: 01.ITA.0131.105.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Attribute",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/8ff95270ded0c25ccf8cae6d78d7298dfa25af98/store/fit/528/348/732311de8386789184e6712e23302a98fad2305a7e38bbd507bfdf95eeb7/Order+of+the+Colonial+Star+of+Italy%2C+Commander+Cross+1.jpg",
+        "https://www.medalbook.com/attachments/095375855d55c28c64f8fb3f8fbe80793eb66494/store/fit/528/348/25086e97d4541a480463dd973635c0772481e84b0ad834b4787fd86840e5/Order+of+the+Colonial+Star+of+Italy%2C+Commander+Cross+3.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-grand-cross-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Grand Cross",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Grand Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-GRAND-CROSS-1",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Grand Cross",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution January 18, 1914 makers E. Gardino Succ. Cravanzola, Roma History The Order was founded by Victo",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/8068b7240f4e2fe9a669769ee63fe471b999826d/store/fit/528/348/b373a0590abc864ade91b1fe87334e0f71268c8a101dfef5c10b4bc3b47c/img_021.jpg54c6949ee2f9b1.jpg",
+        "https://www.medalbook.com/attachments/becba69b9158341c2ef173b33b6e4b813f0c4690/store/fit/528/348/7484e3b48ade0aa1cc3c8023de92e44634b53b63a78105af4e0de9705ab8/img_04.jpg54c694b580a9e.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-grand-cross-breast-star-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Grand Cross Breast Star",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Grand Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-GRAND-CROSS-BREAST-STAR-2",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Grand Cross Breast Star",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution January 18, 1914 makers E. Gar",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/bdcc94546872b98280ed8d64250981764df391a7/store/fit/528/348/6243e3938a5b747b0773d6248773e54fe516bea7c6f304322b24e3bfd8b6/img_05.jpg54c694ff8456e.jpg",
+        "https://www.medalbook.com/attachments/282d52e0a44557ed658213d894ee5b375b236e01/store/fit/528/348/bc9f746c026bb07d250313dd7bf46e0980e34386474168e94a1d8fd56c6e/img_06.jpg54c695200d1bd.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-grand-officer's-cross-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Grand Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Grand Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-GRAND-OFFICER-S-CROSS-3",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Grand Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Order of the Colonial Star of Italy, Grand Officer&#39;s Cross //<![CDATA[ var AUTH_TOKEN = 'vE6Qe65FYgzgIFs4sWTVGOp5T4wtLtmSOWPaiSSuH45Q24NxZObHQOnDDqI+AJI3rO64oWvdEb+rM/k45e8ujA=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Orders Order of the Colonial Star of Italy Order of the Colonial Star of Italy, Grand Officer's Cross Order of the Colonial Star of Italy, Grand Officer's Cross SKU: 01.ITA.0131.103.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributi",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/53e21ad14b02091e66b464c2f84c499358080820/store/fit/528/348/4d831f290651cd46288b4c9232b5bf6dffe090a28474641f1dbcf7186261/Order+of+the+Colonial+Star+of+Italy%2C+Grand+Officer%27s+Cross+1.jpg",
+        "https://www.medalbook.com/attachments/adf95ec065cabbaf0f52bd900cdc76740b36dbed/store/fit/528/348/ff22242d359259be6098f8c2fd30ea1dbf86a10025de36bea483078cff89/Order+of+the+Colonial+Star+of+Italy%2C+Grand+Officer%27s+Cross+4.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-grand-officer's-cross-breast-star-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Grand Officer&#39;s Cross Breast Star",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Grand Officer's Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-GRAND-OFFICER-S-CROSS-BREAST-STAR-4",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Grand Officer's Cross Breast Star",
+      "date_candidates": [
+        "1633",
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution January 18, 1914 makers E. Gardino Succ. Cravanzola, Rome; S. Johnso",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/035e01598c4c4aa327391924d405297c47c4902a/store/fit/1000/750/ca45cb976a2a3b78e79d16c0e0c628033c0840bb7481da55202ed4175a7b/Sardinia+kingdom+Colonial+Star+GOBS+ME74.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-knight's-cross-7",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Knight&#39;s Cross",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Knight's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-KNIGHT-S-CROSS-7",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Knight's Cross",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution January 18, 1914 makers E. Gardino Succ. Cravanzola, Rome History The Order was fou",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/362bebb1b61d73c38e0645b4054835c6a97f451f/store/fit/528/348/5dd96e86c6f10fb0c8c785e93f13755f3727682214a3ecbee8666dde3539/an_italian_colon_54120262268f51.jpg",
+        "https://www.medalbook.com/attachments/80f3b8a7513b85632579c8ec170d50ceb043acdb/store/fit/528/348/e0a2c719523f14c18203cf7082dab48e8d7875cee6d7b43ce1b8544896ec/img_03.jpg541202828d5e6.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY",
+      "family_id": "IT-KOI-047",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-colonial-star-of-italy/order-of-the-colonial-star-of-italy-officers-cross-6",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Colonial Star of Italy, Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Colonial Star of Italy, Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-COLONIAL-STAR-OF-ITALY::ORDER-OF-THE-COLONIAL-STAR-OF-ITALY-OFFICERS-CROSS-6",
+      "variant_name_candidate": "Order of the Colonial Star of Italy, Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1911",
+        "1914",
+        "1943",
+        "1945",
+        "1946",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution January 18, 1914 makers E. Gardino Succ. Cravanzola, Rome History The Order was",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/913cbbcd2112c4538117876fc381ca04c2291d27/store/fit/1000/750/fceb1caed5f90267296f58ff5d30343c897e47e4454ec7a4180bc3819678/Colonial+Star+of+Italy+Officer.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-commander-cross-5",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Commander Cross",
+      "original_name": "Italy orders Order of the Crown of Italy, Commander Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-COMMANDER-CROSS-5",
+      "variant_name_candidate": "Order of the Crown of Italy, Commander Cross",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers S. Johnson, Milano; E. Gardino Succ. D. Cravanzola, Rome History The Order was founded by V",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/3905d292e2ded23b5a314c6f887aef7a648b5f19/store/fit/528/348/dd7fb900b87794f5aefa1a4c7ca8001928fc2331788430362d66ab5f14e5/IMG_041.jpg535fa59d49baf1.jpg",
+        "https://www.medalbook.com/attachments/94090162430185ffa254ecc3ab2f06ab3b467818/store/fit/528/348/9232d5790d729db266bd4f530ab83f263d1c03661a9a0ac2e49a23561d1f/IMG_06.jpg535fa5afc54f3.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-grand-cross-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Grand Cross",
+      "original_name": "Italy orders Order of the Crown of Italy, Grand Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-GRAND-CROSS-1",
+      "variant_name_candidate": "Order of the Crown of Italy, Grand Cross",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers E. Gradino Succ. Cravanzola, Rome History The Order was founded by Victor Emmanuel II to commemorate th",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/f33f4aee4f3d8dbe485f48aa2487c08f01260227/store/fit/528/348/f568da2da20bebe94417f123c7a640bbd754b90a894563d0bfae9fc94568/img_021.jpg53c56c7ebdd4c1.jpg",
+        "https://www.medalbook.com/attachments/08dae88ab9e1dc7e21863718a0b88483b8e162da/store/fit/528/348/5e0ec885e9ab3534c449c22e7e23385392952d4bdb8eb18d867fc6e1076e/img_04.jpg53c56c97a9779.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-grand-cross-breast-star-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Grand Cross Breast Star",
+      "original_name": "Italy orders Order of the Crown of Italy, Grand Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-GRAND-CROSS-BREAST-STAR-2",
+      "variant_name_candidate": "Order of the Crown of Italy, Grand Cross Breast Star",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers E. Gradino Succ. Cravanzola, Rome His",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/8bc0b05a67b3aa0cc5062e7b9caae6974bef7ffe/store/fit/528/348/c90770d031b60e0ea59361d03187a47a04ad071a2904862cfcda505213a6/img_071.jpg549ad869d878e1.jpg",
+        "https://www.medalbook.com/attachments/3ccd3c9878c6a52950a72225b16a19403d41e090/store/fit/528/348/a901ab6d04f9c15a5ae5107fb21690bc1591618908d71489d7484db7358e/img_10.jpg549ad873216bf.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-grand-officer's-cross-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Grand Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Crown of Italy, Grand Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-GRAND-OFFICER-S-CROSS-3",
+      "variant_name_candidate": "Order of the Crown of Italy, Grand Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2019",
+        "2020",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers E. Gradino Succ., Cravanzola, Rome History The Order was founded by V",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/a9f4ea0f53f9e377da10fece0fc39f3a1e151083/store/fit/528/348/7697271414dcab93abef83d99905bdb7b88e23aef08ef781f8aba4fe2f48/img_051.jpg53bc2ea421b271.jpg",
+        "https://www.medalbook.com/attachments/71796fa007c5cf20932b46ecf896ec0b31429fce/store/fit/528/348/271da256158d6b862d90efe76b6b54b77aaca7b41f8bfad4fe7ca67ac4c7/img_07.jpg53bc2ec82863d.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-grand-officer's-cross-breast-star-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Grand Officer&#39;s Cross Breast Star",
+      "original_name": "Italy orders Order of the Crown of Italy, Grand Officer's Cross Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-GRAND-OFFICER-S-CROSS-BREAST-STAR-4",
+      "variant_name_candidate": "Order of the Crown of Italy, Grand Officer's Cross Breast Star",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers D.",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/1f52dd724f092e369190e37c47807da690dac0ef/store/fit/528/348/277d86a84b7c17cb06a31457c3de0f9696e00517cd4091b46afc069ab2e8/img_08.jpg55019e9987aa4.jpg",
+        "https://www.medalbook.com/attachments/7c651e5c04fa12e069b1b808ca796a32eee1bddf/store/fit/528/348/8aab9f9f23946cec7862fbc2cc95d7a1391cce31573951864d33081c5774/img_11.jpg55019ea1d807b.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-knight's-cross-7",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Knight&#39;s Cross",
+      "original_name": "Italy orders Order of the Crown of Italy, Knight's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-KNIGHT-S-CROSS-7",
+      "variant_name_candidate": "Order of the Crown of Italy, Knight's Cross",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 History The Order was founded by Victor Emmanuel II to commemorate the unification of Italy in 18",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/785cce5e1253f653d62e4c604781c45d3e1858ff/store/fit/528/348/ccd6440146d9ffd25005c00a4c18f5baa2190af748e8bbab480532b88d53/IMG_041.jpg5356b90d14d6e1.jpg",
+        "https://www.medalbook.com/attachments/b3517b240f81de8ff254f0428050aca0b9db87d1/store/fit/528/348/c37b5e77a91b67e0f07222fb0ce7962647f6a73e41b102a53823f295d592/IMG_06.jpg5356b91e49302.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY",
+      "family_id": "IT-KOI-048",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-crown-of-italy/order-of-the-crown-of-italy-officer's-cross-6",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Crown of Italy, Officer&#39;s Cross",
+      "original_name": "Italy orders Order of the Crown of Italy, Officer's Cross",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-CROWN-OF-ITALY::ORDER-OF-THE-CROWN-OF-ITALY-OFFICER-S-CROSS-6",
+      "variant_name_candidate": "Order of the Crown of Italy, Officer's Cross",
+      "date_candidates": [
+        "1793",
+        "1861",
+        "1868",
+        "1911",
+        "1945",
+        "1946",
+        "1951",
+        "1983",
+        "2000",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution February 20, 1868 makers E. Gradino Succ. Cravanzola, Rome History The Order was founded by Victor Emmanuel II t",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/9976fbbb376f6da00a9cef5389afb2b005479775/store/fit/528/348/e282f8be13f67d5611c411e06b62eb92da024a4039939d4aa7e205d11384/The_Italian_Orde_53176065557261.jpg",
+        "https://www.medalbook.com/attachments/1f99fc23ce4a437586b88987e80eabfdd1d1a3cc/store/fit/528/348/c1ded7ffd95eef827331112532c0f34eff8e1d53d26962c2ac5f08dce73f/3.jpg5317608bf2701.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION",
+      "family_id": "IT-KOI-049",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-most-holy-annunciation/order-of-the-most-holy-annunciation-breast-star-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Most Holy Annunciation, Breast Star",
+      "original_name": "Italy orders Order of the Most Holy Annunciation, Breast Star",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION::ORDER-OF-THE-MOST-HOLY-ANNUNCIATION-BREAST-STAR-4",
+      "variant_name_candidate": "Order of the Most Holy Annunciation, Breast Star",
+      "date_candidates": [
+        "1518",
+        "1680",
+        "1793",
+        "1869",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1362 History This Order is believed to have been founded by Amadeus VI of Savoy under the name Order of the Collar. Its original intent",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/6c162c8e555668200c7d5c11c070882b4b9fc648/store/fit/1000/750/7b9d7ee0db16162b99fdba205d69fad2e9d255c9368a6800a20b9e009e72/Sardinia+Holy+Annunciation+BS+Doro.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION",
+      "family_id": "IT-KOI-049",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-most-holy-annunciation/order-of-the-most-holy-annunciation-collar-badge-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Most Holy Annunciation, Collar Badge",
+      "original_name": "Italy orders Order of the Most Holy Annunciation, Collar Badge",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION::ORDER-OF-THE-MOST-HOLY-ANNUNCIATION-COLLAR-BADGE-3",
+      "variant_name_candidate": "Order of the Most Holy Annunciation, Collar Badge",
+      "date_candidates": [
+        "1518",
+        "1793",
+        "1869",
+        "1945",
+        "1951",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1362 r",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/439b5be28cfeaea931f2c6035faa5dd78891e3c4/store/fit/1000/750/9ed652eb3eb95f2c8298ae8bee9145b18f49ff291db202f5c7f552741579/Italy+Sardinia+Annonciade+Collar.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION",
+      "family_id": "IT-KOI-049",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/orders/order-of-the-most-holy-annunciation/order-of-the-most-holy-annunciation-small-collar-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Order of the Most Holy Annunciation, Small Collar",
+      "original_name": "Italy orders Order of the Most Holy Annunciation, Small Collar",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION::ORDER-OF-THE-MOST-HOLY-ANNUNCIATION-SMALL-COLLAR-2",
+      "variant_name_candidate": "Order of the Most Holy Annunciation, Small Collar",
+      "date_candidates": [
+        "1518",
+        "1597",
+        "1793",
+        "1869",
+        "1945",
+        "1951",
+        "2000",
+        "2026"
+      ],
+      "category": "orders",
+      "source_excerpt": "Attributes country Italy date of institution 1362 remarks The original collars were composed of Silver-gilt and Gold. History This Order is believed to have been founded by Amade",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/c538d616d22cf18e4f79289c46181fc765f00b44/store/fit/1000/750/516f0a2b51214a76b9a823643d49e179349cb0eb052332a1d1a3b9a22cfb/Sardinia+Holy+Annunciation+BS+Large+Collar+Doro.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-ITALIAN-UNIFICATION",
+      "family_id": "IT-KOI-050",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-italian-unification/medal-for-italian-unification-in-bronze-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal for Italian Unification, in Bronze",
+      "original_name": "Italy medals and decorations Medal for Italian Unification, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-MEDAL-FOR-ITALIAN-UNIFICATION::MEDAL-FOR-ITALIAN-UNIFICATION-IN-BRONZE-2",
+      "variant_name_candidate": "Medal for Italian Unification, in Bronze",
+      "date_candidates": [
+        "1666",
+        "1793",
+        "1848",
+        "1870",
+        "1883",
+        "1915",
+        "1918",
+        "1922",
+        "1940",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution April 24, 1883 remarks The image of the Bronze Medal (third issue) is attributed to Wikipedia at https://it.wiki",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/411d094ea5eab27dd01825ef609f9283e340dc13/store/fit/528/348/16a7165dbf31b073655fd8db48b812dbe7dff716011ae685561c23cc1e9d/1848_1918_united_53c3e6b06f3181.jpg",
+        "https://www.medalbook.com/attachments/048403ed807f325e508ef60117dc9f8fd0a4e564/store/fit/528/348/a177472f81a60664a8a068c36fe49a6b06a87a81c9fd361e8b7e570d1f5e/img_04.jpg53c3e6c246ebd.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-ITALIAN-UNIFICATION",
+      "family_id": "IT-KOI-050",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-italian-unification/medal-for-italian-unification-in-silver-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal for Italian Unification, in Silver",
+      "original_name": "Italy medals and decorations Medal for Italian Unification, in Silver",
+      "variant_key_candidate": "IT-SAR-KOI-MEDAL-FOR-ITALIAN-UNIFICATION::MEDAL-FOR-ITALIAN-UNIFICATION-IN-SILVER-1",
+      "variant_name_candidate": "Medal for Italian Unification, in Silver",
+      "date_candidates": [
+        "1666",
+        "1793",
+        "1848",
+        "1870",
+        "1883",
+        "1915",
+        "1918",
+        "1922",
+        "1940",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution April 24, 1883 History The Medal was founded by Umberto I to commemorate the unification of Italy into a cohesive Kingdom, and it was initiall",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/bec2b8e93d6728caa623574ad2c252dd7b22b556/store/fit/528/348/44281548f243db147b520ad6d1ff1a7f27d8798b5b6a077ada38774424d5/s1.jpg",
+        "https://www.medalbook.com/attachments/f741b038d8742442bd64ce96e151df48817112a3/store/fit/528/348/d3a3fc8b53c081023825c21efc24c1211073de541670447a366f268cfe02/s-r.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-WORK-IN-EAST-AFRICA",
+      "family_id": "IT-KOI-051",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-work-in-east-africa/commemorative-medal-for-work-in-east-africa-in-bronze-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=3"
+      ],
+      "page_title": "MedalBook - Commemorative Medal for Work in East Africa, in Bronze",
+      "original_name": "Italy medals and decorations Commemorative Medal for Work in East Africa, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-WORK-IN-EAST-AFRICA::COMMEMORATIVE-MEDAL-FOR-WORK-IN-EAST-AFRICA-IN-BRONZE-2",
+      "variant_name_candidate": "Commemorative Medal for Work in East Africa, in Bronze",
+      "date_candidates": [
+        "1793",
+        "1935",
+        "1936",
+        "1938",
+        "1939",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution August 25, 1938 Hist",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/d39aec86a27c129b81517153140adc0e69e79eb3/store/fit/528/348/428a8ceb52c13da4a93fce2575ee224b7310ad1e99820ac6f8f4887349dc/Commemorative+Medal+for+Work+in+East+Africa%2C+in+Bronze+1.jpg",
+        "https://www.medalbook.com/attachments/49c1883ad56238fffb87a2ff41b4ab2d82959faf/store/fit/528/348/8aaaa5a9c267961886ae802735d91cf8f10c2d895b3cd0298dbdca60e4d2/Commemorative+Medal+for+Work+in+East+Africa%2C+in+Bronze+2.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-SPANISH-CAMPAIGN",
+      "family_id": "IT-KOI-052",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-cross-for-the-spanish-campaign/commemorative-cross-for-the-spanish-campaign-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Commemorative Cross for the Spanish Campaign",
+      "original_name": "Italy medals and decorations Commemorative Cross for the Spanish Campaign",
+      "variant_key_candidate": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-SPANISH-CAMPAIGN::COMMEMORATIVE-CROSS-FOR-THE-SPANISH-CAMPAIGN-1",
+      "variant_name_candidate": "Commemorative Cross for the Spanish Campaign",
+      "date_candidates": [
+        "1793",
+        "1936",
+        "1938",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution 1938 History This Cross was officially founded to recognize the merit and bravery dem",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/25b2c86713fd8d09d76852dd5668d6d7ff172cfc/store/fit/528/348/f8af717ddf69ccb0c16fb52478866935dcd901e23f721a8a13ca61077808/A_Italian_War_Cr_53da4f6a95e0b1.jpg",
+        "https://www.medalbook.com/attachments/7d9a5ece9879d4f6babd45bfd9fb03c87d85a4cc/store/fit/528/348/b0093dc21044538769489e45b787e300bb925fe807fa0bd9b659d8ba8977/IMG_03.jpg53da4f82bc4f1.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-ITALIAN-AUSTRIAN-WAR-1915-1918",
+      "family_id": "IT-KOI-053",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medal-for-the-italian-austrian-war-1915-1918/commemorative-medal-for-the-italian-austrian-war-1915-1918-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=3"
+      ],
+      "page_title": "MedalBook - Commemorative Medal for the Italian-Austrian War, 1915-1918",
+      "original_name": "Italy medals and decorations Commemorative Medal for the Italian-Austrian War, 1915-1918",
+      "variant_key_candidate": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-ITALIAN-AUSTRIAN-WAR-1915-1918::COMMEMORATIVE-MEDAL-FOR-THE-ITALIAN-AUSTRIAN-WAR-1915-1918-1",
+      "variant_name_candidate": "Commemorative Medal for the Italian-Austrian War, 1915-1918",
+      "date_candidates": [
+        "1791",
+        "1793",
+        "1915",
+        "1916",
+        "1917",
+        "1918",
+        "1919",
+        "1920",
+        "1937",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution September 21, 1919 remark",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/cc0c97296db179de385fe5436d93f80e03850c65/store/fit/528/348/3430d89f892db506190a0d7e1de73de518903ff05b652c9054abe484b3b7/96a1.jpg",
+        "https://www.medalbook.com/attachments/60457f5b534978d5802aded102854035444b4d17/store/fit/528/348/09cf8d204d9d1f5bb563d679cbd3121d82efa7c6aa552211a7a47eae429f/96c.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-2ND-DIVISION",
+      "family_id": "IT-KOI-054",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-cross-for-the-2nd-division/commemorative-cross-for-the-2nd-division-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Commemorative Cross for the 2nd Division",
+      "original_name": "Italy medals and decorations Commemorative Cross for the 2nd Division",
+      "variant_key_candidate": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-2ND-DIVISION::COMMEMORATIVE-CROSS-FOR-THE-2ND-DIVISION-1",
+      "variant_name_candidate": "Commemorative Cross for the 2nd Division",
+      "date_candidates": [
+        "1793",
+        "1936",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution 1936 History This Cross was founded by the Kingdom of Italy, and it was",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/d17bc4d85718c907e57bb0f458b096909652bbfb/store/fit/528/348/22fd839afcef376c4254b07fe3ed8203e85ad7162e244b0c31a76666fac3/obv.jpg",
+        "https://www.medalbook.com/attachments/bd4f569c9633ac0efccf88ef2270112ba2deec87/store/fit/528/348/96c0190b0fd315eb3fa1d0402b8e7e6d643477b252f225ad7fb1d090e3ff/rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDALS-FOR-THE-SPANISH-CAMPAIGN",
+      "family_id": "IT-KOI-055",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/commemorative-medals-for-the-spanish-campaign/commemorative-medals-for-the-spanish-campaign-in-bronze-1",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Commemorative Medals for the Spanish Campaign, in Bronze",
+      "original_name": "Italy medals and decorations Commemorative Medals for the Spanish Campaign, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-COMMEMORATIVE-MEDALS-FOR-THE-SPANISH-CAMPAIGN::COMMEMORATIVE-MEDALS-FOR-THE-SPANISH-CAMPAIGN-IN-BRONZE-1",
+      "variant_name_candidate": "Commemorative Medals for the Spanish Campaign, in Bronze",
+      "date_candidates": [
+        "1793",
+        "1936",
+        "1937",
+        "1938",
+        "1942",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution 1942 makers Fratel",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/b4a778e7a12a9db6d2cf39d8ad1a9d1a7bd58381/store/fit/528/348/090855582350277a7d7148c97ed0ad98af5e47f8f259274bfb9c500bc9c6/medal_of_the_spa_525836bb8f07b.jpg",
+        "https://www.medalbook.com/attachments/e8bbacf2c1869b396ff233efef6ce861c65cfe92/store/fit/528/348/e8fa9e00ed5426e092cb65a0ae4269bc206dffd5efa5394ca994ff08b33f/img_2685_copy.jpg525836c81dc30.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS",
+      "family_id": "IT-KOI-056",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/cross-of-merit-for-opera-nazionale-balilla-young-italians/cross-of-merit-for-opera-nazionale-balilla-(young-italians)-for-boys-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys",
+      "original_name": "Italy medals and decorations Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys",
+      "variant_key_candidate": "IT-SAR-KOI-CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS::CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS-FOR-BOYS-3",
+      "variant_name_candidate": "Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys",
+      "date_candidates": [
+        "1793",
+        "1933",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys //<![CDATA[ var AUTH_TOKEN = '+fXei6cJCHJTX0MFdhVV+HS3dkFlx7MpJmi8MkS5LLSpRUhc38OEnfEr8sNZif0EL5mBq87T7NetlTsYQLutCg=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Medals & Decorations Cross of Merit for Opera Nazionale Balilla (Young Italians) Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys Cross of Merit for Opera Nazionale Balilla (Young Italians), for Boys SKU: 02.ITA.0294.103.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributions Estimated mar",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/f30ef13d63d46c57ecb566ff43432e48ae34b4be/store/fit/528/348/cc9f40f14188e7ef6b4060205cb9763a4aa1fab720a948c6bfc8837cb850/Cross+of+Merit+for+Opera+Nazionale+Balilla+%28Young+Italians%29%2C+for+Boys+1.jpg",
+        "https://www.medalbook.com/attachments/5a2e620b4f17b7db6c6d72eea91520f17339e9ac/store/fit/528/348/322c6f7cfd6425c16c68bddca56a3bb4bff603772efa9859702adf8c6f65/Cross+of+Merit+for+Opera+Nazionale+Balilla+%28Young+Italians%29%2C+for+Boys+2.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS",
+      "family_id": "IT-KOI-056",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/cross-of-merit-for-opera-nazionale-balilla-young-italians/cross-of-merit-for-opera-nazionale-balilla-(young-italians)-for-girls-4",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls",
+      "original_name": "Italy medals and decorations Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls",
+      "variant_key_candidate": "IT-SAR-KOI-CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS::CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS-FOR-GIRLS-4",
+      "variant_name_candidate": "Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls",
+      "date_candidates": [
+        "1793",
+        "1933",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls //<![CDATA[ var AUTH_TOKEN = '1u0WWPVkbeqF+zdyxSdH11DfTW2UDcuX1wLTWFaW1wUB4pu4PW4clCP+AHW8KWHsjy4JeE4IP2U0S7BbgAasOQ=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Medals & Decorations Cross of Merit for Opera Nazionale Balilla (Young Italians) Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls Cross of Merit for Opera Nazionale Balilla (Young Italians), for Girls SKU: 02.ITA.0294.104.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributions Estimated",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/0dffda42e782ed9a6cbf91f2e5c637d49c70fa4d/store/fit/528/348/b6e8fce735eb9c8e44b9ecc9e4640e2495e76b397110c275795932549a6f/Cross+of+Merit+for+Opera+Nazionale+Balilla+%28Young+Italians%29%2C+for+Girls+1.jpg",
+        "https://www.medalbook.com/attachments/c58971866514fe6b4dfd8fc4dbaac557bfd4d1b8/store/fit/528/348/2a9b3355dbd31217884e7e83203b87a5bb387a713383126909fa21ee2b30/Cross+of+Merit+for+Opera+Nazionale+Balilla+%28Young+Italians%29%2C+for+Girls+3.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-CROSS-OF-MERIT-OF-THE-ITALIAN-FASCIST-YOUTH",
+      "family_id": "IT-KOI-057",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/cross-of-merit-of-the-italian-fascist-youth/cross-of-merit-of-the-italian-fascist-youth-for-young-men-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=4"
+      ],
+      "page_title": "MedalBook - Cross of Merit of the Italian Fascist Youth, for Young Men",
+      "original_name": "Italy medals and decorations Cross of Merit of the Italian Fascist Youth, for Young Men",
+      "variant_key_candidate": "IT-SAR-KOI-CROSS-OF-MERIT-OF-THE-ITALIAN-FASCIST-YOUTH::CROSS-OF-MERIT-OF-THE-ITALIAN-FASCIST-YOUTH-FOR-YOUNG-MEN-2",
+      "variant_name_candidate": "Cross of Merit of the Italian Fascist Youth, for Young Men",
+      "date_candidates": [
+        "1793",
+        "1937",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution 1937 History This Cross was founded to reward members of the Italian Fasci",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/22a4cf158e1dca4ef25dd16ec67393991a0f42a2/store/fit/528/348/ec3089f560c5b81f29b3e014f327f7ceb2e0fe33342bba14fc2e9698dfe1/obv.jpg",
+        "https://www.medalbook.com/attachments/1fe79a3a0433b55be106e22bf23181acbc362a14/store/fit/528/348/7df7e4e01fb6032b170f4a57bc42d0cee6227cb38df86e8670ee970c970e/rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-MILITARY-MERIT-MAURITIANA-MEDAL",
+      "family_id": "IT-KOI-058",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/military-merit-mauritiana-medal/military-merit-mauritiana-medal-small-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945"
+      ],
+      "page_title": "MedalBook - Military Merit Mauritiana Medal, Small",
+      "original_name": "Italy medals and decorations Military Merit Mauritiana Medal, Small",
+      "variant_key_candidate": "IT-SAR-KOI-MILITARY-MERIT-MAURITIANA-MEDAL::MILITARY-MERIT-MAURITIANA-MEDAL-SMALL-2",
+      "variant_name_candidate": "Military Merit Mauritiana Medal, Small",
+      "date_candidates": [
+        "1500",
+        "1518",
+        "1793",
+        "1839",
+        "1861",
+        "1915",
+        "1918",
+        "1920",
+        "1943",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution July 19, 1839 remarks This is a very rare award. History The Medal was founded by Charles Albert, King of Sardinia, to recognize Officers and Non-",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/481feefccda0453c47d8cb60edd3cf75741d1b07/store/fit/528/348/8b166d555e49f69186733bc1ed6c586a161d5a99f47eedcf99b2797314d8/small+medal+obv.jpg",
+        "https://www.medalbook.com/attachments/af7c1af9f4cccb7eb21c95ec0346aaaea1f2c222/store/fit/528/348/bd8e2f78247d168bd28dae8645d19ac92e0c8ec063954ba4cf96cf31ab5c/small+medal+rev.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-VICTOR-EMMANUEL-I-I",
+      "family_id": "IT-KOI-059",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-meritorious-public-welfare/type-i-victor-emmanuel-i-i/medal-for-meritorious-public-welfare-type-i-in-bronze-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal for Meritorious Public Welfare, Type I, in Bronze",
+      "original_name": "Italy medals and decorations Medal for Meritorious Public Welfare, Type I, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-VICTOR-EMMANUEL-I-I::MEDAL-FOR-MERITORIOUS-PUBLIC-WELFARE-TYPE-I-IN-BRONZE-3",
+      "variant_name_candidate": "Medal for Meritorious Public Welfare, Type I, in Bronze",
+      "date_candidates": [
+        "1545",
+        "1562",
+        "1793",
+        "1867",
+        "1889",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution July 28, 1867 History This Medal was founded to recognize the",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/5b02cf33ec9b009abd1ce2cf3efbb378a7c049c2/store/fit/1000/750/87b212ff0731e0cbb43abe093c80f0afbd0414d1cf9ef5519b90e88e67c0/obverse.jpg",
+        "https://www.medalbook.com/attachments/bb12a77235e375b1ccbbb87f5e07ae0f390cf018/store/fit/528/348/55e317557b62594862275ff25e3fa1810d8e87c4d1040702bafbdc65fa3b/reverse.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I",
+      "family_id": "IT-KOI-060",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-for-merit-of-the-peoples-education/type-i-i-victor-emmanuel-i-i-i/medal-for-merit-of-the-people's-education-type-ii-in-silver-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal for Merit of the People&#39;s Education, Type II, in Silver",
+      "original_name": "Italy medals and decorations Medal for Merit of the People's Education, Type II, in Silver",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I::MEDAL-FOR-MERIT-OF-THE-PEOPLE-S-EDUCATION-TYPE-II-IN-SILVER-2",
+      "variant_name_candidate": "Medal for Merit of the People's Education, Type II, in Silver",
+      "date_candidates": [
+        "1766",
+        "1768",
+        "1793",
+        "1891",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of ins",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/eaa41363edc16d82eed2af83876106bd19b493d3/store/fit/528/348/2d4587cfe6b7e4c6ead22b294812d00fe647e21c423aa73b369723b88f3e/s1.jpg",
+        "https://www.medalbook.com/attachments/e3a70f8e43e1513bbfaf6a4f87095849d8f98c95/store/fit/528/348/45cd8190cbcb0df0d869f88887ce8242ebc043168dd8b6be1eba1f887808/s2.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I",
+      "family_id": "IT-KOI-061",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-italian-schools-abroad/type-i-i-victor-emmanuel-i-i-i/medal-of-merit-for-italian-schools-abroad-type-ii-in-bronze-3",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal of Merit for Italian Schools Abroad, Type II, in Bronze",
+      "original_name": "Italy medals and decorations Medal of Merit for Italian Schools Abroad, Type II, in Bronze",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I::MEDAL-OF-MERIT-FOR-ITALIAN-SCHOOLS-ABROAD-TYPE-II-IN-BRONZE-3",
+      "variant_name_candidate": "Medal of Merit for Italian Schools Abroad, Type II, in Bronze",
+      "date_candidates": [
+        "1560",
+        "1669",
+        "1675",
+        "1793",
+        "1889",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "Attributes country Italy date of institution December 8, 1889 makers Stefano Johns",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/c144f3b2ecc138eb7e214a751e30de2736d0634e/store/fit/528/348/1711ac9b2f4e644a93abb58dce248df872f731852d3baee9a6dec7eec095/a_medal_of_merit_54f74ecf76cd31.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I",
+      "family_id": "IT-KOI-061",
+      "source_page": "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945/medals-decorations/medal-of-merit-for-italian-schools-abroad/type-i-i-victor-emmanuel-i-i-i/medal-of-merit-for-italian-schools-abroad-type-ii-in-silver-2",
+      "source_listing_pages": [
+        "https://www.medalbook.com/europe-west/italy/kingdom-of-sardinia-kingdom-of-italy-1793-1945?page=2"
+      ],
+      "page_title": "MedalBook - Medal of Merit for Italian Schools Abroad, Type II, in Silver",
+      "original_name": "Italy medals and decorations Medal of Merit for Italian Schools Abroad, Type II, in Silver",
+      "variant_key_candidate": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I::MEDAL-OF-MERIT-FOR-ITALIAN-SCHOOLS-ABROAD-TYPE-II-IN-SILVER-2",
+      "variant_name_candidate": "Medal of Merit for Italian Schools Abroad, Type II, in Silver",
+      "date_candidates": [
+        "1669",
+        "1675",
+        "1793",
+        "1889",
+        "1945",
+        "2026"
+      ],
+      "category": "medals-decorations",
+      "source_excerpt": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-133495694-1'); var addGoogleEvent = function (eventCategory, eventAction, eventLabel, eventValue, forwardLink = null) { gtag('event', eventAction, { 'event_category': eventCategory, 'event_label': eventLabel, 'event_value': eventValue, }); if (forwardLink){ setTimeout(function(){ window.open(forwardLink, '_blank').focus(); }, 500); } }; MedalBook - Medal of Merit for Italian Schools Abroad, Type II, in Silver //<![CDATA[ var AUTH_TOKEN = 'IGb0PwPFsPmZsUb5x+fgXpEX8uhXfZ/oev6cAxzO/pBB/RsFXNKc3p4DabQkbTmPMtvsSD2otVcUe/6Q31LOtA=='; //]]> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: \"ca-pub-2141212811672724\", enable_page_level_ads: true }); Search ALL Makers Orders Medals & Decorations Badges Insignia Headgear Edged Weapons Documents Uniform Tops Uniform Bottoms Footwear Belts & Buckles Buttons Cyphers & Devices Flags Other MY MEDALS COMMUNITY FEED MEDALMARKET ENLIST NOW Browse By Collector Tools Forums Community Feed News & Articles Advertise with Us Subscription Plans Log in Europe (West) Italy Kingdom of Sardinia & Kingdom of Italy (1793-1945) Medals & Decorations Medal of Merit for Italian Schools Abroad Type II (Victor Emmanuel III) Medal of Merit for Italian Schools Abroad, Type II, in Silver Medal of Merit for Italian Schools Abroad, Type II, in Silver SKU: 02.ITA.0192.202.01 Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Image courtesy of eMedals.com See Licence Add To My Medals Add Contribution View Contributions Estimated market value: $ Click to See Price/Value Attributes count",
+      "direct_image_urls": [
+        "https://www.medalbook.com/attachments/58e3a4eabfa2bbc31da5541ca929186f9aa1fdbb/store/fit/528/348/2aecfca0fef9034941c6ae7fff55e3cdebde85656d1536d79e8c042a46d6/Medal+of+Merit+for+Italian+Schools+Abroad%2C+Type+II%2C+in+Silver+1.jpg",
+        "https://www.medalbook.com/attachments/4c812e0c9c58ac08e799624f0a57b8efaa4763e6/store/fit/528/348/9ea79e3a0881c348f93033cb7741a73d27126be25e8cf576e72460daf589/Medal+of+Merit+for+Italian+Schools+Abroad%2C+Type+II%2C+in+Silver+3.jpg"
+      ],
+      "rights": "MedalBook commercial catalogue image; local research only; rights not evaluated.",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-MERIT-IN-LABOUR",
+      "family_id": "IT-KOI-062",
+      "source_page": "https://www.ebay.it/itm/196913492917",
+      "source_listing_pages": [],
+      "page_title": "1924王国时期星章实物·正面（拍品图）",
+      "original_name": "Order of Merit in Labour",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-MERIT-IN-LABOUR::external-specimen",
+      "variant_name_candidate": "1924王国时期星章实物·正面（拍品图）",
+      "date_candidates": [
+        "1901（设立年份；精确日待核）"
+      ],
+      "category": "medals-decorations/orders",
+      "source_excerpt": "The MedalBook candidate page identifies the Knight’s Cross of this formal order. The external 1924 Kingdom-of-Italy specimen is used only as a sourced image supplement; it is not claimed to be the same object as the MedalBook page.",
+      "direct_image_urls": [
+        "https://i.ebayimg.com/images/g/MYUAAOSwbjFnbVt4/s-l1200.jpg"
+      ],
+      "rights": "商业拍品图；仅保留本地研究，未主张再利用许可。",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "external_it-koi-062",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-MERIT-IN-LABOUR",
+      "family_id": "IT-KOI-062",
+      "source_page": "https://www.ebay.it/itm/196913492917",
+      "page_title": "1924王国时期星章实物·正面（拍品图）",
+      "original_name": "Order of Merit in Labour",
+      "variant_key_candidate": "IT-SAR-KOI-ORDER-OF-MERIT-IN-LABOUR::external-specimen",
+      "variant_name_candidate": "1924王国时期星章实物·正面（拍品图）",
+      "source_excerpt": "The MedalBook candidate page identifies the Knight’s Cross of this formal order. The external 1924 Kingdom-of-Italy specimen is used only as a sourced image supplement; it is not claimed to be the same object as the MedalBook page.",
+      "direct_image_urls": [
+        "https://i.ebayimg.com/images/g/MYUAAOSwbjFnbVt4/s-l1200.jpg"
+      ],
+      "rights": "商业拍品图；仅保留本地研究，未主张再利用许可。",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "medalbook_italy_kingdom_complete_sweep",
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-NAVAL-VALOUR",
+      "family_id": "IT-KOI-063",
+      "source_page": "https://www.anticopresidio.com/mignon/1555-medaglia-al-valore-di-marina-in-argento.html",
+      "source_listing_pages": [],
+      "page_title": "银级完整实物·正面（收藏商图）",
+      "original_name": "Medal for Naval Valour",
+      "variant_key_candidate": "IT-SAR-KOI-MEDAL-FOR-NAVAL-VALOUR::external-specimen",
+      "variant_name_candidate": "银级完整实物·正面（收藏商图）",
+      "date_candidates": [
+        "1836-03-01（撒丁王国主权决定；1860年王国改革）"
+      ],
+      "category": "medals-decorations/orders",
+      "source_excerpt": "The candidate is the formal naval-valour award, not the separate post-1997 Naval Merit Medal. The 1836 institution and 1860 reform are cross-checked against the Italian legal-history page and the cited Gazzetta decree; the external image is clearly marked as a vendor specimen.",
+      "direct_image_urls": [
+        "https://www.anticopresidio.com/2908-large_default/medaglia-al-valore-di-marina-in-argento.jpg"
+      ],
+      "rights": "商业收藏商图；仅保留本地研究，未主张再利用许可。",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    },
+    {
+      "source_id": "external_it-koi-063",
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-NAVAL-VALOUR",
+      "family_id": "IT-KOI-063",
+      "source_page": "https://www.anticopresidio.com/mignon/1555-medaglia-al-valore-di-marina-in-argento.html",
+      "page_title": "银级完整实物·正面（收藏商图）",
+      "original_name": "Medal for Naval Valour",
+      "variant_key_candidate": "IT-SAR-KOI-MEDAL-FOR-NAVAL-VALOUR::external-specimen",
+      "variant_name_candidate": "银级完整实物·正面（收藏商图）",
+      "source_excerpt": "The candidate is the formal naval-valour award, not the separate post-1997 Naval Merit Medal. The 1836 institution and 1860 reform are cross-checked against the Italian legal-history page and the cited Gazzetta decree; the external image is clearly marked as a vendor specimen.",
+      "direct_image_urls": [
+        "https://www.anticopresidio.com/2908-large_default/medaglia-al-valore-di-marina-in-argento.jpg"
+      ],
+      "rights": "商业收藏商图；仅保留本地研究，未主张再利用许可。",
+      "image_status": "downloaded_and_decoded",
+      "accessed": "2026-09-26"
+    }
+  ],
+  "external_sources": [
+    {
+      "source_id": "external_it-koi-062",
+      "source_page": "https://www.ebay.it/itm/196913492917",
+      "direct_image_url": "https://i.ebayimg.com/images/g/MYUAAOSwbjFnbVt4/s-l1200.jpg",
+      "role": "1924 Kingdom of Italy Order of Merit in Labour specimen image",
+      "rights": "Commercial listing image; local research only; no reuse claim.",
+      "note": "The page is used for the image only; institution evidence remains the cached MedalBook candidate plus the 1901 award history in the family basis."
+    },
+    {
+      "source_id": "external_it-koi-063",
+      "source_page": "https://www.anticopresidio.com/mignon/1555-medaglia-al-valore-di-marina-in-argento.html",
+      "direct_image_url": "https://www.anticopresidio.com/2908-large_default/medaglia-al-valore-di-marina-in-argento.jpg",
+      "role": "Silver Naval Valour Medal specimen image",
+      "rights": "Commercial vendor image; local research only; no reuse claim.",
+      "note": "Institution/date cross-check: https://it.wikipedia.org/wiki/Medaglia_al_valore_di_Marina and the 1860 Gazzetta decree cited there; image source is not treated as legal authority."
+    },
+    {
+      "source_id": "memoria_scolastica_public_education_1904",
+      "source_page": "https://www.memoriascolastica.it/diploma-benemerenza-di-i-classe-con-medaglia-ai-benemeriti-della-popolare-istruzione-1904",
+      "role": "Independent institution/date cross-check for People's Education Medal",
+      "rights": "Page marked CC BY-NC-ND 4.0; no external image copied in this pack.",
+      "note": "Royal Decree 633 of 28 October 1904 and Ministry of Public Education context."
+    },
+    {
+      "source_id": "emedals_italian_schools_abroad",
+      "source_page": "https://www.emedals.com/products/italy-a-medal-of-merit-for-italian-schools-abroad-bronze-grade-eu8591",
+      "role": "Independent institution/date cross-check for Italian Schools Abroad Medal",
+      "rights": "Commercial catalogue; no external image copied in this pack.",
+      "note": "Page cites Royal Decrees 6567 (8 December 1889) and 395 (23 August 1894), Ministry of Foreign Affairs and three grades."
+    },
+    {
+      "source_id": "italy_1915_1918_official_decree",
+      "source_page": "https://www.gazzettaufficiale.it/eli/gu/1920/07/29/175/sg/pdf",
+      "role": "Official institution/date source for 1915–1918 Italian-Austrian War Medal",
+      "rights": "Official public legal text; cite only.",
+      "note": "R.D. no.1241, 29 July 1920; no image copied from the Gazette."
+    }
+  ],
+  "selection_rules": [
+    "Do not use generic logos, advertisements, ribbon-only images, thumbnails or error pages.",
+    "Prefer source-labeled Obverse/Reverse pairs; where only an Illustration is available, label it as a diagram and do not call it an object photograph.",
+    "Commercial and vendor images remain local research copies with rights notes."
+  ]
+}

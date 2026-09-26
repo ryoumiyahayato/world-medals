@@ -1,0 +1,190 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "东亚来源优先差集批次1",
+  "images": [
+    {
+      "view_key": "EAS-GAP-IMG-01",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-01.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_011.jpg",
+      "sha256": "99239d19ad98e5ea29d3387117af6efe03abbca63655445616e0d723a4ed29b6",
+      "bytes": 138601
+    },
+    {
+      "view_key": "EAS-GAP-IMG-02",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-02.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_012.jpg",
+      "sha256": "58e5609964e87997e8d8a5d65df175c0b5da856649656fce0b57e912140baf5b",
+      "bytes": 431059
+    },
+    {
+      "view_key": "EAS-GAP-IMG-03",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-03.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_013.jpg",
+      "sha256": "322d0f3d3357f47bb2b1fe9f1e17ee18d7ebf070ca5e7533ab1407b524bbfabb",
+      "bytes": 416409
+    },
+    {
+      "view_key": "EAS-GAP-IMG-04",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-04.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_014.jpg",
+      "sha256": "b27f5de36f2fb7284bb361a288f07e15dbfb057f0cdae727d85d45faad4e6c24",
+      "bytes": 378461
+    },
+    {
+      "view_key": "EAS-GAP-IMG-05",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-05.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_015.jpg",
+      "sha256": "21b18c8142963833ddee83450310a84c197b1a5caaa1196fc6d789c3a481b18a",
+      "bytes": 382210
+    },
+    {
+      "view_key": "EAS-GAP-IMG-06",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-06.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_016_1.jpg",
+      "sha256": "d239fe5083bf8304be9b0eaf6facf562208fd14180dcbe9b45160d93f40cbf20",
+      "bytes": 372264
+    },
+    {
+      "view_key": "EAS-GAP-IMG-07",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-07.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_021_1.jpg",
+      "sha256": "dcdb02df936a33870f7195bc9a20125a234ac51ae0eaef1f1afed4148e85d9bc",
+      "bytes": 487502
+    },
+    {
+      "view_key": "EAS-GAP-IMG-08",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-08.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_027_1.jpg",
+      "sha256": "a3ff706172052ae3604342bb427e196de0780a81db9e317b216cd28b7ab5b457",
+      "bytes": 381987
+    },
+    {
+      "view_key": "EAS-GAP-IMG-09",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-09.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_032_1.jpg",
+      "sha256": "649c6b8021607b72295b8c5a0f7cfbd38c613956feab71be7a8a4a96a0124876",
+      "bytes": 364978
+    },
+    {
+      "view_key": "EAS-GAP-IMG-10",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-10.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_037_1.jpg",
+      "sha256": "1b3ba99531de73437d49b66367900fe498a1b100846be9102017a1efbb0c34af",
+      "bytes": 293988
+    },
+    {
+      "view_key": "EAS-GAP-IMG-11",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-11.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_042_1.jpg",
+      "sha256": "05a57b209826a8dd0f752a616e0a6ba4dda7ef31f76e64a481559150a02616c8",
+      "bytes": 379501
+    },
+    {
+      "view_key": "EAS-GAP-IMG-12",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-12.jpg",
+      "source_page_url": "https://www.sanghun.go.kr/nation/hunjang.html",
+      "original_file_url": "https://www.sanghun.go.kr/nation/images/contents/m_img_047_1.jpg",
+      "sha256": "2de1cc755491bc10a2f1e374cad4a633c9d47efaa2631cc808923729b3e8bea1",
+      "bytes": 357384
+    },
+    {
+      "view_key": "EAS-GAP-IMG-13",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-13.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_the_Golden_Ruler",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Order_of_the_Gold_cheok.jpg",
+      "sha256": "73f2444eeb74a8e0771db259930ce0ba337682be7f2d29b14d60ee648033a98a",
+      "bytes": 766531
+    },
+    {
+      "view_key": "EAS-GAP-IMG-14",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-14.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_the_Auspicious_Stars",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Order_of_the_Auspicious_Stars.jpg",
+      "sha256": "d37c95e301fd93262172ca6d240f11bf035d98b01ee4ad9592c88522a337ff04",
+      "bytes": 705586
+    },
+    {
+      "view_key": "EAS-GAP-IMG-15",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-15.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_the_Plum_Blossom",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Order_of_the_Plum_Blossom_01.jpg",
+      "sha256": "850e3ea359cc47c1b518c82defe9973f77a90c91d8f61601d512524b50d12e55",
+      "bytes": 638259
+    },
+    {
+      "view_key": "EAS-GAP-IMG-16",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-16.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_the_Taegeuk",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Order_of_the_Taegeuk_01.jpg",
+      "sha256": "dd534d62b0c7e2ff5687f61335b30db408a9e3c8cf1c6e54d7f584c61f9b0e98",
+      "bytes": 624826
+    },
+    {
+      "view_key": "EAS-GAP-IMG-17",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-17.png",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Commemorative_Order_%2270th_Year_Anniversary_Of_the_Fatherland_Liberation_War_Victory%22.png",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commemorative_Order_%2270th_Year_Anniversary_Of_the_Fatherland_Liberation_War_Victory%22.png",
+      "sha256": "f90fee4764aaea81388e8f0fda0bca742cb932e4ab956107df36a9be60591ef1",
+      "bytes": 1136672
+    },
+    {
+      "view_key": "EAS-GAP-IMG-18",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-18.jpg",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Commemorative_Order_%22Anniversary_of_the_Foundation_of_the_People%27s_Army%22.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Commemorative_Order_%22Anniversary_of_the_Foundation_of_the_People%27s_Army%22.jpg",
+      "sha256": "b7647543c87e983f24b0075bc38e91d63c413df18e3a8ecbc5c448d1601e2ef1",
+      "bytes": 105595
+    },
+    {
+      "view_key": "EAS-GAP-IMG-19",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-19.jpg",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Commemorative_Order_20th_Anniversary_of_the_Foundation_of_the_Democratic_People%27s_Republic_of_Korea_-_Obverse_and_reverse.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Commemorative_Order_20th_Anniversary_of_the_Foundation_of_the_Democratic_People%27s_Republic_of_Korea_-_Obverse_and_reverse.jpg",
+      "sha256": "584c1313c0a37f5287ad54c851c993cfed6689dd454e0ca90c977bd3e56a3227",
+      "bytes": 233231
+    },
+    {
+      "view_key": "EAS-GAP-IMG-26",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-26.jpg",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Order_of_Fishery_Service_Honour_1st_Class.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Order_of_Fishery_Service_Honour_1st_Class.jpg",
+      "sha256": "f106d3b9763410df521092dfe57f609c15bd1db1b59fc074b8ba027b966900e1",
+      "bytes": 937811
+    },
+    {
+      "view_key": "EAS-GAP-IMG-28",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-28.jpg",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Order_of_korean_labour.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Order_of_korean_labour.jpg",
+      "sha256": "c1da4f0725e6548ce4e263afef601ea471c293b5b83ae310fc254a4b48f298f1",
+      "bytes": 255181
+    },
+    {
+      "view_key": "EAS-GAP-IMG-32",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-32.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_National_Glory",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%E5%9C%8B%E5%85%89%E5%8B%B3%E7%AB%A0.jpg",
+      "sha256": "7f870f84892d89868773504131da9ba62657d9bfe2efcb6df6a818b7d0d5317e",
+      "bytes": 766471
+    },
+    {
+      "view_key": "EAS-GAP-IMG-34",
+      "local_path": "assets/images/east_asia_gap_round1_2026-09-26/eas-gap-34.jpg",
+      "source_page_url": "https://en.wikipedia.org/wiki/Order_of_the_Sacred_Tripod",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%E5%AF%B6%E9%BC%8E%E5%8B%B3%E7%AB%A0.jpg",
+      "sha256": "149f2f076c149b5845367b202ff72cefb5f87ccb68a541b20c82012792784ccc",
+      "bytes": 732293
+    }
+  ]
+}

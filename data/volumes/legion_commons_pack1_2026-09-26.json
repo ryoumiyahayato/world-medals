@@ -1,0 +1,142 @@
+{
+  "schema_version": "2.1",
+  "as_of": "2026-09-26",
+  "volume": "法国荣誉军团勋章（Commons 开放许可）历史模型组首包",
+  "status": "complete_local_panels_research_model_plates",
+  "scope_note": "从 Commons 文件 Legion d’Honneur Evolution.png 的完整面板中按时期裁取七个独立面板；每个面板均保留完整正、背挂章与下方胸星轮廓。面板是开放许可模型图版，不冒称单件馆藏摄影；具体等级、制造商和每件对象的材质仍按‘待考’记录。",
+  "dedup_checked_against": [
+    "data/volumes/france_commons_pack2_2026-09-26.json",
+    "data/normalized/france_legion_honour_batch1.json",
+    "data/volumes/france_second_empire_pack1_2026-09-26.json"
+  ],
+  "records": [
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-FIRST-EMPIRE-MODEL-GROUP-1804-1814-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "第一帝国，1804–1814（图版标签）",
+      "variant": "第一帝国时期模型组；完整正、背挂章与下方胸星同一面板；结构版型参考，不拆同面板视图",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "白珐琅五叉十字、帝国冠饰、绿叶花环与胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{
+        "key": "FRA-LEGION-HONOUR-EVOLUTION-FIRST-EMPIRE-MODEL-GROUP",
+        "label": "完整正背挂章与胸星面板",
+        "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-first-empire-panel.png",
+        "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-first-empire-panel.png",
+        "dimensions": [430, 760],
+        "sha256": "4fcad90c9f47aca822448a6a5970270cfb282d9afac38922e5567badd46b30d3",
+        "source_region": [80, 15, 430, 760],
+        "complete_view": true
+      }],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-first-empire"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-BOURBON-RESTORATION-MODEL-GROUP-1814-1830-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "波旁复辟，1814–1830（图版标签）",
+      "variant": "波旁复辟时期模型组；完整正、背挂章与下方胸星同一面板；王冠悬挂版型",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "王冠悬挂、白珐琅五叉十字、百合花中心与胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-BOURBON-RESTORATION-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-bourbon-restoration-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-bourbon-restoration-panel.png", "dimensions": [425, 760], "sha256": "8aad1c1918fac8365b5a7ac90b2fec0972c22af16b6da9360da3f1b65e4be325", "source_region": [605, 15, 425, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-restoration"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-JULY-MONARCHY-MODEL-GROUP-1830-1848-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "七月王朝，1830–1848（图版标签）",
+      "variant": "七月王朝模型组；完整正、背挂章与下方胸星同一面板；王冠与三色／王朝中心版型",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "王冠悬挂、白珐琅五叉十字、花环与中心徽记；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-JULY-MONARCHY-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-july-monarchy-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-july-monarchy-panel.png", "dimensions": [440, 760], "sha256": "2369f9750779e075f9ec04cdea376f7eb87e48e7bcd52f1652332830dc2f9e7b", "source_region": [1125, 15, 440, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-july-monarchy"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-SECOND-REPUBLIC-MODEL-GROUP-1848-1852-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "第二共和国，1848–1852（图版标签）",
+      "variant": "第二共和国模型组；完整正、背挂章与下方胸星同一面板；总统／共和国中心版型",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "王冠悬挂、白珐琅十字、共和国中心头像与高级胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-SECOND-REPUBLIC-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-second-republic-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-second-republic-panel.png", "dimensions": [450, 760], "sha256": "68f60535dde2e39236124058103c8e2ac4b1e324877b2d54430ada526c72f2b6", "source_region": [1655, 15, 450, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-second-republic"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-SECOND-EMPIRE-MODEL-GROUP-1852-1870-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "第二帝国，1852–1870（图版标签）",
+      "variant": "第二帝国模型组；完整正、背挂章与下方胸星同一面板；帝国冠饰版型；与既有巴黎博物馆1180.5骑士实物行不同：本行是开放许可模型图版组",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "帝国冠饰悬挂、白珐琅十字、帝国中心徽记与胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-SECOND-EMPIRE-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-second-empire-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-second-empire-panel.png", "dimensions": [450, 760], "sha256": "028f40c5480dfe419bfe829fc7236cdb38587615a5d4814dc75c20929b82c4b7", "source_region": [2200, 15, 450, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-second-empire", "existing-dedup-note-second-empire-1180-5"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-THIRD-REPUBLIC-MODEL-GROUP-1870-1940-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "第三共和国，1870–1940（图版标签）",
+      "variant": "第三共和国模型组；完整正、背挂章与下方胸星同一面板；共和国花环悬挂版型；与既有第三共和国大十字成套／军官实物行不同：本行是通用模型图版组",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "共和国花环悬挂、白珐琅十字、共和国中心与胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-THIRD-REPUBLIC-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-third-republic-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-third-republic-panel.png", "dimensions": [450, 760], "sha256": "5b409c80ce0daf32501c7c3628fad27eda287826b8355443a8b52db52e6ee237", "source_region": [2750, 15, 450, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-third-republic", "existing-dedup-note-third-republic"]
+    },
+    {
+      "id": "FRA-LEGION-HONOUR-EVOLUTION-FOURTH-FIFTH-REPUBLIC-MODEL-GROUP-1946-PRESENT-01",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章（Légion d’honneur）",
+      "original": "Ordre national de la Légion d’honneur",
+      "date": "第四／第五共和国，1946–至今（图版标签）",
+      "variant": "第四／第五共和国现行模型组；完整正、背挂章与下方胸星同一面板；共和国花环与现行中心版型",
+      "grade": "图版展示挂章与高级胸星，具体等级待考",
+      "manufacturer": "制造商待考（Evolution 文件页未指明）",
+      "structure": "共和国花环悬挂、白珐琅十字、现行共和国中心与胸星；正背同面板",
+      "image_nature": "Commons CC BY-SA 4.0 开放许可模型图版，非馆藏实物摄影",
+      "html_eligible": true,
+      "views": [{"key": "FRA-LEGION-HONOUR-EVOLUTION-FOURTH-FIFTH-REPUBLIC-MODEL-GROUP", "label": "完整正背挂章与胸星面板", "local_path": "assets/images/legion_commons_pack1_2026-09-26/evolution-fourth-fifth-republic-panel.png", "original_path": "originals/legion_commons_pack1_2026-09-26/evolution-fourth-fifth-republic-panel.png", "dimensions": [470, 760], "sha256": "09a3407edcef270992216ffab211163f0865d40b54dd301cc22601d4e82674ce", "source_region": [3295, 15, 470, 760], "complete_view": true}],
+      "source_ids": ["commons-legion-evolution", "samlhoc-legion-fourth-fifth-republic"]
+    }
+  ],
+  "research_candidates_not_formal": [
+    {"id": "FRA-LEGION-HONOUR-FIRST-EMPIRE-FIRST-TYPE-CENTRAL-MEDALLION-1804-1806-01", "reason": "Commons 中央圆章局部图；已解码查看，待完整十字对象图。"},
+    {"id": "FRA-LEGION-HONOUR-FIRST-EMPIRE-FIFTH-TYPE-CROWN-1809-1814-01", "reason": "Commons 五型冠饰局部图；已解码查看，待完整十字对象图。"}
+  ],
+  "counts": {
+    "records": 7,
+    "distinct_families": 1,
+    "new_model_group_rows": 7,
+    "complete_local_panel_rows": 7,
+    "html_eligible_rows": 7,
+    "image_files": 10,
+    "decoded_and_viewed": 10,
+    "research_candidates_not_formal": 2
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "source_record_version": "AUTONOMOUS_SOURCE_DISCOVERY_V2",
+  "batch_id": "NORDIC-FORMAL-P2-20260926",
+  "accessed_on": "2026-09-26",
+  "search_languages": ["Swedish", "Norwegian", "English"],
+  "sources": [
+    {
+      "source_id": "SWE-KUNGAHUSET-ORDERS",
+      "source_type": "official royal-house order overview",
+      "title": "Sveriges Kungahus — Ordnar",
+      "url": "https://www.kungahuset.se/sveriges-monarki/ordnar-och-medaljer/ordnar",
+      "language": "Swedish",
+      "evidence": [
+        {"fact": "Serafimer-, Svärds- and Nordstjärneordnarna were established by King Fredrik I in 1748.", "locator": "Ordnar overview", "summary": "Official royal-house history states that the three orders were established in 1748."},
+        {"fact": "Serafimerorden is Sweden's foremost order and has one class, riddare.", "locator": "Serafimerorden section", "summary": "Official overview describes the order as one-class; the displayed object page identifies the pictured type as a knight's breast star."}
+      ],
+      "status": "reviewed"
+    },
+    {
+      "source_id": "SWE-COMMONS-SERAFIMER-LRK43166",
+      "source_type": "Wikimedia Commons file page and original full-resolution museum image",
+      "title": "Kraschan för riddare av Serafimerorden, Sverige, 1800-talet — Livrustkammaren — 43166.tif",
+      "url": "https://commons.wikimedia.org/wiki/File:Kraschan_f%C3%B6r_riddare_av_Serafimerorden%2C_Sverige%2C_1800-talet_-_Livrustkammaren_-_43166.tif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kraschan_f%C3%B6r_riddare_av_Serafimerorden%2C_Sverige%2C_1800-talet_-_Livrustkammaren_-_43166.tif",
+      "institution": "Livrustkammaren",
+      "object_numbers": ["LSH 43166", "LRK 2294"],
+      "language": "Swedish",
+      "object_match": "File description identifies a knight's Serafimerorden breast star, Sweden, 19th century; the complete eight-point object is visible in the locally decoded original.",
+      "license": "CC0 1.0; source page also marks the physical object public domain",
+      "status": "original_downloaded_decoded_and_visually_checked"
+    },
+    {
+      "source_id": "NO-ROYAL-HOUSE-ST-OLAV",
+      "source_type": "official royal-house order page (existing local source-matrix record)",
+      "title": "Kongehuset — St. Olavs Orden",
+      "url": "https://www.kongehuset.no/monarkiet/ordener-og-medaljer/st-olavs-orden",
+      "language": "Norwegian",
+      "evidence": [
+        {"fact": "The Order of St. Olav was founded in 1847.", "locator": "Existing local Norway source matrix, date_coverage", "summary": "Local matrix records the official page's foundation date."},
+        {"fact": "The order has Grand Cross, Commander with Star, Commander, Knight First Class and Knight classes; collar and swords are forms/attributes, not separate orders.", "locator": "Existing local Norway source matrix, coverage_boundary", "summary": "Cached institutional-page review in the matrix lists these classes and variant boundaries."}
+      ],
+      "local_source_record": "data/staging/europe_nordic_2026-09-26/data/source_matrices/norway_source_matrix.json",
+      "status": "reviewed_cached_official_record_not_reopened_in_closeout"
+    },
+    {
+      "source_id": "NO-COMMONS-ST-OLAV-STAR",
+      "source_type": "Wikimedia Commons file page and full image",
+      "title": "Star Norwegian Order of St. Olav.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Star_Norwegian_Order_of_St._Olav.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Star_Norwegian_Order_of_St._Olav.JPG",
+      "language": "English",
+      "author": "Bjørn Christian Tørrissen",
+      "object_match": "Complete breast star shown at Fram Museum, Oslo; file page records the 2010-05-02 photograph date.",
+      "license": "Public Domain Mark (PDM)",
+      "status": "original_downloaded_decoded_and_visually_checked"
+    },
+    {
+      "source_id": "SWE-SHM-CANDIDATE-POOL",
+      "source_type": "local museum-API candidate package and source-matrix record",
+      "title": "Sweden SHM orders batch 1 candidate set",
+      "candidate_file": "data/volumes/sweden_shm_orders_batch1_2026-09-26_candidates.json",
+      "source_matrix": "data/source_atlas/sweden_source_matrix.json",
+      "candidate_families": 5,
+      "selected_variant_candidates": 15,
+      "status": "reviewed_candidate_metadata_only; SHM media outage means no SHM source image bytes promoted"
+    },
+    {
+      "source_id": "COMMONS-429-STOP",
+      "source_type": "operational access event",
+      "title": "Wikimedia Commons direct-image HTTP 429",
+      "status": "blocked_no_retry",
+      "note": "在一次后续瑞典替代图像请求返回 HTTP 429 后，按任务要求停止 Commons 图像请求；未再次重试。未下载的瑞典候选不计入本卷。"
+    },
+    {
+      "source_id": "NORDIC-FOUR-COUNTRY-MATRICES",
+      "source_type": "existing local discovery matrices",
+      "local_records": [
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/denmark_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/norway_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/finland_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/iceland_source_matrix.json"
+      ],
+      "status": "read_as_existing_roll-forward_context; Denmark/Iceland not harvested in this immediate closeout"
+    }
+  ],
+  "rights_note": "仅计入具有来源页和权利线索、已取得并解码的本地图像。Serafimer 展示 PNG 是本地无损派生副本，原始 TIFF 保留；挪威图片标记 PDM。"
+}

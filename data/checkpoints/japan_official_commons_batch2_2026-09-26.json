@@ -1,0 +1,34 @@
+{
+  "checkpoint_id":"japan_official_commons_batch2_2026-09-26",
+  "created_at":"2026-09-26T00:00:00+08:00",
+  "status":"partial_after_exact_retry",
+  "parent_checkpoint":"data/checkpoints/japan_official_commons_batch1_2026-09-26.json",
+  "scope":"Exactly the nine 429-blocked original URLs from batch1; no new directory search",
+  "route_results":{"attempted":9,"downloaded":5,"decoded_and_viewed":5,"remaining_http_429":4},
+  "successful_files":[
+    {"candidate_id":"JPN-NDL-WWI-CAMPAIGN","files":["wwi_campaign_design_front.jpg","wwi_campaign_design_back_1.jpg"],"result":"complete historical design front/reverse drawings; not specimen photos"},
+    {"candidate_id":"JPN-NDL-KOREA-ANNEXATION-COMMEMORATIVE","files":["korean_annexation_design_back.jpg"],"result":"decoded but lower medal is cropped; excluded and not paired with batch1 front"},
+    {"candidate_id":"JPN-NDL-TAISHO-ENTHRONEMENT-COMMEMORATIVE","files":["taisho_enthronement_02.JPG"],"result":"complete object photo in case; view 02 only, no front/back assertion"},
+    {"candidate_id":"JPN-NDL-NATIONAL-CENSUS-1-COMMEMORATIVE","files":["first_census_02.jpg"],"result":"complete object photo in case; view 02 only, no front/back assertion"}
+  ],
+  "remaining_routes":[
+    {"candidate_id":"JPN-NDL-WWI-CAMPAIGN","file":"Design_of_WWI_Campaign_Medal_Japan_back_2.jpg","reason":"HTTP 429 on second exact attempt"},
+    {"candidate_id":"JPN-NDL-TAISHO-ENTHRONEMENT-COMMEMORATIVE","file":"Taishō_Enthronement_Commemorative_Medal_01.JPG","reason":"HTTP 429 on second exact attempt"},
+    {"candidate_id":"JPN-NDL-NATIONAL-CENSUS-1-COMMEMORATIVE","file":"First_National_Census_Medal_01.jpg","reason":"HTTP 429 on second exact attempt"},
+    {"candidate_id":"JPN-NDL-NATIONAL-CENSUS-1-COMMEMORATIVE","file":"First_National_Census_Medal_03.jpg","reason":"HTTP 429 on second exact attempt"}
+  ],
+  "quality_rules_applied":[
+    "WWI images retained as historical design only, not physical specimens",
+    "Korea back excluded for visible crop and mixed-source mismatch",
+    "Taisho/Census view 02 files kept as complete single object views, but no front/back role inferred from filename",
+    "No image bound to Paulownia or generic Rising Sun candidates"
+  ],
+  "resume_next":"Do not retry these four URLs again in this package; a future pass may use the exact pages only after throttle clears. Do not rescan NDL/Commons directories.",
+  "artifacts":[
+    "data/raw_candidates/japan_official_commons_batch2.jsonl",
+    "data/normalized/japan_official_commons_batch2.json",
+    "data/image_harvest/japan_official_commons_batch2.json",
+    "assets/images/japan_official_commons_batch2/"
+  ],
+  "public_files_modified":[]
+}

@@ -1,0 +1,203 @@
+{
+  "as_of": "2026-09-25",
+  "baseline_verified_rows": 9,
+  "baseline_legacy_candidates": 28,
+  "items": [
+    {
+      "legacy_key": "MEDJ-I",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-MEDJ-I",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 2
+    },
+    {
+      "legacy_key": "MEDJ-II",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-MEDJ-II",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "MEDJ-IV",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-MEDJ-IV",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 2
+    },
+    {
+      "legacy_key": "MEDJ-V-S",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-MEDJ-V-S",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "OSM-III",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-OSM-III",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "IFT-ORDER",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-IFT-ORDER",
+      "reason": "已恢复原站完整图片并依据TDV修正制度年代；TDV：1833年公布章程，早期金银镶钻；1851–1852年停用。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "IMT-ORDER",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-IMT-ORDER",
+      "reason": "已恢复原站完整图片并依据TDV修正制度年代；TDV：阿卜杜勒迈吉德时期创设，1841年已有授予记录，制度不分等级。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "EDU-ORDER",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-EDU-ORDER",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "LIY-S",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-LIY-S",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "LIY-MINI",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-LIY-MINI",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 2
+    },
+    {
+      "legacy_key": "IMT-MEDAL",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-IMT-MEDAL",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "SANAYI",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-SANAYI",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 2
+    },
+    {
+      "legacy_key": "RED-CRESCENT",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-RED-CRESCENT",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "NUSRET",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-NUSRET",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "AGRI-S",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-AGRI-S",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "GRAD",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-GRAD",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "HEJAZ-G",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-HEJAZ-G",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "MAAN",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-MAAN",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "RELIEF",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-RELIEF",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "BOSNIA",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-BOSNIA",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "YEMEN-I",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-YEMEN-I",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "YEMEN-II",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-YEMEN-II",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "KARS",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-KARS",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "CONSTITUTION",
+      "disposition": "merged",
+      "target": "OTT-CONSTITUTION-01",
+      "reason": "同一宪法奖章与图像版型，合并到已有实物行",
+      "local_images": 0
+    },
+    {
+      "legacy_key": "NAVAL",
+      "disposition": "main_gallery",
+      "target": "OTT-LEG-NAVAL",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "WAR",
+      "disposition": "merged",
+      "target": "OTT-WAR-1915-01",
+      "reason": "同一1915年战争奖章家族；旧图为另一实物且绶带局部，保留已核完整馆藏图",
+      "local_images": 0
+    },
+    {
+      "legacy_key": "CHELENGK-COPY",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-CHELENGK-COPY",
+      "reason": "原对象页可访问，图片已下载并解码；分类与日期按对象页及土耳其语目录修订。",
+      "local_images": 1
+    },
+    {
+      "legacy_key": "DEPUTIES",
+      "disposition": "related_gallery",
+      "target": "OTT-LEG-DEPUTIES",
+      "reason": "原图恢复并解码；照片完整。属议员专用佩章，相关附编收录；设立制度日期仍待考。",
+      "local_images": 1
+    }
+  ]
+}

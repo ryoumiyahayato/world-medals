@@ -1,0 +1,45 @@
+{
+  "volume": "芬兰共和国国家勋团首包",
+  "as_of": "2026-09-26",
+  "records_file": "data/volumes/finland_orders_pack1.json",
+  "image_directory": "assets/images/finland_orders_pack1_2026-09-26/",
+  "counts": {
+    "distinct_award_families": 3,
+    "variant_rows": 3,
+    "complete_image_files": 3,
+    "physical_photo_views": 2,
+    "official_diagram_views": 1
+  },
+  "images": [
+    {
+      "view_key": "FI-WRV-COMMANDER-FIRST-CLASS-INSIGNIA-SET-IMAGE",
+      "local_path": "assets/images/finland_orders_pack1_2026-09-26/white_rose_commander_1st_class.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_White_Rose_of_Finland_commander_1st_class_insignias_(Finland)_-_Tallinn_Museum_of_Orders.jpg",
+      "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Order_of_the_White_Rose_of_Finland_commander_1st_class_insignias_(Finland)_-_Tallinn_Museum_of_Orders.jpg",
+      "width": 1862,
+      "height": 1228,
+      "sha256": "0ca764b7dae4b211e65b8137d4b53bfb29337a7428ec6731edfc8fd22ca69b93",
+      "rights": "CC BY-SA 4.0; 署名摄影者并链接许可；改作遵守相同方式共享条款。"
+    },
+    {
+      "view_key": "FI-LION-GRAND-CROSS-INSIGNIA-SET-IMAGE",
+      "local_path": "assets/images/finland_orders_pack1_2026-09-26/order_lion_grand_cross.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Suomen_Leijonan_Ritarikunnan_suurristi.jpg",
+      "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suomen_Leijonan_Ritarikunnan_suurristi.jpg",
+      "width": 4500,
+      "height": 4500,
+      "sha256": "8cec9f0051c1ccddaa3186d0f0353402a4657008a51a2493fa0a7fecdc835412",
+      "rights": "CC BY 4.0; 署名机构并链接许可；保留 Commons 文件页关于摄影及上传者的说明。"
+    },
+    {
+      "view_key": "FI-CL-MERIT-MEDAL-FIRST-CLASS-IMAGE",
+      "local_path": "assets/images/finland_orders_pack1_2026-09-26/merit_medal_1st_class_cross_liberty.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Merit_medal_of_the_1st_class_of_the_Cross_of_Liberty.png",
+      "direct_image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Merit_medal_of_the_1st_class_of_the_Cross_of_Liberty.png",
+      "width": 480,
+      "height": 480,
+      "sha256": "7878c59ed670d9770e24358e4127e72548cfbe54c0099649aa33f2c2b39fa41a",
+      "rights": "PD-Finland government-work notice as recorded on the Commons file page; 这是官方图式而非实物照；低分辨率仅作参考；文件页权利说明须随再利用保留。"
+    }
+  ]
+}

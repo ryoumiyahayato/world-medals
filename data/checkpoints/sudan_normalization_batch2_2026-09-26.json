@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "batch": "sudan_normalized_batch2",
+  "summary": {
+    "input_rows": 160,
+    "directory_rows": 71,
+    "medalbook_rows": 89,
+    "normalized_families": 77,
+    "cross_source_families": 31,
+    "single_source_families": 46,
+    "variant_rows": 160,
+    "families_with_raw_images": 13,
+    "raw_images": 77,
+    "catalogue_ready_images": 0,
+    "conflicts": 2,
+    "unresolved_source_page_failures": 1
+  },
+  "next_action": "Visually review 77 raw MedalBook images, bind complete object views to cross-source families, and replace commercial-only evidence where an official or Commons source is available."
+}

@@ -1,0 +1,862 @@
+{
+  "as_of": "2026-09-25",
+  "continents": [
+    {
+      "name": "亚洲",
+      "regions": [
+        {
+          "name": "东亚",
+          "systems": [
+            {
+              "name": "中国",
+              "periods": [
+                {
+                  "name": "清朝（1644–1912）",
+                  "periods": []
+                },
+                {
+            "name": "中华民国（1912–）",
+                  "periods": []
+                },
+                {
+                  "name": "中华人民共和国（1949–）",
+                  "periods": []
+                },
+                {
+                  "name": "其他历史政权",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "日本",
+              "periods": [
+                {
+                  "name": "德川幕府／近世时期",
+                  "periods": []
+                },
+                {
+                  "name": "明治时期（1868–1912）",
+                  "periods": []
+                },
+                {
+                  "name": "大正时期（1912–1926）",
+                  "periods": []
+                },
+                {
+                  "name": "昭和时期（1926–1989）",
+                  "periods": []
+                },
+                {
+                  "name": "平成时期（1989–2019）",
+                  "periods": []
+                },
+                {
+                  "name": "令和时期（2019–）",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "朝鲜半岛",
+              "periods": [
+                {
+                  "name": "朝鲜王朝（1392–1897）",
+                  "periods": []
+                },
+                {
+                  "name": "大韩帝国（1897–1910）",
+                  "periods": []
+                },
+                {
+                  "name": "韩国",
+                  "periods": []
+                },
+                {
+                  "name": "朝鲜",
+                  "periods": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "东南亚",
+          "systems": [
+            {
+              "name": "暹罗／泰国",
+              "periods": []
+            },
+            {
+              "name": "越南",
+              "periods": []
+            },
+            {
+              "name": "柬埔寨",
+              "periods": []
+            },
+            {
+              "name": "老挝",
+              "periods": []
+            },
+            {
+              "name": "缅甸",
+              "periods": []
+            },
+            {
+              "name": "马来诸国",
+              "periods": []
+            },
+            {
+              "name": "印度尼西亚诸历史政权",
+              "periods": []
+            },
+            {
+              "name": "菲律宾",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "南亚",
+          "systems": [
+            {
+              "name": "印度次大陆",
+              "periods": [
+                {
+                  "name": "莫卧儿帝国",
+                  "periods": []
+                },
+                {
+                  "name": "英属印度",
+                  "periods": []
+                },
+                {
+                  "name": "各土邦",
+                  "periods": []
+                },
+                {
+                  "name": "印度",
+                  "periods": []
+                },
+                {
+                  "name": "巴基斯坦",
+                  "periods": []
+                },
+                {
+                  "name": "孟加拉国",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "尼泊尔",
+              "periods": []
+            },
+            {
+              "name": "不丹",
+              "periods": []
+            },
+            {
+              "name": "斯里兰卡",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "中亚",
+          "systems": [
+            {
+              "name": "布哈拉",
+              "periods": []
+            },
+            {
+              "name": "希瓦",
+              "periods": []
+            },
+            {
+              "name": "浩罕",
+              "periods": []
+            },
+            {
+              "name": "俄罗斯帝国／苏联时期地方体系",
+              "periods": []
+            },
+            {
+              "name": "哈萨克斯坦",
+              "periods": []
+            },
+            {
+              "name": "乌兹别克斯坦",
+              "periods": []
+            },
+            {
+              "name": "土库曼斯坦",
+              "periods": []
+            },
+            {
+              "name": "吉尔吉斯斯坦",
+              "periods": []
+            },
+            {
+              "name": "塔吉克斯坦",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "西亚",
+          "systems": [
+            {
+              "name": "奥斯曼帝国（约1299–1922）",
+              "periods": [],
+              "status": "active",
+              "target": "ottoman"
+            },
+            {
+              "name": "波斯／伊朗",
+              "periods": []
+            },
+            {
+              "name": "土耳其共和国",
+              "periods": []
+            },
+            {
+              "name": "阿塞拜疆",
+              "periods": []
+            },
+            {
+              "name": "亚美尼亚",
+              "periods": []
+            },
+            {
+              "name": "阿富汗",
+              "periods": []
+            },
+            {
+              "name": "叙利亚",
+              "periods": []
+            },
+            {
+              "name": "阿曼",
+              "periods": []
+            },
+            {
+              "name": "也门",
+              "periods": []
+            },
+            {
+              "name": "阿拉伯半岛各政权",
+              "periods": []
+            },
+            {
+              "name": "海湾各酋长国",
+              "periods": []
+            },
+            {
+              "name": "伊拉克",
+              "periods": []
+            },
+            {
+              "name": "黎凡特诸政权",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "北亚／跨区域政权",
+          "systems": [
+            {
+              "name": "俄罗斯帝国与苏联（交叉入口）",
+              "periods": [],
+              "target": "queue-russian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "欧洲",
+      "regions": [
+        {
+          "name": "北欧",
+          "systems": [
+            {
+              "name": "丹麦",
+              "periods": []
+            },
+            {
+              "name": "瑞典",
+              "periods": [],
+              "target": "sweden"
+            },
+            {
+              "name": "挪威",
+              "periods": [],
+              "target": "norway"
+            },
+            {
+              "name": "芬兰",
+              "periods": [],
+              "target": "finland"
+            },
+            {
+              "name": "冰岛",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "西欧",
+          "systems": [
+            {
+              "name": "英国／大英帝国",
+              "periods": []
+            },
+            {
+              "name": "法国",
+              "periods": [
+                {
+                  "name": "第一帝国（1804–1814）",
+                  "periods": []
+                },
+                {
+                  "name": "波旁复辟（1814–1830）",
+                  "periods": []
+                },
+                {
+                  "name": "七月王朝（1830–1848）",
+                  "periods": []
+                },
+                {
+                  "name": "第二共和国（1848–1852）",
+                  "periods": []
+                },
+                {
+                  "name": "第二帝国（1852–1870）",
+                  "periods": []
+                },
+                {
+                  "name": "第三共和国（1870–1940）",
+                  "periods": []
+                },
+                {
+                  "name": "第四／第五共和国（1946–）",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "比利时",
+              "periods": []
+            },
+            {
+              "name": "荷兰",
+              "periods": []
+            },
+            {
+              "name": "卢森堡",
+              "periods": []
+            },
+            {
+              "name": "爱尔兰",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "中欧",
+          "systems": [
+            {
+              "name": "德国／德意志地区",
+              "periods": [
+                {
+                  "name": "神圣罗马帝国时期",
+                  "periods": [
+                    {
+                      "name": "勃兰登堡／普鲁士",
+                      "periods": []
+                    },
+                    {
+                      "name": "萨克森选侯国",
+                      "periods": []
+                    },
+                    {
+                      "name": "巴伐利亚",
+                      "periods": []
+                    },
+                    {
+                      "name": "各公国",
+                      "periods": []
+                    },
+                    {
+                      "name": "各侯国",
+                      "periods": []
+                    },
+                    {
+                      "name": "自由城市",
+                      "periods": []
+                    }
+                  ]
+                },
+                {
+                  "name": "德意志邦联（1815–1866）",
+                  "periods": [
+                    {
+                      "name": "各成员邦",
+                      "periods": []
+                    }
+                  ]
+                },
+                {
+                  "name": "北德意志邦联（1867–1871）",
+                  "periods": []
+                },
+                {
+                  "name": "德意志帝国（1871–1918）",
+                  "periods": [
+                    {
+                      "name": "普鲁士王国（1871–1918）",
+                      "periods": []
+                    },
+                    {
+                      "name": "巴伐利亚王国",
+                      "periods": []
+                    },
+                    {
+                      "name": "萨克森王国",
+                      "periods": []
+                    },
+                    {
+                      "name": "符腾堡王国",
+                      "periods": []
+                    },
+                    {
+                      "name": "巴登大公国",
+                      "periods": []
+                    },
+                    {
+                      "name": "黑森大公国",
+                      "periods": []
+                    },
+                    {
+                      "name": "梅克伦堡诸邦",
+                      "periods": []
+                    },
+                    {
+                      "name": "萨克森诸公国",
+                      "periods": []
+                    },
+                    {
+                      "name": "罗伊斯诸侯国",
+                      "periods": []
+                    },
+                    {
+                      "name": "施瓦茨堡诸侯国",
+                      "periods": []
+                    },
+                    {
+                      "name": "利珀",
+                      "periods": []
+                    },
+                    {
+                      "name": "绍姆堡-利珀",
+                      "periods": []
+                    },
+                    {
+                      "name": "瓦尔德克",
+                      "periods": []
+                    },
+                    {
+                      "name": "安哈尔特",
+                      "periods": []
+                    },
+                    {
+                      "name": "不伦瑞克",
+                      "periods": []
+                    },
+                    {
+                      "name": "奥尔登堡",
+                      "periods": []
+                    },
+                    {
+                      "name": "汉堡",
+                      "periods": []
+                    },
+                    {
+                      "name": "不来梅",
+                      "periods": []
+                    },
+                    {
+                      "name": "吕贝克",
+                      "periods": []
+                    }
+                  ]
+                },
+                {
+                  "name": "魏玛共和国（1918–1933）",
+                  "periods": []
+                },
+                {
+                  "name": "德国（1933–1945）",
+                  "periods": []
+                },
+                {
+                  "name": "德意志民主共和国（1949–1990）",
+                  "periods": []
+                },
+                {
+                  "name": "德意志联邦共和国（1949–）",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "普鲁士王国（1701–1918）",
+              "periods": []
+            },
+            {
+              "name": "哈布斯堡君主国／奥地利／奥匈帝国",
+              "periods": []
+            },
+            {
+              "name": "瑞士",
+              "periods": []
+            },
+            {
+              "name": "列支敦士登",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "南欧",
+          "systems": [
+            {
+              "name": "意大利诸政权",
+              "periods": []
+            },
+            {
+              "name": "西班牙",
+              "periods": [
+                {
+                  "name": "西班牙王国",
+                  "periods": []
+                },
+                {
+                  "name": "西班牙第二共和国",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "葡萄牙",
+              "periods": []
+            },
+            {
+              "name": "梵蒂冈",
+              "periods": []
+            },
+            {
+              "name": "圣马力诺",
+              "periods": []
+            },
+            {
+              "name": "摩纳哥",
+              "periods": []
+            },
+            {
+              "name": "马耳他",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "东欧",
+          "systems": [
+            {
+              "name": "波兰",
+              "periods": []
+            },
+            {
+              "name": "俄罗斯帝国／苏联／俄罗斯联邦",
+              "periods": [
+                {
+                  "name": "俄罗斯帝国",
+                  "periods": []
+                },
+                {
+                  "name": "苏联",
+                  "periods": []
+                },
+                {
+                  "name": "俄罗斯联邦",
+                  "periods": []
+                }
+              ]
+            },
+            {
+              "name": "乌克兰",
+              "periods": []
+            },
+            {
+              "name": "白俄罗斯",
+              "periods": []
+            },
+            {
+              "name": "捷克与斯洛伐克",
+              "periods": []
+            },
+            {
+              "name": "波罗的海三国",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "巴尔干／东南欧",
+          "systems": [
+            {
+              "name": "希腊",
+              "periods": []
+            },
+            {
+              "name": "罗马尼亚",
+              "periods": []
+            },
+            {
+              "name": "保加利亚",
+              "periods": []
+            },
+            {
+              "name": "塞尔维亚",
+              "periods": []
+            },
+            {
+              "name": "南斯拉夫及后继国家",
+              "periods": []
+            },
+            {
+              "name": "阿尔巴尼亚",
+              "periods": []
+            },
+            {
+              "name": "黑山",
+              "periods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "非洲",
+      "regions": [
+        {
+          "name": "北非",
+          "systems": [
+            {
+              "name": "埃及",
+              "periods": []
+            },
+            {
+              "name": "苏丹",
+              "periods": []
+            },
+            {
+              "name": "摩洛哥",
+              "periods": []
+            },
+            {
+              "name": "突尼斯",
+              "periods": []
+            },
+            {
+              "name": "阿尔及利亚",
+              "periods": []
+            },
+            {
+              "name": "利比亚",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "撒哈拉以南非洲",
+          "systems": [
+            {
+              "name": "埃塞俄比亚",
+              "periods": []
+            },
+            {
+              "name": "南非诸政权",
+              "periods": []
+            },
+            {
+              "name": "西非历史与现代政权",
+              "periods": []
+            },
+            {
+              "name": "中非历史与现代政权",
+              "periods": []
+            },
+            {
+              "name": "东非历史与现代政权",
+              "periods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "美洲",
+      "regions": [
+        {
+          "name": "北美",
+          "systems": [
+            {
+              "name": "美国",
+              "periods": []
+            },
+            {
+              "name": "加拿大",
+              "periods": []
+            },
+            {
+              "name": "墨西哥",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "中美洲与加勒比",
+          "systems": [
+            {
+              "name": "中美洲各国",
+              "periods": []
+            },
+            {
+              "name": "加勒比历史与现代政权",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "南美",
+          "systems": [
+            {
+              "name": "巴西帝国与共和国",
+              "periods": []
+            },
+            {
+              "name": "阿根廷",
+              "periods": []
+            },
+            {
+              "name": "智利",
+              "periods": []
+            },
+            {
+              "name": "秘鲁",
+              "periods": []
+            },
+            {
+              "name": "哥伦比亚",
+              "periods": []
+            },
+            {
+              "name": "委内瑞拉",
+              "periods": []
+            },
+            {
+              "name": "玻利维亚",
+              "periods": []
+            },
+            {
+              "name": "厄瓜多尔",
+              "periods": []
+            },
+            {
+              "name": "巴拉圭",
+              "periods": []
+            },
+            {
+              "name": "乌拉圭",
+              "periods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大洋洲",
+      "regions": [
+        {
+          "name": "澳大利亚与新西兰",
+          "systems": [
+            {
+              "name": "澳大利亚",
+              "periods": []
+            },
+            {
+              "name": "新西兰",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "太平洋诸岛",
+          "systems": [
+            {
+              "name": "历史王国、殖民地与独立国",
+              "periods": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "historical_crosslinks": [
+    {
+      "name": "奥斯曼帝国（约1299–1922）",
+      "target": "ottoman"
+    },
+    {
+      "name": "神圣罗马帝国",
+      "target": "queued"
+    },
+    {
+      "name": "奥匈帝国",
+      "target": "queued"
+    },
+    {
+      "name": "俄罗斯帝国",
+      "target": "queued"
+    },
+    {
+      "name": "苏联",
+      "target": "queued"
+    },
+    {
+      "name": "大英帝国",
+      "target": "queued"
+    },
+    {
+      "name": "南斯拉夫",
+      "target": "queued"
+    }
+  ],
+  "international": [
+    {
+      "name": "联合国体系",
+      "periods": []
+    },
+    {
+      "name": "红十字与红新月体系",
+      "periods": []
+    },
+    {
+      "name": "其他国际授予机构",
+      "periods": []
+    }
+  ]
+}

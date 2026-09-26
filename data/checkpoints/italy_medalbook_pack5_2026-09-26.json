@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-26",
+  "batch": "italy_medalbook_pack5_2026-09-26",
+  "plan": {
+    "scope": "Italy Kingdom/Sardinia MedalBook cached remainder",
+    "target": "at least 20 formal national/legal-institution award families with verified local images",
+    "exclusions": "private/unit commemoratives, club badges, ribbon-only candidates, existing pack2/3/4 families"
+  },
+  "progress": {
+    "source_pages": {
+      "planned": 5,
+      "complete": 5,
+      "partial": 0,
+      "unstarted": 0
+    },
+    "object_pages": {
+      "planned": 343,
+      "complete": 343,
+      "partial": 0,
+      "unstarted": 0
+    },
+    "raw_candidate_rows": {
+      "planned": 343,
+      "complete": 343,
+      "partial": 0,
+      "unstarted": 0
+    },
+    "normalized_candidate_families": {
+      "planned": 163,
+      "complete": 163,
+      "partial": 0,
+      "unstarted": 0
+    },
+    "selected_families": {
+      "planned": 20,
+      "complete": 20,
+      "partial": 0,
+      "unstarted": 0
+    },
+    "selected_variant_rows": {
+      "planned": 77,
+      "complete": 57,
+      "partial": 20,
+      "unstarted": 0
+    },
+    "verified_image_files": {
+      "planned": "all selected image requests",
+      "complete": 101,
+      "partial": 0,
+      "unstarted": 0
+    }
+  },
+  "counts": {
+    "raw_candidate_rows_scanned": 343,
+    "selected_candidate_rows": 75,
+    "selected_candidate_rows_with_attachments": 55,
+    "normalized_family_keys_in_input": 163,
+    "selected_formal_families": 20,
+    "variant_rows": 57,
+    "local_images": 101,
+    "unresolved_image_requests": 0,
+    "existing_family_keys_seen_in_pack2_3_4": 41,
+    "accidental_existing_family_id_overlap": []
+  },
+  "excluded_candidates": [
+    {
+      "candidate_key": "IT-SAR-KOI-3RD-ARMY-COMMEMORATIVE-CROSS",
+      "reason": "source conflict: official/semi-official wording conflicts with independent evidence; private/unit commemorative status unresolved"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-ITALIAN-GERMAN-NORTH-AFRICAN-CAMPAIGN",
+      "reason": "source states non-official and never adopted by the Italian Army"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-OF-THE-9TH-ARMY",
+      "reason": "source states unofficial unit award"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-EXPEDITION-CORPS-ORIENTE-BALCANICO",
+      "reason": "source states unofficial"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-THE-2ND-ARMY",
+      "reason": "unit/private commemorative; no formal national award evidence"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-CROSS-FOR-EAST-AFRICA",
+      "reason": "unit/private commemorative; no formal national award evidence"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-DEGLI-ALTIPIANI-ARMY",
+      "reason": "source conflict/likely unofficial unit commemorative"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-EXPEDITION-TO-FIUME",
+      "reason": "already included in Italy pack4 and also flagged as unofficial in source review"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-MILITARY-VALOUR",
+      "reason": "already included in pack2 under IT-KOI-002"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-MEDAL-FOR-CIVIL-VALOUR",
+      "reason": "already included in pack2 under IT-KOI-003"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-WAR-MERIT-CROSS",
+      "reason": "already included in pack2 under IT-KOI-004"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-ITALO-TURKISH-WAR",
+      "reason": "already included in pack3 under IT-KOI-006"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-THE-ITALIAN-AUSTRIAN-WAR-1915-1918",
+      "reason": "not excluded; selected for this pack"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-WORLD-WAR-I-INTER-ALLIED-VICTORY-MEDAL",
+      "reason": "already included in pack3 under IT-KOI-008"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-CIVIL-ORDER-OF-SAVOY",
+      "reason": "already included in pack4 under IT-KOI-042"
+    },
+    {
+      "candidate_key": "IT-SAR-KOI-TYPE-I-1815-1855",
+      "reason": "already included in pack4 under IT-KOI-043"
+    }
+  ],
+  "next_positions": [
+    {
+      "family_id": "IT-KOI-044",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-ROMAN-EAGLE",
+      "rows_remaining_without_selected_images": 2,
+      "variants": [
+        "Order of the Roman Eagle, Grand Cross Breast Star, in gold",
+        "Order of the Roman Eagle, Medal, in Silver"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-049",
+      "candidate_key": "IT-SAR-KOI-ORDER-OF-THE-MOST-HOLY-ANNUNCIATION",
+      "rows_remaining_without_selected_images": 1,
+      "variants": [
+        "Order of the Most Holy Annunciation, Large Collar"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-051",
+      "candidate_key": "IT-SAR-KOI-COMMEMORATIVE-MEDAL-FOR-WORK-IN-EAST-AFRICA",
+      "rows_remaining_without_selected_images": 1,
+      "variants": [
+        "Commemorative Medal for Work in East Africa, in Silver"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-056",
+      "candidate_key": "IT-SAR-KOI-CROSS-OF-MERIT-FOR-OPERA-NAZIONALE-BALILLA-YOUNG-ITALIANS",
+      "rows_remaining_without_selected_images": 2,
+      "variants": [
+        "Cross of Merit for Opera Nazionale Balilla (Young Italians), for Young Men",
+        "Cross of Merit for Opera Nazionale Balilla (Young Italians), for Young Women"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-057",
+      "candidate_key": "IT-SAR-KOI-CROSS-OF-MERIT-OF-THE-ITALIAN-FASCIST-YOUTH",
+      "rows_remaining_without_selected_images": 4,
+      "variants": [
+        "Cross of Merit of the Italian Fascist Youth, for Girls",
+        "Cross of Merit of the Italian Fascist Youth, for Kids",
+        "Cross of Merit of the Italian Fascist Youth, for Young Fascists",
+        "Cross of Merit of the Italian Fascist Youth, for Young Women"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-058",
+      "candidate_key": "IT-SAR-KOI-MILITARY-MERIT-MAURITIANA-MEDAL",
+      "rows_remaining_without_selected_images": 1,
+      "variants": [
+        "Military Merit Mauritiana Medal, Large"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-059",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-VICTOR-EMMANUEL-I-I",
+      "rows_remaining_without_selected_images": 2,
+      "variants": [
+        "Medal for Meritorious Public Welfare, Type I, in Gold",
+        "Medal for Meritorious Public Welfare, Type I, in Silver"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-060",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I",
+      "rows_remaining_without_selected_images": 2,
+      "variants": [
+        "Medal for Merit of the People's Education, Type II, in Bronze",
+        "Medal for Merit of the People's Education, Type II, in Gold"
+      ]
+    },
+    {
+      "family_id": "IT-KOI-061",
+      "candidate_key": "IT-SAR-KOI-TYPE-I-I-VICTOR-EMMANUEL-I-I-I",
+      "rows_remaining_without_selected_images": 1,
+      "variants": [
+        "Medal of Merit for Italian Schools Abroad, Type II, in Gold"
+      ]
+    }
+  ],
+  "remaining_input": {
+    "candidate_family_keys_not_selected": 144,
+    "candidate_rows_not_selected": 268,
+    "note": "Not selected does not mean rejected: many remaining keys are formal but currently lack a verified complete image or require separate institutional/date review."
+  },
+  "outputs": [
+    "data/volumes/italy_medalbook_pack5_2026-09-26.json",
+    "data/volumes/italy_medalbook_pack5_2026-09-26_manifest.json",
+    "data/volumes/italy_medalbook_pack5_2026-09-26_sources.json",
+    "assets/images/italy_medalbook_pack5_2026-09-26/",
+    "sources/italy_medalbook_pack5_2026-09-26/selection_notes.md"
+  ],
+  "protected_main_files": [
+    "site_build.py",
+    "validate_site.py",
+    "index.html",
+    "progress.json"
+  ],
+  "status": "complete"
+}

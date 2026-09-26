@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "从pack1既有的124个归并候选中，只处理USSR-MED-01与USSR-MED-02两个候选及两个Commons奖章分类的直接文件页。",
+  "input_candidates_file": "data/volumes/russia_bulk_pack1_2026-09-26_candidates.json",
+  "input_raw_candidates_file": "data/raw_candidates/russia_bulk_pack1_2026-09-26.jsonl",
+  "merge_rules": [
+    "USSR-MED-01与USSR-MED-02是两个名称不同的正式奖章候选，分别保留为独立family。",
+    "等级、挂章／绶带、制造商和制作时期差异若证实，后续均在各自family下建variant，不新建family。",
+    "图像可识别奖章正面不等于已识别精确生产型式；未核实的variant不计入严格版型行。"
+  ],
+  "candidate_family_ids": [
+    "USSR-MED-01",
+    "USSR-MED-02"
+  ],
+  "selected_family_ids": [
+    "USSR-MED-01",
+    "USSR-MED-02"
+  ],
+  "counts": {
+    "input_normalized_family_candidates": 124,
+    "previous_pack1_selected_families": 9,
+    "this_pack_selected_families": 2,
+    "remaining_family_candidates_after_both_packs": 113,
+    "direct_media_file_page_candidates": 25,
+    "formal_image_rows_drafted": 2,
+    "strict_production_variants_resolved": 0,
+    "unselected_file_pages_held_in_quarantine": 23
+  },
+  "source_candidate_families": [
+    {
+      "family_id": "USSR-MED-01",
+      "source_record_id": "USSR-MEDAL-01",
+      "source_id": "mondvor_ussr_medal_index",
+      "original_name": "Медаль «За трудовую доблесть»",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "establishment_date_candidate": "1938-12-27",
+      "date_evidence": "History of Russia目录条目题名记为1938-12-27设立法令；目录网页本地缓存失败，需主任务核原件。",
+      "source_urls": [
+        "https://docs.historyrussia.org/ru/nodes/131218-ob-uchrezhdenii-medali-locale-nil-za-trudovuyu-doblest-locale-nil-ukaz-ot-27-dekabrya-1938-g",
+        "https://commons.wikimedia.org/wiki/Category:Medal_%22For_Labour_Valour%22"
+      ],
+      "selected_file_page": "https://commons.wikimedia.org/wiki/File:Soviet_Medal_For_Labour_Valour_OBVERSE.jpg",
+      "selected_original_image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Soviet_Medal_For_Labour_Valour_OBVERSE.jpg",
+      "local_image": "assets/raw/russia_normalization_pack2/ussr-medal-for-labour-valour-obverse.jpg",
+      "status": "family_candidate_with_complete_low_resolution_front_photo; production_variant_pending"
+    },
+    {
+      "family_id": "USSR-MED-02",
+      "source_record_id": "USSR-MEDAL-02",
+      "source_id": "mondvor_ussr_medal_index",
+      "original_name": "Медаль «За трудовое отличие»",
+      "polity": "苏联",
+      "period_candidate": "苏联 (1922–1991)",
+      "establishment_date_candidate": "1938-12-27",
+      "date_evidence": "History of Russia目录条目题名记为1938-12-27设立法令；目录网页本地缓存失败，需主任务核原件。",
+      "source_urls": [
+        "https://www.docs.historyrussia.org/ru/nodes/131219-ob-uchrezhdenii-medali-locale-nil-za-trudovoe-otlichie-locale-nil-ukaz-ot-27-dekabrya-1938-g",
+        "https://commons.wikimedia.org/wiki/Category:Medal_%22For_Distinguished_Labour%22"
+      ],
+      "selected_file_page": "https://commons.wikimedia.org/wiki/File:За_трудовое_отличие_аверс.jpg",
+      "selected_original_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/%D0%97%D0%B0_%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5_%D0%B0%D0%B2%D0%B5%D1%80%D1%81.jpg",
+      "local_image": "assets/raw/russia_normalization_pack2/ussr-medal-for-distinguished-labour-obverse.jpg",
+      "status": "family_candidate_with_complete_high_resolution_front_photo; production_variant_pending"
+    }
+  ],
+  "not_selected_reason": "其余直接文件页保留在隔离跟进清单；本批不据页名把它们拆成版型，不把绶带、邮票或未经逐件核对的来源图纳入正文图片。",
+  "no_public_site_changes": true
+}

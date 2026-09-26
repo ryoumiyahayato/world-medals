@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "Russia / USSR / Russian Federation — bulk source-first pack 2",
+  "images": [
+    {
+      "view_key": "RUS-P2-IMG-01",
+      "local_path": "assets/images/russia_normalization_pack2/ussr-medal-for-labour-valour-obverse.jpg"
+    },
+    {
+      "view_key": "RUS-P2-IMG-02",
+      "local_path": "assets/images/russia_normalization_pack2/ussr-medal-for-distinguished-labour-obverse.jpg"
+    }
+  ],
+  "rights_review": {
+    "files_with_license_and_author_transcribed_from_file_page": 2,
+    "attribution_or_sharealike": [
+      "RUS-P2-IMG-01",
+      "RUS-P2-IMG-02"
+    ],
+    "public_domain_or_local_law_recheck": [
+      "RUS-P2-IMG-02"
+    ],
+    "notes": "Commons页面所示许可与作者已抄录；发布前保留署名并核查适用法域。CC BY-SA项目须遵守署名及相同方式共享条款。PD-RU-exempt标签不是对所有法域的法律意见。"
+  }
+}

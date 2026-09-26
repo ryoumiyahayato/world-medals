@@ -1,0 +1,8 @@
+{
+  "as_of": "2026-09-26",
+  "input_rows": 1250,
+  "metadata_resolved": 1249,
+  "metadata_unresolved": 1,
+  "batch_failures": [],
+  "output": "data/raw_candidates/commons_mena_enriched_2026-09-26.jsonl"
+}

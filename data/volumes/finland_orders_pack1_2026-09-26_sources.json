@@ -1,0 +1,121 @@
+{
+  "source_record_version": "AUTONOMOUS_SOURCE_DISCOVERY_V2",
+  "batch_id": "FIN-NATIONAL-ORDERS-P1-20260926",
+  "accessed_on": "2026-09-26",
+  "sources": [
+    {
+      "source_id": "FI-PRESIDENT-SYMBOLS",
+      "source_type": "official presidential institutional page",
+      "title": "Office of the President of Finland — Symbols / Decorations",
+      "url": "https://www.presidentti.fi/en/presidency/symbols/",
+      "language": "English",
+      "scope_used": ["Cross of Liberty", "Order of the White Rose of Finland", "Order of the Lion of Finland"],
+      "evidence": [
+        {"fact": "The President names all three orders and identifies their Grand Master.", "locator": "Decorations section", "excerpt": "The President of Finland is the Grand Master of all three orders"},
+        {"fact": "White Rose foundation date and later statute dates are separate events.", "locator": "Order of the White Rose of Finland section", "excerpt": "established ... on January 28, 1919"},
+        {"fact": "Lion foundation date.", "locator": "Order of the Lion of Finland section", "excerpt": "founded on September 11, 1942"},
+        {"fact": "Cross of Liberty founding wording, initial classes, and wartime/peacetime ribbon distinction.", "locator": "The Order of the Cross of Liberty section", "excerpt": "founded on March 4, 1918"}
+      ],
+      "status": "reviewed"
+    },
+    {
+      "source_id": "FI-ORDERS-GUIDE-2025",
+      "source_type": "official illustrated guide / PDF",
+      "title": "A Guide to the Orders and Decorations of Finland, 2025",
+      "url": "https://ritarikunnat.fi/wp-content/uploads/2026/02/Kunniamerkkiopas_2025_englanti.pdf",
+      "local_cache": "data/staging/europe_nordic_2026-09-26/sources/finland/Kunniamerkkiopas_2025_englanti.pdf",
+      "languages": ["English"],
+      "document_pages": 52,
+      "sha256": "39C42A75727ED736EB52976DB310AB85D26F48345EE0372FA738194EE872B108",
+      "review_method": "已抽取并语义扫读全部52页文本；此前渲染并核看勋章图版页（PDF页12–17）。正文核对等级名、历史日期与类属；未把版权属于芬兰两勋团的图版复制入卷。",
+      "evidence": [
+        {"fact": "White Rose adopted statutes and bestowed decorations; the May statute date is not its January establishment date.", "locator": "PDF p.6 / printed p.4 and PDF p.38 / printed p.36", "summary": "Preface says statutes were adopted 16 May 1919; history says the order was established in January 1919 and statutes ratified 16 May 1919."},
+        {"fact": "White Rose grades and medal forms.", "locator": "PDF pp.10–13 / printed pp.8–11", "summary": "Lists Grand Cross, Commander First Class, Commander, Knight First Class, Knight, Cross of Merit, and three medal classes; collar, diamonds, clasps and swords are special attributes/forms rather than separate orders."},
+        {"fact": "Lion grades and medal forms.", "locator": "PDF pp.10, 14–15 / printed pp.8, 12–13", "summary": "Lists Grand Cross, Commander First Class, Commander, Pro Finlandia Medal, Knight First Class, Knight and Cross of Merit; wartime swords are a decoration attribute."},
+        {"fact": "Cross of Liberty system and standing order dates.", "locator": "PDF p.36 / printed p.34", "summary": "Senate established the Crosses and Medals of Liberty on 4 March 1918; the permanent Order of the Cross of Liberty was founded by decree on 16 December 1940."}
+      ],
+      "image_rights": "Copyright © Suomen Valkoisen Ruusun ja Suomen Leijonan ritarikunnat 2025; the guide's plates were used for identification only and are not package images.",
+      "status": "52_page_text_sweep_complete; image_category_work_remains_outside_this_PDF"
+    },
+    {
+      "source_id": "FI-COMMONS-WHITE-ROSE",
+      "source_type": "Wikimedia Commons file page and full image",
+      "title": "Order of the White Rose of Finland commander 1st class insignias — Tallinn Museum of Orders",
+      "url": "https://commons.wikimedia.org/wiki/File:Order_of_the_White_Rose_of_Finland_commander_1st_class_insignias_(Finland)_-_Tallinn_Museum_of_Orders.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Order_of_the_White_Rose_of_Finland_commander_1st_class_insignias_(Finland)_-_Tallinn_Museum_of_Orders.jpg",
+      "language": "English",
+      "object_match": "File-page title identifies Commander First Class insignia; photo visibly shows neck badge and breast star together.",
+      "author": "Borodun",
+      "license": "CC BY-SA 4.0",
+      "status": "image_downloaded_decoded_and_visually_checked"
+    },
+    {
+      "source_id": "FI-FINNA-LION-RECORD",
+      "source_type": "National Museum of Finland collection record via Finna",
+      "title": "Order of the Lion of Finland Grand Cross object record",
+      "url": "https://www.finna.fi/Record/museovirasto.A11C2EA9B70CC2FE464B47DBFCB99D6B",
+      "language": "Finnish / English metadata",
+      "object_match": "Museum record is linked from the Commons file page; used to associate the photographed sash badge and star with the National Museum of Finland.",
+      "status": "record_and_image_correspondence_retained"
+    },
+    {
+      "source_id": "FI-COMMONS-LION",
+      "source_type": "Wikimedia Commons file page and full image",
+      "title": "Suomen Leijonan Ritarikunnan suurristi.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Suomen_Leijonan_Ritarikunnan_suurristi.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suomen_Leijonan_Ritarikunnan_suurristi.jpg",
+      "language": "Finnish",
+      "author": "National Museum of Finland collection image; file page records Kesäperuna as uploader of the improved-resolution file",
+      "license": "CC BY 4.0",
+      "status": "image_downloaded_decoded_and_visually_checked"
+    },
+    {
+      "source_id": "FI-CL-OFFICIAL-DECORATIONS",
+      "source_type": "official Order of the Cross of Liberty decorations page",
+      "title": "Decorations of the Order of the Cross of Liberty",
+      "url": "https://vapaudenristinritarikunta.fi/en/decorations-eng/",
+      "language": "English",
+      "evidence": [
+        {"fact": "Merit Medal First Class belongs to the Order of the Cross of Liberty.", "locator": "Decoration list", "excerpt": "Medal of Merit First Class of the Order of the Cross of Liberty"},
+        {"fact": "A Medal of Merit is the civilian counterpart in this award system; not a distinct independent order.", "locator": "Difference between decorations conferred to the military and civilians", "excerpt": "the Cross of Liberty Medal of Merit to civilians"},
+        {"fact": "Military/civilian sword distinction and red/peacetime ribbon notes retained for future variants.", "locator": "Ribbon colours; military/civilian distinctions", "summary": "Official page explains wartime/peacetime ribbon colours and that Crosses are awarded with swords to military personnel, without swords to civilians."}
+      ],
+      "status": "reviewed"
+    },
+    {
+      "source_id": "FI-COMMONS-CL-MERIT-I",
+      "source_type": "Wikimedia Commons official-diagram file page and original image",
+      "title": "Merit medal of the 1st class of the Cross of Liberty.png",
+      "url": "https://commons.wikimedia.org/wiki/File:Merit_medal_of_the_1st_class_of_the_Cross_of_Liberty.png",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Merit_medal_of_the_1st_class_of_the_Cross_of_Liberty.png",
+      "language": "English",
+      "image_kind": "complete official diagram, not a specimen photograph",
+      "designer_credit": "Akseli Gallen-Kallela, as attributed on the file page",
+      "license": "PD-Finland government-work notice as recorded on the file page",
+      "limitation": "480×480; label low-resolution reference. No current task request was made to retry the Commons API after its prior HTTP 429; the cached file-page record and staged original are used.",
+      "status": "file_decoded_and_visually_checked; official class page independently confirms the decoration identity"
+    },
+    {
+      "source_id": "NORDIC-FOUR-COUNTRY-MATRICES",
+      "source_type": "four-country source discovery matrices",
+      "local_records": [
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/denmark_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/norway_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/finland_source_matrix.json",
+        "data/staging/europe_nordic_2026-09-26/data/source_matrices/iceland_source_matrix.json"
+      ],
+      "status": "read_for_roll_forward",
+      "boundary": "Denmark, Norway and Iceland matrices identify official and Commons sources but do not yet contain cleared, downloaded complete object images for this package. Finland's Cross of Liberty row was promoted from its existing cached candidate after official order-family verification."
+    },
+    {
+      "source_id": "SWE-SHM-CANDIDATE-POOL",
+      "source_type": "SHM museum API candidate set and Swedish source matrix",
+      "candidate_file": "data/volumes/sweden_shm_orders_batch1_2026-09-26_candidates.json",
+      "source_matrix": "data/source_atlas/sweden_source_matrix.json",
+      "status": "candidate_pool_reviewed_images_blocked_in_cached_checkpoint",
+      "boundary": "Five independent candidate order families and 15 selected variants are retained, but the saved SHM media endpoint timed out and SHM previously announced download trouble; this subtask did not repeat the blocked image request. Zero SHM bytes are counted as local images."
+    }
+  ],
+  "search_languages": ["Finnish", "Swedish", "English"],
+  "rights_note": "公开可访问不等于自动允许再发布。仅将权利说明明确且可解码的本地原图放入图像目录；芬兰官方指南自身的章图因版权保留不复制。"
+}

@@ -1,0 +1,37 @@
+{
+  "as_of": "2026-09-26",
+  "method": "SOURCE_FIRST_BULK_INGESTION",
+  "scope": "Ottoman Empire fixed seed source matrix",
+  "coverage_summary": {
+    "planned": 17,
+    "complete": 9,
+    "partial_or_blocked": 7,
+    "not_started": 1
+  },
+  "source_systems": [
+    {"id": "commons_ottoman", "name": "Wikimedia Commons Ottoman category tree", "status": "complete_with_one_failed_person_category", "worker": "A", "sweep_file": "data/source_sweeps/commons_ottoman.json"},
+    {"id": "wikipedia_multilang_ottoman", "name": "Wikipedia English/German/Italian/Russian lists and key articles", "status": "complete", "worker": "A", "sweep_file": "data/source_sweeps/wikipedia_multilang_ottoman.json"},
+    {"id": "turkeyswar_ottoman", "name": "Turkey in the First World War — medals and orders", "status": "complete", "worker": "B", "sweep_file": "data/source_sweeps/turkeyswar_ottoman.json"},
+    {"id": "turkishmedals_decorations_ottoman", "name": "turkishmedals.net Wayback — decorations", "status": "blocked_archive_unreachable", "worker": "B", "sweep_file": "data/source_sweeps/turkishmedals_ottoman.json"},
+    {"id": "turkishmedals_campaigns_ottoman", "name": "turkishmedals.net Wayback — campaign medals", "status": "blocked_archive_unreachable", "worker": "B", "sweep_file": "data/source_sweeps/campmedals_ottoman.json"},
+    {"id": "gwpda_ottoman", "name": "GWPDA Turkish medals", "status": "complete", "worker": "B", "sweep_file": "data/source_sweeps/gwpda_turkey_ottoman.json"},
+    {"id": "ottoman_bank_archive_awards", "name": "Ottoman Bank Archive orders and decorations", "status": "accessible_salt_mirror_complete_legacy_seed_unavailable", "worker": "B", "sweep_file": "data/source_sweeps/obarsiv_ottoman.json"},
+    {"id": "tdv_nisan_madalya", "name": "TDV İslâm Ansiklopedisi — Nişan / Madalya", "status": "complete", "worker": "B", "sweep_file": "data/source_sweeps/tdv_ottoman.json"},
+    {"id": "medalbook_ottoman", "name": "MedalBook Ottoman Empire full catalogue", "status": "complete", "worker": "root", "sweep_file": "data/source_sweeps/medalbook_ottoman.json"},
+    {"id": "emedals_ottoman", "name": "eMedals Turkey collections, orders and medals", "status": "complete", "worker": "E", "sweep_file": "data/source_sweeps/emedals_ottoman.json"},
+    {"id": "kuenker299_ottoman", "name": "Künker Auction 299 lots 7001–7448", "status": "complete", "worker": "E", "sweep_file": "data/source_sweeps/kuenker299_ottoman.json"},
+    {"id": "spink_ottoman", "name": "Spink Ottoman specialist auctions", "status": "pending_seed", "worker": null},
+    {"id": "gmic_ottoman", "name": "GMIC Türkiye forum and supplied topic threads", "status": "complete_visible_pages", "worker": "E", "sweep_file": "data/source_sweeps/gmic_ottoman.json"},
+    {"id": "bogazici_ottoman", "name": "Boğaziçi University Digital Archive supplied record", "status": "blocked_by_access_control", "worker": "root", "sweep_file": "data/source_sweeps/bogazici_ottoman.json"},
+    {"id": "nigde_academic_ottoman", "name": "Niğde Museum academic article", "status": "complete", "worker": "B", "sweep_file": "data/source_sweeps/nigde_academic_ottoman.json"},
+    {"id": "picryl_ottoman", "name": "PICRYL Ottoman medals topic result set", "status": "partial_with_item_fetch_failures", "worker": "root", "sweep_file": "data/source_sweeps/picryl_ottoman.json"},
+    {"id": "turkishculture_ottoman", "name": "Turkish Culture Portal Ottoman medals page", "status": "blocked_at_seed", "worker": "root", "sweep_file": "data/source_sweeps/turkishculture_ottoman.json"}
+  ],
+  "rules": {
+    "completion": "A source is complete only after all currently visible pagination, subcategories, and accessible internal item pages have been traversed.",
+    "raw_output": "data/raw_candidates/<source>_ottoman.jsonl",
+    "conflicts": "data/conflicts/",
+    "shared_cache": ["sources/cache/", "sources/books/", "sources/pages/", "assets/raw/"],
+    "html_build": "deferred until a normalized batch and image batch are ready"
+  }
+}

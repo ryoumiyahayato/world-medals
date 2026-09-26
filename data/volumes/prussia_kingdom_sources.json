@@ -1,0 +1,178 @@
+{
+  "pru-jmb-491340": {
+    "institution": "Jüdisches Museum Berlin, Sammlung online",
+    "page": "https://objekte.jmberlin.de/gobject/jmb-obj-491340",
+    "accessed": "2026-09-25",
+    "object_id": "2010/215/1/003",
+    "summary": "馆藏对象题名为1870年德法战争铁十字二级，年代1870-1871，材质黑化铁与银；对象说明记载正面王冠与W 1870，背面FW与1813。核对JMB同一对象的IIIF清单后，使用113321正面及113320背面原图，均为2000x1500，完整章体；此前误标为正面的800x600派生图实际为背面，已从正式视图映射移除并仅作内部留档。IIIF元数据标示CC BY-NC-SA 4.0；按非商业及相同方式共享条件记录。",
+    "views": [
+      {
+        "label": "正面",
+        "image_path": "assets/images/prussia_kingdom/iron-cross-1870-second-class-jmb-obverse.jpg",
+        "image_url": "https://objekte.jmberlin.de/apis/iiif/image/v2/113321/full/full/0/default.jpg",
+        "image_dimensions_px": [2000, 1500],
+        "image_bytes": 76821,
+        "sha256": "2AD802297BA9B3CFED9B327817C9CB850E21AE63FAB0DD5B53356B9CE74CD853",
+        "visible_inscription": "王冠及W 1870"
+      },
+      {
+        "label": "背面",
+        "image_path": "assets/images/prussia_kingdom/iron-cross-1870-second-class-jmb-reverse.jpg",
+        "image_url": "https://objekte.jmberlin.de/apis/iiif/image/v2/113320/full/full/0/default.jpg",
+        "image_dimensions_px": [2000, 1500],
+        "image_bytes": 77340,
+        "sha256": "2349EA69B01D07AC9092258CD0D30826D28C18C3E7419782D5397658E0624EEC",
+        "visible_inscription": "FW及1813"
+      }
+    ],
+    "license": "CC BY-NC-SA 4.0, per JMB IIIF metadata",
+    "image_check": "Both original-resolution JPEGs decoded successfully and were manually checked against object details: obverse reads W 1870; reverse reads FW/1813. They show the same accessioned complete cross."
+  },
+  "pru-awm-iron-cross-history": {
+    "institution": "Australian War Memorial",
+    "page": "https://www.awm.gov.au/collection/C134526",
+    "accessed": "2026-09-25",
+    "object_id": "RELAWM14741",
+    "summary": "馆藏对象是1870年复设版铁十字二级，材质铁、银，约1871年制；页面记载该勋章由普鲁士国王腓特烈·威廉三世于1813年设立、于1870-71年复设。此条用于核对系列沿革，具体待收实物图采用JMB馆藏对象。未下载此页图片。"
+  },
+  "pru-ddb-dhm-iron-cross-class1": {
+    "institution": "Deutsches Historisches Museum, via Deutsche Digitale Bibliothek",
+    "page": "https://www.deutsche-digitale-bibliothek.de/item/U44ZHMXP6OHVR2WBMSBFSEOU3XDUSEF7",
+    "accessed": "2026-09-25",
+    "object_id": "O 59/76",
+    "summary": "DDB馆藏聚合页记载一件1870年铁十字一级，德国历史博物馆藏，材质铁、银，尺寸42×42mm、16g，产地为历史上的普鲁士王国。图像获取受限，本批暂列待补图；该页标示权利条件CC BY-NC-ND 4.0。"
+  },
+  "pru-smg-crown-medal-1861": {
+    "institution": "Science Museum Group, Sir Henry Wellcome's Museum Collection",
+    "page": "https://collection.sciencemuseumgroup.org.uk/objects/co72417/prussian-order-of-the-crown-medal-prize-medals",
+    "accessed": "2026-09-25",
+    "object_id": "A111599",
+    "summary": "对象页题名为普鲁士王冠勋章奖章；1861年制于普鲁士，H. and S.制造。馆藏文字描述其授予与红十字工作有关，镀金金属、珐琅和蓝色丝绸绶带；长度含绶带125mm，宽42mm。IIIF清单有同一件对象两视图，本批按展示中正面与反面配对。两张完整公开提供图均另含馆藏关联标签及留白背景，图鉴使用原始完整文件，无裁切。图像许可证CC BY-NC-SA 4.0；需署名Science Museum Group，遵守相同方式共享及非商业条件。",
+    "views": [
+      {
+        "label": "正面",
+        "image_path": "assets/images/prussia_kingdom/order-crown-medal-1861-smg-obv.jpg",
+        "image_url": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/661%2F589%2FPrussian_Order_of_the_Crown_Medal.ptif/full/max/0/default.jpg",
+        "image_dimensions_px": [2892, 3456],
+        "image_bytes": 3057312,
+        "sha256": "B58B79C744B671B837E7BA59E459BFDC1462AB8A05D12EB38F9DCE7D47C16F3F"
+      },
+      {
+        "label": "背面",
+        "image_path": "assets/images/prussia_kingdom/order-crown-medal-1861-smg-rev.jpg",
+        "image_url": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/661%2F590%2FPrussian_Order_of_the_Crown_Medal.ptif/full/max/0/default.jpg",
+        "image_dimensions_px": [2674, 3737],
+        "image_bytes": 2920028,
+        "sha256": "D62147AE34C8E9D674B9D5D6437D1FF0A879265FD4DF99AA1514740A9762649B"
+      }
+    ],
+    "image_check": "Both original-size JPEGs decoded successfully and were manually checked; they show front and back of the same complete badge with suspension ribbon and tag."
+  },
+  "pru-commons-crown-order-i-class": {
+    "institution": "Photograph by Erin Jager5908 via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Prussian_crown_1st_class_with_breast_star.jpg",
+    "accessed": "2026-09-25",
+    "object_id": "No collection or inventory number stated",
+    "summary": "The file is explicitly titled Order of the Prussian Crown 1st class with breast star. Original JPEG 850x1147 shows a complete sash badge and breast star together, both viewed from the front. Visual obverse check: central crown and blue ring with GOTT MIT UNS on the cross; crown motif on the star. Reverse is not pictured. Photograph by Erin Jager5908; CC BY-SA 4.0. No artifact date or collection attribution supplied; do not infer a specific issue year or manufacturer.",
+    "image_path": "assets/images/prussia_kingdom/order-crown-first-class-breast-star-commons.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Order_of_the_Prussian_crown_1st_class_with_breast_star.jpg",
+    "author": "Erin Jager5908",
+    "license": "CC BY-SA 4.0",
+    "image_dimensions_px": [850, 1147],
+    "image_bytes": 118148,
+    "sha256": "488DD6B20106B0E45577EEADE6478770ECF8400646D17F6DC59E1FC87C48D881",
+    "image_check": "Original JPEG decoded successfully and manually checked: complete ribbon badge and star, front sides visible, no crop of either object."
+  },
+  "pru-awm-crown-order-description": {
+    "institution": "Australian War Memorial",
+    "page": "https://www.awm.gov.au/collection/C93969",
+    "accessed": "2026-09-25",
+    "object_id": "RELAWM01290 (a separate AWM example, not the Commons-photographed object)",
+    "summary": "AWM description of its own Prussian Order of the Crown first-class sash badge states the order was instituted in 1861 and that first class consists of a sash badge plus an eight-point breast star. It describes the central crown and obverse GOTT MIT UNS ring, and reverse royal cypher with date 18 October 1861. Cited for the level's structure and order's establishment only; it does not establish the date or details of the Commons specimen."
+  },
+  "pru-rmg-red-eagle-john-ross": {
+    "institution": "Royal Museums Greenwich, National Maritime Museum",
+    "page": "https://www.rmg.co.uk/collections/objects/rmgc-object-202792",
+    "accessed": "2026-09-25",
+    "object_id": "rmgc-object-202792 (catalogue identifier)",
+    "summary": "RMG identifies a Knight 3rd class badge of the Prussian Order of the Red Eagle, awarded to Sir John Ross in 1835. Description states white enamelled cross with Brandenburg red eagle on obverse; reverse center has crown and royal monogram FW in gold on white; white ribbon with broad orange edge stripes. The page photograph alt text says 'Record Shot - Do not reproduce'; not downloaded for the illustrated catalogue. Retained as documented candidate pending a rights-cleared full image."
+  },
+  "pru-lifesaving-1916-commons": {
+    "institution": "Deutsches Feuerwehrmuseum Fulda (object attribution in image record); image author Mattes via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6niglich_Preu%C3%9Fische_Rettungsmedaille_am_Bande_(DFM).JPG",
+    "accessed": "2026-09-25",
+    "object_id": "No inventory number stated in image record; attributed to Deutsches Feuerwehrmuseum Fulda",
+    "summary": "Commons file description identifies the pictured object as a Royal Prussian Lifesaving Medal with ribbon and dates the museum specimen to 1916. Photograph authored by Mattes on 2010-04-03. It is a complete frontal view; no reverse view supplied. Commons marks the image public domain. Material and detailed issue variant are not identified here and remain to be checked.",
+    "image_path": "assets/images/prussia_kingdom/lifesaving-medal-ribbon-1916-commons.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/K%C3%B6niglich_Preu%C3%9Fische_Rettungsmedaille_am_Bande_%28DFM%29.JPG",
+    "author": "Mattes",
+    "license": "Public domain, as marked by author on Commons",
+    "image_dimensions_px": [2304, 3072],
+    "image_bytes": 4572743,
+    "sha256": "5032AD4412521BE3B473D447B62084FF7D1B37D56AA373E8EE9E6D922935E8C9",
+    "image_check": "Original JPEG decoded successfully; manually checked that complete medallion and suspension ring are visible. The accompanying ribbon is complete; no image of the reverse is supplied."
+  },
+  "pru-lifesaving-gsta-index": {
+    "institution": "Geheimes Staatsarchiv Preußischer Kulturbesitz",
+    "page": "https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_77/xml/inhalt/GStA_i_ha_rep_77_2_15_3_2.htm",
+    "accessed": "2026-09-25",
+    "object_id": "I. HA Rep. 77, Tit. 918 series (regional award files)",
+    "summary": "Finding aid documents repeated provincial and Berlin award files under Rettungs-Medaille am Bande, called Verdienst-Ehrenzeichen für Rettung aus Gefahr before 1903. It includes 1916-1922 provincial volumes, corroborating continuation of this Prussian award system in the batch period. Direct page retrieval failed during this task; retained as a source lead only, not as a downloaded archival image or text snapshot."
+  },
+  "pru-nmm-red-cross-071763": {
+    "institution": "Nationaal Militair Museum (NMM), Netherlands",
+    "page": "https://collectie.nmm.nl/nl/collectie/detail/231156/",
+    "accessed": "2026-09-25",
+    "object_id": "071763",
+    "summary": "NMM identifies an unmounted Prussian Red Cross Medal, dated 1897-1918, made of silver. The page does not establish the exact grade; left as pending. Image is a complete frontal view without a ribbon, in keeping with the catalogue title.",
+    "image_path": "assets/images/prussia_kingdom/red-cross-medal-without-ribbon-nmm.jpg",
+    "image_url": "https://collectie.nmm.nl/media/adlib/071763.jpg.1920x0_q85.jpg",
+    "image_dimensions_px": [750, 1086],
+    "image_bytes": 144787,
+    "sha256": "C2202DE5377AC6B2B30B45C3204A31CEE5F25D2E43E117D64E6B860C2ECCD397",
+    "image_check": "JPEG decoded and manually inspected; full badge and suspension ring visible. Image reuse license not specified; held for internal study pending rights review."
+  },
+  "pru-jmb-red-cross-79000": {
+    "institution": "Jüdisches Museum Berlin, Sammlung online",
+    "page": "https://objekte.jmberlin.de/gobject/jmb-obj-79000",
+    "accessed": "2026-09-25",
+    "object_id": "2002/118/152",
+    "summary": "JMB identifies an Iron third-class Red Cross Merit Medal with ribbon, dated 1898-1918. It states Wilhelm II founded the medal in three classes on 1898-10-01; inscriptions and ribbon colors documented on page. The page says the object belonged to Max Hulbert, probably awarded to his father Ludwig Halberstaedter, but that award attribution is unproven. The single compound image shows both sides of this one object. Image rights are not stated.",
+    "image_path": "assets/images/prussia_kingdom/red-cross-medal-third-class-jmb.jpg",
+    "image_url": "https://objekte.jmberlin.de/image/118602/1600",
+    "image_dimensions_px": [800, 533],
+    "image_bytes": 29840,
+    "sha256": "28CF4BECDF3BF495405F33CC0F978E557975FFD9FB771B6E3D0471EBAD1D752D",
+    "image_check": "Largest publicly served rendition returned was 800x533; JPEG decoded successfully and image manually checked for complete front and back, ribbon and suspension. Marked low-resolution reference; no enlargement performed."
+  },
+  "pru-jmb-red-cross-order-history": {
+    "institution": "Jüdisches Museum Berlin, Sammlung online",
+    "page": "https://objekte.jmberlin.de/gobject/jmb-obj-79000",
+    "accessed": "2026-09-25",
+    "object_id": "2002/118/152",
+    "summary": "JMB says Wilhelm II founded the Prussian Red Cross Medal in three classes on 1898-10-01; used here only to support award-system name, date and grade structure."
+  },
+  "pru-commons-pour-le-merite-lonnrot": {
+    "institution": "National Museum of Finland object; photograph by Daderot via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Pour_le_M%C3%A9rite_order,_Prussia,_Professor_Elia_Lonnrot,_1872_-_National_Museum_of_Finland_-_DSC03995.JPG",
+    "accessed": "2026-09-25",
+    "object_id": "National Museum of Finland; inventory number not stated on image record",
+    "summary": "Commons file describes the photographed museum award as the Prussian Pour le Mérite awarded to Professor Elia Lönnrot in 1872. Full original image, 4320x3240, shows the complete medal and ribbon; a yellow exhibit-number marker lies on the background and is not part of the object. Photograph Daderot; CC0 1.0. The image caption's object attribution is checked against the official order member record below.",
+    "image_path": "assets/images/prussia_kingdom/pour-le-merite-peace-class-lonnrot-1872-commons.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pour_le_M%C3%A9rite_order%2C_Prussia%2C_Professor_Elia_Lonnrot%2C_1872_-_National_Museum_of_Finland_-_DSC03995.JPG",
+    "author": "Daderot",
+    "license": "CC0 1.0",
+    "image_dimensions_px": [4320, 3240],
+    "image_bytes": 5124702,
+    "sha256": "0673FE6D06FD7E00711A0C5192F82280289070CA3958DE4492B16AE8F8B5A53E",
+    "image_check": "Original JPEG decoded successfully and was manually inspected: complete medal, bow, and ribbon visible; yellow number 3 marker is on background."
+  },
+  "pru-official-pour-le-merite-lonnrot": {
+    "institution": "Orden Pour le Mérite official member register",
+    "page": "https://orden-pourlemerite.de/mitglieder/elias-loennrot?klasse=geist&top=1&um=ms",
+    "accessed": "2026-09-25",
+    "object_id": "Member Elias Lönnrot",
+    "summary": "Official register identifies Lönnrot as a member of the intellectual/science and arts class and gives admission to the order in 1872. Used as independent confirmation of the class and date stated in the museum photograph caption."
+  }
+}
+

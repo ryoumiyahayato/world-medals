@@ -1,0 +1,72 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "workflow": "AUTONOMOUS_SOURCE_DISCOVERY_V2 / SOURCE_FIRST_BULK_INGESTION",
+  "source_coverage": {
+    "planned": 57,
+    "completed": 24,
+    "partial": 8,
+    "blocked": 11,
+    "not_started": 14
+  },
+  "packages": {
+    "ottoman_kuenker299_batch4": {
+      "input_unmapped": 46,
+      "mapped": 36,
+      "families": 20,
+      "variants": 34,
+      "excluded": 9,
+      "unresolved": 1,
+      "remaining_unmapped": 536,
+      "next_cursor": "Künker earlier unresolved segment, first raw line 107 / lot 7107"
+    },
+    "france_legion_honour": {
+      "directory_pages": 32,
+      "raw_rows": 32,
+      "images_downloaded_decoded_reviewed": 21,
+      "formal_variant_views": 18,
+      "third_republic_views": 3,
+      "second_empire_views": 1,
+      "html_eligible": 0,
+      "family_rule": "One continuing award family across regimes"
+    },
+    "japan_commons_retry": {
+      "routes": 9,
+      "downloaded_decoded_reviewed": 5,
+      "historical_designs": 2,
+      "complete_object_views": 2,
+      "cropped_excluded": 1,
+      "blocked": 4,
+      "new_public_families": 2
+    },
+    "egypt_commons_retry": {
+      "attempted_candidates": 2,
+      "downloaded_decoded_reviewed": 1,
+      "result": "Complete Nile collar vector diagram, not established as an official object image",
+      "public_images": 0,
+      "first_unattempted": "EGY-COMMONS-003",
+      "blocked": "EGY-COMMONS-002"
+    }
+  },
+  "html": {
+    "rebuilt": true,
+    "official_rows": 76,
+    "families": 62,
+    "local_images": 113,
+    "new_rows": 2,
+    "new_families": 2,
+    "new_volume": "Japan Taisho",
+    "note": "Added Taisho Enthronement Medal and First National Census Commemorative Medal with complete CC BY-SA 3.0 single-object views; did not claim missing companion views as a front/back pair."
+  },
+  "validation": {
+    "json": "PASS: 158 JSON files and 32 JSONL files / 3599 rows parsed",
+    "images": "PASS: Japan batch2 5, Legion of Honour 21, and Egypt batch2 1 decoded with no failures",
+    "site": "PASS: 76 official rows, 62 families, 113 decoded local images; search, navigation and preview interactions passed"
+  },
+  "exact_resume": [
+    "Ottoman: Künker 299 earlier unresolved segment begins at raw line 107 / lot 7107; 536 unmapped rows remain overall.",
+    "Egypt: EGY-COMMONS-002 remains blocked and EGY-COMMONS-003 is the first unattempted original; retry only after a meaningful cooldown.",
+    "Japan: four exact Commons companion routes remain blocked; keep existing single views honestly labelled.",
+    "France: seek open-licence substitutes for the 18 normalized Legion of Honour historical views; do not re-download the 32 cached SAMLHOC pages."
+  ]
+}

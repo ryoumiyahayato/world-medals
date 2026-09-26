@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "苏联：来源优先批次三",
+  "scope": "从既有苏联奖章目录55项及俄罗斯124个归并候选差集中，定向审查10个不同章种；仅将本地完整、解码、可判定为章体实物照片的条目列为图行。",
+  "records": [
+    {
+      "id": "USSR-MED-17-V-IMAGE-REF-OBVERSE",
+      "family": "USSR-MED-17",
+      "name": "保卫斯大林格勒奖章",
+      "original": "Медаль «За оборону Сталинграда»",
+      "date": "1942-12-22设立",
+      "variant": "正面实物照片；具体制作版型待考；实物照片（依据文件页说明及目视）；可供主任务复核；低清完整参考图。来源未确定实物编号、制造商及奖牌本身制作／颁发日期。",
+      "views": [
+        {
+          "key": "RUS-P3-IMG-01",
+          "label": "完整实物正面"
+        }
+      ],
+      "source_ids": [
+        "https://docs.historyrussia.org/ru/nodes/300556",
+        "https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_Stalingrad%22",
+        "https://commons.wikimedia.org/wiki/File:Defense_of_Stalingrad_OBVERSE.jpg"
+      ]
+    },
+    {
+      "id": "USSR-MED-22-V-IMAGE-REF-OBVERSE",
+      "family": "USSR-MED-22",
+      "name": "战胜日本奖章",
+      "original": "Медаль «За победу над Японией»",
+      "date": "1945-09-30设立",
+      "variant": "正面实物照片；具体制作版型待考；实物照片（依据文件页说明及目视）；可供主任务复核；低清完整参考图。来源未确定实物编号、制造商及奖牌本身制作／颁发日期。",
+      "views": [
+        {
+          "key": "RUS-P3-IMG-02",
+          "label": "完整实物正面"
+        }
+      ],
+      "source_ids": [
+        "https://base.garant.ru/57500940/5ac206a89ea76855804609cd950fcaf7/",
+        "https://www.prlib.ru/item/948823",
+        "https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Victory_over_Japan%22",
+        "https://commons.wikimedia.org/wiki/File:Victory_Against_Japan_OBVERSE.jpg"
+      ]
+    }
+  ],
+  "notes": [
+    "本批从十个目录候选中只正式编列Stalingrad与Victory over Japan两项；八项其余候选及两种不合格下载图均隔离。",
+    "两张可用照片均只展示正面，未将未能证实为同一实物的背面并入。",
+    "两张均低于约1200像素有效长边，按低清完整参考保留，不宣称新增细节或高分辨率。",
+    "该批未修改公共HTML、导航、样式或共享source atlas。"
+  ]
+}

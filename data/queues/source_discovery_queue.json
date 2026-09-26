@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "workflow": "AUTONOMOUS_SOURCE_DISCOVERY_V2",
+  "items": [
+    {
+      "scope_id": "ottoman_empire",
+      "label": "Ottoman Empire / historical Turkey",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    },
+    {
+      "scope_id": "france_second_third_republic",
+      "label": "France — Second Empire and Third Republic",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    },
+    {
+      "scope_id": "german_states",
+      "label": "Prussia and German states",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    },
+    {
+      "scope_id": "japan_meiji_taisho",
+      "label": "Japan — Meiji and Taisho",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    },
+    {
+      "scope_id": "egypt",
+      "label": "Egypt",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    },
+    {
+      "scope_id": "sudan",
+      "label": "Sudan",
+      "priority": 1,
+      "status": "matrix_created",
+      "next_action": "Expand uncovered source types and re-check high-value partial sources during continuation."
+    }
+  ]
+}

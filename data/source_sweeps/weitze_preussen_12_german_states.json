@@ -1,0 +1,622 @@
+{
+  "schema": "source-sweep/v2",
+  "sweep_id": "GERMAN-WEITZE-PREUSSEN-20260926",
+  "as_of": "2026-09-26",
+  "scope": [
+    "Prussia",
+    "non-Prussian German states source inventory"
+  ],
+  "source": {
+    "id": "weitze-preussen-12",
+    "url": "https://www.weitze.com/militaria/Preussen_12.html",
+    "parent_index_url": "https://www.weitze.com/militaria/Auszeichnungen_deutscher_Staaten_bis_1933.html",
+    "local_snapshot": "sources/pages/german_states_source_discovery/weitze_preussen_12.html",
+    "parent_local_snapshot": "sources/pages/german_states_source_discovery/weitze_german_states_index.html",
+    "source_type": "specialist commercial catalogue",
+    "source_role": "candidate discovery and object-page leads; not sole authority for formal award identification"
+  },
+  "status": "completed_card_index_sweep",
+  "processed": {
+    "category_index_pages": 1,
+    "category_index_links": 39,
+    "prussia_category_pages": 1,
+    "prussia_groups": 4,
+    "prussia_cards": 345,
+    "product_pages_opened": 0,
+    "original_images_downloaded": 0,
+    "thumbnail_urls_recorded": 345
+  },
+  "processed_range": {
+    "category_index": "all visible state links in German States pre-1933: Orders and decorations index",
+    "prussia_page": "https://www.weitze.com/militaria/Preussen_12.html",
+    "prussia_page_groups": "artgruppe1-artgruppe4",
+    "card_ordinal": "1-345",
+    "catalog_item_first": "516636",
+    "catalog_item_last": "479585"
+  },
+  "extraction": {
+    "raw_candidates_file": "data/raw_candidates/weitze_preussen_12_german_states.jsonl",
+    "candidate_schema": "one JSON object per catalogue card; image URL retained as thumbnail lead only",
+    "counts": {
+      "total_cards": 345,
+      "with_product_page": 345,
+      "with_description": 342,
+      "with_thumbnail": 345,
+      "existing_family_review": 138,
+      "new_family_candidate": 68,
+      "non_award_or_scope_review": 34,
+      "reproduction_or_postproduction_review": 2,
+      "unclassified_catalog_candidate": 103
+    },
+    "by_difference_status": {
+      "new_family_candidate": 68,
+      "existing_family_or_variant_review": 138,
+      "unclassified_catalog_candidate": 103,
+      "non_award_or_scope_review": 34,
+      "reproduction_or_postproduction_review": 2
+    },
+    "by_object_type": {
+      "award_or_decoration": 275,
+      "unknown": 27,
+      "non_award_object": 9,
+      "case_or_accessory": 22,
+      "breast_star": 6,
+      "reproduction_or_postproduction": 2,
+      "collar_or_chain": 1,
+      "document_or_certificate": 3
+    },
+    "by_family_guess": {
+      "PRU-WAR-MEDAL-1815": 7,
+      "PRU-RED-CROSS-MEDAL": 7,
+      "PRU-WAR-MEDAL-1870": 17,
+      "PRU-SERVICE-DECORATIONS": 20,
+      "PRU-IRONCROSS": 120,
+      "null": 116,
+      "PRU-WAR-AID-CROSS": 2,
+      "PRU-RED-EAGLE": 9,
+      "PRU-CENTENARY-MEDAL": 10,
+      "PRU-POUR-LE-MERITE": 8,
+      "PRU-KONIGGRATZ-CROSS": 3,
+      "PRU-ORDER-CROWN": 8,
+      "PRU-HOHENZOLLERN": 8,
+      "PRU-HOHENZOLLERN-COMMEMORATIVE": 4,
+      "PRU-GENERAL-HONOUR": 6
+    },
+    "by_group": {
+      "1": 99,
+      "2": 100,
+      "3": 100,
+      "4": 46
+    }
+  },
+  "state_page_inventory": {
+    "count": 39,
+    "listed_count_total": 1739,
+    "pages": [
+      {
+        "state_label": "Anhalt-Bernburg",
+        "jurisdiction": "Anhalt",
+        "url": "https://www.weitze.com/militaria/Anhalt_Bernburg_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Anhalt Gemeinsam",
+        "jurisdiction": "Anhalt",
+        "url": "https://www.weitze.com/militaria/Anhalt_Gemeinsam_12.html",
+        "listed_count": 6,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Anhalt-Gesamtstaat",
+        "jurisdiction": "Anhalt",
+        "url": "https://www.weitze.com/militaria/Anhalt_Gesamtstaat_12.html",
+        "listed_count": 4,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Baden",
+        "jurisdiction": "Baden",
+        "url": "https://www.weitze.com/militaria/Baden_12.html",
+        "listed_count": 10,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_baden_12.html",
+        "status": "cached_not_swept",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Bayern",
+        "jurisdiction": "Bavaria",
+        "url": "https://www.weitze.com/militaria/Bayern_12.html",
+        "listed_count": 60,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_bayern_12.html",
+        "status": "cached_not_swept",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Bayern-Freistaat",
+        "jurisdiction": "Bavaria",
+        "url": "https://www.weitze.com/militaria/Bayern_Freistaat_12.html",
+        "listed_count": 7,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Braunschweig",
+        "jurisdiction": "Brunswick",
+        "url": "https://www.weitze.com/militaria/Braunschweig_12.html",
+        "listed_count": 25,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_braunschweig_12.html",
+        "status": "cached_not_swept",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Bremen",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Bremen_12.html",
+        "listed_count": 5,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Frankfurt",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Frankfurt_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Fire Department",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Feuerwehr_12.html",
+        "listed_count": 18,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "related_non_state_awards"
+      },
+      {
+        "state_label": "Hannover",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Hannover_12.html",
+        "listed_count": 28,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Hessen-Darmstadt",
+        "jurisdiction": "Hesse",
+        "url": "https://www.weitze.com/militaria/Hessen_Darmstadt_12.html",
+        "listed_count": 11,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Hessen-Kassel",
+        "jurisdiction": "Hesse",
+        "url": "https://www.weitze.com/militaria/Hessen_Kassel_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Hamburg",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Hamburg_12.html",
+        "listed_count": 9,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Hohenzollern",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Hohenzollern_12.html",
+        "listed_count": 2,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Veteran organisations medals and badges until 1933",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Kriegervereine_und_inoffizielle_Auszeichnungen_bis_1933_12.html",
+        "listed_count": 1033,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "related_non_state_awards"
+      },
+      {
+        "state_label": "Lippe Detmold",
+        "jurisdiction": "Lippe",
+        "url": "https://www.weitze.com/militaria/Lippe_Detmold_12.html",
+        "listed_count": 4,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Lübeck",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Luebeck_12.html",
+        "listed_count": 3,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Mecklenburg-Schwerin",
+        "jurisdiction": "Mecklenburg",
+        "url": "https://www.weitze.com/militaria/Mecklenburg_Schwerin_12.html",
+        "listed_count": 11,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Mecklenburg-Strelitz",
+        "jurisdiction": "Mecklenburg",
+        "url": "https://www.weitze.com/militaria/Mecklenburg_Strelitz_12.html",
+        "listed_count": 2,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Oldenburg",
+        "jurisdiction": "Oldenburg",
+        "url": "https://www.weitze.com/militaria/Oldenburg_12.html",
+        "listed_count": 13,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_oldenburg_12.html",
+        "status": "cached_not_swept",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Prussia",
+        "jurisdiction": "Prussia",
+        "url": "https://www.weitze.com/militaria/Preussen_12.html",
+        "listed_count": 345,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_preussen_12.html",
+        "status": "swept_card_index",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Prussian Free States",
+        "jurisdiction": "Prussia",
+        "url": "https://www.weitze.com/militaria/Preussen_Freistaat_12.html",
+        "listed_count": 9,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Reuss Ältere und Jüngere Linie Gemeinsam",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Reuss_Aeltere_und_Juengere_Linie_Gemeinsam_12.html",
+        "listed_count": 2,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sachsen-Coburg-Gotha",
+        "jurisdiction": "Saxony",
+        "url": "https://www.weitze.com/militaria/Sachsen_Coburg_Gotha_12.html",
+        "listed_count": 5,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sachsen-Freistaat",
+        "jurisdiction": "Saxony",
+        "url": "https://www.weitze.com/militaria/Sachsen_Freistaat_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sächsische Herzogtümer",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Saechsische_Herzogtuemer_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sachsen Königreich",
+        "jurisdiction": "Saxony",
+        "url": "https://www.weitze.com/militaria/Sachsen_Koenigreich_12.html",
+        "listed_count": 57,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sachsen-Meiningen",
+        "jurisdiction": "Saxony",
+        "url": "https://www.weitze.com/militaria/Sachsen_Meiningen_12.html",
+        "listed_count": 6,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Sachsen-Weimar",
+        "jurisdiction": "Saxony",
+        "url": "https://www.weitze.com/militaria/Sachsen_Weimar_12.html",
+        "listed_count": 4,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Schaumburg-Lippe",
+        "jurisdiction": "Lippe",
+        "url": "https://www.weitze.com/militaria/Schaumburg_Lippe_12.html",
+        "listed_count": 4,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Schleswig-Holstein",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Schleswig_Holstein_12.html",
+        "listed_count": 3,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Schwarzburg-Rudolstadt-Sonderhausen Gemeinsam",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Schwarzburg_Rudolstadt_Sonderhausen_Gemeinsam_12.html",
+        "listed_count": 6,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Waldeck",
+        "jurisdiction": "Waldeck",
+        "url": "https://www.weitze.com/militaria/Waldeck_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Weimar Republic 1919-1933",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Weimarer_Republik_1919_1933_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "boundary_system"
+      },
+      {
+        "state_label": "Württemberg",
+        "jurisdiction": "Württemberg",
+        "url": "https://www.weitze.com/militaria/Wuerttemberg_12.html",
+        "listed_count": 36,
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_wuerttemberg_12.html",
+        "status": "cached_not_swept",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      },
+      {
+        "state_label": "Deutsches Reich 1871 - 1918",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Deutsches_Reich_1871_1918_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "boundary_system"
+      },
+      {
+        "state_label": "Award Documents Imperial till 1933",
+        "jurisdiction": "German state",
+        "url": "https://www.weitze.com/militaria/Urkunden_Kaiserzeit_und_Weimarer_Republik_bis_1933_12.html",
+        "listed_count": 1,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "related_non_state_awards"
+      },
+      {
+        "state_label": "Thüringen",
+        "jurisdiction": "Thuringia",
+        "url": "https://www.weitze.com/militaria/Thueringen_12.html",
+        "listed_count": 2,
+        "local_snapshot": null,
+        "status": "discovered_not_cached",
+        "access": {
+          "source_index_http_status": 200,
+          "checked": "2026-09-26"
+        },
+        "scope_relevance": "in_scope_state_or_state_line"
+      }
+    ]
+  },
+  "unprocessed_boundary": [
+    "345 individual product pages were not opened in this source-first index sweep; no title/thumbnail was promoted to an identified award.",
+    "No original product photographs were downloaded; all 345 image URLs are commercial thumbnail leads only.",
+    "The 24 non-Prussia state pages discovered in the parent index were inventoried but not card-swept in this first pass.",
+    "Formal institution/catalogue/ordinance confirmation and family/variant identity remain pending for all card candidates, including apparent repeats of existing families."
+  ],
+  "next_actions": [
+    "Use the family-difference groups to select explicit small packages, opening product pages only for new independent award families first.",
+    "Sweep one non-Prussian state page next (Bayern or Sachsen-Königreich) after its state-page URL is confirmed; keep each state in separate candidate output.",
+    "Replace commercial catalogue leads with museum, archive, official regulation or digitized historical catalogue evidence before illustrated records are created."
+  ],
+  "rights_note": "Commercial catalogue page and thumbnails are retained for internal research only; no image is asserted as reusable or embedded.",
+  "cache_validation": {
+    "source_snapshot_bytes": 730664,
+    "source_snapshot_sha256": "ecc2067c7d62cd2e666e29548d392d8a643084f27691d4efcda16dc8bdbcfd97",
+    "parent_snapshot_sha256": "4b3df01c99923c364d9dd4498b23faa606bd80e128c0b4058166a957a00e98cf"
+  }
+}

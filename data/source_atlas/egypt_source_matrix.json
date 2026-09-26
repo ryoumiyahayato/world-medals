@@ -1,0 +1,168 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "scope_id": "egypt",
+  "scope_label": "Egypt — Khedivate, Sultanate, Kingdom, Republic and UAR periods",
+  "languages": [
+    "ar",
+    "en",
+    "fr"
+  ],
+  "taxonomy": [
+    "official",
+    "museum",
+    "digital_library",
+    "book",
+    "specialist_site",
+    "auction",
+    "commons",
+    "academic"
+  ],
+  "sources": [
+    {
+      "source_id": "wawards_egypt",
+      "source_name": "Wawards Egypt period catalogues",
+      "base_url": "https://wawards.org/en/egypt.html",
+      "source_type": "specialist_site",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt",
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "20th century",
+      "content_coverage": "Four period indexes and linked award detail pages",
+      "has_images": true,
+      "image_quality_notes": "Mixed catalogue illustrations; rights and completeness require later image review.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "coverage_result": "54 pages processed; 50 award detail candidates",
+      "sweep_file": "data/source_sweeps/egypt_sudan_first_sweep_2026-09-26.json"
+    },
+    {
+      "source_id": "egypt_presidency_honours",
+      "source_name": "Presidency of Egypt — Medals and Decorations",
+      "base_url": "https://www.presidency.eg/en/الرئاسة/ميداليات-وأوسمة/",
+      "source_type": "official",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "regions_or_polities": [
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "Republic period",
+      "content_coverage": "Official descriptions and grade structures; Republic and Merit pages already identified",
+      "has_images": true,
+      "image_quality_notes": "Official diagrams or site images; full grade completeness not yet verified.",
+      "has_pagination": false,
+      "download_method": "page_image",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "coverage_result": "3 language category captures; 11 award families; 22 Arabic/English detail captures; no failed detail pages.",
+      "sweep_file": "data/source_sweeps/egypt_presidency_honours.json",
+      "notes": "Visible award detail set exhausted through category and internal-link discovery. Page-image URLs were site chrome only, so no object image was accepted."
+    },
+    {
+      "source_id": "omsa_egypt_awards_appendix",
+      "source_name": "OMSA/JOMSA — Awards of the Khedivate, Sultanate and Kingdom of Egypt appendix",
+      "base_url": "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf",
+      "source_type": "academic",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Khedivate of Egypt",
+        "Sultanate of Egypt",
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "19th–20th century",
+      "content_coverage": "Structured historical appendix and catalogue references",
+      "has_images": true,
+      "image_quality_notes": "Historic article plates; inspect before extraction.",
+      "has_pagination": true,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "downloaded_file": "sources/books/omsa_egypt_awards_appendix.pdf",
+      "download_sha256": "db3f8ae38fdf1a0554ed86331782f590c90c8b7cebd4777fc123517111e2da5b",
+      "download_bytes": 2480111,
+      "pdf_pages": 3,
+      "processed_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "relevant_pdf_pages": [
+        1
+      ],
+      "coverage_result": "3 PDF pages processed; 27 appendix/other-list rows plus 2 uncertain context candidates; 1 embedded reverse-photo figure reference; no image crop exported.",
+      "candidate_file": "data/raw_candidates/omsa_egypt_awards_appendix.jsonl",
+      "sweep_file": "data/source_sweeps/omsa_egypt_awards_appendix.json",
+      "notes": "PDF page 1 (printed p.23) is the Egypt appendix. PDF pages 2-3 are unrelated JOMSA content and were read but excluded."
+    },
+    {
+      "source_id": "egypt_abdeen_medals_museum",
+      "source_name": "Abdeen Palace medals and decorations museum",
+      "base_url": "https://www.presidency.eg/en/القصور-الرئاسية/قصر-عابدين/",
+      "source_type": "museum",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "regions_or_polities": [
+        "Egypt"
+      ],
+      "date_coverage": "Royal and republican holdings",
+      "content_coverage": "Institutional museum description; collection catalogue discovery target",
+      "has_images": false,
+      "image_quality_notes": "No object-level medal catalogue confirmed yet.",
+      "has_pagination": false,
+      "download_method": "unknown",
+      "priority": 2,
+      "status": "partial_rate_limited",
+      "last_checked": "2026-09-26",
+      "coverage_detail": "Recursively scanned 16 in-scope award category pages: 102 category memberships, 99 unique files. Cached 19 selected file-description pages with original URLs, dimensions and licence metadata. All 19 original downloads were blocked by HTTP 429 Retry-After 600; no thumbnail substitutes accepted.",
+      "sweep_file": "data/source_sweeps/egypt_commons_awards.json",
+      "image_harvest_file": "data/image_harvest/egypt_commons_awards_batch1.json"
+    },
+    {
+      "source_id": "commons_egypt_awards",
+      "source_name": "Wikimedia Commons Egypt orders and medals category tree",
+      "base_url": "https://commons.wikimedia.org/",
+      "source_type": "commons",
+      "languages": [
+        "multilingual"
+      ],
+      "regions_or_polities": [
+        "Egypt"
+      ],
+      "date_coverage": "all",
+      "content_coverage": "Category-tree discovery and open image candidates",
+      "has_images": true,
+      "image_quality_notes": "Original files and licenses available per file page.",
+      "has_pagination": true,
+      "download_method": "direct",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-26"
+    }
+  ],
+  "coverage": {
+    "planned": 5,
+    "completed": 2,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 2
+  },
+  "next_action": "Normalize the 27 listed OMSA Egypt award rows against Wawards and Presidency records; keep the 2 uncertain dynastic mentions separate and locate permitted object/front images for the 1 reverse-only figure reference."
+}

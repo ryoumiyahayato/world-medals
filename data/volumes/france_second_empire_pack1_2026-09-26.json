@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "法国第二帝国（1852–1870）首包：战役纪念奖章",
+  "records": [
+    {
+      "id": "FRA-SE-ITALY-1859-PRESENTATION-01",
+      "family": "FRA-MEDAILLE-CAMPAGNE-ITALIE-1859",
+      "name": "意大利战役纪念奖章",
+      "original": "Médaille commémorative de la campagne d’Italie",
+      "date": "1859年8月11日法令设立；图示馆藏品断代为1859年",
+      "variant": "展示／presentation版型；巴黎博物馆记录为锡质与纺织品，不宣称为标准银质授发件；馆藏D 89.185同件正背",
+      "views": [
+        {"key": "FRA-SE-ITALY-1859-PRESENTATION-FRONT", "label": "正面"},
+        {"key": "FRA-SE-ITALY-1859-PRESENTATION-REVERSE", "label": "背面"}
+      ],
+      "source_ids": ["fr-se-italy-law-and-model", "fr-se-italy-object"]
+    },
+    {
+      "id": "FRA-SE-MEXICO-1863-01",
+      "family": "FRA-MEDAILLE-EXPEDITION-MEXIQUE-1863",
+      "name": "墨西哥远征纪念奖章",
+      "original": "Médaille commémorative de l’expédition du Mexique",
+      "date": "1863年8月29日帝国法令设立；奖励1862–1867年远征人员",
+      "variant": "基金会对象图正背并列；奖章本体与悬挂环完整，绶带上端出画；对象号和材质未独立检测；低清研究参考",
+      "views": [
+        {"key": "FRA-SE-MEXICO-1863-FRONT-BACK", "label": "正背并列（低清参考）"}
+      ],
+      "source_ids": ["fr-se-mexico-history", "fr-se-mexico-object"]
+    }
+  ]
+}

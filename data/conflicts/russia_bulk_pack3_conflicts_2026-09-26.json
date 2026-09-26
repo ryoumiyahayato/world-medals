@@ -1,0 +1,42 @@
+{
+  "as_of": "2026-09-26",
+  "scope": "批次3中身份、图像性质、原图下载与配对的隔离问题；没有发生award_family合并冲突。",
+  "identity_conflicts": [],
+  "candidate_family_dispositions": [
+    {"family_id":"USSR-MED-05","status":"quarantined_unillustrated","reason":"已下载的同类别高像素文件实际是手写授奖事迹／申请记录，不是奖章章体；类别中的其他章体候选未下载。"},
+    {"family_id":"USSR-MED-13","status":"quarantined_unillustrated","reason":"完整图候选原图请求返回HTTP 429，未重试；不得使用缩略图代替。"},
+    {"family_id":"USSR-MED-15","status":"quarantined_unillustrated","reason":"完整正面原图候选请求返回HTTP 429，未重试。"},
+    {"family_id":"USSR-MED-16","status":"quarantined_image_type_unknown","reason":"本地PNG轮廓及绶带完整，但Commons文件页所示作者未知、来源链接为另一未知JPG；不能确认实物摄影或官方图式。"},
+    {"family_id":"USSR-MED-20","status":"quarantined_unillustrated","reason":"完整图候选原图请求返回HTTP 429，未重试。"},
+    {"family_id":"USSR-MED-23","status":"quarantined_unillustrated","reason":"高清完整图候选原图请求返回HTTP 429，未重试。"},
+    {"family_id":"USSR-MED-26","status":"quarantined_unillustrated","reason":"高清完整图候选原图请求返回HTTP 429，未重试。"},
+    {"family_id":"USSR-MED-21","status":"quarantined_unillustrated","reason":"高清完整图候选原图请求返回HTTP 429，未重试。"}
+  ],
+  "specific_file_conflicts": [
+    {
+      "file_page":"https://commons.wikimedia.org/wiki/File:Медаль_%22За_боевые_заслуги%22.jpg",
+      "family_id":"USSR-MED-05",
+      "type":"filename_subject_mismatch_or_non-object-image",
+      "observed_content":"手写俄文叙述/授奖材料页面，有印章；无奖章本体。",
+      "disposition":"excluded_from_all_image_rows; local file retained in manifest as quarantine evidence"
+    },
+    {
+      "file_page":"https://commons.wikimedia.org/wiki/File:Medal_for_the_defence_of_Sevastopol,_Soviet_Union.png",
+      "family_id":"USSR-MED-16",
+      "type":"image_nature_and_provenance_unresolved",
+      "observed_content":"整枚奖章及绶带可见；缺少足以确认实际摄影、官方图式或历史图录插图的来源说明。",
+      "disposition":"local image quarantined; not used in formal record"
+    }
+  ],
+  "download_failures": [
+    {"family_id":"USSR-MED-13","attempted_file":"За оборону Ленинграда аверс.jpg","result":"HTTP 429"},
+    {"family_id":"USSR-MED-15","attempted_file":"Defence of Odessa OBVERSE.jpg","result":"HTTP 429"},
+    {"family_id":"USSR-MED-20","attempted_file":"Medal Za oboronu Sovetskogo Zapolyarya.png","result":"HTTP 429"},
+    {"family_id":"USSR-MED-23","attempted_file":"Медаль «За взятие Будапешта».jpg","result":"HTTP 429"},
+    {"family_id":"USSR-MED-26","attempted_file":"Медаль «За взятие Берлина».jpg","result":"HTTP 429"},
+    {"family_id":"USSR-MED-21","attempted_file":"За победу над Германией в ВОВ 1941-1945 аверс.jpg","result":"HTTP 429"}
+  ],
+  "reverse_pairing_conflicts": [
+    "No reverse views are paired in this package. The 2 accepted front images have no confirmed same-specimen reverse in the packaged assets."
+  ]
+}

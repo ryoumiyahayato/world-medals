@@ -1,0 +1,69 @@
+{
+  "fr-pack1-military-medal-1852-law": {
+    "page": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000664649/",
+    "source_type": "Légifrance官方法规",
+    "summary": "页面标题为Décret du 29 février 1852 relatif à la médaille militaire instituée par le décret du 22 janvier 1852，确认军事奖章的1852年设立和实施法令。该奖章在第三共和国继续授予，本记录的时期依据来自对象页的第三共和国模型标注。",
+    "accessed": "2026-09-26"
+  },
+  "fr-pack1-military-medal-iii-object": {
+    "page": "https://commons.wikimedia.org/wiki/File:Médaille_Militaire_-_Modèle_de_la_3ème_République_-_dans_sa_boîte_(Albert_Leriche_-_III_RMT),_2002.2181.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/M%C3%A9daille_Militaire_-_Mod%C3%A8le_de_la_3%C3%A8me_R%C3%A9publique_-_dans_sa_bo%C3%AEte_%28Albert_Leriche_-_III_RMT%29%2C_2002.2181.jpg",
+    "object_id": "Musée de la Libération de Paris / Musée Jean Moulin accession 2002.2181",
+    "summary": "Commons文件页转录Paris Musées馆藏说明：生产期1870–1940，法国第三共和国模型；完整奖章及绶带，尺寸9.5×3.8cm；图像实际显示‘VALEUR ET DISCIPLINE’一面。",
+    "accessed": "2026-09-26",
+    "author": "Paris Musées / image uploader Mr.Nostalgic",
+    "institution": "Musée de la Libération de Paris - musée du Général Leclerc - musée Jean Moulin",
+    "license": "CC0 1.0（Commons文件页授权标识；馆藏图像来源Paris Musées）",
+    "downloaded_file": "assets/images/france_third_republic_pack1/medaille-militaire-modele-iii-republique-2002-2181.jpg",
+    "original_file": "originals/france_third_republic_pack1/medaille-militaire-modele-iii-republique-2002-2181.jpg",
+    "dimensions": [4472, 7032],
+    "image_object_area": "完整奖章、奖章上方悬挂武器奖杯和完整绶带均在图内；本图为背面视图，未与另一件正面图拼配",
+    "sha256": "55e5fb71204b852e29c2c3d5f7d34e25fb633d18b1857356ea3e66585e409977",
+    "visual_check": "2026-09-26 本任务实际查看；完整轮廓、绶带、悬挂结构和铭文均可见"
+  },
+  "fr-pack1-madagascar-1886-law": {
+    "page": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/",
+    "secondary_page": "https://www.economie.gouv.fr/files/files/directions_services/saef/docs_joints/rech_en_arch/monnaies_inventaires_darnis/serieNA.pdf",
+    "source_type": "法国法规转录与法国财政/Monnaie档案目录",
+    "summary": "SAMLHOC页面转录1886年7月31日法律，说明第一​​次马达加斯加远征奖章；法国财政部档案目录同时列出1886型、模数32毫米、银质及Monnaie制造档案线索。该法律和档案入口支持本family在第三共和国设立与授予。",
+    "accessed": "2026-09-26"
+  },
+  "fr-pack1-madagascar-1886-object": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal_of_the_First_Madagascar_expedition.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Medal_of_the_First_Madagascar_expedition.jpg",
+    "object_id": "Commons file; uploader states photographed at Musée de la Légion d'Honneur; accession not supplied",
+    "summary": "文件页说明照片由PHGCOM于2007年在法国荣誉军团博物馆拍摄；同一陈列对象的正、背两面并列，含完整绶带和MADAGASCAR加条。对象页没有馆藏号，故不把摄影地写成确定藏品归档号。",
+    "accessed": "2026-09-26",
+    "author": "PHGCOM",
+    "institution": "Musée de la Légion d'Honneur（摄影地点，馆藏号未给）",
+    "license": "CC BY-SA 3.0（文件页另列GFDL）；署名PHGCOM",
+    "downloaded_file": "assets/images/france_third_republic_pack1/madagascar-1886-first-expedition.jpg",
+    "original_file": "originals/france_third_republic_pack1/madagascar-1886-first-expedition.jpg",
+    "dimensions": [2284, 1870],
+    "image_object_area": "两面完整奖章与绶带在同一张并列照片内，左正面、右背面；MADAGASCAR加条完整可见",
+    "sha256": "fe3b78e4c3101f64f8b97bfc09fde7ddbdaeef468639070e3f63097bd18113c8",
+    "visual_check": "2026-09-26 本任务实际查看；正背、绶带、加条及悬挂件均可辨"
+  },
+  "fr-pack1-madagascar-1896-law": {
+    "page": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/",
+    "source_type": "法国法律全文转录（含官方公报出处）",
+    "summary": "页面转录1896年1月15日法律：参加1894年12月8日至1895年12月31日远征的军人、海员及辅助人员获奖；金属/模数承袭1886型，背面改为战争和海军属性，绶带加1895银质加条；并转录1897年7月21日法律将资格扩至1896年10月31日。",
+    "accessed": "2026-09-26"
+  },
+  "fr-pack1-madagascar-1896-object": {
+    "page": "https://commons.wikimedia.org/wiki/File:Medal_of_the_Second_Madagascar_Expedition_law_of_15_January_1896.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Medal_of_the_Second_Madagascar_Expedition_law_of_15_January_1896.jpg",
+    "object_id": "Commons file; uploader states photographed at Musée de la Légion d'Honneur, Paris; accession not supplied",
+    "summary": "文件页说明照片由PHGCOM于2007年在法国荣誉军团博物馆拍摄；左正面（可见REPUBLIQUE FRANCAISE与Roty签名）和右背面并列，绶带带1895加条。对象页没有馆藏号。",
+    "accessed": "2026-09-26",
+    "author": "PHGCOM",
+    "institution": "Musée de la Légion d'Honneur（摄影地点，馆藏号未给）",
+    "license": "CC BY-SA 3.0（文件页另列GFDL）；署名PHGCOM",
+    "downloaded_file": "assets/images/france_third_republic_pack1/madagascar-1896-second-expedition.jpg",
+    "original_file": "originals/france_third_republic_pack1/madagascar-1896-second-expedition.jpg",
+    "dimensions": [2130, 2136],
+    "image_object_area": "两面完整奖章与绶带在同一张并列照片内，`1895`加条和悬挂件可见；图片未使用生成或缩略图",
+    "sha256": "1810ac124b60ad66d9e59a2bdcd003d6f4a410296c73f05d802086662ae4fb21",
+    "visual_check": "2026-09-26 本任务实际查看；正背、绶带、1895加条及悬挂件均可辨"
+  }
+}

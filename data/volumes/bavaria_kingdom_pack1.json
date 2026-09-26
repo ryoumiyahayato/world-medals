@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "巴伐利亚王国（1806–1918）首包：军事功绩奖章与高等军功勋章",
+  "scope": "巴伐利亚王国时期；本包同时覆盖王国建立前已设立且在1806–1918继续授予的Tapferkeitsmedaille体系。",
+  "candidate_file": "data/volumes/bavaria_kingdom_pack1_candidates.json",
+  "records": [
+    {
+      "id": "BAV-TAPFERKEITSMEDAILLE-GOLD-01",
+      "family": "BAV-TAPFERKEITSMEDAILLE",
+      "name": "巴伐利亚勇敢奖章",
+      "original": "Bayerische Tapferkeitsmedaille; ursprünglich Militärverdienstmedaille",
+      "date": "1794年10月30日设立；1806–1918巴伐利亚王国时期继续授予；1918年3月2日正式采用Bayerische Tapferkeitsmedaille名称",
+      "variant": "金质型；正面马克西米利安·约瑟夫四世肖像，背面巴伐利亚狮、剑与盾及DER TAPFERKEIT；两张Commons文件页均为完整奖章独立参考图，未提供馆藏号，不能默认是同一件；奖章上方挂环完整，绶带上端出框；低清参考",
+      "views": [
+        {
+          "key": "BAV-TAPFERKEITSMEDAILLE-GOLD-FRONT",
+          "label": "正面（完整奖章独立参考）"
+        },
+        {
+          "key": "BAV-TAPFERKEITSMEDAILLE-GOLD-REVERSE",
+          "label": "背面（完整奖章独立参考；不同实物未能排除）"
+        }
+      ],
+      "source_ids": [
+        "bav-pack1-tapferkeits-history-freundeskreis",
+        "bav-pack1-tapferkeits-dhm-object",
+        "bav-pack1-tapferkeits-front-image",
+        "bav-pack1-tapferkeits-reverse-image"
+      ]
+    },
+    {
+      "id": "BAV-MAX-JOSEPH-GRAND-CROSS-STAR-01",
+      "family": "BAV-MILITARY-MAX-JOSEPH",
+      "name": "巴伐利亚马克西米利安-约瑟夫军事勋章",
+      "original": "Militär-Max-Joseph-Orden",
+      "date": "1806年3月1日设立（追溯至1806年1月1日）；巴伐利亚王国时期",
+      "variant": "大十字级胸星；图中同框可见蓝白绶带和大十字挂章，但挂章下缘出框，故本行只登记实际完整可见的胸星，不把出框挂章冒充完整图；CC BY 3.0/GFDL来源照片",
+      "views": [
+        {
+          "key": "BAV-MAX-JOSEPH-GRAND-CROSS-STAR",
+          "label": "完整胸星（同图中挂章出框，不计为本行图样）"
+        }
+      ],
+      "source_ids": [
+        "bav-pack1-max-joseph-history-freundeskreis",
+        "bav-pack1-max-joseph-image"
+      ]
+    }
+  ],
+  "notes": [
+    "本包与现有catalogue做差集后未发现巴伐利亚family/variant，因此两个family均为新增；未修改公共catalogue、progress、index.html或公共样式。",
+    "Tapferkeitsmedaille的两面来自同一Commons上传者但文件页未给馆藏号或同物说明，按同型制正背参考并明确保留不确定性，不在内部当作同一件实物配对。",
+    "Max-Joseph照片的完整对象是大十字胸星；图中绶带和挂章下部出框，已从variant中排除，不以不完整挂章计入完整图。"
+  ]
+}

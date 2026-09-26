@@ -1,0 +1,42 @@
+{
+  "source": "turkishmedals_ottoman",
+  "status": "failed_access",
+  "started_at": "2026-09-26T10:13:00+08:00",
+  "completed_at": "2026-09-26T10:17:00+08:00",
+  "planned": [
+    "Wayback CDX for turkishmedals.net/decorations.htm",
+    "Wayback decorations.htm snapshot",
+    "all accessible internal decoration entry pages and image URLs"
+  ],
+  "processed": [],
+  "failed": [
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=turkishmedals.net/decorations.htm&output=json&filter=statuscode:200",
+      "stage": "snapshot discovery",
+      "error": "curl timeout while connecting to web.archive.org:443 after 21 seconds",
+      "attempted_at": "2026-09-26T10:03:00+08:00"
+    },
+    {
+      "url": "https://web.archive.org/web/20120505023021/http://www.turkishmedals.net/decorations.htm",
+      "stage": "snapshot fetch",
+      "error": "Wayback host unavailable from execution environment; no HTML or image bytes obtained",
+      "attempted_at": "2026-09-26T10:03:00+08:00"
+    },
+    {
+      "url": "https://web.archive.org/web/20100118014641/http://www.turkishmedals.net/decorations.htm",
+      "stage": "snapshot alternative",
+      "error": "not fetched after primary Wayback connection failure; URL retained from search discovery only",
+      "attempted_at": "2026-09-26T10:04:00+08:00"
+    }
+  ],
+  "remaining": [
+    "Retry Wayback snapshot/CDX when web.archive.org is reachable",
+    "Enumerate and fetch decorations.htm internal links after snapshot access"
+  ],
+  "candidate_file": "data/raw_candidates/turkishmedals_ottoman.jsonl",
+  "cache_root": "sources/pages/",
+  "notes": [
+    "Search-engine snippets were not used as evidence and produced no decoration candidates.",
+    "No child page was traversed because the archive root was unavailable."
+  ]
+}

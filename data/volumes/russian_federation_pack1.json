@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "俄罗斯联邦：来源优先首包",
+  "scope": "俄罗斯三时期来源优先首包中的对应授奖主体；同一章种的等级与版型保持在同一family。",
+  "records": [
+    {
+      "id": "RUS-FED-MED-01-V-01",
+      "family": "RUS-FED-MED-01",
+      "name": "勇敢奖章",
+      "original": "Медаль «За отвагу»",
+      "date": "1994年设立",
+      "variant": "旧联邦官方图式（具体图式/授予期待核）；官方图式；低清参考",
+      "views": [
+        {
+          "key": "RUS-IMG-06-VIEW",
+          "label": "完整官方图式"
+        }
+      ],
+      "source_ids": [
+        "russia-bulk-pack1",
+        "https://commons.wikimedia.org/wiki/File:Med2b.jpg",
+        "https://www.mos.ru/upload/documents/files/3503/1YkazPrezidentaRFot07092010N1099%28redot10052024%29.pdf"
+      ]
+    },
+    {
+      "id": "RUS-FED-MED-02-V-I",
+      "family": "RUS-FED-MED-02",
+      "name": "英勇奖章",
+      "original": "Медаль «За храбрость»",
+      "date": "2023年3月23日设立",
+      "variant": "I степени；官方图式；低清参考",
+      "views": [
+        {
+          "key": "RUS-IMG-04-VIEW",
+          "label": "完整官方图式"
+        }
+      ],
+      "source_ids": [
+        "russia-bulk-pack1",
+        "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_1st_%D0%A1lass_%28Russia%29.png",
+        "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_2nd_%D0%A1lass_%28Russia%29.png",
+        "https://publication.pravo.gov.ru/Document/View/0001202303230015?index=0&rangeSize=1"
+      ]
+    },
+    {
+      "id": "RUS-FED-MED-02-V-II",
+      "family": "RUS-FED-MED-02",
+      "name": "英勇奖章",
+      "original": "Медаль «За храбрость»",
+      "date": "2023年3月23日设立",
+      "variant": "II степени；官方图式；低清参考",
+      "views": [
+        {
+          "key": "RUS-IMG-05-VIEW",
+          "label": "完整官方图式"
+        }
+      ],
+      "source_ids": [
+        "russia-bulk-pack1",
+        "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_1st_%D0%A1lass_%28Russia%29.png",
+        "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_2nd_%D0%A1lass_%28Russia%29.png",
+        "https://publication.pravo.gov.ru/Document/View/0001202303230015?index=0&rangeSize=1"
+      ]
+    }
+  ],
+  "notes": [
+    "具体版型未确定的实物按同名章种收录并明确标待考，不拆成新的独立章种。"
+  ]
+}

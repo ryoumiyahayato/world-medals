@@ -1,0 +1,295 @@
+{
+  "as_of": "2026-09-25",
+  "issuer": "日本帝国中央政府",
+  "period": "明治时期（1868–1912）",
+  "images": [
+    {
+      "key": "jpm-rising-sun-image-full",
+      "record_id": "JPN-MEIJI-RISING-SUN-CLASS1",
+      "view_key": "JPM-RISING-SUN-1-FULL",
+      "local_path": "assets/images/japan_meiji/MET-60248-06-426a-front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:MET_06_426a_F.jpeg",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426a_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        616,
+        925
+      ],
+      "bytes": 162430,
+      "sha256": "5a7befe66924977aa019211cee83c23047a807d98002d8af38d25cc16c2a50f6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-formosa-image-front",
+      "record_id": "JPN-MEIJI-FORMOSA-EXPEDITION-01",
+      "view_key": "JPM-FORMOSA-F",
+      "local_path": "assets/images/japan_meiji/MET-60351-front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/Category:1874_Formosa_Expedition_War_Medal",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_454_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        910,
+        925
+      ],
+      "bytes": 126957,
+      "sha256": "c84f3cbe310fcaa01365bc6414fc706d7ccc660752c427033795a7cf69a374f5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-precious-crown-image-front",
+      "record_id": "JPN-MEIJI-PRECIOUS-CROWN-PAULOWNIA",
+      "view_key": "JPM-PRECIOUS-CROWN-PAULOWNIA-F",
+      "local_path": "assets/images/japan_meiji/MET-60233-06-411-front.jpg",
+      "source_page": "https://www.metmuseum.org/art/collection/search/60233",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-06_411ab-001.jpg",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        800,
+        1104
+      ],
+      "bytes": 321600,
+      "sha256": "4d16d62a354b7ead201e0ff7a88c46288f144272f58d49cd6bb525554b3d02ba",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-sacred-treasure-image-front",
+      "record_id": "JPN-MEIJI-SACRED-TREASURE-CLASS7",
+      "view_key": "JPM-SACRED-TREASURE-7-F",
+      "local_path": "assets/images/japan_meiji/MET-60333-front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:MET_06_442ab_F.jpeg",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "CC0 1.0（Met Open Access）",
+      "dimensions": [
+        925,
+        902
+      ],
+      "bytes": 145206,
+      "sha256": "aaa17386323545388aca652f5e60542ad7a40120a0b1ced08f1f014f4c894d90",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-rising-sun-image-star-back",
+      "record_id": "JPN-MEIJI-RISING-SUN-CLASS1",
+      "view_key": "JPM-RISING-SUN-STAR-B",
+      "local_path": "assets/images/japan_meiji/MET-60248-06-426bc-back.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:MET_06_426bc_B.jpeg",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426bc_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        925,
+        616
+      ],
+      "bytes": 102594,
+      "sha256": "b43bb20dc7e743f4e520ab15168d1d69d60e8600ca0636a364ef68aa2bb3d7b5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-formosa-image-back",
+      "record_id": "JPN-MEIJI-FORMOSA-EXPEDITION-01",
+      "view_key": "JPM-FORMOSA-B",
+      "local_path": "assets/images/japan_meiji/MET-60351-back.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/Category:1874_Formosa_Expedition_War_Medal",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_454_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        910,
+        925
+      ],
+      "bytes": 129472,
+      "sha256": "bb36242af026938a33a22c8068590eb550d94d77f9c05298fcba5eb9f8c16acc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-sacred-treasure-image-back",
+      "record_id": "JPN-MEIJI-SACRED-TREASURE-CLASS7",
+      "view_key": "JPM-SACRED-TREASURE-7-B",
+      "local_path": "assets/images/japan_meiji/MET-60333-back.jpg",
+      "source_page": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_B.JPG",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        925,
+        789
+      ],
+      "bytes": 125388,
+      "sha256": "b30742cb3bacaf32541402f22ddb9c44fb0c8608da2fb352ca550831b17b8b86",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-golden-kite-image",
+      "record_id": "JPN-MEIJI-GOLDEN-KITE-CLASS7",
+      "view_key": "JPM-GOLDEN-KITE-7-F",
+      "local_path": "assets/images/japan_meiji/NARA-Golden-Kite-7th-NAID26433036.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Decorations_-_Medals_-_Foreign_-_Japan._Order_of_the_Golden_Kite,_7th_class_-_NARA_-_26433036.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Decorations_-_Medals_-_Foreign_-_Japan._Order_of_the_Golden_Kite%2C_7th_class_-_NARA_-_26433036.jpg",
+      "artist": "American Numismatic Co.（NARA题签记录）",
+      "license": "Public domain（美国联邦政府职务作品）",
+      "dimensions": [
+        8994,
+        6069
+      ],
+      "bytes": 18960346,
+      "sha256": "0e50f1880cc7bb54d253ad397225353d370a497e125c27596bd0fa13f7cced6b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-rising-sun-image-star-front",
+      "record_id": "JPN-MEIJI-RISING-SUN-CLASS1",
+      "view_key": "JPM-RISING-SUN-STAR-F",
+      "local_path": "assets/images/japan_meiji/MET-60248-06-426bc-front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:MET_06_426bc_F.jpeg",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426bc_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "CC0 1.0（Met Open Access）",
+      "dimensions": [
+        925,
+        616
+      ],
+      "bytes": 123307,
+      "sha256": "ac16c6597a15d09e56f3b90d71e29f8d372c8a44766ce310bd9d38fd606c21f2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-constitution-silver-back",
+      "record_id": "JPN-MEIJI-CONSTITUTION-MEDAL-SILVER",
+      "view_key": "JPM-CONSTITUTION-SILVER-B",
+      "local_path": "assets/images/japan_meiji/MET-60343-06-449-back.jpg",
+      "source_page": "https://www.metmuseum.org/art/collection/search/60343",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_449_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        788,
+        925
+      ],
+      "bytes": 120291,
+      "sha256": "62c23e5eb58e6e6a7ba0aa8596276d25e5cbac4db03ebe1dd02720f9ef739bcf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-constitution-gold-front",
+      "record_id": "JPN-MEIJI-CONSTITUTION-MEDAL-GOLD",
+      "view_key": "JPM-CONSTITUTION-GOLD-F",
+      "local_path": "assets/images/japan_meiji/MET-60341-06-448-front.jpg",
+      "source_page": "https://www.metmuseum.org/art/collection/search/60341",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_448_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        740,
+        925
+      ],
+      "bytes": 113780,
+      "sha256": "b00c467d2ab01fd9fba3bffd346407be129914388897cc241f83a37e2d0061d4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-constitution-gold-back",
+      "record_id": "JPN-MEIJI-CONSTITUTION-MEDAL-GOLD",
+      "view_key": "JPM-CONSTITUTION-GOLD-B",
+      "local_path": "assets/images/japan_meiji/MET-60341-06-448-back.jpg",
+      "source_page": "https://www.metmuseum.org/art/collection/search/60341",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_448_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        860,
+        925
+      ],
+      "bytes": 128392,
+      "sha256": "98891f65c385cd60c645f628ebd5881537c24c84b156b4ea45837cef38af26e4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-constitution-silver-front",
+      "record_id": "JPN-MEIJI-CONSTITUTION-MEDAL-SILVER",
+      "view_key": "JPM-CONSTITUTION-SILVER-F",
+      "local_path": "assets/images/japan_meiji/MET-60343-06-449-front.jpg",
+      "source_page": "https://www.metmuseum.org/art/collection/search/60343",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_449_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        766,
+        925
+      ],
+      "bytes": 113768,
+      "sha256": "836d1908106faea47fee7c581f99e172dba3602e771aa5cd3a7935d7eb80e7ef",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-boxer-met-front",
+      "record_id": "JPN-MEIJI-BOXER-REBELLION-CAMPAIGN-MEDAL",
+      "view_key": "JPM-BOXER-MEIJI33-F",
+      "local_path": "assets/images/japan_meiji/MET-60355-06-456-front.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/Category:Boxer_Rebellion_Medal_(Japan)",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_456_F.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        810,
+        925
+      ],
+      "bytes": 117127,
+      "sha256": "a87dd1680717db189c4f8d24daa35af90e998b7029079d7b038fd89df895bda1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "jpm-boxer-met-back",
+      "record_id": "JPN-MEIJI-BOXER-REBELLION-CAMPAIGN-MEDAL",
+      "view_key": "JPM-BOXER-MEIJI33-B",
+      "local_path": "assets/images/japan_meiji/MET-60355-06-456-back.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/Category:Boxer_Rebellion_Medal_(Japan)",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_456_B.JPG",
+      "artist": "The Metropolitan Museum of Art（摄影者未标）",
+      "license": "The Met Open Access / Public Domain",
+      "dimensions": [
+        788,
+        925
+      ],
+      "bytes": 113822,
+      "sha256": "7bfa69864a13de517a7c159b4e7bdb13a8f2df87006e1c59beb7cf4fb9d80257",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "review_items": [
+    "JPN-MEIJI-RISING-SUN-CLASS1：一等归属取自Commons文件类别，Met馆藏目录未写等级；主任务复核。",
+    "JPN-MEIJI-SACRED-TREASURE-CLASS7：七等归属取自Commons文件类别，Met馆藏目录未写等级；主任务复核。",
+    "JPN-MEIJI-PRECIOUS-CROWN-PAULOWNIA：具体等级未由馆方目录确认，保持待核。",
+    "JPN-MEIJI-GOLDEN-KITE-CLASS7：照片存档于1917–1918，记录奖章类型并非该实物授予日期或生产日期；若严格限1900–1912实物证据，需进一步寻找同期实物图。",
+    "JPN-MEIJI-CONSTITUTION-MEDAL-GOLD/SILVER：东大档案支持纪念章名称及赏勋局关联；Met对象仅称Medal，具体身份、授予条件及金银是否对应等级仍待主任务复核。",
+    "JPN-MEIJI-BOXER-REBELLION-CAMPAIGN-MEDAL：Met对象页未写奖章名称；名称与背文由 Commons 06.456 类别以及原件背面铭文互证，制定法原件还需复核。"
+  ],
+  "pending_images": [
+    {
+      "record_id": "JPN-MEIJI-SINO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "reason": "已找到国立公文书馆授付决裁录和博物馆目录记载；尚无许可清楚且完整可下载的原始实物图，待补，不以限制再利用的馆藏缩略图代替。"
+    },
+    {
+      "record_id": "JPN-MEIJI-RUSSO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "reason": "丰田市博物馆目录有实物记录，但大图连接EOF失败且网页未显示再利用许可；仅列待补，不保存占位图。"
+    }
+  ]
+}

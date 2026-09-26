@@ -1,0 +1,172 @@
+{
+  "attempted": 44,
+  "downloaded": 11,
+  "failed": [
+    {
+      "candidate_id": "core7-2445c244ae51",
+      "file_title": "File:LionSun V.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidate_id": "core7-22e555e3a112",
+      "file_title": "File:Ordre du Lion et du Soleil.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidate_id": "core7-08bd62fef78d",
+      "file_title": "File:Versiersel van de Orde van de Leeuw en de Zon Miltair Vijfde Klasse Perzie 1890.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidate_id": "core7-c0678163d114",
+      "file_title": "File:Army+Distinguished+Service+Medal+1-removebg-preview.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-cd6edd5d4b2a",
+      "file_title": "File:Queens Sudan Medal.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-9bcdcc00e6b0",
+      "file_title": "File:The Sudanese Barnstar of National Merit.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-aa5f7b32c680",
+      "file_title": "File:Soudan 2nils-removebg-preview.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-5c15ac5e1a90",
+      "file_title": "File:Two+Niles+Knight+LPM-removebg-preview.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-7778ec9c7186",
+      "file_title": "File:Cordon of Honour.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-cfbb12f5441e",
+      "file_title": "File:EGY Order of Merit - Commander BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-d36526662ea7",
+      "file_title": "File:EGY Order of Merit - Grand Officer BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-3982f4d3ed21",
+      "file_title": "File:EGY Order of Merit - Officer BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-9994b1186507",
+      "file_title": "File:EGY Order of the Nile - Commander BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-5f94a28c08c2",
+      "file_title": "File:EGY Order of the Nile - Grand Officer BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-9150049ad518",
+      "file_title": "File:EGY Order of the Nile - Knight BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-8eef16730440",
+      "file_title": "File:EGY Order of the Republic - Commander BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-c984d18b1718",
+      "file_title": "File:EGY Order of the Republic - Grand Cordon BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-86ed02c6ec91",
+      "file_title": "File:EGY Order of the Republic - Grand Officer BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-373abbd1749e",
+      "file_title": "File:EGY Order of the Republic - Knight BAR.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-b8608a0a50f8",
+      "file_title": "File:Order of Ismail.gif",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-76f6a0a0b44d",
+      "file_title": "File:State Medal of Pride of the Republic of Turkey.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-618f46b57913",
+      "file_title": "File:TSK Hizmet Övünç Madalyası-Armalı.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-6d78fb138e01",
+      "file_title": "File:TSK Hizmet Övünç Madalyası.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-1330a0ca46e6",
+      "file_title": "File:TSK Üstün Hizmet Madalyası.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-81cfb9017594",
+      "file_title": "File:TSK Üstün Hizmet Övünç Madalyası.png",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-c61051a89b7e",
+      "file_title": "File:TURKISH ARMED FORCES MEDAL OF HONOUR.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-ad68bd9fc084",
+      "file_title": "File:Üstün Hizmet Madalyası 2.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-f48bdbb50840",
+      "file_title": "File:Abbas I Hilmi Pasha met de Orde van het Verheven Portret.jpeg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-407c174e13df",
+      "file_title": "File:Dereli köyü4.JPG",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-16378a63c0b4",
+      "file_title": "File:Dereli köyü5.JPG",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-0c8a013ccaf5",
+      "file_title": "File:Insigne van een Turkse Marinepiloot.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-8c8fa238bbc7",
+      "file_title": "File:Mareşal Fevzi Çakmak.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "core7-9a907c64b679",
+      "file_title": "File:Refik Saydam.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    }
+  ],
+  "remaining_before_run": 44
+}

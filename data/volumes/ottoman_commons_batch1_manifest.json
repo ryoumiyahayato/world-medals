@@ -1,0 +1,137 @@
+{
+  "schema": "world-medals.volume_manifest.v1",
+  "volume": "Ottoman — Commons open-license batch 1",
+  "as_of": "2026-09-26",
+  "responsibility_scope": "仅处理已完成 Commons source sweep 的奥斯曼/奥斯曼关联正式勋奖候选；不改公共 catalogue、HTML、样式或导航。",
+  "records_file": "data/volumes/ottoman_commons_batch1.json",
+  "sources_file": "data/volumes/ottoman_commons_batch1_sources.json",
+  "candidate_file": "data/volumes/ottoman_commons_batch1_candidates.json",
+  "image_directory": "assets/images/ottoman_commons_batch1/",
+  "original_directory": "originals/ottoman_commons_batch1/",
+  "source_sweep": "data/source_sweeps/commons_ottoman.json",
+  "raw_candidates": "data/raw_candidates/commons_ottoman.jsonl",
+  "counts": {
+    "downloaded_original_files": 32,
+    "decoded_ok_files": 32,
+    "visual_reviewed_files": 32,
+    "formal_records": 15,
+    "html_eligible_records": 15,
+    "new_variant_rows": 15,
+    "distinct_new_families": 5,
+    "excluded_or_pending": 17
+  },
+  "image_quality_and_rights": [
+    "OTT-MECLIS-MEBUSAN-01: 1086×1028，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 5797562f6b8f8cffa2c8d0a6852edd4c6f399d7d0a540379c73ac4cf54c2eb98",
+    "OTT-KHEDIVE-JUSTICE-01: 1550×1241，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 26ccf217ef98b0d57c9199c2748965f75b090786b3b7827d40cc9d5dfb2a6c47",
+    "OTT-MEDJ-STAR-I-COMMONS-01: 1560×1536，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 cbe4f707c10038756c74c8250c5153a2ff505f21beb256df62571d475d53e52d",
+    "OTT-MEDJ-COMMANDER-III-COMMONS-01: 1418×1434，CC BY 4.0，object_photo，2026-09-26 实际查看完整性；哈希 e7595c50bb413b03afc51bba1ab982ce55537d2e95eac5f9fbb0abc70ef2bc91",
+    "OTT-CRIMEA-BRITISH-AM802391-01: 3648×5472，CC BY 4.0，object_photo，2026-09-26 实际查看完整性；哈希 ba26b400de25d776659d3dd774b4f4087d4d3fb42e05c88cf769555e25aba1a7",
+    "OTT-CANAKKALE-ER-01: 981×885，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 7c5a45ee0aaee0d5f20c29f629584f8de793aca66a9cdc2be9740b946f2ebdf4",
+    "OTT-CANAKKALE-SUBAY-01: 974×956，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 d38086d28b61d5c07d196721f3723de2626180de7395b163c3f5826d02e1f744",
+    "OTT-SEFKAT-STAR-I-COMMONS-01: 1552×1526，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 517af92db741d6aa996df85b5e8bc84fd3e08e801549c0d3aed63f8246e7634a",
+    "OTT-SEFKAT-SASH-I-COMMONS-01: 1794×1771，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 14e858d70958f73a06624c3202ea15b4d18797ae05ef017597d6089752cb498c",
+    "OTT-IMTIYAZ-MEDAL-SMALL-01: 538×360，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 af0dc91d48665a76dd3c95d4cea96f5130205c4c4547be7b7348e8b6167aa455",
+    "OTT-OSM-STAR-I-TYPE1-COMMONS-01: 969×925，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 d5d9e6cb014145690c15d33c2e7b391e73ec5f7095958f0f662ab56d62a6c94c",
+    "OTT-OSM-BADGE-I-COMMONS-01: 1011×1521，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 b0c3ac3e003e5ea79bde0ff8f6c27a1b79704b78be8331793e5a6815645ffa69",
+    "OTT-OSM-STAR-I-TYPE2-COMMONS-01: 1487×1403，CC BY-SA 4.0，object_photo，2026-09-26 实际查看完整性；哈希 a565cc13199ab1118f02b7eda2446279a9fc4cf615e92e6861311bce08eb1bec",
+    "OTT-CRETE-ATIK-GIRIT-01: 737×359，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 efdf149866a1f321b7ece1cdd73090ee817c9ed7d8b921e29d6819d216bd17a6",
+    "OTT-SEHIT-EVLAD-MALUL-AID-01: 709×344，Public domain，object_photo，2026-09-26 实际查看完整性；哈希 b2cac05c03443619ba126f2c205e7c46bced3aa8280e1f388c26ba136b85b7ef"
+  ],
+  "unresolved_notes": [
+    "commons-ottoman-dfa7ffb95739f1cc: generic Order of Osmanieh file has no grade/variant description; retain as source lead only",
+    "commons-ottoman-a8d82bdfe7fd1b8e: SHA-256 equals existing assets/images/ottoman/CHARITY.jpg",
+    "commons-ottoman-fd66ad41d529f578: SHA-256 equals existing assets/images/ottoman/liyakat.jpg",
+    "commons-ottoman-e6026d9ae16e1c0c: complete reverse view only; same Gallipoli Star family/variant already present",
+    "commons-ottoman-54b72b0669ede96e: front view of existing Gallipoli Star / Ottoman War Medal model, not a new variant",
+    "commons-ottoman-b20c048e0267dd11: SHA-256 equals existing assets/images/ottoman/montenegro.jpg",
+    "commons-ottoman-dcf9101af427d8a5: Yemen silver image corresponds to existing OTT-YEMEN-1892 silver variant",
+    "commons-ottoman-3b6a38253517f743: SHA-256 equals existing assets/images/ottoman/RED-CRESCENT-1.jpg",
+    "commons-ottoman-c7e2736f5fcf6400: SHA-256 equals existing assets/images/ottoman/IMT-ORDER-1.jpg",
+    "commons-ottoman-291b6bf8403701b8: Iftihar badge corresponds to existing OTT-IFTIHAR-ORDER row",
+    "commons-ottoman-5054e4e8c9602af8: historical illustration title says Order of Merit while Commons category says Order of Honour; hold pending catalogue reconciliation",
+    "commons-ottoman-198644dfd8d6e15a: Medjidie 5th-class image is cut at the lower edge of the star; not complete enough for HTML",
+    "commons-ottoman-df6af92f7f03acb2: single file shows two separate Osmanieh objects plus a display label; not a single full object view",
+    "commons-ottoman-7841df95373a307e: single file shows badge and star together with a display label; not a single-object view",
+    "commons-ottoman-c6136857d5fbbae1: Gallipoli Star front photo is another image of existing Ottoman War Medal/Gallipoli Star model",
+    "commons-ottoman-0612fa7315468821: museum display view contains several objects and the Medjidie at bottom is cropped",
+    "commons-ottoman-d54ad93b34845931: Moscow museum image shows multiple Medjidie objects together, not a single object view"
+  ],
+  "next_checkpoint": "首包已落盘；下一步由主任务做全库 family/variant 差集和合并抽查。不得把 sources 中 excluded 项计入新增正文。",
+  "images": [
+    {
+      "view_key": "OTT-MECLIS-MEBUSAN-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/chamber_of_deputies_order.jpg",
+      "original_path": "originals/ottoman_commons_batch1/chamber_of_deputies_order.jpg"
+    },
+    {
+      "view_key": "OTT-KHEDIVE-JUSTICE-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/khedive_order_of_justice.jpg",
+      "original_path": "originals/ottoman_commons_batch1/khedive_order_of_justice.jpg"
+    },
+    {
+      "view_key": "OTT-MEDJ-STAR-I-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/medjidie_1st_class_star.jpg",
+      "original_path": "originals/ottoman_commons_batch1/medjidie_1st_class_star.jpg"
+    },
+    {
+      "view_key": "OTT-MEDJ-COMMANDER-III-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/medjidie_3rd_class_commander.jpg",
+      "original_path": "originals/ottoman_commons_batch1/medjidie_3rd_class_commander.jpg"
+    },
+    {
+      "view_key": "OTT-CRIMEA-BRITISH-AM802391-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/crimea_medal_am802391_1.jpg",
+      "original_path": "originals/ottoman_commons_batch1/crimea_medal_am802391_1.jpg"
+    },
+    {
+      "view_key": "OTT-CANAKKALE-ER-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/canakkale_soldier_medal.jpg",
+      "original_path": "originals/ottoman_commons_batch1/canakkale_soldier_medal.jpg"
+    },
+    {
+      "view_key": "OTT-CANAKKALE-SUBAY-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/canakkale_officer_medal.jpg",
+      "original_path": "originals/ottoman_commons_batch1/canakkale_officer_medal.jpg"
+    },
+    {
+      "view_key": "OTT-SEFKAT-STAR-I-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/sefkat_1st_class_star.jpg",
+      "original_path": "originals/ottoman_commons_batch1/sefkat_1st_class_star.jpg"
+    },
+    {
+      "view_key": "OTT-SEFKAT-SASH-I-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/sefkat_1st_class_badge_sash.jpg",
+      "original_path": "originals/ottoman_commons_batch1/sefkat_1st_class_badge_sash.jpg"
+    },
+    {
+      "view_key": "OTT-IMTIYAZ-MEDAL-SMALL-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/imtiyaz_small_silver.jpg",
+      "original_path": "originals/ottoman_commons_batch1/imtiyaz_small_silver.jpg"
+    },
+    {
+      "view_key": "OTT-OSM-STAR-I-TYPE1-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/osmanieh_1st_class_star1.jpg",
+      "original_path": "originals/ottoman_commons_batch1/osmanieh_1st_class_star1.jpg"
+    },
+    {
+      "view_key": "OTT-OSM-BADGE-I-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/osmanieh_1st_class_badge.jpg",
+      "original_path": "originals/ottoman_commons_batch1/osmanieh_1st_class_badge.jpg"
+    },
+    {
+      "view_key": "OTT-OSM-STAR-I-TYPE2-COMMONS-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/osmanieh_1st_class_star2.jpg",
+      "original_path": "originals/ottoman_commons_batch1/osmanieh_1st_class_star2.jpg"
+    },
+    {
+      "view_key": "OTT-CRETE-ATIK-GIRIT-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/atik_girit_medal.png",
+      "original_path": "originals/ottoman_commons_batch1/atik_girit_medal.png"
+    },
+    {
+      "view_key": "OTT-SEHIT-EVLAD-MALUL-AID-01-FRONT",
+      "local_path": "assets/images/ottoman_commons_batch1/martyrs_children_aid_medal.gif",
+      "original_path": "originals/ottoman_commons_batch1/martyrs_children_aid_medal.gif"
+    }
+  ]
+}

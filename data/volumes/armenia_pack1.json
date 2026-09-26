@@ -1,0 +1,365 @@
+{
+  "as_of": "2026-09-26",
+  "records": [
+    {
+      "id": "ARM-ANANIA-01",
+      "family": "ARM-ANANIA",
+      "country_zh": "亚美尼亚",
+      "name": "阿纳尼亚·希拉卡齐奖章",
+      "original": "The Medal of Anania Shirakatsi / Անանիա Շիրակացու մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-ANANIA-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-15"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-COMBAT-CROSS-1-01",
+      "family": "ARM-COMBAT-CROSS",
+      "country_zh": "亚美尼亚",
+      "name": "战斗十字勋章",
+      "original": "The Order of the Combat Cross / Մարտական խաչ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "一级；官方图式",
+      "views": [
+        {
+          "key": "ARM-COMBAT-CROSS-1-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-04"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-COMBAT-CROSS-2-01",
+      "family": "ARM-COMBAT-CROSS",
+      "country_zh": "亚美尼亚",
+      "name": "战斗十字勋章",
+      "original": "The Order of the Combat Cross / Մարտական խաչ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "二级；官方图式",
+      "views": [
+        {
+          "key": "ARM-COMBAT-CROSS-2-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-04"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-COMBAT-SERVICE-01",
+      "family": "ARM-COMBAT-SERVICE",
+      "country_zh": "亚美尼亚",
+      "name": "战斗服务奖章",
+      "original": "The Medal for Combat Service / Մարտական ծառայության մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-COMBAT-SERVICE-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-11"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-COURAGE-01",
+      "family": "ARM-COURAGE",
+      "country_zh": "亚美尼亚",
+      "name": "勇气奖章",
+      "original": "The Medal of Courage / Արիության մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-COURAGE-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-10"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-FRIENDSHIP-01",
+      "family": "ARM-FRIENDSHIP",
+      "country_zh": "亚美尼亚",
+      "name": "友谊勋章",
+      "original": "Order of Friendship / Բարեկամության շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-FRIENDSHIP-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-09"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-GLORY-01",
+      "family": "ARM-GLORY",
+      "country_zh": "亚美尼亚",
+      "name": "光荣勋章",
+      "original": "The Order of Glory / Փառքի շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-GLORY-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-02"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-HONOUR-01",
+      "family": "ARM-HONOUR",
+      "country_zh": "亚美尼亚",
+      "name": "荣誉勋章",
+      "original": "The Order of Honor / Պատվո շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-HONOUR-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-07"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-MASHTOTS-01",
+      "family": "ARM-MASHTOTS",
+      "country_zh": "亚美尼亚",
+      "name": "圣梅斯罗普·马什托茨勋章",
+      "original": "The Order of St. Mesrop Mashtots / Սուրբ Մեսրոպ Մաշտոցի շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-MASHTOTS-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-06"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-MKHITAR-GOSH-01",
+      "family": "ARM-MKHITAR-GOSH",
+      "country_zh": "亚美尼亚",
+      "name": "姆希塔尔·戈什奖章",
+      "original": "The Medal of Mkhitar Gosh / Մխիթար Գոշի մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-MKHITAR-GOSH-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-13"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-MKHITAR-HERATSI-01",
+      "family": "ARM-MKHITAR-HERATSI",
+      "country_zh": "亚美尼亚",
+      "name": "姆希塔尔·赫拉齐奖章",
+      "original": "The Medal of Mkhitar Heratsi / Մխիթար Հերացու մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-MKHITAR-HERATSI-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-14"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-MOTHERLAND-01",
+      "family": "ARM-MOTHERLAND",
+      "country_zh": "亚美尼亚",
+      "name": "祖国勋章",
+      "original": "The Order of Motherland / Հայրենիքի շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "国家最高荣誉所佩勋章；官方图式",
+      "views": [
+        {
+          "key": "ARM-MOTHERLAND-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-01"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-MOVSES-01",
+      "family": "ARM-MOVSES",
+      "country_zh": "亚美尼亚",
+      "name": "莫夫谢斯·霍列纳齐奖章",
+      "original": "The Medal of Movses Khorenatsi / Մովսես Խորենացու մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-MOVSES-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-16"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-SERVICES-FATHERLAND-1-01",
+      "family": "ARM-SERVICES-FATHERLAND",
+      "country_zh": "亚美尼亚",
+      "name": "为祖国服务勋章",
+      "original": "Order for Services to the Motherland / Հայրենիքին մատուցած ծառայությունների համար",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "一等；官方图式",
+      "views": [
+        {
+          "key": "ARM-SERVICES-FATHERLAND-1-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-08"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-SERVICES-FATHERLAND-2-01",
+      "family": "ARM-SERVICES-FATHERLAND",
+      "country_zh": "亚美尼亚",
+      "name": "为祖国服务勋章",
+      "original": "Order for Services to the Motherland / Հայրենիքին մատուցած ծառայությունների համար",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "二等；官方图式",
+      "views": [
+        {
+          "key": "ARM-SERVICES-FATHERLAND-2-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-08"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-SERVICES-MEDAL-01",
+      "family": "ARM-SERVICES-MEDAL",
+      "country_zh": "亚美尼亚",
+      "name": "为祖国服务奖章",
+      "original": "The Medal of Services to the Motherland / Հայրենիքին մատուցած ծառայությունների համար մեդալ",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "二等；官方图式",
+      "views": [
+        {
+          "key": "ARM-SERVICES-MEDAL-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-12"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-TIGRAN-01",
+      "family": "ARM-TIGRAN",
+      "country_zh": "亚美尼亚",
+      "name": "提格兰大帝勋章",
+      "original": "The Order Tigran the Great / Տիգրան Մեծ շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-TIGRAN-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-03"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    },
+    {
+      "id": "ARM-VARDAN-01",
+      "family": "ARM-VARDAN",
+      "country_zh": "亚美尼亚",
+      "name": "圣瓦尔丹·马米科尼扬勋章",
+      "original": "The Order St. Vardan Mamikonian / Սուրբ Վարդան Մամիկոնյանի շքանշան",
+      "date": "亚美尼亚共和国时期；初设日期待考",
+      "variant": "官方图式",
+      "views": [
+        {
+          "key": "ARM-VARDAN-01-FRONT",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "commons-armenia-05"
+      ],
+      "image_kind": "official_design",
+      "html_eligible": true
+    }
+  ]
+}

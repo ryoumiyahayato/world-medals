@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-26",
+  "package": "italy_medalbook_pack2_2026-09-26",
+  "conflicts": [
+    {
+      "id": "IT-CF-PACK2-001",
+      "topic": "Military Valour Medal chronology",
+      "candidate_signal": "MedalBook's section header and broad date extraction surface 1793 alongside dates for later versions.",
+      "evidence": ["Official MoD history traces a 1793 predecessor and says the gold/silver Military Valour Medals were restored by the Royal Warrant of 26 March 1833.", "The bronze medal is tied to R.D. 8 December 1887, no.5100."],
+      "resolution": "Use 1833-03-26 as the re-establishment date for the gold/silver medal form; preserve 1793 only as predecessor context; date the bronze grade separately from 1887-12-08.",
+      "status": "resolved_for_this_package"
+    },
+    {
+      "id": "IT-CF-PACK2-002",
+      "topic": "Civil Valour institution date versus grade availability",
+      "candidate_signal": "The official institution record (1851) and the broad MedalBook candidate dates do not establish that every later grade existed from the institution date.",
+      "evidence": ["Quirinale records R.D. no.1168 of 30 April 1851 and lists gold, silver and bronze degrees.", "The Commons Kingdom-era object page names no degree or metal."],
+      "resolution": "Keep 1851 as award institution date; do not assign the photographed object to gold, silver or bronze; leave grade-specific object images unpictured.",
+      "status": "resolved_by_separating_award_date_from_unidentified_specimen"
+    },
+    {
+      "id": "IT-CF-PACK2-003",
+      "topic": "War Merit Cross versus Cross for Military Valour",
+      "candidate_signal": "Similar English/Italian wording risks merging two separate crosses.",
+      "evidence": ["The MedalBook source has distinct candidate keys for War Merit Cross and Cross for Military Valour.", "The Ministry of Defence history treats the Cross for Military Valour in the Military Valour family; R.D. no.205 separately creates the War Merit Cross."],
+      "resolution": "Keep IT-KOI-004 War Merit Cross distinct from the Military Valour Medal and Cross for Military Valour families.",
+      "status": "resolved"
+    }
+  ],
+  "open_limits": [
+    {
+      "topic": "Civil medal specimen grade and actual metal",
+      "status": "待考",
+      "note": "The image source only identifies a Kingdom of Italy private-collection Civil Valour Medal; no independent degree/material identification is available."
+    },
+    {
+      "topic": "War Merit Cross specimen ribbon/attachment and actual material",
+      "status": "待考",
+      "note": "The chosen matched front/reverse image set shows the complete cross body but no ribbon or suspension ring; do not infer the missing wearable configuration or medal metal from it."
+    },
+    {
+      "topic": "Civil Valour bronze introduction date",
+      "status": "待核",
+      "note": "The 1851 institution date and existence of three degrees are supported; exact bronze-grade chronology was not needed for this batch and remains outside the established facts in this package."
+    }
+  ]
+}

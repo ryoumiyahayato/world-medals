@@ -1,0 +1,339 @@
+{
+  "jpm-formosa-institution": {
+    "page": "https://www.archives.go.jp/exhibition/digital/ayumi/contents1_02/",
+    "summary": "国立公文書館说明：1875年勋等赏牌令制定赏牌及従軍牌，従軍牌授予1874年台湾出兵从军者。",
+    "excerpt": "明治8年（1875）、勲等賞牌令の制定によって、賞牌および従軍牌が制定されました。従軍牌は、明治7年の台湾出兵に従事した者に授与されました。",
+    "accessed": "2026-09-25"
+  },
+  "jpm-formosa-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60351",
+    "summary": "Met藏品06.454：日本，19世纪末，银质，白绶绿边，尺寸7.8×3.5厘米；正背两张图；Public Domain。",
+    "excerpt": "Period: Meiji period (1868–1912); Date: late 19th century; Medium: Silver; white ribbon with green edge stripe; Object Number: 06.454.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-formosa-image-front": {
+    "page": "https://commons.wikimedia.org/wiki/Category:1874_Formosa_Expedition_War_Medal",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_454_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60351-front.jpg",
+    "summary": "Met馆藏原始正面摄影；Commons将06.454图像列在1874台湾出兵奖章类别；整件轮廓完整，照片本身不含臆补。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      910,
+      925
+    ],
+    "sha256": "c84f3cbe310fcaa01365bc6414fc706d7ccc660752c427033795a7cf69a374f5",
+    "accessed": "2026-09-25"
+  },
+  "jpm-formosa-image-back": {
+    "page": "https://commons.wikimedia.org/wiki/Category:1874_Formosa_Expedition_War_Medal",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_454_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60351-back.jpg",
+    "summary": "与正面同一Met accession 06.454的原始背面摄影；类别页列出文件MET 06 454 B；视图匹配为背面。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      910,
+      925
+    ],
+    "sha256": "bb36242af026938a33a22c8068590eb550d94d77f9c05298fcba5eb9f8c16acc",
+    "accessed": "2026-09-25"
+  },
+  "jpm-rising-sun-establishment": {
+    "page": "https://www8.cao.go.jp/shokun/shurui-juyotaisho-kunsho/kyokujitsusho.html",
+    "summary": "日本内阁府：旭日章于明治8年作为日本最初的勋章制定；形制以日章为中心配置旭光。",
+    "excerpt": "旭日章は、明治８年に我が国最初の勲章として制定されました。",
+    "accessed": "2026-09-25"
+  },
+  "jpm-rising-sun-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60248",
+    "summary": "Met藏品06.426a–c：日本，明治时期，19世纪末，红边白绶；大绶绶章、勋章及钮三件；图鉴页将其分类为旭日章一等。",
+    "excerpt": "Period: Meiji period (1868–1912); Date: late 19th century; Object Number: 06.426a–c. Commons file category: Order of the Rising Sun, 1st class.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-rising-sun-image-full": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_426a_F.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426a_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60248-06-426a-front.jpg",
+    "summary": "Met馆藏完整大绶绶章正面，保留整段绶带、钮及章体；整体尺寸616×925像素。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      616,
+      925
+    ],
+    "sha256": "5a7befe66924977aa019211cee83c23047a807d98002d8af38d25cc16c2a50f6",
+    "accessed": "2026-09-25"
+  },
+  "jpm-rising-sun-image-star-front": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_426bc_F.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426bc_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60248-06-426bc-front.jpg",
+    "summary": "Met同一藏品编号之副章星章正面全图，并见小型钮；非用于臆补别件的反面。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "CC0 1.0（Met Open Access）",
+    "dimensions": [
+      925,
+      616
+    ],
+    "sha256": "ac16c6597a15d09e56f3b90d71e29f8d372c8a44766ce310bd9d38fd606c21f2",
+    "accessed": "2026-09-25"
+  },
+  "jpm-rising-sun-image-star-back": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_426bc_B.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_426bc_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60248-06-426bc-back.jpg",
+    "summary": "同一Met对象星章组件背面及钮背面；经图像查看确认并非另一面勋章。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      925,
+      616
+    ],
+    "sha256": "b43bb20dc7e743f4e520ab15168d1d69d60e8600ca0636a364ef68aa2bb3d7b5",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sacred-treasure-establishment": {
+    "page": "https://www8.cao.go.jp/shokun/shurui-juyotaisho-kunsho/zuihosho.html",
+    "summary": "日本内阁府：瑞宝章于明治21年制定，说明宝镜与连珠、光线、桐花叶钮的设计。",
+    "excerpt": "瑞宝章は、明治２１年に制定されました。",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sacred-treasure-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60333",
+    "summary": "Met藏品06.442a,b：日本，明治时期，19世纪末；白色三角绶带黄条；Medals分类。",
+    "excerpt": "Period: Meiji period (1868–1912); Date: late 19th century; Object Number: 06.442a, b.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sacred-treasure-image-front": {
+    "page": "https://commons.wikimedia.org/wiki/File:MET_06_442ab_F.jpeg",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60333-front.jpg",
+    "summary": "Met原始整件正面图；Commons文件页列入瑞宝章勋七等类别；完整绶带、章体与钮可见。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "CC0 1.0（Met Open Access）",
+    "dimensions": [
+      925,
+      902
+    ],
+    "sha256": "aaa17386323545388aca652f5e60542ad7a40120a0b1ced08f1f014f4c894d90",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sacred-treasure-image-back": {
+    "page": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_B.JPG",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_442ab_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60333-back.jpg",
+    "summary": "同一Met accession的配套背面照（Met API additionalImages及原站文件地址）；完整绶带与章背均在图。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      925,
+      789
+    ],
+    "sha256": "b30742cb3bacaf32541402f22ddb9c44fb0c8608da2fb352ca550831b17b8b86",
+    "accessed": "2026-09-25"
+  },
+  "jpm-precious-crown-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60233",
+    "summary": "Met藏品06.411a,b：明确题名‘Insignia of the Order of the Precious Crown, Paulownia’，日本，明治时期，19世纪末；整组绶章与副章。",
+    "excerpt": "Insignia of the Order of the Precious Crown, Paulownia; Period: Meiji period (1868–1912); Date: late 19th century; Object Number: 06.411a, b.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-precious-crown-establishment": {
+    "page": "https://www.archives.go.jp/exhibition/digital/ayumi/contents2_02/",
+    "summary": "国立公文书馆记载：明治21年（1888）设置授予有功女性的宝冠章；勋章等級式样于同年勅令规定。",
+    "excerpt": "明治21年（1888）、功労のあった女性に授与される宝冠章 ... が増設されました。",
+    "accessed": "2026-09-25"
+  },
+  "jpm-precious-crown-govt-scope": {
+    "page": "https://www.cao.go.jp/en/pmf/pmf_8.pdf",
+    "summary": "日本内阁府说明宝冠章仅授予女性；未在本批来源中确认此Met对象的具体勋等，故留待核。",
+    "excerpt": "the Orders of the Precious Crown, which are bestowed only on females",
+    "accessed": "2026-09-25"
+  },
+  "jpm-precious-crown-image-front": {
+    "page": "https://www.metmuseum.org/art/collection/search/60233",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-06_411ab-001.jpg",
+    "local_path": "assets/images/japan_meiji/MET-60233-06-411-front.jpg",
+    "summary": "Met原始图像：完整显示宝冠章桐花型绶章及副章的正面全组；未将detail视图误作背面。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      800,
+      1104
+    ],
+    "sha256": "4d16d62a354b7ead201e0ff7a88c46288f144272f58d49cd6bb525554b3d02ba",
+    "accessed": "2026-09-25"
+  },
+  "jpm-golden-kite-establishment": {
+    "page": "https://ndlsearch.ndl.go.jp/rnavi/politics/post_707",
+    "summary": "国立国会图书馆Research Navi将金鵄勋章列为明治23年（1890）创设、授予武功显著军人，并记载1947年废止。",
+    "excerpt": "明治23（1890）年、神武天皇即位2550年を記念して武功抜群の軍人を対象として創設された金鵄勲章",
+    "accessed": "2026-09-25"
+  },
+  "jpm-golden-kite-nara-record": {
+    "page": "https://catalog.archives.gov/id/26433036",
+    "summary": "美国国家档案馆NAID 26433036；题名明确为日本金鵄勋章第七级；摄影记录日期1917–1918；摄影者American Numismatic Co.。该日期是摄影日期，不是授予或制作日期。",
+    "excerpt": "Title: Decorations - Medals - Foreign - Japan. Order of the Golden Kite, 7th class; Photographer: American Numistatic Co.; Date: 1917–1918.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-golden-kite-image": {
+    "page": "https://commons.wikimedia.org/wiki/File:Decorations_-_Medals_-_Foreign_-_Japan._Order_of_the_Golden_Kite,_7th_class_-_NARA_-_26433036.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Decorations_-_Medals_-_Foreign_-_Japan._Order_of_the_Golden_Kite%2C_7th_class_-_NARA_-_26433036.jpg",
+    "local_path": "assets/images/japan_meiji/NARA-Golden-Kite-7th-NAID26433036.jpg",
+    "summary": "NARA完整原始档案照片；版面右侧可见完整绶带、悬挂件与章体正面；未见背面。底片/档案卡拍摄日期1917–1918；非1900年以前实物的直接断代证据。",
+    "artist": "American Numismatic Co.（NARA题签记录）",
+    "license": "Public domain（美国联邦政府职务作品）",
+    "dimensions": [
+      8994,
+      6069
+    ],
+    "sha256": "0e50f1880cc7bb54d253ad397225353d370a497e125c27596bd0fa13f7cced6b",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-object-u-tokyo": {
+    "page": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/be67b1f53a0479040d2e8b99efc6d2fd",
+    "summary": "東京大学総合研究博物館藏品标题为大日本帝国宪法发布纪念章，元数据记载授章日1889-11-29，编著者/授予相关机构标注赏勋局。该对象不同于Met藏品，不据此断定Met对象具体颁发日期。",
+    "excerpt": "大日本帝国憲法発布記念章；（賞勲局）；明治22年（1889）11月29日受章",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-object-met-gold": {
+    "page": "https://www.metmuseum.org/art/collection/search/60341",
+    "summary": "Met藏品06.448，题名Medal，日本，19世纪末；金质，红绶两侧白条；原站提供正背两图并标Public Domain。",
+    "excerpt": "Date: late 19th century; Medium: Gold; red ribbon with white stripe at each side; Object Number: 06.448; Public Domain.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-object-met-silver": {
+    "page": "https://www.metmuseum.org/art/collection/search/60343",
+    "summary": "Met藏品06.449，题名Medal，日本，19世纪末；银质，红绶两侧白条；原站提供正背两图并标Public Domain。",
+    "excerpt": "Date: late 19th century; Medium: Silver; red ribbon with white side stripes; Object Number: 06.449; Public Domain.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-gold-front": {
+    "page": "https://www.metmuseum.org/art/collection/search/60341",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_448_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60341-06-448-front.jpg",
+    "summary": "Met Open Access 原始正面图；完整章体、挂环及绶带均在图内。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      740,
+      925
+    ],
+    "sha256": "b00c467d2ab01fd9fba3bffd346407be129914388897cc241f83a37e2d0061d4",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-gold-back": {
+    "page": "https://www.metmuseum.org/art/collection/search/60341",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_448_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60341-06-448-back.jpg",
+    "summary": "Met Open Access 同一藏品06.448原始背面图；经视觉查看确认与正面为同一件完整奖章。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      860,
+      925
+    ],
+    "sha256": "98891f65c385cd60c645f628ebd5881537c24c84b156b4ea45837cef38af26e4",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-silver-front": {
+    "page": "https://www.metmuseum.org/art/collection/search/60343",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_449_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60343-06-449-front.jpg",
+    "summary": "Met Open Access 原始正面图；完整章体、挂环及绶带均在图内。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      766,
+      925
+    ],
+    "sha256": "836d1908106faea47fee7c581f99e172dba3602e771aa5cd3a7935d7eb80e7ef",
+    "accessed": "2026-09-25"
+  },
+  "jpm-constitution-silver-back": {
+    "page": "https://www.metmuseum.org/art/collection/search/60343",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_449_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60343-06-449-back.jpg",
+    "summary": "Met Open Access 同一藏品06.449原始背面图；经视觉查看确认与正面为同一件完整奖章。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      788,
+      925
+    ],
+    "sha256": "62c23e5eb58e6e6a7ba0aa8596276d25e5cbac4db03ebe1dd02720f9ef739bcf",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sino-campaign-archives": {
+    "page": "https://jpsearch.go.jp/item/najda-7Pjzt8VYTbv0Ug1o00882100",
+    "summary": "日本国立公文书馆数字档案编目：明治二十七、八年従軍記章授付决裁录，证明国家授付体系和章名；本条未取得可用完整章体图片。",
+    "excerpt": "明治２７、８年従軍記章授付決裁録・第５８４２号～第９１６３号",
+    "accessed": "2026-09-25"
+  },
+  "jpm-sino-medal-museum-catalogue": {
+    "page": "https://www.taharamuseum.gr.jp/exhibition/2015/ex150718/index3.html",
+    "summary": "田原市博物馆展览目录列示日清战争従軍记章，1895（明治28）年；作为名称/时期交叉线索，待核条例原件。",
+    "excerpt": "日清戦争従軍記章 1895（明治28）年",
+    "accessed": "2026-09-25"
+  },
+  "jpm-boxer-met-object": {
+    "page": "https://www.metmuseum.org/art/collection/search/60355",
+    "summary": "Met藏品06.456，Japan / Meiji period，青铜质、绿绶白条，19世纪末；Met提供原始正背照片并声明Public Domain。Commons文件类别将这一藏品识别为日本Boxer Rebellion Medal。",
+    "excerpt": "Object Number: 06.456; Culture: Japan; Period: Meiji period (1868–1912); Date: late 19th century; Medium: Bronze; green with white stripes.",
+    "accessed": "2026-09-25"
+  },
+  "jpm-boxer-met-front": {
+    "page": "https://commons.wikimedia.org/wiki/Category:Boxer_Rebellion_Medal_(Japan)",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_456_F.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60355-06-456-front.jpg",
+    "summary": "Met原始正面照片；Commons类别将Met 06.456归入日本义和团事变从军章；人工查看确认章体、悬挂结构和绶带完整。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      810,
+      925
+    ],
+    "sha256": "a87dd1680717db189c4f8d24daa35af90e998b7029079d7b038fd89df895bda1",
+    "accessed": "2026-09-25"
+  },
+  "jpm-boxer-met-back": {
+    "page": "https://commons.wikimedia.org/wiki/Category:Boxer_Rebellion_Medal_(Japan)",
+    "image_url": "https://images.metmuseum.org/CRDImages/as/original/06_456_B.JPG",
+    "local_path": "assets/images/japan_meiji/MET-60355-06-456-back.jpg",
+    "summary": "同一Met accession 06.456配套原始背面照片；可辨背文「明治三十三年従軍記章」；章体与照片完整。",
+    "artist": "The Metropolitan Museum of Art（摄影者未标）",
+    "license": "The Met Open Access / Public Domain",
+    "dimensions": [
+      788,
+      925
+    ],
+    "sha256": "7bfa69864a13de517a7c159b4e7bdb13a8f2df87006e1c59beb7cf4fb9d80257",
+    "accessed": "2026-09-25"
+  },
+  "jpm-boxer-authoritative-register": {
+    "page": "https://www.digital.archives.go.jp/file/1926703",
+    "summary": "国立公文书馆案卷涉及明治二十七、八年战役后各奖项及従軍记章裁可，年代范围含明治三十二至三十七年；其中可见「明治三十三年清国事件」记录。支持作为正式授记制度/相关战役档案，但没有完整显示该特定条例全文。",
+    "excerpt": "各種戦役行賞並従軍記章裁可書；明治三十三年清国事件",
+    "accessed": "2026-09-25"
+  },
+  "jpm-boxer-regulation": {
+    "page": "https://search.showakan.go.jp/search/book/detail.php?material_cord=000000161",
+    "summary": "昭和馆数字档案所藏海军法规汇编目录列有「明治三十三年従軍記章条例」；法规汇编目录为条例名称的权威编目线索，精确勅令日期记于明治35年勅令第142号。",
+    "excerpt": "明治三十三年従軍記章条例",
+    "accessed": "2026-09-25"
+  },
+  "jpm-russo-object-toyota": {
+    "page": "https://jmapps.ne.jp/toyotacitymuseum/det.html?data_id=13773",
+    "image_url": "https://ibmuseum.mapps.ne.jp/files/toyotacitymuseum/media_files/large/5328.jpg?dt=20260925",
+    "summary": "丰田市博物馆目录记录明治三十七八年従軍记章实物；图像查看器故障，原始大图请求以连接EOF失败，未保存、未作图像使用。页面未见明确再利用许可，照片待补。",
+    "license": "网页未见明确再利用许可；无文件保存",
+    "accessed": "2026-09-25"
+  },
+  "jpm-russo-national-register": {
+    "page": "https://jpsearch.go.jp/item/najda-7Pjzt8VYTbv0Ug1o00786100",
+    "summary": "Japan Search汇集的国立公文书馆记录列出明治三十七、八年従軍记章原簿，提供同期授给名册的目录依据。",
+    "excerpt": "明治三十七、八年従軍記章原簿",
+    "accessed": "2026-09-25"
+  }
+}

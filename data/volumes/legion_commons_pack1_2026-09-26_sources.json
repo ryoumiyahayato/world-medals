@@ -1,0 +1,88 @@
+{
+  "as_of": "2026-09-26",
+  "source_atlas_entry": {
+    "source_id": "commons-national-order-category",
+    "page": "https://commons.wikimedia.org/wiki/Category:National_Order_of_the_Legion_of_Honour",
+    "source_type": "Wikimedia Commons category tree",
+    "accessed": "2026-09-26",
+    "role": "批量发现第一帝国各型、复辟、七月王朝、共和国模型文件；本包从其中的 Evolution 总图版领取七个时期面板。"
+  },
+  "samlhoc-legion-first-empire": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_1_empire/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/07_legion_honneur_croix_1_empire.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26",
+    "summary": "用于第一帝国模型家族和年代背景；开放许可图像只采用 Commons 文件。"
+  },
+  "samlhoc-legion-restoration": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_restauration/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/10_legion_honneur_croix_2_restauration.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "samlhoc-legion-july-monarchy": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_monarchie_juillet/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/15_legion_honneur_croix_monarchie_juillet.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "samlhoc-legion-second-republic": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_republique/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/09_legion_honneur_croix_2_republique.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "samlhoc-legion-second-empire": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_2_empire/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/08_legion_honneur_croix_2_empire.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "samlhoc-legion-third-republic": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_3_republique/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/11_legion_honneur_croix_3_republique.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "samlhoc-legion-fourth-fifth-republic": {
+    "page": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/legion_honneur_croix_5_republique/",
+    "local_cache": "sources/cache/france_samlhoc_legion_honour/pages/12_legion_honneur_croix_5_republique.html",
+    "source_type": "法国勋章专业目录页（制度／型制辅助核对）",
+    "accessed": "2026-09-26"
+  },
+  "commons-legion-evolution": {
+    "page": "https://commons.wikimedia.org/wiki/File:Legion_d%E2%80%99Honneur_Evolution.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Legion_d%E2%80%99Honneur_Evolution.png",
+    "api_source": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3ALegion_d%E2%80%99Honneur_Evolution.png&prop=imageinfo&iiprop=url%7Csize%7Cmime%7Cextmetadata%7Csha1&format=json",
+    "author": "GrafVonEbbell",
+    "license": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "description": "Examples of the reverse and obverse of all badges and stars of the French Legion d’Honneur from the First Empire, Bourbon Restoration, July Monarchy, Second Republic, Second Empire, Third Republic and Fourth and Fifth Republic.",
+    "category": "Insignia of the Legion of Honour",
+    "accessed": "2026-09-26",
+    "source_dimensions": [13773, 3547],
+    "download_route": "https://commons.wikimedia.org/wiki/Special:FilePath/Legion_d%E2%80%99Honneur_Evolution.png?width=5000",
+    "downloaded_file": "originals/legion_commons_pack1_2026-09-26/legion-evolution-5000.png",
+    "local_dimensions": [3840, 989],
+    "download_note": "本地保存的是 Commons Special:FilePath width=5000 返回的完整总图派生文件，保留所有七个时期面板；源文件原始尺寸已记录，后续可无损替换。",
+    "sha256": "00c89ebaf04b01076e54ebf9de60b2b686f55bb3146dfd8576ece100c37ce77f",
+    "visual_check": "已实际查看完整总图；七个时期均显示顶部正、背挂章和下方胸星，图版完整，没有用搜索预览。"
+  },
+  "panel_crops": {
+    "method": "从本地完整总图按像素矩形裁取，不放大插值；保存总图和每个裁取文件。",
+    "panels": [
+      {"period": "First Empire", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-first-empire-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-first-empire-panel.png", "region": [80, 15, 430, 760], "dimensions": [430, 760], "sha256": "4fcad90c9f47aca822448a6a5970270cfb282d9afac38922e5567badd46b30d3", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "Bourbon Restoration", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-bourbon-restoration-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-bourbon-restoration-panel.png", "region": [605, 15, 425, 760], "dimensions": [425, 760], "sha256": "8aad1c1918fac8365b5a7ac90b2fec0972c22af16b6da9360da3f1b65e4be325", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "July Monarchy", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-july-monarchy-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-july-monarchy-panel.png", "region": [1125, 15, 440, 760], "dimensions": [440, 760], "sha256": "2369f9750779e075f9ec04cdea376f7eb87e48e7bcd52f1652332830dc2f9e7b", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "Second Republic", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-second-republic-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-second-republic-panel.png", "region": [1655, 15, 450, 760], "dimensions": [450, 760], "sha256": "68f60535dde2e39236124058103c8e2ac4b1e324877b2d54430ada526c72f2b6", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "Second Empire", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-second-empire-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-second-empire-panel.png", "region": [2200, 15, 450, 760], "dimensions": [450, 760], "sha256": "028f40c5480dfe419bfe829fc7236cdb38587615a5d4814dc75c20929b82c4b7", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "Third Republic", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-third-republic-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-third-republic-panel.png", "region": [2750, 15, 450, 760], "dimensions": [450, 760], "sha256": "5b409c80ce0daf32501c7c3628fad27eda287826b8355443a8b52db52e6ee237", "visual_check": "正背挂章及下方胸星均完整。"},
+      {"period": "Fourth and Fifth Republic", "file": "assets/images/legion_commons_pack1_2026-09-26/evolution-fourth-fifth-republic-panel.png", "original_file": "originals/legion_commons_pack1_2026-09-26/evolution-fourth-fifth-republic-panel.png", "region": [3295, 15, 470, 760], "dimensions": [470, 760], "sha256": "09a3407edcef270992216ffab211163f0865d40b54dd301cc22601d4e82674ce", "visual_check": "正背挂章及下方胸星均完整。"}
+    ]
+  },
+  "excluded_or_research_only": {
+    "first-empire-1st-obverse": {"page": "https://commons.wikimedia.org/wiki/File:1st_Empire_1st_Type_Obverse.png", "license": "CC BY-SA 4.0", "local_file": "assets/images/legion_commons_pack1_2026-09-26/first-empire-1st-obverse.png", "reason": "中央圆章局部，不计正式模型组行。"},
+    "first-empire-1st-reverse": {"page": "https://commons.wikimedia.org/wiki/File:1st_Empire_1st_Type_Reverse.png", "license": "CC BY-SA 4.0", "local_file": "assets/images/legion_commons_pack1_2026-09-26/first-empire-1st-reverse.png", "reason": "中央圆章局部，不计正式模型组行。"},
+    "first-empire-5th-crown": {"page": "https://commons.wikimedia.org/wiki/File:1st_Empire_5th_Type_Crown.png", "license": "CC BY-SA 4.0", "local_file": "assets/images/legion_commons_pack1_2026-09-26/first-empire-5th-crown.png", "reason": "冠饰局部，不计正式模型组行。"}
+  }
+}

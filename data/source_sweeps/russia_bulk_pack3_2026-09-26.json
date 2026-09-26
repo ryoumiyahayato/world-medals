@@ -1,0 +1,66 @@
+{
+  "as_of": "2026-09-26",
+  "sweep_id": "russia_bulk_pack3_2026-09-26",
+  "scope": "从既有Mondvor苏联55枚奖章目录选取10个不同候选，并读取各自Commons直接分类列表；未进入领奖者子分类，未逐一复核所有类别媒体页。",
+  "source_directory": {
+    "source_id": "mondvor_ussr_medal_index",
+    "url": "https://mondvor.narod.ru/medpage.htm",
+    "candidate_inventory_size": 55,
+    "selected_source_record_ids": [
+      "USSR-MEDAL-05",
+      "USSR-MEDAL-13",
+      "USSR-MEDAL-15",
+      "USSR-MEDAL-16",
+      "USSR-MEDAL-17",
+      "USSR-MEDAL-20",
+      "USSR-MEDAL-21",
+      "USSR-MEDAL-22",
+      "USSR-MEDAL-23",
+      "USSR-MEDAL-26"
+    ],
+    "status": "10_existing_candidates_selected_from_previously_ingested_directory; no full re-read"
+  },
+  "commons_category_coverage": {
+    "planned_category_count": 10,
+    "direct_category_listings_read": 10,
+    "direct_media_items_enumerated": 228,
+    "imageinfo_metadata_queried_for_candidates": 11,
+    "individual_media_file_pages_visually_reviewed": 4,
+    "selected_image_original_download_attempts": 10,
+    "original_downloads_successful": 4,
+    "original_downloads_blocked_by_429": 6,
+    "status": "direct category listings complete; full per-file review, subcategory sweep, and selected image acquisition remain partial"
+  },
+  "categories": [
+    {"family_id":"USSR-MED-05","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_Battle_Merit%22","direct_file_count":28,"status":"listing_read; candidate_file_review_partial"},
+    {"family_id":"USSR-MED-13","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_Leningrad%22","direct_file_count":40,"status":"listing_read; candidate_file_review_partial"},
+    {"family_id":"USSR-MED-15","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_Odessa%22","direct_file_count":14,"status":"listing_read; candidate_file_review_partial"},
+    {"family_id":"USSR-MED-16","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_Sevastopol%22","direct_file_count":12,"status":"listing_read; image nature unresolved"},
+    {"family_id":"USSR-MED-17","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_Stalingrad%22","direct_file_count":16,"status":"listing_read; selected front photo passed visual review"},
+    {"family_id":"USSR-MED-20","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Defence_of_the_Soviet_Transarctic%22","direct_file_count":12,"status":"listing_read; candidate image download blocked by 429"},
+    {"family_id":"USSR-MED-23","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Capture_of_Budapest%22","direct_file_count":8,"status":"listing_read; candidate image download blocked by 429"},
+    {"family_id":"USSR-MED-26","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Capture_of_Berlin%22","direct_file_count":17,"status":"listing_read; candidate image download blocked by 429"},
+    {"family_id":"USSR-MED-21","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941%E2%80%931945%22","direct_file_count":68,"status":"listing_read; candidate image download blocked by 429"},
+    {"family_id":"USSR-MED-22","category_url":"https://commons.wikimedia.org/wiki/Category:Medal_%22For_the_Victory_over_Japan%22","direct_file_count":13,"status":"listing_read; selected front photo passed visual review"}
+  ],
+  "official_or_archive_date_sources": [
+    {"supports":"USSR-MED-05; establishment date 1938-10-17","url":"https://docs.historyrussia.org/nodes/92074","summary":"Document catalogue record for the regulation on Medal For Battle Merit; title identifies Presidium decree dated 1938-10-17."},
+    {"supports":"USSR-MED-13, USSR-MED-15, USSR-MED-16, USSR-MED-17; establishment date 1942-12-22","url":"https://docs.historyrussia.org/ru/nodes/300556","summary":"Archive catalogue record for the decree establishing the Leningrad, Odessa, Sevastopol, and Stalingrad defense medals; record cites GARF original, file 7523/4/115/10."},
+    {"supports":"USSR-MED-20; establishment date 1944-12-05","url":"https://docs.historyrussia.org/ru/nodes/206422","summary":"History of Russia document catalogue record for the Presidium decree establishing the Soviet Transarctic defense medal."},
+    {"supports":"USSR-MED-23 and USSR-MED-26; establishment date 1945-06-09","url":"https://www.prlib.ru/item/2042162","summary":"Presidential Library record for the Presidium decree establishing the Budapest, Koenigsberg, Vienna, and Berlin capture medals."},
+    {"supports":"USSR-MED-21; establishment date 1945-05-09","url":"https://docs.historyrussia.org/ru/nodes/181406","summary":"Document catalogue record for the Presidium decree establishing the Victory over Germany medal."},
+    {"supports":"USSR-MED-22; establishment date 1945-09-30","url":"https://base.garant.ru/57500940/5ac206a89ea76855804609cd950fcaf7/","summary":"Legal-text record for the Presidium decree establishing the Victory over Japan medal."}
+  ],
+  "cache_status": {
+    "new_category_html_cached": false,
+    "new_selected_file_page_html_cached": false,
+    "metadata_source": "Commons MediaWiki API imageinfo; page URLs retained for parent review",
+    "official_document_pages": "read via web search/open; no local HTML or scan cached in this pack"
+  },
+  "notes": [
+    "直接分类媒体文件数合计228；此数不包含领奖者子分类，也不等于228个独立章种。",
+    "类别元数据中单独绶带、邮票、证书、人物奖品陈列等均不据此自动转为章体图。",
+    "六个原始媒体下载返回HTTP 429；按限速要求停止重试并转隔离候选，不以缩略图替代原图。",
+    "一个标题看似战功奖章的文件实际为手写授奖材料；已排除。"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source": "campmedals_ottoman",
+  "status": "failed_access",
+  "started_at": "2026-09-26T10:18:00+08:00",
+  "completed_at": "2026-09-26T10:21:00+08:00",
+  "planned": [
+    "Wayback campmedals.htm snapshot discovery",
+    "campmedals.htm all campaign-medal child pages",
+    "page titles, dates, class/material clues, image/page URLs"
+  ],
+  "processed": [],
+  "failed": [
+    {
+      "url": "https://web.archive.org/web/20120505023021/http://www.turkishmedals.net/campmedals.htm",
+      "stage": "root snapshot fetch",
+      "error": "curl timeout while connecting to web.archive.org:443 after 20 seconds",
+      "attempted_at": "2026-09-26T10:20:00+08:00"
+    }
+  ],
+  "remaining": [
+    "Retry Wayback root when host is reachable",
+    "Enumerate every internal campaign-medal child page and fetch each once",
+    "Extract raw candidates only from opened pages"
+  ],
+  "candidate_file": "data/raw_candidates/campmedals_ottoman.jsonl",
+  "cache_root": "sources/pages/",
+  "notes": [
+    "No HTML, image, or child-page bytes were obtained; no candidate facts asserted.",
+    "The failure is isolated to the Wayback host and does not imply the archive is empty."
+  ]
+}

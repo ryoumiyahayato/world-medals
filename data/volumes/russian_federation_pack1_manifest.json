@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-09-26",
+  "volume": "俄罗斯联邦：来源优先首包",
+  "records_file": "data/volumes/russian_federation_pack1.json",
+  "image_directory": "assets/images/russia_pack1/",
+  "counts": {
+    "distinct_award_families": 2,
+    "variant_rows": 3,
+    "complete_image_files": 3
+  },
+  "images": [
+    {
+      "view_key": "RUS-IMG-06-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-06.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Med2b.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Med2b.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "width": 320,
+      "height": 560,
+      "sha256": "4c6b152e6484975e0b88a801fff70daeac98e01db57fde8089d94c149ca1d3bc",
+      "license": "PD-RU-exempt",
+      "creator": "未署名（Commons页面Author留空）"
+    },
+    {
+      "view_key": "RUS-IMG-04-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-04.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_1st_%D0%A1lass_%28Russia%29.png",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Medal_%22For_Bravery%22_1st_%D0%A1lass_%28Russia%29.png?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "width": 228,
+      "height": 409,
+      "sha256": "90cd8c6c33b9c76680b4584e3a2c1699616ddbaaa3c092d254f90317e22b200f",
+      "license": "PD-RU-exempt",
+      "creator": "Администрация Президента Российской Федерации"
+    },
+    {
+      "view_key": "RUS-IMG-05-VIEW",
+      "local_path": "assets/images/russia_pack1/rus-img-05.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Medal_%22For_Bravery%22_2nd_%D0%A1lass_%28Russia%29.png",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Medal_%22For_Bravery%22_2nd_%D0%A1lass_%28Russia%29.png?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+      "width": 228,
+      "height": 409,
+      "sha256": "e420394ca96875be44787a9cdcd272416d6fa8f983f224b9a2b0e12e2b205121",
+      "license": "PD-RU-exempt",
+      "creator": "Администрация Президента Российской Федерации"
+    }
+  ]
+}

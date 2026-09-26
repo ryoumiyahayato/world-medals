@@ -1,0 +1,1692 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-26",
+  "workflow": "AUTONOMOUS_SOURCE_DISCOVERY_V2",
+  "source_count": 57,
+  "coverage": {
+    "planned": 57,
+    "completed": 24,
+    "partial": 8,
+    "blocked": 11,
+    "not_started": 14
+  },
+  "scopes": [
+    {
+      "scope_id": "egypt",
+      "scope_label": "Egypt — Khedivate, Sultanate, Kingdom, Republic and UAR periods",
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json",
+      "coverage": {
+        "planned": 5,
+        "completed": 2,
+        "partial": 1,
+        "blocked": 0,
+        "not_started": 2
+      },
+      "next_action": "Normalize the 27 listed OMSA Egypt award rows against Wawards and Presidency records; keep the 2 uncertain dynastic mentions separate and locate permitted object/front images for the 1 reverse-only figure reference."
+    },
+    {
+      "scope_id": "france_second_third_republic",
+      "scope_label": "France, central state and national institutions",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "coverage": null,
+      "next_action": null
+    },
+    {
+      "scope_id": "german_states",
+      "scope_label": "german_states",
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json",
+      "coverage": {
+        "state_pages_discovered": 39,
+        "state_pages_cached": 6,
+        "state_pages_card_swept": 1,
+        "listed_items_total": 1739,
+        "prussia_cards_swept": 345,
+        "raw_candidates_written": 345,
+        "formal_records_created": 0,
+        "images_downloaded": 0,
+        "state_award_pages_in_scope": 34,
+        "index_listed_items_total": 1739,
+        "in_scope_listed_items_total": 685,
+        "related_non_state_pages_excluded": 3,
+        "dhm_catalog_pages": 8,
+        "dhm_catalog_cards_total": 159,
+        "dhm_german_candidates": 63,
+        "dhm_object_pages_cached": 63,
+        "dhm_formal_records_created": 0,
+        "dhm_images_downloaded": 0,
+        "alternative_bavaria_cards": 60
+      },
+      "next_action": null
+    },
+    {
+      "scope_id": "japan_meiji_taisho",
+      "scope_label": "japan_meiji_taisho",
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json",
+      "coverage": null,
+      "next_action": null
+    },
+    {
+      "scope_id": "ottoman_empire",
+      "scope_label": "Ottoman Empire / historical Turkey",
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "coverage": {
+        "planned": 17,
+        "completed": 9,
+        "partial": 3,
+        "blocked": 4,
+        "not_started": 1
+      },
+      "next_action": "Cross-source normalize/dedupe the 2744 raw rows, then batch-bind Commons, eMedals, Künker and SALT images. Discover a concrete Spink archive entry autonomously rather than asking the user for a seed."
+    },
+    {
+      "scope_id": "sudan",
+      "scope_label": "Sudan — colonial/condominium services and independent republic",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "coverage": {
+        "planned": 5,
+        "completed": 1,
+        "partial": 2,
+        "blocked": 2,
+        "not_started": 0
+      },
+      "next_action": "Resolve the single malformed MedalBook object URL and Wawards dead link through alternate sources; retry Commons only after rate-limit state changes. Continue institutional corroboration and rights review for the 17 visually complete frontal image selections."
+    }
+  ],
+  "sources": [
+    {
+      "id": "bayerisches-armeemuseum-official",
+      "name": "Bayerisches Armeemuseum official object pages",
+      "source_type": "official state museum object page",
+      "url": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+      "priority_score": 9,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2.2,
+        "access": 1,
+        "coverage": 2.8
+      },
+      "access": {
+        "status": "ssl_fetch_failed",
+        "checked": "2026-09-26",
+        "error": "The SSL connection could not be established; source URL retained from existing Bavaria source notes"
+      },
+      "coverage": {
+        "known_lead": "Militär-Verdienstorden Komturkreuz, Inv. N 3165; object-level follow-up pending"
+      },
+      "notes": "Official Bavarian authority; do not substitute commercial description if page remains inaccessible.",
+      "source_id": "bayerisches-armeemuseum-official",
+      "source_name": "Bayerisches Armeemuseum official object pages",
+      "base_url": "https://armeemuseum.de/de/aktuell/objekt-des-monats/1013-objekt-komturkreuz-mvo.html",
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "source_id": "bogazici_ottoman",
+      "source_name": "Boğaziçi University Digital Archive supplied record",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "blocked",
+      "source_status_detail": "blocked_by_access_control",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/bogazici_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "commons_egypt_awards",
+      "source_name": "Wikimedia Commons Egypt orders and medals category tree",
+      "base_url": "https://commons.wikimedia.org/",
+      "source_type": "commons",
+      "languages": [
+        "multilingual"
+      ],
+      "regions_or_polities": [
+        "Egypt"
+      ],
+      "date_coverage": "all",
+      "content_coverage": "Category-tree discovery and open image candidates",
+      "has_images": true,
+      "image_quality_notes": "Original files and licenses available per file page.",
+      "has_pagination": true,
+      "download_method": "direct",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "egypt"
+      ],
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json"
+    },
+    {
+      "source_id": "commons_ottoman",
+      "source_name": "Wikimedia Commons Ottoman category tree",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete_with_one_failed_person_category",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/commons_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "commons_sudan_awards",
+      "source_name": "Wikimedia Commons Sudan orders and medals category tree",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Sudan",
+      "source_type": "commons",
+      "languages": [
+        "multilingual"
+      ],
+      "regions_or_polities": [
+        "Sudan"
+      ],
+      "date_coverage": "20th–21st century",
+      "content_coverage": "Category tree, file pages and original open files",
+      "has_images": true,
+      "image_quality_notes": "Original files and license data available per file page.",
+      "has_pagination": true,
+      "download_method": "direct",
+      "priority": 2,
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "notes": "Recursive API sweep received HTTP 429 on the seed category; exact retry point saved without repeated requests.",
+      "sweep_file": "data/source_sweeps/commons_sudan.json",
+      "scope_ids": [
+        "sudan"
+      ],
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json"
+    },
+    {
+      "id": "dhm-awards-collection",
+      "name": "Deutsches Historisches Museum Militaria / Auszeichnungen",
+      "source_type": "official museum collection overview",
+      "url": "https://www.dhm.de/archiv/sammlungen/militaria/orden.html",
+      "priority_score": 9.4,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2,
+        "access": 2,
+        "coverage": 2.4
+      },
+      "access": {
+        "status": "cached",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/dhm_auszeichnungen.html"
+      },
+      "coverage": {
+        "museum_statement": "approximately 8,000 awards; historic territorial-state holdings and more than 500 historical orders/decorations highlighted",
+        "object_sweep_status": "not yet object-swept"
+      },
+      "notes": "High-priority institutional authority for German territorial awards; image rights and object-level access must be checked per item.",
+      "source_id": "dhm-awards-collection",
+      "source_name": "Deutsches Historisches Museum Militaria / Auszeichnungen",
+      "base_url": "https://www.dhm.de/archiv/sammlungen/militaria/orden.html",
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "dhm-historical-order-catalogue",
+      "name": "DHM historical order collection catalogue/history pages",
+      "source_type": "digitized historical catalogue",
+      "url": "https://www.dhm.de/archiv/magazine/orden/geschichte_ausbau.htm",
+      "priority_score": 8.9,
+      "score_basis": {
+        "authority": 3,
+        "scope": 1.8,
+        "access": 2,
+        "coverage": 2.1
+      },
+      "access": {
+        "status": "swept_object_index",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/dhm_catalog_history.html"
+      },
+      "coverage": {
+        "illustrated_catalogue": "historical German orders and decorations; chapter/page sweep pending",
+        "catalog_pages": 8,
+        "catalog_cards_total": 159,
+        "german_target_cards": 63,
+        "object_pages_cached": 63,
+        "object_image_links": 66,
+        "original_images_downloaded": 0
+      },
+      "notes": "Old DHM catalogue pages and all retained German-state object links were cached; historical plate links are leads only.",
+      "source_id": "dhm-historical-order-catalogue",
+      "source_name": "DHM historical order collection catalogue/history pages",
+      "base_url": "https://www.dhm.de/archiv/magazine/orden/geschichte_ausbau.htm",
+      "status": "not_started",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "dhm-lemo-pour-le-merite",
+      "name": "DHM LeMO illustrated object page (Prussian reference)",
+      "source_type": "official illustrated object page",
+      "url": "https://www.dhm.de/lemo/bestand/objekt/ab2934",
+      "priority_score": 9,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2,
+        "access": 2,
+        "coverage": 2
+      },
+      "access": {
+        "status": "cached",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/dhm_lemo_pour_le_merite_ab2934.html"
+      },
+      "coverage": {
+        "objects": 1,
+        "award": "Pour le Mérite Grand Cross star with oak leaves; image rights request noted by DHM"
+      },
+      "notes": "Specific object lead; source page does not automatically grant image reuse.",
+      "source_id": "dhm-lemo-pour-le-merite",
+      "source_name": "DHM LeMO illustrated object page (Prussian reference)",
+      "base_url": "https://www.dhm.de/lemo/bestand/objekt/ab2934",
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "dhm-militaria-collection",
+      "name": "Deutsches Historisches Museum Militaria collection",
+      "source_type": "official museum collection overview",
+      "url": "https://www.dhm.de/archiv/sammlungen/militaria/index.html",
+      "priority_score": 9.1,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2,
+        "access": 2,
+        "coverage": 2.1
+      },
+      "access": {
+        "status": "cached",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/dhm_militaria.html"
+      },
+      "coverage": {
+        "domain": "German military objects, uniforms, flags, orders and decorations; object-level sweep pending"
+      },
+      "notes": "Context and collection boundary; not itself an object record.",
+      "source_id": "dhm-militaria-collection",
+      "source_name": "Deutsches Historisches Museum Militaria collection",
+      "base_url": "https://www.dhm.de/archiv/sammlungen/militaria/index.html",
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "dhm-object-database",
+      "name": "DHM expanded object database",
+      "source_type": "official museum object database",
+      "url": "https://db.dhm.de",
+      "priority_score": 9.6,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2.2,
+        "access": 2,
+        "coverage": 2.4
+      },
+      "access": {
+        "status": "blocked_pow",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/dhm_object_database.html",
+        "error": "Landing returned Service Status - Proof-of-Work; no query was executed."
+      },
+      "coverage": {
+        "database_claim": "large public object database; German territorial awards search pending",
+        "search_results": 0,
+        "object_pages_opened": 0
+      },
+      "notes": "Next high-priority object-level search source.",
+      "source_id": "dhm-object-database",
+      "source_name": "DHM expanded object database",
+      "base_url": "https://db.dhm.de",
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "source_id": "egypt_abdeen_medals_museum",
+      "source_name": "Abdeen Palace medals and decorations museum",
+      "base_url": "https://www.presidency.eg/en/القصور-الرئاسية/قصر-عابدين/",
+      "source_type": "museum",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "regions_or_polities": [
+        "Egypt"
+      ],
+      "date_coverage": "Royal and republican holdings",
+      "content_coverage": "Institutional museum description; collection catalogue discovery target",
+      "has_images": false,
+      "image_quality_notes": "No object-level medal catalogue confirmed yet.",
+      "has_pagination": false,
+      "download_method": "unknown",
+      "priority": 2,
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "coverage_detail": "Recursively scanned 16 in-scope award category pages: 102 category memberships, 99 unique files. Cached 19 selected file-description pages with original URLs, dimensions and licence metadata. All 19 original downloads were blocked by HTTP 429 Retry-After 600; no thumbnail substitutes accepted.",
+      "sweep_file": "data/source_sweeps/egypt_commons_awards.json",
+      "image_harvest_file": "data/image_harvest/egypt_commons_awards_batch1.json",
+      "scope_ids": [
+        "egypt"
+      ],
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json"
+    },
+    {
+      "source_id": "egypt_presidency_honours",
+      "source_name": "Presidency of Egypt — Medals and Decorations",
+      "base_url": "https://www.presidency.eg/en/الرئاسة/ميداليات-وأوسمة/",
+      "source_type": "official",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "regions_or_polities": [
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "Republic period",
+      "content_coverage": "Official descriptions and grade structures; Republic and Merit pages already identified",
+      "has_images": true,
+      "image_quality_notes": "Official diagrams or site images; full grade completeness not yet verified.",
+      "has_pagination": false,
+      "download_method": "page_image",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "coverage_result": "3 language category captures; 11 award families; 22 Arabic/English detail captures; no failed detail pages.",
+      "sweep_file": "data/source_sweeps/egypt_presidency_honours.json",
+      "notes": "Visible award detail set exhausted through category and internal-link discovery. Page-image URLs were site chrome only, so no object image was accepted.",
+      "scope_ids": [
+        "egypt"
+      ],
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json"
+    },
+    {
+      "source_id": "emedals_ottoman",
+      "source_name": "eMedals Turkey collections, orders and medals",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/emedals_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "id": "FR-CHEMINS-DE-MEMOIRE",
+      "title": "Les médailles commémoratives françaises",
+      "kind": "official_defense_history",
+      "url": "https://www.cheminsdememoire.gouv.fr/fr/les-medailles-commemoratives-francaises",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "Official historical overview and campaign-medal chronology",
+      "score": 15,
+      "source_id": "FR-CHEMINS-DE-MEMOIRE",
+      "source_name": "Les médailles commémoratives françaises",
+      "base_url": "https://www.cheminsdememoire.gouv.fr/fr/les-medailles-commemoratives-francaises",
+      "source_type": "official_defense_history",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-GALLICA",
+      "title": "Gallica / Bibliothèque nationale de France",
+      "kind": "national_library_scanned_catalogues",
+      "url": "https://gallica.bnf.fr/",
+      "access": "discovery_entry_point",
+      "status": "not_started",
+      "coverage": "Historical legislation, catalogues and illustrated works for physical types",
+      "score": 15,
+      "source_id": "FR-GALLICA",
+      "source_name": "Gallica / Bibliothèque nationale de France",
+      "base_url": "https://gallica.bnf.fr/",
+      "source_type": "national_library_scanned_catalogues",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-LEGIFRANCE",
+      "title": "Légifrance",
+      "kind": "official_legal_database",
+      "url": "https://www.legifrance.gouv.fr/",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "Primary legal texts and amendments for 1852–1940 awards",
+      "score": 18,
+      "source_id": "FR-LEGIFRANCE",
+      "source_name": "Légifrance",
+      "base_url": "https://www.legifrance.gouv.fr/",
+      "source_type": "official_legal_database",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-MONNAIE-DE-PARIS",
+      "title": "Collections patrimoniales de la Monnaie de Paris",
+      "kind": "official_mint_collection",
+      "url": "https://collectionspatrimoniales.monnaiedeparis.fr/fr/",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "Mint objects, designers, materials and accession references",
+      "score": 17,
+      "source_id": "FR-MONNAIE-DE-PARIS",
+      "source_name": "Collections patrimoniales de la Monnaie de Paris",
+      "base_url": "https://collectionspatrimoniales.monnaiedeparis.fr/fr/",
+      "source_type": "official_mint_collection",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-OFFICIAL-CHANCERY-TIMELINE",
+      "title": "La France | La grande chancellerie",
+      "kind": "official_institutional_timeline",
+      "url": "https://www.legiondhonneur.fr/fr/la-france-frise",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "National orders, Médaille militaire, Second Empire campaign medals, Third Republic colonial commemoratives",
+      "score": 15,
+      "source_id": "FR-OFFICIAL-CHANCERY-TIMELINE",
+      "source_name": "La France | La grande chancellerie",
+      "base_url": "https://www.legiondhonneur.fr/fr/la-france-frise",
+      "source_type": "official_institutional_timeline",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-OFFICIAL-COMMEMORATIVE-PDF",
+      "title": "Les médailles commémoratives",
+      "kind": "official_museum_catalogue_pdf",
+      "url": "https://www.legiondhonneur.fr/sites/default/files/les_mcdailles_commcmoratives_.pdf",
+      "access": "cached_download_and_rendered",
+      "status": "completed",
+      "coverage": "All pages: Second Empire campaign medals and Third Republic 1870, Tonkin, Madagascar, Dahomey, China, Morocco and WWI groups",
+      "score": 19,
+      "cache_path": "sources/cache/france_second_third_republic/les_medaille_commemoratives_francaises.pdf",
+      "source_id": "FR-OFFICIAL-COMMEMORATIVE-PDF",
+      "source_name": "Les médailles commémoratives",
+      "base_url": "https://www.legiondhonneur.fr/sites/default/files/les_mcdailles_commcmoratives_.pdf",
+      "source_type": "official_museum_catalogue_pdf",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-PARIS-MUSEES",
+      "title": "Paris Musées Collections",
+      "kind": "public_museum_collection",
+      "url": "https://www.parismuseescollections.paris.fr/en/",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "Open-license and accessioned French award objects, especially Third Republic",
+      "score": 17,
+      "source_id": "FR-PARIS-MUSEES",
+      "source_name": "Paris Musées Collections",
+      "base_url": "https://www.parismuseescollections.paris.fr/en/",
+      "source_type": "public_museum_collection",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-SAMLHOC-LEGION-HONOUR",
+      "title": "Ordre national de la Légion d’honneur",
+      "kind": "specialist_order_history_and_models",
+      "url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/",
+      "access": "cached_directory_direct_subpages_and_media_reviewed",
+      "status": "completed",
+      "coverage": "Main directory plus all 31 directly exposed child pages; 32 pages cached, 21 images downloaded and reviewed, 18 formal historical model/grade views normalized under one continuing family.",
+      "score": 17,
+      "source_id": "FR-SAMLHOC-LEGION-HONOUR",
+      "source_name": "Ordre national de la Légion d’honneur",
+      "base_url": "https://www.samlhoc.fr/phaleristique/ordres-chevalerie/legion_honneur/",
+      "source_type": "specialist_order_history_and_models",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-SAMLHOC-MADAGASCAR",
+      "title": "Médailles commémoratives de Madagascar",
+      "kind": "specialist_decree_and_type_page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/",
+      "access": "cached_pages_and_original_media_reviewed",
+      "status": "completed",
+      "coverage": "1886 and 1896 principal expedition variants, linked object and diploma pages, and the visible 1886/1896/1897 legal references; two complete low-resolution obverse/reverse composites retained for research only.",
+      "score": 16,
+      "source_id": "FR-SAMLHOC-MADAGASCAR",
+      "source_name": "Médailles commémoratives de Madagascar",
+      "base_url": "https://www.samlhoc.fr/phaleristique/medailles/medailles_commemoratives_madagascar/",
+      "source_type": "specialist_decree_and_type_page",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-SAMLHOC-MEDALS-CATALOGUE",
+      "title": "SAMLHOC médailles index",
+      "kind": "specialist_directory",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/",
+      "access": "web_search_verified",
+      "status": "not_started",
+      "coverage": "Broad French medal taxonomy, campaign, ministry, rescue and civil awards",
+      "score": 17,
+      "source_id": "FR-SAMLHOC-MEDALS-CATALOGUE",
+      "source_name": "SAMLHOC médailles index",
+      "base_url": "https://www.samlhoc.fr/phaleristique/medailles/",
+      "source_type": "specialist_directory",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-SAMLHOC-MOROCCO",
+      "title": "Médaille commémorative du Maroc",
+      "kind": "specialist_decree_and_type_page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_maroc/",
+      "access": "cached_pages_and_original_media_reviewed",
+      "status": "completed",
+      "coverage": "Main source page, explicit object and diploma subpages, visible legal transcription, and rights page; one family with four clasp variants and two decoded/reviewed media files.",
+      "score": 16,
+      "source_id": "FR-SAMLHOC-MOROCCO",
+      "source_name": "Médaille commémorative du Maroc",
+      "base_url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_maroc/",
+      "source_type": "specialist_decree_and_type_page",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "id": "FR-SAMLHOC-TONKIN",
+      "title": "Médaille commémorative de l’expédition du Tonkin",
+      "kind": "specialist_decree_and_type_page",
+      "url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_expedition_tonkin/",
+      "access": "cached_pages_and_original_media_reviewed",
+      "status": "completed",
+      "coverage": "Tonkin index, main page, object and diploma subpages, Colonial Medal TONKIN legal segment, and Indochina Merit page; three candidates and seven media files captured. No TONKIN-clasp object image exposed.",
+      "score": 16,
+      "source_id": "FR-SAMLHOC-TONKIN",
+      "source_name": "Médaille commémorative de l’expédition du Tonkin",
+      "base_url": "https://www.samlhoc.fr/phaleristique/medailles/medaille_commemorative_expedition_tonkin/",
+      "source_type": "specialist_decree_and_type_page",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "france_second_third_republic"
+      ],
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json"
+    },
+    {
+      "source_id": "gmic_ottoman",
+      "source_name": "GMIC Türkiye forum and supplied topic threads",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete_visible_pages",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/gmic_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "id": "gsta-prussian-finding-aid",
+      "name": "Geheimes Staatsarchiv Preußischer Kulturbesitz finding aid",
+      "source_type": "official archive finding aid",
+      "url": "https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_77/xml/inhalt/GStA_i_ha_rep_77_2_15_3_2.htm",
+      "priority_score": 8.7,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2,
+        "access": 1.3,
+        "coverage": 2.4
+      },
+      "access": {
+        "status": "known_access_issue",
+        "checked": "2026-09-25",
+        "error": "Direct page retrieval failed in prior Prussia task"
+      },
+      "coverage": {
+        "known_lead": "Rettungs-Medaille am Bande files and continuation evidence; object image sweep pending"
+      },
+      "notes": "Official archival records support institution/date questions but are not object-photo sources.",
+      "source_id": "gsta-prussian-finding-aid",
+      "source_name": "Geheimes Staatsarchiv Preußischer Kulturbesitz finding aid",
+      "base_url": "https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_77/xml/inhalt/GStA_i_ha_rep_77_2_15_3_2.htm",
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "source_id": "gwpda_ottoman",
+      "source_name": "GWPDA Turkish medals",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/gwpda_turkey_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-cabinet-honours",
+      "title": "内閣府 叙勲・褒章制度/受章者資料",
+      "authority": "内閣府",
+      "url": "https://www8.cao.go.jp/shokun/",
+      "period_coverage": [
+        "modern official system; historical regulations as available"
+      ],
+      "taxonomy": [
+        "orders",
+        "civil_merit"
+      ],
+      "score": 87,
+      "access": "official text source; object image coverage to be checked in a later pass",
+      "status": "not_started",
+      "coverage": {
+        "candidate_use": "establishment/continuation dates, grade names, official terminology"
+      },
+      "source_name": "内閣府 叙勲・褒章制度/受章者資料",
+      "base_url": "https://www8.cao.go.jp/shokun/",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-kunaicho-shoryobu",
+      "title": "宮内庁 宮内公文書館/皇室関連資料",
+      "authority": "宮内庁",
+      "url": "https://www.kunaicho.go.jp/",
+      "period_coverage": [
+        "Imperial household decorations and ceremonies"
+      ],
+      "taxonomy": [
+        "orders",
+        "commemorative_award"
+      ],
+      "score": 82,
+      "access": "official catalogue/collection discovery; object-level access varies",
+      "status": "not_started",
+      "coverage": {
+        "candidate_use": "royal presentation, collar/sash forms, imperial commemorative decorations"
+      },
+      "source_name": "宮内庁 宮内公文書館/皇室関連資料",
+      "base_url": "https://www.kunaicho.go.jp/",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-met-collection",
+      "title": "The Metropolitan Museum of Art collection API/object pages",
+      "authority": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection",
+      "period_coverage": [
+        "late 19th/early 20th century Japanese objects"
+      ],
+      "taxonomy": [
+        "orders",
+        "civil_merit",
+        "commemorative_award"
+      ],
+      "score": 80,
+      "access": "public object metadata and images; existing Japanese records used for dedupe",
+      "status": "completed",
+      "coverage": {
+        "candidate_use": "object images, accession IDs, curator metadata; not a complete Japanese award directory"
+      },
+      "source_name": "The Metropolitan Museum of Art collection API/object pages",
+      "base_url": "https://www.metmuseum.org/art/collection",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-ndl-1441381",
+      "title": "大日本帝国勲章記章誌",
+      "creator": "剣聖会 編",
+      "authority": "国立国会図書館デジタルコレクション",
+      "url": "https://dl.ndl.go.jp/pid/1441381",
+      "catalogue_url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000723784",
+      "period_coverage": [
+        "Meiji",
+        "Taisho",
+        "retrospective through Showa 12"
+      ],
+      "taxonomy": [
+        "orders",
+        "order_grades",
+        "military_campaign",
+        "commemorative_award",
+        "civil_merit",
+        "military_service_badge"
+      ],
+      "score": 94,
+      "score_components": {
+        "authority": 25,
+        "coverage": 24,
+        "image_access": 20,
+        "ocr_access": 15,
+        "dedupe_value": 10
+      },
+      "access": "public IIIF manifest, 101 canvases; NDL Lab fulltext/layout cache",
+      "status": "completed",
+      "coverage": {
+        "manifest_canvases": 101,
+        "ocr_pages": 101,
+        "structure_ranges": 36,
+        "directory_pages": [
+          14,
+          15,
+          16
+        ],
+        "downloaded_scan_pages": 32
+      },
+      "cached_files": [
+        "sources/pages/sources_ndl_967000/ndl_1441381_manifest.json",
+        "sources/pages/sources_ndl_967000/atlas_1441381_fulltext.json",
+        "sources/pages/sources_ndl_967000/atlas_1441381_layouttext.zip",
+        "sources/pages/sources_ndl_967000/atlas_1441381_pages/"
+      ],
+      "license_or_access_note": "NDL metadata records public internet access/PDM; page images are retained as source research cache with attribution.",
+      "source_name": "大日本帝国勲章記章誌",
+      "base_url": "https://dl.ndl.go.jp/pid/1441381",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-ndl-967000",
+      "title": "大日本帝国勲章記章誌（平田春行 編）",
+      "creator": "平田春行 編",
+      "authority": "国立国会図書館デジタルコレクション",
+      "url": "https://dl.ndl.go.jp/pid/967000",
+      "catalogue_url": "https://ndlsearch.ndl.go.jp/books/R100000039-I967000",
+      "period_coverage": [
+        "Meiji/Taisho primary-era retrospective; 大正7 / 1918"
+      ],
+      "taxonomy": [
+        "orders",
+        "military_campaign",
+        "commemorative_award",
+        "civil_merit"
+      ],
+      "score": 91,
+      "score_components": {
+        "authority": 25,
+        "coverage": 23,
+        "image_access": 5,
+        "period_fit": 20,
+        "dedupe_value": 18
+      },
+      "access": "metadata and catalogue accessible; 16 plates recorded",
+      "status": "blocked",
+      "coverage": {
+        "catalogue_claim": "図版16枚; 35cm",
+        "failed_endpoints": [
+          "/api/iiif/967000/manifest.json",
+          "/api/iiif/967000/R0000001/full/full/0/default.jpg",
+          "next-generation image endpoints"
+        ],
+        "failure_note": "IIIF/page endpoints returned 404/5xx or access denial during the first sweep; no image is treated as downloaded."
+      },
+      "cached_files": [
+        "sources/pages/sources_ndl_967000/ndl_967000_entry.html",
+        "sources/pages/sources_ndl_967000/ndl_967000_headers.txt"
+      ],
+      "source_name": "大日本帝国勲章記章誌（平田春行 編）",
+      "base_url": "https://dl.ndl.go.jp/pid/967000",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-ndlsearch-and-jacar",
+      "title": "国立国会図書館サーチ / JACAR",
+      "authority": "NDL / Japan Center for Asian Historical Records",
+      "url": "https://ndlsearch.ndl.go.jp/",
+      "secondary_url": "https://www.jacar.go.jp/",
+      "period_coverage": [
+        "Meiji",
+        "Taisho"
+      ],
+      "taxonomy": [
+        "military_campaign",
+        "commemorative_award",
+        "official_regulations"
+      ],
+      "score": 84,
+      "access": "catalogue and archival discovery; item/image access to be checked per record",
+      "status": "not_started",
+      "coverage": {
+        "candidate_use": "regulations, gazettes, campaign medal rules, commemorative issue records"
+      },
+      "source_name": "国立国会図書館サーチ / JACAR",
+      "base_url": "https://ndlsearch.ndl.go.jp/",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "jpn-rekihaku-digital",
+      "title": "国立歴史民俗博物館データベース",
+      "authority": "National Museum of Japanese History",
+      "url": "https://www.rekihaku.ac.jp/",
+      "period_coverage": [
+        "Japanese historical material culture"
+      ],
+      "taxonomy": [
+        "orders",
+        "military_campaign",
+        "commemorative_award"
+      ],
+      "score": 79,
+      "access": "museum database/digital catalogue discovery",
+      "status": "not_started",
+      "coverage": {
+        "candidate_use": "Japanese object records and provenance; image completeness to be verified"
+      },
+      "source_name": "国立歴史民俗博物館データベース",
+      "base_url": "https://www.rekihaku.ac.jp/",
+      "source_type": null,
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "japan_meiji_taisho"
+      ],
+      "matrix_file": "data/source_atlas/japan_meiji_taisho_source_matrix.json"
+    },
+    {
+      "source_id": "kuenker299_ottoman",
+      "source_name": "Künker Auction 299 lots 7001–7448",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/kuenker299_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "id": "landesmuseum-wuerttemberg-collection",
+      "name": "Landesmuseum Württemberg collection overview",
+      "source_type": "official state museum collection overview",
+      "url": "https://www.landesmuseum-stuttgart.de/sammlung/kunst-und-kulturgeschichte/",
+      "priority_score": 8.8,
+      "score_basis": {
+        "authority": 3,
+        "scope": 2,
+        "access": 1,
+        "coverage": 2.8
+      },
+      "access": {
+        "status": "ssl_fetch_failed",
+        "checked": "2026-09-26",
+        "error": "The SSL connection could not be established during local cache attempt; web search result confirmed official collection page"
+      },
+      "coverage": {
+        "known_statement": "collection includes around 180 orders and decorations and strong Württemberg numismatic holdings; object-level follow-up pending"
+      },
+      "notes": "High-priority Württemberg source; retain exact access failure and do not claim local page cache.",
+      "source_id": "landesmuseum-wuerttemberg-collection",
+      "source_name": "Landesmuseum Württemberg collection overview",
+      "base_url": "https://www.landesmuseum-stuttgart.de/sammlung/kunst-und-kulturgeschichte/",
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "source_id": "medalbook_ottoman",
+      "source_name": "MedalBook Ottoman Empire full catalogue",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/medalbook_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "medalbook_sudan",
+      "source_name": "MedalBook Sudan catalogue",
+      "base_url": "https://www.medalbook.com/africa-north/sudan-1",
+      "source_type": "professional_database",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Sudan"
+      ],
+      "date_coverage": "20th century",
+      "content_coverage": "Award families, grades and object pages",
+      "has_images": true,
+      "image_quality_notes": "Object images present; item-page sweep required.",
+      "has_pagination": true,
+      "download_method": "page_image",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "coverage_result": "2/2 catalogue pages; 90 object URLs discovered, 89 processed; 77 raw images downloaded and byte-validated; one malformed object URL returned 404.",
+      "sweep_file": "data/source_sweeps/medalbook_sudan.json",
+      "scope_ids": [
+        "sudan"
+      ],
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json"
+    },
+    {
+      "source_id": "medals_org_uk_sudan",
+      "source_name": "Medals.org.uk — Orders, Decorations and Medals of Sudan text list",
+      "base_url": "https://medals.org.uk/sudan/sudan-text.htm",
+      "source_type": "specialist_site",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Sudan"
+      ],
+      "date_coverage": "20th century",
+      "content_coverage": "Complete current text list",
+      "has_images": false,
+      "image_quality_notes": "Text discovery list only.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "coverage_result": "35 list candidates",
+      "sweep_file": "data/source_sweeps/egypt_sudan_first_sweep_2026-09-26.json",
+      "scope_ids": [
+        "sudan"
+      ],
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json"
+    },
+    {
+      "source_id": "nigde_academic_ottoman",
+      "source_name": "Niğde Museum academic article",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/nigde_academic_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "omsa_egypt_awards_appendix",
+      "source_name": "OMSA/JOMSA — Awards of the Khedivate, Sultanate and Kingdom of Egypt appendix",
+      "base_url": "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf",
+      "source_type": "academic",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Khedivate of Egypt",
+        "Sultanate of Egypt",
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "19th–20th century",
+      "content_coverage": "Structured historical appendix and catalogue references",
+      "has_images": true,
+      "image_quality_notes": "Historic article plates; inspect before extraction.",
+      "has_pagination": true,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "downloaded_file": "sources/books/omsa_egypt_awards_appendix.pdf",
+      "download_sha256": "db3f8ae38fdf1a0554ed86331782f590c90c8b7cebd4777fc123517111e2da5b",
+      "download_bytes": 2480111,
+      "pdf_pages": 3,
+      "processed_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "relevant_pdf_pages": [
+        1
+      ],
+      "coverage_result": "3 PDF pages processed; 27 appendix/other-list rows plus 2 uncertain context candidates; 1 embedded reverse-photo figure reference; no image crop exported.",
+      "candidate_file": "data/raw_candidates/omsa_egypt_awards_appendix.jsonl",
+      "sweep_file": "data/source_sweeps/omsa_egypt_awards_appendix.json",
+      "notes": "PDF page 1 (printed p.23) is the Egypt appendix. PDF pages 2-3 are unrelated JOMSA content and were read but excluded.",
+      "scope_ids": [
+        "egypt"
+      ],
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json"
+    },
+    {
+      "source_id": "ottoman_bank_archive_awards",
+      "source_name": "Ottoman Bank Archive orders and decorations",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "accessible_salt_mirror_complete_legacy_seed_unavailable",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/obarsiv_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "picryl_ottoman",
+      "source_name": "PICRYL Ottoman medals topic result set",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "partial",
+      "source_status_detail": "partial_with_item_fetch_failures",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/picryl_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "spink_ottoman",
+      "source_name": "Spink Ottoman specialist auctions",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "not_started",
+      "source_status_detail": "pending_seed",
+      "last_checked": "2026-09-26",
+      "sweep_file": null,
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "sudan_presidency_medals",
+      "source_name": "Sudan Presidency — Medals and Decorations",
+      "base_url": "https://www.presidency.gov.sd/medals-decorations",
+      "source_type": "official",
+      "languages": [
+        "ar"
+      ],
+      "regions_or_polities": [
+        "Republic of Sudan"
+      ],
+      "date_coverage": "post-independence historical site",
+      "content_coverage": "Official grade descriptions and image links",
+      "has_images": true,
+      "image_quality_notes": "Official images but republication permission restricted; use primarily for names and grades.",
+      "has_pagination": false,
+      "download_method": "unknown",
+      "priority": 1,
+      "status": "blocked",
+      "last_checked": "2026-09-26",
+      "notes": "HTTPS connection currently fails after HTTP redirects to HTTPS; no access control bypass attempted.",
+      "scope_ids": [
+        "sudan"
+      ],
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json"
+    },
+    {
+      "source_id": "tdv_nisan_madalya",
+      "source_name": "TDV İslâm Ansiklopedisi — Nişan / Madalya",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/tdv_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "turkeyswar_ottoman",
+      "source_name": "Turkey in the First World War — medals and orders",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/turkeyswar_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "turkishculture_ottoman",
+      "source_name": "Turkish Culture Portal Ottoman medals page",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "blocked",
+      "source_status_detail": "blocked_at_seed",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/turkishculture_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "turkishmedals_campaigns_ottoman",
+      "source_name": "turkishmedals.net Wayback — campaign medals",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "blocked",
+      "source_status_detail": "blocked_archive_unreachable",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/campmedals_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "turkishmedals_decorations_ottoman",
+      "source_name": "turkishmedals.net Wayback — decorations",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "blocked",
+      "source_status_detail": "blocked_archive_unreachable",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/turkishmedals_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    },
+    {
+      "source_id": "wawards_egypt",
+      "source_name": "Wawards Egypt period catalogues",
+      "base_url": "https://wawards.org/en/egypt.html",
+      "source_type": "specialist_site",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt",
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "20th century",
+      "content_coverage": "Four period indexes and linked award detail pages",
+      "has_images": true,
+      "image_quality_notes": "Mixed catalogue illustrations; rights and completeness require later image review.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "coverage_result": "54 pages processed; 50 award detail candidates",
+      "sweep_file": "data/source_sweeps/egypt_sudan_first_sweep_2026-09-26.json",
+      "scope_ids": [
+        "egypt"
+      ],
+      "matrix_file": "data/source_atlas/egypt_source_matrix.json"
+    },
+    {
+      "source_id": "wawards_sudan",
+      "source_name": "Wawards Sudan catalogue",
+      "base_url": "https://wawards.org/en/sudan.html",
+      "source_type": "specialist_site",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "regions_or_polities": [
+        "Anglo-Egyptian Sudan",
+        "Republic of Sudan"
+      ],
+      "date_coverage": "1933 onward",
+      "content_coverage": "Index and every visible award detail link",
+      "has_images": true,
+      "image_quality_notes": "Mixed catalogue images; later completeness and rights review required.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "coverage_result": "36 detail pages processed; one listed detail URL returned 404",
+      "sweep_file": "data/source_sweeps/egypt_sudan_first_sweep_2026-09-26.json",
+      "scope_ids": [
+        "sudan"
+      ],
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json"
+    },
+    {
+      "id": "weitze-bayern-12-alternative",
+      "name": "Helmut Weitze Bayern category (alternative sweep)",
+      "source_type": "specialist commercial catalogue page",
+      "url": "https://www.weitze.com/militaria/Bayern_12.html",
+      "priority_score": 7.6,
+      "score_basis": {
+        "authority": 2.2,
+        "scope": 1.8,
+        "access": 2,
+        "coverage": 1.6
+      },
+      "access": {
+        "status": "swept_card_index",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_bayern_12.html"
+      },
+      "coverage": {
+        "catalogue_cards": 60,
+        "product_pages_opened": 0,
+        "original_images_downloaded": 0
+      },
+      "notes": "Used only as a cached non-Prussian alternative after the DHM object database PoW block; no commercial thumbnail is promoted to a formal image.",
+      "source_id": "weitze-bayern-12-alternative",
+      "source_name": "Helmut Weitze Bayern category (alternative sweep)",
+      "base_url": "https://www.weitze.com/militaria/Bayern_12.html",
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "weitze-german-states-index",
+      "name": "Helmut Weitze German States pre-1933 index",
+      "source_type": "specialist commercial catalogue index",
+      "url": "https://www.weitze.com/militaria/Auszeichnungen_deutscher_Staaten_bis_1933.html",
+      "priority_score": 8.2,
+      "score_basis": {
+        "authority": 2.2,
+        "scope": 2,
+        "access": 2,
+        "coverage": 2
+      },
+      "access": {
+        "status": "cached",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_german_states_index.html"
+      },
+      "coverage": {
+        "state_pages_discovered": 39,
+        "state_award_pages_in_scope": 34,
+        "index_listed_items_total": 1739,
+        "in_scope_listed_items_total": 685
+      },
+      "notes": "Discovery/index source only; item pages and formal award identity require independent confirmation.",
+      "source_id": "weitze-german-states-index",
+      "source_name": "Helmut Weitze German States pre-1933 index",
+      "base_url": "https://www.weitze.com/militaria/Auszeichnungen_deutscher_Staaten_bis_1933.html",
+      "status": "partial",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "id": "weitze-preussen-12",
+      "name": "Helmut Weitze Prussia page",
+      "source_type": "specialist commercial catalogue page",
+      "url": "https://www.weitze.com/militaria/Preussen_12.html",
+      "priority_score": 8.5,
+      "score_basis": {
+        "authority": 2.2,
+        "scope": 2,
+        "access": 2,
+        "coverage": 2.3
+      },
+      "access": {
+        "status": "swept_card_index",
+        "http_status": 200,
+        "checked": "2026-09-26",
+        "local_snapshot": "sources/pages/german_states_source_discovery/weitze_preussen_12.html"
+      },
+      "coverage": {
+        "catalogue_cards": 345,
+        "groups": 4,
+        "product_pages_opened": 0,
+        "original_images_downloaded": 0
+      },
+      "notes": "All visible cards parsed; thumbnail URLs are leads only and are not formal images.",
+      "source_id": "weitze-preussen-12",
+      "source_name": "Helmut Weitze Prussia page",
+      "base_url": "https://www.weitze.com/militaria/Preussen_12.html",
+      "status": "completed",
+      "last_checked": "2026-09-26",
+      "scope_ids": [
+        "german_states"
+      ],
+      "matrix_file": "data/source_atlas/german_states_source_matrix.json"
+    },
+    {
+      "source_id": "wikipedia_multilang_ottoman",
+      "source_name": "Wikipedia English/German/Italian/Russian lists and key articles",
+      "base_url": null,
+      "source_type": "imported_seed",
+      "languages": [
+        "mixed"
+      ],
+      "regions_or_polities": [
+        "Ottoman Empire"
+      ],
+      "date_coverage": "Ottoman period",
+      "content_coverage": "Imported from the user-supplied Ottoman seed matrix and its completed sweep records.",
+      "has_images": null,
+      "image_quality_notes": "See the linked sweep file.",
+      "has_pagination": null,
+      "download_method": "see_sweep",
+      "priority": 1,
+      "status": "completed",
+      "source_status_detail": "complete",
+      "last_checked": "2026-09-26",
+      "sweep_file": "data/source_sweeps/wikipedia_multilang_ottoman.json",
+      "scope_ids": [
+        "ottoman_empire"
+      ],
+      "matrix_file": "data/source_atlas/ottoman_source_matrix.json"
+    }
+  ],
+  "continuation_rule": "Consult the latest checkpoint and queues; finish high-priority partial sweeps, normalize harvested data, harvest missing images, merge HTML, checkpoint, then expand the next queued scope."
+}

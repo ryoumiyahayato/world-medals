@@ -1,0 +1,57 @@
+{
+  "volume": "prussia_kingdom",
+  "batch_id": "PRU-B1-20260926",
+  "as_of": "2026-09-26",
+  "scope": "普鲁士王国／普鲁士国家奖励首轮查漏；不含其他德意志邦国和帝国中央共同授予体系",
+  "records_file": "data/volumes/prussia_batch1_2026-09-26.json",
+  "sources_file": "sources/prussia_batch1_sources_2026-09-26.json",
+  "candidate_file": "data/volumes/prussia_batch1_candidates_2026-09-26.json",
+  "checkpoint_file": "data/volumes/prussia_batch1_checkpoint_2026-09-26.json",
+  "image_paths": {
+    "assets": "assets/images/prussia_batch1_*.jpg",
+    "originals": "originals/prussia_batch1_*.jpg"
+  },
+  "images": [
+    {
+      "view_key": "PRU-B1-RED-EAGLE-GRAND-OBV",
+      "local_path": "assets/images/prussia_batch1_red-eagle-grand-badge-1858-1918.jpg"
+    },
+    {
+      "view_key": "PRU-B1-RED-EAGLE-II-STAR-OBV",
+      "local_path": "assets/images/prussia_batch1_red-eagle-ii-breast-star-diamonds-1885.jpg"
+    },
+    {
+      "view_key": "PRU-B1-HOHENZOLLERN-KNIGHT-SWORDS-OBV",
+      "local_path": "assets/images/prussia_batch1_hohenzollern-knights-cross-swords.jpg"
+    }
+  ],
+  "counts": {
+    "independent_families_in_batch": 2,
+    "new_records": 3,
+    "new_major_variant_rows": 3,
+    "complete_image_rows": 3,
+    "complete_image_files": 3,
+    "rows_with_complete_obverse_and_reverse_pair": 0,
+    "low_resolution_reference_rows": 1,
+    "unpictured_or_unresolved_candidates": 9,
+    "excluded_thumbnail_files": 1,
+    "doubtful_or_unresolved_selected_rows": 0
+  },
+  "selected_view_keys": [
+    "PRU-B1-RED-EAGLE-GRAND-OBV",
+    "PRU-B1-RED-EAGLE-II-STAR-OBV",
+    "PRU-B1-HOHENZOLLERN-KNIGHT-SWORDS-OBV"
+  ],
+  "integrity": {
+    "all_selected_assets_exist": true,
+    "all_selected_originals_exist": true,
+    "all_selected_images_decoded": true,
+    "manual_visual_check_completed": true,
+    "public_html_or_shared_catalogue_modified": false
+  },
+  "rights_notes": [
+    "红鹰大十字图为CC BY-SA 4.0；红鹰二等胸星Commons标为Public domain / PD-Art。",
+    "霍亨索伦文件页面显示CC BY-SA 4.0，但同时存在CC BY-SA 2.0 FR元数据，发布前复核许可。",
+    "本批不将DHM 150×140黑鹰缩略图计入完整图。"
+  ]
+}
