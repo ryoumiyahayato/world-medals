@@ -55,7 +55,7 @@ volume_files={
  'russian_federation':(['russian_federation_pack1.json'],['russian_federation_pack1_manifest.json']),
  'republic_of_china':(['east_asia_gap_round1_2026-09-26.json'],['east_asia_gap_round1_2026-09-26_manifest.json'],{'中华民国'},set()),
  'korean_empire':(['east_asia_gap_round1_2026-09-26.json'],['east_asia_gap_round1_2026-09-26_manifest.json'],{'大韩帝国'},set()),
- 'south_korea':(['east_asia_gap_round1_2026-09-26.json'],['east_asia_gap_round1_2026-09-26_manifest.json'],{'韩国'},set()),
+ 'south_korea':(['east_asia_gap_round1_2026-09-26.json','south_korea_official_complete_2026-09-27.json'],['east_asia_gap_round1_2026-09-26_manifest.json','south_korea_official_complete_2026-09-27_manifest.json'],{'韩国'},set()),
  'north_korea':(['east_asia_gap_round1_2026-09-26.json'],['east_asia_gap_round1_2026-09-26_manifest.json'],{'朝鲜'},set()),
  'japan_meiji':(['japan_meiji.json','japan_meiji_round2.json','japan_meiji_round3.json','japan_meiji_pack4_new.json'],['japan_meiji_manifest.json','japan_meiji_round2_manifest.json','japan_meiji_round3_manifest.json','japan_meiji_pack4_new_manifest.json']),
  'japan_taisho':(['japan_taisho_pack1.json','japan_taisho_pack4_new.json'],['japan_taisho_pack1_manifest.json','japan_taisho_pack4_new_manifest.json']),
