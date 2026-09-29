@@ -1,0 +1,58 @@
+{
+  "country": "纳米比亚",
+  "slug": "namibia",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/namibia/order-of-the-eagle.html",
+      "name": "Order of the Eagle"
+    },
+    {
+      "url": "https://wawards.org/namibia/defence-force-campaign-medal.html",
+      "name": "Defence Force Campaign Medal"
+    },
+    {
+      "url": "https://wawards.org/namibia/police-medal-of-honour.html",
+      "name": "Police Medal of Honour"
+    },
+    {
+      "url": "https://wawards.org/namibia/police-wound-medal.html",
+      "name": "Police Wound Medal"
+    },
+    {
+      "url": "https://wawards.org/namibia/police-honourable-discharge-medal.html",
+      "name": "Police Honourable Discharge Medal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/namibia/2/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/namibia-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "b4a29908be004774e0c9bfab9d2b8ee1312dff01779faa8d0ab3c13f61932541",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/namibia/2/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/namibia-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "07d99ed15ef36fef28d741e546df6ef2c577efc48f5a0e1a3dd22483ac3ca0c9",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/namibia.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/namibia.html",
+  "object_page": "https://wawards.org/namibia/order-of-the-eagle.html",
+  "object_name": "Order of the Eagle",
+  "object_cache": "sources/cache/minimum_east_south_africa/namibia-object-0.html",
+  "source_text": "Order of the Eagle Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Eagle Order instituted on 16 March 1995. Order awarded for diplomatic services. Namibia Previous article: Police Honourable Discharge Medal Prev Next article: Defence Force Campaign Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/namibia/2/1.jpg",
+    "https://wawards.org/images/namibia/2/2.jpg"
+  ]
+}

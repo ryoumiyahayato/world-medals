@@ -1,0 +1,408 @@
+{
+  "country": "南非",
+  "slug": "south-africa",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/south-africa/civil-honours.html",
+      "name": "Civil honours"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations.html",
+      "name": "Military decorations"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations.html",
+      "name": "Police decorations"
+    },
+    {
+      "url": "https://wawards.org/south-africa/prisons-service-decorations.html",
+      "name": "Prisons service decorations"
+    },
+    {
+      "url": "https://wawards.org/south-africa/intelligence-service-decorations.html",
+      "name": "Intelligence service decorations"
+    },
+    {
+      "url": "https://wawards.org/south-africa/azanian-people-s-liberation-army.html",
+      "name": "Azanian People's Liberation Army"
+    },
+    {
+      "url": "https://wawards.org/south-africa/umkhonto-we-sizwe.html",
+      "name": "Umkhonto we Sizwe"
+    },
+    {
+      "url": "https://wawards.org/south-africa/bophuthatswana.html",
+      "name": "Bophuthatswana‎"
+    },
+    {
+      "url": "https://wawards.org/south-africa/ciskei.html",
+      "name": "Ciskei"
+    },
+    {
+      "url": "https://wawards.org/south-africa/gazankulu.html",
+      "name": "Gazankulu"
+    },
+    {
+      "url": "https://wawards.org/south-africa/kwazulu.html",
+      "name": "KwaZulu"
+    },
+    {
+      "url": "https://wawards.org/south-africa/kwandebele.html",
+      "name": "KwaNdebele‎"
+    },
+    {
+      "url": "https://wawards.org/south-africa/lebowa.html",
+      "name": "Lebowa"
+    },
+    {
+      "url": "https://wawards.org/south-africa/transkei.html",
+      "name": "Transkei‎"
+    },
+    {
+      "url": "https://wawards.org/south-africa/qwaqwa.html",
+      "name": "QwaQwa‎"
+    },
+    {
+      "url": "https://wawards.org/south-africa/venda.html",
+      "name": "Venda‎"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/southafrica/civil/8/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/south-africa-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "9490cc5f0ce48a6588f35769d021aa34d9ce7bba7665afef73d608dc2fd3fb07",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/southafrica/civil/8/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/south-africa-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "abc2ac847eeb5c84903112ee418faa5bf8f8c4c12308305fb33db56d010326f0",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/south-africa.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/south-africa.html",
+  "nested_candidates": [
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/woltemade-decoration-for-bravery.html",
+      "name": "Woltemade Decoration for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/woltemade-cross-for-bravery.html",
+      "name": "Woltemade Cross for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-the-star-of-south-africa.html",
+      "name": "Order of the Star of South Africa"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-for-meritorious-service.html",
+      "name": "Order for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-good-hope.html",
+      "name": "Order of Good Hope"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/decoration-for-meritorious-service.html",
+      "name": "Decoration for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/civil-protection-medal-for-bravery.html",
+      "name": "Civil Protection Medal for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-mapungubwe.html",
+      "name": "Order of Mapungubwe"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-the-baobab.html",
+      "name": "Order of the Baobab"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-the-companions-of-o-r-tambo.html",
+      "name": "Order of the Companions of O.R.Tambo"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-ikhamanga.html",
+      "name": "Order of Ikhamanga"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-luthuli.html",
+      "name": "Order of Luthuli"
+    },
+    {
+      "url": "https://wawards.org/south-africa/civil-honours/order-of-mendi-for-bravery.html",
+      "name": "Order of Mendi for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/castle-of-good-hope-decoration.html",
+      "name": "Castle of Good Hope Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/louw-wepener-decoration.html",
+      "name": "Louw Wepener Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/star-of-south-africa.html",
+      "name": "Star of South Africa"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/van-riebeeck-decoration.html",
+      "name": "Van Riebeeck Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/honoris-crux-1952.html",
+      "name": "Honoris Crux (1952)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/john-chard-decoration.html",
+      "name": "John Chard Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/de-wet-decoration.html",
+      "name": "De Wet Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/van-riebeeck-medal.html",
+      "name": "Van Riebeeck Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/louw-wepener-medal.html",
+      "name": "Louw Wepener Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/southern-cross-medal-1952.html",
+      "name": "Southern Cross Medal (1952)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-merito-medal-1967.html",
+      "name": "Pro Merito Medal (1967)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/danie-theron-medal.html",
+      "name": "Danie Theron Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/jack-hindon-medal.html",
+      "name": "Jack Hindon Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/korea-medal.html",
+      "name": "Korea Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/permanent-force-good-service-medal.html",
+      "name": "Permanent Force Good Service Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/john-chard-medal.html",
+      "name": "John Chard Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/cadet-corps-medal.html",
+      "name": "Cadet Corps Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/honoris-crux-diamond.html",
+      "name": "Honoris Crux Diamond"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/honoris-crux-gold.html",
+      "name": "Honoris Crux Gold"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/honoris-crux-silver.html",
+      "name": "Honoris Crux Silver"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/honoris-crux-1975.html",
+      "name": "Honoris Crux (1975)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/order-of-the-star-of-south-africa.html",
+      "name": "Order of the Star of South Africa"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-virtute-decoration.html",
+      "name": "Pro Virtute Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/southern-cross-decoration.html",
+      "name": "Southern Cross Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-merito-decoration.html",
+      "name": "Pro Merito Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/ad-astra-decoration.html",
+      "name": "Ad Astra Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/army-cross.html",
+      "name": "Army Cross"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/medical-service-cross.html",
+      "name": "Medical Service Cross"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-virtute-medal.html",
+      "name": "Pro Virtute Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/southern-cross-medal-1975.html",
+      "name": "Southern Cross Medal (1975)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-merito-medal-1975.html",
+      "name": "Pro Merito Medal (1975)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/military-merit-medal.html",
+      "name": "Military Merit Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/pro-patria-medal.html",
+      "name": "Pro Patria Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/southern-africa-medal.html",
+      "name": "Southern Africa Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/general-service-medal.html",
+      "name": "General Service Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/unitas-medal.html",
+      "name": "Unitas Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/medal-for-distinguished-conduct-and-loyal-service.html",
+      "name": "Medal for Distinguished Conduct and Loyal Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/good-service-medal.html",
+      "name": "Good Service Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/de-wet-medal.html",
+      "name": "De Wet Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/champion-shot-medal.html",
+      "name": "Champion Shot Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/cadet-corps-champion-shot-medal.html",
+      "name": "Cadet Corps Champion Shot Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/leopard-decoration.html",
+      "name": "Leopard Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/protea-decoration.html",
+      "name": "Protea Decoration"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/general-service-medal-2003.html",
+      "name": "General Service Medal (2003)"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/closure-commemoration-medal.html",
+      "name": "Closure Commemoration Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/mandela-medal.html",
+      "name": "Mandela Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/military-decorations/medal-for-loyal-service.html",
+      "name": "Medal for Loyal Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-star-for-distinguished-leadership.html",
+      "name": "Police Star for Distinguished Leadership"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-star-for-distinguished-service.html",
+      "name": "Police Star for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-cross-for-bravery.html",
+      "name": "Police Cross for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-silver-cross-for-gallantry.html",
+      "name": "Police Silver Cross for Gallantry"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-star-for-outstanding-service.html",
+      "name": "Police Star for Outstanding Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-medal-for-combating-terrorism.html",
+      "name": "Police Medal for Combating Terrorism"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-seventy-fifth-anniversary-commemoration-medal.html",
+      "name": "Police Seventy-Fifth Anniversary Commemoration Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-service-amalgamation-medal.html",
+      "name": "Police Service Amalgamation Medal"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-star-for-merit.html",
+      "name": "Police Star for Merit"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-star-for-faithful-service.html",
+      "name": "Police Star for Faithful Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-medal-for-faithful-service.html",
+      "name": "Police Medal for Faithful Service"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/decoration-for-outstanding-service-in-the-railways-police-force.html",
+      "name": "Decoration for Outstanding Service in the Railways Police Force"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/star-for-merit-in-the-railways-police-force.html",
+      "name": "Star for Merit in the Railways Police Force"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-service-gold-cross-for-bravery.html",
+      "name": "Police Service Gold Cross for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-service-silver-cross-for-bravery.html",
+      "name": "Police Service Silver Cross for Bravery"
+    },
+    {
+      "url": "https://wawards.org/south-africa/police-decorations/police-service-ten-year-loyal-service-medal.html",
+      "name": "Police Service Ten Year Loyal Service Medal"
+    }
+  ],
+  "object_page": "https://wawards.org/south-africa/civil-honours/woltemade-decoration-for-bravery.html",
+  "object_name": "Woltemade Decoration for Bravery",
+  "object_cache": "sources/cache/minimum_east_south_africa/south-africa-nested-0.html",
+  "source_text": "Woltemade Decoration for Bravery Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Woltemade Decoration for Bravery Decoration instituted on 20 May 1970. Decoration awarded to South African citizens who performed acts of conspicuous bravery within or beyond the borders of the Republic of South Africa, and also to non-citizens who had distinguished themselves in this manner in the Republic or in territories belonging to or administered by the Republic, or who elsewhere and in the face of extreme danger had saved the lives of South African citizens or protected property belonging to the Republic, or endeavoured to do so. Decoration have two classes: gold and silver. South African Civil honours Next article: Woltemade Cross for Bravery Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/southafrica/civil/8/1.jpg",
+    "https://wawards.org/images/southafrica/civil/8/2.jpg"
+  ]
+}

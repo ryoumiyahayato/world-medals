@@ -1,0 +1,143 @@
+{
+  "country": "马拉维",
+  "slug": "malawi",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/malawi/order-of-the-lion-of-malawi.html",
+      "name": "Order of the Lion of Malawi"
+    },
+    {
+      "url": "https://wawards.org/malawi/order-of-national-achievement.html",
+      "name": "Order of National Achievement"
+    },
+    {
+      "url": "https://wawards.org/malawi/republic-of-malawi-cross.html",
+      "name": "Republic of Malawi Cross"
+    },
+    {
+      "url": "https://wawards.org/malawi/medal-of-the-order-of-the-lion-of-malawi.html",
+      "name": "Medal of the Order of the Lion of Malawi"
+    },
+    {
+      "url": "https://wawards.org/malawi/republic-medal.html",
+      "name": "Republic Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/malawi-medal.html",
+      "name": "Malawi Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/independence-medal.html",
+      "name": "Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/silver-jubilee-medal.html",
+      "name": "Silver Jubilee Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/prison-service-long-service-and-good-conduct-medal.html",
+      "name": "Prison Service Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/presidential-police-medal.html",
+      "name": "Presidential Police Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/police-long-service-and-good-conduct-medal.html",
+      "name": "Police Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/army-long-service-and-good-conduct-medal.html",
+      "name": "Army Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/army-meritorious-service-medal.html",
+      "name": "Army Meritorious Service Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/army-continuous-and-efficient-service-medal.html",
+      "name": "Army Continuous and Efficient Service Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/nacala-campaign-medal.html",
+      "name": "Nacala Campaign Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/defence-force-40th-anniversary-medal.html",
+      "name": "Defence Force 40th Anniversary Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/young-pioneers-long-service-and-good-conduct-medal.html",
+      "name": "Young Pioneers Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/malawi/independence-day-golden-jubilee-medal.html",
+      "name": "Independence Day Golden Jubilee Medal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/malawi/4/6a.jpg",
+      "path": "assets/raw/minimum_east_south_africa/malawi-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "025c69da720c6f065a2a7103b8ad675787b8c96a54946db374ff97c2830e4a18",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/malawi/4/7.jpg",
+      "path": "assets/raw/minimum_east_south_africa/malawi-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "6ee9f3c2135e5b5dd295f5cc16afc1576d1ed9031cfc9d27bdd958a698c752f4",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/malawi/4/8.jpg",
+      "path": "assets/raw/minimum_east_south_africa/malawi-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "7e4a4d5c3e9c9e426c23e3c0f750c11b492d50013b3b869c0cf9835f7e4d34e8",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/malawi/4/5.jpg",
+      "path": "assets/raw/minimum_east_south_africa/malawi-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "f29ed5958579d1c1cbe2382ebcb6ce259f4b84cfaf67cd74fea16e90e60a005e",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/malawi/4/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/malawi-4.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "685c4395a4f09f6c83d50535fb587fbd0af45302014fd7027589cf12e42b3e15",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/malawi.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/malawi.html",
+  "object_page": "https://wawards.org/malawi/order-of-the-lion-of-malawi.html",
+  "object_name": "Order of the Lion of Malawi",
+  "object_cache": "sources/cache/minimum_east_south_africa/malawi-object-0.html",
+  "source_text": "Order of the Lion of Malawi Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Lion of Malawi Order instituted in 1967. Order awarded for distinguished and outstanding services to the people of Malawi. Order have five grades plus a medal. Malawi Previous article: Police Long Service and Good Conduct Medal Prev Next article: Order of National Achievement Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/malawi/4/6a.jpg",
+    "https://wawards.org/images/malawi/4/7.jpg",
+    "https://wawards.org/images/malawi/4/8.jpg",
+    "https://wawards.org/images/malawi/4/5.jpg",
+    "https://wawards.org/images/malawi/4/2.jpg",
+    "https://wawards.org/images/malawi/4/3.jpg",
+    "https://wawards.org/images/malawi/4/4.jpg",
+    "https://wawards.org/images/malawi/4/6.jpg"
+  ]
+}

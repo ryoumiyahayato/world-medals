@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "minimum_djibouti",
+    "title": "吉布提",
+    "anchor": "minimum-djibouti",
+    "aliases": "吉布提 djibouti 吉布提",
+    "country_group": "djibouti",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "吉布提"
+    ]
+  },
+  {
+    "slug": "minimum_somalia",
+    "title": "索马里共和国",
+    "anchor": "minimum-somalia",
+    "aliases": "索马里 somalia 索马里共和国",
+    "country_group": "somalia",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "索马里"
+    ]
+  },
+  {
+    "slug": "minimum_kenya",
+    "title": "肯尼亚",
+    "anchor": "minimum-kenya",
+    "aliases": "肯尼亚 kenya 肯尼亚",
+    "country_group": "kenya",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "肯尼亚"
+    ]
+  },
+  {
+    "slug": "minimum_uganda",
+    "title": "乌干达",
+    "anchor": "minimum-uganda",
+    "aliases": "乌干达 uganda 乌干达",
+    "country_group": "uganda",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "乌干达"
+    ]
+  },
+  {
+    "slug": "minimum_tanzania",
+    "title": "坦桑尼亚",
+    "anchor": "minimum-tanzania",
+    "aliases": "坦桑尼亚 tanzania 坦桑尼亚",
+    "country_group": "tanzania",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "坦桑尼亚"
+    ]
+  },
+  {
+    "slug": "minimum_rwanda",
+    "title": "卢旺达共和国",
+    "anchor": "minimum-rwanda",
+    "aliases": "卢旺达 rwanda 卢旺达共和国",
+    "country_group": "rwanda",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "卢旺达"
+    ]
+  },
+  {
+    "slug": "minimum_burundi",
+    "title": "布隆迪王国",
+    "anchor": "minimum-burundi",
+    "aliases": "布隆迪 burundi 布隆迪王国",
+    "country_group": "burundi",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "布隆迪"
+    ]
+  },
+  {
+    "slug": "minimum_comoros",
+    "title": "大科摩罗苏丹国",
+    "anchor": "minimum-comoros",
+    "aliases": "科摩罗 comoros 大科摩罗苏丹国",
+    "country_group": "comoros",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "科摩罗"
+    ]
+  },
+  {
+    "slug": "minimum_ethiopia",
+    "title": "埃塞俄比亚帝国",
+    "anchor": "minimum-ethiopia",
+    "aliases": "埃塞俄比亚 ethiopia 埃塞俄比亚帝国",
+    "country_group": "ethiopia",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json",
+      "ethiopia_bulk_reviewed_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json",
+      "ethiopia_bulk_reviewed_20260929_manifest.json"
+    ],
+    "countries": [
+      "埃塞俄比亚"
+    ]
+  },
+  {
+    "slug": "minimum_madagascar",
+    "title": "马达加斯加王国",
+    "anchor": "minimum-madagascar",
+    "aliases": "马达加斯加 madagascar 马达加斯加王国",
+    "country_group": "madagascar",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "马达加斯加"
+    ]
+  },
+  {
+    "slug": "minimum_south_africa",
+    "title": "南非共和国",
+    "anchor": "minimum-south-africa",
+    "aliases": "南非 south-africa 南非共和国",
+    "country_group": "south_africa",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "南非"
+    ]
+  },
+  {
+    "slug": "minimum_namibia",
+    "title": "纳米比亚",
+    "anchor": "minimum-namibia",
+    "aliases": "纳米比亚 namibia 纳米比亚",
+    "country_group": "namibia",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "纳米比亚"
+    ]
+  },
+  {
+    "slug": "minimum_botswana",
+    "title": "博茨瓦纳",
+    "anchor": "minimum-botswana",
+    "aliases": "博茨瓦纳 botswana 博茨瓦纳",
+    "country_group": "botswana",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "博茨瓦纳"
+    ]
+  },
+  {
+    "slug": "minimum_zambia",
+    "title": "赞比亚",
+    "anchor": "minimum-zambia",
+    "aliases": "赞比亚 zambia 赞比亚",
+    "country_group": "zambia",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "赞比亚"
+    ]
+  },
+  {
+    "slug": "minimum_zimbabwe",
+    "title": "罗得西亚",
+    "anchor": "minimum-zimbabwe",
+    "aliases": "津巴布韦 zimbabwe 罗得西亚",
+    "country_group": "zimbabwe",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "津巴布韦"
+    ]
+  },
+  {
+    "slug": "minimum_malawi",
+    "title": "马拉维",
+    "anchor": "minimum-malawi",
+    "aliases": "马拉维 malawi 马拉维",
+    "country_group": "malawi",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "马拉维"
+    ]
+  },
+  {
+    "slug": "minimum_mozambique",
+    "title": "莫桑比克",
+    "anchor": "minimum-mozambique",
+    "aliases": "莫桑比克 mozambique 莫桑比克",
+    "country_group": "mozambique",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "莫桑比克"
+    ]
+  },
+  {
+    "slug": "minimum_lesotho",
+    "title": "莱索托",
+    "anchor": "minimum-lesotho",
+    "aliases": "莱索托 lesotho 莱索托",
+    "country_group": "lesotho",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "莱索托"
+    ]
+  },
+  {
+    "slug": "minimum_swaziland",
+    "title": "斯威士兰王国",
+    "anchor": "minimum-swaziland",
+    "aliases": "斯威士兰／埃斯瓦蒂尼 swaziland 斯威士兰王国",
+    "country_group": "swaziland",
+    "record_files": [
+      "minimum_east_south_africa_20260929.json"
+    ],
+    "manifest_files": [
+      "minimum_east_south_africa_20260929_manifest.json"
+    ],
+    "countries": [
+      "斯威士兰／埃斯瓦蒂尼"
+    ]
+  }
+]

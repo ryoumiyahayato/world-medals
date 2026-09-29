@@ -1,0 +1,385 @@
+{
+  "as_of": "2026-09-29",
+  "records": [
+    {
+      "id": "MIN-AFR-DJIBOUTI-001",
+      "family": "MIN-AFR-DJIBOUTI-001",
+      "country_zh": "吉布提",
+      "awarding_authority": "吉布提",
+      "name": "吉布提大星勋章",
+      "original": "Order of the Great Star of Djibouti",
+      "date": "1978年3月28日设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-DJIBOUTI-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-DJIBOUTI"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-SOMALIA-001",
+      "family": "MIN-AFR-SOMALIA-001",
+      "country_zh": "索马里",
+      "awarding_authority": "索马里共和国",
+      "name": "索马里之星勋章",
+      "original": "Order of the Somali Star",
+      "date": "1961年2月12日设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-SOMALIA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-SOMALIA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-KENYA-001",
+      "family": "MIN-AFR-KENYA-001",
+      "country_zh": "肯尼亚",
+      "awarding_authority": "肯尼亚",
+      "name": "金心勋章",
+      "original": "Order of the Golden Heart",
+      "date": "1966年4月21日设立",
+      "variant": "蝴蝶结绶带挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-KENYA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-KENYA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-UGANDA-001",
+      "family": "MIN-AFR-UGANDA-001",
+      "country_zh": "乌干达",
+      "awarding_authority": "乌干达",
+      "name": "尼罗河之源勋章",
+      "original": "Order of the Source of the Nile",
+      "date": "设立日期待考",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-UGANDA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-UGANDA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-TANZANIA-001",
+      "family": "MIN-AFR-TANZANIA-001",
+      "country_zh": "坦桑尼亚",
+      "awarding_authority": "坦桑尼亚",
+      "name": "乞力马扎罗火炬勋章",
+      "original": "Order of the Torch of Kilimandjaro",
+      "date": "1977年设立",
+      "variant": "蝴蝶结绶带挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-TANZANIA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-TANZANIA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-RWANDA-001",
+      "family": "MIN-AFR-RWANDA-001",
+      "country_zh": "卢旺达",
+      "awarding_authority": "卢旺达共和国",
+      "name": "革命勋章",
+      "original": "Order of the Revolution",
+      "date": "1976年4月7日设立",
+      "variant": "蝴蝶结绶带挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-RWANDA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-RWANDA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-BURUNDI-001",
+      "family": "MIN-AFR-BURUNDI-001",
+      "country_zh": "布隆迪",
+      "awarding_authority": "布隆迪王国",
+      "name": "卡里恩达王家勋章",
+      "original": "Royal Order of the Karyenda",
+      "date": "1962年7月1日设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-BURUNDI-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-BURUNDI"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-COMOROS-001",
+      "family": "MIN-AFR-COMOROS-001",
+      "country_zh": "科摩罗",
+      "awarding_authority": "大科摩罗苏丹国",
+      "name": "大科摩罗之星勋章",
+      "original": "Star of Grand Comoro",
+      "date": "1886年设立；1910年改制",
+      "variant": "新月及垂星挂章；具体等级与版期待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-COMOROS-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-COMOROS"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-ETHIOPIA-001",
+      "family": "MIN-AFR-ETHIOPIA-001",
+      "country_zh": "埃塞俄比亚",
+      "awarding_authority": "埃塞俄比亚帝国",
+      "name": "所罗门勋章",
+      "original": "Order of Solomon",
+      "date": "1922年设为特殊等级；1930年独立成章",
+      "variant": "单一领链级的章体正面；构件归类待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-ETHIOPIA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-ETHIOPIA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-MADAGASCAR-001",
+      "family": "MIN-AFR-MADAGASCAR-001",
+      "country_zh": "马达加斯加",
+      "awarding_authority": "马达加斯加王国",
+      "name": "拉达马二世勋章",
+      "original": "Order of Radama II",
+      "date": "1862年9月13日设立",
+      "variant": "有冠挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-MADAGASCAR-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-MADAGASCAR"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-SOUTH-AFRICA-001",
+      "family": "MIN-AFR-SOUTH-AFRICA-001",
+      "country_zh": "南非",
+      "awarding_authority": "南非共和国",
+      "name": "沃尔特马德勇敢奖章",
+      "original": "Woltemade Decoration for Bravery",
+      "date": "1970年5月20日设立",
+      "variant": "绶带挂章；具体等级及材质待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-SOUTH-AFRICA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-SOUTH-AFRICA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-NAMIBIA-001",
+      "family": "MIN-AFR-NAMIBIA-001",
+      "country_zh": "纳米比亚",
+      "awarding_authority": "纳米比亚",
+      "name": "鹰勋章",
+      "original": "Order of the Eagle",
+      "date": "1995年设立",
+      "variant": "蝴蝶结绶带挂章；章面英文为 Order of the Sea Eagle；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-NAMIBIA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-NAMIBIA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-BOTSWANA-001",
+      "family": "MIN-AFR-BOTSWANA-001",
+      "country_zh": "博茨瓦纳",
+      "awarding_authority": "博茨瓦纳",
+      "name": "博茨瓦纳总统勋章",
+      "original": "Presidential Order of Botswana",
+      "date": "1979年设立",
+      "variant": "八芒胸星（P.O.B.）；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-BOTSWANA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-BOTSWANA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-ZAMBIA-001",
+      "family": "MIN-AFR-ZAMBIA-001",
+      "country_zh": "赞比亚",
+      "awarding_authority": "赞比亚",
+      "name": "赞比亚之鹰勋章",
+      "original": "Order of the Eagle of Zambia",
+      "date": "1965年10月23日设立",
+      "variant": "绶带挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-ZAMBIA-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-ZAMBIA"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-ZIMBABWE-001",
+      "family": "MIN-AFR-ZIMBABWE-001",
+      "country_zh": "津巴布韦",
+      "awarding_authority": "罗得西亚",
+      "name": "功绩军团勋章",
+      "original": "Legion of Merit",
+      "date": "1970年设立",
+      "variant": "绶带挂章；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-ZIMBABWE-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-ZIMBABWE"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-MALAWI-001",
+      "family": "MIN-AFR-MALAWI-001",
+      "country_zh": "马拉维",
+      "awarding_authority": "马拉维",
+      "name": "马拉维雄狮勋章",
+      "original": "Order of the Lion of Malawi",
+      "date": "1967年设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-MALAWI-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-MALAWI"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-MOZAMBIQUE-001",
+      "family": "MIN-AFR-MOZAMBIQUE-001",
+      "country_zh": "莫桑比克",
+      "awarding_authority": "莫桑比克",
+      "name": "友谊与和平勋章",
+      "original": "Order of Friendship and Peace",
+      "date": "设立日期待考",
+      "variant": "绶带挂章；版别及材质待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-MOZAMBIQUE-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-MOZAMBIQUE"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-LESOTHO-001",
+      "family": "MIN-AFR-LESOTHO-001",
+      "country_zh": "莱索托",
+      "awarding_authority": "莱索托",
+      "name": "莫舒舒勋章",
+      "original": "Order of Moshoeshoe",
+      "date": "1972年设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-LESOTHO-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-LESOTHO"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    },
+    {
+      "id": "MIN-AFR-SWAZILAND-001",
+      "family": "MIN-AFR-SWAZILAND-001",
+      "country_zh": "斯威士兰／埃斯瓦蒂尼",
+      "awarding_authority": "斯威士兰王国",
+      "name": "索布扎二世王家勋章",
+      "original": "Royal Order of Sobhuza II",
+      "date": "1975年6月18日设立",
+      "variant": "胸星；具体等级待考；低清参考",
+      "views": [
+        {
+          "key": "MIN-AFR-SWAZILAND-001-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "WAW-MIN-SWAZILAND"
+      ],
+      "research_notes": "Local research source photograph, unchanged watermark. Date from specialist object page; precise grade/material unasserted unless specified. No public redistribution permission inferred."
+    }
+  ]
+}

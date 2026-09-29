@@ -1,0 +1,132 @@
+{
+  "country": "安哥拉",
+  "slug": "angola",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/angola/order-of-the-national-hero.html",
+      "name": "Order of the National Hero"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-agostinho-neto.html",
+      "name": "Order of Agostinho Neto"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-independence.html",
+      "name": "Order of Independence"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-freedom-fighters.html",
+      "name": "Order of Freedom Fighters"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-military-merit.html",
+      "name": "Order of Military Merit"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-police-merit.html",
+      "name": "Order of Police Merit"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-peace-and-concord.html",
+      "name": "Order of Peace and Concord"
+    },
+    {
+      "url": "https://wawards.org/angola/order-of-civil-merit.html",
+      "name": "Order of Civil Merit"
+    },
+    {
+      "url": "https://wawards.org/angola/medal-for-mpla-veterans.html",
+      "name": "Medal for MPLA veterans"
+    },
+    {
+      "url": "https://wawards.org/angola/presidential-medal.html",
+      "name": "Presidential Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/the-2nd-anniversary-of-fapla-medal.html",
+      "name": "The 2nd Anniversary of FAPLA Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/medal-of-the-1st-of-august.html",
+      "name": "Medal of the 1st of August"
+    },
+    {
+      "url": "https://wawards.org/angola/medal-for-clandestine-fighter.html",
+      "name": "Medal for Clandestine Fighter"
+    },
+    {
+      "url": "https://wawards.org/angola/medal-of-the-4-february-1961.html",
+      "name": "Medal of the 4 february 1961"
+    },
+    {
+      "url": "https://wawards.org/angola/first-congress-of-the-mpla-medal.html",
+      "name": "First Congress of the MPLA Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/unta-medals.html",
+      "name": "UNTA Medals"
+    },
+    {
+      "url": "https://wawards.org/angola/20-years-of-mpla-medal.html",
+      "name": "20 Years of MPLA Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/50-years-of-mpla-medal.html",
+      "name": "50 Years of MPLA Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/for-strengthening-comradeship-in-arms-medal.html",
+      "name": "For Strengthening Comradeship in Arms Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/commemorative-medal-for-mavinga-liberation.html",
+      "name": "Commemorative Medal for Mavinga Liberation"
+    },
+    {
+      "url": "https://wawards.org/angola/11-november-medal.html",
+      "name": "11 November Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/star-of-freedom-medal.html",
+      "name": "Star of Freedom Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/military-merit-medal.html",
+      "name": "Military Merit Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/police-merit-medal.html",
+      "name": "Police Merit Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/peace-and-concord-medal.html",
+      "name": "Peace and Concord Medal"
+    },
+    {
+      "url": "https://wawards.org/angola/civil-and-social-merit-medal.html",
+      "name": "Civil and Social Merit Medal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/angola/12/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/angola-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "d157f81fa2a0392008b393a0f9a0900cdfae291df37a0fb66ec7a94bc1bc256a",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/angola.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/angola.html",
+  "object_page": "https://wawards.org/angola/order-of-the-national-hero.html",
+  "object_name": "Order of the National Hero",
+  "object_cache": "sources/cache/minimum_east_south_africa/angola-object-0.html",
+  "source_text": "Order of the National Hero Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the National Hero Ordem do Herói Nacional Order instituted on April 2004. Angola Previous article: Peace and Concord Medal Prev Next article: Order of Police Merit Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/angola/12/1.jpg"
+  ]
+}

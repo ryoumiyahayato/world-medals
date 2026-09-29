@@ -1,0 +1,124 @@
+{
+  "country": "斯威士兰／埃斯瓦蒂尼",
+  "slug": "swaziland",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/swaziland/royal-order-of-sobhuza-ii.html",
+      "name": "Royal Order of Sobhuza II"
+    },
+    {
+      "url": "https://wawards.org/swaziland/medal-mystic-warrior.html",
+      "name": "Medal Mystic Warrior"
+    },
+    {
+      "url": "https://wawards.org/swaziland/king-s-police-medal-for-distinguished-service.html",
+      "name": "King's Police Medal for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/swaziland/royal-police-long-service-medal.html",
+      "name": "Royal Police Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/defence-force-long-service-medal.html",
+      "name": "Defence Force Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/prisons-long-service-medal.html",
+      "name": "Prisons Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/correctional-service-medal-for-distinguished-service.html",
+      "name": "Correctional Service Medal for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/swaziland/diamond-jubilee-medal.html",
+      "name": "Diamond Jubilee Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/king-mswati-iii-coronation-medal.html",
+      "name": "King Mswati III Coronation medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/10-years-of-independence-medal.html",
+      "name": "10 Years of Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/25-years-of-independence-medal.html",
+      "name": "25 Years of Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/30-years-of-independence-medal.html",
+      "name": "30 Years of Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/40-years-of-independence-medal.html",
+      "name": "40 Years of Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/swaziland/45-years-of-independence-medal.html",
+      "name": "45 Years of Independence Medal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/swaziland/1/7.jpg",
+      "path": "assets/raw/minimum_east_south_africa/swaziland-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "6bd36b5a194da950761a3c9503a81f97a740e4008f5b7aec3e883a3b8abbe4be",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/swaziland/1/8.jpg",
+      "path": "assets/raw/minimum_east_south_africa/swaziland-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "14bc5823e2a51706247300ab8cd75993a17e3669e7621b16c7b5c68ec788ab84",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/swaziland/1/5.jpg",
+      "path": "assets/raw/minimum_east_south_africa/swaziland-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "56561addfd44223e3d442b003a4b0b882f9a64f390a13ae26800ae909ebb1973",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/swaziland/1/6.jpg",
+      "path": "assets/raw/minimum_east_south_africa/swaziland-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "714b20e9ec0dd701698c0dc8985dcaaf861996124dbeadd6c6a7b0fcd0db5869",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/swaziland/1/3.jpg",
+      "path": "assets/raw/minimum_east_south_africa/swaziland-4.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "84d02d04ec27c7b515e59d788d66cea79a69f759c9d6d840eea9d19bab298e53",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/swaziland.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/swaziland.html",
+  "object_page": "https://wawards.org/swaziland/royal-order-of-sobhuza-ii.html",
+  "object_name": "Royal Order of Sobhuza II",
+  "object_cache": "sources/cache/minimum_east_south_africa/swaziland-object-0.html",
+  "source_text": "Royal Order of Sobhuza II Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Royal Order of Sobhuza II Order instituted on 18 June 1975. Order awarded for outstanding service to Swaziland. Order have III grades: Grand Counsellor, Chief Counsellor and Counsellor. Swaziland Previous article: Royal Police Long Service Medal Prev Next article: Prisons Long Service Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/swaziland/1/7.jpg",
+    "https://wawards.org/images/swaziland/1/8.jpg",
+    "https://wawards.org/images/swaziland/1/5.jpg",
+    "https://wawards.org/images/swaziland/1/6.jpg",
+    "https://wawards.org/images/swaziland/1/3.jpg"
+  ]
+}

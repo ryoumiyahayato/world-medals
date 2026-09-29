@@ -1,0 +1,74 @@
+{
+  "as_of": "2026-09-29",
+  "records": [
+    {
+      "id": "CAN-ORDER-CANADA-COMPANION-OFFICIAL",
+      "family": "CAN-ORDER-CANADA",
+      "country_zh": "加拿大",
+      "awarding_authority": "加拿大",
+      "name": "加拿大勋章",
+      "original": "Order of Canada",
+      "date": "1967年设立",
+      "variant": "同伴级（Companion，C.C.）；颈挂章；官方图式·低清参考",
+      "views": [
+        {
+          "key": "CAN-ORDER-CANADA-COMPANION-F",
+          "label": "官方正面图式"
+        }
+      ],
+      "source_ids": [
+        "CAN-DND-CC-20260929"
+      ]
+    },
+    {
+      "id": "NZ-ORDER-MERIT-MEMBER-OFFICIAL",
+      "family": "NZ-ORDER-MERIT",
+      "country_zh": "新西兰",
+      "awarding_authority": "新西兰",
+      "name": "新西兰功绩勋章",
+      "original": "The New Zealand Order of Merit",
+      "date": "1996年5月30日设立",
+      "variant": "成员级（Member，MNZM）；银质及珐琅；直绶带佩章",
+      "views": [
+        {
+          "key": "NZ-ORDER-MERIT-MEMBER-F",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "NZ-DPMC-MNZM-20260929",
+        "NZ-DPMC-HISTORY-20260929"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "view_key": "CAN-ORDER-CANADA-COMPANION-F",
+      "local_path": "assets/images/minimum_coverage_root/canada_front.png",
+      "source_page": "https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/companion-order-canada-cc.html",
+      "original_url": "https://www.canada.ca/content/dam/themes/defence/caf/dhr/medals/companion-order-canada-cc-300.png",
+      "author_or_institution": "Department of National Defence, Canada",
+      "license": "Government of Canada material; retain attribution; local non-commercial research copy, not an official edition.",
+      "image_kind": "official_diagram",
+      "width": 300,
+      "height": 558,
+      "sha256": "8e2dd7850773ae238c5b88467978a44886da0cc9e6ee2b093d75a76dec4dc45d",
+      "accessed": "2026-09-29",
+      "visual_review": "Complete insignia and suspension checked by root; original retained without cropping."
+    },
+    {
+      "view_key": "NZ-ORDER-MERIT-MEMBER-F",
+      "local_path": "assets/images/minimum_coverage_root/new_zealand.jpg",
+      "source_page": "https://www.dpmc.govt.nz/image-galleries/2468/media?page=8",
+      "original_url": "https://www.dpmc.govt.nz/sites/default/files/2018-12/MNZM-FS-M-WB-01-clearcut-v2.jpg",
+      "author_or_institution": "Department of the Prime Minister and Cabinet, New Zealand",
+      "license": "CC BY 4.0; explicit notice on original photograph; https://creativecommons.org/licenses/by/4.0/",
+      "image_kind": "physical_photo",
+      "width": 4000,
+      "height": 2667,
+      "sha256": "1252e7aec0437369b925be2f3cacb2b699b2d4852389e8e0d77ac4b7624959e8",
+      "accessed": "2026-09-29",
+      "visual_review": "Complete insignia and suspension checked by root; original retained without cropping."
+    }
+  ]
+}

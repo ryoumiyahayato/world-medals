@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-09-29",
+  "uncovered_countries": [
+    "安哥拉",
+    "厄立特里亚",
+    "南苏丹",
+    "塞舌尔",
+    "毛里求斯"
+  ],
+  "notes": {
+    "安哥拉": "First source image may be a rendering, awaiting photographic source.",
+    "厄立里亚": "Search results concern foreign awards or sporting medals; no domestic formal decoration established by inspected sources.",
+    "南苏丹": "2018 army awards documented; full attributable object photos still missing."
+  },
+  "follow_up": "Revisit raw index candidates for grade and image provenance; minimum coverage is not source exhaustion."
+}

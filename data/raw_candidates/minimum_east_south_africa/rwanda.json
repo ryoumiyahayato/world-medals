@@ -1,0 +1,142 @@
+{
+  "country": "卢旺达",
+  "slug": "rwanda",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/rwanda/order-of-the-revolution.html",
+      "name": "Order of the Revolution"
+    },
+    {
+      "url": "https://wawards.org/rwanda/order-of-peace.html",
+      "name": "Order of Peace"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order.html",
+      "name": "National Order"
+    },
+    {
+      "url": "https://wawards.org/rwanda/order-of-the-thousand-hills.html",
+      "name": "Order of the Thousand Hills"
+    },
+    {
+      "url": "https://wawards.org/rwanda/order-of-the-grand-lakes.html",
+      "name": "Order of the Grand Lakes"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order-of-honor.html",
+      "name": "National Order of Honor"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order-of-outstanding-friendship.html",
+      "name": "Nat﻿ional Order of Ou﻿tstanding Frie﻿ndsh﻿i﻿p"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order-of-performance.html",
+      "name": "National Order of Performance﻿"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order-of-culture.html",
+      "name": "National Order of Culture﻿"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-order-of-bravery.html",
+      "name": "Nat﻿ional Order of Bra﻿ver﻿y﻿"
+    },
+    {
+      "url": "https://wawards.org/rwanda/national-liberation-medal.html",
+      "name": "National liberation medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/campaign-against-genocide-medal.html",
+      "name": "Campaign Against Genocide Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/service-medal.html",
+      "name": "Service Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/order-of-bravery-medal.html",
+      "name": "Order of Bravery Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/exemplary-performance-medal.html",
+      "name": "Exemplary Performance Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/defence-superior-service-medal.html",
+      "name": "Defence Superior Service Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/joint-command-superior-medal.html",
+      "name": "Joint Command Superior Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/land-forces-superior-service-medal.html",
+      "name": "Land Forces Superior Service Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/foreign-campaign-medal.html",
+      "name": "Foreign Campaign Medal"
+    },
+    {
+      "url": "https://wawards.org/rwanda/long-service-and-good-conduct-order.html",
+      "name": "Long Service and Good Conduct Order"
+    },
+    {
+      "url": "https://wawards.org/rwanda/distinguished-conduct-order.html",
+      "name": "Distinguished Conduct Order"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/rwanda/3/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/rwanda-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "4c5cf55d918031ae1f27475256f481dbfd72ccd9612baa447948704ee582ec22",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/rwanda/3/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/rwanda-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "c1ef2f8049629f60f15f3c50914c78bb4691b60ceb433f41055f1b49cc000df6",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/rwanda/3/3.jpg",
+      "path": "assets/raw/minimum_east_south_africa/rwanda-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "275f62631a8329788e6d0cde178ece770e801086ef40c704a9c23f154ab5cbbb",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/rwanda/3/4.jpg",
+      "path": "assets/raw/minimum_east_south_africa/rwanda-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "f05a7c327f0820dbf2deda8827fd8f0d3fc8f2162f1ad16cdcdbbe3966a73875",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/rwanda.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/rwanda.html",
+  "object_page": "https://wawards.org/rwanda/order-of-the-revolution.html",
+  "object_name": "Order of the Revolution",
+  "object_cache": "sources/cache/minimum_east_south_africa/rwanda-object-0.html",
+  "source_text": "Order of the Revolution Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Revolution Ordre National de la Revolution Order instituted by Decree no 16/76 of 7 April 1976. Order have five classes. Rwanda Previous article: Order of the Thousand Hills Prev Next article: Order of the Grand Lakes Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/rwanda/3/1.jpg",
+    "https://wawards.org/images/rwanda/3/2.jpg",
+    "https://wawards.org/images/rwanda/3/3.jpg",
+    "https://wawards.org/images/rwanda/3/4.jpg"
+  ]
+}

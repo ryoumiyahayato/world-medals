@@ -1,0 +1,92 @@
+{
+  "country": "布隆迪",
+  "slug": "burundi",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/burundi/royal-order-of-the-karyenda.html",
+      "name": "Royal Order of the Karyenda"
+    },
+    {
+      "url": "https://wawards.org/burundi/order-of-prince-rwagasore.html",
+      "name": "Order of Prince Rwagasore"
+    },
+    {
+      "url": "https://wawards.org/burundi/royal-order-of-ruzinko.html",
+      "name": "Royal Order of Ruzinko"
+    },
+    {
+      "url": "https://wawards.org/burundi/military-order-of-karyenda.html",
+      "name": "Military Order of Karyenda"
+    },
+    {
+      "url": "https://wawards.org/burundi/order-of-friendship-of-the-people.html",
+      "name": "Order of Friendship of the People"
+    },
+    {
+      "url": "https://wawards.org/burundi/order-of-patriotic-merit.html",
+      "name": "Order of Patriotic Merit"
+    },
+    {
+      "url": "https://wawards.org/burundi/order-of-civil-merit.html",
+      "name": "Order of Civil merit"
+    },
+    {
+      "url": "https://wawards.org/burundi/order-of-sword.html",
+      "name": "Order of Sword"
+    },
+    {
+      "url": "https://wawards.org/burundi/meritorious-service-medal.html",
+      "name": "Meritorious Service Medal"
+    },
+    {
+      "url": "https://wawards.org/burundi/medal-of-prince-rwagasore.html",
+      "name": "Medal of Prince Rwagasore"
+    },
+    {
+      "url": "https://wawards.org/burundi/first-anniversary-of-the-republic-medal.html",
+      "name": "First Anniversary of the Republic Medal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/burundi/2/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/burundi-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "40dc47e5cf38cd75ddf6fd079bd2a97270c5dead27dfef84b9855a85432709f7",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/burundi/2/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/burundi-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "0cd868fd0075dcd68d8e2fe61b476ffc3de4c16f18ee274ecf9defb604e62302",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/burundi/2/3.jpg",
+      "path": "assets/raw/minimum_east_south_africa/burundi-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "766cb46c4947f52ca9aac126728dcd8b3d02cde1158ff04949d9e1d0751b2780",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/burundi.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/burundi.html",
+  "object_page": "https://wawards.org/burundi/royal-order-of-the-karyenda.html",
+  "object_name": "Royal Order of the Karyenda",
+  "object_cache": "sources/cache/minimum_east_south_africa/burundi-object-0.html",
+  "source_text": "Royal Order of the Karyenda Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Royal Order of the Karyenda Ordre Royal du Karyenda Order instituted by King Mwambutsa IV on 1 July 1962. Order awarded for services to the state, primarily in the civil and diplomatic fields. Order have V classes. Burundi Next article: Order of Sword Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/burundi/2/1.jpg",
+    "https://wawards.org/images/burundi/2/2.jpg",
+    "https://wawards.org/images/burundi/2/3.jpg"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "country": "科摩罗",
+  "slug": "comoros",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/comoros/star-of-grand-comoro.html",
+      "name": "Star of Grand Comoro"
+    },
+    {
+      "url": "https://wawards.org/comoros/order-of-the-star-of-anjouan.html",
+      "name": "Order of the Star of Anjouan"
+    },
+    {
+      "url": "https://wawards.org/comoros/order-of-the-green-crescent.html",
+      "name": "Order of the Green Crescent"
+    },
+    {
+      "url": "https://wawards.org/comoros/order-of-the-star-of-moheli.html",
+      "name": "Order of the Star of Moheli"
+    },
+    {
+      "url": "https://wawards.org/comoros/medal-of-military-merit.html",
+      "name": "Medal of Military Merit"
+    },
+    {
+      "url": "https://wawards.org/comoros/medal-of-military-valour.html",
+      "name": "Medal of Military Valour"
+    },
+    {
+      "url": "https://wawards.org/comoros/medal-of-13-may-1978.html",
+      "name": "Medal of 13 May 1978"
+    },
+    {
+      "url": "https://wawards.org/comoros/gendarme-medal-of-honour.html",
+      "name": "Gendarme Medal of Honour"
+    },
+    {
+      "url": "https://wawards.org/comoros/honour-medal-of-the-armed-forces.html",
+      "name": "Honour Medal of the Armed Forces"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/comoros/2/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/comoros-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "26f0a32aced145f099e2f51ed4a682685ad23bce8a8bd6e54d68c4a0d344f6aa",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/comoros/2/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/comoros-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "72e5ce3346d46fe0eb1297305f3965ff426057d2a0812085457289cc59dd4ca8",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/comoros/2/3.jpg",
+      "path": "assets/raw/minimum_east_south_africa/comoros-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "cc0f90049b7cf1ef6d05c1a356ce8d5648e2d531918183f365c3033319b81a40",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/comoros/2/4.jpg",
+      "path": "assets/raw/minimum_east_south_africa/comoros-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "8834d047bf05ba63f3cdc43ad0a608b350f2cd39bc209d0f1cf3030897d90932",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/comoros/2/5.jpg",
+      "path": "assets/raw/minimum_east_south_africa/comoros-4.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "fe5f7f6518d9912b37e0f488067ccd2f59111e4e108a15a2f823ce67196efc6c",
+      "visual_status": "pending",
+      "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/comoros.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/comoros.html",
+  "object_page": "https://wawards.org/comoros/star-of-grand-comoro.html",
+  "object_name": "Star of Grand Comoro",
+  "object_cache": "sources/cache/minimum_east_south_africa/comoros-object-0.html",
+  "source_text": "Star of Grand Comoro Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Star of Grand Comoro L’Etoile de la Grande Comore Order instituted on 1 January 1886 by King Saidi Ali ibn Saidi Omar, as \"Star of Said Ali\". Order consisted of three classes: knights of single, double and triple star. The Order was revised on 3 February 1910 and being extended to five classes and the insignia and ribbon changing. Comoros Next article: Order of the Star of Moheli Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/comoros/2/1.jpg",
+    "https://wawards.org/images/comoros/2/2.jpg",
+    "https://wawards.org/images/comoros/2/3.jpg",
+    "https://wawards.org/images/comoros/2/4.jpg",
+    "https://wawards.org/images/comoros/2/5.jpg",
+    "https://wawards.org/images/comoros/2/6.jpg",
+    "https://wawards.org/images/comoros/2/7.jpg",
+    "https://wawards.org/images/comoros/2/8.jpg",
+    "https://wawards.org/images/comoros/2/9.jpg"
+  ]
+}

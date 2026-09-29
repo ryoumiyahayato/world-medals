@@ -1,0 +1,110 @@
+{
+  "country": "马达加斯加",
+  "slug": "madagascar",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/madagascar/kingdom-of-madagascar.html",
+      "name": "Kingdom of Madagascar"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar.html",
+      "name": "Republic of Madagascar"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/madagascar/1/2/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/madagascar-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "ff315c47db156136ee38a7359bebc5d601365b0b51651b5f02af5b38cf151cdf",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/madagascar/1/2/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/madagascar-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "3949653a5c0989c7639b7bd358857cb1511d607b7db5d9a7e48987cc5b7d8f21",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/madagascar/1/2/3.jpg",
+      "path": "assets/raw/minimum_east_south_africa/madagascar-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "e008f00dc2c0b6e40f4a5677dd013e67dd63ebc2258fc1955a823f3f35d683b6",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/madagascar.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/madagascar.html",
+  "nested_candidates": [
+    {
+      "url": "https://wawards.org/madagascar/kingdom-of-madagascar/order-of-radama-ii.html",
+      "name": "Order of Radama II"
+    },
+    {
+      "url": "https://wawards.org/madagascar/kingdom-of-madagascar/order-of-ranavalona-iii.html",
+      "name": "Order of Ranavalona III"
+    },
+    {
+      "url": "https://wawards.org/madagascar/kingdom-of-madagascar/king-radama-ii-coronation-medal.html",
+      "name": "King Radama II Coronation Medal"
+    },
+    {
+      "url": "https://wawards.org/madagascar/kingdom-of-madagascar/medal-of-recompense.html",
+      "name": "Medal of Recompense"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/national-order-of-madagascar.html",
+      "name": "National Order of Madagascar"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/order-of-merit.html",
+      "name": "Order of Merit"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/order-of-agricultural-merit.html",
+      "name": "Order of Agricultural Merit"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/order-of-sport-merit.html",
+      "name": "Order of Sport Merit"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/medal-of-honour-for-labour.html",
+      "name": "Medal of Honour for Labour"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/proclamation-of-the-republic-commemorative-medal.html",
+      "name": "Proclamation of the Republic commemorative medal"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/medal-of-honor-of-railways.html",
+      "name": "Medal of Honor of Railways"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/medal-of-honor-for-posts-and-telecommunications.html",
+      "name": "Medal of Honor for Posts and Telecommunications"
+    },
+    {
+      "url": "https://wawards.org/madagascar/republic-of-madagascar/medal-of-60th-anniversary-of-the-1947-uprising.html",
+      "name": "Medal of 60th Anniversary of the 1947 Uprising"
+    }
+  ],
+  "object_page": "https://wawards.org/madagascar/kingdom-of-madagascar/order-of-radama-ii.html",
+  "object_name": "Order of Radama II",
+  "object_cache": "sources/cache/minimum_east_south_africa/madagascar-nested-0.html",
+  "source_text": "Order of Radama II Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of Radama II Order instituted by King Radama II on 13 September 1862. Order awarded for civil and diplomatic services. Ribbon originally was broad white with five narrow vertical stripes, later modified to deep red with narrow white horizontal stripes (for nationals) or white edged with blue (foreigners). Order have five classes. Radama II - king of the Kingdom of Madagascar. Kingdom of Madagascar Previous article: Order of Ranavalona III Prev Next article: Medal of Recompense Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/madagascar/1/2/1.jpg",
+    "https://wawards.org/images/madagascar/1/2/2.jpg",
+    "https://wawards.org/images/madagascar/1/2/3.jpg"
+  ]
+}

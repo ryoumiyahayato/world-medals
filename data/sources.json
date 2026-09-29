@@ -854,5 +854,306 @@
       1596
     ],
     "license": "Sotheby’s copyright; local research only"
+  },
+  "IQ-POLICE-REG-1952": {
+    "source_id": "IQ-POLICE-REG-1952",
+    "title": "نظام نوط الشرطة / Police Medal Regulation No. 43 of 1952",
+    "page_url": "https://dijlex.com/iq/ar/legislation/police-medal-regulation-1952",
+    "source_type": "legislation_database_transcription",
+    "issuer": "Iraq - Federal (historical Kingdom of Iraq; as catalogued by page)",
+    "published_reference": "Iraqi Official Gazette issue 3168, publication date 1952-10-09; regulation dated 1952-09-17",
+    "accessed": "2026-09-29",
+    "local_source": "sources/cache/minimum_coverage_asia/dijlex_iraq_police_medal_regulation_43_1952_extract.txt",
+    "rights_note": "Text page is a third-party reproduction of a cited legal text; original Gazette scan not retrieved. The site required a JavaScript verification page for direct local caching; content was read using the web open result.",
+    "page": "https://dijlex.com/iq/ar/legislation/police-medal-regulation-1952",
+    "summary": "Iraqi Official Gazette issue 3168, publication date 1952-10-09; regulation dated 1952-09-17"
+  },
+  "IQ-COMMONS-POLICE-1953": {
+    "source_id": "IQ-COMMONS-POLICE-1953",
+    "title": "نوط الشرطة للخدمة الممتازة.jpg / Police Medal Badge for Excellent Service in 1953",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%D9%86%D9%88%D8%B7_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9_%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%D9%86%D9%88%D8%B7_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9_%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9.jpg",
+    "source_type": "physical_object_photo",
+    "author": "Hasan mazin",
+    "date": "Commons file page upload revision 2021-04-16; file description calls pictured object 1953",
+    "license": "CC BY-SA 4.0 (also GFDL 1.2+)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "accessed": "2026-09-29",
+    "local_source": "sources/cache/minimum_coverage_asia/commons_iraq_police_excellent_service_file.html",
+    "local_image": "assets/images/minimum_coverage_asia/iraq_police_excellent_service_medal.jpg",
+    "image_dimensions": [
+      543,
+      1179
+    ],
+    "image_bytes": 456534,
+    "image_sha256": "0f483057350014cd2b5983c57d577da8eab919395b5dd9650115c77e418bfef6",
+    "image_note": "Original JPEG downloaded from Commons Special:FilePath, fully decoded, visually checked; complete obverse medal and full ribbon visible, no crop or generated content.",
+    "page": "https://commons.wikimedia.org/wiki/File:%D9%86%D9%88%D8%B7_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9_%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9.jpg",
+    "summary": "Original JPEG downloaded from Commons Special:FilePath, fully decoded, visually checked; complete obverse medal and full ribbon visible, no crop or generated content."
+  },
+  "IQ-IA-POLICE-2010": {
+    "source_id": "IQ-IA-POLICE-2010",
+    "title": "نوط الشرطة للخدمة الممتازة / Iraq police medal photograph metadata",
+    "page_url": "https://archive.org/details/20210416_20210416_1248",
+    "source_type": "archival_photo_metadata",
+    "author_on_archive": "Ivar21",
+    "published": "2010-11-21",
+    "caption": "صورة نوط الشرطة للخدمة الممتازة 1953",
+    "license": "Attribution-ShareAlike 4.0 International",
+    "accessed": "2026-09-29",
+    "local_source": "sources/cache/minimum_coverage_asia/internet_archive_iraq_police_medal_photo.html",
+    "relationship_note": "Image-source record linked from the Commons file page; supports the photo provenance/description and is not treated as an independent physical specimen.",
+    "page": "https://archive.org/details/20210416_20210416_1248",
+    "summary": "صورة نوط الشرطة للخدمة الممتازة 1953"
+  },
+  "IQ-OMSA-POLICE-REG-1952": {
+    "source_id": "IQ-OMSA-POLICE-REG-1952",
+    "title": "Medal of the Order of Rafidain / Iraq source bibliography (JOMSA Vol. 57, no. 1)",
+    "page_url": "https://www.omsa.org/files/jomsa_arch/Splits/2006/684219_JOMSA_Vol57_1_19.pdf",
+    "source_type": "specialist_medal_journal",
+    "publisher": "Orders and Medals Society of America",
+    "languages": [
+      "en"
+    ],
+    "accessed": "2026-09-29",
+    "pages_used": [
+      2
+    ],
+    "source_description": "该三页专业期刊文章在参考文献中明确列出伊拉克警察奖章规章 Regulation No. 43 of 1952，独立 corroborate 法规编号与年代；不是官方法规原件。",
+    "local_source": null,
+    "page": "https://www.omsa.org/files/jomsa_arch/Splits/2006/684219_JOMSA_Vol57_1_19.pdf",
+    "summary": "该三页专业期刊文章在参考文献中明确列出伊拉克警察奖章规章 Regulation No. 43 of 1952，独立 corroborate 法规编号与年代；不是官方法规原件。"
+  },
+  "CAN-DND-CC-20260929": {
+    "page": "https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/companion-order-canada-cc.html",
+    "accessed": "2026-09-29",
+    "summary": "加拿大国防部：加拿大勋章1967年设立；本页为Companion级，颈佩。保存官方正面图式；低清参考。"
+  },
+  "NZ-DPMC-MNZM-20260929": {
+    "page": "https://www.dpmc.govt.nz/image-galleries/2468/media?page=8",
+    "accessed": "2026-09-29",
+    "summary": "DPMC官方图像页第9/11项：Member级，银质及珐琅，直绶带。原图4000×2667，照片自带CC BY 4.0标识；完整正面。"
+  },
+  "NZ-DPMC-HISTORY-20260929": {
+    "page": "https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/history",
+    "accessed": "2026-09-29",
+    "summary": "DPMC荣誉制度史：新西兰功绩勋章于1996年5月30日设立。"
+  },
+  "WAW-MIN-DJIBOUTI": {
+    "page": "https://wawards.org/djibouti/order-of-the-great-star-of-djibouti.html",
+    "summary": "Order of the Great Star of Djibouti Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Great Star of Djibouti Grande Etoile de Djibouti Order instituted by Ordinance No.78-032/PR of 28 March 1978. Order awarded for services to the country. Order have III classes. Djibouti Previous article: Order of the Star of Devotion Prev Next article: National Order of the Star of Education Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/djibouti-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-SOMALIA": {
+    "page": "https://wawards.org/somalia/order-of-the-somali-star.html",
+    "summary": "Order of the Somali Star Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Somali Star Ordine della Stella Somala Order instituted on 12 February 1961. Order awarded for outstanding service to Somalia. Order have V grades. Somalia Next article: Medal for the War with Ethiopia Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/somalia-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-KENYA": {
+    "page": "https://wawards.org/kenya/order-of-the-golden-heart.html",
+    "summary": "Order of the Golden Heart Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Golden Heart Order instituted on 21 April 1966. Order awarded for outstanding services to the Republic of Kenya. Order have three classes: Chief of the Golden Heart ( C.G.H.), Elder of the Golden Heart ( E.G.H.) and Moran of the Golden Hear ( M.G.H.). Kenya Previous article: Order of the Grand Warrior Prev Next article: Order of the Burning Spear Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/kenya-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-UGANDA": {
+    "page": "https://wawards.org/uganda/order-of-the-source-of-the-nile.html",
+    "summary": "Order of the Source of the Nile Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Source of the Nile Order awarded for distinguished merits in production, research, economic activities, social and cultural practices. Order have five classes. Uganda Previous article: Police and Fire Brigade Long Service Medal Prev Next article: Operational Service Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/uganda-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-TANZANIA": {
+    "page": "https://wawards.org/tanzania/order-of-the-torch-of-kilimandjaro.html",
+    "summary": "Order of the Torch of Kilimandjaro Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Torch of Kilimandjaro Nishani ya Mwenge wa Uhuru Order was instituted in 1977. Order awarded to heads of state, heads of government and governmental ministers. Order have III grades. Tanzania Previous article: Tanganyika Independence Medal Prev Next article: Medal of the Revolution Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/tanzania-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-RWANDA": {
+    "page": "https://wawards.org/rwanda/order-of-the-revolution.html",
+    "summary": "Order of the Revolution Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Revolution Ordre National de la Revolution Order instituted by Decree no 16/76 of 7 April 1976. Order have five classes. Rwanda Previous article: Order of the Thousand Hills Prev Next article: Order of the Grand Lakes Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/rwanda-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-BURUNDI": {
+    "page": "https://wawards.org/burundi/royal-order-of-the-karyenda.html",
+    "summary": "Royal Order of the Karyenda Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Royal Order of the Karyenda Ordre Royal du Karyenda Order instituted by King Mwambutsa IV on 1 July 1962. Order awarded for services to the state, primarily in the civil and diplomatic fields. Order have V classes. Burundi Next article: Order of Sword Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/burundi-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-COMOROS": {
+    "page": "https://wawards.org/comoros/star-of-grand-comoro.html",
+    "summary": "Star of Grand Comoro Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Star of Grand Comoro L’Etoile de la Grande Comore Order instituted on 1 January 1886 by King Saidi Ali ibn Saidi Omar, as \"Star of Said Ali\". Order consisted of three classes: knights of single, double and triple star. The Order was revised on 3 February 1910 and being extended to five classes and the insignia and ribbon changing. Comoros Next article: Order of the Star of Moheli Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/comoros-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-ETHIOPIA": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/order-of-solomon.html",
+    "summary": "Order of Solomon Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of Solomon Order instituted as the special class of the Order of the Seal of Solomon by Empress Zauditu in 1922. It was split off and created as an the independent Seal of Solomon with the single class of Collar by Emperor Haile Selassie I in 1930. Order awarded the Emperor and Empress, members of the Imperial Family, Foreign Sovereigns, and a maximum of three ordinary recipients who have rendered exceptionally meritorious services. Ethiopian Empire Previous article: Order of the Holy Trinity Prev Next article: Order of Emperor Menelik II Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/ethiopia-nested-0.html",
+    "license": "Copyright source owners; local research reference only"
+  },
+  "WAW-MIN-MADAGASCAR": {
+    "page": "https://wawards.org/madagascar/kingdom-of-madagascar/order-of-radama-ii.html",
+    "summary": "Order of Radama II Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of Radama II Order instituted by King Radama II on 13 September 1862. Order awarded for civil and diplomatic services. Ribbon originally was broad white with five narrow vertical stripes, later modified to deep red with narrow white horizontal stripes (for nationals) or white edged with blue (foreigners). Order have five classes. Radama II - king of the Kingdom of Madagascar. Kingdom of Madagascar Previous article: Order of Ranavalona III Prev Next article: Medal of Recompense Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/madagascar-nested-0.html",
+    "license": "Copyright source owners; local research reference only"
+  },
+  "WAW-MIN-SOUTH-AFRICA": {
+    "page": "https://wawards.org/south-africa/civil-honours/woltemade-decoration-for-bravery.html",
+    "summary": "Woltemade Decoration for Bravery Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Woltemade Decoration for Bravery Decoration instituted on 20 May 1970. Decoration awarded to South African citizens who performed acts of conspicuous bravery within or beyond the borders of the Republic of South Africa, and also to non-citizens who had distinguished themselves in this manner in the Republic or in territories belonging to or administered by the Republic, or who elsewhere and in the face of extreme danger had saved the lives of South African citizens or protected property belonging to the Republic, or endeavoured to do so. Decoration have two classes: gold and silver. South African Civil honours Next article: Woltemade Cross for Bravery Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/south-africa-nested-0.html",
+    "license": "Copyright source owners; local research reference only"
+  },
+  "WAW-MIN-NAMIBIA": {
+    "page": "https://wawards.org/namibia/order-of-the-eagle.html",
+    "summary": "Order of the Eagle Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Eagle Order instituted on 16 March 1995. Order awarded for diplomatic services. Namibia Previous article: Police Honourable Discharge Medal Prev Next article: Defence Force Campaign Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/namibia-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-BOTSWANA": {
+    "page": "https://wawards.org/botswana/presidential-order-of-botswana.html",
+    "summary": "Presidential Order of Botswana Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Presidential Order of Botswana Order instituted in 1979. The insignia for the Presidential Order of Botswana shall consist of an eight-pointed Star worn on the left breast and a broad sash with sash badge worn over the right shoulder to the left hip. Recipient can add the letters P.O.B. after his name. Botswana Previous article: Presidential Order of Honour Prev Next article: Police Long Service & Good Conduct Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/botswana-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-ZAMBIA": {
+    "page": "https://wawards.org/zambia/order-of-the-eagle-of-zambia.html",
+    "summary": "Order of the Eagle of Zambia Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Eagle of Zambia Order instituted on 23 October 1965. Order have four classes. Zambia Previous article: Order of the Grand Companion of Freedom Prev Next article: Operation Zebra Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/zambia-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-ZIMBABWE": {
+    "page": "https://wawards.org/zimbabwe/rhodesia/legion-of-merit.html",
+    "summary": "Legion of Merit Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Legion of Merit Order instituted in 1970. Order awarded to both civilian and military recipients for service to Rhodesia. Order have five classes. Rhodesia Previous article: Medal for Meritorious Service Prev Next article: Independence Decoration Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/zimbabwe-nested-0.html",
+    "license": "Copyright source owners; local research reference only"
+  },
+  "WAW-MIN-MALAWI": {
+    "page": "https://wawards.org/malawi/order-of-the-lion-of-malawi.html",
+    "summary": "Order of the Lion of Malawi Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Lion of Malawi Order instituted in 1967. Order awarded for distinguished and outstanding services to the people of Malawi. Order have five grades plus a medal. Malawi Previous article: Police Long Service and Good Conduct Medal Prev Next article: Order of National Achievement Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/malawi-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-MOZAMBIQUE": {
+    "page": "https://wawards.org/mozambique/order-of-friendship-and-peace.html",
+    "summary": "Order of Friendship and Peace Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of Friendship and Peace Info needed Mozambique Next article: Order of 4 October Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/mozambique-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-LESOTHO": {
+    "page": "https://wawards.org/lesotho/order-of-moshoeshoe.html",
+    "summary": "Order of Moshoeshoe Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of Moshoeshoe Order instituted in 1972. Order awarded for extraordinary merit. Moshoeshoe I - was the first son of Mokhachane. Lesotho Previous article: Order of Ramatseatsane Prev Next article: Order of Mohlomi Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/lesotho-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-MIN-SWAZILAND": {
+    "page": "https://wawards.org/swaziland/royal-order-of-sobhuza-ii.html",
+    "summary": "Royal Order of Sobhuza II Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Royal Order of Sobhuza II Order instituted on 18 June 1975. Order awarded for outstanding service to Swaziland. Order have III grades: Grand Counsellor, Chief Counsellor and Counsellor. Swaziland Previous article: Royal Police Long Service Medal Prev Next article: Prisons Long Service Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/minimum_east_south_africa/swaziland-object-0.html",
+    "license": "Copyright Ilja Repetski / source image owners; no open licence identified; local research reference only"
+  },
+  "WAW-BULK-ETHIOPIA-0994c78f112b92e5": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/silver-jubilee-medal.html",
+    "summary": "Silver Jubilee Medal Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Silver Jubilee Medal Medal instituted by Emperor Haile Selassie I in November 1955 to commemorate the 25 anniversary of the coronation of the Emperor and Empress in 1930. Medal have two classes. Ethiopian Empire Previous article: Star of Victory Prev Next article: Scholarship Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-0994c78f112b92e5.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-2dee993f602b55b0": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/emperor-haile-selassie-i-medal-of-national-service.html",
+    "summary": "Emperor Haile Selassie I Medal of National Service Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Emperor Haile Selassie I Medal of National Service Medal instituted by Emperor Haile Selassie I in 1932. Medal awarded for meritorious military and civil services. Medal have two classes: Gold Medal and Silver Medal. Ethiopian Empire Previous article: Eritrea Medal Prev Next article: Emperor Haile Selassie I Coronation Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-2dee993f602b55b0.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-35726b68d9f5f548": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/order-of-the-seal-of-solomon.html",
+    "summary": "Order of the Seal of Solomon Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Seal of Solomon Order instituted by Emperor Yohannes IV in 1874 as the Order of Solomon and amended by Emperor Haile Selassie I in 1930. Order awarded for rendered exceptionally meritorious services. Order have IV classes. Ethiopian Empire Previous article: Order of the Star of Ethiopia Prev Next article: Order of the Red Cross Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-35726b68d9f5f548.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-510b38e6d34c4182": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/scholarship-medal.html",
+    "summary": "Scholarship Medal Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Scholarship Medal Medal instituted by Emperor Haile Selassie I on 11 December 1959. Medal awarded for distinguished and meritorious services in the fields of education, scholarship, the arts and sciences. Medal have two classes. Ethiopian Empire Previous article: Silver Jubilee Medal Prev Next article: Order of the Star of Ethiopia Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-510b38e6d34c4182.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-6219e391be41d8ba": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/emperor-haile-selassie-i-coronation-medal.html",
+    "summary": "Emperor Haile Selassie I Coronation Medal Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Emperor Haile Selassie I Coronation Medal Medal instituted by Emperor Haile Selassie I on 30 November 1930. Medal awarded to those who attended or participated in coronation. Medal have two classes: Gold Medal and Silver Medal. Ethiopian Empire Previous article: Emperor Haile Selassie I Medal of National Service Prev Next article: Distinguished Military Medal of Haile Selassie I Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-6219e391be41d8ba.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-74cc7ded2f18ffbf": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/eritrea-medal.html",
+    "summary": "Eritrea Medal Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Eritrea Medal Medal instituted by Emperor Haile Selassie I in 1952. Medal awarded to reward participants in the struggle for the reunification of Eritrea with Ethiopia. Medal have III classes. Ethiopian Empire Previous article: Medal of Menelik II Prev Next article: Emperor Haile Selassie I Medal of National Service Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-74cc7ded2f18ffbf.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-7c5b592639a51fd2": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/medal-of-the-patriot-refugees.html",
+    "summary": "Medal of the Patriot Refugees Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Medal of the Patriot Refugees Medal instituted by Emperor Haile Selassie I on 30 November 1944. Medal awarded to patriots who went into exile and participated in the liberation struggle. Medal have single class. Torches added to medal ribbon for each year of service. Ethiopian Empire Previous article: Military Medal of Merit of the Order of St. George Prev Next article: Medal of the Campaign Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-7c5b592639a51fd2.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-847c48b319eacb58": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/commemorative-medal-for-the-korean-war.html",
+    "summary": "Commemorative Medal for the Korean War Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Commemorative Medal for the Korean War Medal instituted by Emperor Haile Selassie I on 11 December 1959. Medal awarded to soldiers of the Ethiopian contingent who took part in the Korean War under the direction of the United Nations. Ethiopian Empire Previous article: Congo Medal Prev Next article: Ethiopian Empire Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-847c48b319eacb58.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-baf64a123786babf": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/star-of-victory.html",
+    "summary": "Star of Victory Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Star of Victory Medal instituted by Emperor Haile Selassie I in 1941. Medal awarded for servicees during the Patriotic War against the Italian occupation 1935-1941. Medal have two grades: first for military personnel and second for auxiliary personnel and medical staff. Ethiopian Empire Previous article: The 25th Anniversary of Victory Medal Prev Next article: Silver Jubilee Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-baf64a123786babf.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-ca75cfd1ff04fdee": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/order-of-the-star-of-ethiopia.html",
+    "summary": "Order of the Star of Ethiopia Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Order of the Star of Ethiopia Order instituted by Emperor Menelik II in 1879. Order awarded to foreign and domestic civilian and military officials and individuals for service to the country. Order have V classes and medal. Ethiopian Empire Previous article: Scholarship Medal Prev Next article: Order of the Seal of Solomon Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-ca75cfd1ff04fdee.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-e15a69b4a2645612": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/medal-of-the-campaign.html",
+    "summary": "Medal of the Campaign Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Medal of the Campaign Medal instituted by Emperor Haile Selassie I on 30th November 1944. Medal awarded to patriots for meritorious military service against the enemy during the Campaign 1936-1941. Medal have single class. Torches added to medal ribbon for each year of service. Ethiopian Empire Previous article: Medal of the Patriot Refugees Prev Next article: Medal of Menelik II Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-e15a69b4a2645612.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
+  },
+  "WAW-BULK-ETHIOPIA-f35bbea4830a118e": {
+    "page": "https://wawards.org/ethiopia/ethiopian-empire/medal-of-menelik-ii.html",
+    "summary": "Medal of Menelik II Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Medal of Menelik II Medal instituted by Emperor Menelik II in 1899. Medal awarded for meritorious military and civil services. Medal have two classes: Gold Medal and Silver Medal. Ethiopian Empire Previous article: Medal of the Campaign Prev Next article: Eritrea Medal Next ©\n    2007 -     2026\n    Ilja Repetski",
+    "accessed": "2026-09-29",
+    "cache": "sources/cache/east_south_africa_bulk/ethiopia-f35bbea4830a118e.html",
+    "license": "Copyright source owners; local research only, no public redistribution permission inferred"
   }
 }

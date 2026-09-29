@@ -1,0 +1,269 @@
+{
+  "country": "津巴布韦",
+  "slug": "zimbabwe",
+  "accessed": "2026-09-29",
+  "status": "downloaded_pending_review",
+  "candidates": [
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia.html",
+      "name": "Rhodesia"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe.html",
+      "name": "Republic of Zimbabwe"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/zimbabwe/1/14/5.jpg",
+      "path": "assets/raw/minimum_east_south_africa/zimbabwe-0.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "d78f903c950b1b57cd73d9c645a85b6067757042d7cc6506fb6edc598c952b55",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/zimbabwe/1/14/6.jpg",
+      "path": "assets/raw/minimum_east_south_africa/zimbabwe-1.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "12dd656fa13f5744383d82773e9b2c6eed3ac52194243bbcf8e3926c35914b50",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/zimbabwe/1/14/7.jpg",
+      "path": "assets/raw/minimum_east_south_africa/zimbabwe-2.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "0bff90634eb40a1535d1d0c364170b2bb8d36521760b4bd45a0133331ab1d328",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/zimbabwe/1/14/1.jpg",
+      "path": "assets/raw/minimum_east_south_africa/zimbabwe-3.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "8c9d6785df7c125f7c7b95cf1f0cce7c9aba53af9c7072ed526641414ef4083b",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    },
+    {
+      "url": "https://wawards.org/images/zimbabwe/1/14/2.jpg",
+      "path": "assets/raw/minimum_east_south_africa/zimbabwe-4.jpg",
+      "width": 600,
+      "height": 600,
+      "sha256": "70f94df6b3d103da9b197aed9927d6f7deb7477c2275e71003f5715aa3b14b53",
+      "visual_status": "pending",
+      "license": "Copyright source owners; local research reference only"
+    }
+  ],
+  "directory": "https://wawards.org/zimbabwe.html",
+  "directory_cache": "sources/cache/minimum_east_south_africa/zimbabwe.html",
+  "nested_candidates": [
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/legion-of-merit.html",
+      "name": "Legion of Merit"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/grand-cross-of-valour.html",
+      "name": "Grand Cross of Valour"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/silver-cross-of-rhodesia.html",
+      "name": "Silver Cross of Rhodesia"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/bronze-cross-of-rhodesia.html",
+      "name": "Bronze Cross of Rhodesia"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/defence-cross-for-distinguished-service.html",
+      "name": "Defence Cross for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/meritorious-conduct-medal.html",
+      "name": "Meritorious Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/defence-force-medal-for-meritorious-service.html",
+      "name": "Defence Force Medal for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/general-service-medal.html",
+      "name": "General Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/conspicuous-gallantry-decoration.html",
+      "name": "Conspicuous Gallantry Decoration"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/independence-decoration.html",
+      "name": "Independence Decoration"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/independence-commemorative-decoration.html",
+      "name": "Independence Commemorative Decoration"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/medal-for-meritorious-service.html",
+      "name": "Medal for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/president-s-medal-for-chiefs.html",
+      "name": "President’s Medal for Chiefs"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/president-s-medal-for-headmen.html",
+      "name": "President’s Medal for Headmen"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/exemplary-service-medal.html",
+      "name": "Exemplary Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/rhodesian-district-service-medal.html",
+      "name": "Rhodesian District Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/medal-for-territorial-or-reserve-service.html",
+      "name": "Medal for Territorial or Reserve Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/fire-brigade-long-service-and-good-conduct-medal.html",
+      "name": "Fire Brigade Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/rhodesia-badge-of-honour.html",
+      "name": "Rhodesia Badge of Honour"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/president-s-medal-for-shooting.html",
+      "name": "President’s Medal for Shooting"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-cross-for-conspicuous-gallantry.html",
+      "name": "Police Cross for Conspicuous Gallantry"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-decoration-for-gallantry.html",
+      "name": "Police Decoration for Gallantry"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-cross-for-distinguished-service.html",
+      "name": "Police Cross for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-medal-for-meritorious-service.html",
+      "name": "Police Medal for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-long-service-and-good-conduct-medal.html",
+      "name": "Police Long Service and Good Conduct Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/police-reserve-long-service-medal.html",
+      "name": "Police Reserve Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-cross-for-gallantry.html",
+      "name": "Prison Cross for Gallantry"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-cross-for-distinguished-service.html",
+      "name": "Prison Cross for Distinguished Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-medal-for-gallantry.html",
+      "name": "Prison Medal for Gallantry"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-medal-for-meritorious-service.html",
+      "name": "Prison Medal for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-long-service-medal.html",
+      "name": "Prison Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/rhodesia/prison-service-medal.html",
+      "name": "Prison Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/zimbabwe-order-of-merit.html",
+      "name": "Zimbabwe Order of Merit"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/gold-cross-of-zimbabwe.html",
+      "name": "Gold Cross of Zimbabwe"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/silver-cross-of-zimbabwe.html",
+      "name": "Silver Cross of Zimbabwe"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/bronze-cross-of-zimbabwe.html",
+      "name": "Bronze Cross of Zimbabwe"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/commendation-medal.html",
+      "name": "Commendation Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/liberation-decoration.html",
+      "name": "Liberation Decoration"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/liberation-medal.html",
+      "name": "Liberation Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/independence-medal.html",
+      "name": "Independence Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/mozambique-campaign-medal.html",
+      "name": "Mozambique Campaign Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/democratic-republic-of-congo-campaign-medal.html",
+      "name": "Democratic Republic of Congo Campaign Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/medal-for-meritorious-service.html",
+      "name": "Medal for Meritorious Service"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/long-and-exemplary-service-medal.html",
+      "name": "Long and Exemplary Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/efficiency-medal.html",
+      "name": "Efficiency Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/public-service-long-service-medal.html",
+      "name": "Public Service Long Service Medal"
+    },
+    {
+      "url": "https://wawards.org/zimbabwe/republic-of-zimbabwe/service-medal.html",
+      "name": "Service Medal"
+    }
+  ],
+  "object_page": "https://wawards.org/zimbabwe/rhodesia/legion-of-merit.html",
+  "object_name": "Legion of Merit",
+  "object_cache": "sources/cache/minimum_east_south_africa/zimbabwe-nested-0.html",
+  "source_text": "Legion of Merit Home Europe Asia America Africa Oceania Links Back Tags list Allies Research Back Societies Forums Back All updates Album sheets Reference Catalogue Search Legion of Merit Order instituted in 1970. Order awarded to both civilian and military recipients for service to Rhodesia. Order have five classes. Rhodesia Previous article: Medal for Meritorious Service Prev Next article: Independence Decoration Next ©\n    2007 -     2026\n    Ilja Repetski",
+  "image_candidates": [
+    "https://wawards.org/images/zimbabwe/1/14/5.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/6.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/7.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/1.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/2.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/3.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/4.jpg",
+    "https://wawards.org/images/zimbabwe/1/14/8.jpg"
+  ]
+}

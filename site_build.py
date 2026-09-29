@@ -13,6 +13,12 @@ unpictured=read('unpictured.json')
 queue=read('global_queue.json')
 manifest={x['key']:x for x in json.loads((ROOT/'image_manifest.json').read_text(encoding='utf-8'))}
 volume_specs=[
+ {'slug':'iraq_kingdom','title':'伊拉克王国','anchor':'iraq-kingdom','aliases':'伊拉克 Iraq Kingdom Police نوط الشرطة','country_group':'iraq',
+  'record_files':['minimum_coverage_iraq_20260929.json'],'manifest_files':['minimum_coverage_iraq_20260929_manifest.json']},
+ {'slug':'canada','title':'加拿大','anchor':'canada','aliases':'加拿大 Canada Order of Canada',
+  'record_files':['minimum_coverage_root_20260929.json'],'manifest_files':['minimum_coverage_root_20260929_manifest.json'],'countries':['加拿大']},
+ {'slug':'new_zealand','title':'新西兰','anchor':'new-zealand','aliases':'新西兰 New Zealand Aotearoa Order of Merit',
+  'record_files':['minimum_coverage_root_20260929.json'],'manifest_files':['minimum_coverage_root_20260929_manifest.json'],'countries':['新西兰']},
  {'slug':'ottoman_extra','title':'奥斯曼帝国','anchor':'ottoman-extra-internal','aliases':'奥斯曼 Ottoman Empire Osmanlı',
   'record_files':['ottoman_commons_batch1.json','mena_round7_2026-09-26.json','ottoman_medalbook_pack2.json','ottoman_kuenker299_batch2.json','ottoman_kuenker299_batch3.json','ottoman_kuenker299_batch4.json','ottoman_kuenker299_batch5.json','ottoman_kuenker299_batch6.json','ottoman_itu_tayyare.json','ottoman_itu_ferahi.json','ottoman_sinop_mdc.json','ottoman_tasvir_humayun.json','ottoman_nam_danube.json','ottoman_spink21001.json','ottoman_spink_variants.json','ottoman_spink_archive_variants.json','ottoman_cgb_current.json'],
   'manifest_files':['ottoman_commons_batch1_manifest.json','mena_round7_manifest_2026-09-26.json','ottoman_medalbook_pack2_manifest.json','ottoman_kuenker299_batch2_manifest.json','ottoman_kuenker299_batch3_manifest.json','ottoman_kuenker299_batch4_manifest.json','ottoman_kuenker299_batch5_manifest.json','ottoman_kuenker299_batch6_manifest.json','ottoman_itu_tayyare_manifest.json','ottoman_itu_ferahi_manifest.json','ottoman_sinop_mdc_manifest.json','ottoman_tasvir_humayun_manifest.json','ottoman_nam_danube_manifest.json','ottoman_spink21001_manifest.json','ottoman_spink_variants_manifest.json','ottoman_spink_archive_variants_manifest.json','ottoman_cgb_current_manifest.json'],
@@ -332,6 +338,8 @@ volume_specs=[
   'record_files':['bavaria_kingdom_pack1.json','bavaria_kingdom_pack2.json'],
   'manifest_files':['bavaria_kingdom_pack1_manifest.json','bavaria_kingdom_pack2_manifest.json']},
 ]
+minimum_specs=read('volumes/minimum_east_south_africa_20260929_specs.json')
+volume_specs.extend(minimum_specs)
 volumes=[]
 view_paths={}
 for spec in volume_specs:
@@ -481,7 +489,7 @@ node_anchor_map={
  '香港':'hong-kong','塞浦路斯':'cyprus','马尔代夫':'maldives',
  '哈萨克斯坦':'kazakhstan','吉尔吉斯斯坦':'kyrgyzstan','塔吉克斯坦':'tajikistan','塔吉克斯坦共和国':'tajikistan','土库曼斯坦':'turkmenistan','柬埔寨':'cambodia-kingdom','老挝':'laos-kingdom','文莱':'brunei','新加坡':'singapore','马来西亚联邦':'malaysia-federal','沙巴州':'sabah','砂拉越州':'sarawak','柔佛苏丹国':'johor','吉打苏丹国':'kedah','吉兰丹苏丹国':'kelantan','彭亨苏丹国':'pahang','霹雳苏丹国':'perak','乌兹别克斯坦':'uzbekistan','也门':'yemen',
  '英国':'uk','英国／大英帝国':'uk','大英帝国':'uk',
- '美国':'united-states',
+ '美国':'united-states','加拿大':'canada','新西兰':'new-zealand','伊拉克':'iraq-kingdom',
  '俄罗斯帝国':'russian-empire','苏联':'soviet-union','俄罗斯联邦':'russian-federation','瑞典':'sweden','丹麦':'denmark','冰岛':'iceland','挪威':'norway','荷兰':'netherlands','比利时':'belgium','卢森堡':'luxembourg','爱尔兰':'ireland',
  '意大利诸政权':'savoy-italy','匈牙利':'hungary',
  '芬兰':'finland',
@@ -497,6 +505,10 @@ node_anchor_map={
  '满洲国（1932–1945）':'manchukuo',
  '韩国':'south-korea','朝鲜':'north-korea',
 }
+for spec in minimum_specs:
+    for country in spec.get('countries',[]):
+        node_anchor_map[country]=spec['anchor']
+
 def render_node(node,level=0):
     name=node['name']; children=node.get('periods',[])
     if name=='菲律宾' and any(v['anchor']=='philippines-republic' for v in volumes):
