@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-b7f6e53c3f2de191",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html",
+  "page_title": "Ministry of Youth Affairs Merit Medal",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/b7f6e53c3f2de191.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Ministry of Youth Affairs Merit Medal Médaille du Mérite de la Jeunesse Medal instituted on 9 March 1981. Medal awarded for achievements in the field of physical, social and educational upbringing of the youth. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/3/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/3/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/3/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-467a007d4caf9152e55c.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "1016996189de1cc7a8b850447ba30ac64b4b59c1f3aa3197cc815b9e64c5cbc4",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/3/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-5855d6ba4f5f85bd95e4.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "6f29e835eb7bdc08be6652ae322100380238a5527f086e5af15436a5d7efb2f2",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/ministry-of-youth-affairs-merit-medal.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

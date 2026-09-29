@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-363551feb80a3cf9",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html",
+  "page_title": "Medal of Labor",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/363551feb80a3cf9.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Labor Médaille du Travail Medal instituted in 1955. Medal have three classes. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/11/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/11/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/11/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-2ca4f4cf448b307e4ee3.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "3a5ad910bc627dabdae3b57b8f8d066ee042a761c41368826eecec84fbffd64f",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/11/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-04fe5d6a44fd51ed6fd3.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "7c1b8f093930f16f92c0405d3252c61adb576a260d431096d9c5ee40f45c7259",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-labor.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

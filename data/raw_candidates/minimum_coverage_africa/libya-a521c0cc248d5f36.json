@@ -1,0 +1,24 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-a521c0cc248d5f36",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/kingdom-of-libya.html",
+  "page_title": "Kingdom of Libya",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/a521c0cc248d5f36.html",
+  "accessed": "2026-09-29",
+  "page_type": "category_or_text_page",
+  "candidate_status": "category_or_text_page",
+  "source_text": "Orders and medals of Kingdom of Libya Orders: Order of Al-Sanussi Order of Independence Medals: Al-Sanusi Army Liberation Medal",
+  "gallery_refs": [],
+  "images": [],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/kingdom-of-libya.html",
+    "https://wawards.org/libya/kingdom-of-libya/order-of-al-sanussi.html",
+    "https://wawards.org/libya/kingdom-of-libya/order-of-independence.html",
+    "https://wawards.org/libya/kingdom-of-libya/al-sanusi-army-liberation-medal.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

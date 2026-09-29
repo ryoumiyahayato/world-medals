@@ -30,3 +30,8 @@ body,#browse{min-height:100vh}#reading-book{top:20px}.turning-leaf{top:0;right:7
 #splash #loading-runner img#sweat{transform:rotate(0deg)}
 
 #page-scroll .section-heading{position:absolute;top:51px;right:18px;margin:0;padding:0;z-index:3;pointer-events:none}#page-scroll .section-heading h2{display:none}#page-scroll #count{font:10px/1.5 'Noto Serif SC',serif;color:#897b65}#page-scroll .directory-title{font:24px/1.8 'Noto Serif SC',serif;margin:20px 8px 18px;padding-bottom:12px;border-bottom:1px solid #cbbd9f88}.award-directory-entry{display:flex;align-items:center;gap:12px;text-align:left;width:100%;padding:15px 8px;border:0;border-bottom:1px solid #cbbd9f66;border-radius:0;font-size:15px;line-height:1.8;color:#423c31}.directory-number{font:11px Georgia,serif;color:#98886d}.directory-arrow{margin-left:auto;color:#a28f6e}.award-page-title{font:21px/1.7 'Noto Serif SC',serif;margin:22px 8px}.award-paging{display:flex;justify-content:space-between;gap:4px;margin:18px 0}.award-paging button{font-size:12px;min-width:0;padding:8px;color:#715d39;border-color:#cbbd9f}
+
+/* Search has one field; the outgoing query remains visible until the page turns. */
+body .filters{grid-template-columns:minmax(0,1fr)!important}
+.query-writing #results,.query-writing .section-heading,.query-writing #empty{visibility:hidden}
+#update-status:empty{display:none}

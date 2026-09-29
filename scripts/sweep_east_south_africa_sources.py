@@ -53,4 +53,9 @@ for country in sys.argv[1:]:
   except Exception as e:failures.append(dict(url=url,error=str(e)));print(country,'FAILED',url,str(e),flush=True)
   checkpoint=dict(as_of='2026-09-29',country=country,status='partial' if queue or failures else 'completed_visible_tree',pages=pages,downloaded_images=images,remaining_urls=queue,failures=failures,boundary='Same-country HTML paths reachable from country index; no off-country gallery or unrelated navigation')
   (C/(country+'-checkpoint.json')).write_text(json.dumps(checkpoint,ensure_ascii=False,indent=2),encoding='utf-8')
+ image_failures=[]
+ for candidate in O.glob(country+'-*.json'):
+  image_failures.extend(json.loads(candidate.read_text(encoding='utf-8')).get('image_failures',[]))
+ checkpoint=dict(as_of='2026-09-29',country=country,status='partial' if failures or image_failures else 'completed_visible_tree',pages=pages,downloaded_images=images,remaining_urls=[],failures=failures,image_failures=image_failures,boundary='Same-country HTML paths reachable from country index; completion refers to raw discovery, not reviewed atlas inclusion')
+ (C/(country+'-checkpoint.json')).write_text(json.dumps(checkpoint,ensure_ascii=False,indent=2),encoding='utf-8')
  print('COUNTRY FINISHED',country,pages,images,'failures',len(failures),flush=True)

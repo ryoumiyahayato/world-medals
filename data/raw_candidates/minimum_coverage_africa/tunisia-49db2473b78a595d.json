@@ -1,0 +1,66 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-49db2473b78a595d",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html",
+  "page_title": "Medal of Honor of the National Security",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/49db2473b78a595d.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Honor of the National Security Médaille d’honneur de la Sûreté Nationale Medal instituted by decree 74-39 of 26 January 1974. Medal awarded to officers of the National Security Service for 10 years of excellent service. On 29 March 1985, the medal was divided into two classes: second class (for 10 years of service) and first class (for 8 years of service). The original decree from 1974 can be viewed here. The original decree from 1985 can be viewed here. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/2.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/3.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-4f42f0187c0bb67753ff.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "9243ac2a930006987cd1ec7cc4c67b6f619460cdd32b5376379a0325f928416c",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-ebb0df748a57eb25d475.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "f7dced33a80d36caf1fd343d9e7522d585ea0a1dc87e2197b6ed04de2df16b77",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/13/3.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-c5a8f317d063966b37a6.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "da6fe52c37c1eb403110ad8ea23a2dd214569bc114bd1d884759119a608fb54c",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-national-security.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

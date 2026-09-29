@@ -11,6 +11,13 @@ OUT = ROOT / 'mobile/build/site'
 def export():
     OUT.mkdir(parents=True, exist_ok=True)
     shutil.copytree(ROOT / 'mobile/web', OUT, dirs_exist_ok=True)
+    introductions = json.loads((ROOT/'mobile/web/award-intros.json').read_text(encoding='utf-8'))
+    entries = []
+    for item in introductions['items']:
+        entries.append(dict(names=item['match_names'], volumePattern='soviet|ussr' if item['award_id']=='USSR-ORD-01' else '^france-',
+            paragraphs=item['introduction_zh'], sources=item['sources'],
+            variants=[dict(title=v['period'],text=v['form']) for v in item.get('variant_guidance',{}).get('period_forms',[])]))
+    (OUT/'award-intros.js').write_text('window.AWARD_INTROS='+json.dumps(entries,ensure_ascii=False).replace('</','<\\/')+';',encoding='utf-8')
     (OUT / 'images').mkdir(exist_ok=True)
     source = (ROOT / 'index.html').read_bytes()
     soup = BeautifulSoup(source.decode('utf-8'), 'html.parser')

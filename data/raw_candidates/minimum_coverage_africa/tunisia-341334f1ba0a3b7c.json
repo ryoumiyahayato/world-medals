@@ -1,0 +1,40 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-341334f1ba0a3b7c",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html",
+  "page_title": "Medal for the Expedition Against Adil Bey in 1867",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/341334f1ba0a3b7c.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal for the Expedition Against Adil Bey in 1867 Médaille commémorative de l’expédition contre l’insurrection d’Adel Bey. 1867 Medal instituted by Muhammad as-Sadiq Pasha-Bey in 1868. Medal awarded to recognise the services of those who took part in the military expedition led by the Bey al-Mahalla and General H.E. Ahmad Zaroou to Kabylie in order to suppress the rebellion headed by Prince Sidi Muhammad al-Adil Bey in 1865-1867. Medal have two classes. Ottoman Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/7/1.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/7/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-1e955473b5567cadbe73.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "c185b2c13110385fa5cf2bb23daab7c72d8fa6862240248461587d2deacd2511",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-adil-bey-in-1867.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

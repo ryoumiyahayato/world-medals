@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-84607a2d123dd3eb",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html",
+  "page_title": "Medal of Honor of the Customs",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/84607a2d123dd3eb.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Honor of the Customs Médaille d'honneur des douanes Medal instituted in 1971. Medal have two classes. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/17/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/17/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/17/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-2c0f012095955ab21f16.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "3ac989d31276de8f826baada45649663ecd170432c5416666ae4b9c9c624c589",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/17/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-ed617e0e2302310c1c70.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "9a825d671cdc09d8086e3c47887897471fafaf6d2bbb7add9164ff94404414f9",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-customs.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

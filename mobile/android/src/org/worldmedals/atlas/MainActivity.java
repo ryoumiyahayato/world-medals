@@ -79,7 +79,7 @@ public class MainActivity extends Activity {
   long now=System.currentTimeMillis(),last=getPreferences(0).getLong("lastAttempt",0);
   if(checking||(!manual&&now>=last&&now-last<15*60*1000L))return;
   checking=true;getPreferences(0).edit().putLong("lastAttempt",now).apply();
-  updateStatus("正在检查 GitHub 更新…");
+  
   new Thread(()->{
    try{
     String current=getPackageManager().getPackageInfo(getPackageName(),0).versionName;
@@ -91,7 +91,7 @@ public class MainActivity extends Activity {
       int status=connection.getResponseCode();
       if(status!=200){
        String reason=status==401?"GitHub 授权已失效，请在设置中重新填写令牌。":status==404?"无法读取私有仓库的更新。请在浏览器登录 GitHub 后查看发布页；尚未确认是否为最新版本。":status==403||status==429?"GitHub 暂时限制了请求，请稍后重试；尚未确认是否为最新版本。":"更新服务返回 HTTP "+status+"；尚未确认是否为最新版本。";
-       runOnUiThread(()->{updateStatus(reason);if(manual)message("未能检查更新",reason);});return;
+       runOnUiThread(()->{if(manual)message("未能检查更新",reason);});return;
       }
       ByteArrayOutputStream buffer=new ByteArrayOutputStream();try(InputStream in=connection.getInputStream()){byte[] chunk=new byte[8192];int n;while((n=in.read(chunk))!=-1){if(buffer.size()+n>2*1024*1024)throw new IOException("Response too large");buffer.write(chunk,0,n);}}
       JSONArray releases=new JSONArray(buffer.toString("UTF-8"));
@@ -109,12 +109,12 @@ public class MainActivity extends Activity {
     final String tag=best;
     String result=tag==null?"尚无已发布且含 APK 的手机版本；不能确认当前版本是否最新。":UpdateVersion.newer(tag,current)?"发现新版本 "+tag:"已检查：当前版本 "+current+"，没有更高的已发布手机版本。";
     runOnUiThread(()->{
-     updateStatus(result);
+
      if(tag!=null&&UpdateVersion.newer(tag,current)){
       if(manual||!tag.equals(getPreferences(0).getString("notifiedRelease",""))){getPreferences(0).edit().putString("notifiedRelease",tag).apply();message("发现新版本 "+tag,"请在发布页下载新版 APK，并由 Android 确认安装。同一签名更新会保留收藏与设置。");}
      }else if(manual)message("检查更新",result);
     });
-   }catch(Exception e){runOnUiThread(()->{String text="网络或更新数据异常，未能确认最新版本。请稍后重试。";updateStatus(text);if(manual)message("暂时无法检查更新",text);});}
+   }catch(Exception e){runOnUiThread(()->{String text="网络或更新数据异常，未能确认最新版本。请稍后重试。";if(manual)message("暂时无法检查更新",text);});}
    finally{runOnUiThread(()->checking=false);}
   },"release-check").start();
  }

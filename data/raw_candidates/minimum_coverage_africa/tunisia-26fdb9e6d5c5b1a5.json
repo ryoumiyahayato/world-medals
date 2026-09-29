@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-26fdb9e6d5c5b1a5",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html",
+  "page_title": "Medal of Honor of the Security of the Head of State and Officials",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/26fdb9e6d5c5b1a5.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Honor of the Security of the Head of State and Officials Médaille d’honneur de la Securité du Chef d’Etat et des personnalités officielles Medal instituted in 1989. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/16/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/16/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/16/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-32fb01e1a38f7f088fb0.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "8e55b8e26ba50d599c5ab0470e8f4936958ce2faf429909dfc23823574877e35",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/16/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-fc174d3b2ae5c1ef1b71.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "75566fcdd3c56b7395a313ead66c585a6cbd364e24ba777993172c8e77bd5a93",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/medal-of-honor-of-the-security-of-the-head-of-state-and-officials.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

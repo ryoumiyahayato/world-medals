@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-554051bac56891c1",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html",
+  "page_title": "Order of Cultural Merit",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/554051bac56891c1.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of Cultural Merit Ordre National du Mérite Culturel Order instituted by President Bourghiba by Law N° 66-61 of 5 July 1966 in III classes and was modified by the Law N°69-23 of 27 march 1969 in a V classes. Order awarded for significant contribution to the development of the Tunisian culture. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/7/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/7/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/7/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-9637d5389ab36a9df370.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "8650a800519aa73ddce72635ad2442f30a293edc8e2690730374aadd4f729528",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/2/7/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-7221a5231e64a316e88b.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "eec78eda16c683a6ceea174d5aaacced17df03e1487294c3f5f1024f73f291fc",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-cultural-merit.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

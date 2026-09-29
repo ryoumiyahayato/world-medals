@@ -51,8 +51,6 @@ function chronologicalKey(row){
 function editionKey(row){const period=scopeTitle(row.volume).match(/(?:1[0-9]|20)\d{2}/);return period?Number(period[0]):chronologicalKey(row);}
 const scopeOf=r=>r.volume.startsWith('france-')?'france-timeline':r.volume;
 function scopeTitle(id){return id==='france-timeline'?'法国 · 历代奖励':(CATALOG.volumes.find(v=>v.id===id)||{}).title||id;}
-function renderCountryPicker(){const q=$('country-search').value.trim().toLocaleLowerCase();$('country-options').replaceChildren();[...$('volume').options].filter(o=>o.value&&o.textContent.toLocaleLowerCase().includes(q)).forEach(o=>{const b=el('button',o.textContent,'country-choice');if(o.value===$('volume').value)b.setAttribute('aria-current','true');b.onclick=()=>{$('volume').value=o.value;$('country-picker').close();state.limit=30;requestPageRender();};$('country-options').append(b);});if(!$('country-options').children.length)$('country-options').append(el('p','没有匹配的国家或时期。'));}
-$('open-countries').onclick=()=>{$('country-search').value='';renderCountryPicker();$('country-picker').showModal();};$('close-countries').onclick=()=>$('country-picker').close();$('country-search').oninput=renderCountryPicker;$('clear-country').onclick=()=>{$('volume').value='';$('country-picker').close();render();};
 function el(tag,text,className){const n=document.createElement(tag);if(text)n.textContent=text;if(className)n.className=className;return n;}
 function toggleFavorite(row){state.favorites.has(row.id)?state.favorites.delete(row.id):state.favorites.add(row.id);write('favorites',[...state.favorites]);render();if(state.row)$('save').textContent=state.favorites.has(state.row.id)?'取消收藏':'收藏';}
 function renderRow(row){
@@ -68,13 +66,12 @@ window.readerNext=()=>{if(!selectedAward)return false;const i=readerGroups.findI
 function render(){
  if(!window.CATALOG)return;
  const query=$('query').value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean),volume=$('volume').value;
- $('open-countries').replaceChildren(el('span',volume?scopeTitle(volume):'国家/时期'),el('span','⌄'));
  const matching=CATALOG.rows.map(r=>({r,score:AtlasSearch.score($('query').value,r.searchIndex)})).filter(x=>x.score>0&&(state.tab!=='favorites'||state.favorites.has(x.r.id))).sort((a,b)=>b.score-a.score).map(x=>x.r);
  const browsing=!!volume;
  document.body.classList.toggle('has-results',browsing||query.length>0||state.tab==='favorites');
  if((browsing||query.length>0||state.tab==='favorites')&&window.openBookInstant)window.openBookInstant();
  const scope=volume+'|'+$('query').value+'|'+state.tab;if(scope!==readerScope){selectedAward=null;readerScope=scope;}
- $('home-book').hidden=false;writeBookQuery('');
+ $('home-book').hidden=false;writeBookQuery('');document.body.classList.remove('query-writing');
  const active=browsing||query.length>0||state.tab==='favorites';
  document.querySelector('.section-heading').hidden=!active;
  $('country-matches').replaceChildren();$('country-matches').hidden=true;$('results').replaceChildren();$('more').hidden=true;$('empty').hidden=true;
@@ -98,10 +95,16 @@ function render(){
  const index=readerGroups.findIndex(([key])=>key===selectedAward);if(index<0){selectedAward=null;render();return;}
  const items=readerGroups[index][1];items.sort((a,b)=>editionKey(a)-editionKey(b));
  const article=el('article',null,'award-article'),hero=el('div',null,'article-hero'),titleBlock=el('div');
- titleBlock.append(el('h2',AtlasBook.heading(items[0]),'award-page-title'));const route=window.CATEGORY_ROUTES[items[0].volume];titleBlock.append(el('p',route?route[2]:scopeTitle(items[0].volume),'article-country'));hero.append(titleBlock);
+ titleBlock.append(el('h2',AtlasBook.heading(items[0]),'award-page-title'));const route=window.CATEGORY_ROUTES[items[0].volume];titleBlock.append(el('p',scopeTitle(items[0].volume),'article-country'));hero.append(titleBlock);
  const representative=items.find(r=>r.photos.length);if(representative)hero.append(articlePhoto(representative,0));article.append(hero);
  const originals=[...new Set(items.map(r=>r.original).filter(Boolean))];if(originals.length)article.append(el('p',originals[0],'article-original'));
- const grades=[...new Set(items.map(r=>r.variant).filter(Boolean))];article.append(el('p','本条收录的等级与版型：'+grades.join('；')+'。','article-intro'));
+ $('count').textContent=items.length+'版型';
+ const intro=(window.AWARD_INTROS||[]).find(entry=>entry.names.includes(AtlasBook.heading(items[0]))&&(!entry.volumePattern||new RegExp(entry.volumePattern).test(items[0].volume)));
+ if(intro){intro.paragraphs.forEach(text=>article.append(el('p',text,'article-intro')));
+  if(intro.variants&&intro.variants.length){const history=el('section',null,'article-history');history.append(el('h3','版型沿革'));intro.variants.forEach(v=>{history.append(el('h4',v.title),el('p',v.text));});article.append(history);}
+  if(intro.sources&&intro.sources.length){const refs=el('details',null,'article-references');refs.append(el('summary','参考资料'));intro.sources.forEach(source=>{if(!/^https?:\/\//.test(source.url))return;const link=el('a',source.title);link.href=source.url;link.target='_blank';link.rel='noopener noreferrer';refs.append(link);});article.append(refs);}
+ }else{const dates=[...new Set(items.map(r=>r.date).filter(Boolean))];if(dates.length)article.append(el('p',dates.join('；'),'article-intro'));}
+
  const periods=new Map();items.forEach(r=>{if(!periods.has(r.volume))periods.set(r.volume,[]);periods.get(r.volume).push(r);});
  periods.forEach((variants,period)=>{const section=el('section',null,'article-period');section.id='period-'+period;section.append(el('h3',scopeTitle(period)));
   variants.forEach(row=>{const variant=el('section',null,'article-variant');variant.append(el('h4',row.variant||row.name));if(row.date)variant.append(el('p',row.date,'article-date'));if(row.original)variant.append(el('p',row.original,'article-original'));if(row.note)variant.append(el('p',row.note));
@@ -117,16 +120,19 @@ function articlePhoto(row,index){const p=row.photos[index],figure=el('figure'),b
 function openPhoto(row,index){state.row=row;state.photo=index;updatePhoto();if(!$('viewer').open)$('viewer').showModal();}
 function updatePhoto(){const r=state.row,p=r.photos[state.photo];$('full-photo').classList.remove('zoomed');$('zoom').textContent='放大';$('full-photo').src=p.src;$('full-photo').alt=p.alt||r.name;$('photo-caption').textContent=p.caption||p.alt;$('photo-number').textContent=`${state.photo+1} / ${r.photos.length}`;$('previous').disabled=state.photo===0;$('next').disabled=state.photo===r.photos.length-1;$('save').textContent=state.favorites.has(r.id)?'取消收藏':'收藏';$('detail').replaceChildren(el('p',r.name+' · '+r.original),el('p',r.date),el('p',r.variant));if(r.note)$('detail').append(el('p',r.note));r.sources.forEach(s=>{if(s.summary)$('detail').append(el('p',s.summary));if(/^https?:\/\//.test(s.page||'')){const a=el('a','打开来源网页');a.href=s.page;a.rel='noopener noreferrer';a.target='_blank';$('detail').append(a);}});if(p.originalSrc){const originalButton=el('button','查看来源原图');let showingOriginal=false;originalButton.onclick=()=>{showingOriginal=!showingOriginal;$('full-photo').src=showingOriginal?p.originalSrc:p.src;originalButton.textContent=showingOriginal?'查看处理图':'查看来源原图';};$('detail').append(el('p',p.processing),originalButton);}if(p.rights)$('detail').append(el('p',p.rights));if(p.credit)$('detail').append(el('p',p.credit));if(/^https?:\/\//.test(p.source||'')){const a=el('a','本图来源');a.href=p.source;a.target='_blank';a.rel='noopener noreferrer';$('detail').append(a);}if(!r.sources.length&&!p.source)$('detail').append(el('p','详细出处见原研究库对应条目。'));}
 $('close-viewer').onclick=()=>$('viewer').close();$('zoom').onclick=()=>{$('full-photo').classList.toggle('zoomed');$('zoom').textContent=$('full-photo').classList.contains('zoomed')?'适应屏幕':'放大';};$('previous').onclick=()=>openPhoto(state.row,state.photo-1);$('next').onclick=()=>openPhoto(state.row,state.photo+1);$('save').onclick=()=>toggleFavorite(state.row);
-let searchTimer=0;
+let searchTimer=0,queryRevision=0,inkReady=Promise.resolve(),lastQuery=null;
 function requestPageRender(){clearTimeout(searchTimer);if(window.turnAtlasPageForSearch&&document.body.classList.contains('book-is-open'))window.turnAtlasPageForSearch(render);else render();}
-let composing=false;$('query').oncompositionstart=()=>{composing=true;};$('query').oncompositionend=()=>{composing=false;$('query').oninput();};
-$('query').oninput=()=>{if(!composing)writeBookQuery($('query').value.trim());state.limit=30;clearTimeout(searchTimer);if(!composing)searchTimer=setTimeout(requestPageRender,500);};
-$('query').onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();$('query').blur();requestPageRender();}};
+let composing=false;
+function cancelQueryTransition(){queryRevision++;clearTimeout(searchTimer);if(window.cancelAtlasSearchTurn)window.cancelAtlasSearchTurn();}
+$('query').oncompositionstart=()=>{composing=true;lastQuery=null;cancelQueryTransition();};
+$('query').oncompositionend=()=>{composing=false;$('query').oninput();};
+$('query').oninput=()=>{if(composing)return;const text=$('query').value.trim();if(text===lastQuery)return;lastQuery=text;cancelQueryTransition();const revision=queryRevision;state.limit=30;document.body.classList.add('query-writing');inkReady=Promise.resolve(writeBookQuery($('query').value.trim()));inkReady.then(()=>{if(revision===queryRevision)searchTimer=setTimeout(requestPageRender,120);});};
+$('query').onkeydown=e=>{if(e.key==='Enter'&&!composing){e.preventDefault();$('query').blur();clearTimeout(searchTimer);const revision=queryRevision;inkReady.then(()=>{if(revision===queryRevision)requestPageRender();});}};
 $('volume').onchange=()=>{state.limit=30;requestPageRender();};$('more').onclick=()=>{state.limit+=30;render();};
-function navigate(tab){state.tab=tab;document.querySelectorAll('nav button').forEach(n=>{n.removeAttribute('aria-current');if(n.dataset.tab===(tab==='favorites'?'categories':tab))n.setAttribute('aria-current','page');});$('browse').hidden=tab==='settings'||tab==='categories';$('settings').hidden=tab!=='settings';$('categories').hidden=tab!=='categories';$('section-title').textContent=tab==='favorites'?'收藏':'图鉴';state.limit=30;render();window.scrollTo(0,0);}
+function navigate(tab){lastQuery=null;cancelQueryTransition();state.tab=tab;document.querySelectorAll('nav button').forEach(n=>{n.removeAttribute('aria-current');if(n.dataset.tab===(tab==='favorites'?'categories':tab))n.setAttribute('aria-current','page');});$('browse').hidden=tab==='settings'||tab==='categories';$('settings').hidden=tab!=='settings';$('categories').hidden=tab!=='categories';$('section-title').textContent=tab==='favorites'?'收藏':'图鉴';state.limit=30;render();window.scrollTo(0,0);}
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{if(b.dataset.tab==='catalog'){$('query').value='';$('volume').value='';if(window.resetBook)window.resetBook();}navigate(b.dataset.tab);});
 $('favorite-entry').onclick=()=>{$('query').value='';$('volume').value='';navigate('favorites');};
-$('updates').onclick=()=>{if(location.host==='appassets.androidplatform.net'){location.href='medalatlas://updates';}else{window.open('https://github.com/ryoumiyahayato/world-medals/releases','_blank','noopener');$('update-status').textContent='浏览器预览不执行原生版本检测；请登录 GitHub 查看发布页。当前尚未确认是否为最新版本。';}};
+$('updates').onclick=()=>{if(location.host==='appassets.androidplatform.net'){location.href='medalatlas://updates';}else{window.open('https://github.com/ryoumiyahayato/world-medals/releases','_blank','noopener');$('update-status').textContent='';}};
 async function startCatalog(){if(!window.CATALOG){catalogFailed();return;}const titles=new Map(CATALOG.volumes.map(v=>[v.id,v.title]));for(let i=0;i<CATALOG.rows.length;){const deadline=performance.now()+7;do{const r=CATALOG.rows[i++];r.searchIndex=AtlasSearch.prepare(r,titles.get(r.volume));}while(i<CATALOG.rows.length&&performance.now()<deadline);await new Promise(resolve=>setTimeout(resolve,0));}[{id:'france-timeline',title:'法国 · 历代奖励'},...CATALOG.volumes].forEach(v=>{const o=el('option',v.title);o.value=v.id;$('volume').append(o);});buildCategoryTree([{id:'france-timeline',title:'历代版型总览'},...CATALOG.volumes],id=>{$('query').value='';$('volume').value=id;navigate('catalog');});$('edition').textContent=`图鉴版本 v${(window.APP_VERSION||{name:"0.001"}).name}（dev）`;render();state.ready=true;}
 
 
@@ -138,3 +144,4 @@ async function startCatalog(){if(!window.CATALOG){catalogFailed();return;}const 
 
 
 $('authorize-updates').onclick=()=>{if(location.host==='appassets.androidplatform.net')location.href='medalatlas://authorize';else{window.open('https://github.com/settings/personal-access-tokens/new?name=World%20Medals%20Android&target_name=ryoumiyahayato&expires_in=90&contents=read','_blank','noopener');$('update-status').textContent='只选择 world-medals，Contents 设为 Read-only；生成后在手机 APK 的本机授权框填写。';}};
+

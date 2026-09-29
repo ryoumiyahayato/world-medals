@@ -1,0 +1,53 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-bcb4f6a183b83b8c",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html",
+  "page_title": "Medal for the Expedition Against Ben Gdahoum in 1864",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/bcb4f6a183b83b8c.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal for the Expedition Against Ben Gdahoum in 1864 Médaille commémorative de l’expédition contre l’insurrection de Ben Gdahoum. 1864 Medal instituted by Muhammad as-Sadiq Pasha-Bey in 1866. Medal awarded to recognise the services of those who took part in the military expedition to suppress the tribal uprising led by Ben Gdahoum culminating in his defeat at the Battle of Sousse on 7 October 1864 and his eventual capture and imprisonment at Tunis 27 April 1865. Medal have two classes. Ottoman Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/6/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/1/6/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/6/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-e8b72793fea75d6ed3a5.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "ecc7ebf491f447fa97c4f6844122dbd3b22789cb8ef334c3e9383c59d8a20036",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/tunisia/1/6/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-53d87ec2a53f4883e0b8.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "d407b5b5e4b9cc37744cfe99f83582739cff4ef9b63605d13bddb1a57dd025ad",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/medal-for-the-expedition-against-ben-gdahoum-in-1864.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

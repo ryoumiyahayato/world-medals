@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict');
+const B=require('../web/encyclopedia.js');
+const early={id:'a',family:'a',volume:'soviet-union',name:'列宁勋章'};
+const late={id:'b',family:'b',volume:'soviet-union',name:'列宁勋章'};
+const other={id:'c',family:'c',volume:'soviet-union',name:'纪念列宁诞辰一百周年奖章'};
+const foreign={id:'d',family:'d',volume:'another-country',name:'列宁勋章'};
+const groups=B.groups([early],[early,late,other,foreign]);
+assert.equal(groups.length,1);
+assert.deepEqual(groups[0][1].map(r=>r.id),['a','b']);
+const ordinary={id:'e',volume:'v',name:'功绩勋章'};
+assert.equal(B.groups([ordinary],[ordinary,{...ordinary,id:'f'}])[0][1].length,2);
+console.log('Matching a variant includes its family; unrelated commemoratives and foreign awards remain separate.');

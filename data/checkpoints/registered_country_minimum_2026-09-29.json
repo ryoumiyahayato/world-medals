@@ -26,9 +26,9 @@
     "莱索托",
     "斯威士兰／埃斯瓦蒂尼"
   ],
-  "new_families": 22,
-  "new_variants": 22,
-  "new_complete_images": 22,
+  "new_families": 34,
+  "new_variants": 34,
+  "new_complete_images": 34,
   "physical_photos": 2,
   "official_diagrams": 1,
   "export": {
@@ -38,7 +38,7 @@
     "catalogueVersion": "186526530bc3"
   },
   "apk_rebuilt": false,
-  "next": "All three Luna agents informed. Expand all visible award pages within assigned Wawards country directories; main task reviews and merges batches. 19 additional local research image rows are in index.html; mobile export for these is pending.",
+  "next": "Source-first expansion active. Ethiopia additional 12 families are built into offline index.html. Mobile export/APK does not yet include these 12. Europe 9, Africa 20 and Americas 9 staging records require main review; raw whole-directory sweeps continue.",
   "files": [
     "index.html",
     "mobile/build/site/catalog.js",

@@ -1,0 +1,33 @@
+{
+  "source_id": "WAW-AFRICA-SENEGAL-1e4e44eeb29cfeae",
+  "region": "west_africa",
+  "country_scope": "Senegal",
+  "country_slug": "senegal",
+  "source_page": "https://wawards.org/senegal.html",
+  "page_title": "Senegal",
+  "parent_page": null,
+  "source_cache": "sources/cache/minimum_coverage_africa/1e4e44eeb29cfeae.html",
+  "accessed": "2026-09-29",
+  "page_type": "category_or_text_page",
+  "candidate_status": "category_or_text_page",
+  "source_text": "Orders and medals of Senegal Orders: Order of the Lion Order of Merit Order of Academic Palms Order of Agricultural Merit Medals: Cross of Military Valour Military Medal Medal of Honour of the Gendarmerie Medal of Honour of the Police Medal of Honour of the Custom Service Medal of Honour of Firefighters Wounded Medal Medal of Labor",
+  "gallery_refs": [],
+  "images": [],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/senegal.html",
+    "https://wawards.org/senegal/order-of-the-lion.html",
+    "https://wawards.org/senegal/order-of-merit.html",
+    "https://wawards.org/senegal/order-of-academic-palms.html",
+    "https://wawards.org/senegal/order-of-agricultural-merit.html",
+    "https://wawards.org/senegal/cross-of-military-valour.html",
+    "https://wawards.org/senegal/military-medal.html",
+    "https://wawards.org/senegal/medal-of-honour-of-the-gendarmerie.html",
+    "https://wawards.org/senegal/medal-of-honour-of-the-police.html",
+    "https://wawards.org/senegal/medal-of-honour-of-the-custom-service.html",
+    "https://wawards.org/senegal/medal-of-honour-of-firefighters.html",
+    "https://wawards.org/senegal/wounded-medal.html",
+    "https://wawards.org/senegal/medal-of-labor.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

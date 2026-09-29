@@ -1,0 +1,49 @@
+{
+  "source_id": "WAW-AFRICA-SENEGAL-b0232e3fd57ac916",
+  "region": "west_africa",
+  "country_scope": "Senegal",
+  "country_slug": "senegal",
+  "source_page": "https://wawards.org/senegal/cross-of-military-valour.html",
+  "page_title": "Cross of Military Valour",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/b0232e3fd57ac916.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Cross of Military Valour Croix de﻿ la Valeur Militaire Decoration instituted by Law 68-109 of 1 February 1968. Decoration awarded for individual citation in peace or in war time but also to units. Senegal",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/senegal/6/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/senegal/6/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/senegal/6/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-294f1b694099861ff5f6.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "186bcdc42023033398de2f30a2d589c368a402c88a73c1074c628b6f1a8cfb5e",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/senegal/6/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-0d89416feb7f45c1eeff.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "e4b4fa6a1890280213fca663364fd64dd9a23039e82c187ae2cb5ebf48ae08d8",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/senegal/cross-of-military-valour.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

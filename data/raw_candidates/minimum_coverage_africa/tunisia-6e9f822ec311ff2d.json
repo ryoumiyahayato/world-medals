@@ -1,0 +1,40 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-6e9f822ec311ff2d",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html",
+  "page_title": "Order of Independence",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/6e9f822ec311ff2d.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of Independence Ordre de l’Indepéndance Order instituted on 6 September 1956 and was modified in 1963. Order awarded to recognise the services of those who struggled to achieve the independence from France. Order have five classes. Republic of Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/5/1.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/2/5/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-70daaf1869de22038452.jpg",
+      "width": 611,
+      "height": 611,
+      "format": "JPEG",
+      "sha256": "3810768b50c4fd02487f9e4fa2abfc59d16a03fe0ce7a5e71bf2be2ee3f33efe",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html",
+    "https://wawards.org/tunisia/republic-of-tunisia/order-of-independence.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

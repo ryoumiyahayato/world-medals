@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-09-29",
+  "status": "draft_verified_for_ui_integration",
+  "items": [
+    {
+      "award_id": "USSR-ORD-01",
+      "canonical_name_zh": "列宁勋章",
+      "issuer": "苏联",
+      "match_names": [
+        "列宁勋章",
+        "苏联列宁勋章",
+        "列寧勳章",
+        "蘇聯列寧勳章",
+        "Order of Lenin",
+        "Орден Ленина",
+        "Орден Ленина СССР"
+      ],
+      "paragraph_roles": [
+        "制度事实",
+        "型制沿革与图鉴判型说明"
+      ],
+      "introduction_zh": [
+        "列宁勋章由苏联中央执行委员会主席团于1930年4月6日设立，章程于同年5月5日批准。苏联总统图书馆记载，它是苏联最高政府奖励，授予个人、集体、机构、企业和社会组织，以表彰社会主义建设与国防方面的突出贡献；它也是苏联首个兼奖劳动和战斗功绩的勋章。",
+        "勋章以列宁肖像为中心，周围配有麦穗、红旗、红星和镰锤等图案。其外形和佩戴结构多次调整，从早期螺杆固定式发展为五角绶带托悬挂式；这些是历史版型的变化，并非不同等级。"
+      ],
+      "verified_facts": [
+        {
+          "claim_zh": "设立于1930年4月6日，章程于1930年5月5日批准。",
+          "source_ids": [
+            "USSR-PRLIB-LENIN-1930"
+          ]
+        },
+        {
+          "claim_zh": "授奖涉及社会主义建设及国防功绩，可授予个人和集体等；兼有劳动与战斗功绩授奖性质。",
+          "source_ids": [
+            "USSR-PRLIB-LENIN-1930"
+          ]
+        }
+      ],
+      "variant_guidance": {
+        "is_grade_list": false,
+        "summary_zh": "以下是收藏型制目录采用的主要时期型式，不是官方等级。1930、1934、1936、1943及20世纪50年代后的型式，分别依据主要正面图案、浮雕结构、背面固定方式和外形区分；具体条目仍须核对对应实物。",
+        "period_forms": [
+          {
+            "period": "1930年起，至1934年型制改革前",
+            "form": "早期“拖拉机”型：列宁圆形肖像浮雕配工业背景和拖拉机图案。",
+            "source_ids": [
+              "USSR-MONDVOR-LENIN-P1"
+            ]
+          },
+          {
+            "period": "1934年改革后，至1936年型式出现前",
+            "form": "取消拖拉机和工业背景，加入红旗、红星等图案。",
+            "source_ids": [
+              "USSR-MONDVOR-LENIN-P1"
+            ]
+          },
+          {
+            "period": "1936年6月起至1943年6月",
+            "form": "列宁浮雕成为独立铂质部件，以铆钉固定；背面采用螺杆、螺母固定。",
+            "source_ids": [
+              "USSR-MONDVOR-LENIN-P1"
+            ]
+          },
+          {
+            "period": "1943年6月起至20世纪50年代",
+            "form": "增设吊耳和环，连接五角绶带托；章体轮廓较圆。",
+            "source_ids": [
+              "USSR-MONDVOR-LENIN-P2"
+            ]
+          },
+          {
+            "period": "20世纪50年代起至1991年",
+            "form": "绶带悬挂型，章体外形较前型更趋椭圆。",
+            "source_ids": [
+              "USSR-MONDVOR-LENIN-P3"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "source_id": "USSR-PRLIB-LENIN-1930",
+          "title": "Учреждён орден Ленина и орден Красной Звезды",
+          "publisher": "Б.Н. Ельцин总统图书馆（俄罗斯国家级总统图书馆）",
+          "url": "https://www.prlib.ru/node/619149",
+          "source_type": "官方图书馆历史资料",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "页面记载设立及章程批准日期、奖励对象和劳动／战斗两类功绩。"
+        },
+        {
+          "source_id": "USSR-MONDVOR-LENIN-P1",
+          "title": "Орден Ленина（第1页）",
+          "publisher": "Mondvor 苏联勋奖章收藏型制目录",
+          "url": "https://mondvor.narod.ru/OLenin.html",
+          "source_type": "专业收藏目录／型制研究",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "记述1930、1934、1936年前后三个主要型式及其正面图案、浮雕结构和佩戴结构。这里只采用经概述的型制事实，不复制原图或长段原文。",
+          "reuse_note": "该站图文复用许可尚未取得；此处为带来源的事实摘要，不嵌入其图片，不复用其原文。"
+        },
+        {
+          "source_id": "USSR-MONDVOR-LENIN-P2",
+          "title": "Орден Ленина（第2页）",
+          "publisher": "Mondvor 苏联勋奖章收藏型制目录",
+          "url": "https://mondvor.narod.ru/OLenin2.htm",
+          "source_type": "专业收藏目录／型制研究",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "将1943年后的吊耳、环和五角绶带托型记为第四型，并记其较圆轮廓及大致使用期。",
+          "reuse_note": "该站图文复用许可尚未取得；此处为带来源的事实摘要，不嵌入其图片，不复用其原文。"
+        },
+        {
+          "source_id": "USSR-MONDVOR-LENIN-P3",
+          "title": "Орден Ленина（第3页）",
+          "publisher": "Mondvor 苏联勋奖章收藏型制目录",
+          "url": "https://mondvor.narod.ru/OLenin3.htm",
+          "source_type": "专业收藏目录／型制研究",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "将20世纪50年代至1991年的椭圆趋向悬挂型记为第五型。",
+          "reuse_note": "该站图文复用许可尚未取得；此处为带来源的事实摘要，不嵌入其图片，不复用其原文。"
+        }
+      ]
+    },
+    {
+      "award_id": "FRA-LEGION-HONOUR",
+      "canonical_name_zh": "法国荣誉军团勋章",
+      "issuer": "法国及历代法国政权（具体授予主体按各条目时期记录）",
+      "match_names": [
+        "法国荣誉军团勋章",
+        "荣誉军团勋章",
+        "荣誉军团",
+        "荣军",
+        "法国荣军勋章",
+        "Légion d’honneur",
+        "Légion d'honneur",
+        "Ordre national de la Légion d’honneur",
+        "Legion of Honour",
+        "Legion of Honor"
+      ],
+      "paragraph_roles": [
+        "创设与授奖原则",
+        "现行等级与具体版型判读边界"
+      ],
+      "introduction_zh": [
+        "法国荣誉军团勋章于1802年5月19日由第一执政拿破仑·波拿巴创设。法国荣誉军团大总理府将其定位为以个人功绩为核心的国家荣誉，表彰在军事和民事领域为国家及公共利益作出突出贡献的人。",
+        "现行制度分骑士、军官、指挥官三个等级，以及大军官、大十字两种尊位。晋升须有新的功绩并满足相应年限。等级和尊位属于制度层级，不同年代的徽章图样则构成其历史版型。"
+      ],
+      "verified_facts": [
+        {
+          "claim_zh": "由第一执政拿破仑·波拿巴于1802年5月19日创设，以个人功绩为授奖核心，涵盖军民领域。",
+          "source_ids": [
+            "FRA-GCH-HISTORY"
+          ]
+        },
+        {
+          "claim_zh": "现行制度有三个等级和两种尊位；晋升要求新功绩及最低年限。",
+          "source_ids": [
+            "FRA-GCH-CRITERIA"
+          ]
+        }
+      ],
+      "variant_guidance": {
+        "is_grade_list": true,
+        "summary_zh": "骑士、军官、指挥官是等级；大军官、大十字是尊位。具体实物图样、年代铭文、正背面构型和佩戴方式需按对象逐条确认，不能仅由本介绍推定。"
+      },
+      "sources": [
+        {
+          "source_id": "FRA-GCH-HISTORY",
+          "title": "Founding principles and history",
+          "publisher": "法国荣誉军团大总理府（La grande chancellerie de la Légion d’honneur）",
+          "url": "https://www.legiondhonneur.fr/en/les-decorations/les-decorations-francaises/la-legion-dhonneur/founding-principles-and-history",
+          "source_type": "授勋机构官方历史介绍",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "页面确认1802年5月19日创设、第一执政身份、个人功绩原则及军民领域适用范围。"
+        },
+        {
+          "source_id": "FRA-GCH-CRITERIA",
+          "title": "Les critères d'attribution",
+          "publisher": "法国荣誉军团大总理府（La grande chancellerie de la Légion d’honneur）",
+          "url": "https://www.legiondhonneur.fr/fr/les-decorations/les-decorations-francaises/la-legion-dhonneur/les-criteres-dattribution",
+          "source_type": "授勋机构官方授予与晋升标准",
+          "accessed": "2026-09-29",
+          "evidence_summary_zh": "页面列出骑士至指挥官三个等级、指挥官至大军官及大军官至大十字两种尊位，并说明晋升需新的功绩及最低年限。"
+        }
+      ]
+    }
+  ]
+}

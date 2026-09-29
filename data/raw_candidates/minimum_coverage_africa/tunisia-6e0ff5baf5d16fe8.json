@@ -1,0 +1,40 @@
+{
+  "source_id": "WAW-AFRICA-TUNISIA-6e0ff5baf5d16fe8",
+  "region": "north_africa",
+  "country_scope": "Tunisia",
+  "country_slug": "tunisia",
+  "source_page": "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html",
+  "page_title": "Order of Blood",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/6e0ff5baf5d16fe8.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of Blood Nichan ad-Dam Order instituted by Ahmad Pasha-Bey in 1839. Order awarded to princes of the blood and princes from foreign royal houses. Ottoman Tunisia",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/2/1.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/tunisia/1/2/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-c9a207d0504a2b5cdaf6.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "af1cdf7ba703fc5e8dd79f107c09d9ef22b7570cd6dfc8b55cc0797461cdc74b",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html",
+    "https://wawards.org/tunisia/ottoman-tunisia/order-of-blood.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

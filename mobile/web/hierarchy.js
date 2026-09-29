@@ -34,3 +34,26 @@ window.buildCategoryTree=function(volumes,onChoose){
 
 routes('欧洲','西欧','卢森堡','luxembourg');routes('欧洲','西欧','爱尔兰','ireland');
 routes('国际组织','全球组织','联合国','united-nations');routes('国际组织','区域组织','欧洲共同体／欧洲联盟','european-communities-union');routes('国际组织','区域组织','北大西洋公约组织','nato');routes('国际组织','国际会议','前南斯拉夫问题国际会议','icfy');routes('国际组织','多国部队','东帝汶国际部队','interfet');
+
+routes("亚洲","西亚","伊拉克","iraq-kingdom");
+routes("北美洲","北美","加拿大","canada");
+routes("大洋洲","澳大利亚与新西兰","新西兰","new-zealand");
+routes("非洲","东非","吉布提","minimum-djibouti");
+routes("非洲","东非","索马里","minimum-somalia");
+routes("非洲","东非","肯尼亚","minimum-kenya");
+routes("非洲","东非","乌干达","minimum-uganda");
+routes("非洲","东非","坦桑尼亚","minimum-tanzania");
+routes("非洲","东非","卢旺达","minimum-rwanda");
+routes("非洲","东非","布隆迪","minimum-burundi");
+routes("非洲","东非","科摩罗","minimum-comoros");
+routes("非洲","东非","埃塞俄比亚","minimum-ethiopia");
+routes("非洲","东非","马达加斯加","minimum-madagascar");
+routes("非洲","南部非洲","南非","minimum-south-africa");
+routes("非洲","南部非洲","纳米比亚","minimum-namibia");
+routes("非洲","南部非洲","博茨瓦纳","minimum-botswana");
+routes("非洲","南部非洲","赞比亚","minimum-zambia");
+routes("非洲","南部非洲","津巴布韦","minimum-zimbabwe");
+routes("非洲","南部非洲","马拉维","minimum-malawi");
+routes("非洲","南部非洲","莫桑比克","minimum-mozambique");
+routes("非洲","南部非洲","莱索托","minimum-lesotho");
+routes("非洲","南部非洲","斯威士兰／埃斯瓦蒂尼","minimum-swaziland");

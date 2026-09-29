@@ -13,10 +13,10 @@ window.writeBookQuery=async text=>{
    try{
     const response=await fetch('vendor/strokes/'+encodeURIComponent(char)+'.json');if(!response.ok)throw Error('No stroke data');const data=await response.json();if(ticket!==generation)return;
     span.classList.add('han-writing');const size=parseFloat(getComputedStyle(target).fontSize);
-    const writer=HanziWriter.create(span,char,{width:size,height:size,padding:0,showCharacter:false,showOutline:false,strokeColor:'#493e2f',strokeAnimationSpeed:4,delayBetweenStrokes:35,charDataLoader:()=>data});writers.push(writer);
-    await writer.animateCharacter();if(ticket!==generation)return;
+    const writer=HanziWriter.create(span,char,{width:size,height:size,padding:0,showCharacter:false,showOutline:false,strokeColor:'#493e2f',strokeAnimationSpeed:18,delayBetweenStrokes:4,charDataLoader:()=>data});writers.push(writer);
+    await Promise.race([writer.animateCharacter(),new Promise(r=>setTimeout(r,Math.max(45,Math.min(180,540/Array.from(text).length))))]);if(ticket!==generation)return;
     span.replaceChildren();span.classList.remove('han-writing');span.textContent=char;
-   }catch{if(ticket!==generation)return;span.textContent=char;await new Promise(r=>setTimeout(r,85));}
-  }else{span.textContent=char;await new Promise(r=>setTimeout(r,85));}
+   }catch{if(ticket!==generation)return;span.textContent=char;await new Promise(r=>setTimeout(r,25));}
+  }else{span.textContent=char;await new Promise(r=>setTimeout(r,25));}
  }
 };})();
