@@ -1,0 +1,905 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "medals_org_egypt_kingdom",
+  "images": [
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Collar",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom004.jpg",
+      "dimensions": [
+        146,
+        250
+      ],
+      "bytes": 8600,
+      "sha256": "89ec8fb8052961899836dfceee2e575b5ca826cfd7a7f882d1ed41788d5ccd46",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Grand Cordon: Badge",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom001.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom001.jpg",
+      "dimensions": [
+        330,
+        250
+      ],
+      "bytes": 20402,
+      "sha256": "911aa31dc8744b8f7b4f90bf23541978d8b47e3ec9f4ef216431d09eea4a4e3b",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Grand Cordon: Star",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom003.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom003.jpg",
+      "dimensions": [
+        244,
+        250
+      ],
+      "bytes": 18570,
+      "sha256": "8cd9ffb544fe38cfa0c6cc60e2703563367601e07e939284e43456ed465aa725",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Commander, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom001-07.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom001-07.jpg",
+      "dimensions": [
+        205,
+        250
+      ],
+      "bytes": 11980,
+      "sha256": "6de47ad41de562be6e363234709373a49a5241dff8eb2c9a4fd4824f928a0cb7",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Commander, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom001-08.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom001-08.jpg",
+      "dimensions": [
+        172,
+        250
+      ],
+      "bytes": 9663,
+      "sha256": "0a8f8284804fb6f6a2ab0c0eb13a47952ebcbc3c2249dff01f50cd9682889b39",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Silver Medal, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom001-11.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom001-11.jpg",
+      "dimensions": [
+        175,
+        250
+      ],
+      "bytes": 16154,
+      "sha256": "57f8af0dab560cc5fcc872e5d0890a2e39db958cb9a821e17a385295826d448d",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "Silver Medal, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom001-12.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom001-12.jpg",
+      "dimensions": [
+        175,
+        250
+      ],
+      "bytes": 13721,
+      "sha256": "123c9b734018e2c1479c3d63ae5d198e964252048ac3a3989b00b21876fce089",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom003.htm",
+      "label": "Collar of Fuad I",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom003_egypt-kingdom005.jpg",
+      "dimensions": [
+        132,
+        250
+      ],
+      "bytes": 5746,
+      "sha256": "e13b89d8035023cc2b2ffb4b06410c577f5a36da352e5e54542446afd0a178b9",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Grand Cordon: Badge, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-01.jpg",
+      "dimensions": [
+        201,
+        250
+      ],
+      "bytes": 26998,
+      "sha256": "dbb029d0b83764f1f185d4d38204ec36aa5a7f336deff3675c926e591fbbbb38",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Grand Cordon: Badge, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-02.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-02.jpg",
+      "dimensions": [
+        195,
+        250
+      ],
+      "bytes": 21019,
+      "sha256": "1218bcfd4ec47e831628e35cae38fb34ccd749f9bff30075ae3943b07abc4d67",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Grand Cordon: Star, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-03.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-03.jpg",
+      "dimensions": [
+        249,
+        250
+      ],
+      "bytes": 26482,
+      "sha256": "7417874ee16ecb92c4e5e90724fdd1400385924849d30f7503764fe52ab94c42",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Grand Officer: Badge",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom006.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom006.jpg",
+      "dimensions": [
+        222,
+        250
+      ],
+      "bytes": 13935,
+      "sha256": "1749a22af1142ba825a2810aa70ecc3816a429ceb59ca80f5a00083f6b3d43e0",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Grand Officer: Star",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom007.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom007.jpg",
+      "dimensions": [
+        247,
+        250
+      ],
+      "bytes": 26212,
+      "sha256": "79b9359e7aecd2764ebe0af008a02c4fdeed253d9c27ec0421d3d9a8d877001f",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Commander, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-09.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-09.jpg",
+      "dimensions": [
+        175,
+        250
+      ],
+      "bytes": 11537,
+      "sha256": "3dac9c588abed29849a0c8c64bb85be2b08dd439524cf88c230d4e913246072a",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Commander, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-10.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-10.jpg",
+      "dimensions": [
+        148,
+        250
+      ],
+      "bytes": 9781,
+      "sha256": "dad9c9252967d14ac1ea3634027828a12c8235fe45fac39bf6d0cd03c1bd9f50",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Officer, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-11.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-11.jpg",
+      "dimensions": [
+        147,
+        250
+      ],
+      "bytes": 13689,
+      "sha256": "3a2a666625e4805314f176962fa1a2a56c797559ebb1aaba8031eaa1ba18bb96",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "Officer, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom004-12.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom004-12.jpg",
+      "dimensions": [
+        149,
+        250
+      ],
+      "bytes": 10078,
+      "sha256": "4b2afeb5391d8ba5a8ef82e8eca7d39fa8d4c8833913e0bd10abe457d408ef81",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Grand Cordon: Badge, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-01.jpg",
+      "dimensions": [
+        130,
+        250
+      ],
+      "bytes": 15084,
+      "sha256": "1b0c8a0bd5bcb5e5c158708fe0b394c09c90bc391d4cf34fe2064d8ce77db4e3",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Grand Officer: Badge, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-05.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-05.jpg",
+      "dimensions": [
+        140,
+        250
+      ],
+      "bytes": 13008,
+      "sha256": "84b7ff1ab0301ad9c03f5510bc41daf0894e14a343eb35a586b07bdc8a6a8be7",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Grand Officer: Star, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-07.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-07.jpg",
+      "dimensions": [
+        269,
+        250
+      ],
+      "bytes": 20706,
+      "sha256": "39326973150e74f0a6e6ba964a8c9374b798c0118667f44e01658fa02560f08f",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Grand Officer: Star, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-08.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-08.jpg",
+      "dimensions": [
+        265,
+        250
+      ],
+      "bytes": 15426,
+      "sha256": "366879d0686c06de18a2347305bac82d39a8c59b486eef568c12ca7bad3c142d",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Commander, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-09.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-09.jpg",
+      "dimensions": [
+        171,
+        250
+      ],
+      "bytes": 12150,
+      "sha256": "97cecfaabfc7cd9e0f6375b59ff6ca362ae54c3620d63bfd8a98770f29ef4f92",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Commander, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-10.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-10.jpg",
+      "dimensions": [
+        171,
+        250
+      ],
+      "bytes": 10632,
+      "sha256": "6fb98a2488b31eafa09e9069415c82f0d13c478056ae3503ab2fdaa95c94cb44",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Officer, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-11.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-11.jpg",
+      "dimensions": [
+        129,
+        250
+      ],
+      "bytes": 11023,
+      "sha256": "048d25ab2da32ac500df57e27a1c73363f4692d8b1a64447708bd2f68950dfc1",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Officer, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-12.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-12.jpg",
+      "dimensions": [
+        132,
+        250
+      ],
+      "bytes": 8324,
+      "sha256": "406205ec0329ef40e3008b721723dc3fd9c33664d587e3d3725378ac7444aa46",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Knight, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-13.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-13.jpg",
+      "dimensions": [
+        133,
+        250
+      ],
+      "bytes": 10032,
+      "sha256": "a6c1ff90c3d93d79b547380b93b83f6d33069be1550103a343f517ab23f60e6c",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "Knight, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom005-14.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom005-14.jpg",
+      "dimensions": [
+        137,
+        250
+      ],
+      "bytes": 9561,
+      "sha256": "3948e867494571e774d0b32bb03a0f22ada82a08880572d24f80ce0976884d96",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom020.htm",
+      "label": "Knight, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom020-05.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom020_egypt-kingdom020-05.jpg",
+      "dimensions": [
+        168,
+        250
+      ],
+      "bytes": 13885,
+      "sha256": "06828ddcebeb4626c7c1d647fa45b1ee242d387033454cf15c9ab795fcf56506",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom020.htm",
+      "label": "Knight, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom020-06.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom020_egypt-kingdom020-06.jpg",
+      "dimensions": [
+        166,
+        250
+      ],
+      "bytes": 12431,
+      "sha256": "89606f53573e61a545a60987f016bc70c01d9467d04cee49460b739316e006c7",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom021.htm",
+      "label": "Knight, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom021-05.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom021_egypt-kingdom021-05.jpg",
+      "dimensions": [
+        147,
+        250
+      ],
+      "bytes": 11634,
+      "sha256": "b914d371a901fdffd38e5ec20e50afabbaf224c19b9b3a66812d56533f0b91a3",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom021.htm",
+      "label": "Knight, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom021-06.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom021_egypt-kingdom021-06.jpg",
+      "dimensions": [
+        146,
+        250
+      ],
+      "bytes": 10826,
+      "sha256": "11c8414d0f7f5d343a0a9da7542a0320a01a8a3df4dd19deef2375c232a34fed",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom022.htm",
+      "label": "Knight, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom022-05.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom022_egypt-kingdom022-05.jpg",
+      "dimensions": [
+        160,
+        250
+      ],
+      "bytes": 10826,
+      "sha256": "ef4e43a266b0e0374fee5d6a54c4d478680f75b0edf7ec83bacbe5a974f6f730",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom022.htm",
+      "label": "Knight, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom022-06.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom022_egypt-kingdom022-06.jpg",
+      "dimensions": [
+        160,
+        250
+      ],
+      "bytes": 9513,
+      "sha256": "6cedb4fb664678baabbc9f1eb346945cb1b6b38466d1e20381d625d439702f3e",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom009.htm",
+      "label": "Superior Class: Badge",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom025.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom009_egypt-kingdom025.jpg",
+      "dimensions": [
+        184,
+        250
+      ],
+      "bytes": 10121,
+      "sha256": "3e8b23ba6fb854f55fb014fb3f4a239965c99887616c779aaca3f48d7ba2f181",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom009.htm",
+      "label": "Superior Class: Star",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom026.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom009_egypt-kingdom026.jpg",
+      "dimensions": [
+        247,
+        250
+      ],
+      "bytes": 19046,
+      "sha256": "c739c1d4824ad5ab1c5594e67ffce5cf1f5c404cb2deca075c81d09f81c99444",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom006.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom006-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom006_egypt-kingdom006-01.jpg",
+      "dimensions": [
+        179,
+        250
+      ],
+      "bytes": 11636,
+      "sha256": "bc5e3ceafb925669513e9bb866fd484121d5c4fd1201a4ca6271aa1fb4eb2760",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom006.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom006-02.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom006_egypt-kingdom006-02.jpg",
+      "dimensions": [
+        182,
+        250
+      ],
+      "bytes": 11669,
+      "sha256": "5c41bec1ea78670211d45fa9bf063a58331e1dc8c6cf64fb0143fc5d1850bcba",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom016.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom016-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom016_egypt-kingdom016-01.jpg",
+      "dimensions": [
+        162,
+        250
+      ],
+      "bytes": 13452,
+      "sha256": "170501d8214db78fe3a3c3a8d9dd5567d2ced1fc7ab73fb8ace1729ef87b14c1",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom016.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom016-02.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom016_egypt-kingdom016-02.jpg",
+      "dimensions": [
+        167,
+        250
+      ],
+      "bytes": 11297,
+      "sha256": "182775cb2cf4c757e4571718f6af8867286ddea6acf02fe5d082c05f9d45e044",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom023.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom052.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom023_egypt-kingdom052.jpg",
+      "dimensions": [
+        116,
+        250
+      ],
+      "bytes": 10501,
+      "sha256": "39fcea2c8c66563e33e6aeaaa3357dc20379703ce213214608999b08c239cfd9",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom023.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom053.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom023_egypt-kingdom053.jpg",
+      "dimensions": [
+        115,
+        250
+      ],
+      "bytes": 11010,
+      "sha256": "207918dfd3d81c3716a0e9835b4c796851355fb97909cc7d634ea792ea449ada",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom010.htm",
+      "label": "Class 2, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom010-03.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom010_egypt-kingdom010-03.jpg",
+      "dimensions": [
+        193,
+        250
+      ],
+      "bytes": 15965,
+      "sha256": "ab67eafba90d91899bc9e2eee4ce4eaeb2577541de03c40c5e16f04ec76b7bbc",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom010.htm",
+      "label": "Class 2, Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom010-04.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom010_egypt-kingdom010-04.jpg",
+      "dimensions": [
+        196,
+        250
+      ],
+      "bytes": 15439,
+      "sha256": "b6bc4b11d897b145c5b509dbb2925d29e381e42bd6e5e9bc0ac88b9b57d4eb75",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom011.htm",
+      "label": "Class 2, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom011-03.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom011_egypt-kingdom011-03.jpg",
+      "dimensions": [
+        194,
+        250
+      ],
+      "bytes": 11648,
+      "sha256": "ab7091c7d814d10c0a0d17f2af14da30eb2c4d46c8c5505d7214ef4d0c5742c8",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom011.htm",
+      "label": "Class 2, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom011-04.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom011_egypt-kingdom011-04.jpg",
+      "dimensions": [
+        184,
+        250
+      ],
+      "bytes": 12817,
+      "sha256": "6aae746c7e071549e4a4083d93a3dee296cbf2c29a4260c17e192965a436f8aa",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom026.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom026-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom026_egypt-kingdom026-01.jpg",
+      "dimensions": [
+        172,
+        250
+      ],
+      "bytes": 13616,
+      "sha256": "bdad2eec104f874b4aa6f4717de20b573ff8882f41c4a04f6443840449d94ff5",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom026.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom026-02.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom026_egypt-kingdom026-02.jpg",
+      "dimensions": [
+        172,
+        250
+      ],
+      "bytes": 13559,
+      "sha256": "b0a873edb94f297146e480b11a8b5b6a65f27593f18143e8fb60cf2a9362da20",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom013.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom013-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom013_egypt-kingdom013-01.jpg",
+      "dimensions": [
+        168,
+        250
+      ],
+      "bytes": 10422,
+      "sha256": "7d794a25ddb3cc9a5633a6ec7bf7d334a79002e5056a3dc2469e11b18df53efd",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom013.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom013-02.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom013_egypt-kingdom013-02.jpg",
+      "dimensions": [
+        167,
+        250
+      ],
+      "bytes": 11263,
+      "sha256": "c529b1398289ea8829c62be780ff8c9987df73e3d9a97e403bdccd4fc77267b5",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom014.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom021.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom014_egypt-kingdom021.jpg",
+      "dimensions": [
+        194,
+        250
+      ],
+      "bytes": 14969,
+      "sha256": "91fea8f5c1cabfda6ab57538ee902137d4ecdc68ca1ad91829cf07dd563f6558",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom027.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom027-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom027_egypt-kingdom027-01.jpg",
+      "dimensions": [
+        128,
+        250
+      ],
+      "bytes": 9796,
+      "sha256": "af2ed9642b80f503bad6ccbf0227959d5f467221232aed5c27fba4eb8c8244b3",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom015.htm",
+      "label": "Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom033.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom015_egypt-kingdom033.jpg",
+      "dimensions": [
+        139,
+        250
+      ],
+      "bytes": 9716,
+      "sha256": "4d0bc8050b1465276cf74760e6ff339f458b6b31d3c1f7797305440dac68627e",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom015.htm",
+      "label": "Reverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom034.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom015_egypt-kingdom034.jpg",
+      "dimensions": [
+        134,
+        250
+      ],
+      "bytes": 10494,
+      "sha256": "c8fec8c0b4f37fb8a63765b7f4baf43a5dda8123e3a0bbadeb58755bf093ae61",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom007.htm",
+      "label": "Medal with Wreath, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom007-01.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom007_egypt-kingdom007-01.jpg",
+      "dimensions": [
+        157,
+        250
+      ],
+      "bytes": 12169,
+      "sha256": "c5e7c741ab5d2ae98ecf431e3d54bb50e9f90f638b5e697d29b166b5efa7f8c8",
+      "decoded": true,
+      "classification": "object_image"
+    },
+    {
+      "page": "egypt-kingdom007.htm",
+      "label": "Medal without Wreath, Obverse",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom007-03.jpg",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom007_egypt-kingdom007-03.jpg",
+      "dimensions": [
+        154,
+        250
+      ],
+      "bytes": 11756,
+      "sha256": "54d2348fa82b2dacdc489298315873feaca826584d93610458405a6b6969416d",
+      "decoded": true,
+      "classification": "object_image"
+    }
+  ],
+  "ribbon_or_unlabelled_graphics": [
+    {
+      "page": "egypt-kingdom001.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom002.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom001_egypt-kingdom002.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1062,
+      "sha256": "90f8f23e35e144223fe21dce225d3b05807382cf63e0c89ef0ff24f3f16410b4",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom004.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom010.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom004_egypt-kingdom010.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1016,
+      "sha256": "6e167dfcb07179736b6a30632f4cb63d36fa14e4e325778ed5998f644b272978",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom005.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom019.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom005_egypt-kingdom019.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1016,
+      "sha256": "1e424d63305e22671bc2ffdeac3bf2e6afd01a5de7b0c040b4726cab150a0a17",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom009.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom024.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom009_egypt-kingdom024.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1016,
+      "sha256": "f79b3d8794a427998eb36aa489d924b0bb8370d752fd741f7cf6b034b168edd6",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom006.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom022.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom006_egypt-kingdom022.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1156,
+      "sha256": "5ff8bf961c4409c8692e36e2847971926f68fb4bc0b7657ac4ef6afb60e43591",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom023.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom041.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom023_egypt-kingdom041.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 943,
+      "sha256": "3a5a121ea40c86c2afe490ebd8d2f583744558a049a26f51f5581f63b545c2d8",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom015.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom035.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom015_egypt-kingdom035.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1100,
+      "sha256": "d9304464d2d3ae11bef287fc8d10176557342477a1c0a0184a6e308259af492a",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom018.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom037.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom018_egypt-kingdom037.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1016,
+      "sha256": "293745f72056a2ed0c07c0fc771153131e6b5a9c5f697331828c3cbaefe63691",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    },
+    {
+      "page": "egypt-kingdom008.htm",
+      "label": "object image",
+      "image_url": "https://medals.org.uk/egypt/egypt-kingdom/images/egypt-kingdom042.gif",
+      "local_path": "assets/raw/medals_org_egypt_kingdom/egypt-kingdom008_egypt-kingdom042.gif",
+      "dimensions": [
+        100,
+        30
+      ],
+      "bytes": 1051,
+      "sha256": "d4b791467e295a33c41e43cbcae72668668a85d10d53ceb67e4416ba5fe88906",
+      "decoded": true,
+      "classification": "ribbon_or_unlabelled_site_graphic"
+    }
+  ],
+  "failures": []
+}

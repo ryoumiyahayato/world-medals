@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "qatar",
+  "scope_label": "State of Qatar award system",
+  "sources": [
+    {
+      "source_id": "wawards_qatar_complete_catalogue",
+      "source_name": "World Awards - Qatar complete catalogue",
+      "base_url": "https://wawards.org/en/qatar.html",
+      "source_type": "complete_country_catalogue",
+      "languages": ["en"],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "complete_pdf_to_object_pages_and_full_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "Complete eight-page catalogue processed: 24/24 linked object pages and 66/66 exposed full images; 24 representative rows in 23 families prepared, with 42 extra images cached for grade and reverse expansion.",
+      "candidate_file": "data/raw_candidates/wawards_qatar.jsonl"
+    },
+    {
+      "source_id": "qatar_official_honours",
+      "source_name": "Qatar official honours and military regulations",
+      "source_type": "official_award_directory_and_regulations",
+      "languages": ["ar", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "official_directory_differential",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 2, "completed": 1, "partial": 0, "blocked": 0, "not_started": 1},
+  "next_action": "Cross-check the 23-family catalogue against official Qatari honours regulations and normalize cached grades and reverses."
+}

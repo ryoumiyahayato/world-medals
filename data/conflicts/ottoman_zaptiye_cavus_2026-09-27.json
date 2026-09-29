@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-09-27",
+  "family": "OTT-GENDARMERIE-SERGEANT",
+  "status": "IDENTITY_AND_MATERIAL_CONFLICT",
+  "statements": [
+    {
+      "source_id": "tdv-madalya",
+      "claim": "1277 (1860-61) Zaptiye çavuşları madalyası was silver."
+    },
+    {
+      "source_id": "bogazici-istanbul-archaeology-medal-inventory",
+      "claim": "Museum inventory lists a 1860 Zaptiye Çavuş medal as silver."
+    },
+    {
+      "source_id": "salt-anuy00011",
+      "claim": "A 36.6 mm, 4.34 g bronze object dated 1277/1860 is catalogued as Çâvuş-ı zabtiyye rozeti; SALT notes that it is more likely a simple insignia used by gendarmerie sergeants and that the observed version is probably a trial."
+    }
+  ],
+  "decision": "Keep the documented silver award in the unpictured appendix. Do not substitute the SALT bronze trial/badge for the formal medal, and do not count it as a formal award family variant until the identity is resolved.",
+  "image_access": {
+    "status": "LOGIN_REQUIRED",
+    "checked_on": "2026-09-27",
+    "notes": "The public SALT metadata page lists ANUY00011.jpg and ANUY00011A001.jpg, but both file links redirect to the SALT login page. No access control was bypassed and no image was downloaded."
+  },
+  "source_pages": [
+    "https://archives.saltresearch.org/handle/123456789/111977",
+    "https://cdn2.islamansiklopedisi.org.tr/dosya/27/C27008879.pdf",
+    "sources/books/istanbul_archaeology_ottoman_medals.pdf"
+  ]
+}

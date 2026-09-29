@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "冰岛共和国勋章与正式奖章",
+  "batch_id": "iceland_official_honours_2026-09-29",
+  "sources": [
+    {
+      "source_id": "IS-GOV-HONOURS",
+      "source_name": "Stjórnarráðið — Heiðursmerki",
+      "base_url": "https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/",
+      "source_type": "official_government_honours_directory",
+      "languages": ["is"],
+      "status": "completed_visible_directory",
+      "content_coverage": "猎鹰勋章、冰岛红十字会荣誉勋饰、总统荣誉奖章、共和国英勇功绩奖章及四张完整低清对象图。"
+    },
+    {
+      "source_id": "IS-PRESIDENCY-FALCON",
+      "source_name": "Forseti Íslands — Order of the Falcon and classes",
+      "base_url": "https://www.forseti.is/en/presidency/order-of-the-falcon",
+      "source_type": "official_presidency",
+      "languages": ["en", "is"],
+      "status": "completed_fact_check"
+    },
+    {
+      "source_id": "IS-LAW-145-2005",
+      "source_name": "Alþingi — Forsetabréf um hina íslensku fálkaorðu nr. 145/2005",
+      "base_url": "https://www.althingi.is/lagas/151b/2005145.html",
+      "source_type": "official_legal_text",
+      "languages": ["is"],
+      "status": "completed_fact_check"
+    },
+    {
+      "source_id": "IS-LAW-143-2005",
+      "source_name": "Alþingi — Forsetabréf um afreksmerki hins íslenska lýðveldis nr. 143/2005",
+      "base_url": "https://www.althingi.is/lagas/134/2005143.html",
+      "source_type": "official_legal_text",
+      "languages": ["is"],
+      "status": "completed_fact_check"
+    }
+  ],
+  "images": [
+    {"view_key":"IS-OFF-001-V01","local_path":"assets/images/iceland_official_honours_2026-09-29/order-of-the-falcon.webp","source_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","image_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","original_url":"https://www.stjornarradid.is/library/?itemid=c548a3ed-d260-11e6-940f-005056bc530c&action=width%3A1600","width":224,"height":412,"bytes":26346,"sha256":"fe06b3a14237fffe4ce218d3d8c233033a310b7d06fdca10e692bb68cc3acb5e","content_type":"image/webp","image_kind":"官方政府网页低清实物照；完整正面","author_or_institution":"Icelandic Government / Stjórnarráðið","license":"未见逐图许可；本地研究使用"},
+    {"view_key":"IS-OFF-002-V01","local_path":"assets/images/iceland_official_honours_2026-09-29/red-cross-decoration.webp","source_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","image_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","original_url":"https://www.stjornarradid.is/library/?itemid=27dcc426-ab24-11e6-940f-005056bc530c&action=width%3A1600","width":100,"height":150,"bytes":8428,"sha256":"a05539d038e1f0fa42b3f86e77fdd3785ea5c1d56ab0f8158129c4abafb53385","content_type":"image/webp","image_kind":"官方政府网页低清实物照；完整正面","author_or_institution":"Icelandic Government / Stjórnarráðið","license":"未见逐图许可；本地研究使用"},
+    {"view_key":"IS-OFF-003-V01","local_path":"assets/images/iceland_official_honours_2026-09-29/presidents-medal-of-honour.webp","source_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","image_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","original_url":"https://www.stjornarradid.is/library/?itemid=9c05d1d4-411a-492b-bd8a-d87269daaaa4&action=width%3A1600","width":100,"height":174,"bytes":8944,"sha256":"d50ea7193a90c76440583d51725ca972dae8a4da25cc8495f2a858a4ae83fed4","content_type":"image/webp","image_kind":"官方政府网页低清实物照；完整正面","author_or_institution":"Icelandic Government / Stjórnarráðið","license":"未见逐图许可；本地研究使用"},
+    {"view_key":"IS-OFF-004-V01","local_path":"assets/images/iceland_official_honours_2026-09-29/republic-achievement-decoration.webp","source_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","image_page":"https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/heidursmerki/","original_url":"https://www.stjornarradid.is/library/?itemid=8c018efb-5125-4789-8453-f341a0897628&action=width%3A1600","width":100,"height":189,"bytes":9794,"sha256":"b722dd130fbe44d6e4d5c383fec2eea36b805657f101548dfc4d150d9af94c1c","content_type":"image/webp","image_kind":"官方政府网页低清实物照；完整正面","author_or_institution":"Icelandic Government / Stjórnarráðið","license":"未见逐图许可；本地研究使用"}
+  ],
+  "validation": {"record_count":4,"decoded_image_count":4,"all_images_exist":true,"all_decoded":true}
+}

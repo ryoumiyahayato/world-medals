@@ -1,0 +1,455 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "netherlands_wmi_batch1_2026-09-29",
+  "images": [
+    {
+      "key": "NLD-WMI-001-IMAGE1",
+      "record_id": "NLD-WMI-001",
+      "view_key": "NLD-WMI-001-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands056.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands024.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands056.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Military Order of William",
+      "image_caption": "Grand Cross: Star, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        249,
+        250
+      ],
+      "bytes": 16987,
+      "sha256": "0f810fe23e1385c7cd927dfff41f07f18bd9f02b000a3139080505356eb8598a",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-002-IMAGE1",
+      "record_id": "NLD-WMI-002",
+      "view_key": "NLD-WMI-002-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands073.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands024.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands073.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Military Order of William",
+      "image_caption": "Knight 3rd Class, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        109,
+        250
+      ],
+      "bytes": 10848,
+      "sha256": "ce429cbd1dda3b14bf4f1f412cfb847ca7d06ad16dcfec59878eba4a98a00d17",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-003-IMAGE1",
+      "record_id": "NLD-WMI-003",
+      "view_key": "NLD-WMI-003-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands027.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands024.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands027.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Military Order of William",
+      "image_caption": "Knight 4th Class, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        107,
+        250
+      ],
+      "bytes": 9955,
+      "sha256": "e7228d1b4a3e5eb218cb6ddc23d19fd04ae34c4043e0b01c689858489a99cf67",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-004-IMAGE1",
+      "record_id": "NLD-WMI-004",
+      "view_key": "NLD-WMI-004-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands032.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands027.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands032.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Civil Order of Merit of the Netherlands Lion",
+      "image_caption": "Grand Cross: Badge, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        169,
+        250
+      ],
+      "bytes": 19985,
+      "sha256": "9ca7560635c05672d429bfc46b0a0bd9eebe2fa63a2210c3d6b67f4f813ab575",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-005-IMAGE1",
+      "record_id": "NLD-WMI-005",
+      "view_key": "NLD-WMI-005-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands036.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands027.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands036.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Civil Order of Merit of the Netherlands Lion",
+      "image_caption": "Grand Cross: Star, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        269,
+        250
+      ],
+      "bytes": 18323,
+      "sha256": "a30c06c4106c24265ed81c2321268bca1b39ec18be1a212c2ad108fe8d6420b9",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-006-IMAGE1",
+      "record_id": "NLD-WMI-006",
+      "view_key": "NLD-WMI-006-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands057.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands027.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands057.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Civil Order of Merit of the Netherlands Lion",
+      "image_caption": "Commander: Badge, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        185,
+        250
+      ],
+      "bytes": 16172,
+      "sha256": "1ee34670bea778b3860da3236f8b3364f2c0885db4d3ae29b76bca67ad9bb66c",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-007-IMAGE1",
+      "record_id": "NLD-WMI-007",
+      "view_key": "NLD-WMI-007-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands038.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands003.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands038.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of Oranje-Nassau",
+      "image_caption": "Grand Cross: Badge, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        167,
+        250
+      ],
+      "bytes": 21826,
+      "sha256": "290b44c141337e2e70d59f49f0be28da483f9323b96e75c4aa143436d01a44f6",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-008-IMAGE1",
+      "record_id": "NLD-WMI-008",
+      "view_key": "NLD-WMI-008-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands002.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands003.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands002.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of Oranje-Nassau",
+      "image_caption": "Grand Cross: Star, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        246,
+        250
+      ],
+      "bytes": 16661,
+      "sha256": "03ac6e42030f66b3a527388851f02942267fc31d000f709c2f616047e05806f0",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-009-IMAGE1",
+      "record_id": "NLD-WMI-009",
+      "view_key": "NLD-WMI-009-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands045.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands003.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands045.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of Oranje-Nassau",
+      "image_caption": "Knight, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        123,
+        250
+      ],
+      "bytes": 11220,
+      "sha256": "18bc0d6abc3d465b638ed808002f2ef0f7427398efd1d6efb55c3e7965995f0e",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-010-IMAGE1",
+      "record_id": "NLD-WMI-010",
+      "view_key": "NLD-WMI-010-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands061.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands023.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands061.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of the Crown",
+      "image_caption": "Grand Cross: Badge, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        167,
+        250
+      ],
+      "bytes": 21521,
+      "sha256": "142cd084cb77f689b25fc79720474d9e5095c9d3e8316e6b86b0424249170751",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-011-IMAGE1",
+      "record_id": "NLD-WMI-011",
+      "view_key": "NLD-WMI-011-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands096.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands023.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands096.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of the Crown",
+      "image_caption": "Grand Cross: Star, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        252,
+        250
+      ],
+      "bytes": 17110,
+      "sha256": "c5e5c70403ce1b933ec0fddc3911dea6f6724eba03ceca89f91f4e5df24084b9",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-012-IMAGE1",
+      "record_id": "NLD-WMI-012",
+      "view_key": "NLD-WMI-012-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands015.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands023.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands015.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Order of the Crown",
+      "image_caption": "Bronze Medal (Female), Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        303,
+        250
+      ],
+      "bytes": 19792,
+      "sha256": "cf00896dd6be2eb8199921171b80c6c3d780a61f682e1a7ccf15debdc32a99be",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-013-IMAGE1",
+      "record_id": "NLD-WMI-013",
+      "view_key": "NLD-WMI-013-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands070.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands031.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands070.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: House Order of Loyalty and Merit",
+      "image_caption": "Cross of Loyalty and Merit in Gold, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        112,
+        250
+      ],
+      "bytes": 9459,
+      "sha256": "9566dbc737532e146d18c1551477cbf778b49d3bccb7ae44a7819518695c1423",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-014-IMAGE1",
+      "record_id": "NLD-WMI-014",
+      "view_key": "NLD-WMI-014-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands071.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands031.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands071.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: House Order of Loyalty and Merit",
+      "image_caption": "Cross of Loyalty and Merit in Silver, Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        97,
+        250
+      ],
+      "bytes": 9011,
+      "sha256": "f60cd83f6eae2fd54030d1c2159bda642017cd9b8cd3e774c1f32940d024acc0",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-015-IMAGE1",
+      "record_id": "NLD-WMI-015",
+      "view_key": "NLD-WMI-015-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands037-01.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands037.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands037-01.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "Kingdom of the Netherlands: Resistance Star East Asia 1942-1945",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        111,
+        250
+      ],
+      "bytes": 10575,
+      "sha256": "8e026fd89ddad4a68d5809499b930cac35575179188fa1072566e8a24ddbdd52",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-016-IMAGE1",
+      "record_id": "NLD-WMI-016",
+      "view_key": "NLD-WMI-016-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands100.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands035.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands100.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Java War Medal 1825-1830",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        158,
+        250
+      ],
+      "bytes": 13559,
+      "sha256": "12aef61edb3e57d4311d4093a04b9037e6444b615860bbb9f0e640d5f286ea75",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-017-IMAGE1",
+      "record_id": "NLD-WMI-017",
+      "view_key": "NLD-WMI-017-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands098.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands034.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands098.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Cross for Justice and Liberty",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        205,
+        250
+      ],
+      "bytes": 23477,
+      "sha256": "e0747ac46e7a2d56d8c0c07b706a725b7d6ce16d2e40c945a707346c3d027dbf",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-018-IMAGE1",
+      "record_id": "NLD-WMI-018",
+      "view_key": "NLD-WMI-018-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands004.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands011.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands004.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Commemorative Medal for Multinational Peace Operations in the Gulf/Iraq 1991-98",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        96,
+        250
+      ],
+      "bytes": 8951,
+      "sha256": "98159a77033d06a93b0db43b4210d116dee0aedb94d2cd940ff5f492b05f93a0",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-019-IMAGE1",
+      "record_id": "NLD-WMI-019",
+      "view_key": "NLD-WMI-019-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands010.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands013.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands010.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Commemorative Medal for Multinational Peace Operations in Yugoslavia",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        178,
+        250
+      ],
+      "bytes": 18656,
+      "sha256": "b15b90bc169c818aa246f9a081a38ecab3d270371e5d24e56258be946fc46374",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-020-IMAGE1",
+      "record_id": "NLD-WMI-020",
+      "view_key": "NLD-WMI-020-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands006.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands019.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands006.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Kosovo Medal 2000",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        96,
+        250
+      ],
+      "bytes": 9017,
+      "sha256": "039c958aa765bb28a4266da69dcfe01a7f3fa85c7d3dbc69fd92e069a19ea55a",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    },
+    {
+      "key": "NLD-WMI-021-IMAGE1",
+      "record_id": "NLD-WMI-021",
+      "view_key": "NLD-WMI-021-VIEW1",
+      "local_path": "assets/images/netherlands_wmi_batch1_2026-09-29/netherlands024.jpg",
+      "source_page": "https://www.medals.org.uk/netherlands/netherlands025.htm",
+      "image_url": "https://www.medals.org.uk/netherlands/images/netherlands024.jpg",
+      "source_id": "wmi_netherlands_directory",
+      "source_page_title": "The Netherlands: Inauguration Medal 1948",
+      "image_caption": "Obverse",
+      "license": "Source page does not state photographer or redistribution terms; retained as local research reference, publication rights unverified.",
+      "dimensions": [
+        93,
+        250
+      ],
+      "bytes": 8640,
+      "sha256": "f2f88088993459e0a4abeb9d18c4e6754909155c35f8f1e354e724f2c2a6375b",
+      "decoded": true,
+      "visually_checked": true,
+      "access_date": "2026-09-29"
+    }
+  ],
+  "counts": {
+    "files": 21,
+    "decoded": 21,
+    "unique_payloads": 21,
+    "visually_checked_complete_fronts": 21,
+    "long_edge_at_least_1200": 0,
+    "publication_rights_unverified": 21
+  }
+}

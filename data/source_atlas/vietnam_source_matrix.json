@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "vietnam_historical_polities",
+  "scope_label": "Vietnam historical polities — Nguyen/Annam, DRV, State/Republic and SRV",
+  "sources": [
+    {"source_id":"medalbook_vietnam","source_name":"MedalBook — complete Vietnam catalogue across four period trees","base_url":"https://www.medalbook.com/asia/vietnam-1","source_type":"specialist_directory","languages":["en"],"date_coverage":"1884–present","content_coverage":"All 176 object pages visible across the French Protectorate, DRV/North Vietnam, Republic/South Vietnam and SRV trees","has_images":true,"has_pagination":true,"download_method":"recursive_html_and_direct_images","priority":1,"status":"completed","last_checked":"2026-09-28","coverage_result":"176/176 object pages processed and 250/250 images cached. Seventy-six pictured grade/type rows in 53 families and 118 unique local views were promoted across six historical awarding polities; 100 source-backed pages remain unpictured. Two source-side duplicate/mismatched illustrations were excluded.","candidate_file":"data/raw_candidates/medalbook_vietnam.jsonl","sweep_file":"data/source_sweeps/medalbook_vietnam_2026-09-28.json","page_cache":"sources/pages/medalbook_vietnam","image_cache":"assets/raw/medalbook_vietnam","volume_file":"data/volumes/vietnam_medalbook_variants.json"},
+    {"source_id":"medals_org_south_vietnam","source_name":"ODM / medals.org.uk — South Vietnam directory differential","base_url":"https://www.medals.org.uk/south-vietnam/south-vietnam-text.htm","source_type":"specialist_directory","languages":["en"],"has_images":true,"has_pagination":false,"download_method":"recursive_html_and_direct_images","priority":1,"status":"not_started","last_checked":"2026-09-28"},
+    {"source_id":"commons_vietnam_awards","source_name":"Wikimedia Commons — Vietnam and South Vietnam award category trees","source_type":"open_media_category_tree","languages":["mul"],"has_images":true,"has_pagination":true,"download_method":"mediawiki_api","priority":2,"status":"not_started","last_checked":"2026-09-28"},
+    {"source_id":"vietnam_official_awards","source_name":"Vietnam official state awards legislation and image pages","source_type":"official_government","languages":["vi"],"has_images":true,"has_pagination":true,"download_method":"bounded_official_site_and_document_sweep","priority":1,"status":"not_started","last_checked":"2026-09-28"}
+  ],
+  "coverage":{"planned":4,"completed":1,"partial":0,"blocked":0,"not_started":3},
+  "next_action":"Advance the main Asia queue to India/British India, while retaining ODM, Commons and official Vietnamese differentials for later gap closure."
+}

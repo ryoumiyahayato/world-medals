@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Egypt continuation — complete eMedals catalogue and Order of Filaha evidence sweep",
+  "source_coverage": {
+    "planned": 13,
+    "completed": 12,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "completed_sources": [
+    {
+      "source_id": "emedals_egypt_catalog",
+      "products_processed": 91,
+      "images_downloaded_and_decoded": 549,
+      "failed_images": 0,
+      "page_2_products": 0,
+      "formal_variant_rows_added": 14,
+      "complete_local_views_added": 28
+    },
+    {
+      "source_id": "ahram_filaha_2019",
+      "article_pages_processed": 1,
+      "images_processed": 3,
+      "eligible_object_images": 0,
+      "formal_rows_added": 0
+    }
+  ],
+  "formal_promotions": {
+    "new_independent_families": 0,
+    "existing_families_with_new_variants": 7,
+    "new_variant_rows": 14,
+    "new_complete_local_views": 28,
+    "focus": [
+      "Order of the Nile — Lattes 1925/1928 fifth class, grand officer and grand cross star",
+      "Order of the Republic — Bichay type II and Z. Fuchs type I grand officer badge/star",
+      "Order of Merit — Bichay second-class badge/star c.1960",
+      "Order of Ismail — Lattes gold commander and officer variants",
+      "Star of Honour — Bomisa type II",
+      "Order of Sport — Bichay commander",
+      "Distinguished Service Medal — bronze 29 mm issue"
+    ]
+  },
+  "current_egypt_delivery": {
+    "pictured_families": 56,
+    "pictured_variant_rows": 147,
+    "complete_local_views": 237,
+    "source_backed_unpictured_omsa_families": 7
+  },
+  "order_of_filaha": {
+    "status": "SOURCE_BACKED_NO_ELIGIBLE_OBJECT_IMAGE",
+    "establishment_evidence": "1915-04-14 / AH 1333 Jumada I 29 decree reproduced by Al-Ahram",
+    "amendment_evidence": "1923-01-04 royal amendment described by Al-Ahram",
+    "images_checked": 3,
+    "image_result": "decree pages and agricultural sculptures only; all excluded from the formal image column",
+    "emedals_current_collection_result": "no matching product among 91 fully processed Egypt products"
+  },
+  "validation": {
+    "site_build": "pass: 1218 official rows, 647 families, 1724 local files",
+    "validate_site": "pass: all links and local resources exist and decode",
+    "regression_audit": "pass: 0 reused image payloads and 0 ribbon-only rows",
+    "interaction_tests": "pass: country filters, arbitrary single-character Chinese search, navigation and image preview"
+  },
+  "next_action": "Continue exact-gap discovery for the seven OMSA royal-period families, using museum catalogues and historical auction PDFs not already exhausted; do not repeat the completed eMedals or Medals of the World sweeps."
+}

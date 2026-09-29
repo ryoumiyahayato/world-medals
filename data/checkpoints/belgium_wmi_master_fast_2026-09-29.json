@@ -1,0 +1,43 @@
+{
+  "checkpoint_id": "BELGIUM-WMI-MASTER-FAST-20260929",
+  "updated_at": "2026-09-29",
+  "scope": [
+    "Medals of the World / ODM of Belgium目录的100条对象页；按本地已下载图片完成30个正式奖励family图示快批"
+  ],
+  "status": "assembled_for_master_review",
+  "source_progress": {
+    "planned": 1,
+    "completed": 1,
+    "partial": 0,
+    "blocked": 0,
+    "not_started": 0,
+    "completed_sources": [
+      "medals-org-belgium-text-list"
+    ],
+    "remaining_boundary": "WMI目录之外的比利时官方法规、档案馆、博物馆及法/荷语资料尚未作差异核查；本批未配图的70条候选未并入图示正文。"
+  },
+  "package_counts": {
+    "raw_candidate_rows": 100,
+    "directory_pages_opened": 100,
+    "pictured_variant_rows": 30,
+    "award_families": 30,
+    "complete_front_views": 30,
+    "paired_back_views": 28,
+    "unique_local_images": 58,
+    "decoded_local_images": 58,
+    "selected_rows_missing_images": 0,
+    "images_long_edge_at_least_1200": 0,
+    "publication_rights_unverified": 58,
+    "visually_checked_local_images": 58
+  },
+  "image_failures": [],
+  "deliverables": [
+    "data/raw_candidates/belgium_medals_org_text_list_2026-09-29.jsonl",
+    "data/volumes/belgium_wmi_master_fast_2026-09-29.json",
+    "data/volumes/belgium_wmi_master_fast_2026-09-29_manifest.json",
+    "data/source_atlas/belgium_source_matrix.json",
+    "data/checkpoints/belgium_wmi_master_fast_2026-09-29.json",
+    "assets/images/belgium_wmi_master_fast_2026-09-29"
+  ],
+  "next_action": "将本批交主任务做一次名称/版型抽查，待独立来源核对与其余目录图片批次后再统一合并index.html。"
+}

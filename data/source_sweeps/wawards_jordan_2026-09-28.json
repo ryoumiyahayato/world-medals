@@ -1,0 +1,13 @@
+{
+  "source_id": "wawards-jordan",
+  "source_url": "https://wawards.org/images/jordan/jordan.pdf",
+  "accessed": "2026-09-28",
+  "scope": "Complete PDF, every linked Jordan object page and every exposed full-size Jordan image.",
+  "status": "complete",
+  "pdf_pages": 10,
+  "planned_object_pages": 31,
+  "processed_object_pages": 31,
+  "downloaded_images": 174,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_jordan.jsonl"
+}

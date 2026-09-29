@@ -1,0 +1,57 @@
+{
+  "as_of": "2026-09-27",
+  "source": "ITU collection catalogue, catalogue no. 123, plate 117.A-117.B",
+  "source_pdf": "sources/books/itu_ottoman_medals_catalogue.pdf",
+  "source_page_preserved": "assets/raw/ottoman_itu_tayyare/page_133.png",
+  "pages_processed": [
+    133
+  ],
+  "images": [
+    {
+      "view_key": "OTT-ITU-TAYYARE-SILVER-FRONT",
+      "local_path": "assets/images/ottoman_itu_tayyare/tayyare_silver_front.png",
+      "source_id": "itu-ottoman-medals-catalogue-plate-117",
+      "download_status": "cropped_from_decoded_300dpi_page",
+      "source_page_url": "https://polen.itu.edu.tr/bitstreams/eead0879-ff92-4fb0-a8e6-c92181d5aa65/download#page=133",
+      "source_original_url": "sources/books/itu_ottoman_medals_catalogue.pdf#page=133",
+      "license": "Istanbul Technical University repository scan; local research use; preserve source page",
+      "width": 625,
+      "height": 666,
+      "sha256": "6e1f4511f879a4ccbf0317afbd327ffb44fad74b84fa9d8bd84944c3d94e1946",
+      "pdf_page": 133,
+      "printed_page": 124,
+      "plate": "Şekil 117.A-117.B",
+      "crop_box": [
+        456,
+        2406,
+        1081,
+        3072
+      ],
+      "raw_page": "assets/raw/ottoman_itu_tayyare/page_133.png",
+      "side": "front"
+    },
+    {
+      "view_key": "OTT-ITU-TAYYARE-SILVER-BACK",
+      "local_path": "assets/images/ottoman_itu_tayyare/tayyare_silver_back.png",
+      "source_id": "itu-ottoman-medals-catalogue-plate-117",
+      "download_status": "cropped_from_decoded_300dpi_page",
+      "source_page_url": "https://polen.itu.edu.tr/bitstreams/eead0879-ff92-4fb0-a8e6-c92181d5aa65/download#page=133",
+      "source_original_url": "sources/books/itu_ottoman_medals_catalogue.pdf#page=133",
+      "license": "Istanbul Technical University repository scan; local research use; preserve source page",
+      "width": 737,
+      "height": 666,
+      "sha256": "98352a1748dfac824589a92911be8b7489e22d69b8c271ab76c362d815ebe391",
+      "pdf_page": 133,
+      "printed_page": 124,
+      "plate": "Şekil 117.A-117.B",
+      "crop_box": [
+        1111,
+        2406,
+        1848,
+        3072
+      ],
+      "raw_page": "assets/raw/ottoman_itu_tayyare/page_133.png",
+      "side": "back"
+    }
+  ]
+}

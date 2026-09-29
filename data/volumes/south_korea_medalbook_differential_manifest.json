@@ -1,0 +1,685 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "rok-mb-005-02",
+      "record_id": "ROK-MB-005-V01",
+      "view_key": "ROK-MB-005-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/005_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/40th-anniversary-of-republic-of-korea-army-medal/40th-anniversary-of-republic-of-korea-army-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/465bce14c752596d55cb1cf92c8595481dd083f1/store/fit/1000/750/3c5b06baff83121b2bd5c8820c083f1df8d4600e5d2829a617975c8d0e4c/40th+Anniversary+of+Republic+of+Korea+Army+Medal+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 93016,
+      "sha256": "c6ab634d9aa807f5dfb9eeb0df04dd3fd6bca3033777f65aa4eccc12559d9635",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-005-04",
+      "record_id": "ROK-MB-005-V01",
+      "view_key": "ROK-MB-005-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/005_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/40th-anniversary-of-republic-of-korea-army-medal/40th-anniversary-of-republic-of-korea-army-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/83137cdb3bf1a98294e43e82f92639715d9fa609/store/fit/528/348/04dcdbd5ab96497cb266638c65fc3d3981f05ffe23b91318d9141e5a679a/40th+Anniversary+of+Republic+of+Korea+Army+Medal+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 22388,
+      "sha256": "8c81f3a7bc183ca10649566f5067571429bc522e3c0405c2426fe5f2c2ae7f3a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-006-04",
+      "record_id": "ROK-MB-006-V01",
+      "view_key": "ROK-MB-006-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/006_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/anti-guerrilla-warfare-service-medal/anti-guerrilla-warfare-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/fff286b230e948d001a94a8dccf3112b57adab52/store/fit/1000/750/4a0a3dd3330809512fc8feb2baae400120163c45ef6e51d7bb150f008f8b/Anti-Guerrilla+Warfare+Service+Medal+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 120982,
+      "sha256": "5161b4e5123938c959713fcdf46454d7903a35820ab86a04e6695a200d205c5c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-006-03",
+      "record_id": "ROK-MB-006-V01",
+      "view_key": "ROK-MB-006-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/006_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/anti-guerrilla-warfare-service-medal/anti-guerrilla-warfare-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/dddae1af90513596605d905142eaf7a3362aae1d/store/fit/528/348/fd149a8a14445050ef29cf27cfb43180994f56f523e9204c98922172f720/Anti-Guerrilla+Warfare+Service+Medal+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24348,
+      "sha256": "f4eaaa27a0c26b7ca75ab2cb00e45ba7fb95697d1d22f2a5482deb4801522a05",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-018-02",
+      "record_id": "ROK-MB-018-V01",
+      "view_key": "ROK-MB-018-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/018_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/korean-war-service-medal/korean-war-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/54e96979f1b1acc1b27a11056d41d55c0d3e0cf3/store/fit/528/348/ee38c827f8d70693b74b0173e5057bb560f0c47417c1173c14b029d01783/A_South_Korean_W_556dcbffd2bc21.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 145265,
+      "sha256": "85ef44868b742716f823072d3a53a6bdff3e5e871456857dad443459a1b95ce8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-018-01",
+      "record_id": "ROK-MB-018-V01",
+      "view_key": "ROK-MB-018-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/018_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/korean-war-service-medal/korean-war-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/18cd8898fd141717408c0bb142573b2a1ede366a/store/fit/528/348/53cb1b67c05bda292e4c9bb82866a38945c03bee646259a3aecc07c0818e/IMG_03.jpg556dcc43af4a1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 154175,
+      "sha256": "4774595b59075b3d644ea39945ffcfa66f98bb3da3adb65161c65d3eb92e8e24",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-039-01",
+      "record_id": "ROK-MB-039-V01",
+      "view_key": "ROK-MB-039-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/039_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/vietnam-war-service-medal/vietnam-war-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/1837217767a07be10705d8d8c56351c86a60ab5c/store/fit/528/348/23601a83687b120c068dbf8c2a1b632b26c25f3b6609e7fc0de624bb5381/A_South_Korean_M_54fdc27ee92f92.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 127823,
+      "sha256": "660baf918107a54388f0f0b2ae69efa5961b8626415f927f2daced0f175db201",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-039-02",
+      "record_id": "ROK-MB-039-V01",
+      "view_key": "ROK-MB-039-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/039_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/vietnam-war-service-medal/vietnam-war-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/570fc172f8ff86c085d5388ee8b0e05ee27e16b3/store/fit/528/348/a80b4b3eaa1ac3bae894f2b1123c8e69c0a076f0ea8366761a73042389a0/IMG_03.jpg54fdc2a68ae43.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 170957,
+      "sha256": "b23c101ac9dadb16f477b29aa2b9daaff815d987c1b50bd11f7ca55a6a27653d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-040-01",
+      "record_id": "ROK-MB-040-V01",
+      "view_key": "ROK-MB-040-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/040_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/wound-medal/wound-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/0e145051049a08c3c3963b9ba2946551e2127b19/store/fit/528/348/de1d1fabf4f81d878f4538ef3ff18f44e0911db6f20a4eebada60d1f9827/Wound+Medal%2C+I+Class+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24232,
+      "sha256": "6e34b9874b1b779ccdf405b9674ca4f01445cd5503174667e58989a494052dca",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-040-03",
+      "record_id": "ROK-MB-040-V01",
+      "view_key": "ROK-MB-040-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/040_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/wound-medal/wound-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/c8f047cbab27de0edf5b688311c92d402577b77a/store/fit/528/348/3c74dcfd5f18003859535821f03071bc23ab9cd242489b5ad877a69d7188/Wound+Medal%2C+I+Class+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 23249,
+      "sha256": "a50f5af9531e0353e7991f108ee328c6d8088d681e32a1d1e3159f5893b457fc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-041-02",
+      "record_id": "ROK-MB-041-V01",
+      "view_key": "ROK-MB-041-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/041_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/wound-medal/wound-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/2a8688d4fa5fa927c4d2de5a71003e605b40609e/store/fit/528/348/330de2ebe53ca35372c62515ce2429c4b50064f03f0c555edc09406be6ea/Wound+Medal%2C+II+Class+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 29751,
+      "sha256": "e49c9975f2be7153361d03b671eaaedfaf99c3a023fb76369ee2cc5976e3e3d4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "rok-mb-041-01",
+      "record_id": "ROK-MB-041-V01",
+      "view_key": "ROK-MB-041-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/041_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/wound-medal/wound-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/123017237d3961b2457a44899e5ed09f16db7a06/store/fit/528/348/135d3920e02c8ff25d15ffc5bf61428e2d0aaedfa5690a7334afdde6231b/Wound+Medal%2C+II+Class+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 32878,
+      "sha256": "119b67aa7659a451d00ffd9261e369f8b2824644a394c888653c4faf8434da4a",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-south_korea-2e9aa7af071786aa",
+      "name": "10th Anniversary of Republic of Korea Army Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/10th-anniversary-of-republic-of-korea-army-medal/10th-anniversary-of-republic-of-korea-army-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-3cab51eece0fca7d",
+      "name": "20th Anniversary of Republic of Korea Army Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/20th-anniversary-of-republic-of-korea-army-medal/20th-anniversary-of-republic-of-korea-army-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-571331ef48f09abb",
+      "name": "30th Anniversary of Republic of Korea Army Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/30th-anniversary-of-republic-of-korea-army-medal/30th-anniversary-of-republic-of-korea-army-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-c6401d85442b7b34",
+      "name": "Civil Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/civil-merit-medal/civil-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-a6ee07a9523f5279",
+      "name": "Cultural Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/cultural-merit-medal/cultural-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7c64c2aec76dcc02",
+      "name": "Diplomatic Service Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/diplomatic-service-merit-medal/diplomatic-service-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-aba0a46b1152a4ae",
+      "name": "Exemplary Public Official Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/exemplary-public-official-medal/exemplary-public-official-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-50f00ac6d8638601",
+      "name": "Gulf War Participation Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/gulf-war-participation-medal/gulf-war-participation-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d758ba486858035b",
+      "name": "Industrial Service Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/industrial-service-merit-medal/industrial-service-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-949c0790bfaf26c4",
+      "name": "Medal for 10 Years Faithful Service",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/medal-for-10-years-faithful-service/medal-for-10-years-faithful-service-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-e595680210439fb9",
+      "name": "Medal for 20 Years of Faithful Service",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/medal-for-20-years-of-faithful-service/medal-for-20-years-of-faithful-service-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ccefb565e94b2c75",
+      "name": "Medal for 30 Years of Faithful Service",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/medal-for-30-years-of-faithful-service/medal-for-30-years-of-faithful-service-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-0221444094fe92c2",
+      "name": "Meritorious Service Decoration",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/meritorious-service-decoration/meritorious-service-decoration-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-26e9df1a63efbe0b",
+      "name": "Military Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/military-merit-medal/military-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-15fbed79689ecbe6",
+      "name": "National Foundation Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/national-foundation-merit-medal/national-foundation-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-655e71c071961478",
+      "name": "National Merited Persons Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/national-merited-persons-medal/national-merited-persons-medal-1",
+      "status": "原站唯一图片返回HTTP 404"
+    },
+    {
+      "source_id": "medalbook-south_korea-101ed78901151b9b",
+      "name": "National Security Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/national-security-merit-medal/national-security-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ca4f08dadc0ecca2",
+      "name": "Next of Kin Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/next-of-kin-medal/next-of-kin-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-8cbcecfbbd72d5e7",
+      "name": "Overcoming National Crisis Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/overcoming-national-crisis-medal/overcoming-national-crisis-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-3940a94c4d74bb79",
+      "name": "Peacekeeping Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/peacekeeping-medal/peacekeeping-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-257b6c7bc3f231f4",
+      "name": "Police 20 Years Long Service Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/police-20-years-long-service-medal/police-20-years-long-service-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-c42b480c7716df32",
+      "name": "Red Cross Medal, 1956",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/red-cross-medal-1956/red-cross-medal-1956-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-5ba7d08ff2ac2e57",
+      "name": "Reserve Forces Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/reserve-forces-merit-medal/reserve-forces-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-6e5cf377122d8479",
+      "name": "Revisit Korea Campaign Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/revisit-korea-campaign-medal/revisit-korea-campaign-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-573beb6831d36c2b",
+      "name": "Sarmaeul Service Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/sarmaeul-service-merit-medal/sarmaeul-service-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d1bc0e712589e77f",
+      "name": "Science and Technology Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/science-and-technology-merit-medal/science-and-technology-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-940f429a9b337ca5",
+      "name": "Service Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/service-merit-medal/service-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-c594ed7eac4a4d63",
+      "name": "Sports Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/sports-merit-medal/sports-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-74fe2e259b62b902",
+      "name": "Talent Medal of Korea",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/talent-medal-of-korea/talent-medal-of-korea-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7bce243cd87113c6",
+      "name": "Grand Order of Mugunghwa, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/grand-order-of-mugunghwa/grand-order-of-mugunghwa-badge-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-11e8cac644efbd5d",
+      "name": "Grand Order of Mugunghwa, Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/grand-order-of-mugunghwa/grand-order-of-mugunghwa-breast-star-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-0fc5f6a8b7dad8ac",
+      "name": "Grand Order of Mugunghwa, Collar",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/grand-order-of-mugunghwa/grand-order-of-mugunghwa-collar-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-cfcf0526e26b0bd9",
+      "name": "Order of Merit for National Foundation, Type I, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-422b0bdfb3e2ba4b",
+      "name": "Order of Merit for National Foundation, Type I, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-040ed8b0acfd4aeb",
+      "name": "Order of Merit for National Foundation, Type I, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-ii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-f475b4b79feae61e",
+      "name": "Order of Merit for National Foundation, Type I, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-a795ed1c3e3147e5",
+      "name": "Order of Merit for National Foundation, Type I, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-iii-class-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d32b41a9fc8c117b",
+      "name": "Order of Merit for National Foundation, Type I, III Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-1949/order-of-merit-for-national-foundation-type-i-iii-class-breast-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-0a183469960bccd9",
+      "name": "Order of Merit for National Foundation, Type II, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-392a3ac44d6c58ab",
+      "name": "Order of Merit for National Foundation, Type II, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-81ecce91b4536b69",
+      "name": "Order of Merit for National Foundation, Type II, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-ii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-2dade918440a9161",
+      "name": "Order of Merit for National Foundation, Type II, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d5fb1fbe322798d5",
+      "name": "Order of Merit for National Foundation, Type II, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-iii-class-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-1d05e36b69eda851",
+      "name": "Order of Merit for National Foundation, Type II, III Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-1962/order-of-merit-for-national-foundation-type-ii-iii-class-breast-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-fa025637032e0801",
+      "name": "Order of Merit for National Foundation, Type III, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-3ee39e98b93b07f5",
+      "name": "Order of Merit for National Foundation, Type III, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-237b104a81e789d0",
+      "name": "Order of Merit for National Foundation, Type III, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-ii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-62d0042e93a6b971",
+      "name": "Order of Merit for National Foundation, Type III, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-5d8c392799e5843e",
+      "name": "Order of Merit for National Foundation, Type III, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-iii-class-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d5da7385ac161450",
+      "name": "Order of Merit for National Foundation, Type III, III Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-i-i-1967/order-of-merit-for-national-foundation-type-iii-iii-class-breast-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-38ad971ac93f097d",
+      "name": "Order of Merit for National Foundation, Type IV, I Class (Republic of Korea Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-i-class-(republic-of-korea-medal)-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-78a4b961bd83597f",
+      "name": "Order of Merit for National Foundation, Type IV, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d14210f971eba147",
+      "name": "Order of Merit for National Foundation, Type IV, II Class (Presidential Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-ii-class-(presidential-medal)-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d1beca16151ad84d",
+      "name": "Order of Merit for National Foundation, Type IV, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-b858162eb371a522",
+      "name": "Order of Merit for National Foundation, Type IV, III Class (National Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-iii-class-(national-medal)-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-622590cde8861cca",
+      "name": "Order of Merit for National Foundation, Type IV, III Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-iii-class-breast-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ea926df6ddb72296",
+      "name": "Order of Merit for National Foundation, Type IV, IV Class (Patriotic Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-iv-class-(patriotic-medal)-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-92d3d6be015f686d",
+      "name": "Order of Merit for National Foundation, Type IV, IV Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-iv-class-breast-star-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-85c8a1f2e6cfb159",
+      "name": "Order of Merit for National Foundation, Type IV, V Class (National Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-v-class-(national-medal)-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-9be9408c1568e4b7",
+      "name": "Order of Merit for National Foundation, Type IV, V Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-i-v-1990/order-of-merit-for-national-foundation-type-iv-v-class-breast-star-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7952e9cd42688e1e",
+      "name": "Order of Merit for National Foundatio, Type V, I Class (Republic of Korea Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-v-post-1990/order-of-merit-for-national-foundatio-type-v-i-class-(republic-of-korea-medal)-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-aeacbfcdda82748e",
+      "name": "Order of Merit for National Foundation, Type V, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-v-post-1990/order-of-merit-for-national-foundation-type-v-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-6fbb183d64445492",
+      "name": "Order of Merit for National Foundation, Type V, II Class (Presidential Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-v-post-1990/order-of-merit-for-national-foundation-type-v-ii-class-(presidential-medal)-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-9b1c1ac07b83d015",
+      "name": "Order of Merit for National Foundation, Type V, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-v-post-1990/order-of-merit-for-national-foundation-type-v-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-df1c3b2f9a7269c3",
+      "name": "Order of Merit for National Foundation, Type V, III Class (National Medal)",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-merit-for-national-foundation/type-v-post-1990/order-of-merit-for-national-foundation-type-v-iii-class-(national-medal)-5",
+      "status": "有记载未配图"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "source_id": "medalbook-south_korea-ecb1caff8c49560b",
+      "name": "Korean Veteran's Association Medal",
+      "reason": "association award; retained outside the state-award main catalogue"
+    }
+  ]
+}

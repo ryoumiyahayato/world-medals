@@ -1,0 +1,55 @@
+{
+  "source_atlas_id": "luxembourg_source_matrix",
+  "as_of": "2026-09-29",
+  "scope": "卢森堡大公国现行及历史正式勋赏体系",
+  "sources": [
+    {
+      "id": "LU-GOV-HONOURS-BOOK-2007",
+      "type": "official_government_brochure",
+      "language": "en",
+      "scope": "四个主要勋章全部等级与附属章；其他正式勋章、奖章和服役十字章名录",
+      "date_coverage": "1841—2007",
+      "image_capability": "42张完整低清官方图册实物图",
+      "pagination": "20-page PDF",
+      "download_method": "direct public PDF; embedded image extraction",
+      "priority": 1,
+      "status": "completed_entire_book",
+      "last_checked": "2026-09-29",
+      "coverage_boundary": "正文第4—14页四个主要勋章；第15页其他奖励仅列名无图；第16—20页为佩戴、归还、法源、书目与版权页。"
+    },
+    {
+      "id": "LU-GRAND-DUCAL-COURT-ORDERS",
+      "type": "official_grand_ducal_court",
+      "language": "en/fr/de/lb",
+      "scope": "四个主要勋章现行制度",
+      "date_coverage": "1841—现行",
+      "image_capability": "页面图未用于本批",
+      "pagination": "none",
+      "download_method": "web review",
+      "priority": 1,
+      "status": "completed_visible_page",
+      "last_checked": "2026-09-29"
+    },
+    {
+      "id": "LU-NATIONAL-MUSEUM-COLLECTIONS",
+      "type": "national_museum_collection",
+      "language": "fr/de/lb",
+      "scope": "历史版型与第15页无图奖励",
+      "date_coverage": "待扫",
+      "image_capability": "可能",
+      "pagination": "unknown",
+      "download_method": "object search pending",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-29"
+    }
+  ],
+  "counts": {
+    "planned": 3,
+    "completed": 2,
+    "partial": 0,
+    "blocked": 0,
+    "not_started": 1
+  },
+  "next_action": "为第15页列出的九个无图正式奖励补完整实物图，并扩展四个主要勋章的历史版型和军用加剑各级。"
+}

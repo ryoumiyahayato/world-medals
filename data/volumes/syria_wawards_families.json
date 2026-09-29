@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "叙利亚共和国",
+  "records": [
+    {
+      "id": "SYR-WAWARDS-ORDER_OF_DEVOTION-REPRESENTATIVE",
+      "family": "SYR-WAWARDS-ORDER_OF_DEVOTION",
+      "country_zh": "叙利亚共和国",
+      "name": "忠诚勋章",
+      "original": "Order of Devotion",
+      "date": "1953年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "SYR-WAWARDS-ORDER_OF_DEVOTION-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-syria-001"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    }
+  ]
+}

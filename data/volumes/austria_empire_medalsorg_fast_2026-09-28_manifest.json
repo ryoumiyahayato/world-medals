@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "aut-ae-003-v01-front",
+      "record_id": "AUT-AE-003-V01",
+      "view_key": "AUT-AE-003-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-empire003.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire003.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-empire/images/austria-empire026.jpg",
+      "object_reference": "World Medals Index image caption “Knight, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Knight, Obverse",
+      "dimensions": [
+        119,
+        250
+      ],
+      "bytes": 9671,
+      "sha256": "a7204fa35bb8d898550f2ed775284d53f66a7dbef704edbd2410fd654d1a5daf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-ae-004-v01-front",
+      "record_id": "AUT-AE-004-V01",
+      "view_key": "AUT-AE-004-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-empire004.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire004.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-empire/images/austria-empire032.jpg",
+      "object_reference": "World Medals Index image caption “Grand Cross: Badge” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Grand Cross: Badge",
+      "dimensions": [
+        119,
+        250
+      ],
+      "bytes": 14736,
+      "sha256": "280f1c200382b0255d749cd73ae423a6e32524980efdb8529a64f18952846b6e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-ae-044-v01-front",
+      "record_id": "AUT-AE-044-V01",
+      "view_key": "AUT-AE-044-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-empire044.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire044.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-empire/images/austria-empire058.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        181,
+        250
+      ],
+      "bytes": 12698,
+      "sha256": "cb97e4357aa3836f5ccda4f8303717de202e2f1fec92ee131993db9a6f4cea09",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

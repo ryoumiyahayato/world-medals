@@ -1,0 +1,417 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "qat-wawards-order_of_independence-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_INDEPENDENCE-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_INDEPENDENCE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-independence.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-independence.html",
+      "image_url": "https://wawards.org/images/qatar/1/7.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 80083,
+      "sha256": "7c4e74fbd76ad6a1aae17d94b738b44a3dbeb5cf3986ad740a97a1031ffbdec1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_merit-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MERIT-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MERIT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-merit.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-merit.html",
+      "image_url": "https://wawards.org/images/qatar/2/15.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47711,
+      "sha256": "5b9457f43b6146235911a504c3ccb24ad5917f5d16690e879bfd44cc00aaaf16",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_bravery_1978-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_BRAVERY_1978-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_BRAVERY_1978-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-bravery-1978.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-bravery-1978.html",
+      "image_url": "https://wawards.org/images/qatar/10/1a.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57552,
+      "sha256": "adf71549bf5456a16084c641455aa4beb3ebb61713b7aa8a17269f674165a91a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_for_outstanding_service_1978-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_FOR_OUTSTANDING_SERVICE_1978-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_FOR_OUTSTANDING_SERVICE_1978-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-for-outstanding-service-1978.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-for-outstanding-service-1978.html",
+      "image_url": "https://wawards.org/images/qatar/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66247,
+      "sha256": "38fb5783afbdb256475be947f3c39731c414d9c5df7fdb0775e7d5d51c958938",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-long_service_and_good_conduct_medal_1978-representative-image",
+      "record_id": "QAT-WAWARDS-LONG_SERVICE_AND_GOOD_CONDUCT_MEDAL_1978-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-LONG_SERVICE_AND_GOOD_CONDUCT_MEDAL_1978-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/long-service-and-good-conduct-medal-1978.jpg",
+      "source_page": "https://wawards.org/en/qatar/long-service-and-good-conduct-medal-1978.html",
+      "image_url": "https://wawards.org/images/qatar/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56362,
+      "sha256": "70b350669513fecdf084bf949ac47eead783d11e947214de52252839fd42b3f9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_military_gallantry-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MILITARY_GALLANTRY-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MILITARY_GALLANTRY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-military-gallantry.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-military-gallantry.html",
+      "image_url": "https://wawards.org/images/qatar/7/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 87449,
+      "sha256": "4fb38e9784d1b43f9957e9fddc3575f265c2b3d144bb9be7bce07d9be470a5bd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_military_duty-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MILITARY_DUTY-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MILITARY_DUTY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-military-duty.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-military-duty.html",
+      "image_url": "https://wawards.org/images/qatar/11/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 84162,
+      "sha256": "6d52d008c8cf11ecc211c24a9fea7ffebc4ea5662d3c6c6e824ed4e0d9574694",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_faithful_service-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_FAITHFUL_SERVICE-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_FAITHFUL_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-faithful-service.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-faithful-service.html",
+      "image_url": "https://wawards.org/images/qatar/3/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75405,
+      "sha256": "030f54aacc6ba993bfeadc594f06498b3b3e8b09635032510afec8ce8a55fd45",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_honour-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_HONOUR-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_HONOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-honour.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-honour.html",
+      "image_url": "https://wawards.org/images/qatar/12/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72086,
+      "sha256": "0ed73deddec1f3ee7ef3bfae243793f4705114a909a268b77f13ca3fd281bba0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_innovation-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_INNOVATION-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_INNOVATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-innovation.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-innovation.html",
+      "image_url": "https://wawards.org/images/qatar/14/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77158,
+      "sha256": "a7fb8b6248b4f4e84b5f722f4c58694c3c8b0c674b0c7086406af9f193501775",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_efficient_leadership-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_EFFICIENT_LEADERSHIP-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_EFFICIENT_LEADERSHIP-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-efficient-leadership.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-efficient-leadership.html",
+      "image_url": "https://wawards.org/images/qatar/15/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64673,
+      "sha256": "2728a2f385f6ba0ab3a0872c7daa9c11e40628f3ebcf65e6f5a1f267e79841f7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_efficient_training-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_EFFICIENT_TRAINING-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_EFFICIENT_TRAINING-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-efficient-training.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-efficient-training.html",
+      "image_url": "https://wawards.org/images/qatar/16/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70745,
+      "sha256": "5b1defd4c2bf29585c1f394d13902be51579bc9649f6def69169579732347eee",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_perfection-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_PERFECTION-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_PERFECTION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-perfection.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-perfection.html",
+      "image_url": "https://wawards.org/images/qatar/17/6.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 112700,
+      "sha256": "0c8d9de04ac24e4e37d19eb53a7db9dff5983c23797e2902dc2bcab4bba56614",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_combat-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_COMBAT-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_COMBAT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-combat.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-combat.html",
+      "image_url": "https://wawards.org/images/qatar/13/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 69096,
+      "sha256": "f98b1ca3d83267b22c5c1945d723fe7af5495979e8a19d1236043bcc8e1cc1bb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_independence_anniversary-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_INDEPENDENCE_ANNIVERSARY-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_INDEPENDENCE_ANNIVERSARY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-independence-anniversary.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-independence-anniversary.html",
+      "image_url": "https://wawards.org/images/qatar/18/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71476,
+      "sha256": "694c59fd3abaccc2c1f9e2a33ea4bf4f814bf8d2661451797e7fffc2fff62500",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-land_forces_medal-representative-image",
+      "record_id": "QAT-WAWARDS-LAND_FORCES_MEDAL-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-LAND_FORCES_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/land-forces-medal.jpg",
+      "source_page": "https://wawards.org/en/qatar/land-forces-medal.html",
+      "image_url": "https://wawards.org/images/qatar/20/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81182,
+      "sha256": "9b5860e80be03fd32ddfca72150b55013f1d2315aeddccfbd698bee3f895f8ca",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-air_force_medal-representative-image",
+      "record_id": "QAT-WAWARDS-AIR_FORCE_MEDAL-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-AIR_FORCE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/air-force-medal.jpg",
+      "source_page": "https://wawards.org/en/qatar/air-force-medal.html",
+      "image_url": "https://wawards.org/images/qatar/6/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 85759,
+      "sha256": "aa9574174ccee638eb9ab2489ff27625ba1135a3adb7a2e14c2f05a39a03214f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-naval_forces_medal-representative-image",
+      "record_id": "QAT-WAWARDS-NAVAL_FORCES_MEDAL-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-NAVAL_FORCES_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/naval-forces-medal.jpg",
+      "source_page": "https://wawards.org/en/qatar/naval-forces-medal.html",
+      "image_url": "https://wawards.org/images/qatar/21/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61960,
+      "sha256": "86405b9bb4cd65e40e815f91ca184b0dd4b4739497467292cf9b3277c522c97a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-medal_of_accession_anniversary-representative-image",
+      "record_id": "QAT-WAWARDS-MEDAL_OF_ACCESSION_ANNIVERSARY-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MEDAL_OF_ACCESSION_ANNIVERSARY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/medal-of-accession-anniversary.jpg",
+      "source_page": "https://wawards.org/en/qatar/medal-of-accession-anniversary.html",
+      "image_url": "https://wawards.org/images/qatar/19/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 95634,
+      "sha256": "9f9925d75ebf95746ad236676e37a6a8ec24c516470122be4555107a1af344dc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-martyrs_order-representative-image",
+      "record_id": "QAT-WAWARDS-MARTYRS_ORDER-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-MARTYRS_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/martyrs-order.jpg",
+      "source_page": "https://wawards.org/en/qatar/martyrs-order.html",
+      "image_url": "https://wawards.org/images/qatar/4/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74748,
+      "sha256": "da1ae674186b0468f4973972885178b733f112dd89eb171906f23fba0529334e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_military_duty_2021-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MILITARY_DUTY_2021-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MILITARY_DUTY_2021-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-military-duty-2021.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-military-duty-2021.html",
+      "image_url": "https://wawards.org/images/qatar/22/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 99892,
+      "sha256": "a0f34a0633d91461a766c8c799a46be644d153edc85300f93f515ef153bbd827",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_military_merit-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MILITARY_MERIT-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MILITARY_MERIT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-military-merit.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-military-merit.html",
+      "image_url": "https://wawards.org/images/qatar/23/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 105674,
+      "sha256": "60f64cbc78d7e6456de68895b3314409347224805cb6f6322a32b2ef45b13350",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-order_of_military_service-representative-image",
+      "record_id": "QAT-WAWARDS-ORDER_OF_MILITARY_SERVICE-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-ORDER_OF_MILITARY_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/order-of-military-service.jpg",
+      "source_page": "https://wawards.org/en/qatar/order-of-military-service.html",
+      "image_url": "https://wawards.org/images/qatar/24/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 109200,
+      "sha256": "ea235287357126bbced0c4f9687f53d3298b12094ad6d181a1905d76162eb82c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "qat-wawards-gallantry_order-representative-image",
+      "record_id": "QAT-WAWARDS-GALLANTRY_ORDER-REPRESENTATIVE",
+      "view_key": "QAT-WAWARDS-GALLANTRY_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_qatar/gallantry-order.jpg",
+      "source_page": "https://wawards.org/en/qatar/gallantry-order.html",
+      "image_url": "https://wawards.org/images/qatar/5/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 94636,
+      "sha256": "6901e8d7cf0174d7787fcb9af18ede904b72ec16540ecadc1e06360f57fe7401",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; all additional source images remain cached for grade-level normalization."
+  ]
+}

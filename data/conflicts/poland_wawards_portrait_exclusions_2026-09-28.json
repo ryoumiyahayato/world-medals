@@ -1,0 +1,9 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "World Awards Poland country index",
+  "source_url": "https://wawards.org/en/poland.html",
+  "processed_overview_pages": 3,
+  "excluded_images": 3,
+  "reason": "The current index exposes only decorated-person portrait overviews for the three Polish polity headings; none is an isolated complete award image, so no formal pictured row was created.",
+  "next_action": "Use the Polish national award-system master list and official regulations as the family inventory, then obtain isolated object images by source batch."
+}

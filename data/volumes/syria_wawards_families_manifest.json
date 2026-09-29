@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "syr-wawards-order_of_devotion-representative-image",
+      "record_id": "SYR-WAWARDS-ORDER_OF_DEVOTION-REPRESENTATIVE",
+      "view_key": "SYR-WAWARDS-ORDER_OF_DEVOTION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_syria/order-of-devotion.jpg",
+      "source_page": "https://wawards.org/syria/order-of-devotion.html",
+      "image_url": "https://wawards.org/images/syria/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44640,
+      "sha256": "e0af86d95fb445c7a33f622520a6e05a858e8e1cbc5defaaeec3e5cc7ed026bc",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; additional images remain cached for grade and reverse expansion."
+  ]
+}

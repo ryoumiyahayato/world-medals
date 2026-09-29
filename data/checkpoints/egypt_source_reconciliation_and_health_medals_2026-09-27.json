@@ -1,0 +1,86 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Egypt continuation — source-state reconciliation and royal-period image gaps",
+  "source_coverage": {
+    "planned": 9,
+    "completed": 8,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "source_status_corrections": [
+    "Commons Egypt moved from stale not_started to completed: 16 categories, 99 file pages, 18 recovered local images and 13 formal uses.",
+    "Abdeen Palace no longer carries Commons statistics: current official online pages are exhausted, while named printed museum catalogues remain unlocated.",
+    "Egypt Ministry of Tourism and Antiquities Royal Jewelry Museum group record completed as a bounded official source; its unidentified group image remains research-only."
+  ],
+  "new_completed_sources": [
+    {
+      "source_id": "egypt_mota_royal_jewelry_medal_collection",
+      "records": 1,
+      "raw_images": 1,
+      "formal_rows": 0
+    },
+    {
+      "source_id": "heritage_auction_3075_2019",
+      "pdf_pages_indexed": 411,
+      "egypt_lots_processed": 1,
+      "existing_families_pictured": 1,
+      "variants_added": 1,
+      "local_complete_images_added": 2
+    },
+    {
+      "source_id": "omsa_egypt_malaria_cholera_2005",
+      "pdf_pages_processed": 3,
+      "relevant_figures_processed": 5,
+      "existing_families_pictured": 1,
+      "variants_added": 1,
+      "local_complete_images_added": 2,
+      "partial_image_leads": 1,
+      "conflicts_created": 1
+    },
+    {
+      "source_id": "spink_24003_egypt_health_medals",
+      "lots_processed": 1,
+      "objects_described": 4,
+      "existing_families_pictured": 1,
+      "variants_added": 1,
+      "local_complete_images_added": 1
+    }
+  ],
+  "formal_promotions": [
+    {
+      "family": "EGY-OMSA-GRACE-FAVOUR-MEDAL",
+      "variant": "Fuad I gold first class, 1928/29 physical issue, L. Rosen & Co., Cairo",
+      "views": 2
+    },
+    {
+      "family": "EGY-OMSA-CHOLERA-MEDAL",
+      "variant": "1947 gilded-bronze 35 mm non-crown suspension issue, Fox/Fuchs, Cairo",
+      "views": 2
+    },
+    {
+      "family": "EGY-OMSA-MALARIA-MEDAL",
+      "variant": "1945 gilt red-enamel crown suspension issue; front and reverse are explicitly different physical objects of the same type",
+      "views": 2
+    }
+  ],
+  "current_egypt_delivery": {
+    "pictured_families": 53,
+    "pictured_variant_rows": 106,
+    "complete_local_views": 158,
+    "source_backed_unpictured_families": 8
+  },
+  "unresolved": [
+    "The 1945 Malaria Medal row uses a complete Spink front and a complete JOMSA reverse from different physical objects of the same crown-suspension type; the row and image labels state this explicitly.",
+    "The combined malaria/cholera piece is a verified physical object, but trial/proof versus awarded status is unresolved and therefore excluded from the formal count.",
+    "Eight OMSA difference-set families remain without complete images.",
+    "The Abdeen Palace printed museum catalogues remain a discovery target."
+  ],
+  "validation": {
+    "site_build": "pass",
+    "validate_site": "pass: 1177 official rows, 644 families, 1645 decoded local images",
+    "regression_audit": "pass: 0 reused image payloads, 0 ribbon-only rows",
+    "interaction_tests": "pass: country scoping, arbitrary single-character Chinese search, navigation and image preview"
+  },
+  "next_action": "Continue the Egypt exact-gap image harvest with the 1913 Bravery Medal, Order of Filaha and remaining royal-period families. Preserve the eight-family difference set and do not promote ribbon-only, unidentified group or status-conflicted objects."
+}

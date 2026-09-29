@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-medalbook-303-01",
+      "record_id": "MYS-KELANTAN-CROWN-MEDALBOOK-303",
+      "view_key": "MYS-KELANTAN-CROWN-MEDALBOOK-303-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/303_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kelantan/orders/most-illustrious-order-of-the-crown-of-kelantan/most-illustrious-order-of-the-crown-of-kelantan-knight-grand-commander-breast-star-3",
+      "image_url": "https://www.medalbook.com/attachments/c32f240057ef2abaf256dd9a1320aa30369fa030/store/fit/1000/750/890bba446fca013a88c3f1600240a44910bb4c4152a7142864429de95db7/Most+Illustrious+Order+of+the+Crown+of+Kelantan%2C+Grand+Knight+Commander+Breast+Star%2C+Obv+.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        740
+      ],
+      "bytes": 135927,
+      "sha256": "b7473b6fe54789b2b47588aa1909d317870ad9cc661f228157b40e6788691ca9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-304-02",
+      "record_id": "MYS-KELANTAN-CROWN-MEDALBOOK-304",
+      "view_key": "MYS-KELANTAN-CROWN-MEDALBOOK-304-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/304_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kelantan/orders/most-illustrious-order-of-the-crown-of-kelantan/most-illustrious-order-of-the-crown-of-kelantan-knight-grand-commander-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/96fc80f1e890bd4b963629b3ba473736f4018c84/store/fit/528/348/e39cc7a99bd94b0f8df4be74979042894e65c0c0eebeb154a03c4bdc0141/Most+Illustrious+Order+of+the+Crown+of+Kelantan%2C+Grand+Knight+Commander+Collar%2C+Obv+Close+.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        528,
+        295
+      ],
+      "bytes": 59773,
+      "sha256": "52b911a4b5a53da120dedc2cc2250ca02ac059a2e9a6ef0b936896025ca502d9",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

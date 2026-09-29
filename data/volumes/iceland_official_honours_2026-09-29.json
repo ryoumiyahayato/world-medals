@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "冰岛共和国勋章与正式奖章",
+  "records": [
+    {
+      "id": "IS-OFF-001",
+      "family": "IS-ORDER-FALCON",
+      "name": "冰岛猎鹰勋章",
+      "original": "Hin íslenska fálkaorða / Order of the Falcon",
+      "date": "1921年7月3日设立；1944年改为共和国勋章",
+      "variant": "现代胸章式正面；具体等级待考；官方网页低清实物图",
+      "views": [{"key": "IS-OFF-001-V01", "label": "完整正面实物照"}],
+      "source_ids": ["IS-GOV-HONOURS", "IS-PRESIDENCY-FALCON", "IS-LAW-145-2005"]
+    },
+    {
+      "id": "IS-OFF-002",
+      "family": "IS-RED-CROSS-DECORATION",
+      "name": "冰岛红十字会荣誉勋饰",
+      "original": "Heiðursmerki Rauðakross Íslands",
+      "date": "1949年2月24日设立",
+      "variant": "胸章式正面；两级中的具体等级待考；官方网页低清实物图",
+      "views": [{"key": "IS-OFF-002-V01", "label": "完整正面实物照"}],
+      "source_ids": ["IS-GOV-HONOURS"]
+    },
+    {
+      "id": "IS-OFF-003",
+      "family": "IS-PRESIDENT-MEDAL-HONOUR",
+      "name": "冰岛总统荣誉奖章",
+      "original": "Heiðurspeningur forseta Íslands",
+      "date": "1954年铸行",
+      "variant": "正面挂章；官方网页低清实物图；材质待考",
+      "views": [{"key": "IS-OFF-003-V01", "label": "完整正面实物照"}],
+      "source_ids": ["IS-GOV-HONOURS"]
+    },
+    {
+      "id": "IS-OFF-004",
+      "family": "IS-REPUBLIC-ACHIEVEMENT-DECORATION",
+      "name": "冰岛共和国英勇功绩奖章",
+      "original": "Afreksmerki hins íslenska lýðveldis",
+      "date": "2005年12月31日设立；2006年1月7日生效",
+      "variant": "一级金质正面挂章；官方网页低清实物图",
+      "views": [{"key": "IS-OFF-004-V01", "label": "完整正面实物照"}],
+      "source_ids": ["IS-GOV-HONOURS", "IS-LAW-143-2005"]
+    }
+  ]
+}

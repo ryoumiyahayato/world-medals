@@ -1,0 +1,539 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "丹麦王国勋章与国家奖章首批目录图像包",
+  "records": [
+    {
+      "id": "DK-MO-001",
+      "family": "DK-MO-001",
+      "name": "大象勋章",
+      "original": "Order of the Elephant",
+      "date": "约1462年创设；现行章程定于1693年12月1日",
+      "variant": "正面实物照；Collar, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-001-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-002",
+      "family": "DK-MO-002",
+      "name": "丹麦国旗勋章",
+      "original": "Order of the Dannebrog",
+      "date": "1671年10月12日设立",
+      "variant": "正面实物照；Grand Cross: Collar, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-002-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-003",
+      "family": "DK-MO-003",
+      "name": "功绩奖章",
+      "original": "Medal of Merit",
+      "date": "1792年5月16日设立",
+      "variant": "正面实物照；Medal of Merit in Gold, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-003-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-004",
+      "family": "DK-MO-004",
+      "name": "国防英勇奖章",
+      "original": "Defence Medal for Bravery",
+      "date": "1996年10月30日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-004-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-005",
+      "family": "DK-MO-005",
+      "name": "卓越飞行服务奖章",
+      "original": "Distinguished Flying Medal",
+      "date": "1962年5月30日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-005-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-006",
+      "family": "DK-MO-006",
+      "name": "因公阵亡或受伤奖章",
+      "original": "Medal for Those Killed or Wounded in Service",
+      "date": "1996年10月30日设立；2009年12月7日停授",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-006-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-010",
+      "family": "DK-MO-010",
+      "name": "1801年哥本哈根战役荣誉奖章",
+      "original": "Medal of Honour for the Battle of Copenhagen 1801",
+      "date": "1801年7月31日设立",
+      "variant": "正面实物照；Silver Medal, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-010-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-011",
+      "family": "DK-MO-011",
+      "name": "1848–1850年战争纪念奖章",
+      "original": "Commemorative War Medal of 1848-50",
+      "date": "设立日期待考",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-011-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-012",
+      "family": "DK-MO-012",
+      "name": "1864年战争纪念奖章",
+      "original": "Commemorative War Medal of 1864",
+      "date": "设立日期待考",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-012-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-013",
+      "family": "DK-MO-013",
+      "name": "1920年石勒苏益格纪念奖章",
+      "original": "Schleswig Commemorative Medal 1920",
+      "date": "1920年4月15日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-013-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-017",
+      "family": "DK-MO-017",
+      "name": "克里斯蒂安十世自由奖章",
+      "original": "Christian X's Medal of Freedom",
+      "date": "1946年3月9日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-017-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-018",
+      "family": "DK-MO-018",
+      "name": "1940—1945年服役纪念奖章",
+      "original": "Commemorative Medal for Service 1940-45",
+      "date": "1946年5月3日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-018-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-019",
+      "family": "DK-MO-019",
+      "name": "1939—1945年红十字会纪念奖章",
+      "original": "Red Cross Commemorative Medal 1939-45",
+      "date": "1946年2月1日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-019-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-021",
+      "family": "DK-MO-021",
+      "name": "朝鲜战争奖章",
+      "original": "Korea Medal",
+      "date": "1956年1月17日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-021-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-023",
+      "family": "DK-MO-023",
+      "name": "国防奖章",
+      "original": "The Defence Medal",
+      "date": "1991年11月27日设立；2010年停授",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-023-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-027",
+      "family": "DK-MO-027",
+      "name": "海军长期服役奖章",
+      "original": "Navy Long Service Medal",
+      "date": "1801年1月29日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-027-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-028",
+      "family": "DK-MO-028",
+      "name": "陆军长期服役奖章",
+      "original": "Army Long Service Medal",
+      "date": "1945年9月26日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-028-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-029",
+      "family": "DK-MO-029",
+      "name": "空军长期服役奖章",
+      "original": "Air Force Long Service Medal",
+      "date": "1953年3月11日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-029-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-030",
+      "family": "DK-MO-030",
+      "name": "国防部长期服役奖章",
+      "original": "Medal for Long Service in the Department of Defence",
+      "date": "1953年3月11日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-030-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-031",
+      "family": "DK-MO-031",
+      "name": "预备役优良服役奖章",
+      "original": "Medal for Good Service in the Reserve Forces",
+      "date": "待考",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-031-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-033",
+      "family": "DK-MO-033",
+      "name": "长期服役十字章",
+      "original": "Long Service Cross",
+      "date": "设立日期待考",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-033-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-034",
+      "family": "DK-MO-034",
+      "name": "警察优良服役奖章",
+      "original": "Police Good Service Medal",
+      "date": "1959年6月18日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-034-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-035",
+      "family": "DK-MO-035",
+      "name": "民防优良服役奖章",
+      "original": "Civil Defence Good Service Medal",
+      "date": "1963年4月25日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-035-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-036",
+      "family": "DK-MO-036",
+      "name": "国土卫队优良服役奖章",
+      "original": "Home Guard Good Service Medal",
+      "date": "1959年2月11日设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-036-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-037",
+      "family": "DK-MO-037",
+      "name": "消防部门长期服役奖章",
+      "original": "Fire Department Long Service Medal",
+      "date": "1903年7月29日（哥本哈根与腓特烈斯贝）；1973年12月5日扩至全国",
+      "variant": "正面实物照；Copenhagen, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-037-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-038",
+      "family": "DK-MO-038",
+      "name": "国土卫队服役勋饰",
+      "original": "Home Guard Service Decoration",
+      "date": "25年版1973年；40年版1988年；50年版2000年；60年版2009年",
+      "variant": "正面实物照；40 Years, Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-038-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-039",
+      "family": "DK-MO-039",
+      "name": "救生艇协会百周年纪念奖章",
+      "original": "Lifeboat Institution Centenary Medal 1952",
+      "date": "1952年设立",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-039-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    },
+    {
+      "id": "DK-MO-040",
+      "family": "DK-MO-040",
+      "name": "国土卫队50周年纪念奖章",
+      "original": "Home Guard 50 Years Jubilee Medal",
+      "date": "设立日期待考",
+      "variant": "正面实物照；Obverse；专业目录低清实物照；未作插值；材质待考",
+      "views": [
+        {
+          "key": "DK-MO-040-V01",
+          "label": "完整正面实物照"
+        }
+      ],
+      "source_ids": [
+        "DK-MEDALS-ORG-DIRECTORY",
+        "DK-COURT-HONOURS-LIST",
+        "DK-WIKIPEDIA-DENMARK-HONOURS"
+      ]
+    }
+  ]
+}
+

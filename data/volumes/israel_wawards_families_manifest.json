@@ -1,0 +1,349 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "isr-wawards-medal_of_valor-representative-image",
+      "record_id": "ISR-WAWARDS-MEDAL_OF_VALOR-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-MEDAL_OF_VALOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/medal-of-valor.jpg",
+      "source_page": "https://wawards.org/israel/medal-of-valor.html",
+      "image_url": "https://wawards.org/images/israel/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77387,
+      "sha256": "7dbf6c1586570c47c5db8cf75d155311abc4c3d37d03cde30fa9ac9cd1580156",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-medal_of_courage-representative-image",
+      "record_id": "ISR-WAWARDS-MEDAL_OF_COURAGE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-MEDAL_OF_COURAGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/medal-of-courage.jpg",
+      "source_page": "https://wawards.org/israel/medal-of-courage.html",
+      "image_url": "https://wawards.org/images/israel/3/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 92130,
+      "sha256": "4c73b7c993dab4b38bd609ea3054a0a283f11542eacca49360e341bd702ce350",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-medal_of_distinguished_service-representative-image",
+      "record_id": "ISR-WAWARDS-MEDAL_OF_DISTINGUISHED_SERVICE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-MEDAL_OF_DISTINGUISHED_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/medal-of-distinguished-service.jpg",
+      "source_page": "https://wawards.org/israel/medal-of-distinguished-service.html",
+      "image_url": "https://wawards.org/images/israel/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 124269,
+      "sha256": "a8e2b76d73d46e4815ba634a619643d3931448c927cdd0d3699d80f1fc0bba4a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-chief_of_staff_medal_of_appreciation-representative-image",
+      "record_id": "ISR-WAWARDS-CHIEF_OF_STAFF_MEDAL_OF_APPRECIATION-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-CHIEF_OF_STAFF_MEDAL_OF_APPRECIATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/chief-of-staff-medal-of-appreciation.jpg",
+      "source_page": "https://wawards.org/israel/chief-of-staff-medal-of-appreciation.html",
+      "image_url": "https://wawards.org/images/israel/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70088,
+      "sha256": "8fc72cc704075e3ec8fdeba5a22ca7ab43767ec69d8f4e13e9b4707494c43f4e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-major_general_medal_of_appreciation-representative-image",
+      "record_id": "ISR-WAWARDS-MAJOR_GENERAL_MEDAL_OF_APPRECIATION-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-MAJOR_GENERAL_MEDAL_OF_APPRECIATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/major-general-medal-of-appreciation.jpg",
+      "source_page": "https://wawards.org/israel/major-general-medal-of-appreciation.html",
+      "image_url": "https://wawards.org/images/israel/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74996,
+      "sha256": "b32710de6f09eaee5e4aa5ffc411162782e502bece2c0df36aa1cd36ae4ba755",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-medal_for_service_in_israel-representative-image",
+      "record_id": "ISR-WAWARDS-MEDAL_FOR_SERVICE_IN_ISRAEL-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-MEDAL_FOR_SERVICE_IN_ISRAEL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/medal-for-service-in-israel.jpg",
+      "source_page": "https://wawards.org/israel/medal-for-service-in-israel.html",
+      "image_url": "https://wawards.org/images/israel/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59475,
+      "sha256": "79e050fefe7aa744e89a482e204808d42bd8150c66bad4be849fe55fecb8d5d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-president_s_medal-representative-image",
+      "record_id": "ISR-WAWARDS-PRESIDENT_S_MEDAL-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-PRESIDENT_S_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/president-s-medal.jpg",
+      "source_page": "https://wawards.org/israel/president-s-medal.html",
+      "image_url": "https://wawards.org/images/israel/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49684,
+      "sha256": "b6d62b43a2df534045418030ff0fc97fef939cb9284d259be6686b3f636ea490",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-police_medal_of_valor-representative-image",
+      "record_id": "ISR-WAWARDS-POLICE_MEDAL_OF_VALOR-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-POLICE_MEDAL_OF_VALOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/police-medal-of-valor.jpg",
+      "source_page": "https://wawards.org/israel/police-medal-of-valor.html",
+      "image_url": "https://wawards.org/images/israel/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77655,
+      "sha256": "59370e0b2a944d4c19fe8c4b5043afbc96e4aca36f56d01ccd0a8ae7dc800e8e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-police_medal_of_courage-representative-image",
+      "record_id": "ISR-WAWARDS-POLICE_MEDAL_OF_COURAGE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-POLICE_MEDAL_OF_COURAGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/police-medal-of-courage.jpg",
+      "source_page": "https://wawards.org/israel/police-medal-of-courage.html",
+      "image_url": "https://wawards.org/images/israel/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72774,
+      "sha256": "df3268ddb37548e9640f45359399a582b9659ee3e90f4c4861759abbeb4efc73",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-police_medal_of_distinguished_service-representative-image",
+      "record_id": "ISR-WAWARDS-POLICE_MEDAL_OF_DISTINGUISHED_SERVICE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-POLICE_MEDAL_OF_DISTINGUISHED_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/police-medal-of-distinguished-service.jpg",
+      "source_page": "https://wawards.org/israel/police-medal-of-distinguished-service.html",
+      "image_url": "https://wawards.org/images/israel/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 82082,
+      "sha256": "b6875285d6e6ec6b3abc06a7236ec4fea920a03dae25fe2eb6f8e241d922c554",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-police_service_medal-representative-image",
+      "record_id": "ISR-WAWARDS-POLICE_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-POLICE_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/police-service-medal.jpg",
+      "source_page": "https://wawards.org/israel/police-service-medal.html",
+      "image_url": "https://wawards.org/images/israel/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 79157,
+      "sha256": "da69bbc74c2c6775857f234ae3e4922a4909031a3de9ca79def1753f59352706",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-police_volunteers_medal-representative-image",
+      "record_id": "ISR-WAWARDS-POLICE_VOLUNTEERS_MEDAL-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-POLICE_VOLUNTEERS_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/police-volunteers-medal.jpg",
+      "source_page": "https://wawards.org/israel/police-volunteers-medal.html",
+      "image_url": "https://wawards.org/images/israel/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 89502,
+      "sha256": "e98292ccefbcc5ec91b7a39e6d314b39bbddf93035cc7b0a3c0f1f0266ffc069",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-firefighters_medal_of_valor-representative-image",
+      "record_id": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_VALOR-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_VALOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/firefighters-medal-of-valor.jpg",
+      "source_page": "https://wawards.org/israel/firefighters-medal-of-valor.html",
+      "image_url": "https://wawards.org/images/israel/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 104897,
+      "sha256": "d438789913fbdcc2fe63302121e267d322f55603a32c6c9a2809860b0688be4f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-firefighters_medal_of_courage-representative-image",
+      "record_id": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_COURAGE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_COURAGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/firefighters-medal-of-courage.jpg",
+      "source_page": "https://wawards.org/israel/firefighters-medal-of-courage.html",
+      "image_url": "https://wawards.org/images/israel/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53217,
+      "sha256": "bf6357173e51fdd30eff69ddbf9584d4365d2026c4eff95001db03d02ec21db1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-firefighters_medal_of_exemplary_service-representative-image",
+      "record_id": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_EXEMPLARY_SERVICE-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-FIREFIGHTERS_MEDAL_OF_EXEMPLARY_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/firefighters-medal-of-exemplary-service.jpg",
+      "source_page": "https://wawards.org/israel/firefighters-medal-of-exemplary-service.html",
+      "image_url": "https://wawards.org/images/israel/15/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74974,
+      "sha256": "927879d0b1edac42eea61e02a501da57213367396492e3cd58860629166a6513",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-jubilee_medal_45_years_of_the_victory_over_germany-representative-image",
+      "record_id": "ISR-WAWARDS-JUBILEE_MEDAL_45_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-JUBILEE_MEDAL_45_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/jubilee-medal-45-years-of-the-victory-over-germany.jpg",
+      "source_page": "https://wawards.org/israel/jubilee-medal-45-years-of-the-victory-over-germany.html",
+      "image_url": "https://wawards.org/images/israel/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81078,
+      "sha256": "13f75e55873075ed05e32c75de69fe0a5266b2ebdbca8ec592f616661fc5a807",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-jubilee_medal_50_years_of_the_victory_over_germany-representative-image",
+      "record_id": "ISR-WAWARDS-JUBILEE_MEDAL_50_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-JUBILEE_MEDAL_50_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/jubilee-medal-50-years-of-the-victory-over-germany.jpg",
+      "source_page": "https://wawards.org/israel/jubilee-medal-50-years-of-the-victory-over-germany.html",
+      "image_url": "https://wawards.org/images/israel/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 76526,
+      "sha256": "e88fad20cbb9acbd6c11a3d258318641ac534eabbcb1311f54671cb78149db30",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-jubilee_medal_55_years_of_the_victory_over_germany-representative-image",
+      "record_id": "ISR-WAWARDS-JUBILEE_MEDAL_55_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-JUBILEE_MEDAL_55_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/jubilee-medal-55-years-of-the-victory-over-germany.jpg",
+      "source_page": "https://wawards.org/israel/jubilee-medal-55-years-of-the-victory-over-germany.html",
+      "image_url": "https://wawards.org/images/israel/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 85569,
+      "sha256": "7145921814b056aec690363562d1f9e22125f1c727a7eccdd10fd29810dbf02d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-jubilee_medal_60_years_of_the_victory_over_germany-representative-image",
+      "record_id": "ISR-WAWARDS-JUBILEE_MEDAL_60_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-JUBILEE_MEDAL_60_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/jubilee-medal-60-years-of-the-victory-over-germany.jpg",
+      "source_page": "https://wawards.org/israel/jubilee-medal-60-years-of-the-victory-over-germany.html",
+      "image_url": "https://wawards.org/images/israel/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70378,
+      "sha256": "877401a44765214938dd87bdf87f560c66383105513c9d27383d2e6f543e72de",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "isr-wawards-jubilee_medal_65_years_of_the_victory_over_germany-representative-image",
+      "record_id": "ISR-WAWARDS-JUBILEE_MEDAL_65_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE",
+      "view_key": "ISR-WAWARDS-JUBILEE_MEDAL_65_YEARS_OF_THE_VICTORY_OVER_GERMANY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_israel/jubilee-medal-65-years-of-the-victory-over-germany.jpg",
+      "source_page": "https://wawards.org/israel/jubilee-medal-65-years-of-the-victory-over-germany.html",
+      "image_url": "https://wawards.org/images/israel/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54564,
+      "sha256": "1577966b325d0aa54904827d56bc6a06105bcc0e9d68e89a5de5b0b4dcdde245",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; additional images remain cached for grade and reverse expansion."
+  ]
+}

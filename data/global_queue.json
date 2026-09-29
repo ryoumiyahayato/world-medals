@@ -1,5 +1,12 @@
 {
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-28",
+  "taxonomy_policy": {
+    "continent_assignment": "Each awarding polity appears under the single continent and subregion of its principal political centre; no transregional duplicate category is used.",
+    "metropole_and_territories": "Awards instituted and granted by a metropole remain in that metropole's system even when awarded in an occupied territory, governorate, colony or overseas possession. A territory is separate only when a distinct local awarding authority instituted the award.",
+    "historical_empty_nodes": "Early dynasties or regimes with no evidenced formal honours system are omitted instead of being retained as empty catalogue nodes.",
+    "japan_continuity": "Post-Meiji Japanese honours are presented under one continuous Japan system; reign eras remain dates or variants, not separate polity volumes.",
+    "africa_scope": "Modern sovereign systems are the default discovery units; historical systems are added only when evidence of a distinct awarding authority is found."
+  },
   "continents": [
     {
       "name": "亚洲",
@@ -22,50 +29,21 @@
                   "name": "中华人民共和国（1949–）",
                   "periods": []
                 },
-                {
-                  "name": "其他历史政权",
-                  "periods": []
-                }
+            {
+              "name": "满洲国（1932–1945）",
+              "periods": []
+            }
               ]
             },
-            {
-              "name": "日本",
-              "periods": [
-                {
-                  "name": "德川幕府／近世时期",
-                  "periods": []
-                },
-                {
-                  "name": "明治时期（1868–1912）",
-                  "periods": []
-                },
-                {
-                  "name": "大正时期（1912–1926）",
-                  "periods": []
-                },
-                {
-                  "name": "昭和时期（1926–1989）",
-                  "periods": []
-                },
-                {
-                  "name": "平成时期（1989–2019）",
-                  "periods": []
-                },
-                {
-                  "name": "令和时期（2019–）",
-                  "periods": []
-                }
-              ]
+        {
+          "name": "日本",
+          "periods": []
             },
             {
               "name": "朝鲜半岛",
               "periods": [
-                {
-                  "name": "朝鲜王朝（1392–1897）",
-                  "periods": []
-                },
-                {
-                  "name": "大韩帝国（1897–1910）",
+            {
+              "name": "大韩帝国（1897–1910）",
                   "periods": []
                 },
                 {
@@ -100,15 +78,33 @@
               "periods": []
             },
             {
+              "name": "文莱",
+              "periods": []
+            },
+            {
+              "name": "新加坡",
+              "periods": []
+            },
+            {
               "name": "缅甸",
               "periods": []
             },
             {
-              "name": "马来诸国",
-              "periods": []
+              "name": "马来西亚及州属",
+              "periods": [
+                {"name": "马来西亚联邦", "periods": []},
+                {"name": "沙巴州", "periods": []},
+                {"name": "砂拉越州", "periods": []},
+                {"name": "柔佛苏丹国", "periods": []},
+                {"name": "吉打苏丹国", "periods": []},
+                {"name": "吉兰丹苏丹国", "periods": []},
+                {"name": "彭亨苏丹国", "periods": []},
+                {"name": "霹雳苏丹国", "periods": []},
+                {"name": "马六甲／槟城／森美兰／玻璃市／雪兰莪／登嘉楼", "periods": []}
+              ]
             },
             {
-              "name": "印度尼西亚诸历史政权",
+              "name": "印度尼西亚",
               "periods": []
             },
             {
@@ -179,10 +175,6 @@
               "periods": []
             },
             {
-              "name": "俄罗斯帝国／苏联时期地方体系",
-              "periods": []
-            },
-            {
               "name": "哈萨克斯坦",
               "periods": []
             },
@@ -245,34 +237,44 @@
               "name": "也门",
               "periods": []
             },
-            {
-              "name": "阿拉伯半岛各政权",
-              "periods": []
-            },
-            {
-              "name": "海湾各酋长国",
-              "periods": []
-            },
-            {
-              "name": "伊拉克",
-              "periods": []
-            },
-            {
-              "name": "黎凡特诸政权",
-              "periods": []
-            }
-          ]
+        {
+          "name": "沙特阿拉伯",
+          "periods": []
         },
         {
-          "name": "北亚／跨区域政权",
-          "systems": [
-            {
-              "name": "俄罗斯帝国与苏联（交叉入口）",
-              "periods": [],
-              "target": "queue-russian"
+          "name": "阿拉伯联合酋长国",
+          "periods": []
+        },
+        {
+          "name": "科威特",
+          "periods": []
+        },
+        {
+          "name": "卡塔尔",
+          "periods": []
+        },
+        {
+          "name": "巴林",
+          "periods": []
+        },
+        {
+          "name": "伊拉克",
+          "periods": []
+        },
+        {
+          "name": "约旦",
+          "periods": []
+        },
+        {
+          "name": "黎巴嫩",
+          "periods": []
+        },
+        {
+          "name": "以色列",
+              "periods": []
             }
           ]
-        }
+    }
       ]
     },
     {
@@ -283,7 +285,8 @@
           "systems": [
             {
               "name": "丹麦",
-              "periods": []
+              "periods": [],
+              "target": "denmark"
             },
             {
               "name": "瑞典",
@@ -302,7 +305,8 @@
             },
             {
               "name": "冰岛",
-              "periods": []
+              "periods": [],
+              "target": "iceland"
             }
           ]
         },
@@ -310,7 +314,7 @@
           "name": "西欧",
           "systems": [
             {
-              "name": "英国／大英帝国",
+              "name": "英国",
               "periods": []
             },
             {
@@ -356,11 +360,13 @@
             },
             {
               "name": "卢森堡",
-              "periods": []
+              "periods": [],
+              "target": "luxembourg"
             },
             {
               "name": "爱尔兰",
-              "periods": []
+              "periods": [],
+              "target": "ireland"
             }
           ]
         },
@@ -520,6 +526,10 @@
               "periods": []
             },
             {
+              "name": "匈牙利",
+              "periods": []
+            },
+            {
               "name": "瑞士",
               "periods": []
             },
@@ -633,7 +643,7 @@
               "periods": []
             },
             {
-              "name": "南斯拉夫及后继国家",
+              "name": "南斯拉夫（历史体系）",
               "periods": []
             },
             {
@@ -681,26 +691,213 @@
           ]
         },
         {
-          "name": "撒哈拉以南非洲",
+          "name": "西非",
+          "systems": [
+            {
+              "name": "尼日利亚",
+              "periods": []
+            },
+            {
+              "name": "加纳",
+              "periods": []
+            },
+            {
+              "name": "塞内加尔",
+              "periods": []
+            },
+            {
+              "name": "科特迪瓦",
+              "periods": []
+            },
+            {
+              "name": "利比里亚",
+              "periods": []
+            },
+            {
+              "name": "冈比亚",
+              "periods": []
+            },
+            {
+              "name": "塞拉利昂",
+              "periods": []
+            },
+            {
+              "name": "几内亚",
+              "periods": []
+            },
+            {
+              "name": "马里",
+              "periods": []
+            },
+            {
+              "name": "布基纳法索",
+              "periods": []
+            },
+            {
+              "name": "尼日尔",
+              "periods": []
+            },
+            {
+              "name": "贝宁",
+              "periods": []
+            },
+            {
+              "name": "多哥",
+              "periods": []
+            },
+            {
+              "name": "几内亚比绍",
+              "periods": []
+            },
+            {
+              "name": "佛得角",
+              "periods": []
+            },
+            {
+              "name": "毛里塔尼亚",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "中非",
+          "systems": [
+            {
+              "name": "喀麦隆",
+              "periods": []
+            },
+            {
+              "name": "中非共和国",
+              "periods": []
+            },
+            {
+              "name": "乍得",
+              "periods": []
+            },
+            {
+              "name": "刚果共和国",
+              "periods": []
+            },
+            {
+              "name": "刚果民主共和国",
+              "periods": []
+            },
+            {
+              "name": "加蓬",
+              "periods": []
+            },
+            {
+              "name": "赤道几内亚",
+              "periods": []
+            },
+            {
+              "name": "圣多美和普林西比",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "东非",
           "systems": [
             {
               "name": "埃塞俄比亚",
               "periods": []
             },
             {
-              "name": "南非诸政权",
+              "name": "厄立特里亚",
               "periods": []
             },
             {
-              "name": "西非历史与现代政权",
+              "name": "吉布提",
               "periods": []
             },
             {
-              "name": "中非历史与现代政权",
+              "name": "索马里",
               "periods": []
             },
             {
-              "name": "东非历史与现代政权",
+              "name": "肯尼亚",
+              "periods": []
+            },
+            {
+              "name": "乌干达",
+              "periods": []
+            },
+            {
+              "name": "坦桑尼亚",
+              "periods": []
+            },
+            {
+              "name": "卢旺达",
+              "periods": []
+            },
+            {
+              "name": "布隆迪",
+              "periods": []
+            },
+            {
+              "name": "南苏丹",
+              "periods": []
+            },
+            {
+              "name": "塞舌尔",
+              "periods": []
+            },
+            {
+              "name": "毛里求斯",
+              "periods": []
+            },
+            {
+              "name": "科摩罗",
+              "periods": []
+            },
+            {
+              "name": "马达加斯加",
+              "periods": []
+            }
+          ]
+        },
+        {
+          "name": "南部非洲",
+          "systems": [
+            {
+              "name": "南非",
+              "periods": []
+            },
+            {
+              "name": "纳米比亚",
+              "periods": []
+            },
+            {
+              "name": "博茨瓦纳",
+              "periods": []
+            },
+            {
+              "name": "津巴布韦",
+              "periods": []
+            },
+            {
+              "name": "赞比亚",
+              "periods": []
+            },
+            {
+              "name": "马拉维",
+              "periods": []
+            },
+            {
+              "name": "莫桑比克",
+              "periods": []
+            },
+            {
+              "name": "安哥拉",
+              "periods": []
+            },
+            {
+              "name": "莱索托",
+              "periods": []
+            },
+            {
+              "name": "斯威士兰／埃斯瓦蒂尼",
               "periods": []
             }
           ]
@@ -731,11 +928,59 @@
           "name": "中美洲与加勒比",
           "systems": [
             {
-              "name": "中美洲各国",
+              "name": "危地马拉",
               "periods": []
             },
             {
-              "name": "加勒比历史与现代政权",
+              "name": "伯利兹",
+              "periods": []
+            },
+            {
+              "name": "洪都拉斯",
+              "periods": []
+            },
+            {
+              "name": "萨尔瓦多",
+              "periods": []
+            },
+            {
+              "name": "尼加拉瓜",
+              "periods": []
+            },
+            {
+              "name": "哥斯达黎加",
+              "periods": []
+            },
+            {
+              "name": "巴拿马",
+              "periods": []
+            },
+            {
+              "name": "古巴",
+              "periods": []
+            },
+            {
+              "name": "海地",
+              "periods": []
+            },
+            {
+              "name": "多米尼加共和国",
+              "periods": []
+            },
+            {
+              "name": "牙买加",
+              "periods": []
+            },
+            {
+              "name": "巴哈马",
+              "periods": []
+            },
+            {
+              "name": "巴巴多斯",
+              "periods": []
+            },
+            {
+              "name": "特立尼达和多巴哥",
               "periods": []
             }
           ]
@@ -744,7 +989,7 @@
           "name": "南美",
           "systems": [
             {
-              "name": "巴西帝国与共和国",
+              "name": "巴西",
               "periods": []
             },
             {
@@ -815,36 +1060,7 @@
       ]
     }
   ],
-  "historical_crosslinks": [
-    {
-      "name": "奥斯曼帝国（约1299–1922）",
-      "target": "ottoman"
-    },
-    {
-      "name": "神圣罗马帝国",
-      "target": "queued"
-    },
-    {
-      "name": "奥匈帝国",
-      "target": "queued"
-    },
-    {
-      "name": "俄罗斯帝国",
-      "target": "queued"
-    },
-    {
-      "name": "苏联",
-      "target": "queued"
-    },
-    {
-      "name": "大英帝国",
-      "target": "queued"
-    },
-    {
-      "name": "南斯拉夫",
-      "target": "queued"
-    }
-  ],
+  "historical_crosslinks": [],
   "international": [
     {
       "name": "联合国体系",

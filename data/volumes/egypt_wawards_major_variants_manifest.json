@@ -1,0 +1,707 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-wawards-major-01-01",
+      "record_id": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL",
+      "view_key": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/01-order-of-ismail-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-ismail.html",
+      "image_url": "https://wawards.org/images/egypt/1/3/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74621,
+      "sha256": "14f36df40ba7352b066041ec3971304ae061495105205989c93f9691227f9ba7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-01-02",
+      "record_id": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL",
+      "view_key": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/01-order-of-ismail-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-ismail.html",
+      "image_url": "https://wawards.org/images/egypt/1/3/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60289,
+      "sha256": "3dc2fea9fdf058d336ff7ffc95c2704ce9b660699571e261a88a6e9fae95baf8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-02-01",
+      "record_id": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL",
+      "view_key": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/02-order-of-ismail-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-ismail.html",
+      "image_url": "https://wawards.org/images/egypt/1/3/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59205,
+      "sha256": "d5eabfce5b196bc9c57eaa7e843d5cf066268ccacbdc909dd3ad12e770479a05",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-02-02",
+      "record_id": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL",
+      "view_key": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/02-order-of-ismail-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-ismail.html",
+      "image_url": "https://wawards.org/images/egypt/1/3/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67830,
+      "sha256": "60fc08a37da3408c1ec6e7c5db527ebd4c18ca06f978d826eef7eddaae448e68",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-03-01",
+      "record_id": "EGY-WAWARDS-MAJOR-03-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-03-ORDER-OF-MUHAMMAD-ALI-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/03-order-of-muhammad-ali-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 73854,
+      "sha256": "2cf28f428280a5b7e5bcf1a87b15bbd4a89ec494e685b19ee4c4d88b57e3ba51",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-04-01",
+      "record_id": "EGY-WAWARDS-MAJOR-04-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-04-ORDER-OF-MUHAMMAD-ALI-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/04-order-of-muhammad-ali-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63125,
+      "sha256": "7231929da741fa9b53fd738cc836e22b41661e34fc706e8bf79ee7ae1fdd1112",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-05-01",
+      "record_id": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/05-order-of-muhammad-ali-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45936,
+      "sha256": "3fb129cec9a6fa5122ab1a6b3fbbd105549a8cf9c4f93886d334063cac6a36f0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-05-02",
+      "record_id": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/05-order-of-muhammad-ali-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 27651,
+      "sha256": "64691524de5554b44e44b85e17520923772761fb0fcc0da1cc058aa7abd2f357",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-06-01",
+      "record_id": "EGY-WAWARDS-MAJOR-06-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-06-ORDER-OF-MUHAMMAD-ALI-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/06-order-of-muhammad-ali-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/5.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 97514,
+      "sha256": "8633c2d4bdc80ee41201ef8771a6656cad4777d50d553ebfa237b0df82db5fe0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-07-01",
+      "record_id": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/07-order-of-muhammad-ali-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/6.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50800,
+      "sha256": "9d3f939f3d7465b66f3b964886443aeaea91f2bf827fd4a5e0fd14c7d81a4844",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-07-02",
+      "record_id": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI",
+      "view_key": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/07-order-of-muhammad-ali-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-muhammad-ali.html",
+      "image_url": "https://wawards.org/images/egypt/1/2/7.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39660,
+      "sha256": "5d5e5a922b4bb4a55500a80cfe186bdc8927f2c242864c4cdfe076903d10cc21",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-08-01",
+      "record_id": "EGY-WAWARDS-MAJOR-08-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-08-ORDER-OF-THE-NILE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/08-order-of-the-nile-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/1/4/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57600,
+      "sha256": "c353181097023c8cfea844f5c1509a9087cf18071e485a5a410e69e6c7b90f55",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-09-01",
+      "record_id": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/09-order-of-the-nile-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/1/4/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45340,
+      "sha256": "f6dfc46a9f29946111a07eb65a300d8391d015c9e48e6ae86dcf2df09b1a34c6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-09-02",
+      "record_id": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/09-order-of-the-nile-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/1/4/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59574,
+      "sha256": "2d85b73ca39b31d6314d28668a147d38769922d79770827855a6b2d851d80049",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-10-01",
+      "record_id": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/10-order-of-the-nile-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/1/4/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60763,
+      "sha256": "c4be278f456f2d5e9b9fac7e6300fb2d772bee537cfbdf2f2b67f614820b8ba1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-10-02",
+      "record_id": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/10-order-of-the-nile-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/1/4/5.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45993,
+      "sha256": "444f2bf6cfee1f75a107b1029560a55b5f06ce3d0607296fc40ed8e4ead9c95b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-11-01",
+      "record_id": "EGY-WAWARDS-MAJOR-11-ORDER-OF-THE-VIRTUES",
+      "view_key": "EGY-WAWARDS-MAJOR-11-ORDER-OF-THE-VIRTUES-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/11-order-of-the-virtues-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-virtues.html",
+      "image_url": "https://wawards.org/images/egypt/1/8/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 34701,
+      "sha256": "2f1db1c4e35b8690bd37a119ef193439c4d449dea5eda161a0132a5184fb5937",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-12-01",
+      "record_id": "EGY-WAWARDS-MAJOR-12-ORDER-OF-THE-VIRTUES",
+      "view_key": "EGY-WAWARDS-MAJOR-12-ORDER-OF-THE-VIRTUES-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/12-order-of-the-virtues-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-virtues.html",
+      "image_url": "https://wawards.org/images/egypt/1/8/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53343,
+      "sha256": "2087cca3d0d6bba9223f97d3636da1ca424969c7b1f4e3afcd961ae4588b7d2d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-13-01",
+      "record_id": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE",
+      "view_key": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/13-order-of-independence-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-independence.html",
+      "image_url": "https://wawards.org/images/egypt/3/6/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56709,
+      "sha256": "c776657a300f06623eca534adb680667b4f825400d3f7a0ebab7a4ba7f04a1a6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-13-02",
+      "record_id": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE",
+      "view_key": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/13-order-of-independence-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-independence.html",
+      "image_url": "https://wawards.org/images/egypt/3/6/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56658,
+      "sha256": "4089273ef38b1146b5341a2c986853a64940c92b89ba480341ea7142bf24bd72",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-14-01",
+      "record_id": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE",
+      "view_key": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/14-order-of-independence-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-independence.html",
+      "image_url": "https://wawards.org/images/egypt/3/6/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59028,
+      "sha256": "b1ade6b17f06a3823aa3b2c62964557ca48d78051027044c9e20a678164c7f6e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-14-02",
+      "record_id": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE",
+      "view_key": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/14-order-of-independence-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-independence.html",
+      "image_url": "https://wawards.org/images/egypt/3/6/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44791,
+      "sha256": "20879edf5603743dbd41ba5d887592a790266d8f962a114bee950100dd1bec75",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-15-01",
+      "record_id": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT",
+      "view_key": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/15-order-of-merit-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-merit.html",
+      "image_url": "https://wawards.org/images/egypt/3/11/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43841,
+      "sha256": "c687b509b37e6b857453d3da0e70acd469865380e72e773e576ffb4d68763dfe",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-15-02",
+      "record_id": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT",
+      "view_key": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/15-order-of-merit-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-merit.html",
+      "image_url": "https://wawards.org/images/egypt/3/11/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 32960,
+      "sha256": "dc738cc8888fd1513e22b76ecb83d57805e0b0a785b652700e0252274d8883f1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-16-01",
+      "record_id": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT",
+      "view_key": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/16-order-of-merit-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-merit.html",
+      "image_url": "https://wawards.org/images/egypt/3/11/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 73447,
+      "sha256": "abdf9823234fa45e56ca82508cac3e93e5595e25fda4eb8305d4ed39e12ee17a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-16-02",
+      "record_id": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT",
+      "view_key": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/16-order-of-merit-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-merit.html",
+      "image_url": "https://wawards.org/images/egypt/3/11/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39852,
+      "sha256": "17a691cddb88cef7edff2c592759b0f66fd3852e0c76cad8536fa55aa758550e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-17-01",
+      "record_id": "EGY-WAWARDS-MAJOR-17-ORDER-OF-SCIENCES-AND-ARTS",
+      "view_key": "EGY-WAWARDS-MAJOR-17-ORDER-OF-SCIENCES-AND-ARTS-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/17-order-of-sciences-and-arts-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-sciences-and-arts.html",
+      "image_url": "https://wawards.org/images/egypt/3/7/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 80758,
+      "sha256": "d7701bdaefb62d472e8c499a36ac655156851e68bfafca9caa1bdc2ff7f84c88",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-18-01",
+      "record_id": "EGY-WAWARDS-MAJOR-18-ORDER-OF-SCIENCES-AND-ARTS",
+      "view_key": "EGY-WAWARDS-MAJOR-18-ORDER-OF-SCIENCES-AND-ARTS-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/18-order-of-sciences-and-arts-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-sciences-and-arts.html",
+      "image_url": "https://wawards.org/images/egypt/3/7/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60322,
+      "sha256": "322e4b3f9e26d3ad57d553bca1faa06977b9f1aec45596a99765b538640063d5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-19-01",
+      "record_id": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT",
+      "view_key": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/19-order-of-sport-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-sport.html",
+      "image_url": "https://wawards.org/images/egypt/3/8/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70902,
+      "sha256": "3e088ce2f817bbe15b508349f7a79a4d94395325bbee96abf49d2dfe0dc1267e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-19-02",
+      "record_id": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT",
+      "view_key": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/19-order-of-sport-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-sport.html",
+      "image_url": "https://wawards.org/images/egypt/3/8/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53973,
+      "sha256": "47ddaf88566ac51bddb5a70fe5dca9a3196380cd2c3a36de7f13596d6c90c59e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-20-01",
+      "record_id": "EGY-WAWARDS-MAJOR-20-ORDER-OF-SPORT",
+      "view_key": "EGY-WAWARDS-MAJOR-20-ORDER-OF-SPORT-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/20-order-of-sport-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-sport.html",
+      "image_url": "https://wawards.org/images/egypt/3/8/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62735,
+      "sha256": "cfdd96591d198bcdee89502fcd8a21a8ceb412160e0a07d852749a0756d150a1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-21-01",
+      "record_id": "EGY-WAWARDS-MAJOR-21-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-21-ORDER-OF-THE-NILE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/21-order-of-the-nile-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/3/4/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67928,
+      "sha256": "669bb29cca2d0df0224550b804fc9994c52c14b30cacf7dee8d392574ce14974",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-22-01",
+      "record_id": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/22-order-of-the-nile-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/3/4/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51590,
+      "sha256": "7af9c437521642060550f3c5de3e0421f8e6d4f6d88802ab9c8d2b491e3ce592",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-22-02",
+      "record_id": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE",
+      "view_key": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/22-order-of-the-nile-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-nile.html",
+      "image_url": "https://wawards.org/images/egypt/3/4/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 89703,
+      "sha256": "045ce54c20082580af87e6e602209622909ee8de8530acb9bc9f8f8e11444e25",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-23-01",
+      "record_id": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC",
+      "view_key": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/23-order-of-the-republic-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/egypt/3/5/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56163,
+      "sha256": "b067aff3a954c3e0953595ce19ca4f5a00c9c3ee3b4e71874eaf137a071378e7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-23-02",
+      "record_id": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC",
+      "view_key": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC-V2",
+      "local_path": "assets/images/egypt_wawards_major_variants/23-order-of-the-republic-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/egypt/3/5/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 24883,
+      "sha256": "793996a4170bbbd9e33f4c834fd5d7e9a74089ee8946bfdea8f077df64d9e149",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-24-01",
+      "record_id": "EGY-WAWARDS-MAJOR-24-ORDER-OF-THE-REPUBLIC",
+      "view_key": "EGY-WAWARDS-MAJOR-24-ORDER-OF-THE-REPUBLIC-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/24-order-of-the-republic-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/egypt/3/5/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65138,
+      "sha256": "bc13d27c7e3dc0fb357fed9ca8fd38ced240a47a19cbe7a7e9dea156cc9967c2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-25-01",
+      "record_id": "EGY-WAWARDS-MAJOR-25-ORDER-OF-THE-VIRTUES",
+      "view_key": "EGY-WAWARDS-MAJOR-25-ORDER-OF-THE-VIRTUES-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/25-order-of-the-virtues-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-virtues.html",
+      "image_url": "https://wawards.org/images/egypt/3/9/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72077,
+      "sha256": "21269caddfd4892fd18551a00d74dfbe3a2331e61e1c53f834c60aac5c048c0a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-major-26-01",
+      "record_id": "EGY-WAWARDS-MAJOR-26-ORDER-OF-THE-VIRTUES",
+      "view_key": "EGY-WAWARDS-MAJOR-26-ORDER-OF-THE-VIRTUES-V1",
+      "local_path": "assets/images/egypt_wawards_major_variants/26-order-of-the-virtues-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-virtues.html",
+      "image_url": "https://wawards.org/images/egypt/3/9/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71448,
+      "sha256": "393b63792b8e3f19359767f3e16992c0772bc54ec25ed783d7c3231933cd31ad",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

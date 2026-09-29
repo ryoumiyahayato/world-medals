@@ -1,0 +1,368 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "bht-mb-012-02",
+      "record_id": "BHT-MB-012-V01",
+      "view_key": "BHT-MB-012-VIEW1",
+      "local_path": "assets/images/medalbook_bhutan/012_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-singye-coronation-medal/king-jigme-singye-coronation-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/44ecf2d6a6844a51dfb0547d6d7fcbb47c2170e0/store/fit/1000/750/1c34d93da794a49530052cddb13002d9ef2bdc4a7adb8c60def423bbe8a9/IO4940001.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 90936,
+      "sha256": "ef248b0727f093652859963ad17f798a46089b53d126af39ba8684713edaf18d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bht-mb-012-01",
+      "record_id": "BHT-MB-012-V01",
+      "view_key": "BHT-MB-012-VIEW2",
+      "local_path": "assets/images/medalbook_bhutan/012_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-singye-coronation-medal/king-jigme-singye-coronation-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/38793c9dcef02d846b492338a6b82331e0aa62cb/store/fit/528/348/72f50eb9b7979a2f840b4cb437aa417a65fc6384299e6308ba1b4493ea54/IO4940003.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 45556,
+      "sha256": "7a0126b8ac2d5806e13493ef3b9df0f2e7ddaa9c82af3dc304d39242d5e23082",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bht-mb-035-01",
+      "record_id": "BHT-MB-035-V01",
+      "view_key": "BHT-MB-035-VIEW1",
+      "local_path": "assets/images/medalbook_bhutan/035_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/0808716c202f7c39b6ec45afd0d382ebe795ba59/store/fit/1000/750/e5973136c0cf5c3da6898af0f67c49254098c2c861b85075674e6485e998/Bhutan+Royal+GC.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 113113,
+      "sha256": "67826d4748d962246bf85520c564f0eaf86a3143ffd565198a446a2164d22177",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bht-mb-035-03",
+      "record_id": "BHT-MB-035-V01",
+      "view_key": "BHT-MB-035-VIEW2",
+      "local_path": "assets/images/medalbook_bhutan/035_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/abd297dc1b36971d571f3f1297418851d3c6a437/store/fit/528/348/5dcce8ac81e86f7dc43fe078b7c130624da74551acb9861a7c9f9f28dad5/Bhutan+Royal+GC+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 20422,
+      "sha256": "c6d27fb898eb1607cd28444d8af2d64c36521034d99dc5d5e6c831360083aec6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bht-mb-036-01",
+      "record_id": "BHT-MB-036-V01",
+      "view_key": "BHT-MB-036-VIEW1",
+      "local_path": "assets/images/medalbook_bhutan/036_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-i-class-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/00be65076611d2efa5d8eafc14f052b6aa31dd53/store/fit/1000/750/e46efcb339843791e0bae07aea48e2e8dc235710d6f4157f56b0f1175247/Bhutan+Royal+Star.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 151082,
+      "sha256": "077cb299d51005dc4821ff1bb3eb37c019339ec817937db299beb17b8bba6883",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bht-mb-036-02",
+      "record_id": "BHT-MB-036-V01",
+      "view_key": "BHT-MB-036-VIEW2",
+      "local_path": "assets/images/medalbook_bhutan/036_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-i-class-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/ac72e290ec89b5781fe32f44bf21b26f6a7a5e87/store/fit/528/348/2f8e71c40e4d693a9364ec28b21587fdbdededb4d0724068c566ff878597/Bhutan+Royal+Star+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 29556,
+      "sha256": "c030c6a8a9e1d80cb68234ae310988a0f63ebda637eaf69364c12a4bcf5e5a3f",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-bhutan-7b2a30a139420be2",
+      "name": "Drakpoi Khorlo Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/drakpoi-khorlo-medal/drakpoi-khorlo-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-cb639ebf74253a62",
+      "name": "Drakpoi Thuksey Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/drakpoi-thuksey-medal/drakpoi-thuksey-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-b2eeac94e6313a7f",
+      "name": "Drakpoi Wangyel Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/drakpoi-wangyel-medal/drakpoi-wangyel-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-7a43766e3af4b549",
+      "name": "Druk Thuskey Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/druk-thuskey-medal/druk-thuskey-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-2506f07105ecf0f1",
+      "name": "Druk Wangyel Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/druk-wangyel-medal/druk-wangyel-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-4d8d1d606ef29e47",
+      "name": "Druk Yugyel Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/druk-yugyel-medal/druk-yugyel-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-4ef821b9baddc07a",
+      "name": "Druk Zhung Thuksey Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/druk-zhung-thuksey-medal/druk-zhung-thuksey-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-26dbcc29605c307c",
+      "name": "Geypel Tama Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/geypel-tama-medal/geypel-tama-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-f4b508e2e8e64b7d",
+      "name": "King Jigme Khesar Namgyal Coronation Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-khesar-namgyal-coronation-medal/king-jigme-khesar-namgyal-coronation-medal-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-87361ed69347f231",
+      "name": "King Jigme Khesar Namgyal Coronation Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-khesar-namgyal-coronation-medal/king-jigme-khesar-namgyal-coronation-medal-ii-class-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-014ceb331ed2b5e9",
+      "name": "King Jigme Khesar Namgyal Coronation Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-khesar-namgyal-coronation-medal/king-jigme-khesar-namgyal-coronation-medal-iii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-0df41d9e08441b2c",
+      "name": "King Jigme Singye Coronation Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-singye-coronation-medal/king-jigme-singye-coronation-medal-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-4b7dcc266fed6fb0",
+      "name": "King Jigme Singye Enthronement Jubilee Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-singye-enthronement-jubilee-medal/king-jigme-singye-enthronement-jubilee-medal-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-e71f3e4f7f0428a1",
+      "name": "King Jigme Singye Enthronement Jubilee Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/king-jigme-singye-enthronement-jubilee-medal/king-jigme-singye-enthronement-jubilee-medal-ii-class-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-98e7e9fde4b905e3",
+      "name": "Leytsoen Tama Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/leytsoen-tama-medal/leytsoen-tama-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-5fbc04f22610c11a",
+      "name": "Maharaja Ugyen Wangchuck Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/maharaja-ugyen-wangchuck-medal/maharaja-ugyen-wangchuck-medal-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-8b50d029b87a9b7f",
+      "name": "Maharaja Ugyen Wangchuck Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/maharaja-ugyen-wangchuck-medal/maharaja-ugyen-wangchuck-medal-ii-class-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-f3c2a3d93d463f4f",
+      "name": "Maharaja Ugyen Wangchuck Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/maharaja-ugyen-wangchuck-medal/maharaja-ugyen-wangchuck-medal-iii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-abcf997c8d37d0c1",
+      "name": "Paden Tama Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/paden-tama-medal/paden-tama-medal-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-880e5108de1a9428",
+      "name": "King Jigme Singye Wangchuck Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/the-king-jigme-singye-wangchuck-medal/king-jigme-singye-wangchuck-medal-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-b679efd2e7451563",
+      "name": "King Jigme Singye Wangchuck Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/the-king-jigme-singye-wangchuck-medal/king-jigme-singye-wangchuck-medal-ii-class-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-7aa9fff523c61683",
+      "name": "King Jigme Singye Wangchuck Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/medals-decorations/the-king-jigme-singye-wangchuck-medal/king-jigme-singye-wangchuck-medal-iii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-93e00e04cf95354f",
+      "name": "National Order of Merit, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/national-order-of-merit/national-order-of-merit-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-5fe2328e94c99c34",
+      "name": "National Order of Merit, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/national-order-of-merit/national-order-of-merit-ii-class-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-4bed77cbd200110b",
+      "name": "National Order of Merit, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/national-order-of-merit/national-order-of-merit-iii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-ab028a1b5af17569",
+      "name": "Order of Druk Khorlo",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-druk-khorlo/order-of-druk-khorlo-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-6653645029c5bffd",
+      "name": "Order of Druk Yugyel, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-druk-yugyel/order-of-druk-yugyel-badge-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-b2218177804a8988",
+      "name": "Order of Druk Yugyel, Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-druk-yugyel/order-of-druk-yugyel-breast-star-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-c35ad2bf51698e62",
+      "name": "Order of the Dragon King, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-dragon-king/order-of-the-dragon-king-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-b4319b9acd92f14a",
+      "name": "Order of the Dragon King, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-dragon-king/order-of-the-dragon-king-i-class-breast-star-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-aa608cdd0a78c007",
+      "name": "Order of the Dragon King, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-dragon-king/order-of-the-dragon-king-ii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-3d6a67e704abc524",
+      "name": "Order of the Victorious Thunder Dragon, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-victorious-thunder-dragon/order-of-the-victorious-thunder-dragon-i-class-1",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-5a9795bdc937f3e9",
+      "name": "Order of the Victorious Thunder Dragon, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-victorious-thunder-dragon/order-of-the-victorious-thunder-dragon-i-class-breast-star-2",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-518d1ca4471392ea",
+      "name": "Order of the Victorious Thunder Dragon, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/order-of-the-victorious-thunder-dragon/order-of-the-victorious-thunder-dragon-ii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-3466494422b82320",
+      "name": "Royal Order of Bhutan, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-ii-class-3",
+      "status": "有记载未配完整图"
+    },
+    {
+      "source_id": "medalbook-bhutan-1e81372f8eb25c93",
+      "name": "Royal Order of Bhutan, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/bhutan/orders/royal-order-of-bhutan/royal-order-of-bhutan-iii-class-4",
+      "status": "有记载未配完整图"
+    }
+  ],
+  "excluded_candidates": []
+}

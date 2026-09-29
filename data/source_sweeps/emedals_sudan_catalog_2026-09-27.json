@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "emedals_sudan_catalog",
+  "status": "completed_current_collection_json_sweep",
+  "collections": [
+    "africa",
+    "africa-other",
+    "middle-east-other"
+  ],
+  "terminating_empty_page_by_collection": {
+    "africa": 5,
+    "africa-other": 3,
+    "middle-east-other": 2
+  },
+  "unique_sudan_products": 23,
+  "product_pages_cached": 23,
+  "products_with_images": 23,
+  "raw_candidate_path": "data/raw_candidates/emedals_sudan_catalog.jsonl",
+  "notes": "Each collection JSON endpoint was paged until its first empty page; matching product pages were cached once and deduplicated by Shopify handle."
+}

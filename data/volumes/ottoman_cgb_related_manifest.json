@@ -1,0 +1,9 @@
+{
+  "as_of": "2026-09-27",
+  "source": "CGB current archive query — Ottoman related medals",
+  "images": [
+    {"view_key": "OTT-CGB-FME1138818-RED-CRESCENT-EXHIBITION-V1", "local_path": "assets/images/ottoman_cgb_related/fme_1138818_red_crescent_exhibition_1917.jpg", "source_page": "https://www.cgb.fr/turquie-empire-ottoman-medaille-croissant-rouge-ttb-,fme_1138818,a.html", "source_url": "https://images3.cgb.fr/images/medaille/fme_1138818.jpg", "width": 1200, "height": 730, "sha256": "72c251b89214cc501a91d22e0dea9aa2b76e58252bf41d90d6f0633fc13ec411", "visual_check": "完整正反面及原盒；原水印保留"},
+    {"view_key": "OTT-CGB-FME691382-SUEZ-CONCESSION-V1", "local_path": "assets/images/ottoman_cgb_related/fme_691382_suez_concession_1866.jpg", "source_page": "https://www.cgb.fr/turquie-sultan-abdoul-aziz-medaille-ratification-de-la-concession-du-canal-de-suez-a-napoleon-iii-ttb,fme_691382,a.html", "source_url": "https://images3.cgb.fr/images/medaille/fme_691382.jpg", "width": 1200, "height": 597, "sha256": "64f7b7870bb98cd9a820813435916c0c092b27eb9a43fc484fa7b05be001aecb", "visual_check": "同一件非佩戴式章牌完整正反面；原水印保留"},
+    {"view_key": "OTT-CGB-FME768171-CONSTITUTION-LOOPED-V1", "local_path": "assets/images/ottoman_cgb_related/fme_768171_constitution_looped.jpg", "source_page": "https://www.cgb.fr/turquie-republique-medaille-constitution-de-la-republique-turque-ttb,fme_768171,a.html", "source_url": "https://images3.cgb.fr/images/medaille/fme_768171.jpg", "width": 1200, "height": 658, "sha256": "ffae067897e68b0d6c87906cdc3a430b83d6dcaddba9d29743acddaf07b8f90a", "visual_check": "完整正反面及穿孔悬耳；原水印保留"}
+  ]
+}

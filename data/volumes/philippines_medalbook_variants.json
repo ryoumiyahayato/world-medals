@@ -1,0 +1,494 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "菲律宾诸历史授予主体",
+  "records": [
+    {
+      "id": "PHL-DISTINGUISHED-CONDUCT-STAR-MEDALBOOK-021",
+      "family": "PHL-DISTINGUISHED-CONDUCT-STAR",
+      "country_zh": "菲律宾共和国",
+      "name": "杰出行为星章",
+      "original": "Distinguished Conduct Star",
+      "date": "1939年设立",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-DISTINGUISHED-CONDUCT-STAR-MEDALBOOK-021-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-DISTINGUISHED-CONDUCT-STAR-MEDALBOOK-021-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-8996b9e783f595ca"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-GOLDEN-HEART-MEDALBOOK-027",
+      "family": "PHL-ORDER-GOLDEN-HEART",
+      "country_zh": "菲律宾共和国",
+      "name": "金心勋章",
+      "original": "Golden Heart Presidential Award",
+      "date": "1954年设立；2003年改组为勋章",
+      "variant": "1954年总统奖章型；正背",
+      "views": [
+        {
+          "key": "PHL-ORDER-GOLDEN-HEART-MEDALBOOK-027-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-ORDER-GOLDEN-HEART-MEDALBOOK-027-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-b74a1abad6aa375a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-KOREAN-CAMPAIGN-MEDALBOOK-035",
+      "family": "PHL-KOREAN-CAMPAIGN",
+      "country_zh": "菲律宾共和国",
+      "name": "朝鲜战役奖章",
+      "original": "Korean Campaign Medal",
+      "date": "朝鲜战争时期",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-KOREAN-CAMPAIGN-MEDALBOOK-035-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-KOREAN-CAMPAIGN-MEDALBOOK-035-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-ef1d9dc873a0c5a9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-MILITARY-MERIT-MEDALBOOK-042",
+      "family": "PHL-MILITARY-MERIT",
+      "country_zh": "菲律宾共和国",
+      "name": "军事功绩奖章",
+      "original": "Military Merit Medal",
+      "date": "设立时间待考",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-MILITARY-MERIT-MEDALBOOK-042-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-MILITARY-MERIT-MEDALBOOK-042-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-7a21655f01baa703"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-PNP-MERIT-MEDALBOOK-065",
+      "family": "PHL-PNP-MERIT",
+      "country_zh": "菲律宾共和国",
+      "name": "菲律宾国家警察功绩奖章",
+      "original": "Philippine National Police Medal of Merit",
+      "date": "设立时间待考",
+      "variant": "章饰与略章合图",
+      "views": [
+        {
+          "key": "PHL-PNP-MERIT-MEDALBOOK-065-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-b6d602dd0604c97b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-PNP-SERVICE-MEDALBOOK-069",
+      "family": "PHL-PNP-SERVICE",
+      "country_zh": "菲律宾共和国",
+      "name": "菲律宾国家警察服务奖章",
+      "original": "Philippine National Police Service Medal",
+      "date": "设立时间待考",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-PNP-SERVICE-MEDALBOOK-069-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-PNP-SERVICE-MEDALBOOK-069-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-db8a804745c8bb9d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-PRESIDENTIAL-GOLDEN-PLOW-MEDALBOOK-073",
+      "family": "PHL-PRESIDENTIAL-GOLDEN-PLOW",
+      "country_zh": "菲律宾共和国",
+      "name": "总统土地改革金犁奖章",
+      "original": "Presidential Golden Plow Award for Land Reform",
+      "date": "设立时间待考",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-PRESIDENTIAL-GOLDEN-PLOW-MEDALBOOK-073-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-PRESIDENTIAL-GOLDEN-PLOW-MEDALBOOK-073-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-67760b328facaa1f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-INSULAR-VICTORY-WWI-MEDALBOOK-081",
+      "family": "PHL-INSULAR-VICTORY-WWI",
+      "country_zh": "菲律宾群岛政府（1901–1935）",
+      "name": "第一次世界大战胜利奖章",
+      "original": "Victory Medal",
+      "date": "1917–1918年服役奖",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-INSULAR-VICTORY-WWI-MEDALBOOK-081-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-INSULAR-VICTORY-WWI-MEDALBOOK-081-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-e12e427414655963"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-VIETNAM-SERVICE-MEDALBOOK-082",
+      "family": "PHL-VIETNAM-SERVICE",
+      "country_zh": "菲律宾共和国",
+      "name": "越南服役奖章",
+      "original": "Vietnam Service Medal",
+      "date": "越南战争时期",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-VIETNAM-SERVICE-MEDALBOOK-082-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-VIETNAM-SERVICE-MEDALBOOK-082-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-433be541b8115809"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-WOUNDED-PERSONNEL-MEDALBOOK-086",
+      "family": "PHL-WOUNDED-PERSONNEL",
+      "country_zh": "菲律宾共和国",
+      "name": "负伤人员奖章",
+      "original": "Wounded Personnel Medal",
+      "date": "1986年版",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "PHL-WOUNDED-PERSONNEL-MEDALBOOK-086-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-WOUNDED-PERSONNEL-MEDALBOOK-086-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-eb212e0b192f3086"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-KALANTIAO-MEDALBOOK-093",
+      "family": "PHL-ORDER-KALANTIAO",
+      "country_zh": "菲律宾共和国",
+      "name": "卡兰蒂奥勋章",
+      "original": "Order of Kalantiao (Kalantiaw), Commander",
+      "date": "1971年设立",
+      "variant": "指挥官级；正背",
+      "views": [
+        {
+          "key": "PHL-ORDER-KALANTIAO-MEDALBOOK-093-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-ORDER-KALANTIAO-MEDALBOOK-093-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-ee02d227c0062131"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-KALANTIAO-MEDALBOOK-095",
+      "family": "PHL-ORDER-KALANTIAO",
+      "country_zh": "菲律宾共和国",
+      "name": "卡兰蒂奥勋章",
+      "original": "Order of Kalantiao (Kalantiaw), Grand Cross Breast Star",
+      "date": "1971年设立",
+      "variant": "大十字级星章；正背",
+      "views": [
+        {
+          "key": "PHL-ORDER-KALANTIAO-MEDALBOOK-095-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-ORDER-KALANTIAO-MEDALBOOK-095-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-5ec7bfb7f865f7fa"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-SIKATUNA-MEDALBOOK-109",
+      "family": "PHL-ORDER-SIKATUNA",
+      "country_zh": "菲律宾共和国",
+      "name": "锡卡图纳勋章",
+      "original": "Order of Sikatuna, Grand Collar",
+      "date": "1953年设立",
+      "variant": "大项链级项链章",
+      "views": [
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-109-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-517f33ffb3fbbdfb"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-SIKATUNA-MEDALBOOK-110",
+      "family": "PHL-ORDER-SIKATUNA",
+      "country_zh": "菲律宾共和国",
+      "name": "锡卡图纳勋章",
+      "original": "Order of Sikatuna, Grand Cross",
+      "date": "1953年设立",
+      "variant": "大十字级挂章",
+      "views": [
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-110-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-efbb17f3e554ca59"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-SIKATUNA-MEDALBOOK-111",
+      "family": "PHL-ORDER-SIKATUNA",
+      "country_zh": "菲律宾共和国",
+      "name": "锡卡图纳勋章",
+      "original": "Order of Sikatuna, Grand Cross Breast Star",
+      "date": "1953年设立",
+      "variant": "大十字级星章；正背",
+      "views": [
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-111-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-111-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-83d48860ecab3fb0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-SIKATUNA-MEDALBOOK-114",
+      "family": "PHL-ORDER-SIKATUNA",
+      "country_zh": "菲律宾共和国",
+      "name": "锡卡图纳勋章",
+      "original": "Order of Sikatuna, Member",
+      "date": "1953年设立",
+      "variant": "成员级；正背",
+      "views": [
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-114-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-ORDER-SIKATUNA-MEDALBOOK-114-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-5804010489c6f8b0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-ORDER-GOLDEN-HEART-MEDALBOOK-117",
+      "family": "PHL-ORDER-GOLDEN-HEART",
+      "country_zh": "菲律宾共和国",
+      "name": "金心勋章",
+      "original": "Order of the Golden Heart, Grand Collar",
+      "date": "1954年设立；2003年改组",
+      "variant": "大项链级项链章",
+      "views": [
+        {
+          "key": "PHL-ORDER-GOLDEN-HEART-MEDALBOOK-117-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-cea1ed50cc8f8d97"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-KNIGHTS-RIZAL-MEDALBOOK-125",
+      "family": "PHL-KNIGHTS-RIZAL",
+      "country_zh": "菲律宾共和国",
+      "name": "黎刹骑士勋章",
+      "original": "Order of the Knights of Rizal, Commander",
+      "date": "1911年创立；1951年依法确认",
+      "variant": "指挥官级；正背",
+      "views": [
+        {
+          "key": "PHL-KNIGHTS-RIZAL-MEDALBOOK-125-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-KNIGHTS-RIZAL-MEDALBOOK-125-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-b1036e9ec1b0b537"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-LEGION-HONOUR-MEDALBOOK-127",
+      "family": "PHL-LEGION-HONOUR",
+      "country_zh": "菲律宾共和国",
+      "name": "菲律宾荣誉军团勋章",
+      "original": "Philippine Legion of Honour, Commander",
+      "date": "1947年设立",
+      "variant": "指挥官级；正背",
+      "views": [
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-127-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-127-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-cbb8a3d1775acdd1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-LEGION-HONOUR-MEDALBOOK-132",
+      "family": "PHL-LEGION-HONOUR",
+      "country_zh": "菲律宾共和国",
+      "name": "菲律宾荣誉军团勋章",
+      "original": "Philippine Legion of Honour, Legionnaire",
+      "date": "1947年设立",
+      "variant": "军团成员级；正背",
+      "views": [
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-132-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-132-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-18c4aff4490ed1fb"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PHL-LEGION-HONOUR-MEDALBOOK-133",
+      "family": "PHL-LEGION-HONOUR",
+      "country_zh": "菲律宾共和国",
+      "name": "菲律宾荣誉军团勋章",
+      "original": "Philippine Legion of Honour, Officer",
+      "date": "1947年设立",
+      "variant": "军官级；正背",
+      "views": [
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-133-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PHL-LEGION-HONOUR-MEDALBOOK-133-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-philippines-9dbc2f3e3fa663c1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

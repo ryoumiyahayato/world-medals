@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "缅甸诸历史授予主体",
+  "records": [
+    {
+      "id": "MMR-STAR-REVOLUTION-MEDALBOOK-154",
+      "family": "MMR-STAR-REVOLUTION",
+      "country_zh": "缅甸联邦与社会主义共和国（1948–1988）",
+      "name": "革命之星勋章",
+      "original": "Order of the Star of the Revolution, III Class",
+      "date": "1953年设立；至1986年仍有授予",
+      "variant": "三级星章；正背",
+      "views": [
+        {
+          "key": "MMR-STAR-REVOLUTION-MEDALBOOK-154-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MMR-STAR-REVOLUTION-MEDALBOOK-154-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-myanmar-baabd979270f53de"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155",
+      "family": "BUR-KONBAUNG-TSALWE",
+      "country_zh": "贡榜王朝（1752–1885）",
+      "name": "萨尔维勋饰",
+      "original": "Order of the Tsalwé",
+      "date": "1784年已有授予规章",
+      "variant": "肩带式金质勋饰；正背",
+      "views": [
+        {
+          "key": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-myanmar-21f3180f5632fb30"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

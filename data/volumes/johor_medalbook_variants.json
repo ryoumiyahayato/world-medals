@@ -1,0 +1,138 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "柔佛苏丹国",
+  "records": [
+    {
+      "id": "MYS-JOHOR-ABU-BAKAR-MEDAL-MEDALBOOK-189",
+      "family": "MYS-JOHOR-ABU-BAKAR-MEDAL",
+      "country_zh": "柔佛苏丹国",
+      "name": "苏丹阿布·巴卡尔奖章",
+      "original": "Sultan Abu Bakar Medal",
+      "date": "1886年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "MYS-JOHOR-ABU-BAKAR-MEDAL-MEDALBOOK-189-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-56e9da004f70f3b3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-JOHOR-LOYALTY-SULTAN-ISMAIL-MEDALBOOK-202",
+      "family": "MYS-JOHOR-LOYALTY-SULTAN-ISMAIL",
+      "country_zh": "柔佛苏丹国",
+      "name": "苏丹伊斯迈效忠至高勋章",
+      "original": "Most Honourable Order of the Loyalty of Sultan Ismail, Companion",
+      "date": "1974年设立",
+      "variant": "伙伴级；正背",
+      "views": [
+        {
+          "key": "MYS-JOHOR-LOYALTY-SULTAN-ISMAIL-MEDALBOOK-202-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-JOHOR-LOYALTY-SULTAN-ISMAIL-MEDALBOOK-202-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-5ba959cf6816a1ca"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-JOHOR-CROWN-MEDALBOOK-209",
+      "family": "MYS-JOHOR-CROWN",
+      "country_zh": "柔佛苏丹国",
+      "name": "柔佛王冠勋章",
+      "original": "Order of the Crown of Johor, Knight Commander Badge",
+      "date": "1886年设立",
+      "variant": "骑士指挥官级挂章；正背",
+      "views": [
+        {
+          "key": "MYS-JOHOR-CROWN-MEDALBOOK-209-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-JOHOR-CROWN-MEDALBOOK-209-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-b99aef20068fcecf"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-JOHOR-CROWN-MEDALBOOK-212",
+      "family": "MYS-JOHOR-CROWN",
+      "country_zh": "柔佛苏丹国",
+      "name": "柔佛王冠勋章",
+      "original": "Order of the Crown of Johor, Knight Grand Commander Breast Star",
+      "date": "1886年设立",
+      "variant": "骑士大指挥官级星章；正背",
+      "views": [
+        {
+          "key": "MYS-JOHOR-CROWN-MEDALBOOK-212-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-JOHOR-CROWN-MEDALBOOK-212-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-599ef6714ac71ba9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-JOHOR-ROYAL-FAMILY-MEDALBOOK-217",
+      "family": "MYS-JOHOR-ROYAL-FAMILY",
+      "country_zh": "柔佛苏丹国",
+      "name": "柔佛王家家族勋章",
+      "original": "Royal Family Order of Johor, Grand Commander Badge",
+      "date": "1886年设立",
+      "variant": "大指挥官级挂章与星章合图",
+      "views": [
+        {
+          "key": "MYS-JOHOR-ROYAL-FAMILY-MEDALBOOK-217-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-fb967041041ac49e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-JOHOR-ROYAL-FAMILY-MEDALBOOK-219",
+      "family": "MYS-JOHOR-ROYAL-FAMILY",
+      "country_zh": "柔佛苏丹国",
+      "name": "柔佛王家家族勋章",
+      "original": "Royal Family Order of Johor, Grand Commander Collar",
+      "date": "1886年设立",
+      "variant": "大指挥官级项链章",
+      "views": [
+        {
+          "key": "MYS-JOHOR-ROYAL-FAMILY-MEDALBOOK-219-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-1216eb28f378ecba"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

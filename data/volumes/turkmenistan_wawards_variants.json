@@ -1,0 +1,826 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "土库曼斯坦 · World Awards 2025",
+  "records": [
+    {
+      "id": "TKM-AWARD-ORDER-OF-THE-FATHERLAND-CHAIN",
+      "family": "TKM-AWARD-ORDER-OF-THE-FATHERLAND",
+      "country_zh": "土库曼斯坦",
+      "name": "祖国勋章",
+      "original": "Watan",
+      "date": "2007年6月28日设立",
+      "variant": "项链章",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-THE-FATHERLAND-CHAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM001"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-PRESIDENT-S-STAR-ORDER-EARLY",
+      "family": "TKM-AWARD-PRESIDENT-S-STAR-ORDER",
+      "country_zh": "土库曼斯坦",
+      "name": "总统之星勋章",
+      "original": "President's Star Order",
+      "date": "1992年9月30日设立",
+      "variant": "早期实物版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-PRESIDENT-S-STAR-ORDER-EARLY-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM003"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-PRESIDENT-S-STAR-ORDER-LATER",
+      "family": "TKM-AWARD-PRESIDENT-S-STAR-ORDER",
+      "country_zh": "土库曼斯坦",
+      "name": "总统之星勋章",
+      "original": "President's Star Order",
+      "date": "1992年9月30日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-PRESIDENT-S-STAR-ORDER-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM003"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-OGHUZ-KHAGAN-STAR-MAIN",
+      "family": "TKM-AWARD-ORDER-OF-OGHUZ-KHAGAN-STAR",
+      "country_zh": "土库曼斯坦",
+      "name": "乌古斯可汗之星勋章",
+      "original": "Oguzhanyň Ýyldyzy",
+      "date": "2014年2月8日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-OGHUZ-KHAGAN-STAR-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM004"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT-CHAIN-A",
+      "family": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT",
+      "country_zh": "土库曼斯坦",
+      "name": "伟大萨帕尔穆拉特·土库曼巴希勋章",
+      "original": "Türkmenistanyň ilkinji Prezidenti Beýik Saparmyrat Türkmenbaşy",
+      "date": "2007年11月29日设立",
+      "variant": "项链章版型A",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT-CHAIN-A-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM002"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT-CHAIN-B",
+      "family": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT",
+      "country_zh": "土库曼斯坦",
+      "name": "伟大萨帕尔穆拉特·土库曼巴希勋章",
+      "original": "Türkmenistanyň ilkinji Prezidenti Beýik Saparmyrat Türkmenbaşy",
+      "date": "2007年11月29日设立",
+      "variant": "项链章版型B",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-SAPARMURAT-TUERKMENBASY-THE-GREAT-CHAIN-B-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM002"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-TURKMENBASHI-MAIN",
+      "family": "TKM-AWARD-ORDER-OF-TURKMENBASHI",
+      "country_zh": "土库曼斯坦",
+      "name": "土库曼巴希勋章",
+      "original": "Türkmenbaşy",
+      "date": "设立时间待考",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-TURKMENBASHI-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM005"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-GOLDEN-AGE-EARLY",
+      "family": "TKM-AWARD-ORDER-GOLDEN-AGE",
+      "country_zh": "土库曼斯坦",
+      "name": "黄金时代勋章",
+      "original": "Altyn asyr",
+      "date": "2001年2月18日设立",
+      "variant": "早期章饰版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-GOLDEN-AGE-EARLY-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM006"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-GOLDEN-AGE-LATER",
+      "family": "TKM-AWARD-ORDER-GOLDEN-AGE",
+      "country_zh": "土库曼斯坦",
+      "name": "黄金时代勋章",
+      "original": "Altyn asyr",
+      "date": "2001年2月18日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-GOLDEN-AGE-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM006"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-INDEPENDENCE-EARLY",
+      "family": "TKM-AWARD-ORDER-OF-INDEPENDENCE",
+      "country_zh": "土库曼斯坦",
+      "name": "独立勋章",
+      "original": "Garaşsyzlyk",
+      "date": "2001年6月18日设立",
+      "variant": "早期项链章版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-INDEPENDENCE-EARLY-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM007"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-INDEPENDENCE-LATER",
+      "family": "TKM-AWARD-ORDER-OF-INDEPENDENCE",
+      "country_zh": "土库曼斯坦",
+      "name": "独立勋章",
+      "original": "Garaşsyzlyk",
+      "date": "2001年6月18日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-INDEPENDENCE-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM007"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-NEUTRALITY-EARLY",
+      "family": "TKM-AWARD-ORDER-OF-NEUTRALITY",
+      "country_zh": "土库曼斯坦",
+      "name": "中立勋章",
+      "original": "Bitaraplyk",
+      "date": "1998年12月17日设立",
+      "variant": "早期项链章版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-NEUTRALITY-EARLY-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-ORDER-OF-NEUTRALITY-EARLY-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM008"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-NEUTRALITY-LATER",
+      "family": "TKM-AWARD-ORDER-OF-NEUTRALITY",
+      "country_zh": "土库曼斯坦",
+      "name": "中立勋章",
+      "original": "Bitaraplyk",
+      "date": "1998年12月17日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-NEUTRALITY-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM008"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-FOR-CONTRIBUTION-TO-THE-DEVELOPMENT-OF-COOPERATION-MAIN",
+      "family": "TKM-AWARD-ORDER-FOR-CONTRIBUTION-TO-THE-DEVELOPMENT-OF-COOPERATION",
+      "country_zh": "土库曼斯坦",
+      "name": "发展合作贡献勋章",
+      "original": "Hyzmatdaşlygy ösdürmäge goşandy üçin",
+      "date": "2017年9月30日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-FOR-CONTRIBUTION-TO-THE-DEVELOPMENT-OF-COOPERATION-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM009"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN-EARLY",
+      "family": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "热爱独立土库曼斯坦勋章",
+      "original": "Order For the great love to the independent Turkmenistan",
+      "date": "1999年3月1日设立",
+      "variant": "早期实物版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN-EARLY-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN-EARLY-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM010"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN-LATER",
+      "family": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "热爱独立土库曼斯坦勋章",
+      "original": "Order For the great love to the independent Turkmenistan",
+      "date": "1999年3月1日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-FOR-THE-GREAT-LOVE-TO-THE-INDEPENDENT-TURKMENISTAN-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM010"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-WOMEN-S-SOUL-MAIN",
+      "family": "TKM-AWARD-ORDER-OF-WOMEN-S-SOUL",
+      "country_zh": "土库曼斯坦",
+      "name": "女性之心勋章",
+      "original": "Zenan kalby",
+      "date": "2014年2月8日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-WOMEN-S-SOUL-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM013"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE-EARLY",
+      "family": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE",
+      "country_zh": "土库曼斯坦",
+      "name": "古尔班索尔坦·埃杰勋章",
+      "original": "Gurbansoltan eje",
+      "date": "1996年6月18日设立",
+      "variant": "早期实物版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE-EARLY-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE-EARLY-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM014"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE-LATER",
+      "family": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE",
+      "country_zh": "土库曼斯坦",
+      "name": "古尔班索尔坦·埃杰勋章",
+      "original": "Gurbansoltan eje",
+      "date": "1996年6月18日设立",
+      "variant": "后期挂章版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-GURBANSOLTAN-EJE-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM014"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL-PORTRAIT",
+      "family": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL",
+      "country_zh": "土库曼斯坦",
+      "name": "土库曼斯坦英雄（金新月奖章）",
+      "original": "Altyn Aý Medaly",
+      "date": "1992年9月30日设立",
+      "variant": "肖像挂章版",
+      "views": [
+        {
+          "key": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL-PORTRAIT-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM015"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL-STAR",
+      "family": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL",
+      "country_zh": "土库曼斯坦",
+      "name": "土库曼斯坦英雄（金新月奖章）",
+      "original": "Altyn Aý Medaly",
+      "date": "1992年9月30日设立",
+      "variant": "星芒挂章版",
+      "views": [
+        {
+          "key": "TKM-AWARD-GOLDEN-CRESCENT-MEDAL-STAR-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM015"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND-EARLY",
+      "family": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND",
+      "country_zh": "土库曼斯坦",
+      "name": "热爱祖国奖章",
+      "original": "Watana bolan soygusi ucin",
+      "date": "1996年6月18日设立",
+      "variant": "1996年实物版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND-EARLY-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND-EARLY-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM016"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND-LATER",
+      "family": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND",
+      "country_zh": "土库曼斯坦",
+      "name": "热爱祖国奖章",
+      "original": "Watana bolan soygusi ucin",
+      "date": "1996年6月18日设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-FOR-LOVE-TO-THE-FATHERLAND-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM016"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-OF-BRAVERY-MAIN",
+      "family": "TKM-AWARD-MEDAL-OF-BRAVERY",
+      "country_zh": "土库曼斯坦",
+      "name": "勇敢奖章",
+      "original": "Edermenlik",
+      "date": "1992年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-OF-BRAVERY-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-OF-BRAVERY-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM022"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE-EARLY",
+      "family": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE",
+      "country_zh": "土库曼斯坦",
+      "name": "复兴勋章",
+      "original": "Galkynyş",
+      "date": "1992年设立",
+      "variant": "早期实物版型",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE-EARLY-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM023"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE-LATER",
+      "family": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE",
+      "country_zh": "土库曼斯坦",
+      "name": "复兴勋章",
+      "original": "Galkynyş",
+      "date": "1992年设立",
+      "variant": "后期图录版型；图录插图 · 2025",
+      "views": [
+        {
+          "key": "TKM-AWARD-ORDER-OF-THE-RENAISSANCE-LATER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM023"
+      ],
+      "image_kind": "catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-MAGTYMGULY-PYRAGY-MAIN",
+      "family": "TKM-AWARD-MEDAL-MAGTYMGULY-PYRAGY",
+      "country_zh": "土库曼斯坦",
+      "name": "马赫图姆库里·弗拉吉奖章",
+      "original": "Magtymguly Pyragynyň medalynyň",
+      "date": "2014年3月1日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-MAGTYMGULY-PYRAGY-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-MAGTYMGULY-PYRAGY-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM025"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-OF-ZEAL-MAIN",
+      "family": "TKM-AWARD-MEDAL-OF-ZEAL",
+      "country_zh": "土库曼斯坦",
+      "name": "勤勉奖章",
+      "original": "Gaýrat",
+      "date": "1992年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-OF-ZEAL-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-OF-ZEAL-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM021"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-FOR-IMPECCABLE-SERVICE-TO-THE-FATHERLAND-MEDAL-MAIN",
+      "family": "TKM-AWARD-FOR-IMPECCABLE-SERVICE-TO-THE-FATHERLAND-MEDAL",
+      "country_zh": "土库曼斯坦",
+      "name": "为祖国无瑕服务奖章",
+      "original": "Watan öňündäki birkemsiz harby gullugy üçin",
+      "date": "2008年10月20日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-FOR-IMPECCABLE-SERVICE-TO-THE-FATHERLAND-MEDAL-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM026"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-MOTHER-S-LOVE-MAIN",
+      "family": "TKM-AWARD-MEDAL-MOTHER-S-LOVE",
+      "country_zh": "土库曼斯坦",
+      "name": "母爱奖章",
+      "original": "Ene mähri",
+      "date": "2008年3月3日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-MOTHER-S-LOVE-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-MOTHER-S-LOVE-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM017"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-BRAVERY-TURKMEN-MEDAL-MAIN",
+      "family": "TKM-AWARD-BRAVERY-TURKMEN-MEDAL",
+      "country_zh": "土库曼斯坦",
+      "name": "土库曼勇士奖章",
+      "original": "Turkmen Edermen medaly",
+      "date": "2019年12月13日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-BRAVERY-TURKMEN-MEDAL-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-BRAVERY-TURKMEN-MEDAL-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM028"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-ARKADAG-MAIN",
+      "family": "TKM-AWARD-MEDAL-ARKADAG",
+      "country_zh": "土库曼斯坦",
+      "name": "阿尔卡达格奖章",
+      "original": "Arkadag medaly",
+      "date": "2023年9月30日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-ARKADAG-MAIN-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "TKM-AWARD-MEDAL-ARKADAG-MAIN-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM027"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-JUBILEE-MEDAL-20-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN-MAIN",
+      "family": "TKM-AWARD-JUBILEE-MEDAL-20-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "独立20周年纪念章",
+      "original": "Türkmenistanyň Garaşsyzlygynyň 20 ýyllygyna ýubileý medaly",
+      "date": "2011年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-JUBILEE-MEDAL-20-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM018"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-JUBILEE-MEDAL-30-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN-MAIN",
+      "family": "TKM-AWARD-JUBILEE-MEDAL-30-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "独立30周年纪念章",
+      "original": "Türkmenistanyň Garaşsyzlygynyň 30 ýyllygyna ýubileý medaly",
+      "date": "2021年6月7日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-JUBILEE-MEDAL-30-YEARS-OF-INDEPENDENCE-OF-TURKMENISTAN-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM028"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-JUBILEE-MEDAL-DEFENDER-OF-THE-MOTHERLAND-OF-INDEPENDENT-TURKMENISTAN-MAIN",
+      "family": "TKM-AWARD-JUBILEE-MEDAL-DEFENDER-OF-THE-MOTHERLAND-OF-INDEPENDENT-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "独立土库曼斯坦祖国保卫者纪念章",
+      "original": "Garaşsyz Türkmenistanyň Watan goragçysy ýubileý medaly",
+      "date": "2021年6月7日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-JUBILEE-MEDAL-DEFENDER-OF-THE-MOTHERLAND-OF-INDEPENDENT-TURKMENISTAN-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM029"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-MEDAL-25TH-ANNIVERSARY-OF-TURKMENISTAN-S-NEUTRALITY-MAIN",
+      "family": "TKM-AWARD-MEDAL-25TH-ANNIVERSARY-OF-TURKMENISTAN-S-NEUTRALITY",
+      "country_zh": "土库曼斯坦",
+      "name": "中立25周年纪念章",
+      "original": "Türkmenistanyň Bitaraplygynyň 25 ýyllygyna atly Türkmenistanyň ýubileý medaly",
+      "date": "2020年3月14日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-MEDAL-25TH-ANNIVERSARY-OF-TURKMENISTAN-S-NEUTRALITY-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM019"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-JUBILEE-MEDAL-30TH-ANNIVERSARY-OF-NEUTRALITY-OF-TURKMENISTAN-MAIN",
+      "family": "TKM-AWARD-JUBILEE-MEDAL-30TH-ANNIVERSARY-OF-NEUTRALITY-OF-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "中立30周年纪念章",
+      "original": "Türkmenistanyň Bitaraplygynyň 30 ýyllygyna ýubileý medaly",
+      "date": "2025年7月11日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-JUBILEE-MEDAL-30TH-ANNIVERSARY-OF-NEUTRALITY-OF-TURKMENISTAN-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM030"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-JUBILEE-MEDAL-300TH-ANNIVERSARY-OF-MAGTYMGULY-PYRAGY-MAIN",
+      "family": "TKM-AWARD-JUBILEE-MEDAL-300TH-ANNIVERSARY-OF-MAGTYMGULY-PYRAGY",
+      "country_zh": "土库曼斯坦",
+      "name": "马赫图姆库里·弗拉吉诞辰300周年纪念章",
+      "original": "«Magtymguly Pyragynyň 300 ýyllygyna» ýubileý medalynyň",
+      "date": "2024年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "TKM-AWARD-JUBILEE-MEDAL-300TH-ANNIVERSARY-OF-MAGTYMGULY-PYRAGY-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM024"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "TKM-AWARD-HONORARY-ELDER-OF-THE-PEOPLE-OF-TURKMENISTAN-MAIN",
+      "family": "TKM-AWARD-HONORARY-ELDER-OF-THE-PEOPLE-OF-TURKMENISTAN",
+      "country_zh": "土库曼斯坦",
+      "name": "土库曼斯坦人民荣誉长老徽章",
+      "original": "Türkmenistanyň Hormatly il ýaşulusy",
+      "date": "设立时间待考",
+      "variant": "荣誉称号徽章",
+      "views": [
+        {
+          "key": "TKM-AWARD-HONORARY-ELDER-OF-THE-PEOPLE-OF-TURKMENISTAN-MAIN-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-turkmenistan-TKM020"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "prk-mb-000-02",
+      "record_id": "PRK-MB-000-V01",
+      "view_key": "PRK-MB-000-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/000_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/agricultural-meritorious-service-medal/agricultural-meritorious-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/3d8b5cc98d7568da61df59562996f5d55418452d/store/fit/1000/750/e2a36bc0e3bfeba950df61219d81d9c09d1812ae419531916ad344e61766/A_North_Korean_A_541068bf907af.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 462515,
+      "sha256": "d5917587750a490fe64a10b522135fba7eb7516884afe0c97b986be67d15ea76",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-000-01",
+      "record_id": "PRK-MB-000-V01",
+      "view_key": "PRK-MB-000-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/000_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/agricultural-meritorious-service-medal/agricultural-meritorious-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/347a66c0b158a4d1e17a989012984daf0ae5ef2c/store/fit/528/348/38b41420fbc41e045eb2567e1dffa07459c152253dd261e596593b5659dd/IMG_02.jpg541068de78857.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 111836,
+      "sha256": "bc926b9970df04b7f23fd390789f74f1a4e4c78a16d07803c6afd593cebf6435",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-001-01",
+      "record_id": "PRK-MB-001-V01",
+      "view_key": "PRK-MB-001-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/001_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-korean-liberation-medal/commemorative-korean-liberation-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/26b4e56ae6f3937cead5801cfb31ab1e9ed98651/store/fit/1000/750/b8dd250a9fc97f5df448c25504f7d91cf68af2f886220407bab2f0f30be9/Commemorative+Korean+Liberation+Medal+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 135209,
+      "sha256": "a78527ecc925a90798cd91c772a10fccf31cd6952b68eda58b04709dc616217c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-001-03",
+      "record_id": "PRK-MB-001-V01",
+      "view_key": "PRK-MB-001-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/001_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-korean-liberation-medal/commemorative-korean-liberation-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/37d7fad7659e50481e79f9bc757d9dcb20d42443/store/fit/528/348/d02e7b4510dd1946e5c90385d7edf4dcdc43a11fbe93cbb40b3fdeeedb67/Commemorative+Korean+Liberation+Medal+4.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 33485,
+      "sha256": "5fafe4bb816964588a5e140f2936bee45b56e87526659630ffdfa4690b3bfe02",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-002-01",
+      "record_id": "PRK-MB-002-V01",
+      "view_key": "PRK-MB-002-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/002_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-20th-anniversary-of-chongryon/commemorative-medal-20th-anniversary-of-the-chongryon-foundation-1",
+      "image_url": "https://www.medalbook.com/attachments/17850d6fd1e4bafb1b3d7a3f53c30b398d989ca9/store/fit/528/348/806238162cd0af7992f721d76336ff37c6210a201b3450eb9a2177a7838d/North+Korea+Com+Medal+20th+Anni+Chongryon+ME81.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        244,
+        348
+      ],
+      "bytes": 24580,
+      "sha256": "0731c729d37cbc3ad7e23e93d40d6ef1f70ac1d520946f92ef5ef1481f2c07a0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-006-01",
+      "record_id": "PRK-MB-006-V01",
+      "view_key": "PRK-MB-006-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/006_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-great-fatherland-liberation-war-19501953/commemorative-medal-%22great-fatherland-liberation-war-1950%E2%80%931953%22-1",
+      "image_url": "https://www.medalbook.com/attachments/167b26d2301350265c4710210e1eaf5ee989224a/store/fit/528/348/035c5660acf239d1b052bd8ae7751763c57d805bd2471bef81b1b3bcdb1d/A_1950_1953_Nort_541067cf6cacd1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 119376,
+      "sha256": "0e603d7eaddc63f3b3b6eeb992637e70d036d9d07602d6165d80cefc2e2ed675",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-006-03",
+      "record_id": "PRK-MB-006-V01",
+      "view_key": "PRK-MB-006-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/006_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-great-fatherland-liberation-war-19501953/commemorative-medal-%22great-fatherland-liberation-war-1950%E2%80%931953%22-1",
+      "image_url": "https://www.medalbook.com/attachments/7f0befc9f8910ee3062a79cf090e6b8292664bf8/store/fit/528/348/4b420f91d15938fe7ab03efb28fffc5318644483c580ef3b4fa03f7f75c5/IMG_02.jpg54106802a0ebd.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 111722,
+      "sha256": "e7ff8528a0ff92a27318dc29023b3d4e243892d9495dcc0c6f41658f2d394ffc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-014-02",
+      "record_id": "PRK-MB-014-V01",
+      "view_key": "PRK-MB-014-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/014_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-for-military-merit/type-i/medal-for-military-merit-type-i-1",
+      "image_url": "https://www.medalbook.com/attachments/a9a7c7d29dc52f3a8a6868467a9514ee5f2058c0/store/fit/528/348/bf2f1bc1aa7c8069de70d3b4a058c30397629143c20d5061356601aeebf6/Medal+for+Military+Merit%2C+Type+I+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25375,
+      "sha256": "26f1569b08ee64d1c24e5bb1017d7917549a9c989ffe836acb846c8e5d9b8485",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-014-04",
+      "record_id": "PRK-MB-014-V01",
+      "view_key": "PRK-MB-014-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/014_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-for-military-merit/type-i/medal-for-military-merit-type-i-1",
+      "image_url": "https://www.medalbook.com/attachments/c307ee4c166e0748daae78d715eeb5fb4604fe30/store/fit/528/348/8459847f91d28005f0a1316f69d3af00205da432ecd537c655d9b0096691/Medal+for+Military+Merit%2C+Type+I+3.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25908,
+      "sha256": "98762deda63a73acef51c13c27341b2f9882c68c221ee5b7f1df92063a23c276",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-016-01",
+      "record_id": "PRK-MB-016-V01",
+      "view_key": "PRK-MB-016-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/016_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-of-military-service-honour/medal-of-military-service-honour-1",
+      "image_url": "https://www.medalbook.com/attachments/172c82789650b1d5f355a84507ff4e929ad18608/store/fit/528/348/c27ed3524d948f49a2fca083160c9bdb425b9703b3f4af59698623856090/A_North_Korean_M_5410684aeb02d1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 130391,
+      "sha256": "57cf4ce9de8f032d5deaefdd83ab951dabc1fba4552d6399e24564444663caa7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-016-03",
+      "record_id": "PRK-MB-016-V01",
+      "view_key": "PRK-MB-016-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/016_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-of-military-service-honour/medal-of-military-service-honour-1",
+      "image_url": "https://www.medalbook.com/attachments/ddd8dda76fab69c322b3a6b2b0bfefe1913ef5c8/store/fit/528/348/ab0e866050d251a7079c28ca34d4393d9924a1b6858fceaebd1c8a210406/IMG_02.jpg541068685df59.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 118596,
+      "sha256": "8b02b8bd8a0a4acd660e79699d90c4e89315412fc8d962a9ada709c086aff5f2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-017-01",
+      "record_id": "PRK-MB-017-V01",
+      "view_key": "PRK-MB-017-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/017_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/meritorious-labour-service-medal/meritorious-labour-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/30e9ca69ba7555f81f9d3bca9cad628c7ce5275b/store/fit/1000/750/a0f2d9d5853d86ef61f65c049c774a148353fceedfa8a43d1eed868adae4/A_North_Korean_M_5410692b49d97.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 475918,
+      "sha256": "5761bb3870a642772815e1542c93afeec0c708f8bc14a6860a15bb4b289441f2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-017-02",
+      "record_id": "PRK-MB-017-V01",
+      "view_key": "PRK-MB-017-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/017_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/meritorious-labour-service-medal/meritorious-labour-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/46a7a2fdfe0412bc5984791af5094cef4309450b/store/fit/528/348/aef4d7605130a68b703796e427e1705a1f716eefbbc7469b9880201b7366/IMG_02.jpg541069491c09a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 116000,
+      "sha256": "3a29d5e7147516f53442d9522895646e25ffb658ed6c095718beda7fdd881c64",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-022-01",
+      "record_id": "PRK-MB-022-V01",
+      "view_key": "PRK-MB-022-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/022_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-40th-anniversary-of-fatherland-liberation-war-victory/commemorative-order-%2240th-anniversary-of-fatherland-liberation-war-victory%22-1",
+      "image_url": "https://www.medalbook.com/attachments/0eb4221607921ffb9b2a6a61e986b18603e9cc95/store/fit/528/348/74d022432ca3221fbe00d78622b66fd551759ab43a497bc9442fb57cc6d5/The_North_Korean_53e4ebd60f4131.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 170967,
+      "sha256": "a458f1cdc114c67e6d2801adfd7d13d620fde9d9f647d17b1831b03212fbc33a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-022-03",
+      "record_id": "PRK-MB-022-V01",
+      "view_key": "PRK-MB-022-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/022_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-40th-anniversary-of-fatherland-liberation-war-victory/commemorative-order-%2240th-anniversary-of-fatherland-liberation-war-victory%22-1",
+      "image_url": "https://www.medalbook.com/attachments/dd1af251f02bb0466e91c2fbc6302d313aa3a98e/store/fit/528/348/15f407ac715cb2ea8035150aca084f59a05adbc658f74bef567b88f6b22f/IMG_02.jpg53e4ebec61ab3.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 151677,
+      "sha256": "c4ea796fe5c70b38f12326da7278552eadc00dd52b77f71531580870af9012f5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-025-02",
+      "record_id": "PRK-MB-025-V01",
+      "view_key": "PRK-MB-025-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/025_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-60th-anniversary-of-the-peoples-army/commemorative-order-%2260th-anniversary-of-the-people's-army%22-1",
+      "image_url": "https://www.medalbook.com/attachments/54f1dc016439879543e883958a4c321911c68fb2/store/fit/1000/750/21f8c44b3e229a6ba93c1a19b531a7f966019a0e0635066b8b74eeeaff65/A_North_Korea_Or_53e4ed2c089ea.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 640456,
+      "sha256": "272510aca114ee115e5fa2d15a714d628669e74ea2e4ef6b214e453a093f0d1a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-025-01",
+      "record_id": "PRK-MB-025-V01",
+      "view_key": "PRK-MB-025-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/025_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-60th-anniversary-of-the-peoples-army/commemorative-order-%2260th-anniversary-of-the-people's-army%22-1",
+      "image_url": "https://www.medalbook.com/attachments/29c378ce8de4fd4989e5dd1054c5560ee9ac83cb/store/fit/528/348/b800385a102c7b2fdfea79a28b5909ab26f76c2681b8cb6f81e8d7b9a1a3/IMG_02.jpg53e4ed42d8077.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 153485,
+      "sha256": "df4dd8d5582b48f426147f0fd14b07c3d4853b405ae9ea102eb1db71182a45c5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-028-01",
+      "record_id": "PRK-MB-028-V01",
+      "view_key": "PRK-MB-028-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/028_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-capital-construction/commemorative-order-%22capital-construction%22-1",
+      "image_url": "https://www.medalbook.com/attachments/4a9c1eb377424aa1128740865d91f8f43cb9302d/store/fit/1000/750/1094e8ca18eb5c2b6e7308c7cb5bdcb8eda1a061390e429f3012466acce8/KP151a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        750,
+        750
+      ],
+      "bytes": 51965,
+      "sha256": "eda17f3ac2d0c24ad4211921e59cc3ef70d1822e663ab0c1172a2f5fe7a5fa88",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-028-02",
+      "record_id": "PRK-MB-028-V01",
+      "view_key": "PRK-MB-028-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/028_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-capital-construction/commemorative-order-%22capital-construction%22-1",
+      "image_url": "https://www.medalbook.com/attachments/61ed236d57afb95b02ec1552dcdbc7c8eac232f1/store/fit/528/348/27d3758479f301cb2d318cd907f02e46fd1d36903b2ea80a36d52c33bfb7/100x100_KP151b.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 9595,
+      "sha256": "31178a5f9cbdd13c83326a1cb54b869bb71a389afde15265c21a816ad3b95f75",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-029-01",
+      "record_id": "PRK-MB-029-V01",
+      "view_key": "PRK-MB-029-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/029_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-foundation-of-the-democratic-peoples-republic-of-korea/commemorative-order-%22foundation-of-the-democratic-people's-republic-of-korea%22-1",
+      "image_url": "https://www.medalbook.com/attachments/47959262256f8126b4341cafc1ed274a5974e5b8/store/fit/528/348/831abaf5c1d2280fd8adddd2313b6c731809f41253a6d3b48e68286791a8/The_Order_of_the_53e4eda0b415f_160x1201.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 64408,
+      "sha256": "3c827bb6fd8d3171a07597d480160696a3e1454f64fb7f27363e84d0cbc47a6e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-029-02",
+      "record_id": "PRK-MB-029-V01",
+      "view_key": "PRK-MB-029-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/029_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-foundation-of-the-democratic-peoples-republic-of-korea/commemorative-order-%22foundation-of-the-democratic-people's-republic-of-korea%22-1",
+      "image_url": "https://www.medalbook.com/attachments/4b12e58594daedfb92c08e7b27f863aba1b37c99/store/fit/528/348/8e59ac21a3f8fd2411979dc35f97e3d6d37ed166b75a8e790b3529d44319/IMG_02.jpg53e4ee2a49a89.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 164727,
+      "sha256": "e387ea5d44c7970c2b904dad80e6e689facf47c6ffab68933e5799a4c4fbed1c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-037-01",
+      "record_id": "PRK-MB-037-V01",
+      "view_key": "PRK-MB-037-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/037_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-freedom-and-independence/order-of-freedom-and-independence-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/bdef149b710afebb7b855cf13a8de342b4df0bce/store/fit/1000/750/5ef3757f72440d08a1b70993b103d36e926859f6340fc440494aebcc41d4/North+Korea+Freedom+and+Indpendence+First+Class+Collar.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        566,
+        750
+      ],
+      "bytes": 150063,
+      "sha256": "59acdffede3a823d635ba5e09dd4202ee36c83d2b7d6c7ae9a62c454e3859080",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-039-02",
+      "record_id": "PRK-MB-039-V01",
+      "view_key": "PRK-MB-039-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/039_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-freedom-and-independence/order-of-freedom-and-independence-ii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/4a8405539910c9fa880e6d2eef36889b9f59b46f/store/fit/1000/750/a229370d11aeec0fafe0aaa20f76dcd4ae8f0c6eaf150e0bfd38d7dc3cf8/Order+of+Freedom+and+Independence%2C+II+Class+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 141496,
+      "sha256": "8daaebe4ec7bf2f7f594d9c447291150b4f48b8a795e4015f687003857317107",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-039-01",
+      "record_id": "PRK-MB-039-V01",
+      "view_key": "PRK-MB-039-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/039_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-freedom-and-independence/order-of-freedom-and-independence-ii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/2a45eff4d023494ed301d45147648a19d2afab11/store/fit/528/348/afda4314c20ba0f68f3d483ef7251cec9e7e7c1a7f72c36b7d50fcea35f4/Order+of+Freedom+and+Independence%2C+II+Class+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 27665,
+      "sha256": "a1428310d46a8c1350a85f54d533755e74e053d0c38ed723a061c29be872421d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-042-01",
+      "record_id": "PRK-MB-042-V01",
+      "view_key": "PRK-MB-042-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/042_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-korean-labour/type-i-i/order-of-korean-labour-type-ii-badge-2",
+      "image_url": "https://www.medalbook.com/attachments/263013c6b87f0c2e99cbd7c32438f3cf592decc1/store/fit/528/348/5f035e5402702e2c3e8bda9d8071bcdcabfe261032aac458e5486fea01f6/A_North_Korean_O_53e4ecbf37f5a1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 165995,
+      "sha256": "b4db4803aaccf1c61f8403456d3c160adaddb81794d49590fae074ce77b0d90e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-042-02",
+      "record_id": "PRK-MB-042-V01",
+      "view_key": "PRK-MB-042-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/042_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-korean-labour/type-i-i/order-of-korean-labour-type-ii-badge-2",
+      "image_url": "https://www.medalbook.com/attachments/48376b3a1d2e51d3aa054a868fef604bc4d42a56/store/fit/528/348/a6d05465886d0b959040cb8b7c257b09bae41e913aae3e746e72bf303be2/IMG_02.jpg53e4ecd3c6a42.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 138800,
+      "sha256": "60bbaee8b4ce091ea59ea280eb4989fc134ffbd52b2d24450e87e994b64ff690",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-046-02",
+      "record_id": "PRK-MB-046-V01",
+      "view_key": "PRK-MB-046-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/046_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-engineering-service-honour/order-of-military-engineering-service-honour-for-30-years-1",
+      "image_url": "https://www.medalbook.com/attachments/1a61470096d33696c96a178039dda40eaa9de835/store/fit/1000/750/ba0f3a37fcf3fc3f139622b31f863ab128343f0e889ef368038229b192f1/A_North_Korean_M_541069871cb4d.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 491284,
+      "sha256": "9a29e419998ae0dffd353a67daf2c35aed42eb6aa97bf17ceb757c575ace5359",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-046-01",
+      "record_id": "PRK-MB-046-V01",
+      "view_key": "PRK-MB-046-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/046_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-engineering-service-honour/order-of-military-engineering-service-honour-for-30-years-1",
+      "image_url": "https://www.medalbook.com/attachments/0f16cf08cc6e55fbe2b07e5904604665d5e642fa/store/fit/528/348/aa78856fdc68bf4b0c47c375cf78044a2141628bf66c6500f1a7ec94c740/IMG_02.jpg5410699c527bc.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 118477,
+      "sha256": "a48c87ee4bd3a14362d97dc634eac4007bfaa64b8460045a3fda43fdeac58ab7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-047-01",
+      "record_id": "PRK-MB-047-V01",
+      "view_key": "PRK-MB-047-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/047_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/0a76a15f3ad20e9068c8394bca45bffb94adf253/store/fit/1000/750/2378494ef305432f5ca51c0fb1045013dad62b4b6afb054c5616dd8bd671/A_North_Korean_O_54f5e35d31064.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 641272,
+      "sha256": "68a8d5851221fd58b3d17e0508d11a7e30f3c197a4b428f2b6341e1f6fb7386e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-047-03",
+      "record_id": "PRK-MB-047-V01",
+      "view_key": "PRK-MB-047-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/047_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/b8cfae319bbd7cbefc7d4a8b15ee2631a730b4a2/store/fit/528/348/f94bc65e24b5233c2e63a22a57226673f3662f16ca44cb46d1fb37e0a120/IMG_02.jpg54f5e372510b6.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 165980,
+      "sha256": "a5e38d927ee2c4d161759c796953c638775ecf5cb048eff78aac7ce58bdfd187",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-048-02",
+      "record_id": "PRK-MB-048-V01",
+      "view_key": "PRK-MB-048-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/048_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/4846f85d8c1e17610e52998898c1b65c323617b2/store/fit/1000/750/59b77c0ac270f477b6baf8cf1cb5d616611e7183f0800f35ad4c84bd5f47/A_North_Korean_O_54f5e4220700a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 617267,
+      "sha256": "d00480bbf03327387d9ef22f7ee2fc04b59495911671e5ae0711e604cdc2aac8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-048-01",
+      "record_id": "PRK-MB-048-V01",
+      "view_key": "PRK-MB-048-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/048_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/3d42b7d76cc87ec0b582ed7fd1b9adb37107b447/store/fit/528/348/795de51a3965470097ac660387b356c614300b6c898b1baa2e4cf2aa3d58/IMG_02.jpg54f5e43570af9.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 168064,
+      "sha256": "8752ff3847b390d575f6819878eeeb2a9bbd063b98bb70760a95b8a3a84d405a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-049-02",
+      "record_id": "PRK-MB-049-V01",
+      "view_key": "PRK-MB-049-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/049_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/28124009b2ed70166096e84bc979d02374e312d7/store/fit/1000/750/c0c26b16f008183a381561d8fd7439aa9c0034ad7da328439636e08c1205/A_North_Korean_O_54f5e47c50fc1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 633990,
+      "sha256": "e32df1687bb431f1aca499383a47c8be32914a0a51d8cd1c0f30030fee7a207a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-049-01",
+      "record_id": "PRK-MB-049-V01",
+      "view_key": "PRK-MB-049-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/049_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-service-honour/order-of-military-service-honour-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/20d5995cf06213fcaba30a17b93321b65c4ee7ec/store/fit/528/348/1342e16a50737135ab6d51544b8f84ec43b3217daaaa4e0fd7faae331447/IMG_02.jpg54f5e48d91492.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 173077,
+      "sha256": "79c0cb4148613bb86d5eb95268aa8c9a6a399c14f077d73b3576f960cf41890b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-053-01",
+      "record_id": "PRK-MB-053-V01",
+      "view_key": "PRK-MB-053-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/053_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-soldiers-honour/order-of-soldier's-honour-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/c631d050ad69d93e08fc007adced3313bc789344/store/fit/528/348/a2d5ecb88e4075e1e1fd3f4543ad236f56617761be2d6fa1b27948a2ae03/The_North_Korean_53e4ee7f137061.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 192013,
+      "sha256": "72ae47f0ecfbbe63fb35c840dc66601b3f25ef51dec3c133e5c9905a62b306c6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-053-02",
+      "record_id": "PRK-MB-053-V01",
+      "view_key": "PRK-MB-053-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/053_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-soldiers-honour/order-of-soldier's-honour-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/c6749be7d547f795bb5c71c7f063091b2e233f7f/store/fit/528/348/a1bfea22029d24f71a68b06e6543f2c6f234d6bdfb824f8e0ce416ef08ca/IMG_02.jpg53e4ee99953e1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 150974,
+      "sha256": "c8f478839134c9e51583ad839c06885a5dd9e2f479d695c0e7c68a4d78918e83",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-054-01",
+      "record_id": "PRK-MB-054-V01",
+      "view_key": "PRK-MB-054-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/054_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-soldiers-honour/order-of-soldier's-honour-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/3b01c0b3872cc0f7b328c699c3dba2dcd28c882a/store/fit/1000/750/638e4d716c24721434bceea5bca31487f60a6f5a4c4ce62a810e6be52e0a/A_North_Korean_O_5134f0a95e66c1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 185407,
+      "sha256": "4dd484bccc9711aaae08d1471c4be762ed32cb8b8bb767093f82d975707e43ba",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-054-02",
+      "record_id": "PRK-MB-054-V01",
+      "view_key": "PRK-MB-054-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/054_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-soldiers-honour/order-of-soldier's-honour-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/507cd4c0bd4cb099020b43018585e17482ad3e9b/store/fit/528/348/1254c1bea28cb531e7f4e900080d9ac7c45e99269c8a39157f173e811cac/IMG_021.jpg53e4ef14beaca1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 162010,
+      "sha256": "a37fd8b3a177aeb36294d45e87422f3a368464566aac99ecd78b2ca82b10e40e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-057-01",
+      "record_id": "PRK-MB-057-V01",
+      "view_key": "PRK-MB-057-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/057_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/74fbfcd00c6c78cdd8d2a8e053c6b8f79daab3e8/store/fit/1000/750/704ec36552f1124c062a5a54c048d836dbea6f91be2055a36a85a6f54de5/A_North_Korean_O_54f5e20858e5a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 653739,
+      "sha256": "841d383472c33923b69025e9da365b3854e231be2d77b0a6bf79f343fae287cf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-057-02",
+      "record_id": "PRK-MB-057-V01",
+      "view_key": "PRK-MB-057-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/057_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/81f21368c76261bdb4397f25e6de9e5abb91b25c/store/fit/528/348/4065fe0619bae65edc123bc9838adb1405260236f4bde08ee7b792f243a3/IMG_02.jpg54f5e21ed1477.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 150620,
+      "sha256": "3e8008476da6114c2eee6e042730b3d9d2c3636e72dd2209bc7cfaf8007868f1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-058-01",
+      "record_id": "PRK-MB-058-V01",
+      "view_key": "PRK-MB-058-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/058_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/2ea95416ef78fe2aa715581063cb8068889393dd/store/fit/528/348/b86b2ce47d25edc703882e33c41981934d6cb82cfd30b8a0e98cc85e1b01/A_North_Korean_O_54f5e257134bf1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 185673,
+      "sha256": "87e642cd9219439cf75dc8e30470faefedecd1829ca06a0700226b4cc16b4619",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-058-03",
+      "record_id": "PRK-MB-058-V01",
+      "view_key": "PRK-MB-058-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/058_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/6b521d9ff6a50bb5fd38825caf629540a08322a7/store/fit/528/348/a3bfce8d0c00c941468c7643a47b8fc118251075f48504e3da4a29f69df7/IMG_02.jpg54f5e26929925.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 146397,
+      "sha256": "33ff15ea82ea7ebb4bd035302c018f08a1c00de98876a181e4daa116c7344c5e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-059-03",
+      "record_id": "PRK-MB-059-V01",
+      "view_key": "PRK-MB-059-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/059_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/f143db1cc58380348c15bfd461a057b866d6807f/store/fit/1000/750/7285bc66fdc702b91f943bab3067d4341a02204c2f31fca68192c6e46413/A_North_Korean_O_54f5e303b6144.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 649722,
+      "sha256": "60eac315892e8203a1a8864a4aa1631b5d112f8cae9cdc1e56e828871def14ac",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-059-02",
+      "record_id": "PRK-MB-059-V01",
+      "view_key": "PRK-MB-059-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/059_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-national-flag/order-of-the-national-flag-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/d5c77b460a9f9fca50812376e7640296eda187c5/store/fit/528/348/9679a3e155bfc698c5d2f2535418bc1b0496276314943f4d715a8c0d88ee/IMG_02.jpg54f5e318687d5.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 164263,
+      "sha256": "4d3e26c81f3cc12a43a0491317f11b4a5b74df4d2955617a5fc0d8c537efe17a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-060-01",
+      "record_id": "PRK-MB-060-V01",
+      "view_key": "PRK-MB-060-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/060_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-red-banner-of-three-great-revolutions/order-of-the-red-banner-of-three-great-revolutions-1",
+      "image_url": "https://www.medalbook.com/attachments/45f705a6fec09c919d93c75719aaef6c5a51e570/store/fit/1000/750/9e2438a5e765b0e2d8349072a981604a56b0fa6602e29fb3c3a585cdb604/KE516.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 191702,
+      "sha256": "8a4a6a3d80a07ea3e45d13328365963dcee55ccb7dfbcf0fa84cf0455503553d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-060-03",
+      "record_id": "PRK-MB-060-V01",
+      "view_key": "PRK-MB-060-VIEW2",
+      "local_path": "assets/images/medalbook_north_korea/060_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-red-banner-of-three-great-revolutions/order-of-the-red-banner-of-three-great-revolutions-1",
+      "image_url": "https://www.medalbook.com/attachments/92633feb5b82722d5e9e032cec9b6d960b637621/store/fit/528/348/7b81be62994711941d8633e8572d810a826931f14221bad7fdd4a4e797be/KE516a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 70041,
+      "sha256": "47f4bc5d1ed1bcf946421a9dde63c3fbd2fa8366f87fb242ee54f83d5c54fdee",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-mb-062-01",
+      "record_id": "PRK-MB-062-V01",
+      "view_key": "PRK-MB-062-VIEW1",
+      "local_path": "assets/images/medalbook_north_korea/062_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/north-korea/titles/hero-of-the-korean-democratic-peoples-republic/hero-of-the-korean-democratic-people's-republic-1",
+      "image_url": "https://www.medalbook.com/attachments/7fe8b87c0aad3935e7e72edb7c6358e792a2c746/store/fit/1000/750/e1004c635022513d0413a3f52b6e2414216b909bd1bdd3870fc45e8e07ce/obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        422,
+        750
+      ],
+      "bytes": 113310,
+      "sha256": "1e5993095acc3c3ec1f353f4e66e7617fd643fe05e70a11caade5a6ed53f8851",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-north_korea-a9ab4d13adce1b19",
+      "name": "Commemorative Medal \"Capital Construction\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-capital-construction/commemorative-medal-%22capital-construction%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-d321ba22e539e45a",
+      "name": "Commemorative Medal \"Cheonggang Power Plant Dam Construction\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-cheonggang-power-plant-dam-construction/commemorative-medal-%22cheonggang-power-plant-dam-construction%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-c32255c34d58ffd6",
+      "name": "Commemorative Medal \"Fatherland Liberation\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-fatherland-liberation/commemorative-medal-%22fatherland-liberation%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-51658331515929d5",
+      "name": "Commemorative Medal \"Military Parade\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-military-parade/commemorative-medal-%22military-parade%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-23ee2c4ab606a8f2",
+      "name": "Commemorative Medal \"Participation In The Fatherland Liberation War 1950–1953\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-participation-in-the-fatherland-liberation-war-19501953/commemorative-medal-%22participation-in-the-fatherland-liberation-war-1950%E2%80%931953%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-19853834aa36f9c2",
+      "name": "Commemorative Medal \"Pyongyang-Nampho Highway Construction\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-pyongyang-nampho-highway-construction/commemorative-medal-%22pyongyang-nampho-highway-construction%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-bdb50fd1bf37dafb",
+      "name": "Commemorative Medal \"The Foundation of the People's Republic of Korea\", Type II",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-the-foundation-of-the-peoples-republic-of-korea/type-i-i/commemorative-medal-%22the-foundation-of-the-people's-republic-of-korea%22-type-ii-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-6be6df37d79daca9",
+      "name": "Commemorative Medal \"The Foundation of the People's Republic of Korea\", Type I",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/commemorative-medal-the-foundation-of-the-peoples-republic-of-korea/type-i/commemorative-medal-%22the-foundation-of-the-people's-republic-of-korea%22-type-i-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-0d16c3d40dcc078d",
+      "name": "Friendship Medal of the Democratic People's Republic of Korea",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/friendship-medal-of-the-democratic-peoples-republic-of-korea/friendship-medal-of-the-democratic-people's-republic-of-korea-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-de8a041f8c60dde4",
+      "name": "Medal for Military Merit, Type II",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-for-military-merit/type-i-i/medal-for-military-merit-type-ii-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-1c4ee24fbcaf7e0c",
+      "name": "Medal for Wounds",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/medal-for-wounds/medal-for-wounds-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-689baa961ea108b8",
+      "name": "Service Medal, 1974-1976",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/service-medal-1974-1976/service-medal-1974-1976-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-9290d6c86ce35ef5",
+      "name": "Vietnam Service Medal, 1964-1973",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/medals-decorations/vietnam-service-medal-1964-1973/vietnam-service-medal-1964-1973-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-e525381a7eced501",
+      "name": "Commemorative Order \"20th Anniversary of the Foundation of the Democratic People's Republic of Korea\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-20th-anniversary-of-the-foundation-of-the-democratic-peoples-republic-of-korea/commemorative-order-%2220th-anniversary-of-the-foundation-of-the-democratic-people's-republic-of-korea%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-a6a5cef5db64e4d9",
+      "name": "Commemorative Order \"30th Anniversary of the Agricultural Presentation\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-30th-anniversary-of-the-agricultural-presentation/commemorative-order-%2230th-anniversary-of-the-agricultural-presentation%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-d3299d30cfc79472",
+      "name": "Commemorative Order \"50th Anniversary of the Foundation of the People's Republic of Korea\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-50th-anniversary-of-the-foundation-of-the-peoples-republic-of-korea/commemorative-order-%2250th-anniversary-of-the-foundation-of-the-people's-republic-of-korea%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-df5e33fe39ea326b",
+      "name": "Commemorative Order \"5th March\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-5th-march/commemorative-order-%225th-march%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-b450b46df065b789",
+      "name": "Commemorative Order \"60th Year Anniversary of the Fatherland Liberation War Victory\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-60th-year-anniversary-of-the-fatherland-liberation-war-victory/commemorative-order-%2260th-year-anniversary-of-the-fatherland-liberation-war-victory%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-50d8a3650ea8f5eb",
+      "name": "Commemorative Order \"Anniversary of the Foundation of the People's Army\"",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/commemorative-order-anniversary-of-the-foundation-of-the-peoples-army/commemorative-order-%22anniversary-of-the-foundation-of-the-people's-army%22-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-96f5b6d4caa37281",
+      "name": "Order of Admiral Yi Sun-Shin, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-admiral-yi-sun-shin/order-of-admiral-yi-sun-shin-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-dec58494115d389f",
+      "name": "Order of Admiral Yi Sun-Shin, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-admiral-yi-sun-shin/order-of-admiral-yi-sun-shin-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-371d9f1a0566999a",
+      "name": "Order of Coal and Mining Industry Service Honour, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-coal-and-mining-industry-service-honour/order-of-coal-and-mining-industry-service-honour-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-c9b423aedf9e113d",
+      "name": "Order of Coal and Mining Industry Service Honour, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-coal-and-mining-industry-service-honour/order-of-coal-and-mining-industry-service-honour-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-1a04330ee35b36f1",
+      "name": "Order of Coal and Mining Industry Service Honour, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-coal-and-mining-industry-service-honour/order-of-coal-and-mining-industry-service-honour-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-8ab78f206ac1611d",
+      "name": "Order of Fishery Service Honour, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-fishery-service-honour/order-of-fishery-service-honour-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-8ca9d76c8438202e",
+      "name": "Order of Fishery Service Honour, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-fishery-service-honour/order-of-fishery-service-honour-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-a78b7c82588a471a",
+      "name": "Order of Freedom and Independence, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-freedom-and-independence/order-of-freedom-and-independence-i-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-ab4530c480953508",
+      "name": "Order of Kim Il-Sung",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-kim-il-sung/order-of-kim-il-sung-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-fdb4c100906f7e0d",
+      "name": "Order of Kim Jong-il",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-kim-jong-il/order-of-kim-jong-il-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-8ff23817859c6fc8",
+      "name": "Order of Korean Labour, Type I, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-korean-labour/type-i/order-of-korean-labour-type-i-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-226e81971e61b6d8",
+      "name": "Order of Military Engineering Service Honour, for 10 Years",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-engineering-service-honour/order-of-military-engineering-service-honour-for-10-years-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-bc9a782ef9e004f2",
+      "name": "Order of Military Engineering Service Honour, for 20 Years",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-military-engineering-service-honour/order-of-military-engineering-service-honour-for-20-years-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-b5775ee100fefc65",
+      "name": "Order of Railway Service Honour, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-railway-service-honour/order-of-railway-service-honour-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-359c94f675bde324",
+      "name": "Order of Railway Service Honour, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-railway-service-honour/order-of-railway-service-honour-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-e454af7c9a216f13",
+      "name": "Order of Railway Service Honour, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-railway-service-honour/order-of-railway-service-honour-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-96d32657893d61a7",
+      "name": "Order of the Democratic People's Republic of Korea Friendship, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-democratic-peoples-republic-of-korea-friendship/order-of-the-democratic-people's-republic-of-korea-friendship-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-e9b53e08e16a3b6e",
+      "name": "Order of the Democratic People's Republic of Korea Friendship, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/orders/order-of-the-democratic-peoples-republic-of-korea-friendship/order-of-the-democratic-people's-republic-of-korea-friendship-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-north_korea-fa2933930cca64a8",
+      "name": "Hero of Labour of the Korean Democratic People's Republic",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/north-korea/titles/hero-of-labour-of-the-korean-democratic-peoples-republic/hero-of-labour-of-the-korean-democratic-people's-republic-1",
+      "status": "目录仅有未证实为官方图式的绘图，暂不进入正文"
+    }
+  ]
+}

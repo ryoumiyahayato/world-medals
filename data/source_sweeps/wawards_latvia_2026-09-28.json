@@ -1,0 +1,12 @@
+{
+  "source_id": "wawards-latvia",
+  "source_url": "https://wawards.org/en/latvia.html",
+  "accessed": "2026-09-28",
+  "scope": "Complete country index, every linked award page and every exposed full-size image.",
+  "status": "complete",
+  "planned_object_pages": 11,
+  "processed_object_pages": 11,
+  "downloaded_images": 67,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_latvia.jsonl"
+}

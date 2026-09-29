@@ -1,0 +1,94 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及 Wawards 差集批次1",
+  "records": [
+    {
+      "id": "EGY-WAWARDS-COLLAR-OF-FUAD-I-01",
+      "family": "EGY-WAWARDS-COLLAR-OF-FUAD-I",
+      "country_zh": "埃及",
+      "name": "福阿德一世项圈",
+      "original": "Collar of Fuad I",
+      "date": "1936年以前；王国时期",
+      "variant": "国家元首级项圈；完整实物正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-COLLAR-OF-FUAD-I-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-aae3ccbf98f521e55958"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-LIBERATION-MEDAL-01",
+      "family": "EGY-WAWARDS-LIBERATION-MEDAL",
+      "country_zh": "埃及",
+      "name": "解放奖章",
+      "original": "Medal of Liberation / نوط التحرير",
+      "date": "1952年设立",
+      "variant": "革命／解放纪念授予型；同一版型正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-LIBERATION-MEDAL-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-LIBERATION-MEDAL-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-3b753436a9edf22c6741"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-LIBERATION-ORDER-01",
+      "family": "EGY-WAWARDS-LIBERATION-ORDER",
+      "country_zh": "埃及",
+      "name": "解放勋章",
+      "original": "Order of Liberation / وسام التحرير",
+      "date": "1952年设立",
+      "variant": "解放功绩授予型；完整实物正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-LIBERATION-ORDER-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-ee315c13712641a99016"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MEDAL-OF-MERIT-01",
+      "family": "EGY-WAWARDS-MEDAL-OF-MERIT",
+      "country_zh": "埃及",
+      "name": "功绩奖章",
+      "original": "Medal of Merit",
+      "date": "1953年设立",
+      "variant": "三级制；图示等级待考；同一版型正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MEDAL-OF-MERIT-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MEDAL-OF-MERIT-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-b5f7d95af7c8a79c25d5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

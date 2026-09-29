@@ -1,0 +1,120 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "奥地利帝国·勋奖章图鉴（medals.org.uk快批）",
+  "records": [
+    {
+      "id": "AUT-AE-003-V01",
+      "family": "AUT-FAM-AE-003",
+      "country_zh": "奥地利帝国",
+      "name": "铁王冠勋章",
+      "original": "Orden der Eisernen Krone",
+      "date": "1816年奥地利帝国复设；前身为意大利王国勋章",
+      "variant": "骑士级章；具体实物年代待考；低清参考",
+      "views": [
+        {
+          "key": "AUT-AE-003-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire003",
+        "medalsorg-austria-empire-text-list",
+        "khm-iron-crown-official",
+        "khm-revised-iron-crown-statutes"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire003.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 5 June 1805 by Napoleon I as King of Italy. Discontinued: 1814, restored 12 February 1816 by Emperor Franz Joseph. | Awarded: Unknown. | Grades: 3 (Grand Cross, Commander and Knight).",
+          "image_reference": "World Medals Index image caption: Knight, Obverse"
+        },
+        {
+          "source_id": "khm-iron-crown-official",
+          "source_page": "https://www.khm.at/en/object/567016/",
+          "note": "KHM records the Austrian continuation after the Congress of Vienna and dates an order object 1815–1816."
+        },
+        {
+          "source_id": "khm-revised-iron-crown-statutes",
+          "source_page": "https://repository.khm.at/viewer/api/v1/records/01095555/files/images/BIBL_D33809_0065.jpg/full.pdf?divID=LOG_0000",
+          "note": "Primary revised statutes name Emperor Francis I and 1 January 1816; medals.org.uk differs on ruler/date."
+        }
+      ]
+    },
+    {
+      "id": "AUT-AE-004-V01",
+      "family": "AUT-FAM-AE-004",
+      "country_zh": "奥地利帝国（后沿用于奥匈帝国）",
+      "name": "利奥波德勋章",
+      "original": "Leopold-Orden",
+      "date": "1808年7月14日设立",
+      "variant": "大十字级章饰；图录未标正背；低清参考",
+      "views": [
+        {
+          "key": "AUT-AE-004-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire004",
+        "medalsorg-austria-empire-text-list",
+        "oesta-leopold-order"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire004.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 14 July 1808 by Kaiser Franz I. Discontinued 1919. | Awarded: For military and civil merit. | Grades:4 (Grand Cross, First Class, Commander, and Knight).",
+          "image_reference": "World Medals Index image caption: Grand Cross: Badge"
+        },
+        {
+          "source_id": "oesta-leopold-order",
+          "source_page": "https://archivinformationssystem.at/detail.aspx?ID=1017",
+          "note": "Austrian State Archives: founded 14 July 1808 by Emperor Francis I."
+        }
+      ]
+    },
+    {
+      "id": "AUT-AE-044-V01",
+      "family": "AUT-FAM-AE-044",
+      "country_zh": "奥地利帝国",
+      "name": "对丹麦战役纪念奖章",
+      "original": "Erinnerungsmedaille an den Feldzug 1864 gegen Dänemark",
+      "date": "1864年11月10日设立",
+      "variant": "图录正面；低清参考",
+      "views": [
+        {
+          "key": "AUT-AE-044-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire044",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire044.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 10 November 1864. | Awarded: To members of the Austrian forces active in the war against Denmark over the the Duchy of Schleswig.",
+          "image_reference": "World Medals Index image caption: Obverse"
+        }
+      ]
+    }
+  ]
+}

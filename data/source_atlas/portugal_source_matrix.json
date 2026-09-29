@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-29",
+  "scope_id": "portugal",
+  "scope_label": "Portuguese kingdom and republic award systems",
+  "sources": [
+    {
+      "source_id": "medalsorg-portugal-kingdom-republic-directories",
+      "source_name": "World Medals Index ODM of Portugal kingdom and republic directories",
+      "base_url": "https://www.medals.org.uk/portugal/",
+      "source_type": "illustrated_award_inventory",
+      "languages": ["en", "pt"],
+      "scope_dates": "Kingdom and Republic of Portugal",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "two_text_lists_to_all_linked_object_pages_and_selected_front_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-29",
+      "coverage_result": "7 kingdom and 14 republic linked object pages processed; 20 complete front views merged as 20 variants in 14 cross-period families.",
+      "volume_file": "data/volumes/portugal_medals_org_fast_2026-09-28.json",
+      "manifest_file": "data/volumes/portugal_medals_org_fast_2026-09-28_manifest.json",
+      "image_directory": "assets/images/portugal_orders_fast_2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 1, "completed": 1, "partial": 0, "blocked": 0, "not_started": 0},
+  "next_action": "Resolve unpictured orders and replace low-resolution catalogue photographs with official or museum images when available."
+}

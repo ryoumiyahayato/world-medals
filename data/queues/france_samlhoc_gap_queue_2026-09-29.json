@@ -1,0 +1,1316 @@
+{
+  "as_of": "2026-09-29",
+  "policy": "only_add_never_silently_drop",
+  "source": "FR-SAMLHOC-FULL-PHALERISTIQUE",
+  "method": "Exact source-slug crosswalk against the locally known France family ids, including the four-row official-core batch. Unresolved rows remain candidates and are not asserted as confirmed new formal awards.",
+  "counts": {
+    "normalized_source_families": 173,
+    "mapped_known_families": 21,
+    "unresolved_difference_candidates": 152,
+    "unresolved_without_any_local_image": 1
+  },
+  "mapped_known_families": [
+    {
+      "canonical_slug": "croix_guerre_1914-1918",
+      "family_id": "FRA-III-CROIX-DE-GUERRE-1914-1918"
+    },
+    {
+      "canonical_slug": "medaille_coloniale",
+      "family_id": "FRA-III-MEDAILLE-COLONIALE"
+    },
+    {
+      "canonical_slug": "medaille_militaire",
+      "family_id": "FRA-III-MEDAILLE-MILITAIRE"
+    },
+    {
+      "canonical_slug": "medaille_nationale_reconnaissance_victimes_terrorisme",
+      "family_id": "FRA-MEDAILLE-VICTIMES-TERRORISME"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_campagne_italie_1859",
+      "family_id": "FRA-MEDAILLE-CAMPAGNE-ITALIE-1859"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_dardanelles",
+      "family_id": "FRA-III-DARDANELLES-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_expedition_chine_1900-1901",
+      "family_id": "FRA-III-CHINA-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_expedition_dahomey",
+      "family_id": "FRA-III-DAHOMEY-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_expedition_mexique",
+      "family_id": "FRA-MEDAILLE-EXPEDITION-MEXIQUE-1863"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_grande_guerre",
+      "family_id": "FRA-III-GREAT-WAR-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_guerre_1870",
+      "family_id": "FRA-III-WAR-1870-1871-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_maroc",
+      "family_id": "FRA-III-MOROCCO-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_orient",
+      "family_id": "FRA-III-ORIENT-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_commemorative_syrie-cilicie",
+      "family_id": "FRA-III-SYRIE-CILICIE-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "medaille_honneur_epidemies",
+      "family_id": "FRA-III-MEDAILLE-HONNEUR-EPIDEMIES"
+    },
+    {
+      "canonical_slug": "medaille_honneur_mutualite",
+      "family_id": "FRA-III-MUTUALITY-HONOUR"
+    },
+    {
+      "canonical_slug": "medaille_honneur_sapeurs-pompiers",
+      "family_id": "FRA-III-FIREFIGHTERS-HONOUR"
+    },
+    {
+      "canonical_slug": "medaille_interalliee_victoire",
+      "family_id": "FRA-III-MEDAILLE-INTERALLIEE-VICTOIRE"
+    },
+    {
+      "canonical_slug": "medailles_commemoratives_madagascar",
+      "family_id": "FRA-III-MADAGASCAR-COMMEMORATIVE"
+    },
+    {
+      "canonical_slug": "legion_honneur",
+      "family_id": "FRA-LEGION-HONOUR"
+    },
+    {
+      "canonical_slug": "ordre_national_merite",
+      "family_id": "FRA-ORDRE-NATIONAL-MERITE"
+    }
+  ],
+  "unresolved_difference_candidates": [
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-BRASSARD_BORDEAUX",
+      "canonical_slug": "brassard_bordeaux",
+      "original_name_candidate": "le brassard des volontaires royaux à cheval",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT",
+      "canonical_slug": "croix_combattant",
+      "original_name_candidate": "croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE",
+      "canonical_slug": "croix_combattant_volontaire",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_1914_1918",
+      "canonical_slug": "croix_combattant_volontaire_1914-1918",
+      "original_name_candidate": "Croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_RESISTANCE",
+      "canonical_slug": "croix_combattant_volontaire_resistance",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_1939_1945",
+      "canonical_slug": "croix_guerre_1939-1945",
+      "original_name_candidate": "modèle",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 9,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_LEGION_VOLONTAIRES_FRANCAIS",
+      "canonical_slug": "croix_guerre_legion_volontaires_francais",
+      "original_name_candidate": "croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_TOE",
+      "canonical_slug": "croix_guerre_toe",
+      "original_name_candidate": "citations",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_SERVICES_MILITAIRES_VOLONTAIRES",
+      "canonical_slug": "croix_services_militaires_volontaires",
+      "original_name_candidate": "Croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 9,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-CROIX_VALEUR_MILITAIRE",
+      "canonical_slug": "croix_valeur_militaire",
+      "original_name_candidate": "Croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-DECORATION_FIDELITE",
+      "canonical_slug": "decoration_fidelite",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-DECORATION_LYS",
+      "canonical_slug": "decoration_lys",
+      "original_name_candidate": "insignes",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_JUILLET",
+      "canonical_slug": "decorations_juillet",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VAINQUEURS_BASTILLE",
+      "canonical_slug": "decorations_vainqueurs_bastille",
+      "original_name_candidate": "insigne",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VOLONTAIRES_ROYAUX",
+      "canonical_slug": "decorations_volontaires_royaux",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-FRANCISQUE_GALLIQUE",
+      "canonical_slug": "francisque_gallique",
+      "original_name_candidate": "carte",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_BLESSES_CIVILS_GUERRE",
+      "canonical_slug": "insigne_blesses_civils_guerre",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_MORTS_POUR_LA_FRANCE",
+      "canonical_slug": "insigne_morts_pour_la_france",
+      "original_name_candidate": "Insigne spécial pour les mères, les veuves et les veufs des « Morts pour la France »",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_PATRIOTE_REFRACTAIRE_ANNEXION",
+      "canonical_slug": "insigne_patriote_refractaire_annexion",
+      "original_name_candidate": "Insigne de Patriote réfractaire à l’annexion de fait",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_REFRACTAIRE",
+      "canonical_slug": "insigne_refractaire",
+      "original_name_candidate": "certificat",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_AERONAUTIQUE",
+      "canonical_slug": "medaille_aeronautique",
+      "original_name_candidate": "Plaquette",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_BLESSES_GUERRE",
+      "canonical_slug": "medaille_blesses_guerre",
+      "original_name_candidate": "blessures",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 20,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEFENSE_NATIONALE",
+      "canonical_slug": "medaille_defense_nationale",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE",
+      "canonical_slug": "medaille_deportation_internement_politique",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE",
+      "canonical_slug": "medaille_deportation_internement_resistance",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_EVADES",
+      "canonical_slug": "medaille_evades",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_FRANCE_LIBEREE",
+      "canonical_slug": "medaille_france_liberee",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_GENDARMERIE",
+      "canonical_slug": "medaille_gendarmerie",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_MERITE_AFRIQUE_NOIRE_FRANCAISE",
+      "canonical_slug": "medaille_merite_afrique_noire_francaise",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_OUTRE_MER",
+      "canonical_slug": "medaille_outre-mer",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_PRISONNIERS_CIVILS_DEPORTES_OTAGES_GRANDE_GUERRE",
+      "canonical_slug": "medaille_prisonniers_civils_deportes_otages_grande_guerre",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_FRANCAISE",
+      "canonical_slug": "medaille_reconnaissance_francaise",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_NATION",
+      "canonical_slug": "medaille_reconnaissance_nation",
+      "original_name_candidate": "médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 7,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE",
+      "canonical_slug": "medaille_reservistes_volontaires_defense_securite_interieure",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 7,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESISTANCE_FRANCAISE",
+      "canonical_slug": "medaille_resistance_francaise",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES",
+      "canonical_slug": "medaille_services_militaires_volontaires",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-DECORATIONS-MEDAILLON_DEUX_EPEES",
+      "canonical_slug": "medaillon_deux_epees",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 12,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_ACTES_COURAGE_DEVOUEMENT",
+      "canonical_slug": "medaille_actes_courage_devouement",
+      "original_name_candidate": "médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 13,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_ADMINISTRATION_TERRITORIALE_ETAT",
+      "canonical_slug": "medaille_administration_territoriale_etat",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_BLESSES_1848",
+      "canonical_slug": "medaille_blesses_1848",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_CAMPAGNE_INDOCHINE",
+      "canonical_slug": "medaille_commemorative_campagne_indochine",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_CAMPAGNE_ITALIE",
+      "canonical_slug": "medaille_commemorative_campagne_italie",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_EXPEDITION_CHINE",
+      "canonical_slug": "medaille_commemorative_expedition_chine",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_EXPEDITION_TONKIN",
+      "canonical_slug": "medaille_commemorative_expedition_tonkin",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_FRANCAISE",
+      "canonical_slug": "medaille_commemorative_francaise",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 7,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_GUERRE_1939_1945",
+      "canonical_slug": "medaille_commemorative_guerre_1939-1945",
+      "original_name_candidate": "document",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_OPERATIONS_SECURITE_MAINTIEN_ORDRE",
+      "canonical_slug": "medaille_commemorative_operations_securite_maintien_ordre",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_SERVICES_VOLONTAIRES_FRANCE_LIBRE",
+      "canonical_slug": "medaille_commemorative_services_volontaires_france_libre",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_TRAVAILLEURS_INDOCHINOIS",
+      "canonical_slug": "medaille_commemorative_travailleurs_indochinois",
+      "original_name_candidate": "Médaille commémorative des travailleurs Indochinois",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 0,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_CONTRIBUTIONS_DIVERSES_ALGERIE",
+      "canonical_slug": "medaille_contributions_diverses_algerie",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_DOUANES_REGIES_INDOCHINE",
+      "canonical_slug": "medaille_douanes_regies_indochine",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_ENSEIGNEMENT_PREMIER_DEGRE",
+      "canonical_slug": "medaille_enseignement_premier_degre",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_ENSEIGNEMENT_TECHNIQUE",
+      "canonical_slug": "medaille_enseignement_technique",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_EXPOSITION_UNIVERSELLE",
+      "canonical_slug": "medaille_exposition_universelle",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_FAMILLE_FRANCAISE",
+      "canonical_slug": "medaille_famille_francaise",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 14,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_FIDELITE_FRANCAISE",
+      "canonical_slug": "medaille_fidelite_francaise",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_GARDE_INDIGENE_INDOCHINE",
+      "canonical_slug": "medaille_garde_indigene_indochine",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ACTES_DEVOUEMENT_FAITS_SAUVETAGE",
+      "canonical_slug": "medaille_honneur_actes_devouement_faits_sauvetage",
+      "original_name_candidate": "médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ADMINISTRATION_FORETS_INDOCHINE",
+      "canonical_slug": "medaille_honneur_administration_forets_indochine",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ADMINISTRATION_PENITENTIAIRE",
+      "canonical_slug": "medaille_honneur_administration_penitentiaire",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_AERONAUTIQUE",
+      "canonical_slug": "medaille_honneur_aeronautique",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 7,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_AFFAIRES_ETRANGERES",
+      "canonical_slug": "medaille_honneur_affaires_etrangeres",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_AGRICOLE",
+      "canonical_slug": "medaille_honneur_agricole",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ASSISTANCE_MEDICALE_INDOCHINE",
+      "canonical_slug": "medaille_honneur_assistance_medicale_indochine",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ASSISTANCE_PUBLIQUE",
+      "canonical_slug": "medaille_honneur_assistance_publique",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ASSURANCES_SOCIALES",
+      "canonical_slug": "medaille_honneur_assurances_sociales",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_CHEMINS_FER",
+      "canonical_slug": "medaille_honneur_chemins_fer",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 12,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_CHEMINS_FER_FRANCE_OUTRE_MER",
+      "canonical_slug": "medaille_honneur_chemins_fer_france_outre-mer",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_CHEMINS_FER_INDOCHINE",
+      "canonical_slug": "medaille_honneur_chemins_fer_indochine",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_CONTRIBUTIONS_INDIRECTES",
+      "canonical_slug": "medaille_honneur_contributions_indirectes",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_DOUANES",
+      "canonical_slug": "medaille_honneur_douanes",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_DOUANES_COLONIALES_FRANCAISES",
+      "canonical_slug": "medaille_honneur_douanes_coloniales_francaises",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_EAUX_FORETS",
+      "canonical_slug": "medaille_honneur_eaux_forets",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN",
+      "canonical_slug": "medaille_honneur_engagement_ultramarin",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_FORCES_PUBLIQUES_INDE",
+      "canonical_slug": "medaille_honneur_forces_publiques_inde",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_HALLES_MARCHES",
+      "canonical_slug": "medaille_honneur_halles_marches",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_MARINS_COMMERCE_PECHE",
+      "canonical_slug": "medaille_honneur_marins_commerce_peche",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 7,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_MINISTERE_COMMERCE_INDUSTRIE",
+      "canonical_slug": "medaille_honneur_ministere_commerce_industrie",
+      "original_name_candidate": "insigne",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_MINISTERE_TRAVAIL_PREVOYANCE_SOCIALE",
+      "canonical_slug": "medaille_honneur_ministere_travail_prevoyance_sociale",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_OCTROIS",
+      "canonical_slug": "medaille_honneur_octrois",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_PENITENTIAIRE_COLONIALE",
+      "canonical_slug": "medaille_honneur_penitentiaire_coloniale",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_PERSONNELS_CIVILS_MINISTERE_DEFENSE",
+      "canonical_slug": "medaille_honneur_personnels_civils_ministere_defense",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 12,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_POLICE_INDOCHINE",
+      "canonical_slug": "medaille_honneur_police_indochine",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_POLICE_NATIONALE",
+      "canonical_slug": "medaille_honneur_police_nationale",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_POSTES_TELECOMMUNICATIONS",
+      "canonical_slug": "medaille_honneur_postes_telecommunications",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 10,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_PROTECTION_JUDICIAIRE_JEUNESSE",
+      "canonical_slug": "medaille_honneur_protection_judiciaire_jeunesse",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_PTT_INDOCHINE",
+      "canonical_slug": "medaille_honneur_ptt_indochine",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_PTT_OUTRE_MER",
+      "canonical_slug": "medaille_honneur_ptt_outre-mer",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_REGIONALE_DEPARTEMENTALE_COMMUNALE",
+      "canonical_slug": "medaille_honneur_regionale_departementale_communale",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_SANTE_AFFAIRES_SOCIALES",
+      "canonical_slug": "medaille_honneur_sante_affaires_sociales",
+      "original_name_candidate": "Etoiles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_SERVICE_SANTE_ARMEES",
+      "canonical_slug": "medaille_honneur_service_sante_armees",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_SERVICES_JUDICIAIRES",
+      "canonical_slug": "medaille_honneur_services_judiciaires",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_SOCIETES_MUSICALES_CHORALES",
+      "canonical_slug": "medaille_honneur_societes_musicales_chorales",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_SYNDICATS_PROFESSIONNELS",
+      "canonical_slug": "medaille_honneur_syndicats_professionnels",
+      "original_name_candidate": "médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_TRANSPORTS_ROUTIERS",
+      "canonical_slug": "medaille_honneur_transports_routiers",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_TRAVAIL",
+      "canonical_slug": "medaille_honneur_travail",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_TRAVAIL_INDOCHINE",
+      "canonical_slug": "medaille_honneur_travail_indochine",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS",
+      "canonical_slug": "medaille_honneur_travaux_publics",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS_INDOCHINE",
+      "canonical_slug": "medaille_honneur_travaux_publics_indochine",
+      "original_name_candidate": "Médaille d’honneur des Travaux publics de l’Indochine",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HONNEUR_VOIRIE_DEPARTEMENTALE_COMMUNALE",
+      "canonical_slug": "medaille_honneur_voirie_departementale_communale",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_HYGIENE",
+      "canonical_slug": "medaille_hygiene",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_INSTRUCTION_PUBLIQUE_INDOCHINE",
+      "canonical_slug": "medaille_instruction_publique_indochine",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_JEUNESSE_SPORTS",
+      "canonical_slug": "medaille_jeunesse_sports",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 14,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MAZAGRAN",
+      "canonical_slug": "medaille_mazagran",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MEILLEUR_OUVRIER_FRANCE",
+      "canonical_slug": "medaille_meilleur_ouvrier_france",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MERITE_INDOCHINE",
+      "canonical_slug": "medaille_merite_indochine",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MERITE_TRAVAILLEURS_INDOCHINOIS",
+      "canonical_slug": "medaille_merite_travailleurs_indochinois",
+      "original_name_candidate": "Médaille du Mérite des travailleurs Indochinois",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MINES",
+      "canonical_slug": "medaille_mines",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_MINES_SARRE",
+      "canonical_slug": "medaille_mines_sarre",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_PATRIOTE_RESISTANT_OCCUPATION",
+      "canonical_slug": "medaille_patriote_resistant_occupation",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_PREVOYANCE_SOCIALE",
+      "canonical_slug": "medaille_prevoyance_sociale",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_PROTECTION_MILITAIRE_TERRITOIRE",
+      "canonical_slug": "medaille_protection_militaire_territoire",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_RECHERCHE_SCIENTIFIQUE",
+      "canonical_slug": "medaille_recherche_scientifique",
+      "original_name_candidate": "décorations",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_SAINTE_HELENE",
+      "canonical_slug": "medaille_sainte-helene",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_SECURITE_INTERIEURE",
+      "canonical_slug": "medaille_securite_interieure",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_SIEGE_ANVERS",
+      "canonical_slug": "medaille_siege_anvers",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_TOURISME",
+      "canonical_slug": "medaille_tourisme",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_TRAVAIL_MADAGASCAR_DEPENDANCES",
+      "canonical_slug": "medaille_travail_madagascar_dependances",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_VICTIMES_INVASION",
+      "canonical_slug": "medaille_victimes_invasion",
+      "original_name_candidate": "diplôme",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-INSTITUTION_MERITE_MILITAIRE",
+      "canonical_slug": "institution_merite_militaire",
+      "original_name_candidate": "plaque",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_3_TOISONS_OR",
+      "canonical_slug": "ordre_3_toisons_or",
+      "original_name_candidate": "insigne",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_ARTS_LETTRES",
+      "canonical_slug": "ordre_arts_lettres",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_CAMBODGE",
+      "canonical_slug": "ordre_cambodge",
+      "original_name_candidate": "attribué",
+      "issuer_scope": "柬埔寨王国／法国保护国时期体系（待逐页核定）",
+      "local_decoded_images": 9,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_COURONNE_FER",
+      "canonical_slug": "ordre_couronne_fer",
+      "original_name_candidate": "Insigne",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 9,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_DRAGON_ANNAM",
+      "canonical_slug": "ordre_dragon_annam",
+      "original_name_candidate": "attribué",
+      "issuer_scope": "安南帝国／法国保护国时期体系（待逐页核定）",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_ECONOMIE_NATIONALE",
+      "canonical_slug": "ordre_economie_nationale",
+      "original_name_candidate": "Commandeur",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_ETOILE_ANJOUAN",
+      "canonical_slug": "ordre_etoile_anjouan",
+      "original_name_candidate": "Plaque",
+      "issuer_scope": "昂儒昂／法国殖民体系",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_ETOILE_NOIRE",
+      "canonical_slug": "ordre_etoile_noire",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "达荷美／法国殖民体系",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_LIBERATION",
+      "canonical_slug": "ordre_liberation",
+      "original_name_candidate": "premier modèle",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_AGRICOLE",
+      "canonical_slug": "ordre_merite_agricole",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_ARTISANAL",
+      "canonical_slug": "ordre_merite_artisanal",
+      "original_name_candidate": "Étoiles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_CAMEROUN",
+      "canonical_slug": "ordre_merite_cameroun",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法属喀麦隆",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_CIVIL",
+      "canonical_slug": "ordre_merite_civil",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_COMBATTANT",
+      "canonical_slug": "ordre_merite_combattant",
+      "original_name_candidate": "Étoiles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_COMMERCIAL",
+      "canonical_slug": "ordre_merite_commercial",
+      "original_name_candidate": "étoile",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_INDOCHINOIS",
+      "canonical_slug": "ordre_merite_indochinois",
+      "original_name_candidate": "croix",
+      "issuer_scope": "法属印度支那",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_MADAGASCAR_DEPENDANCES",
+      "canonical_slug": "ordre_merite_madagascar_dependances",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法属马达加斯加及属地",
+      "local_decoded_images": 2,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_MARITIME",
+      "canonical_slug": "ordre_merite_maritime",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 5,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_MILITAIRE",
+      "canonical_slug": "ordre_merite_militaire",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_POSTAL",
+      "canonical_slug": "ordre_merite_postal",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_SAHARIEN",
+      "canonical_slug": "ordre_merite_saharien",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_SOCIAL",
+      "canonical_slug": "ordre_merite_social",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_SPORTIF",
+      "canonical_slug": "ordre_merite_sportif",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_TOURISTIQUE",
+      "canonical_slug": "ordre_merite_touristique",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_MERITE_TRAVAIL",
+      "canonical_slug": "ordre_merite_travail",
+      "original_name_candidate": "Médailles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_NATIONAL_TRAVAIL",
+      "canonical_slug": "ordre_national_travail",
+      "original_name_candidate": "Croix",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 10,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_NICHAN_EL_ANOUAR",
+      "canonical_slug": "ordre_nichan_el-anouar",
+      "original_name_candidate": "brevets",
+      "issuer_scope": "塔朱拉／法国殖民体系",
+      "local_decoded_images": 9,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_PALMES_ACADEMIQUES",
+      "canonical_slug": "ordre_palmes_academiques",
+      "original_name_candidate": "décoration",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 8,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_REUNION",
+      "canonical_slug": "ordre_reunion",
+      "original_name_candidate": "Étoiles",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_SAINT_LOUIS",
+      "canonical_slug": "ordre_saint_louis",
+      "original_name_candidate": "plaque en broderie",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 6,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_SANTE_PUBLIQUE",
+      "canonical_slug": "ordre_sante_publique",
+      "original_name_candidate": "brevet",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 4,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-ORDRES_CHEVALERIE-ORDRE_TAHITI_NUI",
+      "canonical_slug": "ordre_tahiti_nui",
+      "original_name_candidate": "Grand maître",
+      "issuer_scope": "法属波利尼西亚",
+      "local_decoded_images": 14,
+      "status": "unresolved_difference_candidate"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "新加坡共和国",
+  "records": [
+    {
+      "id": "SGP-AWARD-SAF-GOOD-SERVICE-MEDALBOOK",
+      "family": "SGP-AWARD-SAF-GOOD-SERVICE",
+      "country_zh": "新加坡共和国",
+      "name": "新加坡武装部队良好服务奖章",
+      "original": "Singapore Armed Forces Good Service Medal",
+      "date": "设立时间待考",
+      "variant": "五年良好服务章",
+      "views": [
+        {
+          "key": "SGP-AWARD-SAF-GOOD-SERVICE-MEDALBOOK-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-singapore-d01bae6d85e7da4c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK",
+      "family": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT",
+      "country_zh": "新加坡共和国",
+      "name": "新加坡武装部队长期服务与品行优良奖章",
+      "original": "Singapore Armed Forces Long Service and Good Conduct Medal",
+      "date": "设立时间待考",
+      "variant": "十二年服务章；正背",
+      "views": [
+        {
+          "key": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-singapore-f3858ce2595c731b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK",
+      "family": "SGP-AWARD-POLICE-GOOD-SERVICE",
+      "country_zh": "新加坡共和国",
+      "name": "新加坡警察良好服务奖章",
+      "original": "Singapore Police Service Good Service Medal",
+      "date": "1994年设立；2004年修订",
+      "variant": "五年良好服务章；2004年铭文修订型；正背",
+      "views": [
+        {
+          "key": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-singapore-c2434584c0b9e5c0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

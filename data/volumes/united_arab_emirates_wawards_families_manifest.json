@@ -1,0 +1,604 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "are-wawards-order_of_zayed-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_ZAYED-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_ZAYED-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-zayed.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-zayed.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65701,
+      "sha256": "1095eb4c1f43c7174eec987c0c1b16c21802dd188c244d330787f2f4e4985a89",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_the_union-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_THE_UNION-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_THE_UNION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-the-union.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-the-union.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51266,
+      "sha256": "e94b5a3f9637db26524004e981e8e997e3429274bc868a894549a302d1f8a2a8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_independence-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_INDEPENDENCE-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_INDEPENDENCE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-independence.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-independence.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75686,
+      "sha256": "a88d5667e5e8c4fbc86f2d44cd1838e50f8625fe3b1c1fc61dd48738e3bbffe6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_zayed_ii-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_ZAYED_II-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_ZAYED_II-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-zayed-ii.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-zayed-ii.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/15/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64923,
+      "sha256": "f1d9a7cb26456137afc4a7ef19655f80df92c11cbd8963dc42f7194f050f1832",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-loyal_service_medal_of_the_trucial_oman_scouts-representative-image",
+      "record_id": "ARE-WAWARDS-LOYAL_SERVICE_MEDAL_OF_THE_TRUCIAL_OMAN_SCOUTS-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-LOYAL_SERVICE_MEDAL_OF_THE_TRUCIAL_OMAN_SCOUTS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/loyal-service-medal-of-the-trucial-oman-scouts.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/loyal-service-medal-of-the-trucial-oman-scouts.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/3/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 109157,
+      "sha256": "ff0f86225ca520ab03caaa9a85c20a8409d40683be0397357f4de350fd00ff08",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-faithful_service_medal-representative-image",
+      "record_id": "ARE-WAWARDS-FAITHFUL_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-FAITHFUL_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/faithful-service-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/faithful-service-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56977,
+      "sha256": "9e90d4dac3d8cfc5e20caed41edcef182993342ce4724622aef4c12ea9faf29d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-union_defense_force_gallantry_medal-representative-image",
+      "record_id": "ARE-WAWARDS-UNION_DEFENSE_FORCE_GALLANTRY_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-UNION_DEFENSE_FORCE_GALLANTRY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/union-defense-force-gallantry-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/union-defense-force-gallantry-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60397,
+      "sha256": "3a58e1304502ec4d2821d9ef36d8462f4e2ec3f0296aecb3fd8a5f877de946c2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-union_defense_force_loyal_service_medal-representative-image",
+      "record_id": "ARE-WAWARDS-UNION_DEFENSE_FORCE_LOYAL_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-UNION_DEFENSE_FORCE_LOYAL_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/union-defense-force-loyal-service-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/union-defense-force-loyal-service-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74051,
+      "sha256": "5c150864568ea2555258e98a91eeaa614f6a076af43beebded217952d628ff65",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-independence_40th_anniversary_medal-representative-image",
+      "record_id": "ARE-WAWARDS-INDEPENDENCE_40TH_ANNIVERSARY_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-INDEPENDENCE_40TH_ANNIVERSARY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/independence-40th-anniversary-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/independence-40th-anniversary-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/28/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58766,
+      "sha256": "163efa0d4cf85bc40cb6559b9b6b5d8416bc51da306a33d7a5591bd6eb84bd03",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-emirates_military_order-representative-image",
+      "record_id": "ARE-WAWARDS-EMIRATES_MILITARY_ORDER-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-EMIRATES_MILITARY_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/emirates-military-order.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/emirates-military-order.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52049,
+      "sha256": "20f64fd21a4cdb556c9a3e80633545783ec59e1f6a8b53e921fcc6553ef02e0b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-bravery_medal-representative-image",
+      "record_id": "ARE-WAWARDS-BRAVERY_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-BRAVERY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/bravery-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/bravery-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70485,
+      "sha256": "26968969d1d617c809f8e538a5e2fcc2062e0206dafeec4478bdc448b1353dad",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-distinguished_service_medal-representative-image",
+      "record_id": "ARE-WAWARDS-DISTINGUISHED_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-DISTINGUISHED_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/distinguished-service-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/distinguished-service-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55888,
+      "sha256": "b7d9eeed03a9b051b10ae2bb5eaeebaf5842df9523c3e1ba48e21417bc8292a7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-gulf_cooperation_decoration-representative-image",
+      "record_id": "ARE-WAWARDS-GULF_COOPERATION_DECORATION-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-GULF_COOPERATION_DECORATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/gulf-cooperation-decoration.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/gulf-cooperation-decoration.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 79076,
+      "sha256": "c884a5df875bab38e25794263352eebb5a54e84df534848256ff558e6748bafd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-long_service_and_good_conduct_medal-representative-image",
+      "record_id": "ARE-WAWARDS-LONG_SERVICE_AND_GOOD_CONDUCT_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-LONG_SERVICE_AND_GOOD_CONDUCT_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/long-service-and-good-conduct-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/long-service-and-good-conduct-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67942,
+      "sha256": "e09d27bb5f9368622f1acec55879d2baa28cf50ce785d0e8f43438a72bb9c8c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-wound_medal-representative-image",
+      "record_id": "ARE-WAWARDS-WOUND_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-WOUND_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/wound-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/wound-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 100150,
+      "sha256": "db24ef1bf1e8865deeaa66d67b46b7c693b91b245121291103fd43f4fa261c72",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-lebanese_peace_keeping_force_medal-representative-image",
+      "record_id": "ARE-WAWARDS-LEBANESE_PEACE_KEEPING_FORCE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-LEBANESE_PEACE_KEEPING_FORCE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/lebanese-peace-keeping-force-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/lebanese-peace-keeping-force-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/21/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 86718,
+      "sha256": "81d6d0e150fa7cf3835d4998daeecadd169526c26a1d493e4e05a1e67db2087f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-liberation_of_kuwait_medal-representative-image",
+      "record_id": "ARE-WAWARDS-LIBERATION_OF_KUWAIT_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-LIBERATION_OF_KUWAIT_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/liberation-of-kuwait-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/liberation-of-kuwait-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/22/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63292,
+      "sha256": "bfd69f3d4325f00391809bf2795dcb506a49782fffb07959134ca678f2d5e8e6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-somalia_peace_keeping_force_medal-representative-image",
+      "record_id": "ARE-WAWARDS-SOMALIA_PEACE_KEEPING_FORCE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-SOMALIA_PEACE_KEEPING_FORCE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/somalia-peace-keeping-force-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/somalia-peace-keeping-force-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/23/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51895,
+      "sha256": "705c12a560b3eb96922f0c36638d0b336f8ece967b376e73a211e3219ebabc73",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-independence_first_anniversary_medal-representative-image",
+      "record_id": "ARE-WAWARDS-INDEPENDENCE_FIRST_ANNIVERSARY_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-INDEPENDENCE_FIRST_ANNIVERSARY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/independence-first-anniversary-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/independence-first-anniversary-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/24/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35895,
+      "sha256": "ac14cc2493c7fedf2efb3233e0bbb4541a82fb757bbb3887acae6de66ebe7147",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-armed_forces_amalgamation_medal-representative-image",
+      "record_id": "ARE-WAWARDS-ARMED_FORCES_AMALGAMATION_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ARMED_FORCES_AMALGAMATION_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/armed-forces-amalgamation-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/armed-forces-amalgamation-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/25/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74217,
+      "sha256": "6243e0e5b2feebedf8f4e91e78c5257c09c64cc2ecb27dd69618d0c2976b46c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-independence_15th_anniversary_medal-representative-image",
+      "record_id": "ARE-WAWARDS-INDEPENDENCE_15TH_ANNIVERSARY_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-INDEPENDENCE_15TH_ANNIVERSARY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/independence-15th-anniversary-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/independence-15th-anniversary-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36881,
+      "sha256": "626940c0377a456abc878185a4741653cfcef3c6271e769c1a9fed143749eb60",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-25th_anniversary_of_the_armed_forces_medal-representative-image",
+      "record_id": "ARE-WAWARDS-25TH_ANNIVERSARY_OF_THE_ARMED_FORCES_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-25TH_ANNIVERSARY_OF_THE_ARMED_FORCES_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/25th-anniversary-of-the-armed-forces-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/25th-anniversary-of-the-armed-forces-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/26/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57923,
+      "sha256": "16fe35bf039f95da1c5fd761aeefaa5e20bb577f8ffe9792cc4f2f262ebaee1e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-medal_for_military_operations_abroad-representative-image",
+      "record_id": "ARE-WAWARDS-MEDAL_FOR_MILITARY_OPERATIONS_ABROAD-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-MEDAL_FOR_MILITARY_OPERATIONS_ABROAD-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/medal-for-military-operations-abroad.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/medal-for-military-operations-abroad.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/35/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53779,
+      "sha256": "5647f2cf0ffa78e94041f429e3dd8dc787d517ea9e7af6218907d783b1f4b9f3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_superiority-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_SUPERIORITY-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_SUPERIORITY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-superiority.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-superiority.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/30/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 73860,
+      "sha256": "37dc980a8a2c0fca85a3efc61101c3a21999214724e68d55d2b78f25ddc2f61b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_loyalty-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_LOYALTY-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_LOYALTY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-loyalty.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-loyalty.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/29/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 83846,
+      "sha256": "7a563b9b754db49c9a4a7e38d7a8f049b1c1a021912674378ab5a36b166aa09c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-royal_order_of_ai_nahyan-representative-image",
+      "record_id": "ARE-WAWARDS-ROYAL_ORDER_OF_AI_NAHYAN-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ROYAL_ORDER_OF_AI_NAHYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/royal-order-of-ai-nahyan.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/royal-order-of-ai-nahyan.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65764,
+      "sha256": "f3da8d1605d948ae9e5a12a6a59eb29b70f4bd1a6f66e86a8ff2612fd0ef44da",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-abu_dhabi_defense_force_inauguration_medal-representative-image",
+      "record_id": "ARE-WAWARDS-ABU_DHABI_DEFENSE_FORCE_INAUGURATION_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ABU_DHABI_DEFENSE_FORCE_INAUGURATION_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/abu-dhabi-defense-force-inauguration-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/abu-dhabi-defense-force-inauguration-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/8/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81441,
+      "sha256": "fd3d29c202f1e98222f5c68716f31f89ea72502090b5b9da00a75402798d0827",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-abu_dhabi_defense_force_service_order-representative-image",
+      "record_id": "ARE-WAWARDS-ABU_DHABI_DEFENSE_FORCE_SERVICE_ORDER-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ABU_DHABI_DEFENSE_FORCE_SERVICE_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/abu-dhabi-defense-force-service-order.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/abu-dhabi-defense-force-service-order.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 79817,
+      "sha256": "5100e6d9b34e444617b0a038924543b6c367c48cc3f17182d1ba86a6ae406e4e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-abu_dhabi_police_accession_medal-representative-image",
+      "record_id": "ARE-WAWARDS-ABU_DHABI_POLICE_ACCESSION_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ABU_DHABI_POLICE_ACCESSION_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/abu-dhabi-police-accession-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/abu-dhabi-police-accession-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/36/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77156,
+      "sha256": "0328dde8943c4ac73b2b8605c313310456fccebc7769b55c578630715137f9b5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-dubai_defense_force_service_medal-representative-image",
+      "record_id": "ARE-WAWARDS-DUBAI_DEFENSE_FORCE_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-DUBAI_DEFENSE_FORCE_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/dubai-defense-force-service-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/dubai-defense-force-service-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65104,
+      "sha256": "cc2a48ad194e09927313c8e0a32533f06601463e2df3a36f7a4fad035aee6c57",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-dubai_police_order_of_gallantry-representative-image",
+      "record_id": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_GALLANTRY-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_GALLANTRY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/dubai-police-order-of-gallantry.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/dubai-police-order-of-gallantry.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/31/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42554,
+      "sha256": "faeeabc21b832f1dda24dbe9ab8c6ed86e5f3e431527cba89e6bff7ec8f9f4e4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-dubai_police_order_of_superiority-representative-image",
+      "record_id": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_SUPERIORITY-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_SUPERIORITY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/dubai-police-order-of-superiority.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/dubai-police-order-of-superiority.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/32/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74847,
+      "sha256": "33a7015d93f50f181f3bca5b993085da75b1b46fb53586f74bd16ce13bcab424",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-dubai_police_order_of_faithful_service-representative-image",
+      "record_id": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_FAITHFUL_SERVICE-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-DUBAI_POLICE_ORDER_OF_FAITHFUL_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/dubai-police-order-of-faithful-service.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/dubai-police-order-of-faithful-service.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/33/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57333,
+      "sha256": "69654cf41f5eeeea9a16d34dc679cba6577031c44ea3fb381258b80a9a59d46a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-order_of_the_tower_of_qassimi-representative-image",
+      "record_id": "ARE-WAWARDS-ORDER_OF_THE_TOWER_OF_QASSIMI-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-ORDER_OF_THE_TOWER_OF_QASSIMI-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/order-of-the-tower-of-qassimi.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/order-of-the-tower-of-qassimi.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 88396,
+      "sha256": "83bcdcf0cc5dff69a442be8417be5e2f0038b9d6c2893ca6e07a7c635abefe33",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "are-wawards-ajman_police_medal-representative-image",
+      "record_id": "ARE-WAWARDS-AJMAN_POLICE_MEDAL-REPRESENTATIVE",
+      "view_key": "ARE-WAWARDS-AJMAN_POLICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_united_arab_emirates/ajman-police-medal.jpg",
+      "source_page": "https://wawards.org/united-arab-emirates/ajman-police-medal.html",
+      "image_url": "https://wawards.org/images/unitedarabemirates/34/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57220,
+      "sha256": "a40d9a6879b1163a5c0bf31f2658b4213910f1ea311d3208de92df568c757b27",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; additional source images remain cached for grade and reverse expansion."
+  ]
+}

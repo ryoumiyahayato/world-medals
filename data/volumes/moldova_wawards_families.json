@@ -1,0 +1,246 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "摩尔多瓦共和国",
+  "records": [
+    {
+      "id": "MDA-WA-ORDER_OF_REPUBLIC-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_REPUBLIC",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "共和国勋章",
+      "original": "Order of Republic",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_REPUBLIC-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-001"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-ORDER_OF_STEVEN_THE_GREAT-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_STEVEN_THE_GREAT",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "斯特凡大帝勋章",
+      "original": "Order of Steven the Great",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_STEVEN_THE_GREAT-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-002"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-ORDER_OF_BOGDAN_THE_FOUNDER-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_BOGDAN_THE_FOUNDER",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "建国者博格丹勋章",
+      "original": "Order of Bogdan the Founder",
+      "date": "2008年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_BOGDAN_THE_FOUNDER-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-003"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-ORDER_OF_HONOUR-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_HONOUR",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "荣誉勋章",
+      "original": "Order of Honour",
+      "date": "2002年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_HONOUR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-004"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-ORDER_OF_WORK_GLORY-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_WORK_GLORY",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "劳动光荣勋章",
+      "original": "Order of Work Glory",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_WORK_GLORY-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-005"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-ORDER_OF_LOYALTY_TO_THE_MOTHERLAND-REPRESENTATIVE",
+      "family": "MDA-WA-ORDER_OF_LOYALTY_TO_THE_MOTHERLAND",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "忠于祖国勋章",
+      "original": "Order of Loyalty to the Motherland",
+      "date": "2004年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-ORDER_OF_LOYALTY_TO_THE_MOTHERLAND-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-006"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-MILITARY_MERIT_MEDAL-REPRESENTATIVE",
+      "family": "MDA-WA-MILITARY_MERIT_MEDAL",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "军事功绩奖章",
+      "original": "Military Merit Medal",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-MILITARY_MERIT_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-007"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "family": "MDA-WA-MEDAL_FOR_BRAVERY",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "英勇奖章",
+      "original": "Medal for Bravery",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-008"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-CIVIL_MERIT_MEDAL-REPRESENTATIVE",
+      "family": "MDA-WA-CIVIL_MERIT_MEDAL",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "公民功绩奖章",
+      "original": "Civil Merit Medal",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-CIVIL_MERIT_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-009"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-MIHAI_EMINESCU_MEDAL-REPRESENTATIVE",
+      "family": "MDA-WA-MIHAI_EMINESCU_MEDAL",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "米哈伊·埃米内斯库奖章",
+      "original": "Mihai Eminescu Medal",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-MIHAI_EMINESCU_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-010"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-NICOLAE_TESTEMITANU_MEDAL-REPRESENTATIVE",
+      "family": "MDA-WA-NICOLAE_TESTEMITANU_MEDAL",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "尼古拉·泰斯特米察努奖章",
+      "original": "Nicolae Testemitanu Medal",
+      "date": "1992年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-NICOLAE_TESTEMITANU_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-011"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "MDA-WA-THE_SECOND_WORLD_WAR_MEMORIAL_CROSS-REPRESENTATIVE",
+      "family": "MDA-WA-THE_SECOND_WORLD_WAR_MEMORIAL_CROSS",
+      "country_zh": "摩尔多瓦共和国",
+      "name": "第二次世界大战纪念十字章",
+      "original": "The Second World War Memorial Cross",
+      "date": "2010年设立／纪年",
+      "variant": "World Awards对象页所示完整章体；具体等级待考",
+      "views": [
+        {
+          "key": "MDA-WA-THE_SECOND_WORLD_WAR_MEMORIAL_CROSS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-moldova-012"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    }
+  ]
+}

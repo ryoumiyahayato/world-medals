@@ -1,0 +1,122 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "以 Orders, decorations, and medals of the Soviet Union 当前总表的全部带名图片表行为候选全集；剔除已正式落盘的24个family，对剩余family批量取得Commons文件页原图。",
+  "unresolved_or_excluded": [
+    {
+      "family": "USSR-HON-01",
+      "file_title": "Marshal-Star big1.jpg",
+      "reason": "exact image payload already present; duplicate not added"
+    },
+    {
+      "family": "USSR-HON-02",
+      "file_title": "Hero of the USSR Gold Star.png",
+      "reason": "exact image payload already present; duplicate not added"
+    },
+    {
+      "family": "USSR-HON-03",
+      "file_title": "Sickle and Hammer.jpg",
+      "reason": "exact image payload already present; duplicate not added"
+    },
+    {
+      "family": "USSR-HON-04",
+      "file_title": "Заслуженный летчик-испытатель СССР.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-05",
+      "file_title": "Заслуженный Штурман-Испытаетль.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-06",
+      "file_title": "Pilot-Cosmonaut of the USSR.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-07",
+      "file_title": "Distinguished Military Pilot Of The Soviet Union.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-08",
+      "file_title": "Distinguished Military Navigator Of The Soviet Union.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-09",
+      "file_title": "Distinguished Pilot Of The Soviet Union.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-10",
+      "file_title": "Zasl Shturman USSR.png",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-11",
+      "file_title": "Distinguished Inventor Of The Soviet Union.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-12",
+      "file_title": "People's Doctor of the Soviet Union.png",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-13",
+      "file_title": "People's Architect of the USSR.png",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-14",
+      "file_title": "People's teacher of the Soviet Union.png",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-15",
+      "file_title": "People Artist of the USSR1.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-HON-16",
+      "file_title": "Народный художник СССР.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-ORD-06",
+      "file_title": "Орден Кутузова I.jpg",
+      "reason": "exact image payload already present; duplicate not added"
+    },
+    {
+      "family": "USSR-MED-55",
+      "file_title": "MBezuprSlA.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-MED-55",
+      "file_title": "USSR15yearsofservice.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-MED-55",
+      "file_title": "MBezuprSlC.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-MED-40",
+      "file_title": "100 years Lenin OBVERSE.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-MED-40",
+      "file_title": "100 years Lenin OBVERSE.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    },
+    {
+      "family": "USSR-MED-40",
+      "file_title": "100 years Lenin OBVERSE.jpg",
+      "reason": "alternate awards.wiki page has no mapped complete object image; Commons CDN rate-limited, retained as unresolved candidate"
+    }
+  ],
+  "note": "未通过完整图、可解码或重复校验的候选不进入正文记录。"
+}

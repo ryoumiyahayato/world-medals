@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "emedals_sudan_batch3",
+  "status": "completed_bounded_item_batch",
+  "item": "M0620-10",
+  "title": "Two Orders and Decorations",
+  "product_url": "https://www.emedals.com/products/two-orders-and-decorations-m0620-10",
+  "description": "1. An Order of Civil Accomplishment, by Spink &amp; Son of London - A large medal constructed of gilded bronze and multi-coloured enamels, consisting of a hexagonal award with a central white enameled hexagonal medallion bearing writing in Arabic, with a semi-circular shape bearing green enameled and gilt outward-pointing lines in the background, suspended from a polished medallion bearing a Emblem of the country from its period original sewn-on ribbon, measuring 96.3 mm (w) x 96.2 mm (l), extremely fine. 2. An Order of Political Accomplishment - Unmarked however also likely to be of Enlgish manufacture, in silver with black enamles, featuring a large centre gilt disc adorned by national colours, measuring 10 cm x 12 cm (h - inclusive of suspension with bar), extremely fine.",
+  "images_downloaded_and_decoded": 3,
+  "local_raw_images": [
+    "assets/raw/sudan_emedals/M0620-10_01.jpg",
+    "assets/raw/sudan_emedals/M0620-10_02.jpg",
+    "assets/raw/sudan_emedals/M0620-10_03.jpg"
+  ],
+  "formal_rows_added": 2,
+  "formal_complete_views_added": 4,
+  "new_families_added": 0,
+  "notes": "Civil Accomplishment and Political Accomplishment are existing families; each complete object was cropped from the shared front and reverse group photographs while originals were preserved."
+}

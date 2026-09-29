@@ -1,0 +1,832 @@
+{
+  "as_of": "2026-09-28",
+  "volume_id": "czech_slovak_fast_2026-09-28",
+  "scope": "Czechoslovakia (historical), Czech Republic and Slovakia formal award systems; first pictured differential pack",
+  "source_boundary": "WMI complete visible text lists plus official Prague Castle/Czech MoD and Slovak President/MoD headings; Commons exact file pages for selected object images",
+  "records": [
+    {
+      "id": "CSK-WL-SWORDS-01",
+      "family": "CSK-ORDER-WHITE-LION",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1918–1948",
+      "name": "白狮勋章",
+      "original": "Řád bílého lva / Order of the White Lion",
+      "date": "1922",
+      "variant": "大十字军用带剑挂章；Tallinn Museum of Orders实物",
+      "views": [
+        {
+          "key": "csk-csk_wl_swords",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_wl_swords"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of the White Lion grand cross with swords badge (Czechoslovakia 1922-1948) - Tallinn Museum of Orders.jpg"
+    },
+    {
+      "id": "CSK-FALCON-01",
+      "family": "CSK-ORDER-FALCON",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1918–1938",
+      "name": "鹰勋章",
+      "original": "Řád sokola / Order of the Falcon",
+      "date": "1919",
+      "variant": "单一型挂章；完整章体与悬挂结构",
+      "views": [
+        {
+          "key": "csk-csk_falcon",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_falcon"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Falconorder.jpg"
+    },
+    {
+      "id": "CSK-WAR-CROSS-1918-01",
+      "family": "CSK-WAR-CROSS-1918",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1918–1948",
+      "name": "捷克斯洛伐克战争十字章",
+      "original": "Československý válečný kříž 1914–1918 / Czechoslovak War Cross 1918",
+      "date": "1918",
+      "variant": "1918版；完整十字章与悬挂件",
+      "views": [
+        {
+          "key": "csk-csk_war_cross_1918",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_war_cross_1918"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Czechoslovak War Cross 1918.jpg"
+    },
+    {
+      "id": "CSK-WAR-CROSS-1939-01",
+      "family": "CSK-WAR-CROSS-1939",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1939–1945流亡政府",
+      "name": "捷克斯洛伐克战争十字章",
+      "original": "Československý válečný kříž 1939 / Czechoslovak War Cross 1939–1945",
+      "date": "1940",
+      "variant": "1939版；完整十字章",
+      "views": [
+        {
+          "key": "csk-csk_war_cross_1939",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_war_cross_1939"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Czechoslovak War Cross 1939-1945.PNG"
+    },
+    {
+      "id": "CSK-BRAVERY-ENEMY-01",
+      "family": "CSK-MEDAL-BRAVERY",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1945–1948",
+      "name": "对敌英勇奖章",
+      "original": "Československá medaile Za chrabrost před nepřítelem / Czechoslovak Medal for Bravery before the Enemy",
+      "date": "1945",
+      "variant": "完整佩戴章；正面",
+      "views": [
+        {
+          "key": "csk-csk_bravery_enemy",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_bravery_enemy"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Czechoslovak Medal for Bravery before the Enemy.jpg"
+    },
+    {
+      "id": "CSK-MIL-ORDER-LIBERTY-01",
+      "family": "CSK-MIL-ORDER-LIBERTY",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1945–1948",
+      "name": "军事自由勋章",
+      "original": "Československý vojenský řád Za svobodu / Czechoslovak Military Order for Liberty",
+      "date": "1945",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-csk_mil_order_liberty",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_mil_order_liberty"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Czechoslovak Military Order for Liberty.jpg"
+    },
+    {
+      "id": "CSK-WL-VICTORY-STAR-01",
+      "family": "CSK-MIL-WHITE-LION-VICTORY",
+      "country_zh": "捷克斯洛伐克",
+      "period_scope": "1945–1948",
+      "name": "白狮军事勋章（胜利）",
+      "original": "Vojenský řád bílého lva Za vítězství / Military Order of the White Lion for Victory",
+      "date": "1945",
+      "variant": "胸星；完整星章",
+      "views": [
+        {
+          "key": "csk-csk_wl_victory_star",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-csk_wl_victory_star"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Ster van de Militaire Orde van de Witte Leeuw voor de Overwinning 1945.jpg"
+    },
+    {
+      "id": "CSSR-GOLD-STAR-HERO-01",
+      "family": "CSSR-GOLD-STAR-HERO",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "社会主义共和国英雄金星",
+      "original": "Zlatá hvězda hrdiny ČSSR / Gold Star of Hero of the CSSR",
+      "date": "1955",
+      "variant": "金星奖章；完整章体",
+      "views": [
+        {
+          "key": "csk-cssr_gold_star_hero",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_gold_star_hero"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Gold Star Hero CSSR.png"
+    },
+    {
+      "id": "CSSR-KLEMENT-GOTTWALD-01",
+      "family": "CSSR-ORDER-KLEMENT-GOTTWALD",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "克莱门特·哥特瓦尔德勋章",
+      "original": "Řád Klementa Gottwalda / Order of Klement Gottwald",
+      "date": "1953",
+      "variant": "挂章正面；Tallinn Museum of Orders实物",
+      "views": [
+        {
+          "key": "csk-cssr_klement_gottwald",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_klement_gottwald"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of Klement Gottwald badge obverse (Czechoslovakia 1955-1960) - Tallinn Museum of Orders.jpg"
+    },
+    {
+      "id": "CSSR-FRIENDSHIP-01",
+      "family": "CSSR-ORDER-FRIENDSHIP",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "友谊勋章",
+      "original": "Řád přátelství / Order of Friendship",
+      "date": "1976",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_friendship",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_friendship"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of Friendship (CSSR) 1.png"
+    },
+    {
+      "id": "CSSR-LABOUR-ORDER-01",
+      "family": "CSSR-ORDER-LABOUR",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "劳动勋章",
+      "original": "Řád práce / Order of Labour",
+      "date": "1951",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_labour_order",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_labour_order"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of Labor (CSSR).png"
+    },
+    {
+      "id": "CSSR-SLOVAK-UPRISING-II-01",
+      "family": "CSSR-ORDER-SNP",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "斯洛伐克民族起义勋章",
+      "original": "Řád Slovenského národního povstání / Order of the Slovak National Uprising",
+      "date": "1945",
+      "variant": "二等；正背同件",
+      "views": [
+        {
+          "key": "csk-cssr_slovak_uprising_ii",
+          "label": "正面"
+        },
+        {
+          "key": "csk-cssr_slovak_uprising_ii_back",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_slovak_uprising_ii",
+        "commons-cssr_slovak_uprising_ii_back"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of the Slovak National Uprising 2 kl.jpg; 同一版型背面已配对，未另计新行。"
+    },
+    {
+      "id": "CSSR-VICTORIOUS-FEBRUARY-01",
+      "family": "CSSR-ORDER-VICTORIOUS-FEBRUARY",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "胜利二月勋章",
+      "original": "Řád Vítězného února / Order of Victorious February",
+      "date": "1949",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_victorious_february",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_victorious_february"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order victory in February.jpg"
+    },
+    {
+      "id": "CSSR-SOCIALISM-01",
+      "family": "CSSR-ORDER-SOCIALISM",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "社会主义勋章",
+      "original": "Řád socialismu / Order of Socialism",
+      "date": "1951",
+      "variant": "正面；完整实物",
+      "views": [
+        {
+          "key": "csk-cssr_socialism",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_socialism"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Rad socialismu avers.jpg"
+    },
+    {
+      "id": "CSSR-RED-BANNER-01",
+      "family": "CSSR-ORDER-RED-BANNER",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "红旗勋章",
+      "original": "Řád rudé zástavy / Order of the Red Banner",
+      "date": "1955",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_red_banner",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_red_banner"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Red Banner CSSR.png"
+    },
+    {
+      "id": "CSSR-RED-STAR-01",
+      "family": "CSSR-ORDER-RED-STAR",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "红星勋章",
+      "original": "Řád rudé hvězdy / Order of the Red Star",
+      "date": "1955",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_red_star",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_red_star"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Red star CSSR.png"
+    },
+    {
+      "id": "CSSR-RED-BANNER-LABOUR-01",
+      "family": "CSSR-ORDER-RED-BANNER-LABOUR",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "劳动红旗勋章",
+      "original": "Řád rudé zástavy práce / Order of the Red Banner of Labour",
+      "date": "1955",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_red_banner_labour",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_red_banner_labour"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of the Red Banner of Labour.jpg"
+    },
+    {
+      "id": "CSSR-RED-STAR-LABOUR-01",
+      "family": "CSSR-ORDER-RED-STAR-LABOUR",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "劳动红星勋章",
+      "original": "Řád rudé hvězdy práce / Order of the Red Star of Labour",
+      "date": "1955",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_red_star_labour",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_red_star_labour"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Order of the Red Star of Labour.jpg"
+    },
+    {
+      "id": "CSSR-DEVOTION-WORK-01",
+      "family": "CSSR-DECORATION-DEVOTION-WORK",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "忠于社会主义劳动奖章",
+      "original": "Medaile Za obětavou práci pro socialismus / Medal for Devoted Work for Socialism",
+      "date": "1953",
+      "variant": "完整奖章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_devotion_work",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_devotion_work"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Decoration for Devotion to Work.jpg"
+    },
+    {
+      "id": "CSSR-LOYAL-WORK-01",
+      "family": "CSSR-DECORATION-LOYAL-WORK",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "忠诚劳动奖章",
+      "original": "Vyznamenání Za pracovní věrnost / Decoration for Loyal Work",
+      "date": "1951",
+      "variant": "完整奖章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_loyal_work",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_loyal_work"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Decoration for Loyal Work.jpg"
+    },
+    {
+      "id": "CSSR-COMENIUS-01",
+      "family": "CSSR-COMENIUS-MEDAL",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "夸美纽斯奖章",
+      "original": "Medaile Jana Amose Komenského / Medal of J. A. Comenius",
+      "date": "1953",
+      "variant": "完整圆章；正面",
+      "views": [
+        {
+          "key": "csk-cssr_comenius",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_comenius"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: ComeniusMedal1953 1.png"
+    },
+    {
+      "id": "CSSR-ARMY-MERIT-I-01",
+      "family": "CSSR-MEDAL-MERIT-CSLA",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "捷克斯洛伐克人民军功绩奖章",
+      "original": "Medaile Za zásluhy o Československou lidovou armádu / Medal for Merit to the Czechoslovak People’s Army",
+      "date": "1955",
+      "variant": "一等；完整圆章",
+      "views": [
+        {
+          "key": "csk-cssr_army_merit_i",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_army_merit_i"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: CZ Medal Za zasluhy o CSLA 1kl.png"
+    },
+    {
+      "id": "CSSR-ARMY-MERIT-II-01",
+      "family": "CSSR-MEDAL-MERIT-CSLA",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "捷克斯洛伐克人民军功绩奖章",
+      "original": "Medaile Za zásluhy o Československou lidovou armádu / Medal for Merit to the Czechoslovak People’s Army",
+      "date": "1955",
+      "variant": "二等；完整圆章",
+      "views": [
+        {
+          "key": "csk-cssr_army_merit_ii",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_army_merit_ii"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: CZ Medal Za zasluhy o CSLA 2kl.png"
+    },
+    {
+      "id": "CSSR-ARMY-MERIT-III-01",
+      "family": "CSSR-MEDAL-MERIT-CSLA",
+      "country_zh": "捷克斯洛伐克社会主义共和国",
+      "period_scope": "1948–1989",
+      "name": "捷克斯洛伐克人民军功绩奖章",
+      "original": "Medaile Za zásluhy o Československou lidovou armádu / Medal for Merit to the Czechoslovak People’s Army",
+      "date": "1955",
+      "variant": "三等；完整圆章",
+      "views": [
+        {
+          "key": "csk-cssr_army_merit_iii",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cssr_army_merit_iii"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: CZ Medal Za zasluhy o CSLA 3kl.png"
+    },
+    {
+      "id": "CZE-HEROISM-01",
+      "family": "CZE-MEDAL-HEROISM",
+      "country_zh": "捷克共和国",
+      "period_scope": "1993–今",
+      "name": "英勇奖章",
+      "original": "Medaile Za hrdinství / Medal for Heroism",
+      "date": "1994",
+      "variant": "完整奖章；正面",
+      "views": [
+        {
+          "key": "csk-cze_heroism",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cze_heroism"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Tapferkeitsmedaille der Tschechischen Republik.jpg"
+    },
+    {
+      "id": "CZE-MOD-GOLD-LINDEN-01",
+      "family": "CZE-MOD-GOLD-LINDEN",
+      "country_zh": "捷克共和国",
+      "period_scope": "2008–今",
+      "name": "金色菩提树奖章",
+      "original": "Zlatá lípa / Golden Linden Decoration of the Ministry of Defence",
+      "date": "2008",
+      "variant": "完整挂章；正面",
+      "views": [
+        {
+          "key": "csk-cze_mod_gold_linden",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cze_mod_gold_linden"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Golden Linden Decoration the Ministry of Defence of the Czech Republic.jpg"
+    },
+    {
+      "id": "CZE-MOD-INJURY-01",
+      "family": "CZE-MOD-INJURY",
+      "country_zh": "捷克共和国",
+      "period_scope": "1997–今",
+      "name": "负伤奖章",
+      "original": "Medaile za zranění / Medal for Injury",
+      "date": "1997",
+      "variant": "完整奖章；正面",
+      "views": [
+        {
+          "key": "csk-cze_mod_injury",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cze_mod_injury"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Medailezazraneni.jpg"
+    },
+    {
+      "id": "CZE-DIPLOMACY-EN-01",
+      "family": "CZE-DIPLOMACY-MEDAL",
+      "country_zh": "捷克共和国",
+      "period_scope": "1998–今",
+      "name": "外交功绩奖章",
+      "original": "Medal for Services to Diplomacy",
+      "date": "待考",
+      "variant": "完整章体照片；正面",
+      "views": [
+        {
+          "key": "csk-cze_diplomacy_en",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-cze_diplomacy_en"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Distinguished Contribution to Diplomacy Medal.jpg"
+    },
+    {
+      "id": "SVK-HLINKA-I-01",
+      "family": "SVK-ORDER-HLINKA",
+      "country_zh": "斯洛伐克共和国",
+      "period_scope": "1993–今",
+      "name": "安德烈·赫林卡勋章",
+      "original": "Rad Andreja Hlinku / Order of Andrej Hlinka",
+      "date": "1993",
+      "variant": "一等；完整挂章",
+      "views": [
+        {
+          "key": "csk-svk_hlinka_i",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-svk_hlinka_i"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Rad Andreja Hlinku 1- triedy.jpg"
+    },
+    {
+      "id": "SVK-PRIBINA-II-01",
+      "family": "SVK-CROSS-PRIBINA",
+      "country_zh": "斯洛伐克共和国",
+      "period_scope": "1993–今",
+      "name": "普里比纳十字章",
+      "original": "Pribinov kríž / Pribina Cross",
+      "date": "1993",
+      "variant": "二等；完整挂章",
+      "views": [
+        {
+          "key": "csk-svk_pribina_ii",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-svk_pribina_ii"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Pribinov kriz 2 triedy.jpg"
+    },
+    {
+      "id": "SVK-PRIBINA-III-01",
+      "family": "SVK-CROSS-PRIBINA",
+      "country_zh": "斯洛伐克共和国",
+      "period_scope": "1993–今",
+      "name": "普里比纳十字章",
+      "original": "Pribinov kríž / Pribina Cross",
+      "date": "1993",
+      "variant": "三等；完整挂章",
+      "views": [
+        {
+          "key": "csk-svk_pribina_iii",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-svk_pribina_iii"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Pribinov kriz 3 triedy.jpg"
+    },
+    {
+      "id": "SVK1939-WW-CROSS-I-01",
+      "family": "SVK1939-WORLD-WAR-CROSS",
+      "country_zh": "斯洛伐克国（历史政体）",
+      "period_scope": "1939–1944",
+      "name": "世界大战十字章",
+      "original": "Pamätný kríž svetovej vojny / World War Cross",
+      "date": "1939–1944",
+      "variant": "一等；完整十字章",
+      "views": [
+        {
+          "key": "csk-svk1939_ww_cross_i",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-svk1939_ww_cross_i"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Pamatny kriz svetovej vojny 1 stupna.jpg"
+    },
+    {
+      "id": "SVK1939-RESISTANCE-I-01",
+      "family": "SVK1939-RESISTANCE-CROSS",
+      "country_zh": "斯洛伐克国（历史政体）",
+      "period_scope": "1939–1944",
+      "name": "抵抗十字章",
+      "original": "Kríž odboja / Resistance Cross",
+      "date": "1939–1944",
+      "variant": "一等；完整十字章",
+      "views": [
+        {
+          "key": "csk-svk1939_resistance_i",
+          "label": "正面或完整对象图"
+        }
+      ],
+      "source_ids": [
+        "commons-svk1939_resistance_i"
+      ],
+      "image_kind": "specimen_photo_or_complete_object_image",
+      "html_eligible": true,
+      "notes": "Commons source file: Kriz odboja 1 stupna vojnovej Slovenskej republiky.jpg"
+    }
+  ],
+  "related_excluded": [
+    {
+      "candidate_id": "CSK-WL-COLLAR",
+      "reason": "collar-chain reference lacks the pendant/star in this file; retained as related source lead",
+      "image_manifest_file_ids": [
+        "csk-csk_wl_collar"
+      ]
+    },
+    {
+      "candidate_id": "CSK-BACHMAC",
+      "reason": "historical commemorative medal; separate related category",
+      "image_manifest_file_ids": [
+        "csk-csk_bachmac"
+      ]
+    },
+    {
+      "candidate_id": "CSK-SOKOLOV",
+      "reason": "historical commemorative medal; separate related category",
+      "image_manifest_file_ids": [
+        "csk-csk_sokolov"
+      ]
+    },
+    {
+      "candidate_id": "CSK-SNP-COMMEMORATIVE",
+      "reason": "commemorative medal of an order; separate related category",
+      "image_manifest_file_ids": [
+        "csk-csk_snp_commemorative"
+      ]
+    },
+    {
+      "candidate_id": "SVK1939-DEFENCE-MARCH",
+      "reason": "historical commemorative medal; separate related category",
+      "image_manifest_file_ids": [
+        "csk-svk1939_defence_march"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "wmi_czechoslovakia_1918_1948",
+      "url": "https://www.medals.org.uk/czechoslovakia/czechoslovak-republic/czechoslovak-republic-text.htm",
+      "role": "Czechoslovak Republic 1918–48 master list"
+    },
+    {
+      "source_id": "wmi_czechoslovakia_csr_1948_1989",
+      "url": "https://www.medals.org.uk/czechoslovakia/csr/csr-text.htm",
+      "role": "CSSR 1948–89 master list"
+    },
+    {
+      "source_id": "wmi_czech_republic_1989_present",
+      "url": "https://www.medals.org.uk/czechoslovakia/czech-republic/czech-republic-text.htm",
+      "role": "Czech Republic master list"
+    },
+    {
+      "source_id": "hrad_czech_state_decorations",
+      "url": "https://www.hrad.cz/en/czech-republic/state-decorations",
+      "role": "Czech official state-decoration verification"
+    },
+    {
+      "source_id": "czech_mod_awards",
+      "url": "https://www.mo.gov.cz/scripts/detail.php?id=6412",
+      "role": "Czech Ministry of Defence military-award verification"
+    },
+    {
+      "source_id": "president_slovakia_state_decorations",
+      "url": "https://www.prezident.sk/prezidentsky-palac/zeleny-salon/",
+      "role": "Slovak official state-decoration list"
+    },
+    {
+      "source_id": "wikipedia_czech_republic_awards",
+      "url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Czech_Republic",
+      "role": "Czech discovery cross-check"
+    },
+    {
+      "source_id": "wikipedia_slovakia_awards",
+      "url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Slovakia",
+      "role": "Slovak discovery cross-check"
+    },
+    {
+      "source_id": "commons_czech_slovak_awards",
+      "url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Czechoslovakia",
+      "role": "exact image file pages; licenses/attribution retained per manifest"
+    }
+  ],
+  "counts": {
+    "pictured_rows": 33,
+    "families": 30,
+    "manifest_images": 34,
+    "paired_back_views": 1,
+    "related_excluded": 5,
+    "duplicate_sha256_removed": 6
+  },
+  "public_files_modified": []
+}

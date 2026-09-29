@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "itu_ottoman_medals_catalogue",
+  "source_pdf": "sources/books/itu_ottoman_medals_catalogue.pdf",
+  "scope": "Ferahi Medal exact catalogue entry and plate",
+  "status": "completed",
+  "processed_pdf_pages": [
+    28,
+    29
+  ],
+  "printed_pages": [
+    19,
+    20
+  ],
+  "catalogue_entry": {
+    "name": "Ferahi Madalyası",
+    "inventory_number": "18687",
+    "date": "1143 AH / 1730",
+    "material": "gold",
+    "weight_g": 37.98,
+    "dimensions_mm": "44×65",
+    "figure": "Şekil 1.A-1.B"
+  },
+  "raw_page": "assets/raw/ottoman_itu_ferahi/itu_catalogue_pdf_page_29.png",
+  "published_images": [
+    "assets/images/ottoman_itu_ferahi/ferahi_1730_front.png",
+    "assets/images/ottoman_itu_ferahi/ferahi_1730_reverse.png"
+  ],
+  "candidate_file": "data/raw_candidates/itu_ferahi_exact.jsonl",
+  "volume_file": "data/volumes/ottoman_itu_ferahi.json",
+  "completion_rule": "Exact catalogue description and complete front/reverse figure pair extracted, visually checked, and linked to the formal family."
+}

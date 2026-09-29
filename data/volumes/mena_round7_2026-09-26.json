@@ -4,7 +4,7 @@
   "records": [
     {
       "id": "MENA7-CANAKKALE-ER-MADALYAS-FF308F35F9D3",
-      "family": "MENA7-CANAKKALE-ER-MADALYAS",
+      "family": "OTT-CANAKKALE",
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼帝国“Çanakkale er madalyası-”奖章",
       "original": "Çanakkale er madalyası-",
@@ -64,7 +64,7 @@
     },
     {
       "id": "MENA7-ITTIFAK-MADALYA-92B105524698",
-      "family": "MENA7-ITTIFAK-MADALYA",
+      "family": "OTT-TRIPLE-ALLIANCE",
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼帝国“Ittifak madalya”奖章",
       "original": "Ittifak madalya",
@@ -84,7 +84,7 @@
     },
     {
       "id": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE-57389E9408D6",
-      "family": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE",
+      "family": "OTT-IFTIHAR-ORDER",
       "country_zh": "奥斯曼帝国",
       "name": "荣耀勋章",
       "original": "Medals of Samuel Finley Breese Morse about 1870 detail, from- Samuel+F+B+Morse+MET+DP-17643-003 (cropped)",
@@ -124,7 +124,7 @@
     },
     {
       "id": "MENA7-ORDER-OF-THE-OTTOMAN-CHAMBER-OF-DEPUTIES-F53191879479",
-      "family": "MENA7-ORDER-OF-THE-OTTOMAN-CHAMBER-OF-DEPUTIES",
+      "family": "OTT-MECLIS-MEBUSAN",
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼帝国“the Ottoman Chamber of Deputies”勋章",
       "original": "Order of the Ottoman Chamber of Deputies",
@@ -164,7 +164,7 @@
     },
     {
       "id": "MENA7-SEHIT-EVLAD-MALUL-ASKERE-IANE-MADALYAS-6D27626DC88C",
-      "family": "MENA7-SEHIT-EVLAD-MALUL-ASKERE-IANE-MADALYAS",
+      "family": "OTT-SEHIT-EVLAD-MALUL-AID",
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼帝国“Şehit-evladı-malül-askere-iane madalyası”奖章",
       "original": "Şehit-evladı-malül-askere-iane madalyası",
@@ -184,7 +184,7 @@
     },
     {
       "id": "MENA7-SILISTREMADALYAS-0CA8D969A99E",
-      "family": "MENA7-SILISTREMADALYAS",
+      "family": "OTT-SILISTRA",
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼帝国“Silistremadalyası”奖章",
       "original": "Silistremadalyası",
@@ -587,9 +587,9 @@
       "family": "MENA7-ORDER-OF-THE-NILE",
       "country_zh": "埃及",
       "name": "尼罗河勋章",
-      "original": "Grand Cordon of the Order of the Nile (Egypt) - Memorial JK - Brasilia - DSC00434",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "original": "قلادة النيل / Order of the Nile",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "大绶级项圈／大绶章；纪念馆陈列完整实物正面",
       "views": [
         {
           "key": "MENA7-030-FRONT",
@@ -606,10 +606,10 @@
       "id": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT-9D30F099136D",
       "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
       "country_zh": "埃及",
-      "name": "埃及“(2)وسام الجمهورية من الدرجة الأولى 1977”奖章",
-      "original": "(2)وسام الجمهورية من الدرجة الأولى 1977",
-      "date": "1977年图示／纪年；制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "埃及共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；图示实物标注1977年",
+      "variant": "一级星章；完整实物正面",
       "views": [
         {
           "key": "MENA7-031-FRONT",
@@ -626,10 +626,10 @@
       "id": "MENA7-ORDER-OF-THE-VIRTUES-6040547D07B8",
       "family": "MENA7-ORDER-OF-THE-VIRTUES",
       "country_zh": "埃及",
-      "name": "埃及“the Virtues Nishan al Kemal Egypt”勋章",
-      "original": "Order of the Virtues Nishan al Kemal Egypt",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "美德勋章（尼尚·卡迈勒）",
+      "original": "نيشان الكمال / Order of the Virtues",
+      "date": "1915年设立；共和国时期继续授予",
+      "variant": "三级章；蝴蝶结绶带；完整实物正面",
       "views": [
         {
           "key": "MENA7-032-FRONT",
@@ -684,12 +684,12 @@
     },
     {
       "id": "MENA7-ARMY-DISTINGUISHED-SERVICE-MEDAL-2-DD8F8D148508",
-      "family": "MENA7-ARMY-DISTINGUISHED-SERVICE-MEDAL-2",
+      "family": "MENA7-ARMY-DISTINGUISHED-SERVICE-MEDAL",
       "country_zh": "苏丹",
-      "name": "苏丹“Army+Distinguished+Service+Medal+2”奖章",
-      "original": "Army+Distinguished+Service+Medal+2-removebg-preview",
+      "name": "苏丹陆军杰出服务奖章",
+      "original": "Army Distinguished Service Medal",
       "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "variant": "另一实物版型；完整正面；低清参考",
       "views": [
         {
           "key": "MENA7-035-FRONT",
@@ -964,7 +964,7 @@
     },
     {
       "id": "MENA7-ORDER-OF-SPORT-IN-SILVER-103AED47959E69CB",
-      "family": "MENA7-ORDER-OF-SPORT-IN-SILVER",
+      "family": "SDN-ORDER-OF-SPORT",
       "country_zh": "苏丹",
       "name": "苏丹体育勋章",
       "original": "Order of Sport, in Silver",
@@ -1046,10 +1046,10 @@
       "id": "MENA7-QUEEN-S-SUDAN-MEDAL-6F8B2E605E2F",
       "family": "MENA7-QUEEN-S-SUDAN-MEDAL",
       "country_zh": "苏丹",
-      "name": "苏丹“Obv”奖章",
-      "original": "Obv",
+      "name": "女王苏丹奖章",
+      "original": "Queen's Sudan Medal",
       "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "variant": "英国王室名义的苏丹服役奖章；完整正面；低清参考",
       "views": [
         {
           "key": "MENA7-053-FRONT",
@@ -1064,12 +1064,12 @@
     },
     {
       "id": "MENA7-SUDAN-ORDER-OF-CIVIL-ACCOMPLISHMENT-LPM-149FB2623EEA",
-      "family": "MENA7-SUDAN-ORDER-OF-CIVIL-ACCOMPLISHMENT-LPM",
+      "family": "MENA7-ORDER-OF-CIVIL-ACCOMPLISHMENT",
       "country_zh": "苏丹",
-      "name": "苏丹“Sudan+Order+of+Civil+Accomplishment+LPM”勋章",
-      "original": "Sudan+Order+of+Civil+Accomplishment+LPM-removebg-preview",
+      "name": "苏丹民事成就勋章",
+      "original": "Order of Civil Accomplishment",
       "date": "制度日期待考",
-      "variant": "四等；文官组；完整实物图；低清完整参考图（原图地址已存档）",
+      "variant": "四等；文官组；完整正面；低清参考",
       "views": [
         {
           "key": "MENA7-054-FRONT",
@@ -1084,12 +1084,12 @@
     },
     {
       "id": "MENA7-SUDAN-ORDER-OF-THE-REPUBLIC-C1E12FEA9328",
-      "family": "MENA7-SUDAN-ORDER-OF-THE-REPUBLIC",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC",
       "country_zh": "苏丹",
       "name": "苏丹共和国勋章",
-      "original": "Order of the republic Sudan, 2nd issue",
+      "original": "Order of the Republic, 2nd issue",
       "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "variant": "第二版；图示等级待考；完整正面；低清参考",
       "views": [
         {
           "key": "MENA7-055-FRONT",
@@ -3144,7 +3144,7 @@
     },
     {
       "id": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE-639B86B476E0",
-      "family": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE",
+      "family": "OTT-IFTIHAR-ORDER",
       "country_zh": "奥斯曼帝国",
       "name": "荣耀勋章",
       "original": "Nişan-ı İftihar of the Ottoman Empire",
@@ -3164,7 +3164,7 @@
     },
     {
       "id": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE-55397D0318F4",
-      "family": "MENA7-ORDER-OF-GLORY-OTTOMAN-EMPIRE",
+      "family": "OTT-IFTIHAR-ORDER",
       "country_zh": "奥斯曼帝国",
       "name": "荣耀勋章",
       "original": "Order of Glory (Ottoman Empire)",
@@ -3786,10 +3786,10 @@
       "id": "MENA7-ORDER-OF-MERIT-EGYPT-E738E47775D9",
       "family": "MENA7-ORDER-OF-MERIT-EGYPT",
       "country_zh": "埃及",
-      "name": "埃及“وسام الاستحقاق من الدرجة الثالثة (1960 )”奖章",
-      "original": "وسام الاستحقاق من الدرجة الثالثة (1960 )",
-      "date": "1960年图示／纪年；制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "埃及功绩勋章",
+      "original": "وسام الاستحقاق / Order of Merit",
+      "date": "1953年设立；图示实物标注1960年",
+      "variant": "三级章；完整实物正面",
       "views": [
         {
           "key": "MENA7-190-FRONT",
@@ -3806,10 +3806,10 @@
       "id": "MENA7-ORDER-OF-MERIT-EGYPT-1649BD2D5521",
       "family": "MENA7-ORDER-OF-MERIT-EGYPT",
       "country_zh": "埃及",
-      "name": "埃及“وسام الاستحقاق من الدرجة الثالثة 1960”奖章",
-      "original": "وسام الاستحقاق من الدرجة الثالثة 1960",
-      "date": "1960年图示／纪年；制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "埃及功绩勋章",
+      "original": "وسام الاستحقاق / Order of Merit",
+      "date": "1953年设立；图示实物标注1960年",
+      "variant": "三级章；另一实物版型；完整实物正面",
       "views": [
         {
           "key": "MENA7-191-FRONT",
@@ -3826,10 +3826,10 @@
       "id": "MENA7-ORDER-OF-MERIT-EGYPT-C1ABF3C730AE",
       "family": "MENA7-ORDER-OF-MERIT-EGYPT",
       "country_zh": "埃及",
-      "name": "埃及“وسام الاستحقاق من الدرجة الرابعة (!)”奖章",
-      "original": "وسام الاستحقاق من الدرجة الرابعة (!)",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "埃及功绩勋章",
+      "original": "وسام الاستحقاق / Order of Merit",
+      "date": "1953年设立；共和国时期",
+      "variant": "四级章；完整实物正面",
       "views": [
         {
           "key": "MENA7-192-FRONT",
@@ -3883,73 +3883,13 @@
       "html_eligible": true
     },
     {
-      "id": "MENA7-ORDER-OF-THE-NILE-80279C901227",
-      "family": "MENA7-ORDER-OF-THE-NILE",
-      "country_zh": "埃及",
-      "name": "尼罗河勋章",
-      "original": "Great Order of the Nile, Carter Museum",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
-      "views": [
-        {
-          "key": "MENA7-195-FRONT",
-          "label": "完整实物图"
-        }
-      ],
-      "source_ids": [
-        "core7-80279c901227"
-      ],
-      "image_kind": "object_photo",
-      "html_eligible": true
-    },
-    {
-      "id": "MENA7-ORDER-OF-THE-NILE-F75C978DF6B0",
-      "family": "MENA7-ORDER-OF-THE-NILE",
-      "country_zh": "埃及",
-      "name": "尼罗河勋章",
-      "original": "Orden Nila znak",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
-      "views": [
-        {
-          "key": "MENA7-196-FRONT",
-          "label": "完整实物图"
-        }
-      ],
-      "source_ids": [
-        "core7-f75c978df6b0"
-      ],
-      "image_kind": "object_photo",
-      "html_eligible": true
-    },
-    {
-      "id": "MENA7-ORDER-OF-THE-NILE-B407FBD232BB",
-      "family": "MENA7-ORDER-OF-THE-NILE",
-      "country_zh": "埃及",
-      "name": "尼罗河勋章",
-      "original": "Orden Nila zveno",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
-      "views": [
-        {
-          "key": "MENA7-197-FRONT",
-          "label": "完整实物图"
-        }
-      ],
-      "source_ids": [
-        "core7-b407fbd232bb"
-      ],
-      "image_kind": "object_photo",
-      "html_eligible": true
-    },
-    {
       "id": "MENA7-ORDER-OF-THE-NILE-093AD3FBC161",
       "family": "MENA7-ORDER-OF-THE-NILE",
       "country_zh": "埃及",
       "name": "尼罗河勋章",
-      "original": "Orden Nila",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "original": "قلادة النيل / Order of the Nile",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "项圈；完整实物正面",
       "views": [
         {
           "key": "MENA7-198-FRONT",
@@ -3967,9 +3907,9 @@
       "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
       "country_zh": "埃及",
       "name": "埃及共和国勋章",
-      "original": "Orden Republike Egipat 01",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；共和国时期",
+      "variant": "一级套装；博物馆陈列完整实物",
       "views": [
         {
           "key": "MENA7-199-FRONT",
@@ -3987,9 +3927,9 @@
       "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
       "country_zh": "埃及",
       "name": "埃及共和国勋章",
-      "original": "Orden Republike Egipat 02",
-      "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；共和国时期",
+      "variant": "一级套装；博物馆陈列另一视角",
       "views": [
         {
           "key": "MENA7-200-FRONT",
@@ -4006,10 +3946,10 @@
       "id": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT-FBC2F52EE5EC",
       "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
       "country_zh": "埃及",
-      "name": "埃及“وسام الجمهورية من الدرجة الأولى 1977”奖章",
-      "original": "وسام الجمهورية من الدرجة الأولى 1977",
-      "date": "1977年图示／纪年；制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "name": "埃及共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；图示实物标注1977年",
+      "variant": "一级挂章；完整实物正面",
       "views": [
         {
           "key": "MENA7-201-FRONT",
@@ -4066,10 +4006,10 @@
       "id": "MENA7-ORDER-OF-REGIONAL-GOVERNMENT-B99C1E3535B5",
       "family": "MENA7-ORDER-OF-REGIONAL-GOVERNMENT",
       "country_zh": "苏丹",
-      "name": "苏丹“19002 999 1”奖章",
-      "original": "19002 999 1-removebg-preview",
+      "name": "苏丹地方政府勋章",
+      "original": "Order of Regional Government",
       "date": "制度日期待考",
-      "variant": "文件页所示版型；具体等级待考；完整实物图；低清完整参考图（原图地址已存档）",
+      "variant": "另一实物版型；完整正面；低清参考",
       "views": [
         {
           "key": "MENA7-204-FRONT",

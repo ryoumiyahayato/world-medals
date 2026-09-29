@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-29",
+  "scope_id": "soviet_orders_mondvor",
+  "scope_label": "USSR and linked RSFSR predecessor order articles on Mondvor",
+  "sources": [
+    {
+      "source_id": "mondvor_ussr_order_index",
+      "source_name": "Mondvor — ОРДЕНА СССР",
+      "base_url": "https://mondvor.narod.ru/ordpage.htm",
+      "source_type": "specialist_site",
+      "languages": [
+        "ru"
+      ],
+      "regions_or_polities": [
+        "苏联",
+        "俄罗斯苏维埃联邦社会主义共和国（红旗勋章前身页面线索）"
+      ],
+      "date_coverage": "主目录苏联勋章1922–1991；红旗勋章文章含RSFSR前身线索（1918年起）",
+      "content_coverage": "入口页20条；递归读取全部20个对象页及其同名前缀数字分页，共64篇正文页；提取页面题名、日期候选、类型/级别、厂标/序号/螺柱/螺母线索及图片图注。",
+      "has_images": true,
+      "image_quality_notes": "64篇正文页中发现1000个唯一原站图片引用；经文件名和图注识别到数百组可能的同编号正背对象照片。页面的图片许可/复用条件未确认，未下载、未解码、不得计为正文图。",
+      "has_pagination": true,
+      "pagination_notes": "同名数字后缀页面：OLenin 4页、ORBan 8页、OPatWar 7页、ORStar 7页、OSlava 5页、ORbnLab 4页、OZnPoch 5页及其他相应页；共64篇对象页。",
+      "download_method": "原站公开HTML以有限顺序请求和本地页面缓存；照片仅留直接URL与图注引用，等待许可复核。",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-29",
+      "coverage_result": "20个目录入口均递归完成，64篇对象页完整缓存；形成88个去重版型候选，176个被选图像URL仍待权利处理；可入正文完整图片为0。",
+      "local_cache": "sources/cache/mondvor_soviet_orders/pages/",
+      "raw_candidates": "data/raw_candidates/mondvor_soviet_orders_2026-09-29.jsonl",
+      "volume_draft": "data/volumes/mondvor_soviet_orders_2026-09-29.json",
+      "manifest": "data/volumes/mondvor_soviet_orders_2026-09-29_manifest.json",
+      "rights": "原站限制文字/图片的再用；尚未获得复制许可。不得将缓存引用视作已授权图片。",
+      "coverage_boundary": "只覆盖ordpage勋章目录；heropage、medpage、badgepage由跨目录来源任务另扫。",
+      "next_action": "继续和其余三目录及Putnikov 1990英文图录交叉核对；从授权来源补齐代表版型照片，或在取得权利后下载这批原图。"
+    },
+    {
+      "source_id": "putnikov_orders_medals_ussr_1990",
+      "source_name": "Georgi A. Putnikov, Orders and Medals of the USSR",
+      "bibliographic_citation": "Moscow: Novosti, 1990; English edition. 41-page local PDF supplied in project sources.",
+      "source_type": "reference_book",
+      "languages": [
+        "en",
+        "ru (title page)"
+      ],
+      "regions_or_polities": [
+        "苏联",
+        "俄罗斯苏维埃联邦社会主义共和国（前身说明）"
+      ],
+      "date_coverage": "全书叙述苏联奖励制度；勋章目录式章节见PDF第5、7–23页，最高称号见第24–25页，奖章见第26–41页。",
+      "content_coverage": "已对41页OCR逐页提取并按题名与勋章目录交叉核对；勋章英文目录名及设立日期线索见第7–23页。第5页明确提及RSFSR红旗勋章设立日期。",
+      "has_images": true,
+      "image_quality_notes": "原书含图版/照片；本批仅将页码用于名称与制度线索交叉核对，没有裁取或导入书中图片。",
+      "has_pagination": false,
+      "download_method": "本地已有PDF及已缓存OCR文本；未重复下载。",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-29",
+      "coverage_result": "41页均完成OCR文本提取；苏联勋章条目约覆盖第7–23页，需由跨目录任务对最高称号与奖章条目继续并表。",
+      "local_cache": "sources/books/ordersandmedalsoftheussr.pdf",
+      "ocr_text_cache": "sources/pages/ordersandmedalsoftheussr_ocr_extract.txt",
+      "rights": "本地参考资料；本批只保存书目、页码和短摘要，不将书页图片作为可公开图片素材。",
+      "coverage_boundary": "交叉核对该书所载苏联勋章名称与日期线索；不独立证明Mondvor具体实物版型或实物照片身份。",
+      "next_action": "与Mondvor其余三目录及后续图录来源完成名称差异/遗漏核对。"
+    }
+  ],
+  "coverage": {
+    "planned": 2,
+    "completed": 0,
+    "partial": 2,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "next_action": "跨目录合并；图片权利确认前不构建正文图片行。"
+}

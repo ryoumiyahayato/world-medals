@@ -1,0 +1,383 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "lbn-wawards-lebanese_order_of_merit-representative-image",
+      "record_id": "LBN-WAWARDS-LEBANESE_ORDER_OF_MERIT-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-LEBANESE_ORDER_OF_MERIT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/lebanese-order-of-merit.jpg",
+      "source_page": "https://wawards.org/lebanon/lebanese-order-of-merit.html",
+      "image_url": "https://wawards.org/images/lebanon/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49451,
+      "sha256": "06caa9c79b2ffedcf752ed05641a1f1d03af8b1e90fa1f53fe7798afa2b307cd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-national_order_of_the_cedar-representative-image",
+      "record_id": "LBN-WAWARDS-NATIONAL_ORDER_OF_THE_CEDAR-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-NATIONAL_ORDER_OF_THE_CEDAR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/national-order-of-the-cedar.jpg",
+      "source_page": "https://wawards.org/lebanon/national-order-of-the-cedar.html",
+      "image_url": "https://wawards.org/images/lebanon/1/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60639,
+      "sha256": "053dfdeba9b0304e71a69d52cf54a8cae88f9f4f47dd25708e7a65aea962c76c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-order_of_public_instruction-representative-image",
+      "record_id": "LBN-WAWARDS-ORDER_OF_PUBLIC_INSTRUCTION-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-ORDER_OF_PUBLIC_INSTRUCTION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/order-of-public-instruction.jpg",
+      "source_page": "https://wawards.org/lebanon/order-of-public-instruction.html",
+      "image_url": "https://wawards.org/images/lebanon/3/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47082,
+      "sha256": "6cd897af9d1b99e5d6b200e6b0d12f417486c676b8eca0e8664fdfe865ab7209",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-labour_medal-representative-image",
+      "record_id": "LBN-WAWARDS-LABOUR_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-LABOUR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/labour-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/labour-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71581,
+      "sha256": "ce3ab33a164241d2d713221e511809a77d6eb18928e111f1bf9a9649c7500847",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-public_health_merit_medal-representative-image",
+      "record_id": "LBN-WAWARDS-PUBLIC_HEALTH_MERIT_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-PUBLIC_HEALTH_MERIT_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/public-health-merit-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/public-health-merit-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44614,
+      "sha256": "bbf82ed6b2e26c344ffe1a5d321813348d895616d2018a716c142d8c1faa54bc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_the_eagle-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_THE_EAGLE-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_THE_EAGLE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-the-eagle.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-the-eagle.html",
+      "image_url": "https://wawards.org/images/lebanon/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41805,
+      "sha256": "70bf345d04e0a96a91cab7b638dc0a5c607e3ca5475ba533ae4d0ddbfe099ed6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-navy_medal-representative-image",
+      "record_id": "LBN-WAWARDS-NAVY_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-NAVY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/navy-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/navy-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38828,
+      "sha256": "31e9e1d28e3b9d53059bc569c22d736a5b2756086b7ca604e29b86b0e72cf8bb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-military_medal-representative-image",
+      "record_id": "LBN-WAWARDS-MILITARY_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MILITARY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/military-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/military-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42601,
+      "sha256": "47cce564668a3beb404ee95bdabdfc1ff9cf97b6d3c95c9ef1044128858060d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-war_medal-representative-image",
+      "record_id": "LBN-WAWARDS-WAR_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-WAR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/war-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/war-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 26811,
+      "sha256": "52eb83c82d9e2db91bd2c7d187bf4a1d13451cf595d4d6475282be7f66d3ad7f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_for_battle_wounds-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_FOR_BATTLE_WOUNDS-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_FOR_BATTLE_WOUNDS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-for-battle-wounds.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-for-battle-wounds.html",
+      "image_url": "https://wawards.org/images/lebanon/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36864,
+      "sha256": "5b3bf699ad2eec24b3c9762ebcd05f45e2b158e4b738f280165771105bd1fd3d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-military_valour_medal-representative-image",
+      "record_id": "LBN-WAWARDS-MILITARY_VALOUR_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MILITARY_VALOUR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/military-valour-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/military-valour-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52203,
+      "sha256": "bfe124896acb2dfce5f4a2b97dc964f039075e248d11a8982062576f7038de97",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-military_medal_of_honour-representative-image",
+      "record_id": "LBN-WAWARDS-MILITARY_MEDAL_OF_HONOUR-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MILITARY_MEDAL_OF_HONOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/military-medal-of-honour.jpg",
+      "source_page": "https://wawards.org/lebanon/military-medal-of-honour.html",
+      "image_url": "https://wawards.org/images/lebanon/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58991,
+      "sha256": "3acb5b82e0c4c274a5ebcada9becb8e6975b98bd7e759dc7ca23a4cdd2021d25",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_appreciation-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_APPRECIATION-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_APPRECIATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-appreciation.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-appreciation.html",
+      "image_url": "https://wawards.org/images/lebanon/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 91137,
+      "sha256": "ef72ebcaa909115954869533f09713a8cd498855b4bd8f91ffb32c34b3997a81",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-state_security_medal-representative-image",
+      "record_id": "LBN-WAWARDS-STATE_SECURITY_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-STATE_SECURITY_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/state-security-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/state-security-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53159,
+      "sha256": "c20e8c0d65fbaa71df0336da5db34e32fe184cb932f361952c40f019cb2f7ef1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_general_security-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_GENERAL_SECURITY-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_GENERAL_SECURITY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-general-security.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-general-security.html",
+      "image_url": "https://wawards.org/images/lebanon/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 69169,
+      "sha256": "343195e22e691d06e23cd4e4f0e066da18542b3ee56e3c03b73a01403e7c13a6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_competence-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_COMPETENCE-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_COMPETENCE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-competence.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-competence.html",
+      "image_url": "https://wawards.org/images/lebanon/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44496,
+      "sha256": "0131c8a0a62d2bd45c9846855cda09c6e6d15a16ec6b3bb3c5ea3d9910df2898",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-internal_security_forces_medal-representative-image",
+      "record_id": "LBN-WAWARDS-INTERNAL_SECURITY_FORCES_MEDAL-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-INTERNAL_SECURITY_FORCES_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/internal-security-forces-medal.jpg",
+      "source_page": "https://wawards.org/lebanon/internal-security-forces-medal.html",
+      "image_url": "https://wawards.org/images/lebanon/15/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 27819,
+      "sha256": "d29bbfb6c925596e6253a920e898b026fa01609c85b8587658d709282f40a869",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-commemorative_medal_for_lebanon-representative-image",
+      "record_id": "LBN-WAWARDS-COMMEMORATIVE_MEDAL_FOR_LEBANON-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-COMMEMORATIVE_MEDAL_FOR_LEBANON-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/commemorative-medal-for-lebanon.jpg",
+      "source_page": "https://wawards.org/lebanon/commemorative-medal-for-lebanon.html",
+      "image_url": "https://wawards.org/images/lebanon/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61198,
+      "sha256": "bc60e14d33015ade6105271ab5828d36d581da28fd3d8c931aee9efd3aac3f9d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_palestine-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_PALESTINE-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_PALESTINE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-palestine.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-palestine.html",
+      "image_url": "https://wawards.org/images/lebanon/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51026,
+      "sha256": "52453477a3fda4d6094dfdc85d30a1f41540519efc8a36270929c9fc3cbc22af",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_31_december_1961-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_31_DECEMBER_1961-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_31_DECEMBER_1961-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-31-december-1961.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-31-december-1961.html",
+      "image_url": "https://wawards.org/images/lebanon/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 102648,
+      "sha256": "f7afa8dcc8afa30171e94e40f52ac932d20bea4dda005af8f64a6d20ff2d463d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_national_unity-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_NATIONAL_UNITY-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_NATIONAL_UNITY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-national-unity.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-national-unity.html",
+      "image_url": "https://wawards.org/images/lebanon/21/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50176,
+      "sha256": "c88415eaab7425eafe1eb3487ddbdc8d047a25bb7b6298dcf1af5e308070b7d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lbn-wawards-medal_of_the_dawn_of_the_south-representative-image",
+      "record_id": "LBN-WAWARDS-MEDAL_OF_THE_DAWN_OF_THE_SOUTH-REPRESENTATIVE",
+      "view_key": "LBN-WAWARDS-MEDAL_OF_THE_DAWN_OF_THE_SOUTH-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_lebanon/medal-of-the-dawn-of-the-south.jpg",
+      "source_page": "https://wawards.org/lebanon/medal-of-the-dawn-of-the-south.html",
+      "image_url": "https://wawards.org/images/lebanon/22/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38945,
+      "sha256": "af7244bd57eae98df2190f47f9587baef529306a215a4d787f3d76bbe7fe88f3",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; additional images remain cached for grade and reverse expansion."
+  ]
+}

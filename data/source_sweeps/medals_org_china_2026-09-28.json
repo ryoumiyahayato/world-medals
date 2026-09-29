@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "medals_org_china",
+  "status": "completed",
+  "planned_object_pages": 3,
+  "processed_object_pages": 3,
+  "pictured_object_pages": 1,
+  "downloaded_images": 1,
+  "failed_items": [],
+  "items": [
+    {
+      "record_index": 0,
+      "image_index": 1,
+      "title": "China-USSR Friendship Medal",
+      "page_url": "https://medals.org.uk/china/prc/prc001.htm",
+      "url": "https://medals.org.uk/china/prc/images/prc001.jpg",
+      "local_path": "assets/raw/medals_org_china/001_01.jpg",
+      "bytes": 10918,
+      "width": 116,
+      "height": 250,
+      "format": "JPEG",
+      "sha256": "6a81c2ba880c72ce8a67f1966ed50235105ad81be453c7b0bea3e5833c6dfe32",
+      "status": "downloaded"
+    }
+  ],
+  "candidate_file": "data/raw_candidates/medals_org_china.jsonl",
+  "page_cache": "sources/pages/medals_org_china",
+  "image_cache": "assets/raw/medals_org_china",
+  "completion_rule": "Every award page linked by the complete The People's Republic of China text directory was fetched and every non-ribbon object image was downloaded."
+}

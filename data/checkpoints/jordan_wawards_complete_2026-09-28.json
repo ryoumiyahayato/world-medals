@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Hashemite Kingdom of Jordan",
+  "status": "complete_source_first_pass",
+  "source_coverage": {
+    "wikipedia_master_list": {"status": "completed", "raw_candidate_blocks": 17},
+    "wawards_reference_catalogue": {"status": "completed", "pdf_pages": 10, "object_pages": 31, "downloaded_images": 174, "failures": 0}
+  },
+  "formal_output": {"rows": 31, "families": 31, "views": 31},
+  "retained_for_variant_expansion": 143,
+  "quality_decisions": [
+    "Only a complete representative image was promoted for each family in the first pass.",
+    "Additional grade and reverse images remain in the local cache and are not counted as formal variants until matched to a specific grade.",
+    "Ribbon-only representations were not promoted."
+  ],
+  "next_action": "Royal Hashemite Court differential and grade-level expansion of the major orders."
+}

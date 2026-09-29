@@ -1,0 +1,8 @@
+{
+  "schema_version": "2.0", "as_of": "2026-09-28", "scope_id": "serbia", "scope_label": "Serbian historical and current award systems",
+  "sources": [
+    {"source_id": "wawards_serbia_overviews", "source_name": "World Awards - Serbia polity overviews", "base_url": "https://wawards.org/en/serbia.html", "source_type": "polity_overview", "languages": ["en"], "has_images": true, "has_pagination": false, "download_method": "country_index_to_overview_pages", "priority": 2, "status": "completed", "last_checked": "2026-09-28", "coverage_result": "2/2 overview pages and images processed; both were portraits and excluded.", "candidate_file": "data/raw_candidates/wawards_serbia.jsonl"},
+    {"source_id": "serbia_awards_master_list", "source_name": "Serbian national awards master list and object pages", "source_type": "national_award_master_list", "languages": ["sr", "en"], "has_images": true, "has_pagination": true, "download_method": "section_and_object_page_sweep", "priority": 1, "status": "not_started", "last_checked": "2026-09-28"}
+  ],
+  "coverage": {"planned": 2, "completed": 1, "partial": 0, "blocked": 0, "not_started": 1}, "next_action": "Master-list differential and isolated object images."
+}

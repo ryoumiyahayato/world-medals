@@ -1,0 +1,151 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-medalbook-108-01",
+      "record_id": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-108",
+      "view_key": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-108-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/108_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/medals-decorations/distinguished-service-medal/distinguished-service-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/657f1e0c831857a56c1328d1a2e76a50d6059f4c/store/fit/1000/750/7a096ce22cc2793dd6e187afbe56a75521ba8ac2832c5e05a48a94c732a1/Sarawak+Disting+Service+Medal+LPM.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        750,
+        750
+      ],
+      "bytes": 217137,
+      "sha256": "6c17952e68181a7924074a3eec5ae06806438957c053bfe302a53597dc77cc42",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-109-01",
+      "record_id": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-109",
+      "view_key": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-109-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/109_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/medals-decorations/distinguished-service-medal/distinguished-service-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/4d45fb81b2ec97c0360ad7311d81f14b03fe97a1/store/fit/528/348/63b82682ac7cd496c139447b4e07c7b438f333c6f978e5fdc4d9c9073026/Sarawak+Disting+Service+Medals+LPM+IIC.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 63083,
+      "sha256": "562f842b881b724f10453c5ad86d261931a5121aa428095ccf122905c979340d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-111-02",
+      "record_id": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111",
+      "view_key": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/111_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/medals-decorations/faithful-and-meritorious-service-medal/faithful-and-meritorious-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/833ffca5f226d1f72c857e63f628cd4c76e742e4/store/fit/1000/750/fb4951d8e107e58b4c7360a5181c6e6e15c18a3b2a9639056dd4363d51c7/A_Faithful_and_M_5362616c51de9.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 347642,
+      "sha256": "5fd0c4cf9f2eb2b1aa2f3d6e06ff83208ddb503800cb386f27339bcf690c0278",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-111-04",
+      "record_id": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111",
+      "view_key": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/111_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/medals-decorations/faithful-and-meritorious-service-medal/faithful-and-meritorious-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/bbec30f458e48125e065664921693a57af79d139/store/fit/528/348/e6508ace489a921f90d97042c409a1185725b1f9644441c9f5e8576d75a0/Faithful+and+Meritorious+Service+Medal+1.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 92937,
+      "sha256": "d58d3f5caeb73f64381b7aeaba66677a72a565e1e48049384d1fd584ced43025",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-171-04",
+      "record_id": "MYS-SARAWAK-STAR-MEDALBOOK-171",
+      "view_key": "MYS-SARAWAK-STAR-MEDALBOOK-171-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/171_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/orders/orders-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak-member-6",
+      "image_url": "https://www.medalbook.com/attachments/883fe41ec7519cf707bc231ec782691f82bffb37/store/fit/528/348/bd92d38c1441b54a38d6cd7d374362512d71624eed4695f8a9f97c757efe/IMG_04.jpg5342faba867ed.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 179229,
+      "sha256": "ce8d00605db7275bedcfed8ec79e27477e9b999c0cf9d8f1e3fe55b4847c94ea",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-171-02",
+      "record_id": "MYS-SARAWAK-STAR-MEDALBOOK-171",
+      "view_key": "MYS-SARAWAK-STAR-MEDALBOOK-171-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/171_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/orders/orders-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak-member-6",
+      "image_url": "https://www.medalbook.com/attachments/30bda4b591a52de14560c8c97086e3730b71c747/store/fit/528/348/472d9079337b10c0ed9448830ae813ea8477a17a200116a616f8a9ad8ce8/IMG_06.jpg5342face67832.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 126280,
+      "sha256": "bf72103ea49e228eacb73c72bc8b5a68162a88711b426ade70e8fc270a8bd54d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-174-03",
+      "record_id": "MYS-SARAWAK-STAR-MEDALBOOK-174",
+      "view_key": "MYS-SARAWAK-STAR-MEDALBOOK-174-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/174_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/orders/orders-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak-officer-5",
+      "image_url": "https://www.medalbook.com/attachments/979f1b78e9d95190e4238075da5da76cb532f3c5/store/fit/528/348/7b3f97e657ca17b5ae7917c29b64efb4376b447f40fdd30f65fb030a7a35/The+Most+Exalted+Order+of+the+Star+of+Sarawak%2C+Officer+1.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 119298,
+      "sha256": "6e2bb874f23950944d084d4b03622c2685f4ff86085e1e85759af50ccf46e0c4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-174-02",
+      "record_id": "MYS-SARAWAK-STAR-MEDALBOOK-174",
+      "view_key": "MYS-SARAWAK-STAR-MEDALBOOK-174-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/174_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sarawak/orders/orders-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak/the-most-exalted-order-of-the-star-of-sarawak-officer-5",
+      "image_url": "https://www.medalbook.com/attachments/94980f1dbbb00ea3a73b73bd4d140aac8865adaf/store/fit/528/348/6ef2fe2a0b940556a4344fcb039a4ad0c8b7734b074a6898e3e1aac58449/IMG_06.jpg53d8fa81ce340.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 114135,
+      "sha256": "aad7bfe636c0a9b79be00533b52e29c32dd221775ed2dc1c3d38e124b4efd93a",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

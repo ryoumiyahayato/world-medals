@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-09-28",
+  "batch": "Japan official differential, Eastern Europe national master lists, and first accessible country catalogues",
+  "status": "merged_and_validated",
+  "merged": {
+    "ukraine": {"pictured_rows": 3, "families": 3, "downloaded_source_images": 16},
+    "moldova": {"pictured_rows": 12, "families": 12, "downloaded_source_images": 38},
+    "estonia": {"pictured_rows": 8, "families": 8, "downloaded_source_images": 32},
+    "belarus": {"pictured_rows": 38, "families": 38, "selected_complete_views": 82},
+    "lithuania": {"pictured_rows": 40, "families": 40, "selected_complete_views": 99, "unpictured_candidates": 2},
+    "latvia": {"pictured_rows": 11, "families": 11, "selected_complete_views": 49},
+    "japan_official": {"pictured_rows": 28, "net_new_families": 3, "official_variants_of_existing_families": 25, "official_images": 28},
+    "poland_master": {"master_candidates": 81, "pictured_rows": 4, "families": 4, "unpictured_candidates": 77},
+    "soviet_master_differential": {"master_candidates": 112, "pictured_rows": 67, "net_new_families": 62, "unique_local_images": 67, "duplicate_grade_rows_rejected": 3, "unretrieved_followup_candidates": 5},
+    "czechoslovakia_czechia_slovakia": {"master_candidates": 121, "pictured_rows": 33, "families": 30, "unique_local_views": 34, "related_or_nonaward_exclusions": 5},
+    "romania_kingdom_medals_org": {"directory_candidates": 158, "object_pages_read": 98, "pictured_rows": 21, "families": 21, "unique_local_images": 21, "unpictured_candidates": 60, "publication_rights": "not asserted; retained for local offline research catalogue"},
+    "greece_medals_org": {"master_pages": 74, "pictured_rows": 20, "families": 20, "unique_local_images": 20, "excluded_unawarded_candidate": 1},
+    "austria_medals_org": {"candidate_pages": 95, "pictured_rows": 41, "families": 39, "unique_local_images": 41, "historical_sections": 4},
+    "portugal_medals_org": {"linked_object_pages": 21, "pictured_rows": 20, "families": 14, "unique_local_images": 20},
+    "bulgaria_wmi": {"master_candidates": 119, "object_pages_opened": 36, "pictured_rows": 20, "families": 13, "unique_local_images": 37, "historical_sections": 3}
+  },
+  "net_site_change": {"pictured_rows_added": 366, "families_added": 316},
+  "site_after_merge": {"official_rows": 3073, "families": 1896, "decoded_local_images": 4449, "country_period_sections": 164},
+  "quality": {"duplicate_image_payloads": 0, "ribbon_only_rows": 0, "generic_single_character_search": "pass", "country_scoped_navigation": "pass"},
+  "active_next": ["Soviet Union remaining master-list image differential", "Poland remaining master-list image differential", "Austria and Austria-Hungary national master list", "Bulgaria national master list", "Portugal national master list"],
+  "publication": "No GitHub push: no newly touched country has yet passed the broader official/historical source differential required for a whole-country completion claim."
+}

@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-09-27",
+  "source": "Wikimedia Commons files derived from the Sudanese Presidency awards directory",
+  "status": "reviewed_and_published",
+  "published": [
+    {
+      "record_id": "SDN-COMMONS-MEDAL-OF-DUTY-UNRESOLVED",
+      "title": "Medal of Duty",
+      "views": 1,
+      "grade_status": "unresolved",
+      "note": "Complete object retained without assigning it to Class I, II or III."
+    },
+    {
+      "record_id": "SDN-COMMONS-POLICE-PRISON-MERITORIOUS-SERVICE",
+      "title": "Police and Prison Service Medal for Meritorious Service",
+      "views": 2,
+      "grade_status": "not_applicable",
+      "note": "Two complete faces published and the MedalBook text-only pending record was superseded."
+    }
+  ],
+  "pending_variants_after_promotion": 30,
+  "regression_status": "PASS"
+}

@@ -1,0 +1,1148 @@
+{
+  "schema": "world-medals.image_harvest.manifest.v1",
+  "batch_id": "WAWARDS-SUDAN-ALL-20260927",
+  "as_of": "2026-09-27",
+  "source": "Wawards Sudan completed directory sweep",
+  "pages_processed": 36,
+  "linked_images_found": 71,
+  "downloaded_and_decoded": 71,
+  "failures": [],
+  "images": [
+    {
+      "source_id": "wawards-sudan-06178f1ae476e403226c",
+      "page_title": "Collar of Honour",
+      "page_url": "https://wawards.org/sudan/collar-of-honour.html",
+      "image_url": "https://wawards.org/images/sudan/8/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-06178f1ae476e403226c-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 78876,
+      "sha256": "65ef2d0ccd77ebc1402977d0ba79bca2bf27978b43ef116136515b4e69ed3550",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-06178f1ae476e403226c",
+      "page_title": "Collar of Honour",
+      "page_url": "https://wawards.org/sudan/collar-of-honour.html",
+      "image_url": "https://wawards.org/images/sudan/8/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-06178f1ae476e403226c-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54922,
+      "sha256": "49187d37a201c7d13c932398b7ed27c9aab7713eccd3fc20182472614a856958",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-5515e2471aad8f22eb0d",
+      "page_title": "Defence Force Distinguished Service Decoration",
+      "page_url": "https://wawards.org/sudan/defence-force-distinguished-service-decoration.html",
+      "image_url": "https://wawards.org/images/sudan/2/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-5515e2471aad8f22eb0d-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66933,
+      "sha256": "606270e41c58e0ef1ea70b3a22059e4bf2997a797a219c98d6a258e3a42c78aa",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-5515e2471aad8f22eb0d",
+      "page_title": "Defence Force Distinguished Service Decoration",
+      "page_url": "https://wawards.org/sudan/defence-force-distinguished-service-decoration.html",
+      "image_url": "https://wawards.org/images/sudan/2/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-5515e2471aad8f22eb0d-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55654,
+      "sha256": "f8b4afc3a2e6af2031cce4289f8fc530f4a7f0d7622eb02b035b68cc993be8b5",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-4b12336f87be12ba3337",
+      "page_title": "Defence Force General Service Medal",
+      "page_url": "https://wawards.org/sudan/defence-force-general-service-medal.html",
+      "image_url": "https://wawards.org/images/sudan/5/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-4b12336f87be12ba3337-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59169,
+      "sha256": "fd1b99d558bfc8d92815f3e5e0893629b4f8cecb1773ca1be76c320cc9635425",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-4b12336f87be12ba3337",
+      "page_title": "Defence Force General Service Medal",
+      "page_url": "https://wawards.org/sudan/defence-force-general-service-medal.html",
+      "image_url": "https://wawards.org/images/sudan/5/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-4b12336f87be12ba3337-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65188,
+      "sha256": "9eb9a49bcb74939e44081d86fc41372be4372c73e6937ef36e0760aef5ef5087",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-3b39a1bc0ba71cc259c9",
+      "page_title": "Defence Force Native Officer's Decoration",
+      "page_url": "https://wawards.org/sudan/defence-force-native-officer-s-decoration.html",
+      "image_url": "https://wawards.org/images/sudan/3/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-3b39a1bc0ba71cc259c9-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60550,
+      "sha256": "96bdef911c2fb42adf110a67ea2333a0f10402134f6f7ad8ad99d306af77bb7e",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-3b39a1bc0ba71cc259c9",
+      "page_title": "Defence Force Native Officer's Decoration",
+      "page_url": "https://wawards.org/sudan/defence-force-native-officer-s-decoration.html",
+      "image_url": "https://wawards.org/images/sudan/3/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-3b39a1bc0ba71cc259c9-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63119,
+      "sha256": "9a53032439c5cb41a134a392aa99fb1585b3b4177c6aee9bf5d5e5d85b422649",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-32822d0264d6494ab31a",
+      "page_title": "Medal of Bravery",
+      "page_url": "https://wawards.org/sudan/medal-of-bravery.html",
+      "image_url": "https://wawards.org/images/sudan/31/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-32822d0264d6494ab31a-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57541,
+      "sha256": "063045634db7642f8adf21a148a3d93444acf38d49c417c3e6dac2596300b0a9",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f6be85de030f69580690",
+      "page_title": "Medal of Duty",
+      "page_url": "https://wawards.org/sudan/medal-of-duty.html",
+      "image_url": "https://wawards.org/images/sudan/30/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f6be85de030f69580690-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57071,
+      "sha256": "845b0c6c590e610a8814d056da64bf1fa85f8d5edc50519f747e6f449a84ec67",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f6be85de030f69580690",
+      "page_title": "Medal of Duty",
+      "page_url": "https://wawards.org/sudan/medal-of-duty.html",
+      "image_url": "https://wawards.org/images/sudan/30/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f6be85de030f69580690-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49386,
+      "sha256": "abfc57f27b3e98d67716b1f6f638fc86556b06471dd51f12b801235b1872fe6a",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-fb5228c9e96ad7d52e76",
+      "page_title": "Medal of Educational Hierarchy",
+      "page_url": "https://wawards.org/sudan/medal-of-educational-hierarchy.html",
+      "image_url": "https://wawards.org/images/sudan/34/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-fb5228c9e96ad7d52e76-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43471,
+      "sha256": "3ee4479d3bd00a19b70a8cc0306fbbe47da8fbfe7f456cfcbddf492c5f563d52",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-fb5228c9e96ad7d52e76",
+      "page_title": "Medal of Educational Hierarchy",
+      "page_url": "https://wawards.org/sudan/medal-of-educational-hierarchy.html",
+      "image_url": "https://wawards.org/images/sudan/34/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-fb5228c9e96ad7d52e76-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45135,
+      "sha256": "8551f8ab4935546e8c5cbfb07c1d6ac57809476dbeaceae20a3a3365737a53e0",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-81290abb0644f6416584",
+      "page_title": "Medal of Evacuation",
+      "page_url": "https://wawards.org/sudan/medal-of-evacuation.html",
+      "image_url": "https://wawards.org/images/sudan/28/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-81290abb0644f6416584-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53887,
+      "sha256": "e9bfdc87132e196db56377bfe7302a50c67706ba06e14f8d30139fb253545097",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-81290abb0644f6416584",
+      "page_title": "Medal of Evacuation",
+      "page_url": "https://wawards.org/sudan/medal-of-evacuation.html",
+      "image_url": "https://wawards.org/images/sudan/28/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-81290abb0644f6416584-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53216,
+      "sha256": "3ce9a19cb3193d35e9f08cbb7961414c1448e06847bf5c90511b9c9281a942d6",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-998adbea075a2365ef60",
+      "page_title": "Medal of Independence",
+      "page_url": "https://wawards.org/sudan/medal-of-independence.html",
+      "image_url": "https://wawards.org/images/sudan/29/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-998adbea075a2365ef60-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55970,
+      "sha256": "1c9984df7754ef3f7de9845051ad5c796a3cbbf7e8e39b31bcc16a5f1cd84844",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-998adbea075a2365ef60",
+      "page_title": "Medal of Independence",
+      "page_url": "https://wawards.org/sudan/medal-of-independence.html",
+      "image_url": "https://wawards.org/images/sudan/29/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-998adbea075a2365ef60-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48075,
+      "sha256": "d3d6d1ba3a0380cd7273dff529cbbbc6c9ef984c1ec643a4eb1824ec1ef1f680",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-1663e54bbc1642f02497",
+      "page_title": "Medal of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/medal-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/32/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-1663e54bbc1642f02497-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36785,
+      "sha256": "2db2a252c1b849981bff173f225f58b1a9bc988d358f9876cf5d511fc9c1b0c2",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-1663e54bbc1642f02497",
+      "page_title": "Medal of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/medal-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/32/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-1663e54bbc1642f02497-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41027,
+      "sha256": "6cc6ef987c6c70936cd5a69eda8427f22449afee292f0f1682e9b154f726526a",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8d5f15f978489c8e4b09",
+      "page_title": "Medal of Merit",
+      "page_url": "https://wawards.org/sudan/medal-of-merit.html",
+      "image_url": "https://wawards.org/images/sudan/33/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8d5f15f978489c8e4b09-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52771,
+      "sha256": "9e6cafbb241b3c67975264750736e54f4cf251bf08d8401606dd191e6e81ef9e",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8d5f15f978489c8e4b09",
+      "page_title": "Medal of Merit",
+      "page_url": "https://wawards.org/sudan/medal-of-merit.html",
+      "image_url": "https://wawards.org/images/sudan/33/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8d5f15f978489c8e4b09-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64217,
+      "sha256": "2391c38c214a58c516a53dd213c21bbafeaeca09bbc20d9e19281d027a307139",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f70f45cef9e99c2ff29d",
+      "page_title": "Order of Bravery",
+      "page_url": "https://wawards.org/sudan/order-of-bravery.html",
+      "image_url": "https://wawards.org/images/sudan/23/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f70f45cef9e99c2ff29d-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52113,
+      "sha256": "1f3aea33947799178cfea0a9a0afe72f65b503cc3784056e528bd8a5c21c0855",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f271f74748223b2b3b7f",
+      "page_title": "Order of Civil Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-civil-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/1/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f271f74748223b2b3b7f-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61656,
+      "sha256": "62860ad0c246e2fb7d9a2d2c5a1c9fdf0f07c8cf715cf8ac4bd31522abfa8cdc",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f271f74748223b2b3b7f",
+      "page_title": "Order of Civil Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-civil-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/1/3.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f271f74748223b2b3b7f-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35366,
+      "sha256": "6d0b9fb383ad61a468493b166550203af68477216a3b18c596bd154a2342d088",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f271f74748223b2b3b7f",
+      "page_title": "Order of Civil Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-civil-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/1/4.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f271f74748223b2b3b7f-03.jpg",
+      "ordinal": 3,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 31677,
+      "sha256": "4c8cf8619daab96367654c6058827789a47ff576dc116b3813cb3b1509710d5f",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f271f74748223b2b3b7f",
+      "page_title": "Order of Civil Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-civil-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/1/5.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f271f74748223b2b3b7f-04.jpg",
+      "ordinal": 4,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60614,
+      "sha256": "b20b1b7439ad76b971a169ee7b040e8e957b8075733e15f6e7bc629cf9d8ea28",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f80fc811b41d131e8f5f",
+      "page_title": "Order of Distinction",
+      "page_url": "https://wawards.org/sudan/order-of-distinction.html",
+      "image_url": "https://wawards.org/images/sudan/21/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f80fc811b41d131e8f5f-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39895,
+      "sha256": "a0e81df96d3405d31884ef248b8272c0a3f9b5fb164698fea91eb712743a5759",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f80fc811b41d131e8f5f",
+      "page_title": "Order of Distinction",
+      "page_url": "https://wawards.org/sudan/order-of-distinction.html",
+      "image_url": "https://wawards.org/images/sudan/21/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f80fc811b41d131e8f5f-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62860,
+      "sha256": "d506fab55b55e29e1d140511dcd881c0f90a9f8187ac6e75a0778b2a2db5b205",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-f80fc811b41d131e8f5f",
+      "page_title": "Order of Distinction",
+      "page_url": "https://wawards.org/sudan/order-of-distinction.html",
+      "image_url": "https://wawards.org/images/sudan/21/3.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-f80fc811b41d131e8f5f-03.jpg",
+      "ordinal": 3,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55594,
+      "sha256": "1e285031d2835fda9f94fc32adec918897f78f731ca1a8fbd36c24a96c1751ff",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43630,
+      "sha256": "7d7cf8ea3e44df8527ebf6b0e0db090ebf5066f51709c89704731e23e1d73d0c",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 28121,
+      "sha256": "74e811fc6e8928cc368dead2e133162a7854a2a2723562c4ccd23c17a19d1727",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/3.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-03.jpg",
+      "ordinal": 3,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45485,
+      "sha256": "fdf801495a018a0f49b05bdd9647228e013f4fab0945fa6201ae81126f698683",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/4.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-04.jpg",
+      "ordinal": 4,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38465,
+      "sha256": "ce8e43ac848db2f8f6d6682385367a0c8d4d4f148d1ecf03d842902843f394e9",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/5.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-05.jpg",
+      "ordinal": 5,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44481,
+      "sha256": "db5b81822ab8a7260c6526d2484d5f07745da66e1b6473b23ace746715be922f",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6037371734de65021d7d",
+      "page_title": "Order of Long and Distinguished Service",
+      "page_url": "https://wawards.org/sudan/order-of-long-and-distinguished-service.html",
+      "image_url": "https://wawards.org/images/sudan/22/6.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6037371734de65021d7d-06.jpg",
+      "ordinal": 6,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 32720,
+      "sha256": "f8ce390de7e3252aefa0c5c80e4eece1b7fc1dc46ba9bbf1976de890010dcfd7",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8934b6d357a4c6ef39b8",
+      "page_title": "Order of Merit",
+      "page_url": "https://wawards.org/sudan/order-of-merit.html",
+      "image_url": "https://wawards.org/images/sudan/24/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8934b6d357a4c6ef39b8-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58796,
+      "sha256": "a8a6faa1d4aeae9ec1b16e0cf9357f1f355edb3a507c71c2fffc1ce04da1e98a",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-db8013457503188f7482",
+      "page_title": "Order of Military Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-military-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/17/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-db8013457503188f7482-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51022,
+      "sha256": "26e4d33f8f7b85af3e082e6a08091e2c97a3b456b23f4eda98125723fd7bc405",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-db8013457503188f7482",
+      "page_title": "Order of Military Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-military-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/17/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-db8013457503188f7482-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 27705,
+      "sha256": "173e1abe512ce45d65cb5dc8cf196e62f70b97011222c8a38527b1778537e378",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-65340e155aa19e7f1d7a",
+      "page_title": "Order of National Unity",
+      "page_url": "https://wawards.org/sudan/order-of-national-unity.html",
+      "image_url": "https://wawards.org/images/sudan/15/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-65340e155aa19e7f1d7a-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60196,
+      "sha256": "5bc484cd406b6d68a44bd982d12279eb5fbf4665ac791e3f7173eaf8351df234",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-d6192fc09c7f1dd12ba4",
+      "page_title": "Order of Persistence",
+      "page_url": "https://wawards.org/sudan/order-of-persistence.html",
+      "image_url": "https://wawards.org/images/sudan/14/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-d6192fc09c7f1dd12ba4-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60799,
+      "sha256": "a22b58c7b64bfda30726e2d10917f1bcb5479df4197e1fbcb3c16ae25b6aff9e",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-d6192fc09c7f1dd12ba4",
+      "page_title": "Order of Persistence",
+      "page_url": "https://wawards.org/sudan/order-of-persistence.html",
+      "image_url": "https://wawards.org/images/sudan/14/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-d6192fc09c7f1dd12ba4-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50116,
+      "sha256": "593ab575dc5c9b2e10579e10ad936baee77d9f725b8d20916f1c0f14afcbad91",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-479acffaffd215bf8d4d",
+      "page_title": "Order of Political Accomplishment",
+      "page_url": "https://wawards.org/sudan/order-of-political-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/35/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-479acffaffd215bf8d4d-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51817,
+      "sha256": "3223e2ea7480cc467f644994bf627f5aa6773de44e90fd04c9d3b07836c72d94",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-0d3ff0ca7f17841741c3",
+      "page_title": "Order of Production",
+      "page_url": "https://wawards.org/sudan/order-of-production.html",
+      "image_url": "https://wawards.org/images/sudan/25/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-0d3ff0ca7f17841741c3-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72839,
+      "sha256": "4fe32c4c262bb21c8be34147a12bbfb60158444959c158be872a9943f0b1031f",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-e02dda4b579e3a911e7b",
+      "page_title": "Order of Regional Government",
+      "page_url": "https://wawards.org/sudan/order-of-regional-government.html",
+      "image_url": "https://wawards.org/images/sudan/36/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-e02dda4b579e3a911e7b-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61003,
+      "sha256": "a6875429be3758f29f70e7cc06289237542f3d427848de964154984db6d56000",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-5572b4a0c65569570819",
+      "page_title": "Order of Science and the Arts",
+      "page_url": "https://wawards.org/sudan/order-of-science-and-the-arts.html",
+      "image_url": "https://wawards.org/images/sudan/26/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-5572b4a0c65569570819-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60698,
+      "sha256": "3ecf8befbf139c6adb7fa57733132b33521b2adbb7b152d94938e092556337f4",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-41852456b7ba88dcac8f",
+      "page_title": "Order of Sport",
+      "page_url": "https://wawards.org/sudan/order-of-sport.html",
+      "image_url": "https://wawards.org/images/sudan/27/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-41852456b7ba88dcac8f-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57470,
+      "sha256": "02fe2881510614de9b7002ba285d1273e42c0e6a4a104ccb34284f5cc66baf95",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-7343ae41e01d8ed3d0c8",
+      "page_title": "Order of the Alliance",
+      "page_url": "https://wawards.org/sudan/order-of-the-alliance.html",
+      "image_url": "https://wawards.org/images/sudan/12/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-7343ae41e01d8ed3d0c8-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52160,
+      "sha256": "fcad0388c52576200c4b60787bea8ac77e80f7c9dd7ceaa1c3f442676fba1b62",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6e1ab2b32ca589a69eb3",
+      "page_title": "Order of the Constitution",
+      "page_url": "https://wawards.org/sudan/order-of-the-constitution.html",
+      "image_url": "https://wawards.org/images/sudan/16/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6e1ab2b32ca589a69eb3-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61386,
+      "sha256": "5933a616bff8ad99ee60fe74b7c3f09a76ec886a1d027b4b123b6e002f6a888f",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-6e1ab2b32ca589a69eb3",
+      "page_title": "Order of the Constitution",
+      "page_url": "https://wawards.org/sudan/order-of-the-constitution.html",
+      "image_url": "https://wawards.org/images/sudan/16/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-6e1ab2b32ca589a69eb3-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56932,
+      "sha256": "e3b55d1f4e0a3113f5b0e8f6fe1dbd1b6095423aca23852c33d1d4a20ab95ded",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-672b8d22f497077394d2",
+      "page_title": "Order of the Loyal Son of Sudan",
+      "page_url": "https://wawards.org/sudan/order-of-the-loyal-son-of-sudan.html",
+      "image_url": "https://wawards.org/images/sudan/10/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-672b8d22f497077394d2-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58495,
+      "sha256": "3d58cb03dfedd408b069ef0fd002e79077b4a9846397e36a9177b7c7662975da",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8c982e697ed0a279a860",
+      "page_title": "Order of the Republic",
+      "page_url": "https://wawards.org/sudan/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/sudan/19/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8c982e697ed0a279a860-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57231,
+      "sha256": "27713dbeb2c6db275052cacc28141915f24751638f701f0bd345b45d6784717e",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8c982e697ed0a279a860",
+      "page_title": "Order of the Republic",
+      "page_url": "https://wawards.org/sudan/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/sudan/19/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8c982e697ed0a279a860-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77603,
+      "sha256": "117a92597a1e5eed03a4a0c7e803ca3f9246b29512939157f3bd622ecc73052c",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8c982e697ed0a279a860",
+      "page_title": "Order of the Republic",
+      "page_url": "https://wawards.org/sudan/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/sudan/19/3.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8c982e697ed0a279a860-03.jpg",
+      "ordinal": 3,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52923,
+      "sha256": "5b109d3f0d89e09b4f242a0d1a45fd11c13b797efcc3dbda6812bcbb40102856",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-8c982e697ed0a279a860",
+      "page_title": "Order of the Republic",
+      "page_url": "https://wawards.org/sudan/order-of-the-republic.html",
+      "image_url": "https://wawards.org/images/sudan/19/4.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-8c982e697ed0a279a860-04.jpg",
+      "ordinal": 4,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57114,
+      "sha256": "6e5a240bc6701e6bf1fd3ef46ffd431cf10442e72369a13f1d200de9315a40f0",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-1914417a720b3505b7c2",
+      "page_title": "Order of the Revolution",
+      "page_url": "https://wawards.org/sudan/order-of-the-revolution.html",
+      "image_url": "https://wawards.org/images/sudan/11/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-1914417a720b3505b7c2-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50236,
+      "sha256": "253d9d9d60767b20b320029bc369694f070a4f690aeaa1647dc2e495d3137aaa",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-1914417a720b3505b7c2",
+      "page_title": "Order of the Revolution",
+      "page_url": "https://wawards.org/sudan/order-of-the-revolution.html",
+      "image_url": "https://wawards.org/images/sudan/11/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-1914417a720b3505b7c2-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62524,
+      "sha256": "ff8e99680b26f4b607f3cd65353e9d116ea435483d50eb0ed884c7425a2bbd56",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-58441a068e0f7664dbf5",
+      "page_title": "Order of the Two Niles",
+      "page_url": "https://wawards.org/sudan/order-of-the-two-niles.html",
+      "image_url": "https://wawards.org/images/sudan/20/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-58441a068e0f7664dbf5-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55621,
+      "sha256": "a6010375ba2dd0b2548e5ebac5f646142af0776e2acae932511e6c66cda97d05",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-58441a068e0f7664dbf5",
+      "page_title": "Order of the Two Niles",
+      "page_url": "https://wawards.org/sudan/order-of-the-two-niles.html",
+      "image_url": "https://wawards.org/images/sudan/20/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-58441a068e0f7664dbf5-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 86476,
+      "sha256": "7b7967f4d9f999150bdf46e2717f8166d4509684c96dd44a3bf4310d63b85956",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-58441a068e0f7664dbf5",
+      "page_title": "Order of the Two Niles",
+      "page_url": "https://wawards.org/sudan/order-of-the-two-niles.html",
+      "image_url": "https://wawards.org/images/sudan/20/3.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-58441a068e0f7664dbf5-03.jpg",
+      "ordinal": 3,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 85574,
+      "sha256": "d0bcf043f7978ec168f0739a1caf7262ce829925ed28427ee8c1b436eb3ea166",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-58441a068e0f7664dbf5",
+      "page_title": "Order of the Two Niles",
+      "page_url": "https://wawards.org/sudan/order-of-the-two-niles.html",
+      "image_url": "https://wawards.org/images/sudan/20/4.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-58441a068e0f7664dbf5-04.jpg",
+      "ordinal": 4,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48767,
+      "sha256": "af548d7c5172b651b669a6df6414d5e647bf72aabfe1500623a3a1353e1ecfcc",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-58441a068e0f7664dbf5",
+      "page_title": "Order of the Two Niles",
+      "page_url": "https://wawards.org/sudan/order-of-the-two-niles.html",
+      "image_url": "https://wawards.org/images/sudan/20/5.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-58441a068e0f7664dbf5-05.jpg",
+      "ordinal": 5,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54244,
+      "sha256": "3616a5ac6343b175189a6649ea4737eff08ab042953f3e9c185f801b0b559641",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-cc69698fcd4760269e5e",
+      "page_title": "Order of Victory",
+      "page_url": "https://wawards.org/sudan/order-of-victory.html",
+      "image_url": "https://wawards.org/images/sudan/13/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-cc69698fcd4760269e5e-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59869,
+      "sha256": "79586c5168d86558e367a660648b98cee177795ad938035daa5ceed02e7d722a",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-cc69698fcd4760269e5e",
+      "page_title": "Order of Victory",
+      "page_url": "https://wawards.org/sudan/order-of-victory.html",
+      "image_url": "https://wawards.org/images/sudan/13/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-cc69698fcd4760269e5e-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57414,
+      "sha256": "7c9d1e4832f6bd4f5f558cb0c25e2de328ccc8d7d35abef2234e07f9a09e238b",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-a1a90d59f33d6a1dd484",
+      "page_title": "Police and Prison Service Medal for Gallantry",
+      "page_url": "https://wawards.org/sudan/police-and-prison-service-medal-for-gallantry.html",
+      "image_url": "https://wawards.org/images/sudan/6/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-a1a90d59f33d6a1dd484-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72238,
+      "sha256": "69b7065890463a9a668a69c079ff73c0163735c2c048e2e5adf734c3a9b556b5",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-a1a90d59f33d6a1dd484",
+      "page_title": "Police and Prison Service Medal for Gallantry",
+      "page_url": "https://wawards.org/sudan/police-and-prison-service-medal-for-gallantry.html",
+      "image_url": "https://wawards.org/images/sudan/6/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-a1a90d59f33d6a1dd484-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72861,
+      "sha256": "d3a23d577ab06687f2b8d3df3fb3eaa73c7aa084f3a94960a37055f31ac8c2e4",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-7b07898b9fbd0b114486",
+      "page_title": "Police and Prison Service Medal for Meritorious Service",
+      "page_url": "https://wawards.org/sudan/police-and-prison-service-medal-for-meritorious-service.html",
+      "image_url": "https://wawards.org/images/sudan/7/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-7b07898b9fbd0b114486-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59860,
+      "sha256": "a3f0b2f64773a5ad372b0de0de95ebc2f4070c6d3686cbea2ef87c9daf53acd3",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-7b07898b9fbd0b114486",
+      "page_title": "Police and Prison Service Medal for Meritorious Service",
+      "page_url": "https://wawards.org/sudan/police-and-prison-service-medal-for-meritorious-service.html",
+      "image_url": "https://wawards.org/images/sudan/7/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-7b07898b9fbd0b114486-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71181,
+      "sha256": "ef88ed13abae6430ffa02e05d6dc8716d6044bda3de438349728e81daf04a8b2",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-fb96304f083d9cf34a64",
+      "page_title": "Sash of Honour",
+      "page_url": "https://wawards.org/sudan/sash-of-honour.html",
+      "image_url": "https://wawards.org/images/sudan/9/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-fb96304f083d9cf34a64-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56495,
+      "sha256": "c8bdfa8b6a820c7384c5993db7da0c059fa9be63827f75806aa575bba44f450c",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-fb96304f083d9cf34a64",
+      "page_title": "Sash of Honour",
+      "page_url": "https://wawards.org/sudan/sash-of-honour.html",
+      "image_url": "https://wawards.org/images/sudan/9/2.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-fb96304f083d9cf34a64-02.jpg",
+      "ordinal": 2,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61970,
+      "sha256": "9e3b4295e0bb5506d0b425033e2e78fbc4006e02348d4c68d097bd9c811eb580",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-85add2d0e40bc8fc253b",
+      "page_title": "Star of Civil Accomplishment",
+      "page_url": "https://wawards.org/sudan/star-of-civil-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/37/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-85add2d0e40bc8fc253b-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49072,
+      "sha256": "7b9b1d50221089b71792d6b2ba79e2daa3051fc71497a29b8de702835f1a5481",
+      "decoded": true,
+      "visual_status": "pending_review"
+    },
+    {
+      "source_id": "wawards-sudan-ea9e952198358e5541fe",
+      "page_title": "Star of Military Accomplishment",
+      "page_url": "https://wawards.org/sudan/star-of-military-accomplishment.html",
+      "image_url": "https://wawards.org/images/sudan/18/1.jpg",
+      "local_path": "assets/raw/wawards_sudan/wawards-sudan-ea9e952198358e5541fe-01.jpg",
+      "ordinal": 1,
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39843,
+      "sha256": "25abef63e03e0fa070e8d8fa1d13b0e6967394d68dcee9553eab5c73d6c93773",
+      "decoded": true,
+      "visual_status": "pending_review"
+    }
+  ]
+}

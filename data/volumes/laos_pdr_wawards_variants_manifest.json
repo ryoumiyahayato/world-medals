@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "laos-wawards-laos_pdr_wawards_variants-01",
+      "record_id": "LAO-PDR-ORDER-VICTORY-REVOLUTION-WAWARDS",
+      "view_key": "LAO-PDR-ORDER-VICTORY-REVOLUTION-WAWARDS-VIEW1",
+      "local_path": "assets/images/wawards_laos/laos_pdr_wawards_variants_01.jpg",
+      "source_page": "https://wawards.org/en/laos/people-s-republic-of-laos/order-for-victory-in-the-revolution.html",
+      "image_url": "https://wawards.org/images/laos/2/1/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36513,
+      "sha256": "d92688d51acc2a12272a9bc8dabf4f892130ba0f52862c782ea4d914f4462e2c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "laos-wawards-laos_pdr_wawards_variants-02",
+      "record_id": "LAO-PDR-ORDER-VICTORY-REVOLUTION-WAWARDS",
+      "view_key": "LAO-PDR-ORDER-VICTORY-REVOLUTION-WAWARDS-VIEW2",
+      "local_path": "assets/images/wawards_laos/laos_pdr_wawards_variants_02.jpg",
+      "source_page": "https://wawards.org/en/laos/people-s-republic-of-laos/order-for-victory-in-the-revolution.html",
+      "image_url": "https://wawards.org/images/laos/2/1/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 34703,
+      "sha256": "5500d29929d7746782e32c385637edf5134f2cf279341f6ceb664b66e0b5d30b",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

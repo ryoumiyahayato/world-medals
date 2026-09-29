@@ -1,0 +1,91 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "cyp-wa-order_of_makarios_iii-representative-image",
+      "record_id": "CYP-WA-ORDER_OF_MAKARIOS_III-REPRESENTATIVE",
+      "view_key": "CYP-WA-ORDER_OF_MAKARIOS_III-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/cyprus_wawards_families/order-of-makarios-iii.jpg",
+      "source_page": "https://wawards.org/cyprus/order-of-makarios-iii.html",
+      "image_url": "https://wawards.org/images/cyprus/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43568,
+      "sha256": "d0748b7b395aa5babc901fa59897330027d593608e16f892ae1e0067ec704224",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cyp-wa-order_of_merit_of_the_republic_of_cyprus-representative-image",
+      "record_id": "CYP-WA-ORDER_OF_MERIT_OF_THE_REPUBLIC_OF_CYPRUS-REPRESENTATIVE",
+      "view_key": "CYP-WA-ORDER_OF_MERIT_OF_THE_REPUBLIC_OF_CYPRUS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/cyprus_wawards_families/order-of-merit-of-the-republic-of-cyprus.jpg",
+      "source_page": "https://wawards.org/cyprus/order-of-merit-of-the-republic-of-cyprus.html",
+      "image_url": "https://wawards.org/images/cyprus/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49806,
+      "sha256": "f35b801f0bb2406e0ef00114258866fbf086680c5b108d958d3faeee00709000",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cyp-wa-medal_of_eudokimos_diokesis-representative-image",
+      "record_id": "CYP-WA-MEDAL_OF_EUDOKIMOS_DIOKESIS-REPRESENTATIVE",
+      "view_key": "CYP-WA-MEDAL_OF_EUDOKIMOS_DIOKESIS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/cyprus_wawards_families/medal-of-eudokimos-diokesis.jpg",
+      "source_page": "https://wawards.org/cyprus/medal-of-eudokimos-diokesis.html",
+      "image_url": "https://wawards.org/images/cyprus/3/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 33987,
+      "sha256": "83079cd6230f243549dfef6f73d7f864ef452af50a84d9201fe6c50b2300e8f3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cyp-wa-police_medal_of_merit-representative-image",
+      "record_id": "CYP-WA-POLICE_MEDAL_OF_MERIT-REPRESENTATIVE",
+      "view_key": "CYP-WA-POLICE_MEDAL_OF_MERIT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/cyprus_wawards_families/police-medal-of-merit.jpg",
+      "source_page": "https://wawards.org/cyprus/police-medal-of-merit.html",
+      "image_url": "https://wawards.org/images/cyprus/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 27406,
+      "sha256": "88273636982364d61053a5efe69c4b4610d881b2ec53dbfa785df9cd2754c43f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cyp-wa-police_service_medal-representative-image",
+      "record_id": "CYP-WA-POLICE_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "CYP-WA-POLICE_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/cyprus_wawards_families/police-service-medal.jpg",
+      "source_page": "https://wawards.org/cyprus/police-service-medal.html",
+      "image_url": "https://wawards.org/images/cyprus/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45059,
+      "sha256": "55b1008241dba887c77bca941767bf05de87e4f74e560e0173afdfe49f2548b5",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": []
+}

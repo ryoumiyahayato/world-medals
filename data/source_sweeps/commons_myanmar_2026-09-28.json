@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-09-28",
+  "source": "Category:Orders, decorations and medals of Myanmar",
+  "status": "complete_with_download_failures",
+  "categories_visited": 21,
+  "files_discovered": 113,
+  "raster_files_cached": 9,
+  "download_failures": [
+    {
+      "title": "File:De Orde van Birma.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/De_Orde_van_Birma.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)'>"
+    },
+    {
+      "title": "File:Order of Pyidaungsu Sithu Thingaha.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Order_of_Pyidaungsu_Sithu_Thingaha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)'>"
+    },
+    {
+      "title": "File:Tatmadaw Diamond Jubilee Badge.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tatmadaw_Diamond_Jubilee_Badge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)'>"
+    }
+  ],
+  "categories": [
+    "Category:Aung San Medal",
+    "Category:Aung San Thuriya Medal",
+    "Category:Campaign Medal (Lauk-Kai)",
+    "Category:Campaign Medal (Shwe Lin Yone)",
+    "Category:Campaign medals of Myanmar",
+    "Category:Commemorative medals of Myanmar",
+    "Category:Jubilee medals of Myanmar",
+    "Category:Medal of Valor (Myanmar)",
+    "Category:Medals of Myanmar",
+    "Category:Military awards and decorations of Myanmar",
+    "Category:National Defence Services Medal (Myanmar)",
+    "Category:Order of Burma",
+    "Category:Order of Pyidaungsu Sithu",
+    "Category:Order of Thudhamma",
+    "Category:Orders of Myanmar",
+    "Category:Orders, decorations and medals of Myanmar",
+    "Category:People's War Combatant Medal",
+    "Category:Ribbon bars of the Order of Pyidaungsu Sithu",
+    "Category:Ribbon bars of the Order of Thudhamma",
+    "Category:Tatmadaw Diamond Jubilee Badge",
+    "Category:Thiha Bala Medal"
+  ],
+  "retry_recovered": [],
+  "thumbnail_recovered": [
+    {
+      "title": "File:Order of Thudhamma Thingaha.png",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Order_of_Thudhamma_Thingaha.png/1280px-Order_of_Thudhamma_Thingaha.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_myanmar/0cb528155b0367eb_1200.png",
+      "width": 1280,
+      "height": 1280,
+      "bytes": 1117418
+    },
+    {
+      "title": "File:Senior General rank medal.png",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Senior_General_rank_medal.png/1280px-Senior_General_rank_medal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_myanmar/ea1bb5aa12300c53_1200.png",
+      "width": 1280,
+      "height": 2442,
+      "bytes": 666891
+    },
+    {
+      "title": "File:Vice Senior General rank medal.png",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Vice_Senior_General_rank_medal.png/1280px-Vice_Senior_General_rank_medal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_myanmar/73636b7ee1f4741c_1200.png",
+      "width": 1280,
+      "height": 2442,
+      "bytes": 654319
+    }
+  ]
+}

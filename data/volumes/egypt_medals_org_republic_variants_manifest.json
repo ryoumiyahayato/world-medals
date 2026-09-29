@@ -1,0 +1,491 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-medals-org-rep-labour-class-3-01",
+      "record_id": "EGY-MEDALS-ORG-REP-LABOUR-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-LABOUR-CLASS-3-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/labour-class-3-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic009.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic009-05.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        130,
+        250
+      ],
+      "bytes": 11366,
+      "sha256": "c97d3a71e7f53bb126ef65ebc818532d4c22e3834b28ddd0ec7e04687d6fcef0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-1-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-1-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-01.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        122,
+        250
+      ],
+      "bytes": 8653,
+      "sha256": "fb94bb1627a2d85d658920505da442da1f506c802de503e00ea8f31386efb1fc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-1-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-1-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-02.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        125,
+        250
+      ],
+      "bytes": 8925,
+      "sha256": "bc1c439122f1e64632098ee21a6c15353ef6948af79181b1ccfa6f37f9f3c456",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-2-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-2-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-03.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        121,
+        250
+      ],
+      "bytes": 9649,
+      "sha256": "b1f80a4e12d8ed04093b3e657a6a76ed33d76ca4f6f6e1926ef8dc4e7a83f1e4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-2-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-2-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-04.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        123,
+        250
+      ],
+      "bytes": 9661,
+      "sha256": "8e1e1ce919d013a0da0cd16c8cfe7fc56daa1685da36c2c983d72332c2a62fcd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-3-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-3-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-05.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        124,
+        250
+      ],
+      "bytes": 9396,
+      "sha256": "0558d1968fe04fdefe6ec17231faf6b168681cdcfb5825a75cf8db704af3ae75",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-courage-class-3-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-courage-class-3-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic016.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic016-06.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        121,
+        250
+      ],
+      "bytes": 8973,
+      "sha256": "9b699de664a264c3b8eab0f02971e1f088175e2febf9d1d8b235454a7562097e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-1-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-1-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-01.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        115,
+        250
+      ],
+      "bytes": 9023,
+      "sha256": "a035d785c0312f301dd17e3be7e28fd54eae58cede8ec2532a6df016a67634e6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-1-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-1-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-02.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        117,
+        250
+      ],
+      "bytes": 9303,
+      "sha256": "1a996f36636fb13b92406797833aedd2674cc6316a66abee5bc3b9c7b2dc3f05",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-2-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-2-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-03.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        119,
+        250
+      ],
+      "bytes": 9335,
+      "sha256": "ee6da7d76bb9674850d25916ca455feedef3608522a14cc0b6bfc3661c2b3a98",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-2-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-2-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-04.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        121,
+        250
+      ],
+      "bytes": 9719,
+      "sha256": "7c18df8cc3aefd83b38ac19afc9441c6eba97ae192c329af647b30fdeb17d582",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-3-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-3-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-05.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        109,
+        250
+      ],
+      "bytes": 8593,
+      "sha256": "39dda4b617a246df90ef51934c8208c4ba817611113f5ab5fe397baf88028eb7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-merit-medal-class-3-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/merit-medal-class-3-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic018.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic018-06.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        115,
+        250
+      ],
+      "bytes": 8848,
+      "sha256": "0cc45edd8bd03599852a272fb175b859d76dda2f620f4858665111f5165fec85",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-1-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-1-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-01.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        123,
+        250
+      ],
+      "bytes": 10253,
+      "sha256": "84d72550d52640174fc80bcea7c851777c615e1938f075a583d5522e54aafe8b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-1-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-1-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-02.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        120,
+        250
+      ],
+      "bytes": 10655,
+      "sha256": "b090b15485115e0ac742059f563da5f3dcba09f6c690cff89a2e4ef06a743419",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-2-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-2-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-03.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        119,
+        250
+      ],
+      "bytes": 10869,
+      "sha256": "c802970684665a95500d96d904a18ad7b1786a1fac1a32844c4c3419986a14af",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-2-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-2-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-04.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        115,
+        250
+      ],
+      "bytes": 10349,
+      "sha256": "42e9417b695b39c794eac0255823e3416671f879d18e05fd93c0aff0f9582a24",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-3-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-3-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-05.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        119,
+        250
+      ],
+      "bytes": 10588,
+      "sha256": "cb51feab1538076ad69490d3b8cf6544b41f3975ea97b6bb38f349ed9af8e3c0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-mobilisation-class-3-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/mobilisation-class-3-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic019.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic019-06.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        118,
+        250
+      ],
+      "bytes": 10793,
+      "sha256": "ee9d52f73186de5ed63c0c02b3578f0240f8091730afed1f6a25b053b2779204",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-1-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-1-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-01.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        122,
+        250
+      ],
+      "bytes": 10503,
+      "sha256": "dfbda8f93b0c578fbaef6e3a5e0c5a0a3eccd4b293f71bf9cf71fad157002354",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-1-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-1-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-02.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        128,
+        250
+      ],
+      "bytes": 10124,
+      "sha256": "6705b8619b1eba857705d8a3dea123f9df9b9ec230859167ee06d09375770bcd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-2-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-2-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-03.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        123,
+        250
+      ],
+      "bytes": 10973,
+      "sha256": "09cc20ab0c3e62bc621716f2c04d40d14f79c1e239a59d135577a146024a65bc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-2-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-2-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-04.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        127,
+        250
+      ],
+      "bytes": 10466,
+      "sha256": "019a5f4a4f4e1dbd12da7cd614c049f830a43be73db2db49a31258378ae3c8a7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-3-01",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-3-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-05.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        128,
+        250
+      ],
+      "bytes": 11425,
+      "sha256": "0a7da50b02bed67961f124d0f3213005791283de701d4814c2a48797cc602010",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-military-duty-class-3-02",
+      "record_id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3",
+      "view_key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/military-duty-class-3-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic020.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic020-06.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        129,
+        250
+      ],
+      "bytes": 10740,
+      "sha256": "3bb31f6b70be7999cd578757a9b77d0d4334a10196181860c40d2fb597edf690",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-distinguished-service-type-4-01",
+      "record_id": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4",
+      "view_key": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4-V1",
+      "local_path": "assets/images/egypt_medals_org_republic/distinguished-service-type-4-01.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic031.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic031-07.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        138,
+        250
+      ],
+      "bytes": 10169,
+      "sha256": "9ba5a2cfb5cff0c383cd8e9ffe00cc69da7be0c20a30a209c54f805e072fe4f2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medals-org-rep-distinguished-service-type-4-02",
+      "record_id": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4",
+      "view_key": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4-V2",
+      "local_path": "assets/images/egypt_medals_org_republic/distinguished-service-type-4-02.jpg",
+      "source_page": "https://medals.org.uk/egypt/egypt-republic/egypt-republic031.htm",
+      "image_url": "https://medals.org.uk/egypt/egypt-republic/images/egypt-republic031-08.jpg",
+      "artist": "Medals of the World",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        125,
+        250
+      ],
+      "bytes": 10074,
+      "sha256": "81c5dccfc9cd16c8ac74464b1e8a152e1714fd4df22fcdcf847057cee437013b",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "as_of": "2026-09-27",
+  "source": "MedalBook Ottoman Empire complete catalogue sweep",
+  "source_totals": {
+    "raw_candidates": 279,
+    "provisional_families": 114,
+    "main_award_candidates": 97,
+    "related_badges_and_insignia": 17
+  },
+  "audit_scope": "Catalogue-to-current-volume gap review after the complete source sweep; this file records only residual gaps and disputed identities, not every already-mapped family.",
+  "new_formal_unpictured": [
+    {
+      "family": "OTT-YEMEN-1905",
+      "normalized_key": "3rd yemen campaign medal 1905",
+      "variants": 1,
+      "status": "FORMAL_UNPICTURED",
+      "note": "Independent 1905 campaign award confirmed by Düstur No. 80 and SALT object ANUDM00226; not merged with the securely dated 1847 or 1892 Yemen issues, nor with the undated generic silver image. SALT's two scans remain Local Access and the original endpoints return 403."
+    }
+  ],
+  "resolved_formal_picture_gaps": [
+    {
+      "family": "OTT-TASVIR-HUMAYUN",
+      "normalized_key": "order of tasvir i humayun",
+      "status": "PICTURED_FORMAL",
+      "source": "AlifArt, 17 December 2022 auction, lot 76",
+      "note": "Mahmud II imperial portrait object with complete isolated front photograph; later-mounted period-style diamond frame is stated in the variant label."
+    }
+  ],
+  "related_unpictured": [
+    "commemorative medal of hatti humayun",
+    "commemorative medal of ihtifal i milli",
+    "medal of mekteb i tibbi yenin acilmasi",
+    "order of mecruchin i askeriye i iane cemiyeti"
+  ],
+  "unresolved_identity": [
+    {
+      "normalized_key": "medal of masallah",
+      "status": "IDENTITY_UNRESOLVED",
+      "reason": "The single catalogue description does not establish whether this was a formal award rather than a talismanic or commemorative medal."
+    },
+    {
+      "normalized_key": "sebastopol medal 1855",
+      "status": "PROPOSED_OR_UNISSUED_AWARD_STATUS_CONFLICT",
+      "reason": "SALT records a 37 mm gold object (ANUDM00126) and a bronze obverse trial (ANUDM00127), so this is not merely an unidentified Crimea-related name. SALT also states that the medal was very likely never awarded; it therefore remains outside the formal-award count pending stronger issuance evidence."
+    }
+  ],
+  "counting_effect": {
+    "pictured_formal_families_added": 1,
+    "formal_unpictured_families_added": 1,
+    "related_unpictured_families_added": 4,
+    "unresolved_candidates_added": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-09-27",
+  "source": "AlifArt, 17 December 2022 auction, lot 76",
+  "source_page": "https://www.alifart.com/tasvr-humayun-280571/",
+  "images": [
+    {
+      "view_key": "OTT-ALIFART-TASVIR-HUMAYUN-MAHMUD-II-FRONT",
+      "local_path": "assets/images/ottoman_tasvir_humayun/alifart_2022_lot76_front.jpg",
+      "original_local_path": "originals/ottoman_tasvir_humayun/alifart_2022_lot76_front.jpg",
+      "source_id": "alifart-2022-12-17-lot76",
+      "download_status": "downloaded_and_decoded",
+      "source_page_url": "https://www.alifart.com/tasvr-humayun-280571/",
+      "source_original_url": "https://www.alifart.com/pictures/product/3255-76.jpg",
+      "license": "AlifArt auction photograph; rights reserved; local research use only",
+      "width": 600,
+      "height": 600,
+      "sha256": "9ef85b6abff2e03f684ec2b936b9774d58fc39f54f475aab7ef28a81409b8910",
+      "side": "front"
+    }
+  ]
+}

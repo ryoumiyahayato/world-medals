@@ -24,7 +24,7 @@ for(const q of ['奥斯曼帝国','Mecidi','Osmaniye','1878','Prussia','Bavaria'
   assert(nodes.searchResults.children.length>0,`no search results for ${q}`);
   assert(nodes.searchResults.children.some(x=>x.href),`no clickable result for ${q}`);
 }
-for(const [q,target] of [['Meiji','japan-meiji'],['Prussia','prussia-kingdom'],['France','france-third-republic'],['伊朗','iran'],['埃及','egypt'],['苏丹','sudan'],['亚美尼亚','armenia'],['英国','uk'],['俄罗斯帝国','russian-empire'],['苏联','soviet-union'],['俄罗斯联邦','russian-federation'],['西班牙','spain-kingdom'],['美国','united-states']]){
+for(const [q,target] of [['Meiji','japan'],['Prussia','prussia-kingdom'],['France','france-third-republic'],['伊朗','iran'],['埃及','egypt'],['苏丹','sudan'],['亚美尼亚','armenia'],['英国','uk'],['俄罗斯帝国','russian-empire'],['苏联','soviet-union'],['俄罗斯联邦','russian-federation'],['西班牙','spain-kingdom'],['美国','united-states']]){
   nodes.search.value=q;nodes.search.listeners.input();
   assert(nodes.searchResults.children.some(x=>x.href==='#'+target),`no live volume result for ${q}`);
 }

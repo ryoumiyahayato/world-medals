@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-27",
   "scope_id": "egypt",
   "scope_label": "Egypt — Khedivate, Sultanate, Kingdom, Republic and UAR periods",
   "languages": [
@@ -129,11 +129,11 @@
       "has_pagination": false,
       "download_method": "unknown",
       "priority": 2,
-      "status": "partial_rate_limited",
-      "last_checked": "2026-09-26",
-      "coverage_detail": "Recursively scanned 16 in-scope award category pages: 102 category memberships, 99 unique files. Cached 19 selected file-description pages with original URLs, dimensions and licence metadata. All 19 original downloads were blocked by HTTP 429 Retry-After 600; no thumbnail substitutes accepted.",
-      "sweep_file": "data/source_sweeps/egypt_commons_awards.json",
-      "image_harvest_file": "data/image_harvest/egypt_commons_awards_batch1.json"
+      "status": "partial_printed_catalogue_not_located",
+      "last_checked": "2026-09-27",
+      "coverage_detail": "Official Presidency and Cairo-government museum descriptions were checked. They confirm the medals-and-decorations museum and its 1928 origin, but expose no object-level catalogue, pagination or named medal records. An academic museum study identifies printed catalogues titled 'Abdeen Palace Museums' and 'Selections of Abdeen Palace Museums'; those catalogues have not yet been located in an accessible digital copy.",
+      "sweep_file": "data/source_sweeps/egypt_abdeen_online_2026-09-27.json",
+      "notes": "Online institutional pages are exhausted for the current bounded sweep. Do not infer individual awards from gallery photographs."
     },
     {
       "source_id": "commons_egypt_awards",
@@ -153,16 +153,334 @@
       "has_pagination": true,
       "download_method": "direct",
       "priority": 2,
-      "status": "not_started",
-      "last_checked": "2026-09-26"
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "16 in-scope category pages recursively traversed; 102 category memberships and 99 unique file pages inventoried. Nineteen selected originals were queued; 18 local images were recovered, 13 complete-object images entered formal rows, 10 existing rows were upgraded, 3 variants were added and 3 duplicate/partial candidates were excluded.",
+      "sweep_file": "data/source_sweeps/egypt_commons_awards.json",
+      "image_harvest_file": "data/image_harvest/egypt_commons_awards_batch1.json",
+      "volume_file": "data/volumes/egypt_commons_verified.json",
+      "checkpoint_file": "data/checkpoints/egypt_sudan_expansion_2026-09-27.json"
+    },
+    {
+      "source_id": "egypt_mota_royal_jewelry_medal_collection",
+      "source_name": "Egypt Ministry of Tourism and Antiquities — Royal Jewelry Museum medal collection",
+      "base_url": "https://egymonuments.gov.eg/en/collections/a-collection-of-medal-22",
+      "source_type": "official_museum",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "regions_or_polities": [
+        "Muhammad Ali dynasty",
+        "Egypt"
+      ],
+      "date_coverage": "Muhammad Ali dynasty",
+      "content_coverage": "One official collection record and its full-size group photograph",
+      "has_images": true,
+      "image_quality_notes": "The 800x600 photograph shows multiple complete and partially obscured decorations in one display. The page does not identify the pieces individually, so it is retained as research evidence only and is not bound to formal rows.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 2,
+      "status": "completed_bounded_search",
+      "last_checked": "2026-09-27",
+      "coverage_result": "Arabic and English object pages checked; the original JPEG was downloaded and decoded. Four bounded site queries found no additional medal/order collection records.",
+      "candidate_file": "data/raw_candidates/egypt_mota_royal_jewelry.jsonl",
+      "sweep_file": "data/source_sweeps/egypt_mota_royal_jewelry_2026-09-27.json",
+      "local_image": "assets/raw/egypt_mota_royal_jewelry/f7-01-03l.jpg",
+      "notes": "Official museum page; site rights are reserved. Keep locally for research and identification work, not public HTML publication."
+    },
+    {
+      "source_id": "heritage_auction_3075_2019",
+      "source_name": "Heritage Auctions — World & Ancient Coins Signature Auction 3075",
+      "base_url": "https://media.biddr.com/media/pdf/auction_catalogues/660.pdf",
+      "source_type": "auction_catalogue",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "Fuad I, 1928/29",
+      "content_coverage": "Complete Egypt section on PDF page 88 (printed page 89), lot 32149",
+      "has_images": true,
+      "image_quality_notes": "Embedded catalogue obverse and reverse extracted at 250 pixels; complete low-resolution historical auction catalogue illustrations.",
+      "has_pagination": true,
+      "download_method": "direct_pdf",
+      "priority": 2,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "All 411 PDF pages were text-indexed; the bounded Egypt section contains lot 32149, a Fuad I gold first-class Grace and Favour service medal. Both embedded faces were extracted, decoded and visually matched to the lot text.",
+      "downloaded_file": "sources/books/heritage_auction_3075_2019.pdf",
+      "candidate_file": "data/raw_candidates/heritage_auction_3075_egypt.jsonl",
+      "sweep_file": "data/source_sweeps/heritage_auction_3075_egypt_2026-09-27.json",
+      "notes": "The catalogue calls the object a service medal and explicitly identifies it as the first-class Grace and Favour medal. OMSA lists the family under 1923; this physical lot is dated AH 1347 (1928/29), so both facts are retained without silently resolving the discrepancy."
+    },
+    {
+      "source_id": "omsa_egypt_malaria_cholera_2005",
+      "source_name": "JOMSA — Egypt's 1945 Malaria and 1947 Cholera medals",
+      "base_url": "https://www.omsa.org/files/jomsa_arch/Splits/2005/672153_JOMSA_Vol56_2_37.pdf",
+      "source_type": "academic",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "1945–1947",
+      "content_coverage": "All three accessible PDF pages, including Figures 2–6 and the complete article conclusion",
+      "has_images": true,
+      "image_quality_notes": "Historical journal scans. The cholera medal has complete front and reverse; the malaria medal is reverse-only in this accessible split; the combined piece remains status-conflicted.",
+      "has_pagination": true,
+      "download_method": "direct_pdf",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "All 3 accessible PDF pages were processed. The 1947 Cholera Medal now has complete front/reverse crops. The 1945 Malaria Medal remains reverse-only because Figure 1 is outside the supplied split. The combined object is retained in conflicts as trial/proof versus possible award.",
+      "downloaded_file": "sources/books/omsa_egypt_malaria_cholera_2005.pdf",
+      "download_sha256": "67efb2186b9ac523f022dfbdb2fec4cb4b3757412d6a2e90ade4bc74d0c73e1a",
+      "candidate_file": "data/raw_candidates/omsa_egypt_malaria_cholera_2005.jsonl",
+      "sweep_file": "data/source_sweeps/omsa_egypt_malaria_cholera_2005_2026-09-27.json",
+      "notes": "Full rendered source pages and crop coordinates are preserved. The visible crown on the malaria reverse is not a substitute for its missing obverse."
+    },
+    {
+      "source_id": "spink_24003_egypt_health_medals",
+      "source_name": "Spink auction 24003 — Egypt public-health medals, lot 347",
+      "base_url": "https://spink.com/lot/24003000347",
+      "source_type": "auction",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "1945–1947",
+      "content_coverage": "Complete bounded lot 347 and its large group photograph",
+      "has_images": true,
+      "image_quality_notes": "1100x567 four-object group photograph. The red-enamel crown malaria medal is complete and separable; other objects remain in the preserved original group.",
+      "has_pagination": false,
+      "download_method": "direct_image",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "The lot text and large image were processed in full: two 1945 malaria crown-suspension variants, one 1947 cholera medal and one combined reverse-die specimen. One complete malaria front was paired explicitly with a different-object JOMSA reverse of the same crown-suspension type.",
+      "candidate_file": "data/raw_candidates/spink_24003_egypt_health_medals.jsonl",
+      "sweep_file": "data/source_sweeps/spink_24003_egypt_health_medals_2026-09-27.json",
+      "local_group_image": "assets/raw/egypt_spink_24003/24003_347_1.jpg",
+      "notes": "The formal row states that front and reverse are different objects. No second face was inferred from image order."
+    },
+    {
+      "source_id": "medals_org_egypt_kingdom",
+      "source_name": "Medals of the World — Kingdom of Egypt catalogue",
+      "base_url": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom-text1.htm",
+      "source_type": "specialist_catalogue",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Sultanate of Egypt",
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "1913–1952",
+      "content_coverage": "Complete current text index and every linked object page",
+      "has_images": true,
+      "image_quality_notes": "Low-resolution but complete catalogue object photographs. Ribbon and unlabelled graphics were separated and are not eligible as award illustrations.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "24 linked award pages processed; 55 object images downloaded; 9 ribbon or unlabelled graphics separated; the unlinked 1947 Cholera Epidemic Medal label retained as a text candidate; 0 failed URLs.",
+      "candidate_file": "data/raw_candidates/medals_org_egypt_kingdom.jsonl",
+      "image_harvest_file": "data/image_harvest/medals_org_egypt_kingdom.json",
+      "sweep_file": "data/source_sweeps/medals_org_egypt_kingdom_2026-09-27.json",
+      "page_cache": "sources/pages/medals_org_egypt_kingdom",
+      "image_cache": "assets/raw/medals_org_egypt_kingdom",
+      "notes": "The current index boundary was exhausted. The 1913 Bravery Medal has been promoted with complete obverse and reverse; remaining grade images require comparison against existing rows before promotion."
+    },
+    {
+      "source_id": "medals_org_egypt_republic",
+      "source_name": "Medals of the World — Republic of Egypt catalogue",
+      "base_url": "https://medals.org.uk/egypt/egypt-republic/egypt-republic-text.htm",
+      "source_type": "specialist_catalogue",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "1952–present, with continued pre-republic orders",
+      "content_coverage": "Complete current text index and all 56 linked Egyptian award pages",
+      "has_images": true,
+      "image_quality_notes": "Low-resolution complete-object catalogue photographs. Fifty-three ribbons, devices or unlabelled graphics were separated from 74 eligible object images.",
+      "has_pagination": false,
+      "download_method": "direct",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "56 Egyptian award pages processed; 74 object images retained; 53 ribbon, device or unlabelled graphics excluded from formal image use; 0 failed URLs. Separately listed UN mission medals were excluded from the Egypt family set because the awarding body is the United Nations.",
+      "candidate_file": "data/raw_candidates/medals_org_egypt_republic.jsonl",
+      "image_harvest_file": "data/image_harvest/medals_org_egypt_republic.json",
+      "sweep_file": "data/source_sweeps/medals_org_egypt_republic_2026-09-27.json",
+      "page_cache": "sources/pages/medals_org_egypt_republic",
+      "image_cache": "assets/raw/medals_org_egypt_republic",
+      "notes": "The source is fully swept. Explicit class and type labels are now being reconciled against existing generic Egyptian rows before promotion."
+    },
+    {
+      "source_id": "ahram_filaha_2019",
+      "source_name": "Al-Ahram — history and decrees of the Order of Filaha",
+      "base_url": "https://gate.ahram.org.eg/News/2132526.aspx",
+      "source_type": "historical_press_article",
+      "languages": [
+        "ar"
+      ],
+      "regions_or_polities": [
+        "Sultanate of Egypt",
+        "Kingdom of Egypt"
+      ],
+      "date_coverage": "1915–1923",
+      "content_coverage": "Single bounded article, the reproduced decree pages and all linked images",
+      "has_images": true,
+      "image_quality_notes": "Three complete article images were downloaded, but they show decree pages and agricultural sculptures rather than an order insignia; none is eligible for the formal image column.",
+      "has_pagination": false,
+      "download_method": "direct_image",
+      "priority": 1,
+      "status": "completed_bounded_article",
+      "last_checked": "2026-09-27",
+      "coverage_result": "The article and all three images were checked. It supports the 1915 establishment, 1923 amendment, three-grade structure and design description of the Order of Filaha, but supplies no object photograph.",
+      "candidate_file": "data/raw_candidates/ahram_filaha_2019.jsonl",
+      "sweep_file": "data/source_sweeps/ahram_filaha_2019_2026-09-27.json",
+      "image_cache": "assets/raw/egypt_ahram_filaha",
+      "notes": "Evidence source only; do not substitute the decree or sculpture photographs for an image of the order."
+    },
+    {
+      "source_id": "emedals_egypt_catalog",
+      "source_name": "eMedals — complete current Egypt collection",
+      "base_url": "https://www.emedals.com/collections/africa-egypt",
+      "source_type": "dealer_archive",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Khedivate of Egypt",
+        "Kingdom of Egypt",
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "19th–21st century",
+      "content_coverage": "All products exposed by the public collection API, all product descriptions and every product image",
+      "has_images": true,
+      "image_quality_notes": "High-resolution multi-view object photographs, generally 1000x750, including complete front and reverse views, maker marks, cases and detail photographs.",
+      "has_pagination": true,
+      "download_method": "public_shopify_json_and_direct_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "91 products and 549 images downloaded and decoded with no failures; page 2 returned zero products. Fourteen maker/grade rows with 28 complete views were promoted after visual review.",
+      "candidate_file": "data/raw_candidates/emedals_egypt_catalog.jsonl",
+      "image_harvest_file": "data/image_harvest/emedals_egypt_catalog.json",
+      "sweep_file": "data/source_sweeps/emedals_egypt_catalog_2026-09-27.json",
+      "api_cache": "sources/pages/emedals_egypt/products-page-1.json",
+      "image_cache": "assets/raw/emedals_egypt",
+      "volume_file": "data/volumes/egypt_emedals_variants.json",
+      "notes": "The complete current collection contains no object titled Order of Filaha or any of the six other outstanding OMSA royal-period gaps. The negative result is preserved as a source boundary, not treated as proof that no object exists elsewhere."
+    },
+    {
+      "source_id": "awm_khedive_star_1884_86",
+      "source_name": "Australian War Memorial — Khedive's Star RELAWM14684",
+      "base_url": "https://www.awm.gov.au/collection/C134468",
+      "source_type": "museum",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Khedivate of Egypt"
+      ],
+      "date_coverage": "1884–1886 issue; c.1886 manufacture",
+      "content_coverage": "Complete bounded museum object page and both downloadable image views",
+      "has_images": true,
+      "image_quality_notes": "Complete museum obverse and reverse photographs; 395x654 and 281x450 low-resolution downloads.",
+      "has_pagination": true,
+      "download_method": "direct_image",
+      "priority": 1,
+      "status": "completed_bounded_object",
+      "last_checked": "2026-09-27",
+      "coverage_result": "One object page and both image pages processed; two images downloaded, decoded and visually checked; exact 1884-6 variant promoted.",
+      "candidate_file": "data/raw_candidates/egypt_khedive_star_reconciliation.jsonl",
+      "sweep_file": "data/source_sweeps/awm_khedive_star_2026-09-27.json",
+      "volume_file": "data/volumes/egypt_khedive_star_reconciled.json",
+      "notes": "The museum entry explicitly identifies bronze, Henry Jenkins & Sons, Birmingham, c.1886, and describes the obverse and reverse."
+    },
+    {
+      "source_id": "spink_auction_26001_egypt",
+      "source_name": "Spink auction 26001 — Egypt block",
+      "base_url": "https://www.spink.com/auction/26001",
+      "source_type": "auction",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Kingdom of Egypt",
+        "Republic of Egypt"
+      ],
+      "date_coverage": "1922–1935 and Republic period",
+      "content_coverage": "Complete auction catalogue listing checked; contiguous Egypt block lots 322-324",
+      "has_images": true,
+      "image_quality_notes": "Three large complete-object or complete-set photographs, 526x1200 to 1100x1104.",
+      "has_pagination": false,
+      "download_method": "direct_image",
+      "priority": 1,
+      "status": "completed_bounded_section",
+      "last_checked": "2026-09-27",
+      "coverage_result": "All three Egypt lots in the auction listing processed; three images downloaded and decoded; three maker/grade variants promoted.",
+      "candidate_file": "data/raw_candidates/spink26001_egypt.jsonl",
+      "sweep_file": "data/source_sweeps/spink26001_egypt_2026-09-27.json",
+      "volume_file": "data/volumes/egypt_spink26001.json",
+      "notes": "Lots 322-324 comprise two Order of the Nile variants and one Order of Merit first-class set."
+    },
+    {
+      "source_id": "medalbook_egypt_catalogue",
+      "source_name": "MedalBook — complete Egypt catalogue",
+      "base_url": "https://www.medalbook.com/middle-east/egypt-1",
+      "source_type": "specialist_catalogue",
+      "languages": [
+        "en"
+      ],
+      "regions_or_polities": [
+        "Khedivate of Egypt",
+        "Sultanate of Egypt",
+        "Kingdom of Egypt",
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Arab Republic of Egypt"
+      ],
+      "date_coverage": "19th–21st century",
+      "content_coverage": "All three country pages, all four category pages and every discovered object/version page",
+      "has_images": true,
+      "image_quality_notes": "394 catalogue images downloaded and decoded. Complete front and reverse views were selected; ribbon-only, case-only and detail-only images were excluded as primary illustrations.",
+      "has_pagination": true,
+      "download_method": "recursive_page_sweep_and_direct_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-27",
+      "coverage_result": "7 index/category pages and 195 object pages processed; 76 pictured object pages; 394 image files downloaded with 0 failures. Fifty-seven non-duplicate grade/type rows and 106 complete views were promoted after visual review. Three source entries that reused the exact same object photographs under incompatible grade labels were excluded.",
+      "candidate_file": "data/raw_candidates/medalbook_egypt.jsonl",
+      "sweep_file": "data/source_sweeps/medalbook_egypt_2026-09-27.json",
+      "image_sweep_file": "data/source_sweeps/medalbook_egypt_images_2026-09-27.json",
+      "page_cache": "sources/pages/medalbook_egypt",
+      "image_cache": "assets/raw/medalbook_egypt",
+      "volume_file": "data/volumes/egypt_medalbook_variants.json",
+      "notes": "Pilot wings, observer badge and judicial badge are retained only as related candidates. Order of Felaha and several rare medals remain source-backed but unpictured."
     }
   ],
   "coverage": {
-    "planned": 5,
-    "completed": 2,
+    "planned": 16,
+    "completed": 15,
     "partial": 1,
     "blocked": 0,
-    "not_started": 2
+    "not_started": 0
   },
-  "next_action": "Normalize the 27 listed OMSA Egypt award rows against Wawards and Presidency records; keep the 2 uncertain dynastic mentions separate and locate permitted object/front images for the 1 reverse-only figure reference."
+  "next_action": "Preserve the six remaining source-backed but unpictured royal-period families in the gap queue. Per the user-directed pivot, resume them opportunistically while the main queue advances through accessible Asian national and historical award catalogues."
 }

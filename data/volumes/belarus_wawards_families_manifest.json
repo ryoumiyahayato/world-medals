@@ -1,0 +1,1400 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "blr-wa-hero_of_belarus-representative-image-01",
+      "record_id": "BLR-WA-HERO_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-HERO_OF_BELARUS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/hero-of-belarus_01.jpg",
+      "source_page": "https://wawards.org/belarus/hero-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67545,
+      "sha256": "6015c0b05ced2a2e53984ba9d5cd3e3afaf52ecee05fd79d99c417dee116acc7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_the_fatherland-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_THE_FATHERLAND-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_THE_FATHERLAND-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-the-fatherland_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-the-fatherland.html",
+      "image_url": "https://wawards.org/images/belarus/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57234,
+      "sha256": "b1df0a2b336d95cace7ae378e0d5097edd303276b5080225ddc6625831c83a06",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_the_fatherland-representative-image-02",
+      "record_id": "BLR-WA-ORDER_OF_THE_FATHERLAND-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_THE_FATHERLAND-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/order-of-the-fatherland_02.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-the-fatherland.html",
+      "image_url": "https://wawards.org/images/belarus/9/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60773,
+      "sha256": "671db52295e570b1a0f03eebbc4b2ee1ca29624e615cf16ee9038182ec203a88",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_for_promotion_of_peace_and_friendship-representative-image-01",
+      "record_id": "BLR-WA-ORDER_FOR_PROMOTION_OF_PEACE_AND_FRIENDSHIP-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_FOR_PROMOTION_OF_PEACE_AND_FRIENDSHIP-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-for-promotion-of-peace-and-friendship_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-for-promotion-of-peace-and-friendship.html",
+      "image_url": "https://wawards.org/images/belarus/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 76489,
+      "sha256": "1e6e01fe27fd76fc3edef443927bc851ac14adec18d0dcec0a35bf307f5dee6d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_military_glory-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_MILITARY_GLORY-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_MILITARY_GLORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-military-glory_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-military-glory.html",
+      "image_url": "https://wawards.org/images/belarus/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 92080,
+      "sha256": "303f9e850f1491c826d2892ac44ff11985a4b96a3207f26bebbd898cb4cf0913",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_labor_glory-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_LABOR_GLORY-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_LABOR_GLORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-labor-glory_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-labor-glory.html",
+      "image_url": "https://wawards.org/images/belarus/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 82164,
+      "sha256": "aa79b4100da220fddf97962f54a035ce4ec49e864ddd4e004bc2db777fdef023",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_for_service_to_the_homeland-representative-image-01",
+      "record_id": "BLR-WA-ORDER_FOR_SERVICE_TO_THE_HOMELAND-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_FOR_SERVICE_TO_THE_HOMELAND-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-for-service-to-the-homeland_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-for-service-to-the-homeland.html",
+      "image_url": "https://wawards.org/images/belarus/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 90666,
+      "sha256": "5eed2aeaeab2349691bd659cc44bf790718fd715d4688c4bce444cb181dc27cc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_for_service_to_the_homeland-representative-image-02",
+      "record_id": "BLR-WA-ORDER_FOR_SERVICE_TO_THE_HOMELAND-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_FOR_SERVICE_TO_THE_HOMELAND-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/order-for-service-to-the-homeland_02.jpg",
+      "source_page": "https://wawards.org/belarus/order-for-service-to-the-homeland.html",
+      "image_url": "https://wawards.org/images/belarus/13/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77992,
+      "sha256": "871bee3e8f9cc7e122a6c4516c0afda67eed60d9448bc99750898060796eda43",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_for_personal_courage-representative-image-01",
+      "record_id": "BLR-WA-ORDER_FOR_PERSONAL_COURAGE-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_FOR_PERSONAL_COURAGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-for-personal-courage_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-for-personal-courage.html",
+      "image_url": "https://wawards.org/images/belarus/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 101026,
+      "sha256": "6c76514dab7b49db832b6b13aaf63da8278d3510a2b48a8ed1e46441eb68eb38",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_friendship_of_peoples-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_FRIENDSHIP_OF_PEOPLES-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_FRIENDSHIP_OF_PEOPLES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-friendship-of-peoples_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-friendship-of-peoples.html",
+      "image_url": "https://wawards.org/images/belarus/15/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 101904,
+      "sha256": "6f42a37ee8c13e4bdf2f60077b213d1fa4fa8a5e5212fe2ec530331f31efb7b6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_friendship_of_peoples-representative-image-02",
+      "record_id": "BLR-WA-ORDER_OF_FRIENDSHIP_OF_PEOPLES-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_FRIENDSHIP_OF_PEOPLES-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/order-of-friendship-of-peoples_02.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-friendship-of-peoples.html",
+      "image_url": "https://wawards.org/images/belarus/15/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74640,
+      "sha256": "01f5fb60041514a647d8836e588823afdf3283c3f09ab19fae25b1f6bc3210f8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_honor-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_HONOR-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_HONOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-honor_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-honor.html",
+      "image_url": "https://wawards.org/images/belarus/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68908,
+      "sha256": "d86ce6413d4d0f9809663b9dea54cab09b1d8bb0e765b25c573db1c7a3e4fde6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_francysk_skaryna-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_FRANCYSK_SKARYNA-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_FRANCYSK_SKARYNA-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-francysk-skaryna_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-francysk-skaryna.html",
+      "image_url": "https://wawards.org/images/belarus/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48238,
+      "sha256": "3c76fc5715c97c1e089292af69c750c9ede81a6f2812830ce69c6dbb1110b7b3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_francysk_skaryna-representative-image-02",
+      "record_id": "BLR-WA-ORDER_OF_FRANCYSK_SKARYNA-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_FRANCYSK_SKARYNA-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/order-of-francysk-skaryna_02.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-francysk-skaryna.html",
+      "image_url": "https://wawards.org/images/belarus/17/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66716,
+      "sha256": "dd769474f67b72d459f8f79a3705f57a4b79c67415356a821dd9d16616e85dd1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_mother-representative-image-01",
+      "record_id": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/order-of-mother_01.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-mother.html",
+      "image_url": "https://wawards.org/images/belarus/1/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74692,
+      "sha256": "752e358cfade8e829953b5de9263be369677199a84e947fec0605cb40d59d142",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_mother-representative-image-02",
+      "record_id": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/order-of-mother_02.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-mother.html",
+      "image_url": "https://wawards.org/images/belarus/1/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54001,
+      "sha256": "79c9d029c76590ba8ad5dcdf21df0473cc393a610a856c652a1618d3744ed3ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_mother-representative-image-03",
+      "record_id": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/order-of-mother_03.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-mother.html",
+      "image_url": "https://wawards.org/images/belarus/1/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68408,
+      "sha256": "6f0cd4d1716e33f4e7182667bc3a5b9470acb58fa5c1f4771175948fc041e45b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-order_of_mother-representative-image-04",
+      "record_id": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE",
+      "view_key": "BLR-WA-ORDER_OF_MOTHER-REPRESENTATIVE-VIEW4",
+      "local_path": "assets/images/belarus_wawards_families/order-of-mother_04.jpg",
+      "source_page": "https://wawards.org/belarus/order-of-mother.html",
+      "image_url": "https://wawards.org/images/belarus/1/6.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65449,
+      "sha256": "0206ff4c88a172db9c5e442f97e46aaef3e6b6f8f3626df98160919738800144",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_bravery-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-bravery_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-bravery.html",
+      "image_url": "https://wawards.org/images/belarus/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62013,
+      "sha256": "08823202c96112e56cce57c230bb0add1bf5d52b7ed6707f6839d2f2ae3d15fd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_bravery-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-bravery_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-bravery.html",
+      "image_url": "https://wawards.org/images/belarus/18/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53744,
+      "sha256": "81922100d4a6f2226dd12b9fe75292c1ebc59ebc4d30f469659255ffa95ce17a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_bravery-representative-image-03",
+      "record_id": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-bravery_03.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-bravery.html",
+      "image_url": "https://wawards.org/images/belarus/18/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58290,
+      "sha256": "6c42527ffd4d2efd5ef22bf8a4fb7c22cbbd75424c6c2946a2374bb0a7de1606",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_saved_life-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_SAVED_LIFE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_SAVED_LIFE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-saved-life_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-saved-life.html",
+      "image_url": "https://wawards.org/images/belarus/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62444,
+      "sha256": "29c98b431e1e98c34351b3ea4e072f0c71a729790f303826bae81f7c94177fce",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_saved_life-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_SAVED_LIFE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_SAVED_LIFE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-saved-life_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-saved-life.html",
+      "image_url": "https://wawards.org/images/belarus/19/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42115,
+      "sha256": "006c4307f56fdd45c8d5d5f54631bc4b26af09f5a44062c478edf3612696324c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_military_service-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-military-service_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-military-service.html",
+      "image_url": "https://wawards.org/images/belarus/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 86207,
+      "sha256": "6624f6023f984d41cbd230f582598cd6a8fa074dd1ec83afaa0e59532bbc7e84",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_military_service-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-military-service_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-military-service.html",
+      "image_url": "https://wawards.org/images/belarus/20/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 96843,
+      "sha256": "80dee90e561c382367f46e243c8c29cf918021bb7fc1a0851980bf4cee979589",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_the_maintenance_of_public_order-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-the-maintenance-of-public-order_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-the-maintenance-of-public-order.html",
+      "image_url": "https://wawards.org/images/belarus/2/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 88283,
+      "sha256": "38d714387560aa313fa3eb6e709d8ca25434ef082b18adc7071b0e6b9d14eb87",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_the_maintenance_of_public_order-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-the-maintenance-of-public-order_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-the-maintenance-of-public-order.html",
+      "image_url": "https://wawards.org/images/belarus/2/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 89020,
+      "sha256": "ad932e25d9b185300ba0ebbaca64bb34be8b7b5f052e7fe6a8d622d1ea6fb5cf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_the_maintenance_of_public_order-representative-image-03",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-the-maintenance-of-public-order_03.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-the-maintenance-of-public-order.html",
+      "image_url": "https://wawards.org/images/belarus/2/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77008,
+      "sha256": "0ed27257fe173248eb112552719f4e18c93792c5637d0d68e732fe704a56043b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_the_state_border_protection-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_STATE_BORDER_PROTECTION-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_STATE_BORDER_PROTECTION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-the-state-border-protection_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-the-state-border-protection.html",
+      "image_url": "https://wawards.org/images/belarus/21/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66499,
+      "sha256": "09d09600849a74dfbc2a91389ff4440f589a70e812725fb64fdb4252e780a3a3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_the_state_border_protection-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_STATE_BORDER_PROTECTION-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_THE_STATE_BORDER_PROTECTION-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-the-state-border-protection_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-the-state-border-protection.html",
+      "image_url": "https://wawards.org/images/belarus/21/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38805,
+      "sha256": "6d7513eee49cab9fceb813e54d1359dbe75045fdd111c66ab57dd8c9816a7555",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_prevention_and_elimination_of_emergencies-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_PREVENTION_AND_ELIMINATION_OF_EMERGENCIES-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_PREVENTION_AND_ELIMINATION_OF_EMERGENCIES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-prevention-and-elimination-of-emergencies_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-prevention-and-elimination-of-emergencies.html",
+      "image_url": "https://wawards.org/images/belarus/3/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 101151,
+      "sha256": "4d443e2080f38531a8eef3ffd33dc12e143caba770237587c858668b1bd57dc4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_distinction_in_prevention_and_elimination_of_emergencies-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_PREVENTION_AND_ELIMINATION_OF_EMERGENCIES-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_DISTINCTION_IN_PREVENTION_AND_ELIMINATION_OF_EMERGENCIES-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-distinction-in-prevention-and-elimination-of-emergencies_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-distinction-in-prevention-and-elimination-of-emergencies.html",
+      "image_url": "https://wawards.org/images/belarus/3/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 84531,
+      "sha256": "c8b075610d9601044c5412a9359a05d5febcf6264f5b3042c0e2317a865e0b12",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_labour_merits-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_LABOUR_MERITS-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_LABOUR_MERITS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-labour-merits_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-labour-merits.html",
+      "image_url": "https://wawards.org/images/belarus/22/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 105568,
+      "sha256": "4fe21d6497a7a594930dfda34dfe075f22efd83a2683cba3df53698fd84b0563",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_labour_merits-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_LABOUR_MERITS-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_LABOUR_MERITS-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-labour-merits_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-labour-merits.html",
+      "image_url": "https://wawards.org/images/belarus/22/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 96336,
+      "sha256": "125853a86e9fd32d1439328db5b1af0dda09d4c172676a64fe802ed537898173",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_of_francysk_skaryna-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-of-francysk-skaryna_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-of-francysk-skaryna.html",
+      "image_url": "https://wawards.org/images/belarus/23/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55146,
+      "sha256": "44c269da3a9c83def3d6688cf2f086b65464a39958bf3b58608b6e99a0e67de4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_of_francysk_skaryna-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-of-francysk-skaryna_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-of-francysk-skaryna.html",
+      "image_url": "https://wawards.org/images/belarus/23/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44154,
+      "sha256": "1b01a91febe0d8c7f1ec3c283272fd6730d4e7fe48d992200e629fbad01e5f66",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_of_francysk_skaryna-representative-image-03",
+      "record_id": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_OF_FRANCYSK_SKARYNA-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/medal-of-francysk-skaryna_03.jpg",
+      "source_page": "https://wawards.org/belarus/medal-of-francysk-skaryna.html",
+      "image_url": "https://wawards.org/images/belarus/23/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70110,
+      "sha256": "168a3b0f0d546105a029dabaa75dc5231ec59d38c231c8fe18b7984a54a0bd33",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_impeccable_service-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-impeccable-service_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/belarus/24/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 102753,
+      "sha256": "2f5ca26792f1e12c36aa9dbe8f9c4c6695025a8ec03c6da436b1e31612a39f16",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_impeccable_service-representative-image-02",
+      "record_id": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-impeccable-service_02.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/belarus/24/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 80256,
+      "sha256": "cf5bda95e5494a88118c73c6ed9475b3a110da25fb50a1073a87aaeba060dd32",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_impeccable_service-representative-image-03",
+      "record_id": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-impeccable-service_03.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/belarus/24/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56132,
+      "sha256": "59d308935b3d4d6609ed2ebaff0cdc541a8cd38f34b59d50d4d6daf64c4ca307",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_impeccable_service-representative-image-04",
+      "record_id": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW4",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-impeccable-service_04.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/belarus/24/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70761,
+      "sha256": "8a3ea2e818b7959c565c2cdc61ba5f66033e7ffa67ae0abea93039343790dddc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_for_impeccable_service-representative-image-05",
+      "record_id": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW5",
+      "local_path": "assets/images/belarus_wawards_families/medal-for-impeccable-service_05.jpg",
+      "source_page": "https://wawards.org/belarus/medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/belarus/24/5.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 90097,
+      "sha256": "d7b115e95cd3e909c5a10984fa5f5022c1689deec53ed03cac0e35115a975f84",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_belarusian_police-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-belarusian-police_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/25/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 29667,
+      "sha256": "f98caacc1d2683243d8779b005ddaf81d03e9b5a4f40758e70247a9a3faf2649",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_belarusian_police-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-belarusian-police_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/25/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75918,
+      "sha256": "9f156ac4d580ff083673028a31c2c1931dd9756f53a31437eb104a466c03880f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_belarusian_police-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-belarusian-police_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/25/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77929,
+      "sha256": "8742e34e1a4402917e528466945ff7642d32766879a753d2c14f733dc9d40431",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_belarusian_police-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-belarusian-police_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/29/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 29609,
+      "sha256": "01288902ff46f7e8fa82a5ef5f832526634a68a0727cf374cf4856bd30db20d9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_belarusian_police-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-belarusian-police_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/29/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62148,
+      "sha256": "5324423bcc35a759e97f4cc76f57efc26946dba69e803fe6cd18348463688b81",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_belarusian_police-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BELARUSIAN_POLICE-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-belarusian-police_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-belarusian-police.html",
+      "image_url": "https://wawards.org/images/belarus/29/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58919,
+      "sha256": "d9ba189510cdc50dec8e95263367bed969ebf39806df3be4b1e276ea27e6cc27",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_state_security_committee-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-state-security-committee_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-state-security-committee.html",
+      "image_url": "https://wawards.org/images/belarus/26/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 28722,
+      "sha256": "d779a60d2880c78a56adfdf6e8e4e9a96a95351f8a74f0f4ae824e70e33530c9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_state_security_committee-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-state-security-committee_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-state-security-committee.html",
+      "image_url": "https://wawards.org/images/belarus/26/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 79554,
+      "sha256": "4c98b856f9b9952e594c69feb8b04b4c7e190d281f01e814094bd6a96536e3a5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_state_security_committee-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_STATE_SECURITY_COMMITTEE-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-state-security-committee_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-state-security-committee.html",
+      "image_url": "https://wawards.org/images/belarus/26/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 80537,
+      "sha256": "faec5c22e60549424f12bd63f04285ab16de2432a7ad8b2589b538323cb3762e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_the_state_security_bodies-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-the-state-security-bodies_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-the-state-security-bodies.html",
+      "image_url": "https://wawards.org/images/belarus/30/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 29427,
+      "sha256": "aeb070d946a3f146faa183b24c0169d675ee3d745b0107e618b3cea8cc0a77e3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_the_state_security_bodies-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-the-state-security-bodies_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-the-state-security-bodies.html",
+      "image_url": "https://wawards.org/images/belarus/30/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61453,
+      "sha256": "aec3f916f3ed2e2018c1e06e7769a42eed9cc5fb0d68e94e76fee87073037f5f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_the_state_security_bodies-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_STATE_SECURITY_BODIES-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-the-state-security-bodies_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-the-state-security-bodies.html",
+      "image_url": "https://wawards.org/images/belarus/30/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48284,
+      "sha256": "015815f6008bf8d532c13ca3a328e9d76d127c0442d4bb2d9866a3e467e868ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_armed_forces-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-armed-forces_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/belarus/27/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61639,
+      "sha256": "a511539c7f8be6bac0cb114d363fb3bcc3cd2acd69e266336547a2e45a738bca",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_armed_forces-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-armed-forces_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/belarus/27/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64607,
+      "sha256": "9ad16d9e531cc11fee1386b5d9a228c054bc8faa6f9165102f76e02e11cd1e9f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_the_armed_forces-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-the-armed-forces_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/belarus/31/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 82799,
+      "sha256": "0afde7ffdee4820b901de4a8da44dc3413a3050117948e9ebc205ecd20a1a820",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_the_armed_forces-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-the-armed-forces_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/belarus/31/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74968,
+      "sha256": "77ce758c55d2ed09e2fe300f510e9dd057a398115d5a3adb512fd8ee94f5fa23",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_border_troops-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-border-troops_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-border-troops.html",
+      "image_url": "https://wawards.org/images/belarus/28/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65204,
+      "sha256": "4ac79c4199b0395144b72d6a48a05fb76943e34800a10e401eba131f9cf239ad",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_border_troops-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-border-troops_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-border-troops.html",
+      "image_url": "https://wawards.org/images/belarus/28/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38032,
+      "sha256": "47afd8bc3a3b1c27187cdeb3f5f49bbefd98a237ae5cb29fad39094a40742639",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_80_years_of_the_border_troops-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_80_YEARS_OF_THE_BORDER_TROOPS-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-80-years-of-the-border-troops_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-80-years-of-the-border-troops.html",
+      "image_url": "https://wawards.org/images/belarus/28/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48081,
+      "sha256": "f35da7e4b2060d910911ee6e4bd4854fef02cf7771436eef11b8be46c639f700",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_border_guard-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BORDER_GUARD-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BORDER_GUARD-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-border-guard_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-border-guard.html",
+      "image_url": "https://wawards.org/images/belarus/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42037,
+      "sha256": "7fa80cda683e405d5289948254e7b9965b49e668482074cf61fd82055c60de45",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_90_years_of_border_guard-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BORDER_GUARD-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_90_YEARS_OF_BORDER_GUARD-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-90-years-of-border-guard_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-90-years-of-border-guard.html",
+      "image_url": "https://wawards.org/images/belarus/5/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49177,
+      "sha256": "9e5bc3ff9c396fc6a46ea758f95366ec162b72ef95be440a13336db74c1d1873",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_150_years_of_fire_service-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_150_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_150_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-150-years-of-fire-service_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-150-years-of-fire-service.html",
+      "image_url": "https://wawards.org/images/belarus/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56229,
+      "sha256": "e535d2fc4d6458248367157c0dff536a504d04bbde488a6e26f4cd1425b04912",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_150_years_of_fire_service-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_150_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_150_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-150-years-of-fire-service_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-150-years-of-fire-service.html",
+      "image_url": "https://wawards.org/images/belarus/4/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55658,
+      "sha256": "ed6a55a651fe8bdef4d3221a20b3f6729ee81ba24ad658db66825c6aa07270ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_160_years_of_fire_service-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-160-years-of-fire-service_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-160-years-of-fire-service.html",
+      "image_url": "https://wawards.org/images/belarus/33/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43356,
+      "sha256": "12a5adb5a5c47f7236504907ecf3dc4d1eecb4e3f6daa3c2bd2e1c7c16ee1749",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_160_years_of_fire_service-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-160-years-of-fire-service_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-160-years-of-fire-service.html",
+      "image_url": "https://wawards.org/images/belarus/33/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39858,
+      "sha256": "a884cb250e79e9798bbf8c66140cc3e23638eccb5191eae69e5b6dbd19fac00c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_160_years_of_fire_service-representative-image-03",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_160_YEARS_OF_FIRE_SERVICE-REPRESENTATIVE-VIEW3",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-160-years-of-fire-service_03.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-160-years-of-fire-service.html",
+      "image_url": "https://wawards.org/images/belarus/33/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71557,
+      "sha256": "eff3646073f8f49788877766acad90a82d8ac92ee8aa2cc48ced0e9fbf91101d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_100_years_of_the_trade_union_movement_of_belarus-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_100_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_100_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-100-years-of-the-trade-union-movement-of-belarus_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-100-years-of-the-trade-union-movement-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50024,
+      "sha256": "f7280ebc62744b8a4bf2b87c71011d0fb1d829ef25fb4c9ed30992269f50e8a6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_100_years_of_the_trade_union_movement_of_belarus-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_100_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_100_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-100-years-of-the-trade-union-movement-of-belarus_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-100-years-of-the-trade-union-movement-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/6/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58516,
+      "sha256": "7d921c5fe642dd3863ba64e0562bf8842bf53c1b0d19794fcb683c7e0c225b21",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_110_years_of_the_trade_union_movement_of_belarus-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_110_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_110_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-110-years-of-the-trade-union-movement-of-belarus_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-110-years-of-the-trade-union-movement-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/35/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 96897,
+      "sha256": "f9b5f6df09d48537e903b8702af1dcf2b13a837ae9d0287b9559222a66ea0432",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_110_years_of_the_trade_union_movement_of_belarus-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_110_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_110_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-110-years-of-the-trade-union-movement-of-belarus_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-110-years-of-the-trade-union-movement-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/35/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 92054,
+      "sha256": "fe024ed6e9ec0d77bdf366a19e5dd7a900ea1e2722bd7fc8aa0d3e454809ce08",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_10th_anniversary_of_the_withdrawal_of_the_soviet_army_from_afghanistan-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-10th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-10th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan.html",
+      "image_url": "https://wawards.org/images/belarus/32/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 82137,
+      "sha256": "8318271b04f96577c78397ffc94a625f11ccf8a10cf5e94481c2412fbd7a7050",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_10th_anniversary_of_the_withdrawal_of_the_soviet_army_from_afghanistan-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-10th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-10th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan.html",
+      "image_url": "https://wawards.org/images/belarus/32/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59534,
+      "sha256": "ffa92dad5cb97c9271145612039fb15d2dc963552949bdd189eb8a03c9ecb62f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_20th_anniversary_of_the_withdrawal_of_the_soviet_army_from_afghanistan-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-20th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-20th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan.html",
+      "image_url": "https://wawards.org/images/belarus/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        611,
+        611
+      ],
+      "bytes": 47466,
+      "sha256": "f95760fd09c7523d548b2ac92101cc87fa2579c41199df76475f3daf719959af",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_20th_anniversary_of_the_withdrawal_of_the_soviet_army_from_afghanistan-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_WITHDRAWAL_OF_THE_SOVIET_ARMY_FROM_AFGHANISTAN-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-20th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-20th-anniversary-of-the-withdrawal-of-the-soviet-army-from-afghanistan.html",
+      "image_url": "https://wawards.org/images/belarus/7/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42459,
+      "sha256": "952a196b13832b84927dd6d4d8f0b91462e74aefee1028f71f59612ef839fc7e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_115_years_of_the_trade_union_movement_of_belarus-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_115_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_115_YEARS_OF_THE_TRADE_UNION_MOVEMENT_OF_BELARUS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-115-years-of-the-trade-union-movement-of-belarus_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-115-years-of-the-trade-union-movement-of-belarus.html",
+      "image_url": "https://wawards.org/images/belarus/36/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 101879,
+      "sha256": "4bc88d106c24910f10e8aab2dd6d1117db86292c066defca3eed89eb28458307",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-medal_100_years_of_agricultural_and_food_public_administration-representative-image-01",
+      "record_id": "BLR-WA-MEDAL_100_YEARS_OF_AGRICULTURAL_AND_FOOD_PUBLIC_ADMINISTRATION-REPRESENTATIVE",
+      "view_key": "BLR-WA-MEDAL_100_YEARS_OF_AGRICULTURAL_AND_FOOD_PUBLIC_ADMINISTRATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/medal-100-years-of-agricultural-and-food-public-administration_01.jpg",
+      "source_page": "https://wawards.org/belarus/medal-100-years-of-agricultural-and-food-public-administration.html",
+      "image_url": "https://wawards.org/images/belarus/37/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 104533,
+      "sha256": "c7e722ec00fe717f73cbcba58a8db9e25a567392a75fa87790853eb20552073d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_20_years_of_the_presidents_security_service-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_20_YEARS_OF_THE_PRESIDENTS_SECURITY_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_20_YEARS_OF_THE_PRESIDENTS_SECURITY_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-20-years-of-the-presidents-security-service_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-20-years-of-the-presidents-security-service.html",
+      "image_url": "https://wawards.org/images/belarus/38/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62983,
+      "sha256": "b81bd6d5720f6f45afa5747b26fa0e2de679364600aba0426aa69a19e73c076a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_20_years_of_the_presidents_security_service-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_20_YEARS_OF_THE_PRESIDENTS_SECURITY_SERVICE-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_20_YEARS_OF_THE_PRESIDENTS_SECURITY_SERVICE-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-20-years-of-the-presidents-security-service_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-20-years-of-the-presidents-security-service.html",
+      "image_url": "https://wawards.org/images/belarus/38/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 83260,
+      "sha256": "2bfcbc7c5b9a4698c52c77c16944b0b7ecbdf332e5091f9041703253f88954cf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_95_years_of_army_signal_troops-representative-image-01",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_95_YEARS_OF_ARMY_SIGNAL_TROOPS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_95_YEARS_OF_ARMY_SIGNAL_TROOPS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-95-years-of-army-signal-troops_01.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-95-years-of-army-signal-troops.html",
+      "image_url": "https://wawards.org/images/belarus/39/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60017,
+      "sha256": "daf686c92e865963fe53b78d1cd95e6647c159feeb2018811ef3ea1211d531d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "blr-wa-jubilee_medal_95_years_of_army_signal_troops-representative-image-02",
+      "record_id": "BLR-WA-JUBILEE_MEDAL_95_YEARS_OF_ARMY_SIGNAL_TROOPS-REPRESENTATIVE",
+      "view_key": "BLR-WA-JUBILEE_MEDAL_95_YEARS_OF_ARMY_SIGNAL_TROOPS-REPRESENTATIVE-VIEW2",
+      "local_path": "assets/images/belarus_wawards_families/jubilee-medal-95-years-of-army-signal-troops_02.jpg",
+      "source_page": "https://wawards.org/belarus/jubilee-medal-95-years-of-army-signal-troops.html",
+      "image_url": "https://wawards.org/images/belarus/39/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59518,
+      "sha256": "5932d83ca5c67ed78b8045b189ab06523da4541e94191e6c2abc87001d5c814e",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": []
+}

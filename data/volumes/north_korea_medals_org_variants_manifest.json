@@ -1,0 +1,507 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "prk-odm-000-01-02",
+      "record_id": "PRK-ODM-000-V01",
+      "view_key": "PRK-ODM-000-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/000_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea001.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea002.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        142,
+        250
+      ],
+      "bytes": 10455,
+      "sha256": "f3d30d0d22bb3d2bac1fb04043fbda20bd9ffffdad96a2b2b18197d9fb61b1fc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-001-01-02",
+      "record_id": "PRK-ODM-001-V01",
+      "view_key": "PRK-ODM-001-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/001_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea002.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea004.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        141,
+        250
+      ],
+      "bytes": 11582,
+      "sha256": "40a1da9c560b02582217ab6191730884625d7c72c178e8ee8a51d19bfa43403a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-001-01-03",
+      "record_id": "PRK-ODM-001-V01",
+      "view_key": "PRK-ODM-001-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/001_01_03.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea002.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea009.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        142,
+        250
+      ],
+      "bytes": 11120,
+      "sha256": "ed261d688106282d02dea426ff8393b2b05e0d81024d5c30b43968210d1dcdfd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-006-01-03",
+      "record_id": "PRK-ODM-006-V01",
+      "view_key": "PRK-ODM-006-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/006_01_03.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea007.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea017.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        247,
+        250
+      ],
+      "bytes": 19227,
+      "sha256": "aed57132f13a5c0d42bb474a9ab55bc3bd3538f5b3ab74f7eb638d9f6d1b8d2a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-006-01-04",
+      "record_id": "PRK-ODM-006-V01",
+      "view_key": "PRK-ODM-006-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/006_01_04.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea007.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea018.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        247,
+        250
+      ],
+      "bytes": 15801,
+      "sha256": "e06beb94a797bc4e67d4d20b6336c39653209838653dde8884205ef23d9c6254",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-007-01-01",
+      "record_id": "PRK-ODM-007-V01",
+      "view_key": "PRK-ODM-007-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/007_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea008.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea008-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        239,
+        250
+      ],
+      "bytes": 21515,
+      "sha256": "231edcaccbccc09526b458a50f43a2eecb2d7bd81d1d32ff1cfe609112a2e59b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-007-01-02",
+      "record_id": "PRK-ODM-007-V01",
+      "view_key": "PRK-ODM-007-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/007_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea008.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea008-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        244,
+        250
+      ],
+      "bytes": 17198,
+      "sha256": "101b4ac27142d16393eb7a1d4203fce3bc12adb23a708eb13c451be7c6731954",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-008-01-02",
+      "record_id": "PRK-ODM-008-V01",
+      "view_key": "PRK-ODM-008-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/008_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea009.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea009-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        248,
+        250
+      ],
+      "bytes": 21219,
+      "sha256": "6285483afd884e48ac83d61a9684c24cda79cead0e8db8f226b80744f221ff95",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-008-01-03",
+      "record_id": "PRK-ODM-008-V01",
+      "view_key": "PRK-ODM-008-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/008_01_03.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea009.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea009-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        251,
+        250
+      ],
+      "bytes": 17543,
+      "sha256": "4ff98838519df87ae354a4cf6f2574a5f6d43ca0879bc160e51ff00d3511ae70",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-009-01-02",
+      "record_id": "PRK-ODM-009-V01",
+      "view_key": "PRK-ODM-009-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/009_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea010.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea010-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        243,
+        250
+      ],
+      "bytes": 20397,
+      "sha256": "5d265d447a587b3630cbad8294264ae3ea1273c665ee8ae6d859651c00b5d7f1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-009-01-03",
+      "record_id": "PRK-ODM-009-V01",
+      "view_key": "PRK-ODM-009-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/009_01_03.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea010.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea010-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        252,
+        250
+      ],
+      "bytes": 19119,
+      "sha256": "bf01a114ec083355ccfad46e7435799174a41294629af628c252cf4d85fa325e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-01-01",
+      "record_id": "PRK-ODM-010-V01",
+      "view_key": "PRK-ODM-010-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/010_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        135,
+        250
+      ],
+      "bytes": 10229,
+      "sha256": "160a682dba219422959b1b048b1485d8778271a8e55f7a738e2854043970db78",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-01-02",
+      "record_id": "PRK-ODM-010-V01",
+      "view_key": "PRK-ODM-010-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/010_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        132,
+        250
+      ],
+      "bytes": 9183,
+      "sha256": "9bec9d114c17c713e1d881de63adcc3c0737f999d8cb21a226cb8b04a27dc0e3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-02-03",
+      "record_id": "PRK-ODM-010-V02",
+      "view_key": "PRK-ODM-010-02-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/010_02_03.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-03.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        136,
+        250
+      ],
+      "bytes": 10707,
+      "sha256": "16f73d176a8badc83229e28a170e4a22ace68236564b3dc216099bb121eca360",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-02-04",
+      "record_id": "PRK-ODM-010-V02",
+      "view_key": "PRK-ODM-010-02-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/010_02_04.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-04.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        137,
+        250
+      ],
+      "bytes": 9123,
+      "sha256": "38b28bd86d5e3347937d8688e2b85fb858e47ae566dfbdd159d9a20dd641ea8b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-03-05",
+      "record_id": "PRK-ODM-010-V03",
+      "view_key": "PRK-ODM-010-03-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/010_03_05.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-05.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        134,
+        250
+      ],
+      "bytes": 10576,
+      "sha256": "05059cdcd99f1a0ef6bfc1ed78f717434bb6fad8e80821842a77199968b4d40a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-010-03-06",
+      "record_id": "PRK-ODM-010-V03",
+      "view_key": "PRK-ODM-010-03-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/010_03_06.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea011.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea011-06.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        132,
+        250
+      ],
+      "bytes": 9574,
+      "sha256": "e9bbb1d4c78275ef9a0cb734ffefe9d3a8892e24ba24e17c4f2c50abd1da64ff",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-011-01-01",
+      "record_id": "PRK-ODM-011-V01",
+      "view_key": "PRK-ODM-011-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/011_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea012.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea012-05.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        129,
+        250
+      ],
+      "bytes": 10226,
+      "sha256": "898a4209efafaf673035162aa9418698b72c80b026ab3e20975cb47f6a235b61",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-011-01-02",
+      "record_id": "PRK-ODM-011-V01",
+      "view_key": "PRK-ODM-011-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/011_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea012.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea012-06.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        130,
+        250
+      ],
+      "bytes": 8835,
+      "sha256": "7123c08a96c85bca66cc0b1e71a9bb5ecc2a2a047f8a71810d68b2496bdd4f70",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-012-01-01",
+      "record_id": "PRK-ODM-012-V01",
+      "view_key": "PRK-ODM-012-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/012_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea013.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea013-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        249,
+        250
+      ],
+      "bytes": 21877,
+      "sha256": "2c69100ee0a67af1e525a44a09bc7c035c91e8a0223c228e546970c2fe7d9295",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-012-01-02",
+      "record_id": "PRK-ODM-012-V01",
+      "view_key": "PRK-ODM-012-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/012_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea013.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea013-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        252,
+        250
+      ],
+      "bytes": 20209,
+      "sha256": "cccf277b6848f839548103da578a4a4604bed31b34f6310de68f1b59eaed669c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-013-01-01",
+      "record_id": "PRK-ODM-013-V01",
+      "view_key": "PRK-ODM-013-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/013_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea014.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea014-01.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        254,
+        250
+      ],
+      "bytes": 21535,
+      "sha256": "6d7ae2ac350c51841307b37ef344df1da269c411cf93c6e546ccfe1c40fa358c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-013-01-02",
+      "record_id": "PRK-ODM-013-V01",
+      "view_key": "PRK-ODM-013-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/013_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea014.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea014-02.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        266,
+        250
+      ],
+      "bytes": 18171,
+      "sha256": "763cf11831d65316470a898d859e4d75a90b31f0050cfc1496229f0dce1110b5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-014-01-01",
+      "record_id": "PRK-ODM-014-V01",
+      "view_key": "PRK-ODM-014-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/014_01_01.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea015.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea015-05.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        247,
+        250
+      ],
+      "bytes": 18264,
+      "sha256": "9a4108b992d085f081e17004a068c9e66fe9fcde4a4db9bb08c3664149c7614a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-014-01-02",
+      "record_id": "PRK-ODM-014-V01",
+      "view_key": "PRK-ODM-014-01-VIEW2",
+      "local_path": "assets/images/medals_org_north_korea/014_01_02.jpg",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea015.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea015-06.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        251,
+        250
+      ],
+      "bytes": 15521,
+      "sha256": "ba63924a4cbc30906ce9519f7058c3a8a57c073dd552e260d33b1e18fa96642b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-016-01-01",
+      "record_id": "PRK-ODM-016-V01",
+      "view_key": "PRK-ODM-016-01-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/016_01_01.png",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea017.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea017-01.png",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        127,
+        250
+      ],
+      "bytes": 57339,
+      "sha256": "56262749aa697bd395fdfcf67fe1671fd6d833846103376d0427a6b2d657a662",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "prk-odm-016-02-02",
+      "record_id": "PRK-ODM-016-V02",
+      "view_key": "PRK-ODM-016-02-VIEW1",
+      "local_path": "assets/images/medals_org_north_korea/016_02_02.png",
+      "source_page": "https://www.medals.org.uk/north-korea/north-korea017.htm",
+      "image_url": "https://www.medals.org.uk/north-korea/images/north-korea017-03.png",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        263,
+        250
+      ],
+      "bytes": 102024,
+      "sha256": "a4486692485292a9bffdeeab1797a0ec2c3b793ca2c51d5086b1c02b101ad607",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medals-org-north-korea-99dd3149a3edb210",
+      "name": "Order of Kim Il Sung",
+      "date": "20 March 1972.",
+      "page_url": "https://www.medals.org.uk/north-korea/north-korea003.htm",
+      "status": "来源仅提供绶带图，未以绶带代替章体"
+    },
+    {
+      "source_id": "medals-org-north-korea-36b54774d8d616ca",
+      "name": "Order Of Kim Jong-il",
+      "date": "3 February 2012.",
+      "page_url": "https://www.medals.org.uk/north-korea/north-korea005.htm",
+      "status": "来源仅提供绶带图，未以绶带代替章体"
+    }
+  ]
+}

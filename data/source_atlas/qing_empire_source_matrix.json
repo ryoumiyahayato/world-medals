@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "qing_empire",
+  "scope_label": "Qing Empire (1644–1912) — orders, decorations and medals",
+  "sources": [
+    {
+      "source_id": "medalbook_imperial_china",
+      "source_name": "MedalBook — complete Imperial China catalogue",
+      "base_url": "https://www.medalbook.com/asia/china/imperial-china-1796-1912",
+      "source_type": "specialist_directory",
+      "languages": ["en"],
+      "date_coverage": "1796–1912",
+      "content_coverage": "Every visible object page in the Imperial China medals/decorations and orders trees",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "recursive_html_and_direct_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "61/61 object pages processed and 178/178 images cached. Forty-two pictured grade/type rows in seven independent families and 60 unique local views were promoted; 19 source-backed pages remain in the unpictured appendix.",
+      "candidate_file": "data/raw_candidates/medalbook_imperial_china.jsonl",
+      "sweep_file": "data/source_sweeps/medalbook_imperial_china_2026-09-28.json",
+      "page_cache": "sources/pages/medalbook_imperial_china",
+      "image_cache": "assets/raw/medalbook_imperial_china",
+      "volume_file": "data/volumes/qing_medalbook_variants.json"
+    },
+    {
+      "source_id": "commons_qing_awards",
+      "source_name": "Wikimedia Commons — Qing orders and medals differential",
+      "source_type": "open_media_category_tree",
+      "languages": ["mul"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "mediawiki_api",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    },
+    {
+      "source_id": "qing_official_historical_catalogues",
+      "source_name": "Qing statutes, gazettes and historical illustrated catalogues",
+      "source_type": "official_historical_print",
+      "languages": ["zh", "ja", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "autonomous_discovery_then_bounded_book_sweep",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 3, "completed": 1, "partial": 0, "blocked": 0, "not_started": 2},
+  "next_action": "Advance to Republic of China and PRC complete catalogues, then return to Commons and historical-print differentials for the 19 unpictured Qing pages."
+}

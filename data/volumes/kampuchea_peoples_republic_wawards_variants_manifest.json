@@ -1,0 +1,445 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "cambodia-wawards-peoples_republic-angkor-decoration-type-a-01",
+      "record_id": "KAM-AWARD-ANGKOR-DECORATION-TYPE-A",
+      "view_key": "KAM-AWARD-ANGKOR-DECORATION-TYPE-A-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__angkor-decoration_type-a_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/angkor-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/1/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 74425,
+      "sha256": "5ef81ac6aaa8541b7183e81469f11acb7671d7a63ad80cb4cdfebaedb4f5f4d6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-angkor-decoration-type-b-02",
+      "record_id": "KAM-AWARD-ANGKOR-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-ANGKOR-DECORATION-TYPE-B-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__angkor-decoration_type-b_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/angkor-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/1/1a.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 97013,
+      "sha256": "c7dd1733fb370866bfb501d116b00e645b6ea4980261595c17ac8ea3eac7f432",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-angkor-decoration-type-b-03",
+      "record_id": "KAM-AWARD-ANGKOR-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-ANGKOR-DECORATION-TYPE-B-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__angkor-decoration_type-b_03.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/angkor-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/1/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65277,
+      "sha256": "c12ebae101dd69f4a36dfb923d4f80cd0e77e87cd0a09f5a9fbdd080dc382910",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-national-defence-decoration-main-01",
+      "record_id": "KAM-AWARD-NATIONAL-DEFENCE-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-NATIONAL-DEFENCE-DECORATION-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__national-defence-decoration_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/national-defence-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/3/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75638,
+      "sha256": "63f760d2724a391edc93df3decf0e3751f20c83e153032e5b2c2509114da73b7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-national-defence-decoration-main-02",
+      "record_id": "KAM-AWARD-NATIONAL-DEFENCE-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-NATIONAL-DEFENCE-DECORATION-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__national-defence-decoration_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/national-defence-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/3/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66139,
+      "sha256": "40398ef53da028399b93efa593e4fc8c747d6ae3c085feae3d86558dc183b389",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-victory-decoration-main-01",
+      "record_id": "KAM-AWARD-VICTORY-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-VICTORY-DECORATION-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__victory-decoration_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/victory-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/4/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59858,
+      "sha256": "2b55ac4f3a0398934c0d614a62f97483d08ca100b90fe93890342cbd448d26be",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-victory-decoration-main-02",
+      "record_id": "KAM-AWARD-VICTORY-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-VICTORY-DECORATION-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__victory-decoration_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/victory-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/4/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67122,
+      "sha256": "e212bc26c4f7bfad408d2c2a74eb9d802683b5a14b1d30a55a051d12c1759654",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-issarak-combatants-decoration-main-01",
+      "record_id": "KAM-AWARD-ISSARAK-COMBATANTS-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-ISSARAK-COMBATANTS-DECORATION-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__issarak-combatants-decoration_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/issarak-combatants-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/5/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48587,
+      "sha256": "cd95406c9522e74828e7f59a3c8da51f61bc4171fdb7b66e865ec60f2bbaa018",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-issarak-combatants-decoration-main-02",
+      "record_id": "KAM-AWARD-ISSARAK-COMBATANTS-DECORATION-MAIN",
+      "view_key": "KAM-AWARD-ISSARAK-COMBATANTS-DECORATION-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__issarak-combatants-decoration_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/issarak-combatants-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/5/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41525,
+      "sha256": "5e53b5e6945fcbe4282eb9e49f22b0c67cfbd3ba582b3eef6eb708b931f9cdb4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-labour-decoration-grade-a-01",
+      "record_id": "KAM-AWARD-LABOUR-DECORATION-GRADE-A",
+      "view_key": "KAM-AWARD-LABOUR-DECORATION-GRADE-A-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__labour-decoration_grade-a_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/labour-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/6/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 102838,
+      "sha256": "87f90efcdadfa3bd4382a77f02840826884e37087bd8c9bf52d71859bebbcfdc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-labour-decoration-grade-b-02",
+      "record_id": "KAM-AWARD-LABOUR-DECORATION-GRADE-B",
+      "view_key": "KAM-AWARD-LABOUR-DECORATION-GRADE-B-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__labour-decoration_grade-b_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/labour-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/6/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 90532,
+      "sha256": "3c24fad6bbe0100e4a94c06dd60effa3fd762bedc090769c88277024d7bb293b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-labour-decoration-grade-c-03",
+      "record_id": "KAM-AWARD-LABOUR-DECORATION-GRADE-C",
+      "view_key": "KAM-AWARD-LABOUR-DECORATION-GRADE-C-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__labour-decoration_grade-c_03.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/labour-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/6/3.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 78040,
+      "sha256": "4638a7ad15ca4b0ed54a09f4a9db5dfa553498c49ac638440979574c4ca067d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-7th-january-decoration-type-a-01",
+      "record_id": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-A",
+      "view_key": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-A-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__7th-january-decoration_type-a_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/7th-january-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/2/2a.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65774,
+      "sha256": "2abf02a41b26637a2552fa2340ad43bc0f39c90c32ae2e9a6c98368381be2930",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-7th-january-decoration-type-b-02",
+      "record_id": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-B-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__7th-january-decoration_type-b_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/7th-january-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/2/3.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 89340,
+      "sha256": "30a7dabecb39375c782fc3e15b877189cb772231cd4a5a31dab50948852372a0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-7th-january-decoration-type-b-03",
+      "record_id": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-7TH-JANUARY-DECORATION-TYPE-B-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__7th-january-decoration_type-b_03.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/7th-january-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/2/4.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67766,
+      "sha256": "5e54525ae5db75b2a4c114d82dac1aae34ac40db19a6ac94c807131dd93b5bf4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-friendship-decoration-type-a-01",
+      "record_id": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-A",
+      "view_key": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-A-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__friendship-decoration_type-a_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/friendship-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/7/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81448,
+      "sha256": "5d78c6c0f3fae9b5f6f0f86527390a5a7a17bd074e914b9dc6274d6309a50e10",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-friendship-decoration-type-b-02",
+      "record_id": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-B-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__friendship-decoration_type-b_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/friendship-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/7/3.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 94956,
+      "sha256": "a2838842e2b876070c987ce381f7c10d7cba99566b7726f2e3854f2ae3d81236",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-friendship-decoration-type-b-03",
+      "record_id": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-B",
+      "view_key": "KAM-AWARD-FRIENDSHIP-DECORATION-TYPE-B-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__friendship-decoration_type-b_03.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/friendship-decoration.html",
+      "image_url": "https://wawards.org/images/cambodia/2/7/4.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 115357,
+      "sha256": "4e7da2510386d83d57c9231cfb59d12b03495bc358948030a24493feb655bc8d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-labour-medal-main-01",
+      "record_id": "KAM-AWARD-LABOUR-MEDAL-MAIN",
+      "view_key": "KAM-AWARD-LABOUR-MEDAL-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__labour-medal_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/labour-medal.html",
+      "image_url": "https://wawards.org/images/cambodia/2/8/3.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 102280,
+      "sha256": "468f20a8c477521bc9066d8494acfd166b2323f6d39e4b746ba8ac54d057a570",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-labour-medal-main-02",
+      "record_id": "KAM-AWARD-LABOUR-MEDAL-MAIN",
+      "view_key": "KAM-AWARD-LABOUR-MEDAL-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__labour-medal_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/labour-medal.html",
+      "image_url": "https://wawards.org/images/cambodia/2/8/4.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 86963,
+      "sha256": "b47d378a3a60f414c5293aac5f9f59d192bec9da0c496ec8fb7890b040ca8157",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-friendship-medal-main-01",
+      "record_id": "KAM-AWARD-FRIENDSHIP-MEDAL-MAIN",
+      "view_key": "KAM-AWARD-FRIENDSHIP-MEDAL-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__friendship-medal_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/friendship-medal.html",
+      "image_url": "https://wawards.org/images/cambodia/2/9/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 76070,
+      "sha256": "066b30c09213f13b48eb4e5f30a3bfea9acce48593c2df4c10c588fa7a9bb1ed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-friendship-medal-main-02",
+      "record_id": "KAM-AWARD-FRIENDSHIP-MEDAL-MAIN",
+      "view_key": "KAM-AWARD-FRIENDSHIP-MEDAL-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__friendship-medal_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/friendship-medal.html",
+      "image_url": "https://wawards.org/images/cambodia/2/9/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61623,
+      "sha256": "53128ec09d6d02c620a9b605fc1844df57ff4d6d178763d7b077794501648422",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-medal-of-national-construction-main-01",
+      "record_id": "KAM-AWARD-MEDAL-OF-NATIONAL-CONSTRUCTION-MAIN",
+      "view_key": "KAM-AWARD-MEDAL-OF-NATIONAL-CONSTRUCTION-MAIN-VIEW1",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__medal-of-national-construction_main_01.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/medal-of-national-construction.html",
+      "image_url": "https://wawards.org/images/cambodia/2/10/3.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 86765,
+      "sha256": "70a84036ca1e3840aaa140d7b115316490163be5affee337d1f70ddf26df0dad",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "cambodia-wawards-peoples_republic-medal-of-national-construction-main-02",
+      "record_id": "KAM-AWARD-MEDAL-OF-NATIONAL-CONSTRUCTION-MAIN",
+      "view_key": "KAM-AWARD-MEDAL-OF-NATIONAL-CONSTRUCTION-MAIN-VIEW2",
+      "local_path": "assets/images/wawards_cambodia/peoples_republic__medal-of-national-construction_main_02.jpg",
+      "source_page": "https://wawards.org/en/cambodia/people-s-republic-of-kampuchea/medal-of-national-construction.html",
+      "image_url": "https://wawards.org/images/cambodia/2/10/4.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81347,
+      "sha256": "10d558074c67c8dc0cb6f5b587138b05535742b1a8fc21187d2891d71373423e",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": [
+    {
+      "source_id": "wawards-cambodia-peoples_republic-KAM002-7th-january-decoration",
+      "image_no": 4,
+      "reason": "证书、章盒或局部细节，不作为完整章体行"
+    }
+  ]
+}

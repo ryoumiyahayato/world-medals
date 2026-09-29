@@ -1,0 +1,398 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "老挝王国（1947–1975）",
+  "records": [
+    {
+      "id": "LAO-KINGDOM-COMBAT-VETERANS-MEDAL-MEDALBOOK-000",
+      "family": "LAO-KINGDOM-COMBAT-VETERANS-MEDAL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "战斗老兵奖章",
+      "original": "Combat Veteran's Medal",
+      "date": "1957年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-COMBAT-VETERANS-MEDAL-MEDALBOOK-000-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-COMBAT-VETERANS-MEDAL-MEDALBOOK-000-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-886b2d7051ad0f90"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-GOVERNMENT-GRATITUDE-MEDAL-MEDALBOOK-003",
+      "family": "LAO-KINGDOM-GOVERNMENT-GRATITUDE-MEDAL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "政府感恩奖章",
+      "original": "Medal of Government Gratitude",
+      "date": "1960年代",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-GOVERNMENT-GRATITUDE-MEDAL-MEDALBOOK-003-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-GOVERNMENT-GRATITUDE-MEDAL-MEDALBOOK-003-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-2116b4cd64ab3d76"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-006",
+      "family": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "万象白伞勋章",
+      "original": "Order of a Million Elephants and the White Parasol, Commander",
+      "date": "1909年设立",
+      "variant": "指挥官级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-006-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-006-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-033844413c70d7e4"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-008",
+      "family": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "万象白伞勋章",
+      "original": "Order of a Million Elephants and the White Parasol, Grand Cordon Breast Star",
+      "date": "1909年设立",
+      "variant": "大绶级星章",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-008-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-8e5ceab2709faa8b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-010",
+      "family": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "万象白伞勋章",
+      "original": "Order of a Million Elephants and the White Parasol, Grand Officer Breast Star",
+      "date": "1909年设立",
+      "variant": "大军官级星章",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-010-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-70cd07727013f760"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-011",
+      "family": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "万象白伞勋章",
+      "original": "Order of a Million Elephants and the White Parasol, Knight",
+      "date": "1909年设立",
+      "variant": "骑士级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-011-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-011-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-f855b744ad56e14f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-012",
+      "family": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "万象白伞勋章",
+      "original": "Order of a Million Elephants and the White Parasol, Officer",
+      "date": "1909年设立",
+      "variant": "军官级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-012-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-MILLION-ELEPHANTS-WHITE-PARASOL-MEDALBOOK-012-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-30f81dd26a72cc0d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-014",
+      "family": "LAO-KINGDOM-AGRICULTURAL-MERIT",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "农业功绩勋章",
+      "original": "Order of Agricultural Merit, Knight",
+      "date": "1950年设立",
+      "variant": "骑士级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-014-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-014-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-248b70a302a41780"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-015",
+      "family": "LAO-KINGDOM-AGRICULTURAL-MERIT",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "农业功绩勋章",
+      "original": "Order of Agricultural Merit, Officer",
+      "date": "1950年设立",
+      "variant": "军官级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-015-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-AGRICULTURAL-MERIT-MEDALBOOK-015-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-b9ffd12055090881"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-FEMININE-MERIT-MEDALBOOK-019",
+      "family": "LAO-KINGDOM-FEMININE-MERIT",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "妇女功绩勋章",
+      "original": "Order of Feminine Merit, in Bronze",
+      "date": "1962年设立",
+      "variant": "铜质级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-FEMININE-MERIT-MEDALBOOK-019-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-f020a792f0a0022d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-FEMININE-MERIT-MEDALBOOK-021",
+      "family": "LAO-KINGDOM-FEMININE-MERIT",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "妇女功绩勋章",
+      "original": "Order of Feminine Merit, in Silver",
+      "date": "1962年设立",
+      "variant": "银质级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-FEMININE-MERIT-MEDALBOOK-021-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-060397762fd55257"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-022",
+      "family": "LAO-KINGDOM-MERIT-IN-EDUCATION",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "教育功绩勋章",
+      "original": "Order of Merit in Education, Commander",
+      "date": "1955年设立",
+      "variant": "指挥官级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-022-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-022-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-e9e14b4cc7d7e240"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-023",
+      "family": "LAO-KINGDOM-MERIT-IN-EDUCATION",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "教育功绩勋章",
+      "original": "Order of Merit in Education, Knight",
+      "date": "1955年设立",
+      "variant": "骑士级",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-023-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-MERIT-IN-EDUCATION-MEDALBOOK-023-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-047af6689ac41289"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-036",
+      "family": "LAO-KINGDOM-ORDER-OF-THE-REIGN",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "御世勋章",
+      "original": "Order of the Reign, Type II, II Class",
+      "date": "1923年设立；1927、1948年修订",
+      "variant": "II型·二等",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-036-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-036-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-19d0639b31562e9d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-037",
+      "family": "LAO-KINGDOM-ORDER-OF-THE-REIGN",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "御世勋章",
+      "original": "Order of the Reign, Type II, III Class",
+      "date": "1923年设立；1927、1948年修订",
+      "variant": "II型·三等",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-037-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-037-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-7e5055e8e672a55f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-038",
+      "family": "LAO-KINGDOM-ORDER-OF-THE-REIGN",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "御世勋章",
+      "original": "Order of the Reign, Type I, I Class",
+      "date": "1923年设立；1927、1948年修订",
+      "variant": "I型·一等",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-038-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-038-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-ac5283accf255f21"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-039",
+      "family": "LAO-KINGDOM-ORDER-OF-THE-REIGN",
+      "country_zh": "老挝王国（1947–1975）",
+      "name": "御世勋章",
+      "original": "Order of the Reign, Type I, II Class",
+      "date": "1923年设立；1927、1948年修订",
+      "variant": "I型·二等",
+      "views": [
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-039-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "LAO-KINGDOM-ORDER-OF-THE-REIGN-MEDALBOOK-039-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-laos-3b5ad08e81bcc7fa"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

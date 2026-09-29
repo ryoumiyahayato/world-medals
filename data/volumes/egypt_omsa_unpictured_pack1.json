@@ -1,0 +1,197 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及 OMSA 差集（待配图）",
+  "records": [
+    {
+      "id": "EGY-OMSA-BRAVERY-MEDAL-PENDING-01",
+      "family": "EGY-OMSA-BRAVERY-MEDAL",
+      "country_zh": "埃及",
+      "name": "勇敢奖章",
+      "original": "Bravery Medal",
+      "date": "1913年5月10日设立；1914年12月19日停授",
+      "variant": "银质奖章；浅蓝绶带；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-OMSA-BRAVERY-1913-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-OMSA-BRAVERY-1913-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "omsa_egypt_awards_appendix",
+        "medals_org_egypt_kingdom"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-ORDER-FILAHA-PENDING-01",
+      "family": "EGY-OMSA-ORDER-FILAHA",
+      "country_zh": "埃及",
+      "name": "法拉哈勋章",
+      "original": "Order of Filaha",
+      "date": "1915年",
+      "variant": "3 classes；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-GRACE-FAVOUR-MEDAL-PENDING-01",
+      "family": "EGY-OMSA-GRACE-FAVOUR-MEDAL",
+      "country_zh": "埃及",
+      "name": "恩典奖章",
+      "original": "Grace and Favour Medal",
+      "date": "1928/29年实物；OMSA目录列1923年",
+      "variant": "金质一等（35年以上服务）；福阿德一世版；L. Rosen & Co.（开罗）；正反面；历史拍卖图录插图·2019",
+      "views": [
+        {
+          "key": "EGY-OMSA-GRACE-FAVOUR-GOLD-FUAD-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-OMSA-GRACE-FAVOUR-GOLD-FUAD-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "omsa_egypt_awards_appendix",
+        "heritage_auction_3075_2019"
+      ],
+      "image_kind": "historical_auction_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-CIVIL-COURTS-50TH-PENDING-01",
+      "family": "EGY-OMSA-CIVIL-COURTS-50TH",
+      "country_zh": "埃及",
+      "name": "民事法院五十周年纪念奖章",
+      "original": "50th Anniversary of the Civil Courts",
+      "date": "1933年",
+      "variant": "unspecified；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-MALARIA-MEDAL-PENDING-01",
+      "family": "EGY-OMSA-MALARIA-MEDAL",
+      "country_zh": "埃及",
+      "name": "疟疾奖章",
+      "original": "Malaria Medal",
+      "date": "1945年",
+      "variant": "镀金章；红釉皇冠悬挂版；淡绿／白双色绶带及顶栏；正反面为不同实物型制参考",
+      "views": [
+        {
+          "key": "EGY-OMSA-MALARIA-1945-CROWN-V1",
+          "label": "完整正面（Spink拍品）"
+        },
+        {
+          "key": "EGY-OMSA-MALARIA-1945-CROWN-V2",
+          "label": "完整反面（JOMSA不同实物）"
+        }
+      ],
+      "source_ids": [
+        "omsa_egypt_awards_appendix",
+        "spink_24003_egypt_health_medals",
+        "omsa_egypt_malaria_cholera_2005"
+      ],
+      "image_kind": "object_photo_and_historical_journal_reference",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-CHOLERA-MEDAL-PENDING-01",
+      "family": "EGY-OMSA-CHOLERA-MEDAL",
+      "country_zh": "埃及",
+      "name": "霍乱奖章",
+      "original": "Cholera Medal",
+      "date": "1947年",
+      "variant": "镀金铜章；无皇冠悬挂版；35毫米；Fox／Fuchs（开罗）制；正反面；历史图录插图·2005",
+      "views": [
+        {
+          "key": "EGY-OMSA-CHOLERA-1947-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-OMSA-CHOLERA-1947-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "omsa_egypt_awards_appendix",
+        "omsa_egypt_malaria_cholera_2005"
+      ],
+      "image_kind": "historical_journal_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-JANUARY-26-MEDAL-PENDING-01",
+      "family": "EGY-OMSA-JANUARY-26-MEDAL",
+      "country_zh": "埃及",
+      "name": "一月二十六日奖章",
+      "original": "January 26th Medal",
+      "date": "1952年",
+      "variant": "unspecified；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-FUAD-LIFE-SAVING-PENDING-01",
+      "family": "EGY-OMSA-FUAD-LIFE-SAVING",
+      "country_zh": "埃及",
+      "name": "福阿德国王救生奖章",
+      "original": "King Fuad Life Saving Medal",
+      "date": "日期待考",
+      "variant": "2 classes；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-FAROUK-BODYGUARD-PENDING-01",
+      "family": "EGY-OMSA-FAROUK-BODYGUARD",
+      "country_zh": "埃及",
+      "name": "法鲁克国王卫队纪念奖章",
+      "original": "Farouk's Bodyguard Commemorative Medal",
+      "date": "日期待考",
+      "variant": "commemorative；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-OMSA-KAMAL-AL-DIN-HUSSEIN-PENDING-01",
+      "family": "EGY-OMSA-KAMAL-AL-DIN-HUSSEIN",
+      "country_zh": "埃及",
+      "name": "卡迈勒丁·侯赛因亲王奖章",
+      "original": "Prince Kamal Al Din Hussein Medal",
+      "date": "日期待考",
+      "variant": "unspecified；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    }
+  ]
+}

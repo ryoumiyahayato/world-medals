@@ -1,0 +1,13 @@
+{
+  "as_of":"2026-09-28",
+  "batch":"Bahrain, United Arab Emirates and Oman country-index ingestion",
+  "status":"merged_and_validated",
+  "sources":{
+    "bahrain":{"object_pages":9,"downloaded_images":24,"formal_rows":9,"families":9,"formal_views":9},
+    "united_arab_emirates":{"object_pages":35,"downloaded_images":78,"formal_rows":35,"families":35,"formal_views":35},
+    "oman":{"object_pages":1,"downloaded_images":1,"formal_rows":1,"families":1,"formal_views":1,"coverage_warning":"This completed source is narrow and does not establish national completeness."}
+  },
+  "batch_totals":{"object_pages":45,"downloaded_images":103,"formal_rows":45,"families":45,"formal_views":45},
+  "quality":{"contact_sheets_reviewed":3,"ribbon_only_rows":0,"cropped_preview_rows":0,"unpictured_rows":0},
+  "next":["Run official federal and emirate differentials.","Expand Oman from a broader catalogue.","Map cached alternate images to named grades and reverses."]
+}

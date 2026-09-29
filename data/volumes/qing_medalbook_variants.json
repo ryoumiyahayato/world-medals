@@ -1,0 +1,918 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "大清帝国（1644–1912）· MedalBook",
+  "records": [
+    {
+      "id": "QNG-MB-000-V01",
+      "family": "QNG-MEDAL-BERLIN-LEGATION",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "驻柏林使馆纪念章",
+      "original": "Berlin Legation Medal, in Gilt",
+      "date": "1896年",
+      "variant": "鎏金版；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-000-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-dabd65e0bd454660"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-001-V01",
+      "family": "QNG-MEDAL-BERLIN-LEGATION",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "驻柏林使馆纪念章",
+      "original": "Berlin Legation Medal, in Silver",
+      "date": "1896年",
+      "variant": "银质版",
+      "views": [
+        {
+          "key": "QNG-MB-001-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-001-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-8d71d96ddf644cd7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-005-V01",
+      "family": "QNG-DECORATION-CHINESE-MERIT-1897",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "维多利亚女王钻禧中国功牌",
+      "original": "Chinese Merit Decoration, I Class",
+      "date": "1897年",
+      "variant": "一等",
+      "views": [
+        {
+          "key": "QNG-MB-005-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-c22c0b24763edbed"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-006-V01",
+      "family": "QNG-DECORATION-CHINESE-MERIT-1897",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "维多利亚女王钻禧中国功牌",
+      "original": "Chinese Merit Decoration, II Class",
+      "date": "1897年",
+      "variant": "二等",
+      "views": [
+        {
+          "key": "QNG-MB-006-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-d1a231b84d2625d1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-007-V01",
+      "family": "QNG-DECORATION-CHINESE-MERIT-1897",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "维多利亚女王钻禧中国功牌",
+      "original": "Chinese Merit Decoration, III Class",
+      "date": "1897年",
+      "variant": "三等",
+      "views": [
+        {
+          "key": "QNG-MB-007-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-3a7219179a7a5f36"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-010-V01",
+      "family": "QNG-MEDAL-LONDON-LEGATION",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "驻伦敦使馆纪念章",
+      "original": "London Legation Medal",
+      "date": "1896年",
+      "variant": "李鸿章西行纪念",
+      "views": [
+        {
+          "key": "QNG-MB-010-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-62f5c9cb093034a2"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-015-V01",
+      "family": "QNG-MEDAL-TAIPING-MERIT",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "太平天国战事功牌",
+      "original": "Medal of Merit for Tai-Ping Rebellion, in Silver",
+      "date": "1862–1864年",
+      "variant": "银质版；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-015-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-691e5e1291552e53"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-018-V01",
+      "family": "QNG-MEDAL-ROYAL-BIRTH-BLESSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "皇嗣诞生奉祝纪念章",
+      "original": "Royal Birth Blessing Medal",
+      "date": "清末",
+      "variant": "纪念章",
+      "views": [
+        {
+          "key": "QNG-MB-018-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-018-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-ae96e974409e4af1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-020-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, I Class, II Grade (with ruby)",
+      "date": "1882年设立；第一式",
+      "variant": "头等第二品（红宝石）；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-020-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-a84fbf53055a1c31"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-021-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, I Class, III Grade (with coral)",
+      "date": "1882年设立；第一式",
+      "variant": "头等第三品（珊瑚）",
+      "views": [
+        {
+          "key": "QNG-MB-021-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-021-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-88ad00fc7ee85aba"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-022-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, II Class, I Grade",
+      "date": "1882年设立；第一式",
+      "variant": "二等第一品章饰",
+      "views": [
+        {
+          "key": "QNG-MB-022-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-29474b23e579f1f5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-023-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, II Class, I Grade Breast Star",
+      "date": "1882年设立；第一式",
+      "variant": "二等第一品星章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-023-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-3619f8480e8fd082"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-024-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, II Class, II Grade",
+      "date": "1882年设立；第一式",
+      "variant": "二等第二品章饰",
+      "views": [
+        {
+          "key": "QNG-MB-024-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-024-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-73699c507ecdc7af"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-025-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, II Class, II Grade Breast Star",
+      "date": "1882年设立；第一式",
+      "variant": "二等第二品星章",
+      "views": [
+        {
+          "key": "QNG-MB-025-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-025-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-b7a74bb8b7e7c1e1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-027-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, II Class, III Grade, Neck Badge",
+      "date": "1882年设立；第一式",
+      "variant": "二等第三品领绶章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-027-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-e0177219fcad0010"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-028-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, III Class, I Grade",
+      "date": "1882年设立；第一式",
+      "variant": "三等第一品章饰；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-028-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-5dab007688024f7f"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-029-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, III Class, I Grade Breast Star",
+      "date": "1882年设立；第一式",
+      "variant": "三等第一品星章",
+      "views": [
+        {
+          "key": "QNG-MB-029-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-029-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-9c4a909d1868d2e5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-030-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, III Class, II Grade",
+      "date": "1882年设立；第一式",
+      "variant": "三等第二品章饰；历史图录正反面合图",
+      "views": [
+        {
+          "key": "QNG-MB-030-VIEW1",
+          "label": "完整正反面合图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-ceffc08d2129e6fc"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-032-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, III Class, III Grade",
+      "date": "1882年设立；第一式",
+      "variant": "三等第三品章饰；历史图录正反面合图",
+      "views": [
+        {
+          "key": "QNG-MB-032-VIEW1",
+          "label": "完整正反面合图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-801bc7efe100e264"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-033-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, III Class, III Grade Breast Star",
+      "date": "1882年设立；第一式",
+      "variant": "三等第三品星章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-033-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-dfee3d781038a374"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-034-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type I, IV Class",
+      "date": "1882年设立；第一式",
+      "variant": "四等章",
+      "views": [
+        {
+          "key": "QNG-MB-034-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-034-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-e367a339a3482f38"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-037-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, I Class, I Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "头等第一品星章",
+      "views": [
+        {
+          "key": "QNG-MB-037-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-037-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-57a73692ce61c7cb"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-040-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, I Class, III Grade Sash Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "头等第三品大绶章章饰",
+      "views": [
+        {
+          "key": "QNG-MB-040-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-040-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-c9e5f0165996f591"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-041-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, I Class, III Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "头等第三品星章",
+      "views": [
+        {
+          "key": "QNG-MB-041-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-041-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-9815cbfa9adb6a9a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-042-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, I Grade Neck Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第一品领绶章",
+      "views": [
+        {
+          "key": "QNG-MB-042-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-042-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-390db7b2f3596a19"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-043-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, I Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第一品星章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-043-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-dcf1e457942b572e"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-044-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, II Grade Neck Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第二品领绶章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-044-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-de2328143b754651"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-045-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, II Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第二品星章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-045-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-95fe0bdf8dcf3888"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-046-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, III Grade Neck Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第三品领绶章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-046-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-0f7f3343c3fd9c67"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-047-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, II Class, III Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "二等第三品星章",
+      "views": [
+        {
+          "key": "QNG-MB-047-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-047-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-46c7c56dfbb06ea9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-048-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, III Class, I Grade Neck Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "三等第一品领绶章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-048-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-0ed64b8c1926c488"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-049-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, III Class, I Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "三等第一品星章；历史图录插图",
+      "views": [
+        {
+          "key": "QNG-MB-049-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-3cfbe434f045465e"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-050-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, III Class, II Grade Neck Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "三等第二品领绶章（盒装）",
+      "views": [
+        {
+          "key": "QNG-MB-050-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-50c5664f6ee6bc04"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-051-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, III Class, II Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "三等第二品星章",
+      "views": [
+        {
+          "key": "QNG-MB-051-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-051-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-72b04c2156f68de5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-052-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, III Class, III Grade Star",
+      "date": "约1900–1912年；第二式",
+      "variant": "三等第三品星章",
+      "views": [
+        {
+          "key": "QNG-MB-052-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-052-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-c1279ae0b96e7034"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-053-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, IV Class Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "四等章",
+      "views": [
+        {
+          "key": "QNG-MB-053-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-053-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-c5d1d16a9053df45"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-054-V01",
+      "family": "QNG-ORDER-DOUBLE-DRAGON",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "双龙宝星",
+      "original": "Order of the Double Dragon, Type II, V Class Badge",
+      "date": "约1900–1912年；第二式",
+      "variant": "五等章",
+      "views": [
+        {
+          "key": "QNG-MB-054-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-054-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-d5377f2855793c12"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-055-V01",
+      "family": "QNG-ORDER-IMPERIAL-DRAGON-PAO-HSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "宝星功牌",
+      "original": "Order of the Imperial Dragon, Bronze Decoration",
+      "date": "1862年设立",
+      "variant": "铜质功牌",
+      "views": [
+        {
+          "key": "QNG-MB-055-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-055-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-8c139fd3bc4c8f59"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-056-V01",
+      "family": "QNG-ORDER-IMPERIAL-DRAGON-PAO-HSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "宝星功牌",
+      "original": "Order of the Imperial Dragon, I Class",
+      "date": "1862年设立",
+      "variant": "一等；历史图录正反面合图",
+      "views": [
+        {
+          "key": "QNG-MB-056-VIEW1",
+          "label": "完整正反面合图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-d0f7c0617cc55f80"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-057-V01",
+      "family": "QNG-ORDER-IMPERIAL-DRAGON-PAO-HSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "宝星功牌",
+      "original": "Order of the Imperial Dragon, Medal with Blue Stone",
+      "date": "1862年设立",
+      "variant": "蓝色宝石版；历史图录正反面合图",
+      "views": [
+        {
+          "key": "QNG-MB-057-VIEW1",
+          "label": "完整正反面合图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-c4f4858bae2c402c"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-058-V01",
+      "family": "QNG-ORDER-IMPERIAL-DRAGON-PAO-HSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "宝星功牌",
+      "original": "Order of the Imperial Dragon, Medal with Green Stone",
+      "date": "1862年设立",
+      "variant": "绿色宝石版",
+      "views": [
+        {
+          "key": "QNG-MB-058-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "QNG-MB-058-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-00ca5eb35a9dd055"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "QNG-MB-060-V01",
+      "family": "QNG-ORDER-IMPERIAL-DRAGON-PAO-HSING",
+      "country_zh": "大清帝国（1644–1912）",
+      "name": "宝星功牌",
+      "original": "Order of the Imperial Dragon, Medal with White Stone",
+      "date": "1862年设立",
+      "variant": "白色宝石版；历史图录正反面合图",
+      "views": [
+        {
+          "key": "QNG-MB-060-VIEW1",
+          "label": "完整正反面合图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-imperial_china-8c92b6085b6b865c"
+      ],
+      "image_kind": "historical_catalogue",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "spink_auction_26001_egypt",
+  "status": "completed_bounded_section",
+  "boundary": "Complete auction 26001 catalogue listing checked; Egypt block lots 322-324 processed",
+  "catalogue_entries_checked": 1,
+  "egypt_lots_processed": 3,
+  "images_downloaded_and_decoded": 3,
+  "formal_rows_added": 3,
+  "formal_views_added": 3,
+  "result": "Two dated Kingdom-period Order of the Nile maker variants and one Republic Order of Merit first-class set promoted."
+}

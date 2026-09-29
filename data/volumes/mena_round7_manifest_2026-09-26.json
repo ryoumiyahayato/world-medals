@@ -292,36 +292,6 @@
       "height": 451
     },
     {
-      "view_key": "MENA7-030-FRONT",
-      "local_path": "assets/images/mena_round7/core7-1ddeaedda709.png",
-      "source_id": "core7-1ddeaedda709",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grand_Cordon_of_the_Order_of_the_Nile_%28Egypt%29_-_Memorial_JK_-_Brasilia_-_DSC00434.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC0",
-      "width": 330,
-      "height": 247
-    },
-    {
-      "view_key": "MENA7-031-FRONT",
-      "local_path": "assets/images/mena_round7/mena7-9d30f099136d.png",
-      "source_id": "mena7-9d30f099136d",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%282%29%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 960,
-      "height": 720
-    },
-    {
-      "view_key": "MENA7-032-FRONT",
-      "local_path": "assets/images/mena_round7/core7-6040547d07b8.png",
-      "source_id": "core7-6040547d07b8",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Order_of_the_Virtues_Nishan_al_Kemal_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 330,
-      "height": 440
-    },
-    {
       "view_key": "MENA7-033-FRONT",
       "local_path": "assets/images/mena_round7/core7-e4083c47e360.png",
       "source_id": "core7-e4083c47e360",
@@ -1892,36 +1862,6 @@
       "height": 655
     },
     {
-      "view_key": "MENA7-190-FRONT",
-      "local_path": "assets/images/mena_round7/mena7-e738e47775d9.png",
-      "source_id": "mena7-e738e47775d9",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%281960_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 960,
-      "height": 1280
-    },
-    {
-      "view_key": "MENA7-191-FRONT",
-      "local_path": "assets/images/mena_round7/mena7-1649bd2d5521.png",
-      "source_id": "mena7-1649bd2d5521",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 960,
-      "height": 1280
-    },
-    {
-      "view_key": "MENA7-192-FRONT",
-      "local_path": "assets/images/mena_round7/mena7-c1abf3c730ae.png",
-      "source_id": "mena7-c1abf3c730ae",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%28%21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 960,
-      "height": 946
-    },
-    {
       "view_key": "MENA7-193-FRONT",
       "local_path": "assets/images/mena_round7/core7-9e3797b548e8.png",
       "source_id": "core7-9e3797b548e8",
@@ -1940,76 +1880,6 @@
       "license": "Public domain",
       "width": 330,
       "height": 241
-    },
-    {
-      "view_key": "MENA7-195-FRONT",
-      "local_path": "assets/images/mena_round7/core7-80279c901227.png",
-      "source_id": "core7-80279c901227",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Great_Order_of_the_Nile%2C_Carter_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC0",
-      "width": 330,
-      "height": 247
-    },
-    {
-      "view_key": "MENA7-196-FRONT",
-      "local_path": "assets/images/mena_round7/core7-f75c978df6b0.png",
-      "source_id": "core7-f75c978df6b0",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Orden_Nila_znak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "width": 330,
-      "height": 581
-    },
-    {
-      "view_key": "MENA7-197-FRONT",
-      "local_path": "assets/images/mena_round7/core7-b407fbd232bb.png",
-      "source_id": "core7-b407fbd232bb",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Orden_Nila_zveno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "width": 330,
-      "height": 148
-    },
-    {
-      "view_key": "MENA7-198-FRONT",
-      "local_path": "assets/images/mena_round7/core7-093ad3fbc161.png",
-      "source_id": "core7-093ad3fbc161",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Orden_Nila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "Public domain",
-      "width": 330,
-      "height": 577
-    },
-    {
-      "view_key": "MENA7-199-FRONT",
-      "local_path": "assets/images/mena_round7/core7-453923b8880c.png",
-      "source_id": "core7-453923b8880c",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Orden_Republike_Egipat_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "view_key": "MENA7-200-FRONT",
-      "local_path": "assets/images/mena_round7/core7-5e696ad4e373.png",
-      "source_id": "core7-5e696ad4e373",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Orden_Republike_Egipat_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 330,
-      "height": 247
-    },
-    {
-      "view_key": "MENA7-201-FRONT",
-      "local_path": "assets/images/mena_round7/mena7-fbc2f52ee5ec.png",
-      "source_id": "mena7-fbc2f52ee5ec",
-      "download_status": "cached_complete_local_image",
-      "source_original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "license": "CC BY-SA 4.0",
-      "width": 960,
-      "height": 720
     },
     {
       "view_key": "MENA7-202-FRONT",
@@ -2300,6 +2170,186 @@
       "license": "Public domain",
       "width": 330,
       "height": 720
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-030-front",
+      "view_key": "MENA7-030-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-003.JPG",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grand_Cordon_of_the_Order_of_the_Nile_(Egypt)_-_Memorial_JK_-_Brasilia_-_DSC00434.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Grand_Cordon_of_the_Order_of_the_Nile_%28Egypt%29_-_Memorial_JK_-_Brasilia_-_DSC00434.JPG",
+      "artist": "Daderot",
+      "license": "CC0 1.0",
+      "dimensions": [
+        3648,
+        2736
+      ],
+      "bytes": 3550598,
+      "sha256": "6e3f3637fe95210e7b9348557f6d9728bbb3cf04d960b1b977b3c652ba061135",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-031-front",
+      "view_key": "MENA7-031-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-010.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:(2)وسام_الجمهورية_من_الدرجة_الأولى_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%282%29%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        4608,
+        3456
+      ],
+      "bytes": 4679943,
+      "sha256": "6990d1359238a4d98ee6ccd0fb5e7e4174c767759be33ff0cb05bf605a861ee2",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-032-front",
+      "view_key": "MENA7-032-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-015.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Virtues_Nishan_al_Kemal_Egypt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Order_of_the_Virtues_Nishan_al_Kemal_Egypt.jpg",
+      "artist": "Alexeinikolayevichromanov",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        4032,
+        3024
+      ],
+      "bytes": 4570994,
+      "sha256": "71d4f12ab900aa7cb37407ebb5e87d91cd03b88b4df0d2a5b4b4a7c086a91a66",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-190-front",
+      "view_key": "MENA7-190-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-018.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الثالثة_(1960_).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%281960_%29.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        1920,
+        2560
+      ],
+      "bytes": 1319717,
+      "sha256": "4c294b4ebc583b113ba367dcea82d8d98f6c201336dc758882a38d78bfc38a37",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-191-front",
+      "view_key": "MENA7-191-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-017.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الثالثة_1960.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_1960.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        1920,
+        2560
+      ],
+      "bytes": 1560754,
+      "sha256": "7f625668ddd5a8e86cf127cb6d5c3290a2b7ef792769ec0420af3bc60dfe4896",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-192-front",
+      "view_key": "MENA7-192-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-019.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:وسام_الاستحقاق_من_الدرجة_الرابعة_(!).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%28%21%29.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        1280,
+        1262
+      ],
+      "bytes": 395079,
+      "sha256": "608a84fca4e15a52f7d33c716f114536957e4b2c99bbe962c7b43de020fce5d4",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-198-front",
+      "view_key": "MENA7-198-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-008.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Orden_Nila.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Orden_Nila.jpg",
+      "artist": "Kei",
+      "license": "Public domain",
+      "dimensions": [
+        1552,
+        2716
+      ],
+      "bytes": 470280,
+      "sha256": "9474fc8285dd4ea088d22aa2330cbcd99d2e99e9ed25fc59c6031d66b2b0e867",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-199-front",
+      "view_key": "MENA7-199-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-013.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Orden_Republike_Egipat_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Orden_Republike_Egipat_01.jpg",
+      "artist": "Aleksandra Đuričić",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        3120,
+        4160
+      ],
+      "bytes": 10733267,
+      "sha256": "ae1d1eeb6e7b824f4ca97f58096a57aeb02e4c26661939ecfcc5174426ae8a24",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-200-front",
+      "view_key": "MENA7-200-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-014.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Orden_Republike_Egipat_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Orden_Republike_Egipat_02.jpg",
+      "artist": "Aleksandra Đuričić",
+      "license": "CC BY-SA 4.0; Wikimedia 1920px derivative retained after original endpoint rate limit",
+      "dimensions": [
+        1920,
+        1440
+      ],
+      "bytes": 712623,
+      "sha256": "7a3641e9aa110ca64c23c36a4a40fecfd8426b7ff69d806e797ac819ce471efb",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
+    },
+    {
+      "key": "egypt-commons-upgrade-mena7-201-front",
+      "view_key": "MENA7-201-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-011.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:وسام_الجمهورية_من_الدرجة_الأولى1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%891977.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        4608,
+        3456
+      ],
+      "bytes": 4672660,
+      "sha256": "f2792d512c3e0a61d97841ab5953d3d29cd490596e09baa4af41111f41397e7b",
+      "decoded": true,
+      "visually_checked": true,
+      "download_status": "cached_complete_local_image"
     }
   ],
   "unpictured_candidates": []

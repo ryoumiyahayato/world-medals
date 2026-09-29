@@ -1,0 +1,488 @@
+{
+    "as_of":  "2026-09-28",
+    "volume":  "苏联：Wikipedia总表剩余差集补图（MED-40/MED-55、独立等级及荣誉称号佩饰）",
+    "scope":  "仅收录主批已合入52行之外、由Wikipedia总表候选指向的独立完整正面图；优先奖章，另保留总表中的正式荣誉称号佩饰。",
+    "source_table":  "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+    "source_snapshot":  "sources/pages/soviet_wikipedia_master_2026-09-28.wikitext",
+    "candidate_universe_rows":  112,
+    "previous_batch_volume":  "data/volumes/soviet_wikipedia_master_differential_2026-09-28.json",
+    "records":  [
+                    {
+                        "id":  "USSR-MED-55-V-I-FOLLOWUP",
+                        "family":  "USSR-MED-55",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "无瑕服役奖章",
+                        "original":  "Medal For Impeccable Service / Медаль «За безупречную службу»",
+                        "date":  "1958-01-25设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "一级；完整正面实物图；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-55-V-I-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:MBezuprSlA.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Military medals — General",
+                                                "wikipedia_image_file":  "File:MBezuprSlA.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:MBezuprSlA.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/MBezuprSlA.jpg",
+                                                "commons_sha1":  "6e1e791e8ea7619f818368accd287c74dc3e611a",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "Soviet government",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-MED-55-V-II-FOLLOWUP",
+                        "family":  "USSR-MED-55",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "无瑕服役奖章",
+                        "original":  "Medal For Impeccable Service / Медаль «За безупречную службу»",
+                        "date":  "1958-01-25设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "二级；完整正面实物图；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-55-V-II-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:USSR15yearsofservice.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Military medals — General",
+                                                "wikipedia_image_file":  "File:USSR15yearsofservice.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:USSR15yearsofservice.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/USSR15yearsofservice.jpg",
+                                                "commons_sha1":  "ae94e55be6253d8e1bff9fe6bc71c263ae4854cc",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "wooteleF",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-MED-55-V-III-FOLLOWUP",
+                        "family":  "USSR-MED-55",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "无瑕服役奖章",
+                        "original":  "Medal For Impeccable Service / Медаль «За безупречную службу»",
+                        "date":  "1958-01-25设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "三级；完整正面实物图；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-55-V-III-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:MBezuprSlC.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Military medals — General",
+                                                "wikipedia_image_file":  "File:MBezuprSlC.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:MBezuprSlC.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/MBezuprSlC.jpg",
+                                                "commons_sha1":  "a3e474099f56fba72e4aad945cd4dc4dea8e533e",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "Soviet Government",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-MED-40-V-LABOUR-FOLLOWUP",
+                        "family":  "USSR-MED-40",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "纪念列宁诞辰一百周年奖章",
+                        "original":  "Jubilee Medal for the 100th Anniversary of Lenin Birth / Юбилейная медаль «В ознаменование 100-летия со дня рождения В. И. Ленина»",
+                        "date":  "1969-11-05设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "劳动英勇版；总表图片为共同章体正面，具体资格由来源文字区分；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-40-V-LABOUR-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:100%20years%20Lenin%20OBVERSE.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Other commemorative medals",
+                                                "wikipedia_image_file":  "File:100 years Lenin OBVERSE.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:100%20years%20Lenin%20OBVERSE.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/100%20years%20Lenin%20OBVERSE.jpg",
+                                                "commons_sha1":  "b01e11ff78509a3be852546520a54162d01fe5a9",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fdutil\" title=\"User:Fdutil\"\u003eFdutil\u003c/a\u003e",
+                                                "license":  "CC BY-SA 3.0"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-MED-08-V-II-COMMONS-FOLLOWUP",
+                        "family":  "USSR-MED-08",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "卫国战争游击队员奖章",
+                        "original":  "Medal Partisan of the Patriotic War / Медаль «Партизану Отечественной войны»",
+                        "date":  "1943-02-02设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "二级；独立Commons正面文件；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-08-V-II-COMMONS-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Medal%20Partisan%20of%20the%20Patriotic%20War%202nd%20class%20OBVERSE.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Military medals — General",
+                                                "wikipedia_image_file":  "File:Medal Partisan of the Patriotic War 2nd class OBVERSE.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Medal%20Partisan%20of%20the%20Patriotic%20War%202nd%20class%20OBVERSE.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Medal%20Partisan%20of%20the%20Patriotic%20War%202nd%20class%20OBVERSE.jpg",
+                                                "commons_sha1":  "2f76172845f70d3f6640c6fe61364f37fae12c8f",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fdutil\" title=\"User:Fdutil\"\u003eFdutil\u003c/a\u003e",
+                                                "license":  "CC BY-SA 3.0"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-MED-10-V-II-COMMONS-FOLLOWUP",
+                        "family":  "USSR-MED-10",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "军事服役优异奖章",
+                        "original":  "Medal For Distinction in Military Service / Медаль «За отличие в воинской службе»",
+                        "date":  "1974-10-28设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "二级；独立Commons正面文件；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-MED-10-V-II-COMMONS-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Soviet%20For%20Distinction%20in%20Military%20Service%202nd%20class.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Military medals — General",
+                                                "wikipedia_image_file":  "File:Soviet For Distinction in Military Service 2nd class.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Soviet%20For%20Distinction%20in%20Military%20Service%202nd%20class.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20For%20Distinction%20in%20Military%20Service%202nd%20class.jpg",
+                                                "commons_sha1":  "51796c837213af1e4f39de631f94f38ee53bc3d6",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fdutil\" title=\"User:Fdutil\"\u003eFdutil\u003c/a\u003e",
+                                                "license":  "CC BY-SA 3.0"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-04-V01-FOLLOWUP",
+                        "family":  "USSR-HON-04",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联功勋试飞员徽章",
+                        "original":  "Honoured Test Pilot of the USSR / Заслуженный лётчик-испытатель СССР",
+                        "date":  "1958-08-14设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-04-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Заслуженный летчик-испытатель СССР.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg",
+                                                "commons_sha1":  "015e9b3960acb3ac9fbb9363900a80d56eda4e71",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Andrey_I._Kuznetsov\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Andrey I. Kuznetsov (page does not exist)\"\u003eAndrey I. Kuznetsov\u003c/a\u003e",
+                                                "license":  "CC BY-SA 4.0"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-06-V01-FOLLOWUP",
+                        "family":  "USSR-HON-06",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联宇航员徽章",
+                        "original":  "Pilot-Cosmonaut of the USSR / Лётчик-космонавт СССР",
+                        "date":  "1961-04-14设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-06-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Pilot-Cosmonaut%20of%20the%20USSR.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Pilot-Cosmonaut of the USSR.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Pilot-Cosmonaut%20of%20the%20USSR.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Pilot-Cosmonaut%20of%20the%20USSR.jpg",
+                                                "commons_sha1":  "55b7573b50ad2edad72ee364ce28aae8b349191e",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"https://en.wikipedia.org/wiki/en:Russia\" class=\"extiw\" title=\"w:en:Russia\"\u003e\u003cspan title=\"country in Eastern Europe and Northern Asia, the largest in the world by area\"\u003eRussia\u003c/span\u003e\u003c/a\u003e",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-07-V01-FOLLOWUP",
+                        "family":  "USSR-HON-07",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联功勋军事飞行员徽章",
+                        "original":  "Honoured Military Pilot of the USSR / Заслуженный военный лётчик СССР",
+                        "date":  "1965-01-26设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-07-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Distinguished%20Military%20Pilot%20Of%20The%20Soviet%20Union.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Distinguished Military Pilot Of The Soviet Union.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Distinguished%20Military%20Pilot%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Distinguished%20Military%20Pilot%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_sha1":  "76652243c71b85fecabb7d474e03184cf4147100",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "USSR (photo by E. Zhitnikov)",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-08-V01-FOLLOWUP",
+                        "family":  "USSR-HON-08",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联功勋军事领航员徽章",
+                        "original":  "Honoured Military Navigator of the USSR / Заслуженный военный штурман СССР",
+                        "date":  "1965-01-26设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-08-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Distinguished%20Military%20Navigator%20Of%20The%20Soviet%20Union.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Distinguished Military Navigator Of The Soviet Union.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Distinguished%20Military%20Navigator%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Distinguished%20Military%20Navigator%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_sha1":  "eb8ab6d8e4c841f4acb23e793f8320037e06a2d1",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "USSR",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-10-V01-FOLLOWUP",
+                        "family":  "USSR-HON-10",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联功勋领航员徽章",
+                        "original":  "Honoured Navigator of the USSR / Заслуженный штурман СССР",
+                        "date":  "1965-09-30设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-10-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Zasl%20Shturman%20USSR.png"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Zasl Shturman USSR.png",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Zasl%20Shturman%20USSR.png",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Zasl%20Shturman%20USSR.png",
+                                                "commons_sha1":  "a1780178aad1ef00221f9257d61610e5e0a85f6a",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2\" title=\"User:Андрей Симонов\"\u003eАндрей Симонов\u003c/a\u003e",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-11-V01-FOLLOWUP",
+                        "family":  "USSR-HON-11",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联功勋发明家徽章",
+                        "original":  "Honoured Inventor of the USSR / Заслуженный изобретатель СССР",
+                        "date":  "1981-12-28设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-11-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:Distinguished%20Inventor%20Of%20The%20Soviet%20Union.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Distinguished Inventor Of The Soviet Union.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:Distinguished%20Inventor%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/Distinguished%20Inventor%20Of%20The%20Soviet%20Union.jpg",
+                                                "commons_sha1":  "377561d199ed700a07b72f0018906c28279bbd68",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "Original uploader was \u003ca href=\"https://ru.wikipedia.org/wiki/G8\" class=\"extiw\" title=\"ru:G8\"\u003eG8\u003c/a\u003e at \u003ca class=\"external text\" data-mw-original-href=\"http://ru.wikipedia.org\" href=\"https://ru.wikipedia.org\"\u003eru.wikipedia\u003c/a\u003e",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-12-V01-FOLLOWUP",
+                        "family":  "USSR-HON-12",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联人民医生徽章",
+                        "original":  "People\u0027s Doctor of the USSR / Народный врач СССР",
+                        "date":  "1977-10-25设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-12-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:People\u0027s%20Doctor%20of%20the%20Soviet%20Union.png"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:People\u0027s Doctor of the Soviet Union.png",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:People\u0027s%20Doctor%20of%20the%20Soviet%20Union.png",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/People\u0027s%20Doctor%20of%20the%20Soviet%20Union.png",
+                                                "commons_sha1":  "82b6ed3af562fb0f76093d4a1bd961bae38e827e",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Max0697\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Max0697 (page does not exist)\"\u003eMax0697\u003c/a\u003e",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-15-V01-FOLLOWUP",
+                        "family":  "USSR-HON-15",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联人民艺术家徽章",
+                        "original":  "People\u0027s Artist of the USSR / Народный артист СССР",
+                        "date":  "1937-01-13设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-15-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:People%20Artist%20of%20the%20USSR1.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:People Artist of the USSR1.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:People%20Artist%20of%20the%20USSR1.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/People%20Artist%20of%20the%20USSR1.jpg",
+                                                "commons_sha1":  "3565b4e4920997ebda9a6dab4a50f540817c3370",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "USSR",
+                                                "license":  "Public domain"
+                                            }
+                    },
+                    {
+                        "id":  "USSR-HON-16-V01-FOLLOWUP",
+                        "family":  "USSR-HON-16",
+                        "country_zh":  "苏联",
+                        "period":  "苏联（1922–1991）",
+                        "name":  "苏联人民画家徽章",
+                        "original":  "People\u0027s Painter of the USSR / Народный художник СССР",
+                        "date":  "1943-07-16设立（Wikipedia总表日期；非具体实物颁发日）",
+                        "variant":  "荣誉称号佩饰；完整正面徽章（带绶带）；来源图像实际对应本行；生产版型／制造商待考",
+                        "views":  [
+                                      {
+                                          "key":  "USSR-FOLLOWUP-USSR-HON-16-V01-FRONT",
+                                          "label":  "完整正面；Commons文件页原图"
+                                      }
+                                  ],
+                        "source_ids":  [
+                                           "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Soviet_Union",
+                                           "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg"
+                                       ],
+                        "source_evidence":  {
+                                                "wikipedia_table_section":  "Honorary titles",
+                                                "wikipedia_image_file":  "File:Народный художник СССР.jpg",
+                                                "commons_file_page":  "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg",
+                                                "commons_direct_url":  "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%A1%D0%A1%D0%A1%D0%A0.jpg",
+                                                "commons_sha1":  "9a749c60a79b5607305e22b37a85113dc8f7d516",
+                                                "access_date":  "2026-09-28",
+                                                "image_type":  "Commons object image; complete front candidate",
+                                                "author":  "USSR",
+                                                "license":  "Public domain"
+                                            }
+                    }
+                ],
+    "counts":  {
+                   "records":  15,
+                   "families":  13,
+                   "complete_local_images":  15,
+                   "rejected_or_unresolved":  5
+               },
+    "notes":  [
+                  "Commons API metadata was queried in a batch \u003c=50 titles; direct Special:FilePath downloads were decoded locally.",
+                  "MED-40 image is one shared obverse for the three qualification descriptions in the Wikipedia table; only the labour qualification is represented here to avoid duplicating the same object image across levels.",
+                  "Rows marked COMMONS are independent file objects, added only where the main awards.wiki image was generic or absent.",
+                  "Honorary-title rows are badges/佩饰 from the master table, not ordinary qualification certificates; any non-object or person-only image would be excluded."
+              ]
+}

@@ -1,0 +1,1913 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-medalbook-082-04",
+      "record_id": "EGY-MB-082",
+      "view_key": "EGY-MB-082-V1",
+      "local_path": "assets/images/egypt_medalbook/082_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/collar-of-fouad-i/collar-of-fouad-i-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/9b9eb7b6008ecf38ce80e9ff2235ac8c6de4ee89/store/fit/528/348/f299163e757826eda560548d385b4664ea8fec1ee0d866f5c40dc8e19363/Collar+of+Fouad+I%2C+Collar+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 20534,
+      "sha256": "4e1303eaf086b3c404994a308257dbac39d4357d88b9f299a8322d364d049e53",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-086-04",
+      "record_id": "EGY-MB-086",
+      "view_key": "EGY-MB-086-V1",
+      "local_path": "assets/images/egypt_medalbook/086_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-agriculture/order-of-agriculture-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/8858baf54e885e54073459b7df7835cd530c9f95/store/fit/1000/750/a98fb886efe9a7b1f20c5c99662cc2bc48f43b0a6d4345e3fcce8199a8fb/obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 380695,
+      "sha256": "10fbe149b1c2c2840a600eb15e31bd9ae31c7b9eb8a90c00cb1f4509efee80d5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-086-05",
+      "record_id": "EGY-MB-086",
+      "view_key": "EGY-MB-086-V2",
+      "local_path": "assets/images/egypt_medalbook/086_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-agriculture/order-of-agriculture-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/933a2db25754d42851cd8092795fc0d391674f42/store/fit/528/348/1d614d121d7ef43d20c4bd869546ad1ec8ed6ff052922d1d5c82fd0ab8c6/rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 80493,
+      "sha256": "3fd99f786344e8d1535f43a6adb014c096d4fbc8148375a0318f73d8571fa8ee",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-090-08",
+      "record_id": "EGY-MB-090",
+      "view_key": "EGY-MB-090-V1",
+      "local_path": "assets/images/egypt_medalbook/090_08.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-al-maaref-arts-sciences/order-of-arts-and-sciences-commander-1",
+      "image_url": "https://www.medalbook.com/attachments/a683015d7155222a09b97e15958354004c97749b/store/fit/528/348/c06aa9e67156a54c0730e10ddddd9d32e70cf23344e1d6c2888c75e41dc4/commander+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 105333,
+      "sha256": "4e962965dabc01d17b3bca05ebb98bdab4501b17b575c17ced282869d9a40c61",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-090-02",
+      "record_id": "EGY-MB-090",
+      "view_key": "EGY-MB-090-V2",
+      "local_path": "assets/images/egypt_medalbook/090_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-al-maaref-arts-sciences/order-of-arts-and-sciences-commander-1",
+      "image_url": "https://www.medalbook.com/attachments/3fe748c12e7f8bf05bfcb5c2d748776d42444b81/store/fit/528/348/55267fc531da5ad313aabf07f7f129c9c17b88ec892c0bd736ae23e579fb/commander+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 89763,
+      "sha256": "27d97d2a2fa747ba87f670cba08c173862abc59b8fdb57b9c2e5e4757519f10f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-091-08",
+      "record_id": "EGY-MB-091",
+      "view_key": "EGY-MB-091-V1",
+      "local_path": "assets/images/egypt_medalbook/091_08.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-al-maaref-arts-sciences/orders-of-arts-and-science-officer-2",
+      "image_url": "https://www.medalbook.com/attachments/e5ad77e2d5dfd2759b5f5ca22d3b35a7ecafd33d/store/fit/1000/750/e0475333f6ae3e6e43eb81c810cf3478b116a018265ed2fd6ed46e82e114/officer+obv+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 292372,
+      "sha256": "3fd0e4de8fcc12c3032c1d974b1b1a093633f59306e6f54c52975d5f6b60d5e6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-091-06",
+      "record_id": "EGY-MB-091",
+      "view_key": "EGY-MB-091-V2",
+      "local_path": "assets/images/egypt_medalbook/091_06.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-al-maaref-arts-sciences/orders-of-arts-and-science-officer-2",
+      "image_url": "https://www.medalbook.com/attachments/b9b14ee9f0025f4a38c3f6278aa6b6a44423f57a/store/fit/528/348/1344077bed608df0177c50362a791c194ecb5ed3dd16ccca904aa9b63e43/officer+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 93510,
+      "sha256": "06b30325b746fa6dbed1ecd0ff6fc184fd079c8b71190abb430b64c21c9ce419",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-092-05",
+      "record_id": "EGY-MB-092",
+      "view_key": "EGY-MB-092-V1",
+      "local_path": "assets/images/egypt_medalbook/092_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-culture/order-of-culture-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/c8a516141d8dcb4e6f023f2b4a8714b165a8e354/store/fit/1000/750/ba21fa61c3906fea68cb5e2fdd349e99e883060c7c2583fed97a168e668b/obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 303998,
+      "sha256": "3598b9cbab040eae72fd2f7ab4fdcb62136e78dedc5cdc2b572cb0265823acc6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-092-03",
+      "record_id": "EGY-MB-092",
+      "view_key": "EGY-MB-092-V2",
+      "local_path": "assets/images/egypt_medalbook/092_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-culture/order-of-culture-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/493a5e44d5637f1ac2a7930923d952e3bc51f249/store/fit/528/348/2dbf49ea7d3029c8a4c338a8ba85eae82b0f035659e626ed162b0fd4642c/rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 95141,
+      "sha256": "5de31c2c118c64d6b095c69f60ca4d4e7a664babe47fe0e8c7a5e927252f4846",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-098-01",
+      "record_id": "EGY-MB-098",
+      "view_key": "EGY-MB-098-V1",
+      "local_path": "assets/images/egypt_medalbook/098_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-i-(1915-1953)/order-of-al-kamal-order-of-virtues-type-i-iii-class-6",
+      "image_url": "https://www.medalbook.com/attachments/e8da23dd14d6b9712e28828d0e23acd20515d582/store/fit/1000/750/aeb08fc9215d18c2be937f869f0154ce9313599f6d41d97e9e3b2c32f703/3+class+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 227990,
+      "sha256": "53c31a05eee9424c02c1073038874bc9f3976bfbef379f143c8f3e67b97f2e76",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-099-01",
+      "record_id": "EGY-MB-099",
+      "view_key": "EGY-MB-099-V1",
+      "local_path": "assets/images/egypt_medalbook/099_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-i-(1915-1953)/order-of-al-kamal-order-of-virtues-type-i-supreme-class-1",
+      "image_url": "https://www.medalbook.com/attachments/a05212713b4902f7c0f5eb0092aa4b7ed709abc8/store/fit/528/348/0e5741e8c7965d1a7d9f3a671360f3df9562c86943eb204d1b1dc268c777/supreme+class+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 163201,
+      "sha256": "eda41ddc92496a119aeda61a0b1e5fd23260f95e898476a917127620a66b8535",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-100-04",
+      "record_id": "EGY-MB-100",
+      "view_key": "EGY-MB-100-V1",
+      "local_path": "assets/images/egypt_medalbook/100_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-i-(1915-1953)/order-of-al-kamal-order-of-virtues-type-i-supreme-class-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/c883e630a7e06e163d9c18b026aa2326c5072705/store/fit/1000/750/c143b1a8886d80525093b6f74adeb3f5a951c49c9d67609f4d93b2dd623f/Virtue+I+GCBS.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 356724,
+      "sha256": "2486bd22eba3b540af40bc2e996ba84328a3863420c63f72567171635f2e3171",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-100-01",
+      "record_id": "EGY-MB-100",
+      "view_key": "EGY-MB-100-V2",
+      "local_path": "assets/images/egypt_medalbook/100_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-i-(1915-1953)/order-of-al-kamal-order-of-virtues-type-i-supreme-class-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/39c4d2b7c7e4fa16197ac7f2dc4d695d397ec4b5/store/fit/528/348/d636e56004a4fdbbaf4b4c00204112fcd3b4c281d7ae0428acdd5ae33106/supreme+class+breast+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 107411,
+      "sha256": "992f758fdbb46d5285b38de2c509655f771b163b60914a1f6c9f734679f95d73",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-101-02",
+      "record_id": "EGY-MB-101",
+      "view_key": "EGY-MB-101-V1",
+      "local_path": "assets/images/egypt_medalbook/101_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-ii-(1953-)/order-of-al-kamal-order-of-virtues-type-ii-i-class-3",
+      "image_url": "https://www.medalbook.com/attachments/901a3423d0b07257e70c827813a8e27e5ba17acc/store/fit/528/348/bb1db20e09b31ed80ca65689363b7a174fcef1d34c78be94a980dd890bac/EGT511b.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 67520,
+      "sha256": "c585cea315a9f8f0d621db8c85320cdc815abc6ead2a90fa294a529492d0167f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-101-01",
+      "record_id": "EGY-MB-101",
+      "view_key": "EGY-MB-101-V2",
+      "local_path": "assets/images/egypt_medalbook/101_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-ii-(1953-)/order-of-al-kamal-order-of-virtues-type-ii-i-class-3",
+      "image_url": "https://www.medalbook.com/attachments/63a73be48ea037337b7e09a47a7ac05a31a04047/store/fit/528/348/9cb7731e498c0855ed9be5a6d53e52d9baf3b2f5bd8a9e555bb9d8825cea/EGT511d.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 61178,
+      "sha256": "325f938c14d5145e3ffaafcd4bd1dbac7ac3d281f948ff1294b7f7ad511ea41a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-103-01",
+      "record_id": "EGY-MB-103",
+      "view_key": "EGY-MB-103-V1",
+      "local_path": "assets/images/egypt_medalbook/103_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-ii-(1953-)/order-of-al-kamal-order-of-virtues-type-ii-ii-class-5",
+      "image_url": "https://www.medalbook.com/attachments/34c8b1d9c5fd27e0b6ca820ff8782ed1ea267faf/store/fit/1000/750/15301badab9e6c892fcf50f52ac47f4bd621eb462cb3947d244d372cbc26/Order+of+Al+Kamal+IIC+Type+II.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        741,
+        750
+      ],
+      "bytes": 139632,
+      "sha256": "e560572605a7e0385ed67cc51d626077c2c74b8206f6102315a618af73177d95",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-104-01",
+      "record_id": "EGY-MB-104",
+      "view_key": "EGY-MB-104-V1",
+      "local_path": "assets/images/egypt_medalbook/104_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-ii-(1953-)/order-of-al-kamal-order-of-virtues-type-ii-iii-class-6",
+      "image_url": "https://www.medalbook.com/attachments/03842112e1d109b954487a344337b1451f01fcc0/store/fit/528/348/72721a8ffe162d08abf127c8ce3c58a7fa1838768cc0d011bba4ce245120/IO509a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 57880,
+      "sha256": "28f5339c9e4d89c8f66e392c3cb3e42019488d2eb0c5bb6a8994c6bee386019a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-104-02",
+      "record_id": "EGY-MB-104",
+      "view_key": "EGY-MB-104-V2",
+      "local_path": "assets/images/egypt_medalbook/104_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-el-kemal-virtues/type-ii-(1953-)/order-of-al-kamal-order-of-virtues-type-ii-iii-class-6",
+      "image_url": "https://www.medalbook.com/attachments/29682bbfad023017cc551362d6d0a47a76deb04f/store/fit/528/348/2a1c0e5c4d73312fee9bd509dfe7306a0335b1286312f037b15ac9dad21f/3+class+rev+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 49574,
+      "sha256": "7e07625d737c04f4dd65e485f08a066a908eb9271c69dd279f426142d9765242",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-119-01",
+      "record_id": "EGY-MB-119",
+      "view_key": "EGY-MB-119-V1",
+      "local_path": "assets/images/egypt_medalbook/119_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklal-order-of-independence-grand-cross-badge-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/2f28be03810477668e76df102154f97a9be4d44b/store/fit/528/348/7ca33e3163be8531efc4e9c9e080618f63faee82b539d56be7d2eb9bb98c/obv+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 75784,
+      "sha256": "8346fe8a429765202e4ebf120e64ca43c4fbe8d340c3e2dcb790d34ac4d818bf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-119-03",
+      "record_id": "EGY-MB-119",
+      "view_key": "EGY-MB-119-V2",
+      "local_path": "assets/images/egypt_medalbook/119_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklal-order-of-independence-grand-cross-badge-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/424cc97f4389bacbba4c080b1665e9aeb1846126/store/fit/528/348/56cd2c89c95b48abdb5d08bc4db1d0880d56ca3f0fbbb366ffdb0fc7fdc7/1+class+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 71340,
+      "sha256": "978957b3e790d4f725da473241836fa095404bd364d64c0089f35188b52a281e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-120-01",
+      "record_id": "EGY-MB-120",
+      "view_key": "EGY-MB-120-V1",
+      "local_path": "assets/images/egypt_medalbook/120_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklal-order-of-independence-grand-cross-breast-star-i-class-2",
+      "image_url": "https://www.medalbook.com/attachments/16a181d49028ecda718d5446199c927964ab119d/store/fit/528/348/5bb61a82cbec138f1b4d6a2b59b624b9d3d59f559b06e3ff3d3b99cb9698/p_152_2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 105235,
+      "sha256": "07242b5676d1054c32d85e967438918924a1e5114d4948331128084eecdae32a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-120-02",
+      "record_id": "EGY-MB-120",
+      "view_key": "EGY-MB-120-V2",
+      "local_path": "assets/images/egypt_medalbook/120_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklal-order-of-independence-grand-cross-breast-star-i-class-2",
+      "image_url": "https://www.medalbook.com/attachments/34bf5c2000c9c99ae37c31fa1f9775651aed3da1/store/fit/528/348/a580648204a673e824d838b9d4ea9e908a2b7e41505c55e7ee8269f196b3/p_153_2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 93154,
+      "sha256": "27edafaaf02c3d0a08cf817dd4cf602e421ab98b3bff2f27f5fb455014dc2d1d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-121-01",
+      "record_id": "EGY-MB-121",
+      "view_key": "EGY-MB-121-V1",
+      "local_path": "assets/images/egypt_medalbook/121_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklalorder-of-independence-breast-star-ii-class-4",
+      "image_url": "https://www.medalbook.com/attachments/b66b6d4a9b8962cbf9c1a4dfdf61b42b768d56f9/store/fit/1000/750/393b6f3683de3f089b71ee0e7c3b18be51b972a7bd7c67c0a6c237d91d41/156.jpg5097efecb2793.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 157402,
+      "sha256": "db58b0a53b368c57ee03a2e3d65e1e8ef9778321910e7235495b337db44989e2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-121-03",
+      "record_id": "EGY-MB-121",
+      "view_key": "EGY-MB-121-V2",
+      "local_path": "assets/images/egypt_medalbook/121_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklalorder-of-independence-breast-star-ii-class-4",
+      "image_url": "https://www.medalbook.com/attachments/fbef8618242755082b61791dfe5e9e1df364820c/store/fit/528/348/220b0d6761e7b576381cd2712b2110148c7197a326d373bde98e0fcc4478/158.jpg5097eff247967.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 60358,
+      "sha256": "516d96c9a8df82ba54cbbee754d8b33a401d1997188fb5a2553be89dbcc45d5f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-123-01",
+      "record_id": "EGY-MB-123",
+      "view_key": "EGY-MB-123-V1",
+      "local_path": "assets/images/egypt_medalbook/123_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklalorder-of-independence-officer-ii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/038351c71bf9b017344cf0310897d7a53a44f278/store/fit/1000/750/52dd7c1446aed1104ee88b05e6ba0999716732dc6790c7f338aac41b5a55/m182_2836.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 203439,
+      "sha256": "c4d48c6b78a73c0a17ed150203b17445d5ce4ec7ef9b84f7bc20ea16c033af73",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-123-05",
+      "record_id": "EGY-MB-123",
+      "view_key": "EGY-MB-123-V2",
+      "local_path": "assets/images/egypt_medalbook/123_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-istiklal-independence/order-of-istiklalorder-of-independence-officer-ii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/e8ba125430d7c47dbd2250d0bfc501eecf056813/store/fit/528/348/22160cbd8a4fb440ceaad7949411f861b5049a3a811df03d76376019a3a0/m182_2837.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 62592,
+      "sha256": "fc05546e2824af6f26b2a0544b3aa9eeb1224d46000f361726261996587e056c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-127-02",
+      "record_id": "EGY-MB-127",
+      "view_key": "EGY-MB-127-V1",
+      "local_path": "assets/images/egypt_medalbook/127_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/b1c537c6d299a00953ad2b0a297fefe1e7afe057/store/fit/1000/750/4239771cfb2cabbe9e4db5af4890acda1bb4708b28976353e2b26a96016a/Merit+I+IIC.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 324361,
+      "sha256": "711e6b6aba1c0d92070ad9b63c27802c87e5cc5d71457f0bf48b686f04635f30",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-127-04",
+      "record_id": "EGY-MB-127",
+      "view_key": "EGY-MB-127-V2",
+      "local_path": "assets/images/egypt_medalbook/127_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/fdc0e3b314675a65dcb1680f20b7d880ae864913/store/fit/528/348/823f02abb1bff9d36c3ad9251a7b473e20f25b0a3012e7d9afb960c59ae7/Merit+I+IIC+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 59313,
+      "sha256": "b904e8c105ff4a52091cc1a4bbc7d276ea01ce65b5cfebafaed8275da5327be6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-128-01",
+      "record_id": "EGY-MB-128",
+      "view_key": "EGY-MB-128-V1",
+      "local_path": "assets/images/egypt_medalbook/128_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/1f8e13210587d2154c21a5dc55c9799e006a9fa7/store/fit/1000/750/e26472ebcaad47a1161a0e067acfcc3860d4fe7ca282850e0a8668bbaf88/Merit+I+GC.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 437878,
+      "sha256": "5dcebf3e3295fee9f3f249e7fac1b64fedfe1957f67616a212543819ec82d127",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-128-02",
+      "record_id": "EGY-MB-128",
+      "view_key": "EGY-MB-128-V2",
+      "local_path": "assets/images/egypt_medalbook/128_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/6bf7319f88c90afae43c57f754555a882da9e842/store/fit/528/348/b638a1d36670e7fa5db51ee62452745fb5d323542987f05350abb71e78ad/Merit+I+GC+Marks.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 111335,
+      "sha256": "92efc1c97b7b09354f5f5e87ca59ccd9618cf326be2c7f65a240612c3973e1ce",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-129-01",
+      "record_id": "EGY-MB-129",
+      "view_key": "EGY-MB-129-V1",
+      "local_path": "assets/images/egypt_medalbook/129_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/1173e7abd79ba393604088f627c2b114fac368b8/store/fit/528/348/42f00bdfc75171cdbfeb1f8f57bd6e52719dd2cad621bd8ed60ba17d8398/Merit+I+GCBS.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 117821,
+      "sha256": "dc7c3a68360aaae9698af4a1770ef4f62214f23b26d15966b0f03d725d39884b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-129-02",
+      "record_id": "EGY-MB-129",
+      "view_key": "EGY-MB-129-V2",
+      "local_path": "assets/images/egypt_medalbook/129_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/25d1673ae5b90229a4fbb8970cf9b4e459acd085/store/fit/528/348/ef942e6fd66e40c1e5fdc50951715a14c798df6294df852ab683ba5ad2fd/Merit+I+GCBS+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 133472,
+      "sha256": "d4ddd6ab733d919f7df6e76d4ecbf46396bee3b88a50ae66a2d8f2062b0c6e5b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-131-02",
+      "record_id": "EGY-MB-131",
+      "view_key": "EGY-MB-131-V1",
+      "local_path": "assets/images/egypt_medalbook/131_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/1a077cea6bcd6c894487716ffd6615f6c8b9a464/store/fit/1000/750/1496371572c3f384aaf0d4bba5c9f2bc60f440006e9d31255a78ab49d5e8/Merit+I+GOCS+Ob.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 320888,
+      "sha256": "2a8cebd1f9415d8bfc92de403356af58a0c218ea2f16f7f2904bdf2657f4860d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-131-01",
+      "record_id": "EGY-MB-131",
+      "view_key": "EGY-MB-131-V2",
+      "local_path": "assets/images/egypt_medalbook/131_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-i-(1953-1972)/order-of-merit-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/08e8e762aa985faa042ef0c034303c377d4b3428/store/fit/528/348/79c73f0ca7abb0765abedd19e066766bc7cc165365eeab39d6aa5b141bcd/Merit+I+GOCS+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 81854,
+      "sha256": "bb681d59105a51f8f2ec31c8c57e1b4efe31b666611e30470389ec9467330ec6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-134-04",
+      "record_id": "EGY-MB-134",
+      "view_key": "EGY-MB-134-V1",
+      "local_path": "assets/images/egypt_medalbook/134_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/9db5c889fa01750759be6e7e7f9a152651f37b7b/store/fit/528/348/3b5af2e686164bddc363b476e6d86bcadcb805f87809ee548756741a2944/III-Class-Silver-and-Enamelled-Medal-Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        347,
+        348
+      ],
+      "bytes": 20825,
+      "sha256": "93fbc931e019a1ddde283437c5a138545784cf3ea904446b2c0584534b3e193d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-134-05",
+      "record_id": "EGY-MB-134",
+      "view_key": "EGY-MB-134-V2",
+      "local_path": "assets/images/egypt_medalbook/134_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/c6eb9489551baa1a89886cdf2d110077191932ef/store/fit/528/348/2a5dec77b78e860e4bb7b167f4136b388bf8748d1d66e56ac67e5c6b1977/III-Class-Silver-and-Enamelled-Medal-Rev1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        352,
+        348
+      ],
+      "bytes": 18079,
+      "sha256": "56878ee5680e56cd17f3c817f81b007dda57153940b9fe13de3cd4fae0bbd434",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-135-03",
+      "record_id": "EGY-MB-135",
+      "view_key": "EGY-MB-135-V1",
+      "local_path": "assets/images/egypt_medalbook/135_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/6ed3b2f41044064f310ac31f185798b24a7ffd54/store/fit/528/348/3c0533e0c14984ff75f29d9936c0d37d1f15d2fd1bb78ce49c70f91f6d2b/IMG_021.jpg551d9d96cdffb1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 163605,
+      "sha256": "545f4130d0985145a9f7b54dd9a27a9709a94430872b6383756f09cbfbb3d7bd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-135-01",
+      "record_id": "EGY-MB-135",
+      "view_key": "EGY-MB-135-V2",
+      "local_path": "assets/images/egypt_medalbook/135_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/01e27e82eaf9b4d53e3cf60dab1ca772e6c02e39/store/fit/528/348/e0b4b4207ece876d435797e84c194dcecead0c08cc805d03806eb384bb89/IMG_05.jpg551d9dc7c4987.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 183056,
+      "sha256": "7e72f02c1cf9444f195e4c6cc33523a030ddf2840681d5a0160d5c3c0d03b6ee",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-136-01",
+      "record_id": "EGY-MB-136",
+      "view_key": "EGY-MB-136-V1",
+      "local_path": "assets/images/egypt_medalbook/136_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/1bd12624ad1c09ec82a0d705fb348b2df5a18aed/store/fit/1000/750/8591bc1714fe643b33e55877e25ac60cb87cf086b3235e3f8a451b960f59/IMG_08.jpg551d9deb52b4d.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 673426,
+      "sha256": "4b4cb5caa8e4c5ae36386e57592cd512714cd5e25f13d41897b95f275ae73e19",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-136-02",
+      "record_id": "EGY-MB-136",
+      "view_key": "EGY-MB-136-V2",
+      "local_path": "assets/images/egypt_medalbook/136_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/b574670f44a641e049776763ede3511743ba9642/store/fit/528/348/43e52f85464c253ddcc0a0b922cc09f3b03f8a28b0353ab5860fe33c7100/IMG_10.jpg551d9dfd5cfaf.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 197934,
+      "sha256": "40aae91ca4b7ede5c0c6fee920646e3ce4ecf5590ea5e4a57bbf9cdcce25b4d3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-137-02",
+      "record_id": "EGY-MB-137",
+      "view_key": "EGY-MB-137-V1",
+      "local_path": "assets/images/egypt_medalbook/137_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/0166b76f04d11361eea9b4a281fac0d818fc1827/store/fit/528/348/b52f9289b205aad5476d8eaff1028ceb74eb20c5b430fe4b1bc730b6e8f9/161.jpg51aa2d1e7a72f1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 64814,
+      "sha256": "9c3a7ca28b6b18a47f25bccefa4db40478d0de894a45f67d9f1ef103124bbeba",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-137-04",
+      "record_id": "EGY-MB-137",
+      "view_key": "EGY-MB-137-V2",
+      "local_path": "assets/images/egypt_medalbook/137_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/f91de284943b50c3d1921addaaa6fcf2e2a8a05a/store/fit/528/348/e4b1d7a7e49b3e8e067d3ce5936f9b89fbbf64a23e33208dd9c65558e63d/19.jpg51aa2d2a29bb1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 52966,
+      "sha256": "a6f8a315ce779c7e889a25053c899ab7a17f5066f3f7fb81484f898c431a2191",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-138-01",
+      "record_id": "EGY-MB-138",
+      "view_key": "EGY-MB-138-V1",
+      "local_path": "assets/images/egypt_medalbook/138_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/25f45ffb144a6b04b1f0ef69718beaa74ffe09f7/store/fit/1000/750/8f9646dbd3a53a83c0a2323f891872441437bdeb5da509770b28d99dc897/4.jpg51aa2cd9dc0e7.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 228530,
+      "sha256": "953f0e4483829b54394a5f4b070acf4941e209ee800428308f9546a915fcec57",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-138-02",
+      "record_id": "EGY-MB-138",
+      "view_key": "EGY-MB-138-V2",
+      "local_path": "assets/images/egypt_medalbook/138_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/4ba355a2a8a5c10a28d759efe091aabe458252bb/store/fit/528/348/bbabd638c7f46582c13e9ba2d937df1be61ad4869cb778a47b1f4d1319ae/6.jpg51aa2cdfe7797.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 63365,
+      "sha256": "f6701534d86c2445d201529666fff0e7b3566837892050b39072b2b35e2386c6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-139-06",
+      "record_id": "EGY-MB-139",
+      "view_key": "EGY-MB-139-V1",
+      "local_path": "assets/images/egypt_medalbook/139_06.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/a998dbbbb63269d170ca68d14c2438870cba393f/store/fit/1000/750/d0a52e3af4f0c0deaa995713058b2a4458514ebfa0e84a25c55d792b14c3/knight+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        756,
+        750
+      ],
+      "bytes": 45978,
+      "sha256": "8032a316b2b274a0b05e71724b7350a8a9d2a94b45d1cd580732ba39383d9903",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-139-07",
+      "record_id": "EGY-MB-139",
+      "view_key": "EGY-MB-139-V2",
+      "local_path": "assets/images/egypt_medalbook/139_07.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-merit/type-ii-(1972-)/order-of-merit-type-ii-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/dc5a58140ea017c0f58029c0c094e2748cdf55d2/store/fit/528/348/c63d23245d8c9282339c367e2e157d520728d2bfee17e3a4a622e828cf02/knight+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        347,
+        348
+      ],
+      "bytes": 15532,
+      "sha256": "b2a7f62d625ab928deb3170c20d139aecead88236922ea5549e0ba0cad6ac87f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-148-05",
+      "record_id": "EGY-MB-148",
+      "view_key": "EGY-MB-148-V1",
+      "local_path": "assets/images/egypt_medalbook/148_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-badge-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/ca0bbee543d07ee6a2bdd86230a7ed8e37266568/store/fit/1000/750/46b07289756ed3e37e8d7eec1a09b5341ec6d9ee2458387f6b53a4b1b645/a_5300.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 308163,
+      "sha256": "a912ba4b68e80dc7206d946e761510896e198d81c94e0808153f60ed55ebbb5d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-148-04",
+      "record_id": "EGY-MB-148",
+      "view_key": "EGY-MB-148-V2",
+      "local_path": "assets/images/egypt_medalbook/148_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-badge-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/a391c7ef893e37140d4f05566593bd11bb9db327/store/fit/528/348/2a9300577043e62e34dff95fd657864362a5beef6968d4d8c30e0ad77d9a/a_5302.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 96693,
+      "sha256": "a552d1c28198ea10a3056ec4b2960ea4c40d2c28b06ba1a47f00f348ac61e4ed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-149-02",
+      "record_id": "EGY-MB-149",
+      "view_key": "EGY-MB-149-V1",
+      "local_path": "assets/images/egypt_medalbook/149_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/14d822e77050f7ab51c9553b87498bbd9480d95c/store/fit/1000/750/a11391a749003c0d14c68eb0807d241f196d675cba3ab34056fc432550a9/commander+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 508724,
+      "sha256": "18764239371168048b45211b9d11021b1d4a86106738c7568549d78b10448ce6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-149-04",
+      "record_id": "EGY-MB-149",
+      "view_key": "EGY-MB-149-V2",
+      "local_path": "assets/images/egypt_medalbook/149_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/52b8fb6e1acd5bb17140420a3215a3a0d1c8af69/store/fit/528/348/ccaaa1517d81c87a32fe93312e71656711cb8828a6c8069de340b11e72f4/comander+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 99734,
+      "sha256": "044a453b582372b18257af104688b72aa7fc347cf982955ff2200d54d6742523",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-150-01",
+      "record_id": "EGY-MB-150",
+      "view_key": "EGY-MB-150-V1",
+      "local_path": "assets/images/egypt_medalbook/150_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-kight-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/2ca45ac609a9734a5f1d5a576cd3c3c9d52c8b4e/store/fit/528/348/736715917c8bc0aefadeb9732dc5c023ba6caf9a71cd6ec5aaf9699d712e/mini+III+Class+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        129,
+        348
+      ],
+      "bytes": 35621,
+      "sha256": "5aa4d2b4628402161ada40ddb9bc4c5d63993696e4c61827b055723f0b5bdeb3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-150-04",
+      "record_id": "EGY-MB-150",
+      "view_key": "EGY-MB-150-V2",
+      "local_path": "assets/images/egypt_medalbook/150_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-sports/order-of-sports-kight-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/dd61f535f757606eb8def5f2c9eaa9fe7e328920/store/fit/528/348/33b8aa8a0725e32f2e71a5be89e8df89880f519cfd8f69a11ee561a1dc79/mini+III+Class+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        284,
+        348
+      ],
+      "bytes": 51989,
+      "sha256": "0027003b5d8acce2b414b8b2a3f6f460fe166bcc4db0e3536f8661ae92fb7700",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-152-05",
+      "record_id": "EGY-MB-152",
+      "view_key": "EGY-MB-152-V1",
+      "local_path": "assets/images/egypt_medalbook/152_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-military-star-of-king-fouad/order-of-the-military-star-of-king-fouad-i-1919-1953/order-of-the-military-star-of-king-fouad-i-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/d15a79d688b55f9fdc9f7f17cdca1c037580919f/store/fit/1000/750/4fb31305173594c6daa171831cce6947744781cb0fb86f8a590968849c15/obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 229771,
+      "sha256": "f31807160686bc492a9a7849f24d7505dea6ccc48ad272f771ccadfdb08bfa35",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-152-06",
+      "record_id": "EGY-MB-152",
+      "view_key": "EGY-MB-152-V2",
+      "local_path": "assets/images/egypt_medalbook/152_06.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-military-star-of-king-fouad/order-of-the-military-star-of-king-fouad-i-1919-1953/order-of-the-military-star-of-king-fouad-i-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/f55e68e81a9c642785e4278781641a0da2169420/store/fit/528/348/c06f5948078584e0dab40a1e5064776f66404a1c5468b8c46e6b04054042/IMG_032.jpg52fe60394c1962.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 159702,
+      "sha256": "ebbc32ee26f2f6fa888bdba0f65e90726087555ed9e19fbfdeb4da154d92174f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-153-03",
+      "record_id": "EGY-MB-153",
+      "view_key": "EGY-MB-153-V1",
+      "local_path": "assets/images/egypt_medalbook/153_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/51e7a3e44fc82bbdd9a38bd385899b5bfdde62dd/store/fit/1000/750/6010207150adda61a48e419588dff3092ff0120d5c5a569b89bd26a4da11/commander.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 374044,
+      "sha256": "834bb295b19f04b639e97a18553b4392c84da419a4fcb90c72ef5da87f3973cb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-153-05",
+      "record_id": "EGY-MB-153",
+      "view_key": "EGY-MB-153-V2",
+      "local_path": "assets/images/egypt_medalbook/153_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/bf3ea96dae9e2a985b4634f474c234ecc288d5da/store/fit/528/348/eac9118ea4b72413e329882b522bb57b9f3ecd28783e290797ce1aced49e/commander+4.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 83734,
+      "sha256": "b08632754141c162ac9b8305984cf139f73fa3868e6208701d115c3d3045886d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-154-04",
+      "record_id": "EGY-MB-154",
+      "view_key": "EGY-MB-154-V1",
+      "local_path": "assets/images/egypt_medalbook/154_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/947432cc2e821d4d8a8dae35c85d914b758ae80b/store/fit/1000/750/2e0fd78d274f6da0abf139b4219e095b8cfbad7df3d9d1984c18fe5f100a/grand+cordon+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 297400,
+      "sha256": "42c033e2c953b78ffda0f6c917a34e52452bcc04d8cb99ab6d01bb5c9379b4d3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-154-03",
+      "record_id": "EGY-MB-154",
+      "view_key": "EGY-MB-154-V2",
+      "local_path": "assets/images/egypt_medalbook/154_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/6f289c5783a7967b9747a226a45aab6deda8f640/store/fit/528/348/58c5cac61623ddfdbdfa710e0ae0a72778acc66a9c56c2e1b71f1b4c4348/grand+cordon+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 78620,
+      "sha256": "9f86b453c24d901e44f9966acb1b460aaafd3c7b4b43caa865d80bcc49ab62d2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-155-04",
+      "record_id": "EGY-MB-155",
+      "view_key": "EGY-MB-155-V1",
+      "local_path": "assets/images/egypt_medalbook/155_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/cbef4b4c13d69ca276f36e6dcede9ae7b0e3d446/store/fit/528/348/3c2c8d6a0deb24806e737b71d84b7565bc1a783ce17731652ab4cca3da87/Grnad+Cordon+breast+star+obv+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 111706,
+      "sha256": "b0dec353dcf654fe0a3763d90ee58fac4bd8b2cdd49675f06f6f61571148cc08",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-155-05",
+      "record_id": "EGY-MB-155",
+      "view_key": "EGY-MB-155-V2",
+      "local_path": "assets/images/egypt_medalbook/155_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/ee21e1176b2a2d874673e4397d61eeef7f3f7a57/store/fit/528/348/e5e46fe144afe440c84f43eb2cf4f3f8323a16afce7db108608ec0ae038c/grand+corodn+rbeast+star+rev+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 93887,
+      "sha256": "5d3f0b3d3e00d9fc25fc214d5e19dbb1a820cbec0d200b4d9bed19c578272a9c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-156-03",
+      "record_id": "EGY-MB-156",
+      "view_key": "EGY-MB-156-V1",
+      "local_path": "assets/images/egypt_medalbook/156_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/c6eccd2541c71e7d77f01b707abf7488e6a65144/store/fit/528/348/001693fa80f14fe164271dc49e3bb85fb4627b96f67668c3bfde7409ed36/c18-018752.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 68291,
+      "sha256": "102688ebc9be33780e695f70565ab5927b5ce9518c168ead876080b47f2dc58d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-156-01",
+      "record_id": "EGY-MB-156",
+      "view_key": "EGY-MB-156-V2",
+      "local_path": "assets/images/egypt_medalbook/156_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/208f546a987df6e885a90d39cc62ac0b6bdfbd7c/store/fit/528/348/606ed223a161ea427b9d3ac89719211f5d6c09b3b92b213f2bef7a381937/c18-018753.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 64184,
+      "sha256": "3869475cd2875793619d1990e894a74de1dbe642c7bf2edd96b225ce7d2f5331",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-157-05",
+      "record_id": "EGY-MB-157",
+      "view_key": "EGY-MB-157-V1",
+      "local_path": "assets/images/egypt_medalbook/157_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/f7ac386ec333b92835db4ffb10dd8cdfc261115d/store/fit/528/348/a2d1f5a82322e9fad2e47432442738e86304fb74221cfa4890375aa08631/officer+breast+star+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 108707,
+      "sha256": "1293ab7acb409a4cf9d5f69dab2635eb12343318951d156bef749c28e4d31465",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-157-02",
+      "record_id": "EGY-MB-157",
+      "view_key": "EGY-MB-157-V2",
+      "local_path": "assets/images/egypt_medalbook/157_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/2838cb40342f03304bac65da96f651bbdfc84ab5/store/fit/528/348/6c5eba968edb11ecd33354d3067eb3e02fb51b908eeb9dc013eb5e2c7905/officer+breast+star+rev+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 102602,
+      "sha256": "cd0ceaa162feca44c08cf2721128cc9ead43501e8e372de2b073eb1844b69692",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-158-02",
+      "record_id": "EGY-MB-158",
+      "view_key": "EGY-MB-158-V1",
+      "local_path": "assets/images/egypt_medalbook/158_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/7bb73dcf3b6a1a7de7c9d554a82abc1b1f81e6ce/store/fit/528/348/1dda6225ae25b623a3d49f48fc3d6bd9f83e2fdcb4d7c268507776fe17ab/obv+3.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 73583,
+      "sha256": "eb9bac4b20094ff16b8ad762276e67ed731e199fd111b80108f59473d84449f9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-158-05",
+      "record_id": "EGY-MB-158",
+      "view_key": "EGY-MB-158-V2",
+      "local_path": "assets/images/egypt_medalbook/158_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-i-1915-1926/order-of-the-nile-type-i-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/a1df6d647a2761b19c366480c75ef7d5a4919938/store/fit/528/348/47d09984dba4342b2940cb410b5873c4d919aace1c6a2d70917d08bd8dda/rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 72140,
+      "sha256": "0bb88a5d3972d5cb928976ecc9f3e46441b3668ddefa13ac869f23e3a692de71",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-162-02",
+      "record_id": "EGY-MB-162",
+      "view_key": "EGY-MB-162-V1",
+      "local_path": "assets/images/egypt_medalbook/162_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-commander-6",
+      "image_url": "https://www.medalbook.com/attachments/3b339e2e5f8f25b857eb0e96014ba344108fb0f0/store/fit/528/348/3d32e2e5a91690f2a73ff9a7515c9a3e424f371bde1ba0dd8de10bc995f6/Nile+Order+III+C+Badge+ME88.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        217,
+        348
+      ],
+      "bytes": 27369,
+      "sha256": "bc9996c877d2b84957dc00a691dc7d1f7ef004698289efc30080059a1488bce5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-163-03",
+      "record_id": "EGY-MB-163",
+      "view_key": "EGY-MB-163-V1",
+      "local_path": "assets/images/egypt_medalbook/163_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/8e145c683201f4d5a74d4ca4e88411674da11632/store/fit/528/348/79f63323d26b85512891cc08774647a5f52eb69db972c329b66419833091/m18-1607.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 73694,
+      "sha256": "7bbabe293f2ab311fbada14950eff0c558bc4f91957d53cd17f0378a194fd014",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-163-04",
+      "record_id": "EGY-MB-163",
+      "view_key": "EGY-MB-163-V2",
+      "local_path": "assets/images/egypt_medalbook/163_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/b27c437ddf39d885c7b244a64b9cfe963ad9702d/store/fit/528/348/e445d5262b1141de549161bda0d5956ec9b8c56672f6e97bdd45022e2da7/m18-1608.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 60427,
+      "sha256": "445105bb445b851b1147192c8b0ec75e48634554fdad0ac496125653d355547c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-164-05",
+      "record_id": "EGY-MB-164",
+      "view_key": "EGY-MB-164-V1",
+      "local_path": "assets/images/egypt_medalbook/164_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/700a5d35c0e7c900de26628c06dba0a46fd992b4/store/fit/528/348/baa567c08ac2b8778b28a6432e9287b69a09551aca9b0f317d42f9a05774/m18-1613.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 103847,
+      "sha256": "b50ecac63eb31ea8c42e2ba5af881083114fd82cf3511fec75a9bcc883606717",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-164-02",
+      "record_id": "EGY-MB-164",
+      "view_key": "EGY-MB-164-V2",
+      "local_path": "assets/images/egypt_medalbook/164_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/1dbd4ab26dc887a14fa2cbd6ac888055a0c4cc80/store/fit/528/348/fe9e5879045ac21189b248e6b91cd4ae1c21113014e22c2599d24e495db4/m18-1614.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 94753,
+      "sha256": "3168a1d82b4223fbe750127333be1098d1ed6351b329262c6d0bf7770446a5cf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-165-03",
+      "record_id": "EGY-MB-165",
+      "view_key": "EGY-MB-165-V1",
+      "local_path": "assets/images/egypt_medalbook/165_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/920a1d0bf801978925740ae1cbcf4f5dbf3d139c/store/fit/528/348/b14c0479c81bb9b69785ddfb0dc3294e0791146b96851122446a36e7cbaf/Nile+Order+II+C+Badge.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        263,
+        348
+      ],
+      "bytes": 31938,
+      "sha256": "e89fc7b6c474233bb78812420a9ef1cd248e8f22778d66a4620324d163901d90",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-166-01",
+      "record_id": "EGY-MB-166",
+      "view_key": "EGY-MB-166-V1",
+      "local_path": "assets/images/egypt_medalbook/166_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/0c9790aee362c80ff867e53220781b60981befbd/store/fit/528/348/fb834ea4cc931ef5e0258c6d697e3eaa9acc7e280797176b3e38822fb931/Nile+Order+II+C+BS+ME.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        358,
+        348
+      ],
+      "bytes": 40906,
+      "sha256": "c8fd27b18390b31c09449c8cfce3778b798a7cbb135d43e6e2676ea0d46587a3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-168-04",
+      "record_id": "EGY-MB-168",
+      "view_key": "EGY-MB-168-V1",
+      "local_path": "assets/images/egypt_medalbook/168_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-officer-7",
+      "image_url": "https://www.medalbook.com/attachments/72dc0477cde1543efef3a428a50baa6f3c2624d2/store/fit/528/348/d6eca56bdc41d9f6ec776248f734d2b4264242705113167c60ac2b830cb6/m17-3668.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 92002,
+      "sha256": "037e5511fdea598bfa4bb90bf3e43034e11fefcc99d8e8eac6b4d086cc84026f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-168-03",
+      "record_id": "EGY-MB-168",
+      "view_key": "EGY-MB-168-V2",
+      "local_path": "assets/images/egypt_medalbook/168_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-nile/type-ii-1926/order-of-the-nile-type-ii-officer-7",
+      "image_url": "https://www.medalbook.com/attachments/4b568f6a550d14fe206d0eadfc7c4c670148f0b9/store/fit/528/348/9d4a93a313210e42e9477dc6fbb68eace9afaeb4f251de68cb7854e31b6e/m17-3669.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 86847,
+      "sha256": "76065ae611d890782b9d778755e5383453a4f06ac43d63a4fe426c7dc8fc1498",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-170-03",
+      "record_id": "EGY-MB-170",
+      "view_key": "EGY-MB-170-V1",
+      "local_path": "assets/images/egypt_medalbook/170_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/aea3e658b5ef84c5783e575a98b3f3ae42210b06/store/fit/528/348/bb279eaad0ae252a6a4d39f5152422b3b227d682ef135bd62d967d0e6317/Republic+I+GO.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 89358,
+      "sha256": "27fd8efc81cd83a887f3739138dfe44763e57fcd23e0541479834c44d61e8b21",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-170-02",
+      "record_id": "EGY-MB-170",
+      "view_key": "EGY-MB-170-V2",
+      "local_path": "assets/images/egypt_medalbook/170_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/a4e9131a9ae3101f030ee6b85b7886cdd45d46c2/store/fit/528/348/ea3ca87e1cb9591dc67602f0afa4990f8b2a794d53ea3a53d64df5241fe3/Republic+I+GO+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 40387,
+      "sha256": "7c925b8f84be5886c060ff9159d5a1bf8993917fe79e25be1620cbc297ea12b0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-171-01",
+      "record_id": "EGY-MB-171",
+      "view_key": "EGY-MB-171-V1",
+      "local_path": "assets/images/egypt_medalbook/171_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/6f4b5934a3dadf397cc9af3a8190cc0c5afd13a0/store/fit/528/348/f47a8edba4826367145885c9e10db56b27a143115bf94eb01ac42110391d/Grand+Cordon+1953+Obv+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 88775,
+      "sha256": "73524bb32c3d5553b743b81a990caed4b7ef79135f732a14b7c2a68178fdb7f9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-171-03",
+      "record_id": "EGY-MB-171",
+      "view_key": "EGY-MB-171-V2",
+      "local_path": "assets/images/egypt_medalbook/171_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/9588f68d7705e3c11db5d8c9db4857dcc6f45b26/store/fit/528/348/f1623474a3ac538020f4355f9af8fa625dca5a753f9324b05f71f1a1c1d2/Grand+Cordon+1953++rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 84292,
+      "sha256": "ebc31bce56ba6e9cabcbb64129e9014c571d8caa552da09c00fbfbb9812381e0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-172-03",
+      "record_id": "EGY-MB-172",
+      "view_key": "EGY-MB-172-V1",
+      "local_path": "assets/images/egypt_medalbook/172_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/83c11428191152f624b5ee48f280b54011dc95b2/store/fit/1000/750/4cc40c3ab49bbdc02afe465de9e122beee79063c0ac8a6350f1b76192709/Grand+Cordon+1953+bs+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 375076,
+      "sha256": "1da36b952193b6e491642d1fda4e946cb87db920c783f6b92789144ccc2e0f47",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-172-04",
+      "record_id": "EGY-MB-172",
+      "view_key": "EGY-MB-172-V2",
+      "local_path": "assets/images/egypt_medalbook/172_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/af0fbe04284c1f70fec50f629ac4fa47be7be80e/store/fit/528/348/b6635e22e6cac911c63902dfa0acac0ea40139e54f1e63d8cb7dabd18306/Grand+Cordon+1953+bs+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 102010,
+      "sha256": "54ab5c216ac5cf077b905781f2cf494df655e0979d46b8504d84a9393e4defbf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-174-02",
+      "record_id": "EGY-MB-174",
+      "view_key": "EGY-MB-174-V1",
+      "local_path": "assets/images/egypt_medalbook/174_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/650b5eafb879047f624eed579a0c27aa50a76f45/store/fit/528/348/3aca3299bf2e7538080cf4f32029bee4533751d1dc462a4b4797bf2e4fcb/Republic+GOBS.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 68214,
+      "sha256": "d162b0ab4f770a5b15db10f6f3e7be425e25aabe15bda0bbe1a569e10d55d056",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-174-01",
+      "record_id": "EGY-MB-174",
+      "view_key": "EGY-MB-174-V2",
+      "local_path": "assets/images/egypt_medalbook/174_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/03289eac409fd689512dda6e9d477429f1b0ccc6/store/fit/528/348/bc060fed08c7ff561ffa894a36cbe7a0ed9fc0d49f83c4ef57e21f6b8e3c/Republic+GOBS+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 61179,
+      "sha256": "2e2e5efd9d6a229acd75b08740bfb84edbbfd5af15d83f6e6b958f600aa85a88",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-175-03",
+      "record_id": "EGY-MB-175",
+      "view_key": "EGY-MB-175-V1",
+      "local_path": "assets/images/egypt_medalbook/175_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/d9bf77d0f8511a3faf0640ae6a106d46a643d407/store/fit/1000/750/519fe940779bcc50933a8df328250e82e76cbcca4a4645f6454352840fb0/knight+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 250262,
+      "sha256": "549861feb26546c28056c1332a1159c77c2d8883a5ba29123f4de755ec70e771",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-175-05",
+      "record_id": "EGY-MB-175",
+      "view_key": "EGY-MB-175-V2",
+      "local_path": "assets/images/egypt_medalbook/175_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-knight-7",
+      "image_url": "https://www.medalbook.com/attachments/f3b517e0645953598b53450fedc3c427ab237e2c/store/fit/528/348/241323011c30e8f6ce167dedede38d25ee5ee980b7117729123b0001d709/knight+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 87826,
+      "sha256": "78640a293fa2bffe15a67f173b53b2f263b99f5aaaa6d9d4109a5e5b90581dc3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-176-03",
+      "record_id": "EGY-MB-176",
+      "view_key": "EGY-MB-176-V1",
+      "local_path": "assets/images/egypt_medalbook/176_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-officer-6",
+      "image_url": "https://www.medalbook.com/attachments/fa80aea8fff2c52c6f030b8c9a866c0389e469ee/store/fit/528/348/9b020fa11f4267b4ffe93611c3e1cc80b464ccf921e9e4c9c3165a219ca2/Order+of+the+Republic%2C+Officer+%28with+Lily+Suspension%29%2C+Hermann+Historica%2C.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 18091,
+      "sha256": "aee3db30149bb0199c0257691c7c4d696b6f01e1b8485113fc08e58bb78b1ce0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-176-02",
+      "record_id": "EGY-MB-176",
+      "view_key": "EGY-MB-176-V2",
+      "local_path": "assets/images/egypt_medalbook/176_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-i-(1953-1972)/order-of-the-republic-type-i-officer-6",
+      "image_url": "https://www.medalbook.com/attachments/b3203e1bb53d6e5dff1f190797e955088c3563b9/store/fit/528/348/c11856f904210b29949192a7cc659eed958c599854832efe7df566c3c945/Order+of+the+Republic%2C+Officer+%28with+Lily+Suspension%29%2C+Hermann+Historica%2C+Rev..jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 15208,
+      "sha256": "ba8af774895b6638c4de1b7ec9b596fd367c61d7fdf562718080cde1992c7f54",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-178-03",
+      "record_id": "EGY-MB-178",
+      "view_key": "EGY-MB-178-V1",
+      "local_path": "assets/images/egypt_medalbook/178_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/7843e4eb1eba95d8297ba5374d2cf85059630b16/store/fit/528/348/c36d5762d78bfdaba6363074948088238d9bb667de7bf222876b6436f64f/Republic+II+Com+Ob.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 61698,
+      "sha256": "010ac0f340f2424a10aca0a45615f4035c1310b213055b77c8aa156d333b827f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-178-04",
+      "record_id": "EGY-MB-178",
+      "view_key": "EGY-MB-178-V2",
+      "local_path": "assets/images/egypt_medalbook/178_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/8a7ec6b2c062b857c2fd5ab48ca5deddd170c362/store/fit/528/348/ab68565d6f0d130ba8026ccf1ef80f70bdc2dfa0c7ddbe229babd8cdc77d/Republic+II+Com+Rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 48860,
+      "sha256": "2870221fde26668aae326935f2dc1a7a54db308d06f43ce0b383fef40cd32c01",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-179-04",
+      "record_id": "EGY-MB-179",
+      "view_key": "EGY-MB-179-V1",
+      "local_path": "assets/images/egypt_medalbook/179_04.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/c377f1755794cf8312925dd7a6fee4f840024ed1/store/fit/528/348/203040b6117abaf54d5121a31246c5356beea4c3de45c1264f84657a06a2/n_889.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 119700,
+      "sha256": "b96bf2ea282099ce39e7a273b1addc4cbb51663812e49eddf536e734c8b4e280",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-179-05",
+      "record_id": "EGY-MB-179",
+      "view_key": "EGY-MB-179-V2",
+      "local_path": "assets/images/egypt_medalbook/179_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-cordon-1",
+      "image_url": "https://www.medalbook.com/attachments/cd51a943bf32d49c167cf4f42e05e9792b95006b/store/fit/528/348/0da56c6596e1a026888a16f5f5ca5cf6b4dc738e338791ef7d85bbc183cf/n_891.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 80598,
+      "sha256": "89069e0abfecf4dc2f886250fa49e2668a3f139efb8883c522955fdac9364a77",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-180-03",
+      "record_id": "EGY-MB-180",
+      "view_key": "EGY-MB-180-V1",
+      "local_path": "assets/images/egypt_medalbook/180_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/500fbe8ba870a6bc392eb50327b8d44ded7810ba/store/fit/528/348/477435bffa04488b9b386305773a1af32174c93f20b3a5ed7af0777d0a8a/grand+cross+breast+star+obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 129127,
+      "sha256": "5606e226eef1bb68dd11658742816b9109c490e7667e7b3d8119344291d576f8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-180-06",
+      "record_id": "EGY-MB-180",
+      "view_key": "EGY-MB-180-V2",
+      "local_path": "assets/images/egypt_medalbook/180_06.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/c229e804124451046b364eb9b7ece90bd071006d/store/fit/528/348/5ddba9ac2dc97941e21451638c90effa464949534d3b392bcad490336bc4/grand+cross+breast+star+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 105517,
+      "sha256": "f6aa3339940c182591a8178bd67760811365c58175e064f9e2538d897d27f4e8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-181-02",
+      "record_id": "EGY-MB-181",
+      "view_key": "EGY-MB-181-V1",
+      "local_path": "assets/images/egypt_medalbook/181_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/5e21c5a01b1010eb5900189c91748de930b9171e/store/fit/1000/750/e6ddc36f8ed1d4f49e603d51cd261302c023d8dafb7248d69366f1b9753d/IMG_02.jpg546b89f4b75e6.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 566998,
+      "sha256": "68a78892ea2c3e6a640a9d57be796697a3432c96ef7d733be1d4db3d19e99a63",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-181-01",
+      "record_id": "EGY-MB-181",
+      "view_key": "EGY-MB-181-V2",
+      "local_path": "assets/images/egypt_medalbook/181_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-officer-3",
+      "image_url": "https://www.medalbook.com/attachments/4a325dc4cbd75a8a2aae7e7c3075b63fc77d5920/store/fit/528/348/98512cae40b7c0563cfcbcc0f52c75ea81d3ee1860738111ecb6d77fbec8/IMG_03.jpg546b8a2092b82.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 138448,
+      "sha256": "1289827b3e02acbe559eb5b04d31543c3b188de437912f59f6d799daa0d78ae2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-182-03",
+      "record_id": "EGY-MB-182",
+      "view_key": "EGY-MB-182-V1",
+      "local_path": "assets/images/egypt_medalbook/182_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/ef162f7002f7a1cbc0ea77b7c07fa66cdf5c16bc/store/fit/528/348/e7e51c65002bd18bce3145bb60284d3e9619acd2a5d8d31f4e7cea722117/IMG_061.jpg546b8a3b24f691.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 188386,
+      "sha256": "39522ebf3d4c8eb22a08f016311dc3f99b19f5043295c2c228cebf8f86f46788",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-182-02",
+      "record_id": "EGY-MB-182",
+      "view_key": "EGY-MB-182-V2",
+      "local_path": "assets/images/egypt_medalbook/182_02.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-republic/type-ii-(1972-)/order-of-the-republic-type-ii-grand-officer-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/40a4cfff501b5247c5d54d69adfee00fe51afefe/store/fit/528/348/658519e9c3ab849e4d25201fcf5eba84848bd89ad5bd62d84bb315f09f0e/IMG_08.jpg546b8a4d8e531.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 149561,
+      "sha256": "dd91e7c162bf6aeff00c312aff0f4bf37c83e828994b49021c064bace823ba21",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-185-07",
+      "record_id": "EGY-MB-185",
+      "view_key": "EGY-MB-185-V1",
+      "local_path": "assets/images/egypt_medalbook/185_07.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-sinai-star/order-of-the-sinai-star-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/e6f74b873aa922acc80122ef1729aacefba3ac59/store/fit/528/348/0ee536186f3106b672761b0ddd01e07885a370fdb5f01651a79e595f1174/EG112a.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        351,
+        348
+      ],
+      "bytes": 11552,
+      "sha256": "152e5ca02e573ae4df7de25177452725a62ce91b1a044bc9ddb5a05dc56b1c6b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-185-08",
+      "record_id": "EGY-MB-185",
+      "view_key": "EGY-MB-185-V2",
+      "local_path": "assets/images/egypt_medalbook/185_08.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-sinai-star/order-of-the-sinai-star-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/e8fe1fc1c4f6bec9ecad7b34ccd942eb63fee1d7/store/fit/528/348/3ace21f1095e8918d3099ee2606dd1a776934ec6784886fe510acbb86b28/EG112e.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 8937,
+      "sha256": "868bd29a50d0c7878ceff6161b8a9b0e5a260065275dc869fbe4faf6067ef224",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-186-01",
+      "record_id": "EGY-MB-186",
+      "view_key": "EGY-MB-186-V1",
+      "local_path": "assets/images/egypt_medalbook/186_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-the-sinai-star/order-of-the-sinai-star-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/7b89cb44f0e794952e8db4f189c9db677e371a64/store/fit/528/348/bde2e2438de857566c1c9bec874b3f881770476d8c0560fcb06af5538e66/Egypt+Sinai+Star+II.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 23600,
+      "sha256": "beb8e6d51a97cbe662d707180156fedc14a6a2a949de80cdff6e653f767ac034",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-188-03",
+      "record_id": "EGY-MB-188",
+      "view_key": "EGY-MB-188-V1",
+      "local_path": "assets/images/egypt_medalbook/188_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-trade-and-industry/type-i-(monarchy-1932-1954)/order-of-trade-and-industry-type-i-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/6262dc62eeefa4766430f1c0099e9c1d0a28b798/store/fit/1000/750/c912809b15138ab3ea69b7b305b1968053804fb4f39839238aef4d8ff10b/obv.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 394853,
+      "sha256": "7ea05c34f6d2d52f2cc1cfe8f0937a6ae8e9380956ec15f6678854478b18abcf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-188-07",
+      "record_id": "EGY-MB-188",
+      "view_key": "EGY-MB-188-V2",
+      "local_path": "assets/images/egypt_medalbook/188_07.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-trade-and-industry/type-i-(monarchy-1932-1954)/order-of-trade-and-industry-type-i-commander-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/f298fd1c415c71eb527c847b920bc2399ba9246e/store/fit/528/348/b01bc9089b8381e0444ee55fc09c2d8eb45626b5820d422e71694e6868e9/rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 84435,
+      "sha256": "c43b6e30a2029ec32630d9bfe757e1baa1a96b0ba748776baf1eaf3a5b362569",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-193-05",
+      "record_id": "EGY-MB-193",
+      "view_key": "EGY-MB-193-V1",
+      "local_path": "assets/images/egypt_medalbook/193_05.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-trade-and-industry/type-ii-(republic-1954-)/order-of-trade-and-industry-type-ii-officer-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/7c43e61eb4cd0f03fdb02a3a0a24ae19436a4f44/store/fit/528/348/92fdadda0fb4c1a5ef38717b0af4d79b4148da9e9fff1acbeb420f6464ed/officer+obv+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 27699,
+      "sha256": "57021125324c17c3a710cbb93eb46b276d5c55e18de10ea25977ebf12a5807d2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-193-06",
+      "record_id": "EGY-MB-193",
+      "view_key": "EGY-MB-193-V2",
+      "local_path": "assets/images/egypt_medalbook/193_06.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/order-of-trade-and-industry/type-ii-(republic-1954-)/order-of-trade-and-industry-type-ii-officer-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/a255b63c372f16de1d07ee72d34c13c69f68e98c/store/fit/528/348/2e070a7c7d4194c9903ac7d0214512c014a01d9f36b5d335497b1fa48c53/officer+rev.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        349,
+        348
+      ],
+      "bytes": 13854,
+      "sha256": "1ab770b126f748d9957805344a06748e5753f4c3ea9da97a1af03f57f090f56a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-194-01",
+      "record_id": "EGY-MB-194",
+      "view_key": "EGY-MB-194-V1",
+      "local_path": "assets/images/egypt_medalbook/194_01.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/union-order/union-order-of-the-united-arab-republic-1",
+      "image_url": "https://www.medalbook.com/attachments/06437996e61b69609464c674fa6d8b676764bb50/store/fit/528/348/406bacdc46eacaf3fdd289a255c51e8c3518a800b0b9157f3091eb385529/Union+Order+of+the+United+Arab+Republic+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24665,
+      "sha256": "ed0562198a3404e32fa9c47199ded28b8ee2dbceb6022e15c86665a8b5fa1a78",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-medalbook-194-03",
+      "record_id": "EGY-MB-194",
+      "view_key": "EGY-MB-194-V2",
+      "local_path": "assets/images/egypt_medalbook/194_03.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/egypt/orders/union-order/union-order-of-the-united-arab-republic-1",
+      "image_url": "https://www.medalbook.com/attachments/9b76bf47c1be5cd83787ac095bc9427b3db76575/store/fit/528/348/3710b092bcca4e7fe42e63e498fa98e0e9a2d4633b1274a7da8575def450/Union+Order+of+the+United+Arab+Republic+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 19346,
+      "sha256": "29a6b987f3a2e78531ee8f4d4bcc9a61cfe85bc6cc7d8530923501ee1de9e798",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

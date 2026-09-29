@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Republic of Korea — MedalBook complete source sweep",
+  "status": "source_complete_differential_merged",
+  "source_coverage": {"object_pages_planned":122,"object_pages_completed":122,"pictured_pages":22,"image_urls_planned":100,"downloaded_images":99,"failed_images":1},
+  "known_failure": {"title":"National Merited Persons Medal","reason":"Source attachment returns HTTP 404","action":"Keep as unpictured unless another source supplies a complete image"},
+  "existing_official_baseline": {"independent_award_units":24,"variant_rows":69,"official_diagrams":69},
+  "formal_merge": {"south_korea_new_rows":6,"south_korea_new_families":5,"korean_empire_new_rows":13,"net_new_families_total":8,"local_complete_views":33,"association_items_excluded":1},
+  "site_after_merge": {"main_rows":1541,"main_families":780,"country_or_period_sections":57,"decoded_local_files":2283,"unique_gallery_image_paths":2208,"reused_image_payloads":0,"ribbon_only_rows":0,"validation":"site, regression and browser interaction checks passed"},
+  "next_action": "Sweep ODM/Commons North Korea gaps, then advance through China historical periods and Vietnam while retaining the remaining Korean Empire and Republic of Korea unpictured candidates."
+}

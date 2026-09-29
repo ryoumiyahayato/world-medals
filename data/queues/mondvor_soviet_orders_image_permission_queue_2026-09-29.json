@@ -1,0 +1,888 @@
+{
+  "as_of": "2026-09-29",
+  "scope_id": "soviet_orders_mondvor",
+  "status": "permission_pending",
+  "source_image_reference_count": 176,
+  "selected_variant_rows": [
+    {
+      "variant_id": "RSFSR-ORD-01-V-MV-V2",
+      "family": "RSFSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/ORBan.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanRS13829.jpg",
+        "https://mondvor.narod.ru/ORBanRS13829R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T3-V2",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin10097.jpg",
+        "https://mondvor.narod.ru/OLenin10097R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-02-V-MV-V1",
+      "family": "USSR-ORD-02",
+      "source_page_url": "https://mondvor.narod.ru/OOctRev.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OOctRev26567.jpg",
+        "https://mondvor.narod.ru/OOctRev26567R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T1",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan8.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanD143.jpg",
+        "https://mondvor.narod.ru/ORBanD143R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T2-G3",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvorC00010.jpg",
+        "https://mondvor.narod.ru/OSuvorC00010R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-06-V-MV-T1-G3",
+      "family": "USSR-ORD-06",
+      "source_page_url": "https://mondvor.narod.ru/OKut3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OKutC494.jpg",
+        "https://mondvor.narod.ru/OKutC494R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V1-G2",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelB0080.jpg",
+        "https://mondvor.narod.ru/OHmelB0080R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T3",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONevsk11998.jpg",
+        "https://mondvor.narod.ru/ONevsk11998R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-09-V-MV-V2-G2",
+      "family": "USSR-ORD-09",
+      "source_page_url": "https://mondvor.narod.ru/OUshak.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OUshak32.jpg",
+        "https://mondvor.narod.ru/OUshak32R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-10-V-MV-R2-G2",
+      "family": "USSR-ORD-10",
+      "source_page_url": "https://mondvor.narod.ru/ONahim.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONahimB245.jpg",
+        "https://mondvor.narod.ru/ONahimB245R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T2",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar12460.jpg",
+        "https://mondvor.narod.ru/ORstar12460R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T2-G1",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OPatWarDA289.jpg",
+        "https://mondvor.narod.ru/OPatWarDA289R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T4",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab188776.jpg",
+        "https://mondvor.narod.ru/ORbnLab188776R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T3",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch35564.jpg",
+        "https://mondvor.narod.ru/OZnPoch35564R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V2-G3",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaC117307.jpg",
+        "https://mondvor.narod.ru/OSlavaC117307R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-G3",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl3.htm",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/OMatSlKolC3.jpg",
+        "http://www.mondvor.narod.ru/OMatSlKolC3R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-19-V-MV-G1",
+      "family": "USSR-ORD-19",
+      "source_page_url": "https://mondvor.narod.ru/OTrSlav.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OTrSlA0168.jpg",
+        "https://mondvor.narod.ru/OTrSlA0168R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-20-V-MV-G2",
+      "family": "USSR-ORD-20",
+      "source_page_url": "https://mondvor.narod.ru/OZaSlRod.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZaSlRod0871.jpg",
+        "https://mondvor.narod.ru/OZaSlRod0871R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-21-V-MV-V1",
+      "family": "USSR-ORD-21",
+      "source_page_url": "https://mondvor.narod.ru/OLMuzh.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLMuzh000001.jpg",
+        "https://mondvor.narod.ru/OLMuzh000001R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "RSFSR-ORD-01-V-MV-V1",
+      "family": "RSFSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/ORBan.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanRS13260.jpg",
+        "https://mondvor.narod.ru/ORBanRS13260R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T1-R1",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin170.jpg",
+        "https://mondvor.narod.ru/OLenin170R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-02-V-MV-V2",
+      "family": "USSR-ORD-02",
+      "source_page_url": "https://mondvor.narod.ru/OOctRev.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OOctRev65322.jpg",
+        "https://mondvor.narod.ru/OOctRev65322R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T2",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBan41385.jpg",
+        "https://mondvor.narod.ru/ORBan41385R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T3-G3",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvorC08757.jpg",
+        "https://mondvor.narod.ru/OSuvorC08757R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-06-V-MV-T2-V1-R1-G3",
+      "family": "USSR-ORD-06",
+      "source_page_url": "https://mondvor.narod.ru/OKut3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OKutC0785.jpg",
+        "https://mondvor.narod.ru/OKutC0785R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V3-G2",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelB0827.jpg",
+        "https://mondvor.narod.ru/OHmelB0827R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T2",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk2.htm",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/ONevsk6239.jpg",
+        "http://www.mondvor.narod.ru/ONevsk6239R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-09-V-MV-V1-G2",
+      "family": "USSR-ORD-09",
+      "source_page_url": "https://mondvor.narod.ru/OUshak.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OUshak6.jpg",
+        "https://mondvor.narod.ru/OUshak6R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-10-V-MV-R1-G2",
+      "family": "USSR-ORD-10",
+      "source_page_url": "https://mondvor.narod.ru/ONahim.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONahimB73.jpg",
+        "https://mondvor.narod.ru/ONahimB73R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T4",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar6.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar25461.jpg",
+        "https://mondvor.narod.ru/ORstar25461R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T1-V3-G1",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar.html",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/OPatWar15592.jpg",
+        "http://www.mondvor.narod.ru/OPatWar15592R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T1-V2",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab1138.jpg",
+        "https://mondvor.narod.ru/ORbnLab1138R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T3-V4",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch100464.jpg",
+        "https://mondvor.narod.ru/OZnPoch100464R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V1-G3",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaC138.jpg",
+        "https://mondvor.narod.ru/OSlavaC138R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-V4-G2",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OMatSlB1048836.jpg",
+        "https://mondvor.narod.ru/OMatSlB1048836R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-19-V-MV-V1-G3",
+      "family": "USSR-ORD-19",
+      "source_page_url": "https://mondvor.narod.ru/OTrSlav2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OTrSlC053143.jpg",
+        "https://mondvor.narod.ru/OTrSlC053143R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-20-V-MV-G3",
+      "family": "USSR-ORD-20",
+      "source_page_url": "https://mondvor.narod.ru/OZaSlRod.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZaSlRod26724.jpg",
+        "https://mondvor.narod.ru/OZaSlRod26724R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-21-V-MV-V2",
+      "family": "USSR-ORD-21",
+      "source_page_url": "https://mondvor.narod.ru/OLMuzh.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLMuzh2070.jpg",
+        "https://mondvor.narod.ru/OLMuzh2070R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T1-R2",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin516.jpg",
+        "https://mondvor.narod.ru/OLenin516R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T3-V2",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan7.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanC11333.jpg",
+        "https://mondvor.narod.ru/ORBanC11333R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T1-G2",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvorB0116.jpg",
+        "https://mondvor.narod.ru/OSuvorB0116R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-06-V-MV-T2-V1-R2-G3",
+      "family": "USSR-ORD-06",
+      "source_page_url": "https://mondvor.narod.ru/OKut3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OKutC1421.jpg",
+        "https://mondvor.narod.ru/OKutC1421R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V1-G3",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelC1249.jpg",
+        "https://mondvor.narod.ru/OHmelC1249R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T1-V1",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONevsk125.jpg",
+        "https://mondvor.narod.ru/ONevsk125R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T2-V2",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar6145.jpg",
+        "https://mondvor.narod.ru/ORstar6145R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T1-V3-G2",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OPatWar16655.jpg",
+        "https://mondvor.narod.ru/OPatWar16655R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T3-V7",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab124188.jpg",
+        "https://mondvor.narod.ru/ORbnLab124188R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T3-V6",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch124943.jpg",
+        "https://mondvor.narod.ru/OZnPoch124943R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V3-G3",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaC153776.jpg",
+        "https://mondvor.narod.ru/OSlavaC153776R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-V3-G1",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OMatSlA179914.jpg",
+        "https://mondvor.narod.ru/OMatSlA179914R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-19-V-MV-R1-G2",
+      "family": "USSR-ORD-19",
+      "source_page_url": "https://mondvor.narod.ru/OTrSlav.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OTrSlB22377.jpg",
+        "https://mondvor.narod.ru/OTrSlB22377R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T3-V1",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin7222.jpg",
+        "https://mondvor.narod.ru/OLenin7222R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T2-V1",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan7.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanC1352.jpg",
+        "https://mondvor.narod.ru/ORBanC1352R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T2-G2",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvor1225.jpg",
+        "https://mondvor.narod.ru/OSuvor1225R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-06-V-MV-T2-V2-R2-G3",
+      "family": "USSR-ORD-06",
+      "source_page_url": "https://mondvor.narod.ru/OKut3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OKutC6710.jpg",
+        "https://mondvor.narod.ru/OKutC6710R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V2-G3",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelC4934.jpg",
+        "https://mondvor.narod.ru/OHmelC4934R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T3-V1",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk2.htm",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/ONevsk16805.jpg",
+        "http://www.mondvor.narod.ru/ONevsk16805R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T2-V1-R1",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar1261.jpg",
+        "https://mondvor.narod.ru/ORstar1261R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T1-V1-G2",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OPatWar3851.jpg",
+        "https://mondvor.narod.ru/OPatWar3851R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T3-V1",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab21117.jpg",
+        "https://mondvor.narod.ru/ORbnLab21117R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T4-V3",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch4.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch1401635.jpg",
+        "https://mondvor.narod.ru/OZnPoch1401635R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V1-G2",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaB172.jpg",
+        "https://mondvor.narod.ru/OSlavaB172R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-V3-G3",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OMatSlC2091535.jpg",
+        "https://mondvor.narod.ru/OMatSlC2091535R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-19-V-MV-R2-G2",
+      "family": "USSR-ORD-19",
+      "source_page_url": "https://mondvor.narod.ru/OTrSlav.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OTrSlB40663.jpg",
+        "https://mondvor.narod.ru/OTrSlB40663R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T2-R1",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin802.jpg",
+        "https://mondvor.narod.ru/OLenin802R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T2-V3",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan8.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanD1376.jpg",
+        "https://mondvor.narod.ru/ORBanD1376R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T1-V1-G3",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvorC00774.jpg",
+        "https://mondvor.narod.ru/OSuvorC00774R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-06-V-MV-T2-V2-R1-G3",
+      "family": "USSR-ORD-06",
+      "source_page_url": "https://mondvor.narod.ru/OKut3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OKutC6733.jpg",
+        "https://mondvor.narod.ru/OKutC6733R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V2-R1-G2",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelB0472.jpg",
+        "https://mondvor.narod.ru/OHmelB0472R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T3-V2",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONevsk31015.jpg",
+        "https://mondvor.narod.ru/ONevsk31015R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T2-V3-R4",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar53764.jpg",
+        "https://mondvor.narod.ru/ORstar53764R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T1-V2-G1",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar.html",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/OPatWar4011.jpg",
+        "http://www.mondvor.narod.ru/OPatWar4011R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T3-V2",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab23070.jpg",
+        "https://mondvor.narod.ru/ORbnLab23070R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T4-V1",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch4.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch178252.jpg",
+        "https://mondvor.narod.ru/OZnPoch178252R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V3-G2",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaB24687.jpg",
+        "https://mondvor.narod.ru/OSlavaB24687R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-V1-G1",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl.html",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/OMatSlA2327.jpg",
+        "http://www.mondvor.narod.ru/OMatSlA2327R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-19-V-MV-V2-G3",
+      "family": "USSR-ORD-19",
+      "source_page_url": "https://mondvor.narod.ru/OTrSlav2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OTrSlC437990.jpg",
+        "https://mondvor.narod.ru/OTrSlC437990R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-01-V-MV-T2-R2",
+      "family": "USSR-ORD-01",
+      "source_page_url": "https://mondvor.narod.ru/OLenin.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OLenin955.jpg",
+        "https://mondvor.narod.ru/OLenin955R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-04-V-MV-T3-V3",
+      "family": "USSR-ORD-04",
+      "source_page_url": "https://mondvor.narod.ru/ORBan6.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORBanB14047.jpg",
+        "https://mondvor.narod.ru/ORBanB14047R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-05-V-MV-T2-V2-G1",
+      "family": "USSR-ORD-05",
+      "source_page_url": "https://mondvor.narod.ru/OSuvor.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSuvorA313.jpg",
+        "https://mondvor.narod.ru/OSuvorA313R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-07-V-MV-V2-R2-G2",
+      "family": "USSR-ORD-07",
+      "source_page_url": "https://mondvor.narod.ru/OHmel2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OHmelB1623.jpg",
+        "https://mondvor.narod.ru/OHmelB1623R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-08-V-MV-T1-V3",
+      "family": "USSR-ORD-08",
+      "source_page_url": "https://mondvor.narod.ru/ONevsk.html",
+      "image_urls": [
+        "https://mondvor.narod.ru/ONevsk5093.jpg",
+        "https://mondvor.narod.ru/ONevsk5093R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-11-V-MV-T2-V3-R1",
+      "family": "USSR-ORD-11",
+      "source_page_url": "https://mondvor.narod.ru/ORStar3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORstar15393.jpg",
+        "https://mondvor.narod.ru/ORstar15393R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-12-V-MV-T1-V1-G1",
+      "family": "USSR-ORD-12",
+      "source_page_url": "https://mondvor.narod.ru/OPatWar.html",
+      "image_urls": [
+        "http://www.mondvor.narod.ru/OPatWar50.jpg",
+        "http://www.mondvor.narod.ru/OPatWar50R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-13-V-MV-T3-V3",
+      "family": "USSR-ORD-13",
+      "source_page_url": "https://mondvor.narod.ru/ORbnLab2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/ORbnLab27632.jpg",
+        "https://mondvor.narod.ru/ORbnLab27632R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-15-V-MV-T3-V3",
+      "family": "USSR-ORD-15",
+      "source_page_url": "https://mondvor.narod.ru/OZnPoch3.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OZnPoch65279.jpg",
+        "https://mondvor.narod.ru/OZnPoch65279R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-16-V-MV-V4-G2",
+      "family": "USSR-ORD-16",
+      "source_page_url": "https://mondvor.narod.ru/OSlava2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OSlavaB31718.jpg",
+        "https://mondvor.narod.ru/OSlavaB31718R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    },
+    {
+      "variant_id": "USSR-ORD-17-V-MV-V4-G3",
+      "family": "USSR-ORD-17",
+      "source_page_url": "https://mondvor.narod.ru/OMatSl2.htm",
+      "image_urls": [
+        "https://mondvor.narod.ru/OMatSlC3083115.jpg",
+        "https://mondvor.narod.ru/OMatSlC3083115R.jpg"
+      ],
+      "status": "do_not_download_until_permission_confirmed"
+    }
+  ]
+}

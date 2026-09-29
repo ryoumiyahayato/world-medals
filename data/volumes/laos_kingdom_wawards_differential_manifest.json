@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "laos-wawards-laos_kingdom_wawards_differential-01",
+      "record_id": "LAO-KINGDOM-FEMININE-MERIT-WAWARDS",
+      "view_key": "LAO-KINGDOM-FEMININE-MERIT-WAWARDS-VIEW1",
+      "local_path": "assets/images/wawards_laos/laos_kingdom_wawards_differential_01.jpg",
+      "source_page": "https://wawards.org/en/laos/kingdom-of-laos/order-of-feminine-merit.html",
+      "image_url": "https://wawards.org/images/laos/1/1/1.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57292,
+      "sha256": "73aa7f0b187acca805c3c7ccb90ee7651aeb0a8b2425a5605388c304d2eb1671",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "laos-wawards-laos_kingdom_wawards_differential-02",
+      "record_id": "LAO-KINGDOM-FEMININE-MERIT-WAWARDS",
+      "view_key": "LAO-KINGDOM-FEMININE-MERIT-WAWARDS-VIEW2",
+      "local_path": "assets/images/wawards_laos/laos_kingdom_wawards_differential_02.jpg",
+      "source_page": "https://wawards.org/en/laos/kingdom-of-laos/order-of-feminine-merit.html",
+      "image_url": "https://wawards.org/images/laos/1/1/2.jpg",
+      "artist": "World Awards reference catalogue",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 32857,
+      "sha256": "b6e58d8d2788ea2fbec4de4b06388f34348b7095ee36234feee860c83b3e1bc0",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

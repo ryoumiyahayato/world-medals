@@ -1,0 +1,105 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Ottoman completeness continuation - Kuenker 299 closeout and known-unpictured reconciliation",
+  "source_coverage": {
+    "planned_sources": 24,
+    "completed_sources": 19,
+    "partially_scanned_sources": 2,
+    "blocked_sources": 3,
+    "not_started_sources": 0,
+    "completed_this_batch": [
+      "Kuenker Auction 299 pages 233-240 classification",
+      "MDC Auction 10 lot 1439 Sinope object page and front/back images",
+      "Istanbul Technical University Ottoman medals catalogue, all 158 PDF pages",
+      "National Army Museum NAM.1963-11-31-6 front/back object record",
+      "CNG eAuction 397 lot 802 front/back auction record",
+      "Spink auction 21001 complete Turkey/Ottoman section, lots 1381-1385",
+      "CGB fme_897526 / SALT ANUDM00088, Caqué-Obert 51 mm Triple Alliance bronze variant",
+      "Spink Lots Archive current 'Ottoman Empire' result set, all 5 pages / 83 results and 16 award-candidate lot pages",
+      "PICRYL current medal-filter result set, page 1 of 1 and all 8 object pages; all deduplicated as Commons mirrors",
+      "CGB current archive query union, 5 queries / 180 deduplicated results / all 93 medal department object pages",
+      "Spink bounded Ottoman terminology union, 17 queries / 136 deduplicated results / 28 award-candidate object pages",
+      "AlifArt 17 December 2022 auction lot 76 Tasvir-i Hümayun object page and all 4 exposed source images",
+      "Düstur First Series volume 8, 927-page cached volume and target No. 80 / printed page 302 official Yemen medal decree"
+    ],
+    "partial_this_batch": [
+      "Spink parent auction archive remains a rolling source after the complete 21001 Turkey section"
+    ]
+  },
+  "batch_result": {
+    "formal_rows_added": 19,
+    "net_new_formal_families": 5,
+    "related_rows_added": 35,
+    "formal_images_added": 30,
+    "related_images_added": 67,
+    "photographs_added": 93,
+    "historical_catalogue_images_added": 4,
+    "identity_repairs": [
+      "OTT-SASHANELI merged into OTT-RIFLE-SHOOTING",
+      "OTT-TAKDIR-HUNER merged into OTT-SKILL-KNOWLEDGE",
+      "OTT-HIRFET-SANAT-TICARET merged into OTT-1862-EXHIBITION"
+      ,"OTT-EARTHQUAKE merged into OTT-EARTHQUAKE-1894"
+      ,"OTT-YEMEN-1846 merged into OTT-YEMEN-1847"
+      ,"OTT-MAARIF-BADGE merged into OTT-MAARIF-MEDAL"
+      ,"OTT-SILISTRE, OTT-SILISTRA-FLAG and MENA7-SILISTREMADALYAS merged into OTT-SILISTRA"
+      ,"MENA7-CANAKKALE-ER-MADALYAS merged into OTT-CANAKKALE"
+      ,"MENA7-ORDER-OF-THE-OTTOMAN-CHAMBER-OF-DEPUTIES merged into OTT-MECLIS-MEBUSAN"
+      ,"MENA7-SEHIT-EVLAD-MALUL-ASKERE-IANE-MADALYAS merged into OTT-SEHIT-EVLAD-MALUL-AID"
+      ,"related OTT-NUSRET-MOSQUE merged into OTT-CAMI-NUSRET"
+    ],
+    "known_unpictured_resolved": [
+      "OTT-SINOP-1853",
+      "OTT-SKILL-KNOWLEDGE",
+      "OTT-1862-EXHIBITION",
+      "OTT-RIFLE-SHOOTING",
+      "OTT-AVIATION-1914",
+      "OTT-BLACK-SEA-DANUBE and OTT-TRIPLE-ALLIANCE reconciled into one related commemorative family; large 67 mm bronze variant pictured",
+      "OTT-GENERAL-SERVICE-1854 added as a separate formal award family"
+      ,"OTT-TRIPLE-ALLIANCE 51 mm Caqué-Obert copper variant added with complete front/reverse composite; the documented lead variant remains without a verified image"
+      ,"OTT-FERAHI added from ITU catalogue figure 1.A-1.B with complete front/reverse historical catalogue illustrations"
+      ,"OTT-REL-TANZIMAT-1850 added from official Milli Saraylar figures 5/5-a with complete front/reverse publication photographs and SALT object metadata"
+      ,"OTT-TASVIR-HUMAYUN added from AlifArt 2022 lot 76 with a complete Mahmud II imperial-portrait object photograph; the later-mounted period-style frame is stated rather than silently treated as original"
+    ],
+    "kuenker_pages_classified": [233, 234, 235, 236, 237, 238, 239, 240],
+    "kuenker_formal_lots": [7382, 7406],
+    "kuenker_related_lots_count": 30
+  },
+  "current_ottoman_volume": {
+    "independent_families": 82,
+    "variant_rows": 311,
+    "formal_local_images": 473,
+    "related_rows": 42,
+    "recorded_but_unpictured_families": 2,
+    "remaining_unpictured_family_ids": [
+      "OTT-GENDARMERIE-SERGEANT",
+      "OTT-YEMEN-1905"
+    ]
+  },
+  "global_build": {
+    "official_rows": 1174,
+    "independent_families": 641,
+    "decoded_local_images_including_related": 1639
+  },
+  "quality_checks": {
+    "all_images_decode": true,
+    "duplicate_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "generic_single_character_search": "PASS",
+    "country_and_period_filters": "PASS",
+    "static_validation": "PASS"
+  },
+  "remaining": {
+    "completion_status": "not yet complete",
+    "next_action": "target museum and specialist-auction sources for two documented formal families still lacking an eligible image: Zaptiye Çavuşları silver medal and the 1905 Third Yemen Campaign Medal; process the related-material gaps separately; keep the SALT bronze trial/badge, alleged 1877 Bosnia medal, Masallah medal and the possibly duplicate 1855 Sebastopol medal outside the formal count until identity evidence improves; continue the three blocked fixed seeds and additional bounded auction or museum source units without duplicating completed sweeps",
+    "source_boundaries": [
+      "SALT images are listed but script access returns 403 and browser control timed out; a separately verified MDC specimen replaced the Sinop gap",
+      "Spink 21001 Turkey/Ottoman section, the current 83-result 'Ottoman Empire' query, and the 17-query terminology union (136 deduplicated results) are complete; the parent archive remains a rolling source rather than a finite Ottoman catalogue",
+      "three fixed seed sources remain wholly blocked by archive/access state; the supplied Boğaziçi item remains blocked but its separately indexed five-page museum inventory was scanned"
+      ,"the TDV-only chronology still has one formal unpictured row; after resolving Tasvir-i Hümâyûn from AlifArt, the combined TDV plus complete MedalBook catalogue audit has two formal unpictured families"
+    ]
+  },
+  "publish": {
+    "github_push_performed": false,
+    "reason": "Ottoman volume remains incomplete."
+  }
+}

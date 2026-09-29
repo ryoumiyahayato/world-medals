@@ -1,0 +1,204 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "哈布斯堡君主国及其属地·勋奖章图鉴（medals.org.uk快批）",
+  "records": [
+    {
+      "id": "AUT-HAB-005-V01",
+      "family": "AUT-FAM-HAB-005",
+      "country_zh": "哈布斯堡君主国",
+      "name": "玛丽亚·特蕾莎军事勋章",
+      "original": "Militär-Maria-Theresien-Orden",
+      "date": "1757年设立",
+      "variant": "骑士级；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-005-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire005",
+        "medalsorg-austria-empire-text-list",
+        "oesta-maria-theresa-order"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire005.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 18 June 1757. Discontinued 1919. | Awarded: To officers for courage in the face of the enemy, or commanders whose actions determine success in battle. | Grades: 3 (Grand Cross, Commander and Knight).",
+          "image_reference": "World Medals Index image caption: Knight, Obverse"
+        },
+        {
+          "source_id": "oesta-maria-theresa-order",
+          "source_page": "https://www.archivinformationssystem.at/detail.aspx?ID=4640",
+          "note": "Austrian State Archives order archive; founding and military merit purpose in 1757."
+        }
+      ]
+    },
+    {
+      "id": "AUT-HAB-027-V01",
+      "family": "AUT-FAM-HAB-027",
+      "country_zh": "哈布斯堡君主国",
+      "name": "军牧功绩十字章（Piis Meritis）",
+      "original": "Ehrenkreuz für k.k. Feldgeistliche „Piis Meritis“",
+      "date": "1801年设立",
+      "variant": "第一级；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-027-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire027",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire027.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 1801. | Awarded: To milirary chaplains. | Grades: 2 (Gold and Silver).",
+          "image_reference": "World Medals Index image caption: Class 1, Obverse"
+        }
+      ]
+    },
+    {
+      "id": "AUT-HAB-031-V01",
+      "family": "AUT-FAM-HAB-031",
+      "country_zh": "哈布斯堡君主国",
+      "name": "勇敢奖章",
+      "original": "Tapferkeitsmedaille",
+      "date": "1789年7月19日设立",
+      "variant": "铜级（实际材质待考）；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-031-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire031",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire031.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 19 July 1789. | Awarded: For acts of bravery. | Grades: 4.",
+          "image_reference": "World Medals Index image caption: Bronze Medal, Obverse"
+        }
+      ]
+    },
+    {
+      "id": "AUT-HAB-053-V01",
+      "family": "AUT-FAM-HAB-053",
+      "country_zh": "提洛尔（哈布斯堡君主国境内）",
+      "name": "提洛尔保卫者纪念奖章",
+      "original": "Erinnerungsmedaille für die Tiroler Verteidiger",
+      "date": "1797年设立",
+      "variant": "图录正面；等级待考；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-053-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire053",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire053.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 1797. | Awarded: To Tyrolean volunteers who resisted Revolutionary French forces commanded by General Barthélemy Joubert advancing into Austria over the Julian Alps on Napoleon's orders after their victory in northern Italy. | Grades: 3.",
+          "image_reference": "World Medals Index image caption: Obverse"
+        }
+      ]
+    },
+    {
+      "id": "AUT-HAB-062-V01",
+      "family": "AUT-FAM-HAB-062",
+      "country_zh": "提洛尔（哈布斯堡君主国境内）",
+      "name": "提洛尔动员军事功绩奖章",
+      "original": "Militärverdienstmedaille für das Tiroler Aufgebot 1796",
+      "date": "1796年8月12日设立",
+      "variant": "大型银级（实际金属成色待考）；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-062-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire062",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire062.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 12 August 1796. | Awarded: To Tyroleans who took up arms to defend the Tirol against the French. | Grades: 2.",
+          "image_reference": "World Medals Index image caption: Large Silver Medal, Obverse"
+        }
+      ]
+    },
+    {
+      "id": "AUT-HAB-054-V01",
+      "family": "AUT-FAM-HAB-054",
+      "country_zh": "下奥地利（哈布斯堡君主国境内）",
+      "name": "下奥地利军事功绩奖章",
+      "original": "Erinnerungsmedaille für das Niederösterreichische Aufgebot 1797",
+      "date": "1797年设立",
+      "variant": "金级（实际材质待考）；低清参考",
+      "views": [
+        {
+          "key": "AUT-HAB-054-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-austria-empire-austria-empire054",
+        "medalsorg-austria-empire-text-list"
+      ],
+      "image_kind": "catalogue_object_photo",
+      "html_eligible": true,
+      "body_eligible": true,
+      "local_offline": true,
+      "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-empire/austria-empire054.htm",
+          "accessed_at": "2026-09-28",
+          "source_excerpt": "Instituted: 1797. | Awarded: For participation in the campaign against Napoleon. | Grades: 3.",
+          "image_reference": "World Medals Index image caption: Gold Medal, Obverse"
+        }
+      ]
+    }
+  ]
+}

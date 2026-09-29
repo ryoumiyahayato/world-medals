@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-27",
+  "candidate": "CGB fme_768171 / fme_829035",
+  "family": "OTT-REL-UNOFFICIAL-CONSTITUTION",
+  "status": "DATE_AND_CATALOGUE_CONFLICT_RESOLVED_FOR_PLACEMENT_NOT_SOURCE_CORRECTED",
+  "source_claims": [
+    {"source_id": "cgb-fme_768171", "title_period": "Turkish Republic", "date": "1924"},
+    {"source_id": "cgb-fme_829035", "title_period": "Sultan Abdülhamid II", "date": "1906 / AH 1324"}
+  ],
+  "object_evidence": "Both CGB records point to the same 1200×658 image. The piece bears Ottoman tughra and the liberty/equality/justice vocabulary and matches the known family of unofficial 1908 constitutional-proclamation medals.",
+  "handling": "Placed under the Ottoman 1908 unofficial constitutional commemorative family. The conflicting CGB catalogue dates remain recorded internally and are not repeated in the public three-column body.",
+  "image_source_url": "https://images3.cgb.fr/images/medaille/fme_768171.jpg"
+}

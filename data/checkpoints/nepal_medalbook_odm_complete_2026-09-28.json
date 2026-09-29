@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Kingdom of Nepal / Nepal — complete MedalBook and recursive ODM batch",
+  "status": "two_sources_complete_formal_batch_merged",
+  "source_coverage": {
+    "planned_sources": 4,
+    "completed_sources": 2,
+    "partial_sources": 0,
+    "not_started_sources": 2,
+    "medalbook_object_pages": 114,
+    "odm_recursive_pages": 50,
+    "downloaded_source_files": 114
+  },
+  "formal_merge": {
+    "new_rows": 31,
+    "represented_families": 16,
+    "net_new_families": 16,
+    "local_complete_views": 60,
+    "unpictured_source_candidates": 133,
+    "cross_source_duplicate_rows_merged": 9,
+    "alternate_source_views_merged": 11,
+    "duplicate_payloads_promoted": 0,
+    "ribbon_only_views_promoted": 0
+  },
+  "site_after_merge": {
+    "main_rows": 1916,
+    "main_families": 978,
+    "country_or_period_sections": 99,
+    "decoded_local_files": 2886,
+    "unique_gallery_image_paths": 2811,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Advance to Bhutan, Bangladesh and Sri Lanka/Ceylon; keep two finite Nepal differential sources queued."
+}

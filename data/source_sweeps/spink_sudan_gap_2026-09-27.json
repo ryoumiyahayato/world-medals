@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "spink_sudan_gap_archive",
+  "status": "partial_search_union",
+  "queries_run": 4,
+  "candidate_lots_retained": 2,
+  "candidate_file": "data/raw_candidates/spink_sudan.jsonl",
+  "cached_pages": 2,
+  "cached_group_images": 3,
+  "exact_variants_supported_by_text": [
+    "Good Accomplishment Medal, silvered; class not stated",
+    "Medal of Duty, I Class, 35 mm, metal-gilt"
+  ],
+  "formal_rows_added": 0,
+  "reason_no_formal_image": "Both lots are multi-award groups. The Good Accomplishment Medal is not yet safely identifiable within the group image; the Medal of Duty image is too low-resolution for a reliable individual crop.",
+  "next": "Continue bounded Spink and other auction-archive searches for standalone Sudan lots or higher-resolution group photographs; do not use ambiguous crops."
+}

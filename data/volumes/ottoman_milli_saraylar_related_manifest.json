@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-09-27",
+  "source_pdf": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf",
+  "source_pdf_sha256": "c5d6615a0070a0e8a119bf047e67ea9da422bd70df8e2e2628e91a5287f9a5fa",
+  "raw_page": "assets/raw/ottoman_milli_saraylar/osmanli_saltanatinin_sembolleri_pdf_page_97.png",
+  "images": [
+    {
+      "view_key": "OTT-MS-TANZIMAT-1850-FRONT",
+      "local_path": "assets/images/ottoman_milli_saraylar/tanzimat_1850_front.png",
+      "source_id": "milli-saraylar-osmanli-saltanatinin-sembolleri-fig5",
+      "source_page_url": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf#page=97",
+      "source_original_url": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf#page=97",
+      "source_pdf_page": 97,
+      "printed_page": 89,
+      "figure": "5",
+      "crop_box_ltrb": [
+        1235,
+        1285,
+        1815,
+        1870
+      ],
+      "image_kind": "published_collection_photo",
+      "license": "Milli Saraylar publication; local research use",
+      "width": 580,
+      "height": 585,
+      "sha256": "a76134d69d595a02a5a255b7e5b2fa86671112d62846390bf5bfa206cd2dcab9"
+    },
+    {
+      "view_key": "OTT-MS-TANZIMAT-1850-REVERSE",
+      "local_path": "assets/images/ottoman_milli_saraylar/tanzimat_1850_reverse.png",
+      "source_id": "milli-saraylar-osmanli-saltanatinin-sembolleri-fig5",
+      "source_page_url": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf#page=97",
+      "source_original_url": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf#page=97",
+      "source_pdf_page": 97,
+      "printed_page": 89,
+      "figure": "5-a",
+      "crop_box_ltrb": [
+        1235,
+        1890,
+        1815,
+        2460
+      ],
+      "image_kind": "published_collection_photo",
+      "license": "Milli Saraylar publication; local research use",
+      "width": 580,
+      "height": 570,
+      "sha256": "68487cb5eb4e07c5b416ab6f515552ba2c3d225e134791381aa52272fe67c48d"
+    }
+  ],
+  "unpictured_candidates": [],
+  "visual_check": "figures 5 and 5-a show complete circular front and reverse faces; no neighbouring object enters either crop"
+}

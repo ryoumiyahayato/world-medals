@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国相关附编：Milli Saraylar",
+  "records": [
+    {
+      "id": "OTT-MS-REL-TANZIMAT-1850",
+      "family": "OTT-REL-TANZIMAT-1850",
+      "country_zh": "奥斯曼帝国",
+      "name": "坦志麦特改革纪念章",
+      "original": "Tanzimat Hatıra Madalyası / Tanzîmât-ı Hayriyye Madalyası",
+      "date": "1850年制；1851年发行",
+      "variant": "镀金青铜；100毫米；400.80克；Laurent-Joseph Hart制；完整正背面出版物实物照",
+      "views": [
+        {
+          "key": "OTT-MS-TANZIMAT-1850-FRONT",
+          "label": "出版物实物照·正面"
+        },
+        {
+          "key": "OTT-MS-TANZIMAT-1850-REVERSE",
+          "label": "出版物实物照·背面"
+        }
+      ],
+      "source_ids": [
+        "milli-saraylar-osmanli-saltanatinin-sembolleri-fig5",
+        "salt-ANUDM00080",
+        "tdv-madalya"
+      ],
+      "image_kind": "published_collection_photo",
+      "html_eligible": true
+    }
+  ]
+}

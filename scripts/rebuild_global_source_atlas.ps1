@@ -3,6 +3,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
+$AsOf = (Get-Date).ToString('yyyy-MM-dd')
 $AtlasRoot = Join-Path $ProjectRoot 'data\source_atlas'
 $OutPath = Join-Path $AtlasRoot 'global_source_atlas.json'
 New-Item -ItemType Directory -Force -Path $AtlasRoot | Out-Null
@@ -18,7 +19,36 @@ $records = [ordered]@{}
 $scopeSummaries = [Collections.Generic.List[object]]::new()
 
 foreach ($file in Get-ChildItem -LiteralPath $AtlasRoot -Filter '*_source_matrix.json' -File | Sort-Object Name) {
-    $matrix = Get-Content -LiteralPath $file.FullName -Raw | ConvertFrom-Json
+    try {
+        $matrix = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
+    } catch {
+        Write-Warning "Recovering source IDs from malformed source matrix: $($file.Name)"
+        $raw = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
+        $scopeId = $file.BaseName -replace '_source_matrix$',''
+        $sourceStart = $raw.IndexOf('"sources"')
+        if ($sourceStart -ge 0) {
+            $sourceText = $raw.Substring($sourceStart)
+            $candidateStart = $sourceText.IndexOf('"candidates"')
+            if ($candidateStart -gt 0) { $sourceText = $sourceText.Substring(0, $candidateStart) }
+            foreach ($match in [regex]::Matches($sourceText, '(?m)^\s*"(?:source_)?id"\s*:\s*"([^"]+)"')) {
+                $sourceId = $match.Groups[1].Value
+                if (-not $records.Contains($sourceId)) {
+                    $records[$sourceId] = [ordered]@{
+                        source_id = $sourceId
+                        source_name = $sourceId
+                        source_type = 'recovered_from_malformed_matrix'
+                        status = 'partial'
+                        last_checked = $AsOf
+                        scope_ids = @($scopeId)
+                        matrix_file = $file.FullName.Substring($ProjectRoot.Length + 1).Replace('\','/')
+                        recovery_note = 'Source identity retained; repair the malformed matrix before trusting its detailed fields.'
+                    }
+                }
+            }
+        }
+        $scopeSummaries.Add([ordered]@{ scope_id=$scopeId; scope_label=$scopeId; matrix_file=$file.FullName.Substring($ProjectRoot.Length + 1).Replace('\','/'); coverage=@{status='malformed_matrix_recovered'}; next_action='Repair malformed JSON while retaining recovered source identities.' })
+        continue
+    }
     $scopeId = if ($matrix.scope_id) { $matrix.scope_id } elseif ($matrix.source_atlas_id) { $matrix.source_atlas_id -replace '_source_matrix$','' } else { $file.BaseName -replace '_source_matrix$','' }
     $scopeLabel = if ($matrix.scope_label) { $matrix.scope_label } elseif ($matrix.scope.granting_system) { $matrix.scope.granting_system } else { $scopeId }
     if ($matrix.PSObject.Properties.Name -contains 'sources') {
@@ -48,7 +78,7 @@ foreach ($file in Get-ChildItem -LiteralPath $AtlasRoot -Filter '*_source_matrix
 # Import the legacy Ottoman seed matrix without rewriting the proven sweep files.
 $ottomanSeedPath = Join-Path $ProjectRoot 'data\source_sweeps\ottoman_seed_matrix_2026-09-26.json'
 if (Test-Path -LiteralPath $ottomanSeedPath) {
-    $seed = Get-Content -LiteralPath $ottomanSeedPath -Raw | ConvertFrom-Json
+    $seed = Get-Content -LiteralPath $ottomanSeedPath -Raw -Encoding UTF8 | ConvertFrom-Json
     foreach ($source in $seed.source_systems) {
         $records[$source.id] = [ordered]@{
             source_id = $source.id
@@ -84,7 +114,7 @@ foreach ($record in $records.Values) {
 
 $atlas = [ordered]@{
     schema_version = '2.0'
-    as_of = '2026-09-26'
+    as_of = $AsOf
     workflow = 'AUTONOMOUS_SOURCE_DISCOVERY_V2'
     source_count = $records.Count
     coverage = $statusCounts

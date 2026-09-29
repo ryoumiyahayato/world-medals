@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-27",
   "scope_id": "ottoman_empire",
   "scope_label": "Ottoman Empire / historical Turkey",
   "seed_import": "data/source_sweeps/ottoman_seed_matrix_2026-09-26.json",
@@ -16,19 +16,27 @@
     "medalbook_ottoman",
     "emedals_ottoman",
     "kuenker299_ottoman",
+    "itu_ottoman_medals_catalogue",
+    "mdc_sinop_lot1439",
+    "nam_danube_1963_11_31_6",
+    "cng_397_802_triple_alliance",
     "spink_ottoman",
+    "cgb_ottoman",
     "gmic_ottoman",
     "bogazici_ottoman",
     "nigde_academic_ottoman",
     "picryl_ottoman",
-    "turkishculture_ottoman"
+    "turkishculture_ottoman",
+    "alifart_ottoman_tasvir",
+    "dustur_tertib1_cilt8",
+    "kusoglu_madalya_heykeltrasligi_2025"
   ],
   "coverage": {
-    "planned": 17,
-    "completed": 9,
-    "partial": 3,
+    "planned": 25,
+    "completed": 19,
+    "partial": 2,
     "blocked": 4,
-    "not_started": 1
+    "not_started": 0
   },
-  "next_action": "Cross-source normalize/dedupe the 2744 raw rows, then batch-bind Commons, eMedals, Künker and SALT images. Discover a concrete Spink archive entry autonomously rather than asking the user for a seed."
+  "next_action": "The TDV 91-row chronology and all 97 MedalBook main-award catalogue families now have explicit crosswalks. MedalBook resolves to 75 pictured-formal headings, 2 formal-unpictured, 7 related-pictured, 10 related-unpictured, 1 identity conflict, 1 never-made proposal and 1 proposed-or-unissued object. Continue targeted museum and specialist-auction discovery for the 1905 Third Yemen Campaign Medal and the formal silver Zaptiye Çavuşları medal. Keep the bronze Zaptiye trial/badge, disputed Bosnia 1877 attribution and Masallah outside the formal count; classify the physical 1855/56 Sivastopol objects as proposed-or-unissued because SALT states they were very likely never awarded."
 }

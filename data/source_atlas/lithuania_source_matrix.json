@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "lithuania",
+  "scope_label": "Lithuania Republic national and service award system",
+  "sources": [
+    {
+      "source_id": "wawards_lithuania_complete_catalogue",
+      "source_name": "World Awards - Lithuania country catalogue",
+      "base_url": "https://wawards.org/en/lithuania.html",
+      "source_type": "country_award_catalogue",
+      "languages": ["en"],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "country_index_to_object_pages_and_full_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "42/42 linked object pages and 140 exposed images processed; 40 pictured families and 99 selected complete-image views retained; 2 candidates remain unpictured because the object pages expose only cases/certificates.",
+      "candidate_file": "data/raw_candidates/wawards_lithuania.jsonl",
+      "volume_file": "data/volumes/lithuania_wawards_families.json",
+      "manifest_file": "data/volumes/lithuania_wawards_families_manifest.json"
+    },
+    {
+      "source_id": "lithuania_official_awards_differential",
+      "source_name": "Lithuanian President and State Awards official directory",
+      "source_type": "official_award_directory",
+      "languages": ["lt", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "official_name_date_grade_differential",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 2, "completed": 1, "partial": 0, "blocked": 0, "not_started": 1},
+  "next_action": "Run Lithuania official differential and map classes/grades; recover standalone images for the two unpictured candidates."
+}

@@ -1,0 +1,76 @@
+name: Build private Android atlas
+on:
+  workflow_dispatch:
+  push:
+    paths: ['mobile/**', 'index.html', 'assets/images/**', 'data/volumes/**', 'data/sources.json', '.github/workflows/mobile-apk.yml']
+    tags: ['mobile-v*']
+permissions:
+  contents: read
+concurrency:
+  group: mobile-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  apk:
+    # The research image corpus is not cleared for public distribution.
+    if: github.event.repository.private == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Android SDK
+        run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
+      - name: Python dependencies
+        run: pip install -r mobile/requirements.txt
+      - name: Restore persistent signing identity
+        env:
+          KEYSTORE_B64: ${{ secrets.ATLAS_KEYSTORE_BASE64 }}
+          SIGNING_PASSWORD: ${{ secrets.ATLAS_KEYSTORE_PASSWORD }}
+        run: |
+          test -n "$KEYSTORE_B64" && test -n "$SIGNING_PASSWORD" || { echo 'Configure the two ATLAS signing secrets from the existing local key first.'; exit 1; }
+          mkdir -p mobile/.local
+          printf '%s' "$KEYSTORE_B64" | base64 --decode > mobile/.local/atlas.keystore
+      - name: Check release tag
+        if: startsWith(github.ref, 'refs/tags/mobile-v')
+        run: |
+          python -c 'import json,os; assert os.environ["GITHUB_REF_NAME"] == "mobile-v"+json.load(open("mobile/version.json"))["name"]'
+      - name: Build and verify signed APK
+        env:
+          SIGNING_PASSWORD: ${{ secrets.ATLAS_KEYSTORE_PASSWORD }}
+        run: python mobile/scripts/build_apk.py
+      - name: Verify search and packaged catalogue
+        run: |
+          node mobile/scripts/test_search.cjs
+          node mobile/scripts/validate_mobile.cjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: world-medals-android
+          path: |
+            mobile/build/*.apk
+            mobile/build/*.sha256
+            mobile/build/export-report.json
+          retention-days: 14
+  release:
+    if: startsWith(github.ref, 'refs/tags/mobile-v') && github.event.repository.private == true
+    needs: apk
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: world-medals-android
+          path: release
+      - name: Create draft release for review
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: gh release create "$RELEASE_TAG" release/*.apk release/*.sha256 --draft --title "全球勋奖章图鉴 $RELEASE_TAG" --notes '离线图鉴 Android 更新。个人研究使用，保留图片原始权利限制。'

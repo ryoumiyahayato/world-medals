@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及赫迪夫青铜星章版型校订",
+  "records": [
+    {
+      "id": "EGY-KHEDIVE-STAR-1882-OBVERSE",
+      "family": "MENA7-KHEDIVE-S-STAR",
+      "country_zh": "埃及",
+      "name": "赫迪夫青铜星章",
+      "original": "Khedive's Egyptian Star 1882",
+      "date": "1882年型",
+      "variant": "1882年型；青铜；完整正面；低清参考",
+      "views": [
+        {
+          "key": "EGY-KHEDIVE-STAR-1882-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "commons_egypt_awards",
+        "nam_khedive_star_1882"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "MENA7-KHEDIVE-S-STAR-2FD1A0CB6779"
+    },
+    {
+      "id": "EGY-KHEDIVE-STAR-1884-86-AWM",
+      "family": "MENA7-KHEDIVE-S-STAR",
+      "country_zh": "埃及",
+      "name": "赫迪夫青铜星章",
+      "original": "Khedive's Bronze Star",
+      "date": "1884—1886年型；约1886年制作",
+      "variant": "1884—1886年型；青铜；Henry Jenkins & Sons（伯明翰）；完整正反面",
+      "views": [
+        {
+          "key": "EGY-KHEDIVE-STAR-1884-86-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-KHEDIVE-STAR-1884-86-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "awm_khedive_star_1884_86",
+        "omsa_egypt_awards_appendix"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "MENA7-KHEDIVE-S-STAR-BE6E7592741B"
+    },
+    {
+      "id": "EGY-KHEDIVE-STAR-TOKAR-BAR",
+      "family": "MENA7-KHEDIVE-S-STAR",
+      "country_zh": "埃及",
+      "name": "赫迪夫青铜星章",
+      "original": "Khedive's Star, Tokar bar",
+      "date": "1880年代；版次待考",
+      "variant": "托卡尔横条型；青铜星章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "EGY-KHEDIVE-STAR-TOKAR-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "commons_egypt_awards"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "MENA7-KHEDIVE-S-STAR-1C075D62D222"
+    }
+  ]
+}

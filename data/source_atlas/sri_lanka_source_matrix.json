@@ -1,0 +1,73 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "sri_lanka_ceylon",
+  "scope_label": "Ceylon and Sri Lanka honours, decorations and medals",
+  "sources": [
+    {
+      "source_id": "medalbook_sri_lanka",
+      "source_name": "MedalBook — complete Sri Lanka catalogue",
+      "base_url": "https://www.medalbook.com/asia/sri-lanka-1",
+      "source_type": "specialist_directory",
+      "languages": ["en"],
+      "content_coverage": "All 33 public order and medal object pages",
+      "has_images": false,
+      "has_pagination": false,
+      "download_method": "complete_result_page_and_object_sweep",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "33/33 object pages processed without failures. No object image was exposed; all 33 records remain in the unpictured appendix.",
+      "candidate_file": "data/raw_candidates/medalbook_sri_lanka.jsonl",
+      "sweep_file": "data/source_sweeps/medalbook_sri_lanka_2026-09-28.json",
+      "page_cache": "sources/pages/medalbook_sri_lanka",
+      "volume_file": "data/volumes/sri_lanka_medalbook_variants.json"
+    },
+    {
+      "source_id": "medals_org_sri_lanka",
+      "source_name": "ODM / medals.org.uk — complete Sri Lanka directory",
+      "base_url": "https://www.medals.org.uk/sri-lanka/sri-lanka-text.htm",
+      "source_type": "specialist_directory",
+      "languages": ["en", "si"],
+      "content_coverage": "All 19 award pages exposed by the master list, including Ceylon-era entries",
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "recursive_html_and_direct_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "19/19 pages and 15/15 exposed files processed. Six pictured rows in six families and 12 object views were normalized; three ribbon-only files were excluded and 13 unpictured pages retained.",
+      "candidate_file": "data/raw_candidates/medals_org_sri_lanka.jsonl",
+      "sweep_file": "data/source_sweeps/medals_org_sri_lanka_2026-09-28.json",
+      "page_cache": "sources/pages/medals_org_sri_lanka",
+      "image_cache": "assets/raw/medals_org_sri_lanka",
+      "volume_file": "data/volumes/sri_lanka_medals_org_variants.json"
+    },
+    {
+      "source_id": "sri_lanka_official_honours",
+      "source_name": "Sri Lanka Gazette, Presidency, Cabinet and armed-forces honours material",
+      "source_type": "official_government",
+      "languages": ["si", "ta", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "gazette_and_official_site_sweep",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    },
+    {
+      "source_id": "commons_sri_lanka_awards",
+      "source_name": "Wikimedia Commons — Sri Lanka and Ceylon award category trees",
+      "source_type": "open_media_category_tree",
+      "languages": ["mul"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "mediawiki_api",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 4, "completed": 2, "partial": 0, "blocked": 0, "not_started": 2},
+  "next_action": "Retain official and Commons differentials; advance the accessible Asia queue to Central Asian republics."
+}

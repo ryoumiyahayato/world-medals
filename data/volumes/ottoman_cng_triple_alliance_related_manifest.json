@@ -1,0 +1,62 @@
+{
+  "as_of": "2026-09-27",
+  "source": "Classical Numismatic Group, eAuction 397, lot 802",
+  "images": [
+    {
+      "view_key": "OTT-CNG-HART-1854-FRONT",
+      "local_path": "assets/images/ottoman_cng_triple_alliance/hart_triple_alliance_1854_front.jpg",
+      "source_id": "cng-eauction-397-lot-802",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "source_page_url": "https://www.cngcoins.com/Coin.aspx?CoinID=336564",
+      "source_original_url": "https://www.cngcoins.com/photos/enlarged/3970802.jpg",
+      "license": "CNG auction archive image; local research use",
+      "width": 400,
+      "height": 399,
+      "sha256": "fd19f76f501e661d89c44d5a6d9301f6e23b1336cc74ee23447bc7015967233c",
+      "side": "front",
+      "crop_box": [
+        0,
+        0,
+        400,
+        399
+      ],
+      "raw_composite": "assets/raw/ottoman_cng_triple_alliance/3970802.jpg",
+      "visual_check": "完整圆章边缘均保留；两面来自CNG同一拍品合图"
+    },
+    {
+      "view_key": "OTT-CNG-HART-1854-BACK",
+      "local_path": "assets/images/ottoman_cng_triple_alliance/hart_triple_alliance_1854_back.jpg",
+      "source_id": "cng-eauction-397-lot-802",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "source_page_url": "https://www.cngcoins.com/Coin.aspx?CoinID=336564",
+      "source_original_url": "https://www.cngcoins.com/photos/enlarged/3970802.jpg",
+      "license": "CNG auction archive image; local research use",
+      "width": 400,
+      "height": 399,
+      "sha256": "5809239f1685da20d71a00ed4abdd0a66371684cc5dc43ed34b2478e5a00fbf8",
+      "side": "back",
+      "crop_box": [
+        400,
+        0,
+        800,
+        399
+      ],
+      "raw_composite": "assets/raw/ottoman_cng_triple_alliance/3970802.jpg",
+      "visual_check": "完整圆章边缘均保留；两面来自CNG同一拍品合图"
+    },
+    {
+      "view_key": "OTT-CGB-CAQUE-1854-51MM-FRONT-REVERSE",
+      "local_path": "assets/images/ottoman_cng_triple_alliance/caque_triple_alliance_1854_51mm_front_reverse.jpg",
+      "source_id": "cgb-fme-897526",
+      "download_status": "downloaded_and_decoded",
+      "source_page_url": "https://www.cgbfr.es/second-empire-medaille-la-paix-du-monde-civilization-ttb-%2Cfme_897526%2Ca.html",
+      "source_original_url": "https://images3.cgb.fr/images/medaille/fme_897526.jpg",
+      "license": "CGB auction archive image; local research use; original watermark retained",
+      "width": 1200,
+      "height": 595,
+      "sha256": "6db5cdebc58980d3e281a2831882abdb2a0cdca43ef2c6a2240323ce6180509e",
+      "side": "front_and_reverse",
+      "visual_check": "同一拍品完整正反面均保留，章体边缘完整，原站水印未删除"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "沙巴州",
+  "records": [
+    {
+      "id": "MYS-SABAH-KINABALU-MEDALBOOK-102",
+      "family": "MYS-SABAH-KINABALU",
+      "country_zh": "沙巴州",
+      "name": "神山勋章",
+      "original": "Order of Kinabalu, Grand Commander Collar",
+      "date": "1963年设立",
+      "variant": "大指挥官级项链章",
+      "views": [
+        {
+          "key": "MYS-SABAH-KINABALU-MEDALBOOK-102-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-a3e1688669b080b6"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

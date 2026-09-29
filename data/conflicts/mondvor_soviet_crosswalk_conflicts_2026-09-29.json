@@ -1,0 +1,78 @@
+{
+  "as_of": "2026-09-29",
+  "source_id": "mondvor_soviet_awards",
+  "kind": "index_build_count_reconciliation_and_earlier_parse_conflict",
+  "current_index": {
+    "family_counts_by_prefix": {
+      "HON": [
+        9
+      ],
+      "MED": [
+        54
+      ],
+      "ORD": [
+        21
+      ]
+    },
+    "variant_rows": 91,
+    "families": 84
+  },
+  "configured_build_inputs": {
+    "files": [
+      "soviet_union_pack1.json",
+      "russia_bulk_pack2.json",
+      "russia_bulk_pack3.json",
+      "soviet_gap_round4_2026-09-26.json",
+      "soviet_wikipedia_master_differential_2026-09-28.json",
+      "soviet_wikipedia_master_followup_2026-09-28.json"
+    ],
+    "unique_families": 84,
+    "post_exclusion_variant_rows": 91,
+    "families_not_found_in_index": [],
+    "excluded_variant_count": 3,
+    "excluded_variant_ids": [
+      "USSR-MED-08-V-II-WIKI",
+      "USSR-MED-10-V-II-WIKI",
+      "USSR-MED-54-V-II-WIKI"
+    ],
+    "index_families_not_found_in_build_inputs": [],
+    "raw_records": 94
+  },
+  "reconciliation": "Verified from site_build.py Soviet entry: six record files contribute 94 rows; three explicit excluded variants are omitted, yielding 91 visible rows. Those 91 rows resolve to 84 family IDs. Counts are therefore consistent for current index. Earlier 80/93 parse report is retained as an unreproduced historical count; current six-file build config shows 94 raw rows, not 93, and all 84 index families are represented.",
+  "earlier_reported_count": "80 families / 93 rows",
+  "earlier_parse_status": "not reproducible against current configured sources; investigate if old parser snapshot matters",
+  "material_family_differences": {
+    "existing_index_family_absent_from_current_build_inputs": [],
+    "current_build_input_family_absent_from_index": []
+  },
+  "page_name_conflict": {
+    "Putnikov_p10": "Order of Honour",
+    "Mondvor_medpage": "За отличие в охране гос. границы СССР (Border distinction)",
+    "action": "Do not map book p.10 Order of Honour image to a different Mondvor medal; preserve as catalog/source naming or page-layout discrepancy for later image inspection."
+  },
+  "category_conflicts": [
+    {
+      "existing_family": "USSR-ORD-18",
+      "resolution": "duplicate section link; not a new family",
+      "highest_page_link": "HMother.html",
+      "item": "Mother-Heroine Order"
+    },
+    {
+      "existing_family": null,
+      "resolution": "likely rank insignia; related-only, excluded from award family count pending documentation",
+      "highest_page_link": "HMarsh.html",
+      "item": "Marshal Star"
+    },
+    {
+      "resolution": "each distinct title remains its own candidate badge family; do not merge because object description page is shared",
+      "item": "Honorary titles sharing an object page"
+    }
+  ],
+  "candidate_deltas": {
+    "highest_distinction_medal_families": 2,
+    "missing_medal_family": "USSR-MED-37",
+    "unmatched_honorary_title_badge_families": 10,
+    "total_new_independent_award_family_candidates": 13
+  },
+  "image_rights_conflict": "Site images are not freely reusable merely because they are visible; all 1,904 image URLs remain permission-pending and no binaries were copied."
+}

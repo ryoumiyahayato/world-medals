@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL-VIEW-1",
+      "record_id": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL",
+      "view_key": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL-VIEW-1",
+      "local_path": "assets/images/sudan_presidency_official/loyal_son_official.png",
+      "source_page": "https://www.presidency.gov.sd/medals-decorations/Medal-Son-Sudan-righteous",
+      "source_image": "https://www.presidency.gov.sd/img/nodes/big/571de450-ea5c-4116-b75a-4150d401d39e.png",
+      "source_file_title": "Official Order of Loyal Son of Sudan diagram",
+      "image_kind": "official_diagram",
+      "dimensions": "498x700",
+      "sha256": "d84472a6673a8b9ada9e45ffd5bbd812de166f0d912b62172f173f2f11ac774c",
+      "visual_check": "complete object"
+    }
+  ]
+}

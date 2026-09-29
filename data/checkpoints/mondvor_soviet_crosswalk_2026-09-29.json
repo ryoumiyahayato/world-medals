@@ -1,0 +1,97 @@
+{
+  "as_of": "2026-09-29",
+  "source_id": "mondvor_soviet_awards",
+  "status": "four-directory boundary sweep complete; crosswalk and rights-limited image inventory saved",
+  "planned_pages": 165,
+  "scanned_pages": 165,
+  "partial_pages": 0,
+  "unstarted_pages": 0,
+  "category_progress": [
+    {
+      "section": "orders",
+      "directory_entries": 20,
+      "unique_object_pages": 20,
+      "scanned_article_and_pagination_pages": 64,
+      "candidate_rows": 20,
+      "current_family_matches": 20,
+      "independent_family_gap_candidates": 0,
+      "image_url_refs": 1000,
+      "book_coverage": "pp.7–23; all 20 rows title-crosswalked; Lenin pp.7"
+    },
+    {
+      "section": "medals",
+      "directory_entries": 55,
+      "unique_object_pages": 55,
+      "scanned_article_and_pagination_pages": 73,
+      "candidate_rows": 55,
+      "current_family_matches": 54,
+      "independent_family_gap_candidates": 1,
+      "image_url_refs": 779,
+      "book_coverage": "pp.26–41, plus Motherhood Medal p.23; all 55 rows title-crosswalked"
+    },
+    {
+      "section": "highest_distinctions",
+      "directory_entries": 4,
+      "unique_object_pages": 4,
+      "scanned_article_and_pagination_pages": 7,
+      "candidate_rows": 4,
+      "current_family_matches": 1,
+      "independent_family_gap_candidates": 2,
+      "related_only": 1,
+      "image_url_refs": 111,
+      "book_coverage": "Gold Star p.24; Hammer and Sickle p.25; Mother-Heroine p.23; Marshal Star none"
+    },
+    {
+      "section": "honorary_titles",
+      "directory_entries": 19,
+      "unique_object_pages": 15,
+      "scanned_article_and_pagination_pages": 15,
+      "candidate_rows": 19,
+      "current_family_matches": 9,
+      "independent_family_gap_candidates": 10,
+      "image_url_refs": 14,
+      "book_coverage": "No direct title-insignia page/image match; associated award context only"
+    }
+  ],
+  "raw_candidate_rows": 98,
+  "independent_family_gap_candidates": 13,
+  "verified_existing_family_matches": 84,
+  "existing_index_baseline": {
+    "families": 84,
+    "variant_rows": 91
+  },
+  "order_variant_candidate_groups": 88,
+  "Lenin_classification_groups": 15,
+  "image_url_refs": 1904,
+  "locally_downloaded_images": 0,
+  "decoded_images": 0,
+  "embedded_images": 0,
+  "permission_pending_images": 1904,
+  "deliverables": [
+    "data/raw_candidates/mondvor_soviet_crosswalk_2026-09-29.jsonl",
+    "data/source_sweeps/mondvor_soviet_crosswalk_2026-09-29.json",
+    "data/source_atlas/mondvor_soviet_source_matrix.json",
+    "data/conflicts/mondvor_soviet_crosswalk_conflicts_2026-09-29.json",
+    "data/checkpoints/mondvor_soviet_crosswalk_2026-09-29.json"
+  ],
+  "source_caches": [
+    "sources/pages/mondvor_soviet_crosswalk_2026-09-29/",
+    "sources/cache/mondvor_soviet_orders/pages/",
+    "sources/cache/mondvor_soviet_orders/crawl_inventory_2026-09-29.json",
+    "sources/books/ordersandmedalsoftheussr.pdf",
+    "sources/pages/ordersandmedalsoftheussr_ocr_extract.txt"
+  ],
+  "remaining": [
+    "Ask rights holder for written permission before image use; no binary download done.",
+    "If broader source scope is resumed, scan Mondvor auxiliary border/gallery/literature/other-sites navigation, which was logged but not exhausted.",
+    "No HTML or public index rebuild performed in this crosswalk task."
+  ],
+  "next_step": "Keep Mondvor image acquisition permission-gated; continue other source-first country sweeps and use the 13 registered families for later independent image sourcing.",
+  "parent_merge_review": {
+    "status": "13 verified family gaps merged to unpictured appendix",
+    "verified_families": 13,
+    "embedded_images": 0,
+    "rights_note": "Mondvor images remain permission-pending; no binary embedded.",
+    "normalized_record": "data/normalized/mondvor_soviet_unpictured_gap_merge_2026-09-29.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Egypt continuation — complete Medals of the World kingdom and republic catalogue sweeps",
+  "source_coverage": {
+    "planned": 11,
+    "completed": 10,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "completed_sources": [
+    {
+      "source_id": "medals_org_egypt_kingdom",
+      "pages_processed": 24,
+      "object_images": 55,
+      "ribbons_or_unlabelled_graphics_excluded": 9,
+      "failures": 0,
+      "formal_rows_added": 15,
+      "complete_local_views_added": 26
+    },
+    {
+      "source_id": "medals_org_egypt_republic",
+      "pages_processed": 56,
+      "object_images": 74,
+      "ribbons_devices_or_unlabelled_graphics_excluded": 53,
+      "failures": 0,
+      "formal_rows_added": 14,
+      "complete_local_views_added": 27,
+      "text_only_candidates": 31
+    }
+  ],
+  "formal_result": {
+    "new_independent_families": 2,
+    "existing_families_with_new_explicit_variants": 12,
+    "new_variant_rows": 29,
+    "new_complete_local_views": 53,
+    "omsa_families_newly_pictured": 1,
+    "omsa_source_backed_unpictured_remaining": 7
+  },
+  "current_egypt_delivery": {
+    "pictured_families": 56,
+    "pictured_variant_rows": 133,
+    "complete_local_views": 209
+  },
+  "important_exclusions": [
+    "Ribbon-only and ribbon-device graphics were cached but not entered as award illustrations.",
+    "The separately listed UN mission medals were not assigned to Egypt because their awarding body is the United Nations.",
+    "Unidentified museum group objects and the status-conflicted combined malaria/cholera object remain outside the formal count."
+  ],
+  "validation": {
+    "site_build": "pass: 1204 official rows, 647 families, 1696 local files",
+    "validate_site": "pass: all links and local resources exist and decode",
+    "regression_audit": "pass: 0 reused image payloads and 0 ribbon-only rows",
+    "interaction_tests": "pass: country filters, arbitrary single-character Chinese search, navigation and image preview"
+  },
+  "next_action": "Continue Egypt with the seven source-backed OMSA families still lacking complete images, starting with the Order of Filaha, while reconciling the 31 Republic catalogue text-only candidates against other complete-image sources."
+}

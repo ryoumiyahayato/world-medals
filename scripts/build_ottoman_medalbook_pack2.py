@@ -29,7 +29,7 @@ NAME_MAP = {
     "Campaign Medal for Montenegro": ("黑山战役奖章", "OTT-MONTENEGRO"),
     "Commemorative Medal for the Defense of Kars": ("卡尔斯防御纪念奖章", "OTT-KARS"),
     "Commemorative Medal of Kaiser Wilhelm": ("威廉二世访问纪念奖章", "OTT-WILHELM-II-COMMEMORATIVE"),
-    "Commemorative Medal of Sashaneli Tufek": ("六膛线步枪射击纪念奖章", "OTT-SASHANELI"),
+    "Commemorative Medal of Sashaneli Tufek": ("六膛线步枪纪念奖章", "OTT-RIFLE-SHOOTING"),
     "Crimea Medal": ("克里米亚战争奖章", "OTT-CRIMEA"),
     "Defense of Kars": ("卡尔斯防御奖章", "OTT-KARS"),
     "General Service Medal": ("一般服务奖章", "OTT-GENERAL-SERVICE-1853"),
@@ -39,13 +39,13 @@ NAME_MAP = {
     "Lifesaving Medal": ("救生奖章", "OTT-LIFESAVING"),
     "Liyakat Medal": ("利亚卡特奖章", "OTT-LIYAKAT"),
     "Medal for Scutari": ("斯库台奖章", "OTT-SCUTARI-1831"),
-    "Medal for the Russian Military Mission": ("俄国军事使团奖章", "OTT-RUSSIAN-MISSION-1833"),
+    "Medal for the Russian Military Mission": ("许恩卡尔伊斯凯莱西条约纪念章", "OTT-HUNKAR-ISKELESI"),
     "Medal of Acre": ("阿卡战役奖章", "OTT-ACRE"),
     "Medal of Iftihar": ("伊夫蒂哈尔奖章", "OTT-IFTIHAR-MEDAL"),
     "Plevne Campaign Medal": ("普列夫纳战役奖章", "OTT-PLEVNA"),
     "Red Crescent Medal": ("红新月奖章", "OTT-RED-CRESCENT"),
     "Sanayi Medal": ("工艺功绩奖章", "OTT-SANAYI"),
-    "Silistria Medal": ("锡利斯特拉奖章", "OTT-SILISTRE"),
+    "Silistria Medal": ("锡利斯特拉奖章", "OTT-SILISTRA"),
     "Sultan's Medal for Egypt": ("苏丹埃及战役奖章", "OTT-EGYPT-1801"),
     "War Medal of 1915": ("奥斯曼战争奖章", "OTT-WAR"),
     "Order of Medjidjie": ("麦吉迪勋章", "OTT-MEDJ"),
@@ -74,14 +74,17 @@ def variant(title: str) -> str:
         ("in Bronze", "铜质／铜色版"), ("in Nickel", "镍质版"),
         ("Small Medal", "小型章"), ("Foreign State", "外国外授型"),
     ]:
-        if token.casefold() in title.casefold():
+        # Roman grades must be matched as complete tokens: otherwise every
+        # "II Class" also becomes I Class and every "IV Class" becomes I Class.
+        pattern = rf"(?<![A-Za-z]){re.escape(token)}(?![A-Za-z])" if token.endswith(" Class") else re.escape(token)
+        if re.search(pattern, title, re.I):
             parts.append(label)
     return "；".join(dict.fromkeys(parts)) if parts else "目录实物所示版型"
 
 
 def date_text(row: dict, family: str) -> str:
     established = {
-        "OTT-MEDJ": "1851年设立；图示版型时期待考", "OTT-OSM": "1862年设立；图示版型时期待考",
+        "OTT-MEDJ": "1852年设立；图示版型时期待考", "OTT-OSM": "1861年设立；图示版型时期待考",
         "OTT-SEFKAT": "1878年设立；图示版型时期待考", "OTT-HOUSE-OSMAN": "1893年设立；图示版型时期待考",
     }
     if family in established:

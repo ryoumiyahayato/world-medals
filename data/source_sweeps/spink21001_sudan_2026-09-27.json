@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "spink-21001-sudan-section",
+  "source_title": "Spink 21001, complete Sudan section",
+  "source_url": "https://storage.spink.com/source/Docs/21001_Lot_List.pdf",
+  "processed_scope": "Printed pages 325-326, lots 1326-1337 inclusive",
+  "status": "section_complete",
+  "lots_processed": [
+    1326,
+    1327,
+    1328,
+    1329,
+    1330,
+    1331,
+    1332,
+    1333,
+    1334,
+    1335,
+    1336,
+    1337
+  ],
+  "candidate_rows": 12,
+  "original_images_downloaded_and_decoded": 12,
+  "failed_image_lots": [],
+  "candidate_file": "data/raw_candidates/spink21001_sudan.jsonl"
+}

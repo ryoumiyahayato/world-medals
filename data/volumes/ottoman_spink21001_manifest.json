@@ -1,0 +1,156 @@
+{
+  "as_of": "2026-09-27",
+  "source": "Spink auction 21001, complete Turkey/Ottoman section, lots 1381–1385",
+  "processed_lots": [
+    1381,
+    1382,
+    1383,
+    1384,
+    1385
+  ],
+  "omitted_as_redundant": {
+    "1383": "Kars and Danube front-only group image; both families already have stronger complete front/back coverage"
+  },
+  "images": [
+    {
+      "view_key": "OTT-SPINK21001-1381-FRONT",
+      "local_path": "assets/images/ottoman_spink21001/medjidie_named_97th_regiment_front.jpg",
+      "source_id": "spink-21001-lot-1381",
+      "source_page_url": "https://spink.com/lot/21001001381",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1381_1.jpg",
+      "download_status": "downloaded_original_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 559,
+      "height": 1200,
+      "sha256": "306e4d512ee02e4211eafb92508530b3c08e86359bd1b1440867eccb46a07acb",
+      "side": "front",
+      "visual_check": "完整绶带、悬挂结构与章体均在画面内"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1382-FRONT",
+      "local_path": "assets/images/ottoman_spink21001/imtiyaz_named_farooq_front.jpg",
+      "source_id": "spink-21001-lot-1382",
+      "source_page_url": "https://spink.com/lot/21001001382",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1382_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 518,
+      "height": 1200,
+      "sha256": "7ca5bc3320ed1b0cae1d1aab9ca725c6a69acd045c066bbb79ffdc8c2a94c10c",
+      "side": "front",
+      "crop_box": [
+        0,
+        0,
+        518,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1382_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1382-BACK",
+      "local_path": "assets/images/ottoman_spink21001/imtiyaz_named_farooq_back.jpg",
+      "source_id": "spink-21001-lot-1382",
+      "source_page_url": "https://spink.com/lot/21001001382",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1382_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 518,
+      "height": 1200,
+      "sha256": "4e738c1ca32313bce8fcf78c3b0dbc9211a2f302c8430b0e3e0aee6c797d2046",
+      "side": "back",
+      "crop_box": [
+        518,
+        0,
+        1036,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1382_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1384-FRONT",
+      "local_path": "assets/images/ottoman_spink21001/yemen_1892_type1_front.jpg",
+      "source_id": "spink-21001-lot-1384",
+      "source_page_url": "https://spink.com/lot/21001001384",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1384_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 501,
+      "height": 1200,
+      "sha256": "5ba8784f126bff4319bb8107f9977ea044c439a3090d6874ac884bcf8f359f2d",
+      "side": "front",
+      "crop_box": [
+        0,
+        0,
+        501,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1384_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1384-BACK",
+      "local_path": "assets/images/ottoman_spink21001/yemen_1892_type1_back.jpg",
+      "source_id": "spink-21001-lot-1384",
+      "source_page_url": "https://spink.com/lot/21001001384",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1384_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 502,
+      "height": 1200,
+      "sha256": "509995235ad4a2274158f14d7c579c1a580ed9467fd6db5f0bea53222e03d3ce",
+      "side": "back",
+      "crop_box": [
+        501,
+        0,
+        1003,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1384_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1385-FRONT",
+      "local_path": "assets/images/ottoman_spink21001/yemen_1892_type2_front.jpg",
+      "source_id": "spink-21001-lot-1385",
+      "source_page_url": "https://spink.com/lot/21001001385",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1385_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 509,
+      "height": 1200,
+      "sha256": "36243b5a488bf0a65c2c0214cd7a047317b112df5d9d001a609eed52a2a287c2",
+      "side": "front",
+      "crop_box": [
+        0,
+        0,
+        509,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1385_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    },
+    {
+      "view_key": "OTT-SPINK21001-1385-BACK",
+      "local_path": "assets/images/ottoman_spink21001/yemen_1892_type2_back.jpg",
+      "source_id": "spink-21001-lot-1385",
+      "source_page_url": "https://spink.com/lot/21001001385",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/21001/21001_1385_1.jpg",
+      "download_status": "cropped_from_source_two-side_composite_and_decoded",
+      "license": "Spink auction archive image; local research use",
+      "width": 510,
+      "height": 1200,
+      "sha256": "c7eb19eb6b036c17b7c0934417bae257075ed5bc1d52d40d3ec98ee742a79208",
+      "side": "back",
+      "crop_box": [
+        509,
+        0,
+        1019,
+        1200
+      ],
+      "raw_composite": "assets/raw/ottoman_spink21001/21001_1385_1.jpg",
+      "visual_check": "章体、吊环及绶带完整；两面来自同一拍品合图"
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-emedals-nile-grand-officer-lattes-1928-01",
+      "record_id": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928",
+      "view_key": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928-V1",
+      "local_path": "assets/images/egypt_emedals_variants/nile-grand-officer-lattes-1928-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-second-class-grand-officer-by-jlattes-c1928-w8614",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8614_6.jpg?v=1781022367",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 73407,
+      "sha256": "cdc6dd89fe92ef77f47858f842bf4c64c3366d2f33c9ad6768710784c86cdf81",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-nile-grand-officer-lattes-1928-02",
+      "record_id": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928",
+      "view_key": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928-V2",
+      "local_path": "assets/images/egypt_emedals_variants/nile-grand-officer-lattes-1928-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-second-class-grand-officer-by-jlattes-c1928-w8614",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8614_8.jpg?v=1781022369",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 65572,
+      "sha256": "7c9af378805dbd879e25372be41348e354637b5cf23217429fc28027e6830013",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-nile-fifth-lattes-1925-01",
+      "record_id": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925",
+      "view_key": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925-V1",
+      "local_path": "assets/images/egypt_emedals_variants/nile-fifth-lattes-1925-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-v-class-by-lattes-w8539",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8539_2.jpg?v=1770311013",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 60199,
+      "sha256": "c88dae8a246479fa4a6b931425be005f07d52231025df84fc9e2309ee7e5aae4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-nile-fifth-lattes-1925-02",
+      "record_id": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925",
+      "view_key": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925-V2",
+      "local_path": "assets/images/egypt_emedals_variants/nile-fifth-lattes-1925-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-v-class-by-lattes-w8539",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8539_4.jpg?v=1770311014",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 55027,
+      "sha256": "22c8c746f63ecc508864b5bc0bb4a21d2be8db969372f4f727cc803774693ef4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-nile-grand-cross-star-lattes-1925-01",
+      "record_id": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925",
+      "view_key": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925-V1",
+      "local_path": "assets/images/egypt_emedals_variants/nile-grand-cross-star-lattes-1925-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-grand-cross-star-by-lattes-c1925-w8510",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8510_2.jpg?v=1773672415",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 97803,
+      "sha256": "21da9f65443cfcdbed54b2f78ef7a86a39628b4a9b3d0d56480982f5c008322b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-nile-grand-cross-star-lattes-1925-02",
+      "record_id": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925",
+      "view_key": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925-V2",
+      "local_path": "assets/images/egypt_emedals_variants/nile-grand-cross-star-lattes-1925-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-the-nile-grand-cross-star-by-lattes-c1925-w8510",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/eMedals_W8510_4.jpg?v=1773672417",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 71322,
+      "sha256": "74e5b8850f7412ff695fa5f11022716cf264d39526f04dc8de4c801e8a84e80e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-badge-bichay-01",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY-V1",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-badge-bichay-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-grand-officers-set-by-bichay-w8182",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC9147_b2675569-0255-46d5-8c83-af4faa903f0b.jpg?v=1740161877",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 102195,
+      "sha256": "77f78112f862f821e783c56046aed2fb2b39936842868ecee22fb692f9d55632",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-badge-bichay-02",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY-V2",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-badge-bichay-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-grand-officers-set-by-bichay-w8182",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC9149_b5ffa7df-690e-4c12-a01a-704739425f46.jpg?v=1740161880",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 100272,
+      "sha256": "379c9aa713f5223bb0fa770b8895a85d9e23b0e6be37e67c5ba31609a1a30334",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-star-bichay-01",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY-V1",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-star-bichay-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-grand-officers-set-by-bichay-w8182",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC9151.jpg?v=1740161877",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 103889,
+      "sha256": "246c843146a5c187e4880d777d12b17985150420e63ede4ec826c49221e5c26d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-star-bichay-02",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY-V2",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-star-bichay-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-grand-officers-set-by-bichay-w8182",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC9153_edb4bdb1-c661-4798-8a51-b807e246a17b.jpg?v=1740161878",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 73400,
+      "sha256": "da6ec9cafbb45bff7d83ddb761f8e06c80d2947b028b9379cb36516993e7b45e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-honour-star-type2-bomisa-01",
+      "record_id": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA",
+      "view_key": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA-V1",
+      "local_path": "assets/images/egypt_emedals_variants/honour-star-type2-bomisa-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-star-of-honour-one-class-type-ii-by-bomisa-of-spain-m0400-37",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC5201.jpg?v=1721411541",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 93840,
+      "sha256": "45a517316e9c26a6f66ae454705372324d53434a8e4829fd3f58ecd74b830f85",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-honour-star-type2-bomisa-02",
+      "record_id": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA",
+      "view_key": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA-V2",
+      "local_path": "assets/images/egypt_emedals_variants/honour-star-type2-bomisa-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-star-of-honour-one-class-type-ii-by-bomisa-of-spain-m0400-37",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/MNC5206_ea4a5609-0bb8-4661-8180-93c5960b6f0b.jpg?v=1721411539",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 56359,
+      "sha256": "abcb5607ede20df26cc83cac3bba9f153c08f2055aaa100f514cce380d205aa0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-badge-fuchs-01",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS-V1",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-badge-fuchs-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-type-i-grand-officer-with-case-by-z-fuchs-w6486rl2",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/ci19_4780_1_1_1.jpg?v=1695846167",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 73682,
+      "sha256": "d5d8100a2451c9d1dcf4832734d95f39c39b6cd2f77b475bc8e248211bd3c2a0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-badge-fuchs-02",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS-V2",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-badge-fuchs-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-type-i-grand-officer-with-case-by-z-fuchs-w6486rl2",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/ci19_4781_1_1_1.jpg?v=1695846165",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 52054,
+      "sha256": "a7a63770fc0036af52ed10a26495970679906a087da0d0dded5c1bbf05dbbe77",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-star-fuchs-01",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS-V1",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-star-fuchs-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-type-i-grand-officer-with-case-by-z-fuchs-w6486rl2",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/ci19_4784_1_1_1.jpg?v=1695846174",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 121453,
+      "sha256": "6329ce846406557650e654dca13ef074dda20b006a9db244151a257b98f3a32a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-republic-grand-officer-star-fuchs-02",
+      "record_id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS",
+      "view_key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS-V2",
+      "local_path": "assets/images/egypt_emedals_variants/republic-grand-officer-star-fuchs-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-the-republic-type-i-grand-officer-with-case-by-z-fuchs-w6486rl2",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/ci19_4785_1_1_1.jpg?v=1695846179",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 85934,
+      "sha256": "9d309bfa133846cd8ec8ded1b53cc7471dd6665aaa16e08a88b0e7c7cbd0ac17",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-merit-second-badge-bichay-1960-01",
+      "record_id": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960",
+      "view_key": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960-V1",
+      "local_path": "assets/images/egypt_emedals_variants/merit-second-badge-bichay-1960-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-merit-ii-class-with-case-by-fahmy-t-bichay-c1960-w6397",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/tst_1_1_lo_077.jpg?v=1699384419",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 93603,
+      "sha256": "0b3d8b92274ea08c2494af9df6a0f9bca41c24c47c7a318bb1b22c2138bce573",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-merit-second-badge-bichay-1960-02",
+      "record_id": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960",
+      "view_key": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960-V2",
+      "local_path": "assets/images/egypt_emedals_variants/merit-second-badge-bichay-1960-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-merit-ii-class-with-case-by-fahmy-t-bichay-c1960-w6397",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/tst_1_1_lo_078.jpg?v=1699384418",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 77834,
+      "sha256": "aedc6dd24c256beca26385ed355065819b4ff3c02374bd3b925cb909f5349f2a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-merit-second-star-bichay-1960-01",
+      "record_id": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960",
+      "view_key": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960-V1",
+      "local_path": "assets/images/egypt_emedals_variants/merit-second-star-bichay-1960-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-merit-ii-class-with-case-by-fahmy-t-bichay-c1960-w6397",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/tst_1_1_lo_080.jpg?v=1699384420",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 151652,
+      "sha256": "6efbce44b5e2578de58d0e57495468302d1941e88a468d84c0d6f278a80b74df",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-merit-second-star-bichay-1960-02",
+      "record_id": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960",
+      "view_key": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960-V2",
+      "local_path": "assets/images/egypt_emedals_variants/merit-second-star-bichay-1960-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-merit-ii-class-with-case-by-fahmy-t-bichay-c1960-w6397",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/tst_1_1_lo_081.jpg?v=1699384424",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 125038,
+      "sha256": "9581261b9c358fd867aa7200df6ac3c8f8a2dc9927c480252af507864c0a0a45",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-ismail-gold-commander-lattes-1925-01",
+      "record_id": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925",
+      "view_key": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925-V1",
+      "local_path": "assets/images/egypt_emedals_variants/ismail-gold-commander-lattes-1925-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-ismail-in-gold-1st-class-commander-by-jlattes-c1925-eg814",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/m18_6615.jpg?v=1692877336",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 103579,
+      "sha256": "4cfe77608a394a00cb8129998bf255d781064481c1c2073ea831725781a16858",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-ismail-gold-commander-lattes-1925-02",
+      "record_id": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925",
+      "view_key": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925-V2",
+      "local_path": "assets/images/egypt_emedals_variants/ismail-gold-commander-lattes-1925-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-kingdom-an-order-of-ismail-in-gold-1st-class-commander-by-jlattes-c1925-eg814",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/m18_6616.jpg?v=1692877342",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 67116,
+      "sha256": "12b6df7691e3a114ad77b5e690fe3c62da71805b87a7b5c3692a2178c345b0f4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-ismail-officer-lattes-01",
+      "record_id": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES",
+      "view_key": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES-V1",
+      "local_path": "assets/images/egypt_emedals_variants/ismail-officer-lattes-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-a-french-made-order-of-ismail-officer-by-lattes-eg137",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/o_433.jpg?v=1692873136",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 129881,
+      "sha256": "d5d686257ffb4eb08e2a809f27d54fffaae4d4441907f5db11a126f802470c5f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-ismail-officer-lattes-02",
+      "record_id": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES",
+      "view_key": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES-V2",
+      "local_path": "assets/images/egypt_emedals_variants/ismail-officer-lattes-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-a-french-made-order-of-ismail-officer-by-lattes-eg137",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/o_434.jpg?v=1692873119",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 90240,
+      "sha256": "4a71ec202bea18395386d7db16e83d0c52535c6cc2fdd6f409b0d05f846aa52d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-sport-commander-bichay-01",
+      "record_id": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY",
+      "view_key": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY-V1",
+      "local_path": "assets/images/egypt_emedals_variants/sport-commander-bichay-01.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-sport-i-class-commander-by-bichay-w4002",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/c_6085.jpg?v=1701288736",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 156440,
+      "sha256": "a4785d2f5c8da07620ed4105405fb75040248cddc4866504f862f864ad531b97",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-sport-commander-bichay-02",
+      "record_id": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY",
+      "view_key": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY-V2",
+      "local_path": "assets/images/egypt_emedals_variants/sport-commander-bichay-02.jpg",
+      "source_page": "https://www.emedals.com/products/egypt-republic-an-order-of-sport-i-class-commander-by-bichay-w4002",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/c_6086.jpg?v=1701288734",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 90084,
+      "sha256": "9d5d11c119d16f0355fd2ac3710e590c4c834c27ccaacf523eb679f0b3a9bca8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-distinguished-service-bronze-01",
+      "record_id": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE",
+      "view_key": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE-V1",
+      "local_path": "assets/images/egypt_emedals_variants/distinguished-service-bronze-01.jpg",
+      "source_page": "https://www.emedals.com/products/an-egyptian-distinguished-service-medal-w2307",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/img_02_1e5c067d-85aa-4484-a8cb-079bdc88ff5e.jpg?v=1692844380",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 81898,
+      "sha256": "7f8892e78c7d822564987997fc61689df437f0f6abd05f22e673c7db3cffb299",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-emedals-distinguished-service-bronze-02",
+      "record_id": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE",
+      "view_key": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE-V2",
+      "local_path": "assets/images/egypt_emedals_variants/distinguished-service-bronze-02.jpg",
+      "source_page": "https://www.emedals.com/products/an-egyptian-distinguished-service-medal-w2307",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/an_egyptian_dist_540091bbc953b.jpg?v=1692844363",
+      "artist": "eMedals / source collection",
+      "license": "All rights reserved; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 75658,
+      "sha256": "639ae0423bd7f7d2f19b1208186857cb9e188b45d6a7462ba71953f6e4985740",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

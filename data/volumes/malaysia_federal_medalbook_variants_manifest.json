@@ -1,0 +1,241 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-medalbook-000-01",
+      "record_id": "MYS-FED-ACTIVE-SERVICE-MEDALBOOK-000",
+      "view_key": "MYS-FED-ACTIVE-SERVICE-MEDALBOOK-000-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/000_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/medals-decorations/active-service-medal/active-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/7ca4fb99f37da641982966b167241ceab3dbfb4b/store/fit/1000/750/f10b765b9990894772d5d988ef499e7185fc85a4d8daf50bab01f85cd69f/PKB.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 65648,
+      "sha256": "221623daddb3e091d44caa5d1f6b7ac39ca302a18987023be9e8c19d08f3091b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-000-03",
+      "record_id": "MYS-FED-ACTIVE-SERVICE-MEDALBOOK-000",
+      "view_key": "MYS-FED-ACTIVE-SERVICE-MEDALBOOK-000-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/000_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/medals-decorations/active-service-medal/active-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/804c592f1df3bc26e138bf7990fc2c14140d1328/store/fit/528/348/ac1c79bd7e79dfa97e9de84564971261e462a38f6ff910097dba714e5e5d/PKB+Ob.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 32129,
+      "sha256": "dff52cb89da443d442986bbca917b27ff3b8c8baa986436eaa9ede02c5a2b1b8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-017-02",
+      "record_id": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-017",
+      "view_key": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-017-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/017_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-loyalty-to-the-crown-of-malaysia/order-of-loyalty-to-the-crown-of-malaysia-commander-4",
+      "image_url": "https://www.medalbook.com/attachments/43e62ea0f1eef23412c8ce30ad1474a936e0b21b/store/fit/1000/750/1a24da6cb158155733f6d6cf1a1203ba8f3d4a4db68caf71e415829dccae/Loyal+Crown+Com.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 212149,
+      "sha256": "4aa0a2818eb4a9bdedd76f35309ca84efe8a8ae21fc6982fa0c61ef02a2dfdf2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-017-01",
+      "record_id": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-017",
+      "view_key": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-017-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/017_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-loyalty-to-the-crown-of-malaysia/order-of-loyalty-to-the-crown-of-malaysia-commander-4",
+      "image_url": "https://www.medalbook.com/attachments/181847090e551babe828618133eafa05c0c434cc/store/fit/528/348/5e9d59c1c9bad5cf4d4df1c798b94f50cddef0bcdb8f25eb46c7326a2e86/Loyal+Crown+Com+Rev.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 54852,
+      "sha256": "8c9ea8b2d318f213edbaa07452462c0a6041f85f1c9314663edcc74b016df934",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-020-01",
+      "record_id": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-020",
+      "view_key": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-020-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/020_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-loyalty-to-the-crown-of-malaysia/order-of-loyalty-to-the-crown-of-malaysia-grand-commander-2",
+      "image_url": "https://www.medalbook.com/attachments/558bc6e65e747200b5bad608bed8e7bb9d102492/store/fit/528/348/e942429b54440116f538feb7de2c4d24bbb3839ac3be8d4544cee30bcc2e/crown+of+Malaysia+GC+Badge+ME81.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        267,
+        348
+      ],
+      "bytes": 27589,
+      "sha256": "730ac680a231f28ea9bc24bb6ae33c1243f0808d2cfc86f3a1c9bf60628d91a4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-021-01",
+      "record_id": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-021",
+      "view_key": "MYS-FED-LOYALTY-CROWN-MEDALBOOK-021-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/021_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-loyalty-to-the-crown-of-malaysia/order-of-loyalty-to-the-crown-of-malaysia-grand-commander-breast-star-3",
+      "image_url": "https://www.medalbook.com/attachments/86876fb1898edceaf7a4c9bbce0b865ccc19a0ac/store/fit/528/348/01caa15c8db52313788ee5546353bcc5101bdb160e440c48afe71a8b4ed5/crown+of+Malaysia+GC+Star+ME81.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        343,
+        348
+      ],
+      "bytes": 37452,
+      "sha256": "ab3191e3a52a13480b601cd455dbe0b249dca6d733c1faf3d799e86a33386ac9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-042-01",
+      "record_id": "MYS-FED-CROWN-REALM-MEDALBOOK-042",
+      "view_key": "MYS-FED-CROWN-REALM-MEDALBOOK-042-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/042_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-crown-of-the-realm/order-of-the-crown-of-the-realm-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/077ee1dfa55f2723c2343567bd55121bf8d3202a/store/fit/528/348/5e9a7659920609c0b037b89efc4a7b7b20b7a0cce8bb293f887c86c5a8fa/Collar+of+the+Realm+ME29.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        528,
+        302
+      ],
+      "bytes": 44403,
+      "sha256": "73ccc909fa198ccf615a3ead04840d863db2bac175d6c8beb27642b44d8bf2e2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-043-01",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-043",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-043-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/043_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-commander-4",
+      "image_url": "https://www.medalbook.com/attachments/602a3f5a72bfd676c1f3aa6f4f53773b7172b718/store/fit/528/348/aafa1e728c0c4b77be08c29aaa5961f945d6ce2ab38bcf36506bebbb50f7/Malaysia+Defender+of+Realm+Com+Badge+ME102.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        314,
+        348
+      ],
+      "bytes": 44571,
+      "sha256": "4f9e3deee2aa3d137a97c43f6242b52423a4abd98c278211d9a511dd9733cc97",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-044-01",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-044",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-044-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/044_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-commander-breast-star-5",
+      "image_url": "https://www.medalbook.com/attachments/3d23f4cada8c9ea098896f58ab4344c838d367b2/store/fit/1000/750/83338f764e2194d2bd1b0ba7aec9e2908dafd5a928376afcafb97a15f285/Malaysia+Defender+of+Realm+IIC+BS+ME102.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        829,
+        750
+      ],
+      "bytes": 121547,
+      "sha256": "45439ba51322849461614fb669753d9aadebda773c77eec72676494c677101a8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-049-04",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-049",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-049-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/049_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-member-8",
+      "image_url": "https://www.medalbook.com/attachments/9f5b2b71704e1fa597fc8ff700041c58ec6dbefe/store/fit/1000/750/e254dacf4e446de2fcaa04c52228a98012f2f86329d8e1541824ca1c3f5e/Order+of+the+Defender+of+the+Realm%2C+Member+1.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 120106,
+      "sha256": "4a7fbc4869f15e2125026de96a252383a2daea4cc7e05449e33b6b54744f5570",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-049-02",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-049",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-049-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/049_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-member-8",
+      "image_url": "https://www.medalbook.com/attachments/1cb50960dacd54cfe77715f0aee1b040a76235e1/store/fit/528/348/3d1d9ded94781141cacdf480e06a97884c9e9ab68a0b6d56a470d9352157/Order+of+the+Defender+of+the+Realm%2C+Member+2.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25396,
+      "sha256": "ea914ef9765b4d4bfd2ea57ec4498ae5125d98018dbf786cd1031b67ad225f29",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-051-01",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-051",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-051-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/051_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-silver-medal-9",
+      "image_url": "https://www.medalbook.com/attachments/4cbb96bf1b74b50e703363b879746c7bab023e2e/store/fit/528/348/4510ad681fe7223517d78cb7d3a906c074358b9fe1a4fb9200911fe2cb32/Malaysia+Defender+of+Realm+Silver+Medal+LPM.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 63464,
+      "sha256": "b9540b1cb6a176b0361c537423149dc99808d6915684a527f2a0d4402172686c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-051-02",
+      "record_id": "MYS-FED-DEFENDER-REALM-MEDALBOOK-051",
+      "view_key": "MYS-FED-DEFENDER-REALM-MEDALBOOK-051-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/051_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/federal-awards/orders/order-of-the-defender-of-the-realm/order-of-the-defender-of-the-realm-silver-medal-9",
+      "image_url": "https://www.medalbook.com/attachments/609a216eaf9b8a00b08e75e1b884f25441f6078e/store/fit/528/348/0afa1e34d71dd73db6d51a082185659509a8946d4cdb70b7368c2f6c870e/Malaysia+Defender+of+Realm+Silver+Medal+LPM+Rev.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 42656,
+      "sha256": "69b47382ed951c4f6b9879da5eb7f9ddf79da21b108ed395f7d2600a1a1ee1b9",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

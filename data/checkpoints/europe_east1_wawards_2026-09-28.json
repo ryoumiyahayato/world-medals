@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-28",
+  "batch": "Ukraine and Moldova complete country-index ingestion",
+  "status": "merged_and_validated",
+  "sources": {
+    "ukraine": {"object_pages": 3, "downloaded_images": 16, "formal_rows": 3, "families": 3, "coverage_warning": "First catalogue is narrow; official differential remains."},
+    "moldova": {"object_pages": 12, "downloaded_images": 38, "formal_rows": 12, "families": 12}
+  },
+  "batch_totals": {"processed_pages": 15, "downloaded_images": 54, "formal_rows": 15, "families": 15},
+  "quality": {"contact_sheets_reviewed": 2, "ribbon_only_rows": 0, "duplicate_image_payloads": 0},
+  "site_after_merge": {"official_rows": 2722, "families": 1595, "decoded_local_images": 3939},
+  "next": ["Complete Belarus, Lithuania and Latvia catalogue scans.", "Run Ukraine and Moldova official differentials.", "Continue Soviet Union full-system gap scan."]
+}

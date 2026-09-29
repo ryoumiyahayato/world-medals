@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "苏丹：Spink拍卖档案明确等级补充",
+  "records": [
+    {
+      "id": "SDN-SPINK-20003-1504-MERIT-II",
+      "family": "MENA7-MEDAL-FOR-MERIT",
+      "country_zh": "苏丹",
+      "name": "苏丹功绩奖章",
+      "original": "Medal of Merit, II Class",
+      "date": "苏丹民主共和国时期；2020年拍卖记录",
+      "variant": "二等；银质；完整实物正面；由四件组图裁取",
+      "views": [
+        {
+          "key": "SDN-SPINK-20003-1504-MERIT-II-VIEW-1",
+          "label": "二等完整正面"
+        }
+      ],
+      "source_ids": [
+        "spink-20003-lot1504"
+      ],
+      "image_kind": "object_photo_crop",
+      "html_eligible": true,
+      "supersedes_id": "SDN-MB-PENDING-MEDAL-FOR-MERIT-II-CLASS"
+    }
+  ]
+}

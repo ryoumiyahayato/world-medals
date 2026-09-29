@@ -1,0 +1,849 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "日本 · 内閣府现行勋章与褒章官方图式批量",
+  "issuer": "日本国政府・内閣府賞勲局",
+  "period": "明治设立至今连续体系；不将幕府早期虚构为空体系",
+  "records": [
+    {
+      "id": "JPN-CAO-CHRYSANTHEMUM_COLLAR",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "大勋位菊花章颈饰",
+      "original": "大勲位菊花章頸飾 / Collar of the Supreme Order of the Chrysanthemum",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "颈饰；官方图式；完整颈链与中央章饰",
+      "views": [
+        {
+          "key": "JPN-CAO-CHRYSANTHEMUM_COLLAR-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/chrysanthemum_collar.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-supreme-chrysanthemum",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/supreme-orders-of-the-chrysanthemum.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-CHRYSANTHEMUM_GRAND_CORDON",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "大勋位菊花大绶章",
+      "original": "大勲位菊花大綬章 / Grand Cordon of the Supreme Order of the Chrysanthemum",
+      "date": "1876年（明治9年）制定；1888年后与颈饰并列",
+      "variant": "大绶章；官方图式；完整章体、绶带与悬挂结构",
+      "views": [
+        {
+          "key": "JPN-CAO-CHRYSANTHEMUM_GRAND_CORDON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/chrysanthemum_grand_cordon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-supreme-chrysanthemum",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/supreme-orders-of-the-chrysanthemum.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PAULOWNIA_GRAND_CORDON",
+      "family": "JPN-ORDER-PAULOWNIA",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "桐花大绶章",
+      "original": "桐花大綬章 / Grand Cordon of the Order of the Paulownia Flowers",
+      "date": "1888年（明治21年）作为旭日桐花大绶章设立；2003年独立为现行勋章",
+      "variant": "大绶章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-PAULOWNIA_GRAND_CORDON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/paulownia_grand_cordon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-paulownia",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/grand-cordon-of-the-order-of-the-paulownia-flowers.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_GRAND_CORDON",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日章",
+      "original": "旭日大綬章 / Grand Cordon of the Order of the Rising Sun",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "大绶章",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_GRAND_CORDON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_grand_cordon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_GOLD_SILVER_STAR",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日重光章",
+      "original": "旭日重光章 / Order of the Rising Sun, Gold and Silver Star",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "重光章；金银星；颈挂式",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_GOLD_SILVER_STAR-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_gold_silver_star.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_GOLD_NECK",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日中绶章",
+      "original": "旭日中綬章 / Order of the Rising Sun, Gold Rays with Neck Ribbon",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "中绶章；金色光芒；颈绶式",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_GOLD_NECK-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_gold_neck.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_GOLD_ROSETTE",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日小绶章",
+      "original": "旭日小綬章 / Order of the Rising Sun, Gold Rays with Rosette",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "小绶章；金色光芒；绶花式",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_GOLD_ROSETTE-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_gold_rosette.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_GOLD_SILVER_RAYS",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日双光章",
+      "original": "旭日双光章 / Order of the Rising Sun, Gold and Silver Rays",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "双光章；金银光芒",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_GOLD_SILVER_RAYS-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_gold_silver_rays.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-RISING_SUN_SILVER_RAYS",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "旭日单光章",
+      "original": "旭日単光章 / Order of the Rising Sun, Silver Rays",
+      "date": "1875年（明治8年）制定；日本近代连续授予体系",
+      "variant": "单光章；银色光芒",
+      "views": [
+        {
+          "key": "JPN-CAO-RISING_SUN_SILVER_RAYS-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/rising_sun_silver_rays.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-rising-sun",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_GRAND_CORDON",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝章",
+      "original": "瑞宝大綬章 / Grand Cordon of the Order of the Sacred Treasure",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "大绶章；金银光芒与宝镜中心",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_GRAND_CORDON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_grand_cordon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_GOLD_SILVER_STAR",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝重光章",
+      "original": "瑞宝重光章 / Order of the Sacred Treasure, Gold and Silver Star",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "重光章；金银星；颈挂式",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_GOLD_SILVER_STAR-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_gold_silver_star.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_GOLD_NECK",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝中绶章",
+      "original": "瑞宝中綬章 / Order of the Sacred Treasure, Gold Rays with Neck Ribbon",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "中绶章；金色光芒；颈绶式",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_GOLD_NECK-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_gold_neck.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_GOLD_ROSETTE",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝小绶章",
+      "original": "瑞宝小綬章 / Order of the Sacred Treasure, Gold Rays with Rosette",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "小绶章；金色光芒；绶花式",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_GOLD_ROSETTE-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_gold_rosette.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_GOLD_SILVER_RAYS",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝双光章",
+      "original": "瑞宝双光章 / Order of the Sacred Treasure, Gold and Silver Rays",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "双光章；金银光芒",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_GOLD_SILVER_RAYS-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_gold_silver_rays.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-SACRED_TREASURE_SILVER_RAYS",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "瑞宝单光章",
+      "original": "瑞宝単光章 / Order of the Sacred Treasure, Silver Rays",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "单光章；银色光芒",
+      "views": [
+        {
+          "key": "JPN-CAO-SACRED_TREASURE_SILVER_RAYS-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/sacred_treasure_silver_rays.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-sacred-treasure",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-ORDER_OF_CULTURE",
+      "family": "JPN-ORDER-CULTURE",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "文化勋章",
+      "original": "文化勲章 / Order of Culture",
+      "date": "1937年（昭和12年）制定；日本近代连续授予体系",
+      "variant": "单级勋章；官方图式；橘花与叶饰完整",
+      "views": [
+        {
+          "key": "JPN-CAO-ORDER_OF_CULTURE-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/order_of_culture.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-culture",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/order-of-culture.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_GRAND_CORDON",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠章",
+      "original": "宝冠大綬章 / Grand Cordon of the Order of the Precious Crown",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "大绶章；宝冠式章体",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_GRAND_CORDON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_grand_cordon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_PEONY",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠牡丹章",
+      "original": "宝冠牡丹章 / Order of the Precious Crown, Peony",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "牡丹章；第二级别版型",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_PEONY-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_peony.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_BUTTERFLY",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠白蝶章",
+      "original": "宝冠白蝶章 / Order of the Precious Crown, Butterfly",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "白蝶章；第三级别版型",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_BUTTERFLY-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_butterfly.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_WISTARIA",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠藤花章",
+      "original": "宝冠藤花章 / Order of the Precious Crown, Wistaria",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "藤花章；第四级别版型",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_WISTARIA-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_wistaria.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_APRICOT",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠杏叶章",
+      "original": "宝冠杏葉章 / Order of the Precious Crown, Apricot",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "杏叶章；第五级别版型",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_APRICOT-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_apricot.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-PRECIOUS_CROWN_RIPPLE",
+      "family": "JPN-ORDER-PRECIOUS-CROWN",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "宝冠波光章",
+      "original": "宝冠波光章 / Order of the Precious Crown, Ripple",
+      "date": "1888年（明治21年）制定；日本近代连续授予体系",
+      "variant": "波光章；第六级别版型",
+      "views": [
+        {
+          "key": "JPN-CAO-PRECIOUS_CROWN_RIPPLE-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/precious_crown_ripple.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-precious-crown",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_RED_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-RED-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "红绶褒章",
+      "original": "紅綬褒章 / Medal with Red Ribbon",
+      "date": "1881年（明治14年）制定",
+      "variant": "红绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_RED_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_red_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_GREEN_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-GREEN-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "绿绶褒章",
+      "original": "緑綬褒章 / Medal with Green Ribbon",
+      "date": "1881年（明治14年）制定",
+      "variant": "绿绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_GREEN_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_green_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_YELLOW_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-YELLOW-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "黄绶褒章",
+      "original": "黄綬褒章 / Medal with Yellow Ribbon",
+      "date": "1955年（昭和30年）制定",
+      "variant": "黄绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_YELLOW_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_yellow_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_PURPLE_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-PURPLE-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "紫绶褒章",
+      "original": "紫綬褒章 / Medal with Purple Ribbon",
+      "date": "1955年（昭和30年）制定",
+      "variant": "紫绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_PURPLE_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_purple_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_BLUE_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-BLUE-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "蓝绶褒章",
+      "original": "藍綬褒章 / Medal with Blue Ribbon",
+      "date": "1881年（明治14年）制定",
+      "variant": "蓝绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_BLUE_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_blue_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-CAO-MEDAL_DARK_BLUE_RIBBON",
+      "family": "JPN-MEDAL-HONOUR-DARK-BLUE-RIBBON",
+      "country_zh": "日本",
+      "country_original": "Japan / 日本",
+      "issuer": "日本国政府・内閣府賞勲局",
+      "period": "日本近代连续国家体系（明治至今）",
+      "name": "绀绶褒章",
+      "original": "紺綬褒章 / Medal with Dark Blue Ribbon",
+      "date": "1918年（大正7年）制定",
+      "variant": "绀绶褒章；官方图式；完整章体与绶带",
+      "views": [
+        {
+          "key": "JPN-CAO-MEDAL_DARK_BLUE_RIBBON-OFFICIAL",
+          "label": "官方图式 · 完整正面",
+          "path": "assets/images/japan_cabinet_official_2026-09-28/medal_dark_blue_ribbon.jpg"
+        }
+      ],
+      "source_ids": [
+        "jpn-cabinet-medals-of-honour",
+        "jpn-wikipedia-orders-decorations-medals-list"
+      ],
+      "source_pages": [
+        "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan"
+      ],
+      "image_kind": "official_design",
+      "rights_note": "Cabinet Office, Government of Japan public webpage; retained with source URL and attribution.",
+      "html_eligible": true
+    }
+  ],
+  "source_note": "国家奖励体系总表由多语言 Wikipedia 作候选入口，逐项回到日本内阁府 Types of Decorations/Types of Medals 及各对象页面核对。"
+}

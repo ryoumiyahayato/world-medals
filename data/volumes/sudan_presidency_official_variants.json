@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-09-27",
+  "records": [
+    {
+      "id": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL",
+      "family": "MENA7-ORDER-OF-LOYAL-SON-OF-SUDAN",
+      "country_zh": "苏丹",
+      "name": "苏丹忠诚之子勋章",
+      "original": "وسام إبن السودان البار / Order of Loyal Son of Sudan",
+      "date": "苏丹民主共和国时期",
+      "variant": "标准章；官方图式",
+      "views": [
+        {
+          "key": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL-VIEW-1",
+          "label": "官方图式"
+        }
+      ],
+      "source_ids": [
+        "sudan-presidency-medal-son-sudan-righteous"
+      ],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    }
+  ]
+}

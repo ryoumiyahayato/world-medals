@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "ukraine",
+  "scope_label": "Ukraine national award system",
+  "sources": [
+    {
+      "source_id": "wawards_ukraine_complete_catalogue",
+      "source_name": "World Awards - Ukraine country catalogue",
+      "base_url": "https://wawards.org/en/ukraine.html",
+      "source_type": "country_award_catalogue",
+      "languages": ["en"],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "country_index_to_object_pages_and_full_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "3/3 linked object pages and 16 exposed images processed; 3 representative families merged.",
+      "candidate_file": "data/raw_candidates/wawards_ukraine.jsonl"
+    },
+    {
+      "source_id": "ukraine_official_state_awards",
+      "source_name": "Ukraine official state awards and legislation",
+      "source_type": "official_award_directory_and_regulations",
+      "languages": ["uk"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "official_directory_differential",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 2, "completed": 1, "partial": 0, "blocked": 0, "not_started": 1},
+  "next_action": "Use the official national award list as the authoritative family differential; the first catalogue is visibly narrow."
+}

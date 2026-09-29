@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Laos — complete MedalBook catalogue and complete current World Awards lists",
+  "status": "two_complete_sources_merged_official_and_commons_differentials_retained",
+  "source_coverage": {
+    "planned_sources": 5,
+    "completed_sources": 2,
+    "partial_sources": 0,
+    "blocked_sources": 0,
+    "not_started_sources": 3,
+    "medalbook_object_pages": 70,
+    "wawards_object_pages": 3,
+    "downloaded_source_images": 75,
+    "source_image_failures": 0
+  },
+  "formal_merge": {
+    "new_rows": 19,
+    "net_new_families": 8,
+    "local_complete_views": 34,
+    "unpictured_medalbook_object_pages": 53,
+    "duplicate_payloads_promoted": 0,
+    "ribbon_only_views_promoted": 0,
+    "documents_details_and_redundant_views_excluded": 41
+  },
+  "site_after_merge": {
+    "main_rows": 2207,
+    "main_families": 1178,
+    "country_or_period_sections": 118,
+    "decoded_local_files": 3351,
+    "unique_gallery_image_paths": 3276,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Continue the Asia queue with the next accessible Southeast Asian complete catalogue while retaining Laos official and Commons differentials."
+}

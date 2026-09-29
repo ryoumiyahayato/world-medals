@@ -1,0 +1,69 @@
+{
+  "scope": "法国现行、历史政权及与法国殖民／海外体系有关的勋章、勋饰与奖章；殖民授予主体在归并时分开",
+  "as_of": "2026-09-29",
+  "language": ["fr"],
+  "source_plan": {
+    "planned": 2,
+    "completed": 2,
+    "partial": 0,
+    "not_started": 0
+  },
+  "sources": [
+    {
+      "id": "FR-SAMLHOC-FULL-PHALERISTIQUE",
+      "title": "SAMLHOC — France Phaléristique",
+      "type": "专业专题目录／历史图鉴",
+      "url": "https://www.samlhoc.fr/phaleristique/",
+      "sitemap": "https://www.samlhoc.fr/phaleristique-sitemap.xml",
+      "priority": "high",
+      "status": "completed_with_rights_restriction",
+      "last_checked": "2026-09-29",
+      "coverage": "Les ordres、Les décorations、Les médailles 三树；含现行、已废止、革命与王朝时期、维希时期、殖民／海外与属地线索",
+      "coverage_boundary": "站点地图930页中目标三树777页，全部缓存；附录、宗教医院骑士团与2026年后续新增页面不在本批约定边界。",
+      "pagination": "WordPress XML sitemap；目标三树无遗漏页",
+      "download_method": "站点地图逐页缓存；页面内同域原图引用去重下载；最多4并发、严格超时、SHA-256去重",
+      "page_counts": {"sitemap_total": 930, "target": 777, "completed": 777, "failed": 0},
+      "image_counts": {"references": 896, "downloaded": 896, "decoded": 896, "unique_sha256": 895, "errors": 0},
+      "candidate_counts": {"raw_groups": 194, "category_or_context_exclusions": 6, "normalized_family_candidates": 173, "families_with_any_image": 172, "families_without_any_image": 1},
+      "rights": "网站声明保留全部权利；图片仅作内部研究缓存与差集定位，除非另获许可或找到开放替代图，不直接公开发布。",
+      "raw_candidates": "data/raw_candidates/france_samlhoc_full_2026-09-29.jsonl",
+      "normalized_crosswalk": "data/normalized/france_samlhoc_full_2026-09-29.json",
+      "gap_queue": "data/queues/france_samlhoc_gap_queue_2026-09-29.json",
+      "sweep_state": "data/source_sweeps/france_samlhoc_full_2026-09-29.json",
+      "cache": "sources/cache/france_samlhoc_full_2026-09-29",
+      "images": "assets/raw/france_samlhoc_full_2026-09-29"
+    },
+    {
+      "id": "FR-GCLH-OFFICIAL-FULL",
+      "title": "Grande chancellerie de la Légion d'honneur / Musée de la Légion d'honneur",
+      "type": "官方授奖机构与国家博物馆",
+      "url": "https://www.legiondhonneur.fr/fr",
+      "sitemap": "https://www.legiondhonneur.fr/sitemap.xml",
+      "priority": "highest_for_official_facts",
+      "status": "completed",
+      "last_checked": "2026-09-29",
+      "coverage": "官方勋赏栏目、荣誉军团、军事奖章、国家功绩勋章、恐怖主义受害者国家认可奖章、博物馆栏目及勋赏／展览／出版专题页",
+      "coverage_boundary": "站点地图552页中按官方勋赏、博物馆、法勒里斯蒂克、勋章与出版主题纳入236页；普通人物肖像、学校和行政招聘页不作无界抓取。",
+      "pagination": "Drupal XML sitemap；目标相关页无失败",
+      "download_method": "相关页逐页缓存并下载同域图片；另取得4张核心章体原始文件地址",
+      "page_counts": {"sitemap_total": 552, "target": 236, "completed": 236, "failed": 0},
+      "image_counts": {"references": 481, "downloaded": 481, "decoded": 481, "unique_sha256": 455, "errors": 0},
+      "official_volume": {"families": 4, "variant_rows": 4, "complete_front_back_images": 4, "new_families_against_prebatch": 2},
+      "rights": "未发现全站开放再利用许可；保留对象页、原图地址及机构出处，不作权利保证。",
+      "raw_candidates": "data/raw_candidates/france_legiondhonneur_full_2026-09-29.jsonl",
+      "sweep_state": "data/source_sweeps/france_legiondhonneur_full_2026-09-29.json",
+      "cache": "sources/cache/france_legiondhonneur_full_2026-09-29",
+      "images": "assets/raw/france_legiondhonneur_full_2026-09-29",
+      "merge_volume": "data/volumes/france_official_core_2026-09-29.json"
+    }
+  ],
+  "cross_source_result": {
+    "samlhoc_normalized_family_candidates": 173,
+    "mapped_to_known_local_families_after_official_batch": 21,
+    "unresolved_difference_candidates": 152,
+    "unresolved_without_any_local_image": 1,
+    "confirmed_mergeable_new_families": 2,
+    "confirmed_mergeable_variant_rows": 4,
+    "confirmed_mergeable_complete_images": 4
+  }
+}

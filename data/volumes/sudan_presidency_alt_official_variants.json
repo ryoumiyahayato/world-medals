@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-09-27",
+  "records": [
+    {
+      "id": "SDN-PRESIDENCY-SPORT-GOLD-OFFICIAL",
+      "family": "SDN-ORDER-OF-SPORT",
+      "country_zh": "苏丹",
+      "name": "苏丹体育勋章",
+      "original": "وسام الرياضة - ذهبي / Order of Sport, Gold",
+      "date": "苏丹共和国时期",
+      "variant": "金质／金色版；颈绶章；官方图式",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-SPORT-GOLD-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-sports-gold-20170707074445"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-ORDER-BRAVERY-GOLD-OFFICIAL",
+      "family": "SDN-WAWARDS-ORDER-OF-BRAVERY",
+      "country_zh": "苏丹",
+      "name": "勇敢勋章",
+      "original": "وسام الشجاعة - ذهبي / Order of Bravery, Gold",
+      "date": "苏丹共和国时期",
+      "variant": "金质／金色版；官方图式",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-ORDER-BRAVERY-GOLD-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-courage-gold-20170707075134"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-MEDAL-BRAVERY-SILVER-OFFICIAL",
+      "family": "SDN-WAWARDS-MEDAL-OF-BRAVERY",
+      "country_zh": "苏丹",
+      "name": "勇敢奖章",
+      "original": "نوط الشجاعة - فضي / Medal of Bravery, Silver",
+      "date": "苏丹共和国时期",
+      "variant": "银质／银色版；官方图式",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-MEDAL-BRAVERY-SILVER-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-courage-silver-20170903121143"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-MEDAL-BRAVERY-BRONZE-OFFICIAL",
+      "family": "SDN-WAWARDS-MEDAL-OF-BRAVERY",
+      "country_zh": "苏丹",
+      "name": "勇敢奖章",
+      "original": "نوط الشجاعة - برونزي / Medal of Bravery, Bronze",
+      "date": "苏丹共和国时期",
+      "variant": "铜质／铜色版；官方图式正反面",
+      "views": [
+        {"key": "SDN-PRESIDENCY-ALT-MEDAL-BRAVERY-BRONZE-FRONT-OFFICIAL", "label": "官方图式·正面"},
+        {"key": "SDN-PRESIDENCY-ALT-MEDAL-BRAVERY-BRONZE-REVERSE-OFFICIAL", "label": "官方图式·反面"}
+      ],
+      "source_ids": [
+        "sudan-presidency-alt-medal-courage-bronze-20170707075129",
+        "sudan-presidency-alt-medal-courage-b-20170902100235"
+      ],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-REPUBLIC-OFFICIAL-UNRESOLVED-GRADE",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC",
+      "country_zh": "苏丹",
+      "name": "苏丹共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1961年11月16日设立",
+      "variant": "官方图式；图示等级待考",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-REPUBLIC-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-republic-20170707074649"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-TWO-NILES-OFFICIAL-UNRESOLVED-GRADE",
+      "family": "MENA7-ORDER-OF-THE-TWO-NILES",
+      "country_zh": "苏丹",
+      "name": "两尼罗河勋章",
+      "original": "وسام النيلين / Order of the Two Niles",
+      "date": "1961年11月16日设立",
+      "variant": "星章式官方图式；具体等级待考",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-TWO-NILES-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-two-niles-20170707074450"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-PRESIDENCY-ORDER-MERIT-OFFICIAL-UNRESOLVED-GRADE",
+      "family": "MENA7-ORDER-OF-MERIT-OF-THE-SUDANESE-REPUBLIC",
+      "country_zh": "苏丹",
+      "name": "苏丹共和国功绩勋章",
+      "original": "وسام الجدارة / Order of Merit",
+      "date": "苏丹共和国时期",
+      "variant": "官方图式；具体等级待考",
+      "views": [{"key": "SDN-PRESIDENCY-ALT-ORDER-MERIT-OFFICIAL", "label": "官方图式"}],
+      "source_ids": ["sudan-presidency-alt-medal-of-merit-20170903121401"],
+      "image_kind": "official_diagram",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-09-29",
+  "batch": "Netherlands WMI full-directory sweep and first pictured batch",
+  "status": "batch_artifacts_created_scope_partial",
+  "plan": [
+    "Read latest checkpoint/Europe queue and existing Netherlands index scope.",
+    "Enumerate the full WMI Netherlands Text List, open every linked award page, and capture source dates, grade captions and original image URLs.",
+    "Compare candidate names against local volumes and index, then download/decode complete front photos for distinct formal state/royal-house variants.",
+    "Write isolated raw candidates, source matrix, standard volume, image manifest and checkpoint; leave index/site builders unchanged."
+  ],
+  "completed": [
+    "WMI master list: 34/34 linked award pages opened; 33 distinct complete-front image candidates identified.",
+    "Name/date/class cross-check: official Royal House overview read for the three chivalric orders; official Military Order page confirms 30 April 1815 and four classes.",
+    "Existing-scope differential: no Dutch award section exists in the current index (four “荷兰” strings are the queued navigation label); no Netherlands-specific volume or matching family record exists. One MENA volume includes a 1820 historical plate listing Dutch orders, not a Netherlands specimen row.",
+    "Downloaded and decoded 21 unique local JPEG front views; contact-sheet visual check confirmed full object outlines in all 21."
+  ],
+  "partially_completed": [
+    "21 pictured variant rows in 12 award families are ready for the later unified merge. WMI exposed 33 complete-front candidates: 21 were selected, 8 additional grade variants among selected families remain unmerged, and 4 candidates are excluded from the formal national volume (the unofficial Golden Ark and Red Cross award). Twenty other object pages have no complete front image.",
+    "WMI image files are 250 px long-edge low-resolution references; attribution and redistribution rights are unstated and remain unverified.",
+    "The English national inventory overview was read for scope/differential, but candidate-level normalization and category/object-page image review remain."
+  ],
+  "not_started": [
+    "Recursive Commons national award category/file-page sweep.",
+    "Dutch-language specialist directory object sweep.",
+    "Official government order-of-wear annex extraction and historical/official crosswalk."
+  ],
+  "blocked": [
+    "Opening the official government decision page via the current web reader returned an internal error; source is retained for retry via an accessible official route."
+  ],
+  "counts": {
+    "source_pages_scanned": 34,
+    "master_list_candidates": 34,
+    "raw_candidate_records": 35,
+    "families_in_batch": 12,
+    "variant_rows": 21,
+    "complete_local_images": 21,
+    "unresolved_unpictured_or_unmerged_candidates": 28,
+    "unpictured_object_pages": 20,
+    "unmerged_in_scope_front_variants": 8,
+    "excluded_front_candidates_out_of_scope": 4
+  },
+  "source_coverage": {
+    "planned": 7,
+    "completed": 2,
+    "partial": 2,
+    "blocked": 1,
+    "not_started": 2
+  },
+  "differential": {
+    "existing_netherlands_volume_records": 0,
+    "existing_netherlands_body_rows": 0,
+    "index_queue_mentions": 1,
+    "nonduplicate_cross_scope_references": 1
+  },
+  "outputs": [
+    "wmi_netherlands_directory",
+    "data/raw_candidates/netherlands_medals_org_master_2026-09-29.jsonl",
+    "data/source_atlas/netherlands_source_matrix.json",
+    "data/volumes/netherlands_wmi_batch1_2026-09-29.json",
+    "data/volumes/netherlands_wmi_batch1_2026-09-29_manifest.json",
+    "data/checkpoints/netherlands_wmi_batch1_2026-09-29.json",
+    "assets/images/netherlands_wmi_batch1_2026-09-29"
+  ],
+  "next_action": "Continue Dutch-language and Commons bulk sources, then resolve the remaining master-list awards and variants in a second batch before the unified HTML build."
+}

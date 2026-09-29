@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "medalbook_north_korea",
+  "source_name": "MedalBook — North Korea complete public catalogue",
+  "seed_url": "https://www.medalbook.com/asia/korea/north-korea-1",
+  "status": "completed",
+  "planned_index_pages": 3,
+  "processed_index_pages": 3,
+  "index_page_candidate_counts": {
+    "https://www.medalbook.com/asia/korea/north-korea-1": 63,
+    "https://www.medalbook.com/asia/korea/north-korea/orders": 41,
+    "https://www.medalbook.com/asia/korea/north-korea/medals-decorations": 20
+  },
+  "discovered_item_pages": 63,
+  "processed_item_pages": 63,
+  "item_pages_with_images": 26,
+  "original_image_urls": 81,
+  "failed_pages": [],
+  "remaining_pages": 0,
+  "raw_candidate_file": "data/raw_candidates/medalbook_north_korea.jsonl",
+  "cache_directory": "sources/pages/medalbook_north_korea",
+  "completion_rule": "Every configured index/category page and every discovered North Korea object/version page were fetched."
+}

@@ -1,0 +1,55 @@
+{
+  "as_of": "2026-09-29",
+  "issuer": "法国共和国／法国历代国家制度",
+  "period": "1802年至今（官方现行章体核验包）",
+  "records": [
+    {
+      "id": "FRA-LEGION-HONOUR-CURRENT-CHEVALIER-OFFICIAL",
+      "family": "FRA-LEGION-HONOUR",
+      "name": "法国荣誉军团勋章",
+      "original": "Ordre national de la Légion d'honneur",
+      "date": "1802年设立；图示为现行共和国型",
+      "variant": "骑士级挂章；官方完整正背合图；红色绶带，无玫瑰花结；共和国女神像／交叉三色旗版",
+      "views": [
+        {"key": "FRA-LEGION-HONOUR-CURRENT-CHEVALIER-OFFICIAL-FRONT-BACK", "label": "完整正背合图"}
+      ],
+      "source_ids": ["FR-GCLH-LEGION-HISTORY", "FR-GCLH-LEGION-MAIN"]
+    },
+    {
+      "id": "FRA-MEDAILLE-MILITAIRE-CURRENT-OFFICIAL",
+      "family": "FRA-III-MEDAILLE-MILITAIRE",
+      "name": "法国军事奖章",
+      "original": "Médaille militaire",
+      "date": "1852年1月22日设立；图示为现行共和国型",
+      "variant": "现行标准挂章；官方完整正背合图；银质直径28毫米；黄底绿边绶带；正面共和国女神、背面“VALEUR ET DISCIPLINE”",
+      "views": [
+        {"key": "FRA-MEDAILLE-MILITAIRE-CURRENT-OFFICIAL-FRONT-BACK", "label": "完整正背合图"}
+      ],
+      "source_ids": ["FR-GCLH-MEDAILLE-MILITAIRE"]
+    },
+    {
+      "id": "FRA-ORDRE-NATIONAL-MERITE-CURRENT-CHEVALIER-OFFICIAL",
+      "family": "FRA-ORDRE-NATIONAL-MERITE",
+      "name": "法国国家功绩勋章",
+      "original": "Ordre national du Mérite",
+      "date": "1963年12月3日设立；图示为现行型",
+      "variant": "骑士级挂章；官方完整正背合图；蓝色绶带，无玫瑰花结；六组双尖蓝珐琅星章",
+      "views": [
+        {"key": "FRA-ORDRE-NATIONAL-MERITE-CURRENT-CHEVALIER-OFFICIAL-FRONT-BACK", "label": "完整正背合图"}
+      ],
+      "source_ids": ["FR-GCLH-ORDRE-NATIONAL-MERITE"]
+    },
+    {
+      "id": "FRA-MEDAILLE-VICTIMES-TERRORISME-CURRENT-OFFICIAL",
+      "family": "FRA-MEDAILLE-VICTIMES-TERRORISME",
+      "name": "法国恐怖主义受害者国家认可奖章",
+      "original": "Médaille nationale de reconnaissance aux victimes du terrorisme",
+      "date": "2016年7月12日设立；可追溯授予至1974年1月1日",
+      "variant": "单一奖章型；官方完整正背合图；白色绶带；五瓣白色花形与绿色橄榄叶；正面共和国雕像、背面交叉三色旗",
+      "views": [
+        {"key": "FRA-MEDAILLE-VICTIMES-TERRORISME-CURRENT-OFFICIAL-FRONT-BACK", "label": "完整正背合图"}
+      ],
+      "source_ids": ["FR-GCLH-MEDAILLE-VICTIMES-TERRORISME"]
+    }
+  ]
+}

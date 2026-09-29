@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "greece",
+  "scope_label": "Greek kingdom and republic award systems",
+  "sources": [
+    {
+      "source_id": "medalsorg-greece-national-text-list",
+      "source_name": "World Medals Index ODM of Greece",
+      "base_url": "https://www.medals.org.uk/greece/greece-text.htm",
+      "source_type": "illustrated_award_inventory",
+      "languages": ["en", "el"],
+      "scope_dates": "Kingdom and Republic of Greece",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "text_list_to_all_linked_object_pages_and_selected_complete_front_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "74/74 linked award pages inventoried; 20 distinct pictured families selected and decoded; the source-explicit unawarded gallantry medal was excluded; other unpictured families remain in the source boundary.",
+      "volume_file": "data/volumes/greece_medals_org_fast_2026-09-28.json",
+      "manifest_file": "data/volumes/greece_medals_org_fast_2026-09-28_manifest.json",
+      "image_directory": "assets/images/greece_medals_org_fast_2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 1, "completed": 1, "partial": 0, "blocked": 0, "not_started": 0},
+  "next_action": "Resolve unpictured master-list families and replace low-resolution source images when stronger museum or official images are found."
+}

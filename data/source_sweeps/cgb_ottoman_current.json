@@ -1,0 +1,51 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "cgb_ottoman_current",
+  "source_name": "CGB global archive search",
+  "queries": [
+    "OTTOMAN",
+    "TURQUIE MEDAILLE",
+    "ABDUL MEDJID MEDAILLE",
+    "ORDRE MEDJIDIE",
+    "ORDRE OSMANIE"
+  ],
+  "query_result_counts": {
+    "OTTOMAN": 134,
+    "TURQUIE MEDAILLE": 55,
+    "ABDUL MEDJID MEDAILLE": 5,
+    "ORDRE MEDJIDIE": 3,
+    "ORDRE OSMANIE": 1
+  },
+  "status": "complete_current_query",
+  "search_pages": 1,
+  "all_results": 180,
+  "medal_department_results": 93,
+  "item_pages_fetched": 93,
+  "item_pages_failed": 0,
+  "ottoman_scope_candidates": 6,
+  "ottoman_related_candidates": 22,
+  "false_positive_medal_pages": 65,
+  "pagination_note": "The current AJAX result returned the full result set in one response.",
+  "normalization_result": {
+    "new_formal_families": 0,
+    "new_formal_variant_rows": 1,
+    "existing_formal_rows_with_additional_high_resolution_view": 1,
+    "new_related_families": 2,
+    "new_related_variant_rows": 3,
+    "ingested": [
+      "fme_917718 — Order of Osmanieh third-class neck badge",
+      "fme_1069661 — 1877 Russo-Turkish War Medal second-type high-resolution front/reverse composite",
+      "fme_1138818 — 1917 Red Crescent exhibition contributor medal, related section",
+      "fme_691382 — 1866 Suez concession ratification commemorative, related section",
+      "fme_768171 / fme_829035 — one shared looped unofficial constitutional commemorative object, related section"
+    ],
+    "excluded_or_deduplicated": [
+      "fme_1079650 — damaged/incomplete-enamel Medjidie badge; no catalogue gap filled",
+      "foreign mediation, protection, liberation and portrait medals mentioning the Ottoman Empire — retained as related or out-of-scope evidence, not Ottoman awards",
+      "modern Turkish Republic and generic world-nations pieces — out of Ottoman scope"
+    ]
+  },
+  "raw_candidate_file": "data/raw_candidates/cgb_ottoman.jsonl",
+  "cache_directory": "sources/pages/cgb_ottoman",
+  "failures": []
+}

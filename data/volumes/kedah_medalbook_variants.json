@@ -1,0 +1,86 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "吉打苏丹国",
+  "records": [
+    {
+      "id": "MYS-KEDAH-DISTINGUISHED-SERVICE-STAR-MEDALBOOK-238",
+      "family": "MYS-KEDAH-DISTINGUISHED-SERVICE-STAR",
+      "country_zh": "吉打苏丹国",
+      "name": "吉打卓越服务星章",
+      "original": "The State of Kedah Distinguished Service Star",
+      "date": "1952年设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "MYS-KEDAH-DISTINGUISHED-SERVICE-STAR-MEDALBOOK-238-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-7747fdcca886ca26"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-271",
+      "family": "MYS-KEDAH-ROYAL-FAMILY",
+      "country_zh": "吉打苏丹国",
+      "name": "吉打王家家族勋章",
+      "original": "Royal Family Order of Kedah, Badge",
+      "date": "1964年设立",
+      "variant": "挂章",
+      "views": [
+        {
+          "key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-271-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-f8c754b90a5ea9bf"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-272",
+      "family": "MYS-KEDAH-ROYAL-FAMILY",
+      "country_zh": "吉打苏丹国",
+      "name": "吉打王家家族勋章",
+      "original": "Royal Family Order of Kedah, Breast Star",
+      "date": "1964年设立",
+      "variant": "星章",
+      "views": [
+        {
+          "key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-272-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-4283b3c898742eec"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-273",
+      "family": "MYS-KEDAH-ROYAL-FAMILY",
+      "country_zh": "吉打苏丹国",
+      "name": "吉打王家家族勋章",
+      "original": "Royal Family Order of Kedah, Collar",
+      "date": "1964年设立",
+      "variant": "项链章",
+      "views": [
+        {
+          "key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-273-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-b37ba43679267472"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

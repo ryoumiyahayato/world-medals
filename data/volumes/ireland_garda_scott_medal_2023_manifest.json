@@ -1,0 +1,111 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "爱尔兰国家警察正式英勇奖励",
+  "batch_id": "ireland_garda_scott_medal_2023",
+  "sources": [
+    {
+      "source_id": "IE-GARDA-SCOTT-HISTORY",
+      "source_name": "An Garda Síochána — The Scott Medal",
+      "base_url": "https://www.garda.ie/en/about-us/our-history/the-scott-medal/",
+      "source_type": "official_national_police_history",
+      "languages": [
+        "en"
+      ],
+      "status": "completed_visible_page",
+      "content_coverage": "1923年创设背景、章面说明、授予条件与现行颁发机构。"
+    },
+    {
+      "source_id": "IE-GARDA-SCOTT-BOOKLET-2023",
+      "source_name": "Scott Medal Award Ceremony Booklet 2023",
+      "base_url": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf",
+      "local_copy": "sources/books/ireland_garda_scott_medal_awards_2023.pdf",
+      "source_type": "official_national_police_ceremony_booklet",
+      "languages": [
+        "en"
+      ],
+      "status": "completed_relevant_24_page_booklet",
+      "content_coverage": "第19页金、银、铜三级完整实物合照及三级授予标准。"
+    }
+  ],
+  "images": [
+    {
+      "view_key": "IE-GARDA-SCOTT-01-V01",
+      "local_path": "assets/images/ireland_garda_scott_medal_2023/scott-medal-gold-official-2023.jpg",
+      "source_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "image_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "original_url": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf",
+      "source_object": "official booklet PDF page 19, image object Im0; crop box 176,0,351,305",
+      "width": 175,
+      "height": 305,
+      "bytes": 26701,
+      "sha256": "ec89cbbdd9f2809c7f03be83f32d12075290c0f2e9322cbfd26a8e55e8f67463",
+      "content_type": "image/jpeg",
+      "image_kind": "官方实物合照裁取的完整单枚正面；低清参考",
+      "author_or_institution": "An Garda Síochána",
+      "license": "未见逐图开放许可；本地研究使用",
+      "pdf_page": 19,
+      "crop_box_pixels": [
+        176,
+        0,
+        351,
+        305
+      ],
+      "source_embedded_image": "assets/raw/ireland_garda_scott_medal_2023/page-19-image-01.jpg"
+    },
+    {
+      "view_key": "IE-GARDA-SCOTT-02-V01",
+      "local_path": "assets/images/ireland_garda_scott_medal_2023/scott-medal-silver-official-2023.jpg",
+      "source_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "image_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "original_url": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf",
+      "source_object": "official booklet PDF page 19, image object Im0; crop box 34,0,205,305",
+      "width": 171,
+      "height": 305,
+      "bytes": 22972,
+      "sha256": "78834ac6de93f7c045ac954e25329c0a21a9572bf405c507fbf2c02d4440bb23",
+      "content_type": "image/jpeg",
+      "image_kind": "官方实物合照裁取的完整单枚正面；低清参考",
+      "author_or_institution": "An Garda Síochána",
+      "license": "未见逐图开放许可；本地研究使用",
+      "pdf_page": 19,
+      "crop_box_pixels": [
+        34,
+        0,
+        205,
+        305
+      ],
+      "source_embedded_image": "assets/raw/ireland_garda_scott_medal_2023/page-19-image-01.jpg"
+    },
+    {
+      "view_key": "IE-GARDA-SCOTT-03-V01",
+      "local_path": "assets/images/ireland_garda_scott_medal_2023/scott-medal-bronze-official-2023.jpg",
+      "source_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "image_page": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf#page=19",
+      "original_url": "https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/scott-medal-award-ceremony-booklet-2023.pdf",
+      "source_object": "official booklet PDF page 19, image object Im0; crop box 317,0,508,305",
+      "width": 191,
+      "height": 305,
+      "bytes": 19013,
+      "sha256": "017585a24ff5579695f1c7483bcb61a816c66ec0892f2ec1f16b86db0ee65555",
+      "content_type": "image/jpeg",
+      "image_kind": "官方实物合照裁取的完整单枚正面；低清参考",
+      "author_or_institution": "An Garda Síochána",
+      "license": "未见逐图开放许可；本地研究使用",
+      "pdf_page": 19,
+      "crop_box_pixels": [
+        317,
+        0,
+        508,
+        305
+      ],
+      "source_embedded_image": "assets/raw/ireland_garda_scott_medal_2023/page-19-image-01.jpg"
+    }
+  ],
+  "validation": {
+    "record_count": 3,
+    "family_count": 1,
+    "decoded_image_count": 3,
+    "all_images_exist": true,
+    "all_decoded": true
+  }
+}

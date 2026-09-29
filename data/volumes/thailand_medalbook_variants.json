@@ -1,0 +1,1434 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "泰国 · MedalBook 勋奖章等级与版型",
+  "records": [
+    {
+      "id": "THA-MB-001",
+      "family": "THA-BUDDHA-2500",
+      "country_zh": "泰国",
+      "name": "佛历二千五百年纪念奖章",
+      "original": "2500th Year of Buddha Celebration, Medal",
+      "date": "1957年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-001-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-001-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-cfedaaa692e581f7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-002",
+      "family": "THA-BORDER-SERVICE",
+      "country_zh": "泰国",
+      "name": "边境服务奖章",
+      "original": "Border Service Medal",
+      "date": "1955年设立",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-002-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-002-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-b6f59ef490d6e3ca"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-009",
+      "family": "THA-CHAKRA-MALA",
+      "country_zh": "泰国",
+      "name": "查克拉玛拉奖章",
+      "original": "Chakra Mala, Medal",
+      "date": "1905年设立",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-009-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-009-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-83e6206a26be02a6"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-010",
+      "family": "THA-CHAKRABARTI-MALA",
+      "country_zh": "泰国",
+      "name": "查克拉巴蒂玛拉奖章",
+      "original": "Chakrabarti Mala, Medal",
+      "date": "1912年设立",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-010-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-010-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-e82e5865f1b99e51"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-013",
+      "family": "THA-JUBILEE-COMMEMORATIVE",
+      "country_zh": "泰国",
+      "name": "登基银禧纪念奖章",
+      "original": "Commemorative Jubilee, Medal",
+      "date": "1971年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-013-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-013-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-08f106173a6645b6"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-014",
+      "family": "THA-CROWN-PRINCE-INVESTITURE",
+      "country_zh": "泰国",
+      "name": "哇集拉隆功王储册立纪念奖章",
+      "original": "Investiture of H.R.H. Prince Vajiralongkorn as Crown Prince, Medal",
+      "date": "1972年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-014-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-014-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-13709874ec3284dc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-015",
+      "family": "THA-RAMA-V-EUROPE-VISIT",
+      "country_zh": "泰国",
+      "name": "拉玛五世欧洲访问纪念奖章",
+      "original": "Visit of King Chulalongkorn the Great (Rama V) to Europe, Medal",
+      "date": "1897／1907年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-015-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-015-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-ecac703ceaca2116"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-016",
+      "family": "THA-ROYAL-STATE-VISIT-US-EUROPE",
+      "country_zh": "泰国",
+      "name": "国王访美及访欧纪念奖章",
+      "original": "Royal State Visit to the United States of America and Europe, Medal",
+      "date": "1960—1961年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-016-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-016-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-8dd7d065e66c9a9a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-020",
+      "family": "THA-PRINCESS-SIRINDHORN-ELEVATION",
+      "country_zh": "泰国",
+      "name": "诗琳通公主晋封纪念奖章",
+      "original": "Commemorative Medal on the Occasion of the Elevation of H.R.H. the Princess Sirindhorn to the Title of Princess Maha Chakri (Princess Royal), Medal",
+      "date": "1977年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-020-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-020-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-5bd8097988b7b52c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-023",
+      "family": "THA-RAMA-IX-CORONATION",
+      "country_zh": "泰国",
+      "name": "拉玛九世加冕纪念奖章",
+      "original": "Coronation of King Rama IX, Medal in Silver",
+      "date": "1950年",
+      "variant": "银质奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-023-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-023-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-bc72b99d2be279c4"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-024",
+      "family": "THA-RAMA-VII-MEDAL",
+      "country_zh": "泰国",
+      "name": "拉玛七世奖章",
+      "original": "King Rama VII, Medal in Silver",
+      "date": "1926年",
+      "variant": "银质奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-024-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-024-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-d120ab0e88d1e9d5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-029",
+      "family": "THA-DUSHID-MALA",
+      "country_zh": "泰国",
+      "name": "杜西迪玛拉奖章",
+      "original": "Dushid Mala, Medal, II Class",
+      "date": "1882年设立",
+      "variant": "二等；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-029-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-029-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-4a076211fbdfa3c0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-033",
+      "family": "THA-FREEMEN-SAFEGUARDING",
+      "country_zh": "泰国",
+      "name": "自由民保卫奖章",
+      "original": "Freemen Safeguarding Medal, II Class",
+      "date": "1969年设立",
+      "variant": "二等；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-033-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-033-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-ffc7be0182782148"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-034",
+      "family": "THA-GREAT-WAR-VICTORY",
+      "country_zh": "泰国",
+      "name": "第一次世界大战胜利奖章",
+      "original": "Great War Victory, Medal",
+      "date": "1918—1921年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-034-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-034-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-adad80a40595229d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-036",
+      "family": "THA-CONSTITUTION-SAFEGUARDING",
+      "country_zh": "泰国",
+      "name": "保卫宪法奖章",
+      "original": "Safeguarding the Constitution, Medal",
+      "date": "1932年后",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-036-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-036-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-9ffb98606c59c8b5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-042",
+      "family": "THA-RAJARUCHI",
+      "country_zh": "泰国",
+      "name": "拉乍鲁吉奖章",
+      "original": "Rajaruchi, Medal",
+      "date": "1897年设立",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-042-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-042-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-c5c5ea0f6704bcee"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-045",
+      "family": "THA-RED-CROSS-APPRECIATION",
+      "country_zh": "泰国",
+      "name": "红十字表彰奖章",
+      "original": "Red Cross Appreciation, Medal in Gold, I Class",
+      "date": "设立日期待考",
+      "variant": "一等金质版；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-045-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-045-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-1c3d39fb80cda702"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-046",
+      "family": "THA-RED-CROSS-APPRECIATION",
+      "country_zh": "泰国",
+      "name": "红十字表彰奖章",
+      "original": "Red Cross Appreciation, Medal in Silver, II Class",
+      "date": "设立日期待考",
+      "variant": "二等银质版；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-046-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-046-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-ff1fa6fe251b27fd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-055",
+      "family": "THA-ROYAL-CIPHER",
+      "country_zh": "泰国",
+      "name": "王室徽号奖章",
+      "original": "The Royal Cipher, Medal, I Class",
+      "date": "2020年设立",
+      "variant": "一等；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-055-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-055-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-e85ccbd84230fa66"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-069",
+      "family": "THA-CHULA-CHOM-KLAO",
+      "country_zh": "泰国",
+      "name": "朱拉朱姆告勋章",
+      "original": "Order of Chula Chom Klao, Grand Cordon Breast Star",
+      "date": "1873年设立",
+      "variant": "特等大绶章星章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-069-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-e82e9bafd110410b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-070",
+      "family": "THA-CHULA-CHOM-KLAO",
+      "country_zh": "泰国",
+      "name": "朱拉朱姆告勋章",
+      "original": "Order of Chula Chom Klao, Grand Cordon, Collar",
+      "date": "1873年设立",
+      "variant": "特等大绶章项链；完整套件与章饰",
+      "views": [
+        {
+          "key": "THA-MB-070-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-070-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-4fa39b596e200152"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-072",
+      "family": "THA-CHULA-CHOM-KLAO",
+      "country_zh": "泰国",
+      "name": "朱拉朱姆告勋章",
+      "original": "Order of Chula Chom Klao, Grand Cross Breast Star, I Class",
+      "date": "1873年设立",
+      "variant": "一等大十字星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-072-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-072-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-95c0f28237bb8ec7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-073",
+      "family": "THA-CHULA-CHOM-KLAO",
+      "country_zh": "泰国",
+      "name": "朱拉朱姆告勋章",
+      "original": "Order of Chula Chom Klao, Grand Cross, I Class",
+      "date": "1873年设立",
+      "variant": "一等大十字绶章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-073-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-073-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-19e13b0c9f9f36e1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-075",
+      "family": "THA-CHULA-CHOM-KLAO",
+      "country_zh": "泰国",
+      "name": "朱拉朱姆告勋章",
+      "original": "Order of Chula Chom Klao, Officer, IV Class",
+      "date": "1873年设立",
+      "variant": "四等军官级；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-075-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-85fe6b88bee00ba2"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-083",
+      "family": "THA-ORDER-OF-RAMA",
+      "country_zh": "泰国",
+      "name": "拉玛勋章",
+      "original": "Order of Rama Knight, Grand Commander, I Class",
+      "date": "1918年设立",
+      "variant": "一等大指挥官级；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-083-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-6bf587ef6435837d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-088",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Grand Cross Breast Star, I Class",
+      "date": "1869年设立",
+      "variant": "一等大十字星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-088-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-088-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-e53e3a7a3f401db3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-089",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type I, Commander, III Class",
+      "date": "1869—1948年型",
+      "variant": "第一型三等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-089-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-089-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-431733416bc65680"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-090",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type I, Grand Commander Breast Star, II Class",
+      "date": "1869—1948年型",
+      "variant": "第一型二等大指挥官星章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-090-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-5004599751e0b7ce"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-091",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type I, Grand Commander, II Class",
+      "date": "1869—1948年型",
+      "variant": "第一型二等大指挥官绶章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-091-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-091-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-2eaf848a68fe98d9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-094",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type I, Grand Cross, I Class",
+      "date": "1869—1948年型",
+      "variant": "第一型一等大十字绶章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-094-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-5565ba8ac1f72857"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-096",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type I, Medal in Gold, VI Class",
+      "date": "1869—1948年型",
+      "variant": "第一型六等金质奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-096-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-096-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-821351cf46839282"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-099",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Commander Breast Star, II Class",
+      "date": "1948年后型",
+      "variant": "第二型二等大指挥官星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-099-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-099-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-2824c8bd2c6829ae"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-100",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Commander, II Class",
+      "date": "1948年后型",
+      "variant": "第二型二等大指挥官绶章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-100-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-100-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-b50147000e300aab"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-101",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Cordon Breast Star",
+      "date": "1948年后型",
+      "variant": "第二型特等大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-101-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-101-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-841660eb69bbb127"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-102",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Cordon Knight",
+      "date": "1948年后型",
+      "variant": "第二型特等大绶章章饰；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-102-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-102-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-200db54e00be4e60"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-103",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Cross Breast Star, I Class",
+      "date": "1948年后型",
+      "variant": "第二型一等大十字星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-103-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-103-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-a011d223900f63fc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-104",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Grand Cross, I Class",
+      "date": "1948年后型",
+      "variant": "第二型一等大十字套件；完整实物合图",
+      "views": [
+        {
+          "key": "THA-MB-104-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-0179352739dcf85f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-105",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Knight Commander, III Class",
+      "date": "1948年后型",
+      "variant": "第二型三等骑士指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-105-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-105-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-c5c4b2cbeee7b2d3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-106",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Knight, V Class",
+      "date": "1948年后型",
+      "variant": "第二型五等骑士级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-106-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-106-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-6ba8998653e628ac"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-107",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Medal in Gold, VI Class",
+      "date": "1948年后型",
+      "variant": "第二型六等金质奖章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-107-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-b4e8ad60eacfdbba"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-108",
+      "family": "THA-CROWN",
+      "country_zh": "泰国",
+      "name": "泰王冠勋章",
+      "original": "Order of the Crown of Thailand, Type II, Medal in Silver, VII Class",
+      "date": "1948年后型",
+      "variant": "第二型七等银质奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-108-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-108-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-5b913d6c9248a0ec"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-111",
+      "family": "THA-DIREKGUNABHORN",
+      "country_zh": "泰国",
+      "name": "迪雷古那蓬勋章",
+      "original": "Order of the Direkgunabhorn, Companion, IV Class",
+      "date": "1991年设立",
+      "variant": "四等同袍级；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-111-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-03fd25d7b6e6b183"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-119",
+      "family": "THA-NINE-GEMS",
+      "country_zh": "泰国",
+      "name": "九宝石勋章",
+      "original": "Order of the Nine Gems, Badge",
+      "date": "1851年设立",
+      "variant": "章饰；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-119-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-068fe50562827343"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-120",
+      "family": "THA-NINE-GEMS",
+      "country_zh": "泰国",
+      "name": "九宝石勋章",
+      "original": "Order of the Nine Gems, Knight Ring",
+      "date": "1851年设立",
+      "variant": "骑士戒指；完整实物",
+      "views": [
+        {
+          "key": "THA-MB-120-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-70ee27baa19e9fff"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-121",
+      "family": "THA-NINE-GEMS",
+      "country_zh": "泰国",
+      "name": "九宝石勋章",
+      "original": "Order of the Nine Gems, Pendant Breast Star",
+      "date": "1851年设立",
+      "variant": "佩挂式星章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-121-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-027a8f33862685d8"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-122",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Grand Commander Breast Star, II Class",
+      "date": "1861年设立",
+      "variant": "二等大指挥官星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-122-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-122-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-53dbabc5afce2fbc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-125",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type I, Star of Order, II Class",
+      "date": "1861—1869年型",
+      "variant": "第一型二等星章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-125-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-9d598f0d02e072d6"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-127",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Badge, I Class",
+      "date": "1861—1873年型",
+      "variant": "第二型一等章饰；历史图录插图",
+      "views": [
+        {
+          "key": "THA-MB-127-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-12eb97d5ea43c964"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-128",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type II, Badge, II Class",
+      "date": "1861—1873年型",
+      "variant": "第二型二等章饰；历史图录插图",
+      "views": [
+        {
+          "key": "THA-MB-128-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-e34ba8981157b5c8"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-132",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type II, Commander, III Class",
+      "date": "1861—1873年型",
+      "variant": "第二型三等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-132-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-132-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-cb9678d4d52abed2"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-134",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Commander, III Class",
+      "date": "1873—1941年型",
+      "variant": "第三型三等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-134-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-134-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-5ec80bd8243b0efd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-135",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Grand Commander, II Class",
+      "date": "1873—1941年型",
+      "variant": "第三型二等大指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-135-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-135-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-6cc27557b3a68857"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-136",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Grand Cordon",
+      "date": "1873—1941年型",
+      "variant": "第三型特等大绶章；历史图录插图",
+      "views": [
+        {
+          "key": "THA-MB-136-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-b8e505f6351d7b5f"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-137",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Grand Cordon Breast Star",
+      "date": "1873—1941年型",
+      "variant": "第三型特等大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-137-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-137-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-0d0c597d7a050218"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-138",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Grand Cross Breast Star, I Class",
+      "date": "1873—1941年型",
+      "variant": "第三型一等大十字星章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-138-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-138-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-f5076d9759fa18db"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-139",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Grand Cross, I Class",
+      "date": "1873—1941年型",
+      "variant": "第三型一等大十字绶章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-139-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-139-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-8203c94fff6fb9a3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-140",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Knight, V Class",
+      "date": "1873—1941年型",
+      "variant": "第三型五等骑士级；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-140-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-bdc169df0352c778"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-143",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Medal in Silver, VII Class",
+      "date": "1873—1941年型",
+      "variant": "第三型七等银质奖章；完整正反面",
+      "views": [
+        {
+          "key": "THA-MB-143-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "THA-MB-143-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-bd0ab02bded3dacc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-144",
+      "family": "THA-WHITE-ELEPHANT",
+      "country_zh": "泰国",
+      "name": "白象勋章",
+      "original": "Order of the White Elephant, Type III, Officer, IV Class",
+      "date": "1873—1941年型",
+      "variant": "第三型四等军官级；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-144-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-139ecc1d1da4dd4f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-146",
+      "family": "THA-RATANA-VARABHORN",
+      "country_zh": "泰国",
+      "name": "拉达纳瓦拉蓬功绩勋章",
+      "original": "Ratana Varabhorn Order of Merit, Badge",
+      "date": "1911年设立",
+      "variant": "章饰；历史图录插图",
+      "views": [
+        {
+          "key": "THA-MB-146-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-9d491988fccd3352"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-148",
+      "family": "THA-ROYAL-HOUSE-CHAKRI",
+      "country_zh": "泰国",
+      "name": "却克里王室勋章",
+      "original": "The Most Illustrious Order of the Royal House of Chakri, Breast Star",
+      "date": "1884年设立",
+      "variant": "星章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-148-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-7dd14df58131b02e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-149",
+      "family": "THA-ROYAL-HOUSE-CHAKRI",
+      "country_zh": "泰国",
+      "name": "却克里王室勋章",
+      "original": "The Most Illustrious Order of the Royal House of Chakri, Collar",
+      "date": "1884年设立",
+      "variant": "项链；完整实物",
+      "views": [
+        {
+          "key": "THA-MB-149-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-d06cf3f4adda200d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "THA-MB-150",
+      "family": "THA-ROYAL-HOUSE-CHAKRI",
+      "country_zh": "泰国",
+      "name": "却克里王室勋章",
+      "original": "The Most Illustrious Order of the Royal House of Chakri, Pendant",
+      "date": "1884年设立",
+      "variant": "佩章；完整正面",
+      "views": [
+        {
+          "key": "THA-MB-150-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-thailand-133485652c1e906f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

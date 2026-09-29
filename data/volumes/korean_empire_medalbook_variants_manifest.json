@@ -1,0 +1,645 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "kor-emp-mb-011-02",
+      "record_id": "KOR-EMP-MB-011-V01",
+      "view_key": "KOR-EMP-MB-011-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/011_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/enthronement-commemorative-medal/enthronement-commemorative-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/a9d3908f88d56591f49550b223f3a497b4baaaff/store/fit/528/348/ae54dccfd27896bcc615bd62638dea32960077840cf16dfbbfa337a5b034/Korea__Imperial__52ebe87a565fa1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 138606,
+      "sha256": "2cd975b54e32b95bd4562d8323c42d544824030a64a07613d830669dbebb8d92",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-011-01",
+      "record_id": "KOR-EMP-MB-011-V01",
+      "view_key": "KOR-EMP-MB-011-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/011_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/enthronement-commemorative-medal/enthronement-commemorative-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/937c7ca9550598482b75186cb8f0494eadf567bd/store/fit/528/348/af83e4f2f0832f809708f980b4b5d310f042902a87bb347ea5c0e92e4aad/IMG_02.jpg52ebe8ac3dcf1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 130222,
+      "sha256": "57d5393a475680aa88628228da477778661db8e43d489ab1eaf5612b6c180c86",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-015-02",
+      "record_id": "KOR-EMP-MB-015-V01",
+      "view_key": "KOR-EMP-MB-015-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/015_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/imperial-tour-commemorative-medal/imperial-tour-commemorative-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/3b7bdb2a95485cd8f5914a3f68be5df2d676f712/store/fit/1000/750/30a36460399913b66fd4923eee6abdbf64f012039a6e3a3d4eca14a663b1/Imperial+Tour+Commemorative+Medal+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 125013,
+      "sha256": "b9f83af1da6d26b4963e2caa5ac7876983e5a462e1d4376ce743797eb93fa4ad",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-015-06",
+      "record_id": "KOR-EMP-MB-015-V01",
+      "view_key": "KOR-EMP-MB-015-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/015_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/imperial-tour-commemorative-medal/imperial-tour-commemorative-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/e0829063f398f61ef748b11152f9ace353253c67/store/fit/528/348/678a4074e170b4e78835efda734786c84aa7912d32af487da1a287504b67/Imperial+Tour+Commemorative+Medal+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24474,
+      "sha256": "ff44043c1110708e1d3fda9dfabf0d8b28f8550d3dc26534e928f6cceb2a14fb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-089-01",
+      "record_id": "KOR-EMP-MB-089-V01",
+      "view_key": "KOR-EMP-MB-089-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/089_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/8f436771da337ca226b366b602b8cbf613ab38a2/store/fit/528/348/4e13cc05ce379f9872887759952891546839be6f52900069ccc091f870b0/Eight+Trigrams+I+C+Badge+ME83.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        296,
+        348
+      ],
+      "bytes": 28862,
+      "sha256": "7d5d13a4011a1109a3cce44aa1128315743304e8b5dbf2c9f4b013a4536a718f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-090-02",
+      "record_id": "KOR-EMP-MB-090-V01",
+      "view_key": "KOR-EMP-MB-090-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/090_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-ii-class-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/2b6ba3df26e2c85639f97ced91af06025431e0be/store/fit/1000/750/aec08d99554749591a9d229c66de22ba580cdecc69f07e41477b6ff1008e/Order+of+the+Eight+Trigrams%2C+II+Class+Breast+Star+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 155486,
+      "sha256": "18a180fa710846d114046b4e55369dd131c76520d75ee8374a830efb1dd8f1b6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-090-01",
+      "record_id": "KOR-EMP-MB-090-V01",
+      "view_key": "KOR-EMP-MB-090-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/090_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-ii-class-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/196c9e8a33bc07b15167eb7659beed936e366d01/store/fit/528/348/b4e9f8c7baa18bab0e64e783184ce45333ac2491f2cd5fe3add09fb3be44/Order+of+the+Eight+Trigrams%2C+II+Class+Breast+Star+4.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 28032,
+      "sha256": "06cdb8d391297c0f7d21cb9b39ea8a017cd8295547a371af571cc6b58dab1632",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-092-01",
+      "record_id": "KOR-EMP-MB-092-V01",
+      "view_key": "KOR-EMP-MB-092-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/092_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-iii-class-neck-badge-5",
+      "image_url": "https://www.medalbook.com/attachments/1174f3bfd9ba7c47b7c443d794078e94ccf15540/store/fit/528/348/c3b58633202bd7e1814d457dd6e1bd54afc0aad6309882ce807b020ebc11/Order+of+the+Eight+Trigrams%2C+III+Class+Neck+Badge+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 29258,
+      "sha256": "fe4c5c28d1322aecccba449a801c3b7b2346115430bd15cb5b7455ff8e52092c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-092-05",
+      "record_id": "KOR-EMP-MB-092-V01",
+      "view_key": "KOR-EMP-MB-092-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/092_05.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-iii-class-neck-badge-5",
+      "image_url": "https://www.medalbook.com/attachments/3e6c19341afa59322305c46b8b70485f7c8ac874/store/fit/528/348/25cfb69b7e442c67ab2ee8369eb67dcb3aa5d1aefb02b3105e60a705ba5a/Order+of+the+Eight+Trigrams%2C+III+Class+Neck+Badge+3.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 27511,
+      "sha256": "9f675d4d74b9bbe2936f36d805cfd743ea1e20d3578f1b9e6497d1eebf280862",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-096-01",
+      "record_id": "KOR-EMP-MB-096-V01",
+      "view_key": "KOR-EMP-MB-096-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/096_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-vii-class-badge-9",
+      "image_url": "https://www.medalbook.com/attachments/5553ff92863a7432339ebaf8af0174ccf2017d7a/store/fit/528/348/251d82916e3a2a4473302e86381e03f040418a937a346dfabc1a266877cf/Eight+Trigrams+VII+C+Badge+ME83.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        275,
+        348
+      ],
+      "bytes": 23587,
+      "sha256": "1cd676985f03725320d32a1a09acebb947b2018d519708baef548f702e9bea11",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-098-03",
+      "record_id": "KOR-EMP-MB-098-V01",
+      "view_key": "KOR-EMP-MB-098-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/098_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-golden-ruler/order-of-the-golden-ruler-i-class-grand-cordon-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/b351f60f76ab71e93fbf79685eba87ac187a8108/store/fit/1000/750/06a6645d756775b4160e20cc33cc3dfac499f56425c23d51698304166fdd/Order+of+the+Golden+Ruler%2C+I+Class+Grand+Cordon+Badge+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 101712,
+      "sha256": "3c79a1fe26d780eb8bb70f4ab63565c660757261accc3daa8a4c443e1b999f11",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-098-04",
+      "record_id": "KOR-EMP-MB-098-V01",
+      "view_key": "KOR-EMP-MB-098-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/098_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-golden-ruler/order-of-the-golden-ruler-i-class-grand-cordon-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/b3b1809bcf9f5bbb71ef79babc9f94170a7a653b/store/fit/528/348/860e4011571e04515ff48fa18620f1ef1a98565a84229f39fa72fccddbc7/Order+of+the+Golden+Ruler%2C+I+Class+Grand+Cordon+Badge+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 26205,
+      "sha256": "f206f5eabd918a93cf282502463446d2a7146252942e4073a86cef539b95984e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-099-02",
+      "record_id": "KOR-EMP-MB-099-V01",
+      "view_key": "KOR-EMP-MB-099-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/099_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-golden-ruler/order-of-the-golden-ruler-i-class-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/2b2e7d62302b1662784e58e3bbe2328010cead6d/store/fit/528/348/69ea45e78b041cfdec78cbe1cd391f123913740d4adf270f2a94e26586b7/Order+of+the+Golden+Ruler%2C+I+Class+Grand+Cordon+Breast+Star+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 39819,
+      "sha256": "b1f3769abb27febb9a6317e96e6699983614fb09aea0c9bf4d7abf3e9efe7bcd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-099-07",
+      "record_id": "KOR-EMP-MB-099-V01",
+      "view_key": "KOR-EMP-MB-099-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/099_07.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-golden-ruler/order-of-the-golden-ruler-i-class-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/e25389ee0356baabf190e3c66764e70a08434113/store/fit/528/348/d271be2e148a3f019c3020761d952edfb50b623e0e43ff9f9ff1004b84c6/Order+of+the+Golden+Ruler%2C+I+Class+Grand+Cordon+Breast+Star+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 31054,
+      "sha256": "02d39b84ae676428f7f966033798868e07287f3f95bc64928db2bfe71528041b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-100-05",
+      "record_id": "KOR-EMP-MB-100-V01",
+      "view_key": "KOR-EMP-MB-100-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/100_05.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-plum-blossoms/order-of-the-plum-blossoms-i-class-grand-cordon-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/6fe79c0b29864703709263776361bbb56d23b856/store/fit/528/348/5566af5dd4ff3c2cf59fd417b89c17df08e2d25663e535be54d5a8413da6/Order+of+the+Plum+Blossoms%2C+I+Class+Grand+Cordon+Badge+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25905,
+      "sha256": "9b49c55da4877d0624a63d75d639238650a048db87ac4b83601642e2b2b06f8b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-101-03",
+      "record_id": "KOR-EMP-MB-101-V01",
+      "view_key": "KOR-EMP-MB-101-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/101_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-plum-blossoms/order-of-the-plum-blossoms-i-class-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/52beecf4421cf30056347f96ae377fe5fa485548/store/fit/1000/750/d83ec1bbe7c262c857153fe36c2fda160c729ed92bff8c4994573d2a8dc0/Order+of+the+Plum+Blossoms%2C+I+Class+Grand+Cordon+Breast+Star+1.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 160056,
+      "sha256": "080f33f462d0c5d246fb40a8c5129d1c6385bc4f22c4864c5c93c4b146b69dac",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-101-02",
+      "record_id": "KOR-EMP-MB-101-V01",
+      "view_key": "KOR-EMP-MB-101-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/101_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-plum-blossoms/order-of-the-plum-blossoms-i-class-grand-cordon-breast-star-2",
+      "image_url": "https://www.medalbook.com/attachments/0aa7e546469834991bf1c49a20e4cc2230611e0e/store/fit/528/348/9bd0a5da5a537598c55ec4475f2f736d3c381e256db30d5629e324337c1a/Order+of+the+Plum+Blossoms%2C+I+Class+Grand+Cordon+Breast+Star+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 32838,
+      "sha256": "2e5238951b24b6a13dbc93c7335dec66aea144f9b4a9d3960d5a5aac4018a8e3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-113-01",
+      "record_id": "KOR-EMP-MB-113-V01",
+      "view_key": "KOR-EMP-MB-113-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/113_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/7daa9dd6aa110dd27b318adf954728df6c84977f/store/fit/1000/750/58815b854c11153dec996b49cf5a0bb662fee87694ee60767d363f7e3c87/An_Early_20th_Ce_541c414cb4aa7.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 480939,
+      "sha256": "bc1a312699e513cf09d50649befb15352228fb8ba646cee62d46b785d07fab2e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-114-04",
+      "record_id": "KOR-EMP-MB-114-V01",
+      "view_key": "KOR-EMP-MB-114-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/114_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-ii-class-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/8422d6197c6d25b26195fde6cf604ed56be1d56c/store/fit/528/348/b92186b4a1f38505f6b6b89793b4f92a2d12ae4ce6053d0cc3361c45dd82/Order+of+the+Taeguk%2C+II+Class+Breast+Star+3.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 30328,
+      "sha256": "bc114e63a57f87891ea63295edb9194c50558a33846b4a9eba359adf4f4cf5da",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-114-06",
+      "record_id": "KOR-EMP-MB-114-V01",
+      "view_key": "KOR-EMP-MB-114-VIEW2",
+      "local_path": "assets/images/medalbook_south_korea/114_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-ii-class-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/d45ed121fa288f652b7886fd14fca2dd48cb5e34/store/fit/528/348/71ecc79d6f8eb4542dbd10c8cb348dd76983fbcd226f7ec22ab58eb6d74b/Order+of+the+Taeguk%2C+II+Class+Breast+Star+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 29093,
+      "sha256": "31f0427a3e6a7f48ba10ac8448cca393e512e72c2ba9f7becab511328d6036c0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kor-emp-mb-116-01",
+      "record_id": "KOR-EMP-MB-116-V01",
+      "view_key": "KOR-EMP-MB-116-VIEW1",
+      "local_path": "assets/images/medalbook_south_korea/116_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-iii-class-neck-badge-5",
+      "image_url": "https://www.medalbook.com/attachments/02c6a869d1176568ba20ea3d99cd105ceee95a05/store/fit/528/348/6902ce6cc16fcd72a2ed119dc8e9d57c3a662b8e2d6cebc77decd7720fc3/Order+of+the+Taeguk%2C+III+Class+Neck+Badge+2.jpg",
+      "artist": "MedalBook catalogue object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 31942,
+      "sha256": "8d3852e362b53a067498a6821ab3b5ce9e0fd374b8b0f89f85863e82d85ebb4f",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-south_korea-2e649b832a48600e",
+      "name": "40 Years of Reign Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/40-years-of-reign-commemorative-medal/40-years-of-reign-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-a5ef4625b7c58344",
+      "name": "40 Years of Reign Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/40-years-of-reign-commemorative-medal/40-years-of-reign-commemorative-medal-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7f527ce2bd2cbf4b",
+      "name": "Crown Prince Wedding Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/crown-prince-wedding-commemorative-medal/crown-prince-wedding-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-88dca550a128816d",
+      "name": "Imperial 50th Birthday Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/medals-decorations/imperial-50th-birthday-commemorative-medal/imperial-50th-birthday-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-224f5bc6df0200fe",
+      "name": "Order of the Auspicious Phoenix, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ef88bcc647b7b611",
+      "name": "Order of the Auspicious Phoenix, I Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-i-class-sash-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-10fe60f7a58bb166",
+      "name": "Order of the Auspicious Phoenix, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-3216a66f345d66e7",
+      "name": "Order of the Auspicious Phoenix, II Class on Ladies Bow",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-ii-class-on-ladies-bow-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-bc657bbabfb0f868",
+      "name": "Order of the Auspicious Phoenix, III Class Neck Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-iii-class-neck-badge-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-b26498597ff67c7b",
+      "name": "Order of the Auspicious Phoenix, IV Class on Triangular Ribbon with Rosette",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-iv-class-on-triangular-ribbon-with-rosette-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-cc22644a65c066fa",
+      "name": "Order of the Auspicious Phoenix, V Class on Triangular Ribbon",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-v-class-on-triangular-ribbon-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-b7f65bdce958f07d",
+      "name": "Order of the Auspicious Phoenix, VI Class on Triangular Ribbon",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-phoenix/order-of-the-auspicious-phoenix-vi-class-on-triangular-ribbon-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-46c0c10d2455e4e1",
+      "name": "Order of the Auspicious Stars, I Class Grand Cordon Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-stars/order-of-the-auspicious-stars-i-class-grand-cordon-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7ed2ec71da0adbf6",
+      "name": "Order of the Auspicious Stars, I Class Grand Cordon Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-auspicious-stars/order-of-the-auspicious-stars-i-class-grand-cordon-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-10b690ba2ea5b1e1",
+      "name": "Order of the Eight Trigrams, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-0da88c68b9d282fa",
+      "name": "Order of the Eight Trigrams, II Class Neck Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-ii-class-neck-badge-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-0047e792bbf3e4a1",
+      "name": "Order of the Eight Trigrams, IV Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-iv-class-badge-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-37a85ceef6824117",
+      "name": "Order of the Eight Trigrams, V Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-v-class-badge-7",
+      "status": "仅有人物佩章照片，章体不完整"
+    },
+    {
+      "source_id": "medalbook-south_korea-1440587f1dda930e",
+      "name": "Order of the Eight Trigrams, VI Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-vi-class-badge-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-399d81565a63e837",
+      "name": "Order of the Eight Trigrams, VIII Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-eight-trigrams/order-of-the-eight-trigrams-viii-class-badge-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ceec0c2be9b2583d",
+      "name": "Order of the Purple Falcon, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-25edf6dc592b3cc4",
+      "name": "Order of the Purple Falcon, I Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-i-class-sash-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-7c1b44c6dbe53913",
+      "name": "Order of the Purple Falcon, II Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-ii-class-breast-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-9175df1a9f90fa9d",
+      "name": "Order of the Purple Falcon, II Class Neck Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-ii-class-neck-badge-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-9dc300bbf4a9d8a1",
+      "name": "Order of the Purple Falcon, III Class Neck Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-iii-class-neck-badge-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-ad9dc18fddda722d",
+      "name": "Order of the Purple Falcon, IV Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-iv-class-badge-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-c408877b6b2ad627",
+      "name": "Order of the Purple Falcon, V Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-v-class-badge-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-32f4729a38cabdd0",
+      "name": "Order of the Purple Falcon, VI Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-vi-class-badge-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-06f650ff2b8faa57",
+      "name": "Order of the Purple Falcon, VII Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-vii-class-badge-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-dcfddb0baa2fe3a2",
+      "name": "Order of the Purple Falcon, VIII Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-purple-falcon/order-of-the-purple-falcon-viii-class-badge-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-509e9631892cf715",
+      "name": "Order of the Taeguk, I Class Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-i-class-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-2b1e5bbc44117357",
+      "name": "Order of the Taeguk, II Class Neck Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-ii-class-neck-badge-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-69b2cc49cf0eb44c",
+      "name": "Order of the Taeguk, IV Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-iv-class-badge-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-3072e9046d86f7e6",
+      "name": "Order of the Taeguk, V Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-v-class-badge-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-df94c6dbe97dd216",
+      "name": "Order of the Taeguk, VI Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-vi-class-badge-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-d952865cb4039398",
+      "name": "Order of the Taeguk, VII Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-vii-class-badge-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-south_korea-dfbb859d958c9282",
+      "name": "Order of the Taeguk, VIII Class Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/korea/south-korea/orders/order-of-the-taeguk/order-of-the-taeguk-viii-class-badge-10",
+      "status": "有记载未配图"
+    }
+  ],
+  "excluded_candidates": []
+}

@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-09-27",
+  "source": "Noble Numismatics Sale 109",
+  "images": [
+    {
+      "key": "SDN-NOBLE-S109-4550-TWO-NILES-IV-VIEW-1",
+      "record_id": "SDN-NOBLE-S109-4550-TWO-NILES-IV",
+      "view_key": "SDN-NOBLE-S109-4550-TWO-NILES-IV-VIEW-1",
+      "local_path": "assets/images/sudan_noble/sale109_lot4550_two_niles_iv.jpg",
+      "source_id": "noble-sale109-lot4550",
+      "source_page": "https://www.noble.com.au/auctions/lot/?id=298128",
+      "source_original_url": "https://www.noble.com.au/catalogue-images/sales/s109/large/4248.jpg",
+      "image_kind": "object_photo",
+      "width": 1000,
+      "height": 1419,
+      "sha256": "b55b93695aad0739856eb4fa2241bb68f0bd508d0973e3a12c621d6a0be2cfe4",
+      "visual_check": "complete front, suspension and short ribbon visible; no reverse supplied by source",
+      "rights_note": "Noble Numismatics auction archive photograph; retained for offline research catalogue use subject to source terms"
+    }
+  ]
+}

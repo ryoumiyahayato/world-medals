@@ -1,0 +1,37 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Cambodia — complete World Awards and MedalBook catalogues",
+  "status": "two_complete_catalogue_systems_merged_official_and_commons_differentials_retained",
+  "source_coverage": {
+    "planned_sources": 5,
+    "completed_sources": 2,
+    "partial_sources": 0,
+    "blocked_sources": 0,
+    "not_started_sources": 3,
+    "pdf_pages": 17,
+    "wawards_object_pages": 48,
+    "medalbook_object_pages": 152,
+    "downloaded_source_images": 231,
+    "source_image_failures": 1
+  },
+  "formal_merge": {
+    "new_rows": 96,
+    "net_new_families": 49,
+    "local_complete_views": 155,
+    "unpictured_medalbook_object_pages": 128,
+    "duplicate_payloads_promoted": 0,
+    "ribbon_only_views_promoted": 0,
+    "documents_cases_details_and_redundant_views_excluded": 76
+  },
+  "site_after_merge": {
+    "main_rows": 2188,
+    "main_families": 1170,
+    "country_or_period_sections": 116,
+    "decoded_local_files": 3317,
+    "unique_gallery_image_paths": 3242,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Proceed to Laos in the Asia queue, beginning with its complete World Awards and MedalBook catalogues."
+}

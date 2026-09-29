@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "saudi_arabia",
+  "scope_label": "Kingdom of Saudi Arabia award system",
+  "sources": [
+    {
+      "source_id": "wikipedia_saudi_award_system",
+      "source_name": "English Wikipedia - Orders, decorations, and medals of Saudi Arabia",
+      "base_url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Saudi_Arabia",
+      "source_type": "discovery_master_list",
+      "languages": ["en", "ar"],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "mediawiki_parse_full_page",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "Complete current national honours list page parsed; 33 candidate blocks retained, covering the principal orders plus military, service, campaign and specialist medals.",
+      "candidate_file": "data/raw_candidates/wikipedia_saudi_arabia_award_system.jsonl"
+    },
+    {
+      "source_id": "wawards_saudi_arabia_complete_catalogue",
+      "source_name": "World Awards - Saudi Arabia complete catalogue",
+      "base_url": "https://wawards.org/en/saudi-arabia.html",
+      "source_type": "complete_country_catalogue",
+      "languages": ["en"],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "country_index_to_object_pages_and_full_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "Complete catalogue processed: 32/32 object pages and 97/97 exposed full images; 32 representative rows in 31 families prepared, with 65 extra images cached for grade and reverse expansion.",
+      "candidate_file": "data/raw_candidates/wawards_saudi-arabia.jsonl"
+    },
+    {
+      "source_id": "saudi_official_military_medals",
+      "source_name": "Saudi official military medals and regulations",
+      "source_type": "official_award_directory_and_regulations",
+      "languages": ["ar"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "official_directory_differential",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 3, "completed": 2, "partial": 0, "blocked": 0, "not_started": 1},
+  "next_action": "Resolve the Wikipedia/World Awards differential against Saudi official military-medal regulations, then normalize the cached grade and reverse images."
+}

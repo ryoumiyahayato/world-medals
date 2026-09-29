@@ -1,0 +1,118 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "砂拉越州",
+  "records": [
+    {
+      "id": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-108",
+      "family": "MYS-SARAWAK-DISTINGUISHED-SERVICE",
+      "country_zh": "砂拉越州",
+      "name": "卓越服务奖章",
+      "original": "Distinguished Service Medal, I Class",
+      "date": "设立时间待考",
+      "variant": "一级",
+      "views": [
+        {
+          "key": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-108-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-3ba372b5fbab63e1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-109",
+      "family": "MYS-SARAWAK-DISTINGUISHED-SERVICE",
+      "country_zh": "砂拉越州",
+      "name": "卓越服务奖章",
+      "original": "Distinguished Service Medal, II Class",
+      "date": "设立时间待考",
+      "variant": "二级",
+      "views": [
+        {
+          "key": "MYS-SARAWAK-DISTINGUISHED-SERVICE-MEDALBOOK-109-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-140986105c1ddb8e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111",
+      "family": "MYS-SARAWAK-FAITHFUL-MERITORIOUS",
+      "country_zh": "砂拉越州",
+      "name": "忠诚功绩服务奖章",
+      "original": "Faithful and Meritorious Service Medal",
+      "date": "设立时间待考",
+      "variant": "章饰；正背",
+      "views": [
+        {
+          "key": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-SARAWAK-FAITHFUL-MERITORIOUS-MEDALBOOK-111-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-7cfc96a1a3e364a8"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-SARAWAK-STAR-MEDALBOOK-171",
+      "family": "MYS-SARAWAK-STAR",
+      "country_zh": "砂拉越州",
+      "name": "砂拉越之星至高勋章",
+      "original": "The Most Exalted Order of the Star of Sarawak, Member",
+      "date": "1973年设立",
+      "variant": "成员级；正背",
+      "views": [
+        {
+          "key": "MYS-SARAWAK-STAR-MEDALBOOK-171-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-SARAWAK-STAR-MEDALBOOK-171-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-c81878711798ea3d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-SARAWAK-STAR-MEDALBOOK-174",
+      "family": "MYS-SARAWAK-STAR",
+      "country_zh": "砂拉越州",
+      "name": "砂拉越之星至高勋章",
+      "original": "The Most Exalted Order of the Star of Sarawak, Officer",
+      "date": "1973年设立",
+      "variant": "军官级；正背",
+      "views": [
+        {
+          "key": "MYS-SARAWAK-STAR-MEDALBOOK-174-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "MYS-SARAWAK-STAR-MEDALBOOK-174-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-aebcba34177a4a8c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

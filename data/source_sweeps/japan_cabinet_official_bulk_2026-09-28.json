@@ -1,0 +1,111 @@
+{
+  "schema": "source-sweep-v1",
+  "source_id": "jpn-cabinet-official-bulk",
+  "source_name": "Cabinet Office, Government of Japan — Types of Decorations and Types of Medals",
+  "status": "completed_bounded_official_pages",
+  "as_of": "2026-09-28",
+  "seed_discovery": {
+    "candidate_entry": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Japan",
+    "candidate_entry_zh": "https://zh.wikipedia.org/wiki/勋章_(日本)",
+    "official_entry": "https://www8.cao.go.jp/shokun/en/index-e.html"
+  },
+  "planned": {
+    "source_pages": 7,
+    "candidate_items": 28
+  },
+  "processed": {
+    "source_pages": [
+      {
+        "source_id": "jpn-cabinet-supreme-chrysanthemum",
+        "url": "https://www8.cao.go.jp/shokun/en/supreme-orders-of-the-chrysanthemum.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/supreme-orders-of-the-chrysanthemum.html",
+        "bytes": 5365,
+        "title": "Supreme Order of the Chrysanthemum"
+      },
+      {
+        "source_id": "jpn-cabinet-paulownia",
+        "url": "https://www8.cao.go.jp/shokun/en/grand-cordon-of-the-order-of-the-paulownia-flowers.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/grand-cordon-of-the-order-of-the-paulownia-flowers.html",
+        "bytes": 4742,
+        "title": "Order of the Paulownia Flowers"
+      },
+      {
+        "source_id": "jpn-cabinet-rising-sun",
+        "url": "https://www8.cao.go.jp/shokun/en/orders-of-the-rising-sun.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/orders-of-the-rising-sun.html",
+        "bytes": 5486,
+        "title": "Order of the Rising Sun"
+      },
+      {
+        "source_id": "jpn-cabinet-sacred-treasure",
+        "url": "https://www8.cao.go.jp/shokun/en/orders-of-the-sacred-treasure.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/orders-of-the-sacred-treasure.html",
+        "bytes": 5589,
+        "title": "Order of the Sacred Treasure"
+      },
+      {
+        "source_id": "jpn-cabinet-culture",
+        "url": "https://www8.cao.go.jp/shokun/en/order-of-culture.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/order-of-culture.html",
+        "bytes": 4912,
+        "title": "Order of Culture"
+      },
+      {
+        "source_id": "jpn-cabinet-precious-crown",
+        "url": "https://www8.cao.go.jp/shokun/en/orders-of-the-precious-crown.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/orders-of-the-precious-crown.html",
+        "bytes": 5801,
+        "title": "Order of the Precious Crown"
+      },
+      {
+        "source_id": "jpn-cabinet-medals-of-honour",
+        "url": "https://www8.cao.go.jp/shokun/en/types-of-medals.html",
+        "file": "sources/pages/japan_cabinet_official_bulk_2026-09-28/types-of-medals.html",
+        "bytes": 5463,
+        "title": "Medals of Honour"
+      }
+    ],
+    "candidate_items": 28,
+    "records_written": 28,
+    "images_downloaded_and_decoded": 28,
+    "duplicate_payloads": 0,
+    "raw_candidates": "data/raw_candidates/japan_cabinet_official_bulk_2026-09-28.jsonl",
+    "volume": "data/volumes/japan_cabinet_official_bulk_2026-09-28.json"
+  },
+  "differential": {
+    "existing_japan_volume_files_checked": [
+      "data/volumes/japan_meiji.json",
+      "data/volumes/japan_meiji_round2.json",
+      "data/volumes/japan_meiji_round3.json",
+      "data/volumes/japan_medalbook_variants.json",
+      "data/volumes/japan_taisho_pack1.json",
+      "data/volumes/japan_taisho_pack4.json"
+    ],
+    "new_family_candidates": [
+      "JPN-MEDAL-HONOUR-BLUE-RIBBON",
+      "JPN-MEDAL-HONOUR-DARK-BLUE-RIBBON",
+      "JPN-MEDAL-HONOUR-GREEN-RIBBON",
+      "JPN-MEDAL-HONOUR-PURPLE-RIBBON",
+      "JPN-MEDAL-HONOUR-RED-RIBBON",
+      "JPN-MEDAL-HONOUR-YELLOW-RIBBON",
+      "JPN-ORDER-CHRYSANTHEMUM",
+      "JPN-ORDER-CULTURE",
+      "JPN-ORDER-PAULOWNIA",
+      "JPN-ORDER-PRECIOUS-CROWN",
+      "JPN-ORDER-RISING-SUN",
+      "JPN-ORDER-SACRED-TREASURE"
+    ],
+    "new_family_count": 12,
+    "same_family_official_variant_rows": 28,
+    "new_actual_family_rows_after_dedupe": [
+      "JPN-ORDER-CULTURE",
+      "JPN-MEDAL-HONOUR-PURPLE-RIBBON",
+      "JPN-MEDAL-HONOUR-DARK-BLUE-RIBBON"
+    ]
+  },
+  "exclusions": [
+    "No ribbon-only image was used; each official image contains medal/decoration body and its suspension or sash form.",
+    "No pre-Meiji shogunate empty system was invented.",
+    "Manchukuo and other Japanese-controlled historical polities remain separate future scopes; this batch is Japan central-government awards."
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "portugal_medals_org_fast_2026-09-28",
+  "records": [
+    {
+      "id": "PRT-ODM-AGRI_INDUSTRIAL-V01",
+      "family": "PRT-ODM-AGRI_INDUSTRIAL",
+      "country_zh": "葡萄牙王国",
+      "name": "农业与工业功绩勋章",
+      "original": "Order of Agricultural and Industrial Merit",
+      "date": "1893",
+      "variant": "大十字挂章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-AGRI_INDUSTRIAL-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-AVIS-V01",
+      "family": "PRT-ODM-AVIS",
+      "country_zh": "葡萄牙王国",
+      "name": "阿维斯勋章",
+      "original": "Order of Avis",
+      "date": "历史设立；本版待考",
+      "variant": "大十字挂章，王国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-AVIS-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-CHRIST-V01",
+      "family": "PRT-ODM-CHRIST",
+      "country_zh": "葡萄牙王国",
+      "name": "基督勋章",
+      "original": "Order of Christ",
+      "date": "1319；本版待考",
+      "variant": "大十字星章，王国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-CHRIST-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-AMELIA_OVERSEAS-V01",
+      "family": "PRT-ODM-AMELIA_OVERSEAS",
+      "country_zh": "葡萄牙王国",
+      "name": "阿梅莉亚王后海外战役奖章",
+      "original": "Queen Amélia Overseas Campaigns Medal",
+      "date": "1902",
+      "variant": "金质级；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-AMELIA_OVERSEAS-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-AMELIA_OVERSEAS-V02",
+      "family": "PRT-ODM-AMELIA_OVERSEAS",
+      "country_zh": "葡萄牙王国",
+      "name": "阿梅莉亚王后海外战役奖章",
+      "original": "Queen Amélia Overseas Campaigns Medal",
+      "date": "1902",
+      "variant": "银质级；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-AMELIA_OVERSEAS-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-TOWER_SWORD-V01",
+      "family": "PRT-ODM-TOWER_SWORD",
+      "country_zh": "葡萄牙王国",
+      "name": "塔与剑勋章",
+      "original": "Order of the Tower and Sword",
+      "date": "1808；本版待考",
+      "variant": "大十字星章，王国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-TOWER_SWORD-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-VILAVICOSA-V01",
+      "family": "PRT-ODM-VILAVICOSA",
+      "country_zh": "葡萄牙王国",
+      "name": "维拉维索萨圣母无玷始胎勋章",
+      "original": "Order of the Immaculate Conception of Vila Viçosa",
+      "date": "1818",
+      "variant": "大十字挂章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-VILAVICOSA-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-AVIS-V02",
+      "family": "PRT-ODM-AVIS",
+      "country_zh": "葡萄牙共和国",
+      "name": "阿维斯勋章",
+      "original": "Military Order of Avis",
+      "date": "历史设立；本版待考",
+      "variant": "大十字挂章，共和国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-AVIS-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-CHRIST-V02",
+      "family": "PRT-ODM-CHRIST",
+      "country_zh": "葡萄牙共和国",
+      "name": "基督勋章",
+      "original": "Military Order of Christ",
+      "date": "1319；本版待考",
+      "variant": "大十字挂章，共和国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-CHRIST-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-ENTREPRENEURIAL_MERIT-V01",
+      "family": "PRT-ODM-ENTREPRENEURIAL_MERIT",
+      "country_zh": "葡萄牙共和国",
+      "name": "企业功绩勋章",
+      "original": "Order of Entrepreneurial Merit",
+      "date": "待考",
+      "variant": "大十字星章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-ENTREPRENEURIAL_MERIT-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-LIBERTY-V01",
+      "family": "PRT-ODM-LIBERTY",
+      "country_zh": "葡萄牙共和国",
+      "name": "自由勋章",
+      "original": "Order of Liberty",
+      "date": "1976",
+      "variant": "大十字星章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-LIBERTY-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-LIBERTY-V02",
+      "family": "PRT-ODM-LIBERTY",
+      "country_zh": "葡萄牙共和国",
+      "name": "自由勋章",
+      "original": "Order of Liberty",
+      "date": "1976",
+      "variant": "大军官级挂章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-LIBERTY-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-MERIT-V01",
+      "family": "PRT-ODM-MERIT",
+      "country_zh": "葡萄牙共和国",
+      "name": "功绩勋章",
+      "original": "Order of Merit",
+      "date": "1929",
+      "variant": "大十字挂章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-MERIT-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-MILITARY_BRAVERY-V01",
+      "family": "PRT-ODM-MILITARY_BRAVERY",
+      "country_zh": "葡萄牙共和国",
+      "name": "军事英勇十字章",
+      "original": "Military Bravery Cross",
+      "date": "待考",
+      "variant": "十字章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-MILITARY_BRAVERY-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-NAVY_CROSS-V01",
+      "family": "PRT-ODM-NAVY_CROSS",
+      "country_zh": "葡萄牙共和国",
+      "name": "海军十字章",
+      "original": "Navy Cross",
+      "date": "待考",
+      "variant": "四级；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-NAVY_CROSS-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-PRINCE_HENRY-V01",
+      "family": "PRT-ODM-PRINCE_HENRY",
+      "country_zh": "葡萄牙共和国",
+      "name": "航海家亨利王子勋章",
+      "original": "Order of Prince Henry",
+      "date": "1960",
+      "variant": "大十字挂章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-PRINCE_HENRY-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-PRINCE_HENRY-V02",
+      "family": "PRT-ODM-PRINCE_HENRY",
+      "country_zh": "葡萄牙共和国",
+      "name": "航海家亨利王子勋章",
+      "original": "Order of Prince Henry",
+      "date": "1960",
+      "variant": "大十字星章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-PRINCE_HENRY-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-PUBLIC_INSTRUCTION-V01",
+      "family": "PRT-ODM-PUBLIC_INSTRUCTION",
+      "country_zh": "葡萄牙共和国",
+      "name": "公共教育勋章",
+      "original": "Order of Public Instruction",
+      "date": "1927",
+      "variant": "指挥官级星章；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-PUBLIC_INSTRUCTION-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-SANTIAGO-V01",
+      "family": "PRT-ODM-SANTIAGO",
+      "country_zh": "葡萄牙共和国",
+      "name": "圣地亚哥宝剑勋章",
+      "original": "Military Order of Saint James of the Sword",
+      "date": "历史设立；本版待考",
+      "variant": "大十字星章，共和国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-SANTIAGO-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "PRT-ODM-TOWER_SWORD-V02",
+      "family": "PRT-ODM-TOWER_SWORD",
+      "country_zh": "葡萄牙共和国",
+      "name": "塔与剑勋章",
+      "original": "Order of the Tower and Sword",
+      "date": "1808；本版待考",
+      "variant": "大十字挂章，共和国版；完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRT-ODM-TOWER_SWORD-V02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalsorg-portugal-master"
+      ],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    }
+  ]
+}

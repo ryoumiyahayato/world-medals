@@ -1,0 +1,186 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "苏丹 MedalBook 差集（待配图）",
+  "records": [
+    {
+      "id": "SDN-MB-PENDING-GOOD-ACCOMPLISHMENT-MEDAL-I-CLASS",
+      "family": "SDN-MB-GOOD-ACCOMPLISHMENT-MEDAL",
+      "country_zh": "苏丹",
+      "name": "良好成就奖章·一等",
+      "original": "Good Accomplishment Medal, I Class",
+      "date": "制度日期待考",
+      "variant": "一等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-3b232f6f5e823939"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-GOOD-ACCOMPLISHMENT-MEDAL-II-CLASS",
+      "family": "SDN-MB-GOOD-ACCOMPLISHMENT-MEDAL",
+      "country_zh": "苏丹",
+      "name": "良好成就奖章·二等",
+      "original": "Good Accomplishment Medal, II Class",
+      "date": "制度日期待考",
+      "variant": "二等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-7d446a99c6b0a946"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-GOOD-ACCOMPLISHMENT-MEDAL-III-CLASS",
+      "family": "SDN-MB-GOOD-ACCOMPLISHMENT-MEDAL",
+      "country_zh": "苏丹",
+      "name": "良好成就奖章·三等",
+      "original": "Good Accomplishment Medal, III Class",
+      "date": "制度日期待考",
+      "variant": "三等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-659d28fb1eb48f9b"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-MEDAL-FOR-POLITICAL-MERIT",
+      "family": "SDN-MB-POLITICAL-MERIT-MEDAL",
+      "country_zh": "苏丹",
+      "name": "政治功绩奖章·目录所列正式版型",
+      "original": "Medal for Political Merit",
+      "date": "制度日期待考",
+      "variant": "目录所列正式版型；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-e3b66fb99d8d7d42"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-POLICE-GOOD-ACCOMPLISHMENT-MEDAL",
+      "family": "SDN-MB-POLICE-GOOD-ACCOMPLISHMENT",
+      "country_zh": "苏丹",
+      "name": "警察良好成就奖章·目录所列正式版型",
+      "original": "Police Good Accomplishment Medal",
+      "date": "制度日期待考",
+      "variant": "目录所列正式版型；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-4d286287e4ba5de3"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-DUTY-I-CLASS",
+      "family": "SDN-MB-ORDER-OF-DUTY",
+      "country_zh": "苏丹",
+      "name": "职责勋章·一等",
+      "original": "Order of Duty, I Class",
+      "date": "制度日期待考",
+      "variant": "一等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-308ffda5162fc14d"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-DUTY-II-CLASS",
+      "family": "SDN-MB-ORDER-OF-DUTY",
+      "country_zh": "苏丹",
+      "name": "职责勋章·二等",
+      "original": "Order of Duty, II Class",
+      "date": "制度日期待考",
+      "variant": "二等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-6c711796d4dee760"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-SPORT-IN-BRONZE",
+      "family": "MENA7-ORDER-OF-SPORT-IN-SILVER",
+      "country_zh": "苏丹",
+      "name": "体育勋章·铜质版",
+      "original": "Order of Sport, in Bronze",
+      "date": "制度日期待考",
+      "variant": "铜质版；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-cb4f030b4fab9163"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-THE-PALM-AND-CROCODILE-BADGE",
+      "family": "SDN-MB-ORDER-PALM-CROCODILE",
+      "country_zh": "苏丹",
+      "name": "棕榈与鳄鱼勋章·挂章",
+      "original": "Order of the Palm and Crocodile, Badge",
+      "date": "制度日期待考",
+      "variant": "挂章；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-92b25a6f3ac79bf3"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-THE-PALM-AND-CROCODILE-BREAST-STAR",
+      "family": "SDN-MB-ORDER-PALM-CROCODILE",
+      "country_zh": "苏丹",
+      "name": "棕榈与鳄鱼勋章·星章",
+      "original": "Order of the Palm and Crocodile, Breast Star",
+      "date": "制度日期待考",
+      "variant": "星章；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-a6deb447b01ce463"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-THE-REPUBLIC-IV-CLASS",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC",
+      "country_zh": "苏丹",
+      "name": "苏丹共和国勋章·四等",
+      "original": "Order of the Republic, IV Class",
+      "date": "制度日期待考",
+      "variant": "四等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-de7b24a53a4bc8bb"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    },
+    {
+      "id": "SDN-MB-PENDING-ORDER-OF-THE-REPUBLIC-V-CLASS",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC",
+      "country_zh": "苏丹",
+      "name": "苏丹共和国勋章·五等",
+      "original": "Order of the Republic, V Class",
+      "date": "制度日期待考",
+      "variant": "五等；有目录文字记录，暂缺完整图片",
+      "views": [],
+      "source_ids": [
+        "medalbook-sudan-8a39a5c5a267f4a5"
+      ],
+      "image_kind": "unpictured_record",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "as_of": "2026-09-29",
+  "purpose": "User-supplied name inventories used only as discovery and gap-checking leads. Every item requires an opened reliable source before formal ingestion.",
+  "policy": "only_add_never_silently_drop; orders, medals, and insignia attached to supreme or honorary titles are all separate candidates; grades and production variants remain within one family",
+  "scopes": [
+    {
+      "scope": "Soviet Union",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-d4c48563-8f3a-48bd-907b-6a2ff798e2a3.png",
+      "authoritative_sweep": ["https://mondvor.narod.ru/ordpage.htm", "https://mondvor.narod.ru/medpage.htm", "https://mondvor.narod.ru/heropage.htm", "https://mondvor.narod.ru/PochZvan.htm"],
+      "status": "active_full_directory_sweep",
+      "minimum_directory_boundary": {"orders": 20, "medals": 55, "supreme_titles": 4, "honorary_title_links": 19}
+    },
+    {
+      "scope": "Belarus",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-1b04a0f5-88c4-4a0f-a015-9bf9c9a49bc2.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["祖国勋章", "军事光荣勋章", "卡斯图斯·卡利诺夫斯基勋章", "劳动光荣勋章", "为祖国服役勋章", "个人英勇勋章", "各族人民友谊勋章", "荣誉勋章", "弗朗西斯克·斯科里纳勋章", "母亲勋章", "巩固和平友谊勋章"]
+    },
+    {
+      "scope": "German Democratic Republic",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-1b04a0f5-88c4-4a0f-a015-9bf9c9a49bc2.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["德意志民主共和国英雄", "卡尔·马克思勋章", "劳动英雄", "各族人民友谊星章", "卫国功勋勋章", "劳动旗帜勋章", "沙恩霍斯特勋章", "布吕歇尔勋章", "为人民与祖国服役战斗勋章"]
+    },
+    {
+      "scope": "Russian Empire",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-1b04a0f5-88c4-4a0f-a015-9bf9c9a49bc2.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["圣安德烈勋章", "圣叶卡捷琳娜勋章", "圣亚历山大·涅夫斯基勋章", "圣格奥尔基勋章", "圣弗拉基米尔勋章", "白鹰勋章", "圣安娜勋章", "圣斯坦尼斯拉夫勋章", "耶路撒冷圣约翰勋章", "波兰军事勋章", "格奥尔基十字勋章"]
+    },
+    {
+      "scope": "Kazakhstan",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-75fc2aa2-362f-4e05-bb5a-52602583dd52.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["人民英雄", "哈萨克斯坦劳动英雄", "金鹰勋章", "祖国勋章", "努尔苏丹·纳扎尔巴耶夫勋章", "光荣勋章", "英勇勋章", "高尚勋章", "友谊勋章", "荣誉勋章", "雪豹勋章", "劳动光荣勋章"]
+    },
+    {
+      "scope": "Czechoslovakia",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-75fc2aa2-362f-4e05-bb5a-52602583dd52.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["捷克斯洛伐克社会主义共和国英雄", "社会主义劳动英雄", "克莱门特·哥特瓦尔德勋章", "二·二五勋章", "白狮勋章", "扬·杰式卡勋章", "共和国勋章", "胜利二月勋章", "红旗勋章", "劳动红旗勋章", "红星勋章", "劳动勋章", "劳动红星勋章", "友谊勋章", "捷克斯洛伐克自由军事勋章", "斯洛伐克民族起义勋章", "1918年军事十字勋章", "1939年军事十字勋章"]
+    },
+    {
+      "scope": "Mongolian People's Republic",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-6fbebfaf-ee91-4b79-977e-55dc30b9254c.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["蒙古人民共和国英雄", "蒙古人民共和国劳动英雄", "苏赫巴托尔勋章", "红旗勋章", "劳动功勋红旗勋章", "战功勋章", "北极星勋章", "友谊奖章", "哈拉哈河胜利30周年纪念奖章", "蒙古人民革命50周年纪念奖章", "蒙古人民共和国50周年纪念奖章", "战胜军国主义日本30周年纪念奖章", "哈拉哈河胜利40周年纪念奖章"]
+    },
+    {
+      "scope": "Ukraine",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-6fbebfaf-ee91-4b79-977e-55dc30b9254c.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["乌克兰英雄", "自由勋章", "智者雅罗斯拉夫王公勋章", "功勋勋章", "波格丹·赫梅利尼茨基勋章", "英勇勋章", "奥莉加女王勋章", "丹尼尔·加利茨基勋章", "忘我采矿劳动勋章", "为乌克兰服役奖章", "圆满服役奖章", "祖国卫士奖章", "救死扶伤奖章"]
+    },
+    {
+      "scope": "Socialist Republic of Vietnam",
+      "reference_image": "C:/Users/agcrf/AppData/Local/Temp/codex-clipboard-74f8c0a5-589a-4a5a-8d0e-13f2513da102.png",
+      "status": "pending_source_crosscheck",
+      "names_zh": ["人民武装力量英雄", "劳动英雄", "越南英雄母亲", "金星勋章", "胡志明勋章", "独立勋章", "军功勋章", "劳动勋章", "祖国保卫勋章", "战功勋章", "民族大团结勋章", "勇敢勋章", "友谊勋章"]
+    }
+  ]
+}

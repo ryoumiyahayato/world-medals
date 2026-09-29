@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "spink-ottoman-archive-query",
+  "source_title": "Spink Lots Archive search: Ottoman Empire",
+  "query": "Ottoman Empire",
+  "status": "complete_current_result_set",
+  "result_pages_processed": 5,
+  "all_results_processed": 83,
+  "award_candidate_lot_pages_processed": 16,
+  "award_candidate_image_urls": 27,
+  "non_award_results_retained_for_audit": 67,
+  "candidate_file": "data/raw_candidates/spink_ottoman_archive.jsonl",
+  "notes": [
+    "Every current result page and every award-candidate lot page was cached.",
+    "Coins, banknotes, stamps and currency lots remain in the raw audit file as non-award results and are not catalogue candidates.",
+    "The query is a reproducible bounded source sweep, not a claim that all possible Spink wording variants have been exhausted."
+  ]
+}

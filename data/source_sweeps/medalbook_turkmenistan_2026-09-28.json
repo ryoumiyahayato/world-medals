@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "medalbook_turkmenistan",
+  "source_name": "MedalBook — Turkmenistan complete public catalogue",
+  "seed_url": "https://www.medalbook.com/middle-east/turkmenistan/orders",
+  "status": "completed",
+  "planned_index_pages": 2,
+  "processed_index_pages": 2,
+  "index_page_candidate_counts": {
+    "https://www.medalbook.com/middle-east/turkmenistan/orders": 12,
+    "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations": 12
+  },
+  "discovered_item_pages": 24,
+  "processed_item_pages": 24,
+  "item_pages_with_images": 3,
+  "original_image_urls": 7,
+  "failed_pages": [],
+  "remaining_pages": 0,
+  "raw_candidate_file": "data/raw_candidates/medalbook_turkmenistan.jsonl",
+  "cache_directory": "sources/pages/medalbook_turkmenistan",
+  "completion_rule": "Every configured index/category page and every discovered Turkmenistan object/version page were fetched."
+}

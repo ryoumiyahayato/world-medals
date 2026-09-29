@@ -1,0 +1,59 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-commons-004",
+      "record_id": "EGY-COMMONS-NILE-FOURTH-CLASS",
+      "view_key": "EGY-COMMONS-004-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-004.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Nile,_4th_class.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Order_of_the_Nile%2C_4th_class.jpg",
+      "artist": "Hsq7278",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        415,
+        907
+      ],
+      "bytes": 110989,
+      "sha256": "9b32becf72c6f142af58c226548b9049122bab98efd84e4a1ac361ad259e8847",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-commons-005",
+      "record_id": "EGY-COMMONS-NILE-REPUBLIC-STAR",
+      "view_key": "EGY-COMMONS-005-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-005.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Order_of_the_Nile,_star_(Republic_of_Egypt).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Order_of_the_Nile,_star_%28Republic_of_Egypt%29.jpg",
+      "artist": "Hsq7278",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        568,
+        566
+      ],
+      "bytes": 88627,
+      "sha256": "fb3eae499b21e08aa10c557ca85838f0b8efe6d586eac1e4bf3c7bb96e5f836a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-commons-009",
+      "record_id": "EGY-COMMONS-REPUBLIC-FIRST-CLASS-SET-1977",
+      "view_key": "EGY-COMMONS-009-FRONT",
+      "local_path": "assets/images/egypt_commons_batch1/EGY-COMMONS-009.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:(!)وسام_الجمهورية_من_الدرجة_الأولى_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%28%21%29%D9%88%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_1977.jpg",
+      "artist": "Nagui elnakadi",
+      "license": "CC BY-SA 4.0",
+      "dimensions": [
+        3456,
+        4608
+      ],
+      "bytes": 6080285,
+      "sha256": "0d2f0d481a90fe610d1ba97648459b27d2ca31c052805f3763e936726aee8b2b",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

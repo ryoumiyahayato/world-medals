@@ -1,0 +1,50 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Residual edge cases from the German and Italian Ottoman honour lists checked against TDV and focused academic sources",
+  "entries": [
+    {
+      "candidate": "Sultan Abdülaziz London Visit Medal",
+      "date": "1867",
+      "status": "RELATED_FOREIGN_ISSUED_UNPICTURED",
+      "family_id": "OTT-REL-ABDULAZIZ-LONDON-VISIT-1867",
+      "decision": "Retain in the historical commemorative appendix. The City of London/British issue commemorated the Sultan's visit but was not an Ottoman state award.",
+      "evidence": "Academic description identifies a 76.4 mm, 275.42 g bronze medal by J. S. and A. B. Wyon; auction references describe an original cased example and a mintage of 350.",
+      "source_pages": [
+        "https://www.dieweltdertuerken.org/admin/files/issues/321-1427-1-PB.pdf",
+        "https://koleksiyonturkiye.blogspot.com/2019/03/osmanl-imparatorlugu-sultan-abdulazizin.html"
+      ]
+    },
+    {
+      "candidate": "Sanay-i Nefise Madalyası / Medal of Fine Arts",
+      "date_candidates": ["1884", "1888 regulation", "1889"],
+      "status": "EXISTING_FAMILY_PERIOD_ALIAS_CONFLICT",
+      "family_id": "OTT-SANAYI",
+      "decision": "Do not create a second family. A 2026 Belleten study states that the existing Sanayi medal was later transformed/renamed as Sanayi-i Nefise; the Italian list's 1889 label and Künker's 1884 fourth-model date are retained as period/date candidates until the regulation and object types are aligned.",
+      "source_pages": [
+        "https://www.belleten.gov.tr/tam-metin/3819/tur",
+        "https://it.wikipedia.org/wiki/Onorificenze_dell%27Impero_ottomano"
+      ]
+    },
+    {
+      "candidate": "Ertuğrul, Meziyet and Ziraat Liyakat orders",
+      "status": "PROPOSED_NOT_MADE",
+      "decision": "Retain as three separate proposed/unmade schemes, outside the issued formal-family count. TDV says Ertuğrul was abandoned after its regulation and the other two were apparently not manufactured.",
+      "source_pages": ["https://islamansiklopedisi.org.tr/nisan--madalya"]
+    },
+    {
+      "candidate": "Çelenk, sorguç, tuğ and pre-order robes or gifts",
+      "status": "EARLY_HONOUR_BOUNDARY_REQUIRES_SEPARATE_TYPOLOGY",
+      "decision": "Do not merge ceremonial gifts, rank emblems, copies or horse-tail standards into medal/order counts. Çelenk remains a historical honour type; the current local example is explicitly a copy. A separate early-honours appendix requires object-level evidence.",
+      "source_pages": [
+        "https://islamansiklopedisi.org.tr/nisan--madalya",
+        "https://de.wikipedia.org/wiki/Liste_der_osmanischen_Orden_und_Ehrenzeichen"
+      ]
+    },
+    {
+      "candidate": "Palästina-Raute",
+      "date": "1914–1918",
+      "status": "RELATED_FIELD_BADGE_UNRESOLVED",
+      "decision": "The German list alone does not establish it as an Ottoman state decoration. Keep it out of the formal count pending an object page or regulation; if verified, place it with qualification/campaign badges rather than medals."
+    }
+  ]
+}

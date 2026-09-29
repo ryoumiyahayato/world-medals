@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "sudan-presidency-wayback-alternate-captures",
+  "status": "normalized_batch_1",
+  "text_only_slugs_checked": 17,
+  "valid_official_images_recovered": 15,
+  "new_variant_rows_added": 7,
+  "existing_rows_supplemented": 6,
+  "official_views_published": 15,
+  "newly_resolved_unpictured_variants": [
+    "Order of Sport, Gold",
+    "Order/Medal of Military Accomplishment (MedalBook naming normalized to the official family)"
+  ],
+  "new_exact_variants": [
+    "Order of Sport, Gold",
+    "Order of Bravery, Gold",
+    "Medal of Bravery, Silver",
+    "Medal of Bravery, Bronze, front and reverse"
+  ],
+  "official_grade_unresolved_views_retained": [
+    "Order of Distinction star",
+    "Order of the Republic",
+    "Order of the Two Niles star",
+    "Order of Merit"
+  ],
+  "rejected_redirects": [
+    "Medal-Sports-Bronze",
+    "Medal-Sports-Silver"
+  ],
+  "rejection_reason": "The timestamp requests redirected to the Presidency homepage or a verification page and returned the same unrelated image; those files were deleted and not published."
+}

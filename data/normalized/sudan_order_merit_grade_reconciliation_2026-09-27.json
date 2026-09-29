@@ -1,0 +1,50 @@
+{
+  "as_of": "2026-09-27",
+  "award_family": "MENA7-ORDER-OF-MERIT-OF-THE-SUDANESE-REPUBLIC",
+  "name": "Order of Merit of Sudan / نوط الجدارة",
+  "established": "1961-11-16",
+  "grade_mapping": [
+    {
+      "grade": "I Class",
+      "material_description": "gilded silver / gold grade",
+      "pictured_records": [
+        "SDN-COMMONS-UPGRADE-MENA7-ORDER-OF-MERIT-OF-THE-SUDANESE-REPUBLIC-C7EED759BFC1",
+        "SDN-COMMONS-ORDER-MERIT-ALT-GOLD"
+      ],
+      "resolved_pending": "SDN-MB-PENDING-ORDER-OF-MERIT-I-CLASS"
+    },
+    {
+      "grade": "II Class",
+      "material_description": "silver / silver grade",
+      "pictured_records": ["SDN-COMMONS-ORDER-MERIT-ALT-SILVER"],
+      "resolved_pending": "SDN-MB-PENDING-ORDER-OF-MERIT-II-CLASS"
+    },
+    {
+      "grade": "III Class",
+      "material_description": "bronze / bronze grade",
+      "pictured_records": [
+        "SDN-COMMONS-UPGRADE-MENA7-ORDER-OF-MERIT-OF-THE-SUDANESE-REPUBLIC-A9B7F78A1898",
+        "SDN-COMMONS-ORDER-MERIT-ALT-BRONZE"
+      ],
+      "resolved_pending": "SDN-MB-PENDING-ORDER-OF-MERIT-III-CLASS"
+    }
+  ],
+  "evidence": [
+    {
+      "source": "Sudan Presidency-derived statutory description reproduced in the Order of Merit reference entry",
+      "url": "https://en.wikipedia.org/wiki/Order_of_Merit_(Sudan)",
+      "summary": "The order is established 16 November 1961 and its three classes are respectively gilded silver, silver and bronze."
+    },
+    {
+      "source": "Wikimedia Commons object pages",
+      "url": "https://commons.wikimedia.org/wiki/Category:Order_of_Merit_of_the_Sudanese_Republic",
+      "summary": "The retained complete objects are explicitly titled Gold, Silver and Bronze and already belong to the same normalized award family."
+    },
+    {
+      "source": "MedalBook Sudan catalogue",
+      "url": "https://www.medalbook.com/africa-north/sudan-1",
+      "summary": "The catalogue enumerates Order of Merit I, II and III Class, forming the difference set reconciled here."
+    }
+  ],
+  "status": "resolved_existing_images_reclassified_no_duplicate_rows_added"
+}

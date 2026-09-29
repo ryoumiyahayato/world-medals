@@ -1,0 +1,193 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "hkg-wa-grand_bauhinia_medal-representative-image",
+      "record_id": "HKG-WA-GRAND_BAUHINIA_MEDAL-REPRESENTATIVE",
+      "view_key": "HKG-WA-GRAND_BAUHINIA_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/grand-bauhinia-medal.jpg",
+      "source_page": "https://wawards.org/hong-kong/grand-bauhinia-medal.html",
+      "image_url": "https://wawards.org/images/hongkong/2/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 77662,
+      "sha256": "9a4b62749f963190de63c088e97a73d9555ada4897b21f643fd5a04837e7dd13",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-bauhinia_star-representative-image",
+      "record_id": "HKG-WA-BAUHINIA_STAR-REPRESENTATIVE",
+      "view_key": "HKG-WA-BAUHINIA_STAR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/bauhinia-star.jpg",
+      "source_page": "https://wawards.org/hong-kong/bauhinia-star.html",
+      "image_url": "https://wawards.org/images/hongkong/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42192,
+      "sha256": "faca8bc859fdce9069241d45eb42d40aef5118ffed361b36fc7e121532426845",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-medal_of_honour-representative-image",
+      "record_id": "HKG-WA-MEDAL_OF_HONOUR-REPRESENTATIVE",
+      "view_key": "HKG-WA-MEDAL_OF_HONOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/medal-of-honour.jpg",
+      "source_page": "https://wawards.org/hong-kong/medal-of-honour.html",
+      "image_url": "https://wawards.org/images/hongkong/3/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 112146,
+      "sha256": "47a83f2a66a87bf32614bb8c97de2e807e17eb506e001f1d6b2ade01b6ddc75f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-medal_for_bravery-representative-image",
+      "record_id": "HKG-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "view_key": "HKG-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/medal-for-bravery.jpg",
+      "source_page": "https://wawards.org/hong-kong/medal-for-bravery.html",
+      "image_url": "https://wawards.org/images/hongkong/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 114317,
+      "sha256": "01973d98914ec09ab46dea2efb41975225dac129c7d2f1bc76803d7589e1b832",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-hong_kong_plague_medal-representative-image",
+      "record_id": "HKG-WA-HONG_KONG_PLAGUE_MEDAL-REPRESENTATIVE",
+      "view_key": "HKG-WA-HONG_KONG_PLAGUE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/hong-kong-plague-medal.jpg",
+      "source_page": "https://wawards.org/hong-kong/hong-kong-plague-medal.html",
+      "image_url": "https://wawards.org/images/hongkong/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 73007,
+      "sha256": "e9608201f9d93858dad416f3f4991df9352570434e250fd1ab00c1bc932109c6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-police_medal_for_meritorious_service-representative-image",
+      "record_id": "HKG-WA-POLICE_MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE",
+      "view_key": "HKG-WA-POLICE_MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/police-medal-for-meritorious-service.jpg",
+      "source_page": "https://wawards.org/hong-kong/police-medal-for-meritorious-service.html",
+      "image_url": "https://wawards.org/images/hongkong/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71671,
+      "sha256": "cb412b6a5f6ea65cd76ccffed5dc1ff29e0d2a3c9f4a34902aa9be3ae16c31e8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-police_long_service_medal-representative-image",
+      "record_id": "HKG-WA-POLICE_LONG_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "HKG-WA-POLICE_LONG_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/police-long-service-medal.jpg",
+      "source_page": "https://wawards.org/hong-kong/police-long-service-medal.html",
+      "image_url": "https://wawards.org/images/hongkong/6/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 84334,
+      "sha256": "26bd7724f7b8483ea102b708c42570a2addd67f3913bb1c0b5d67fdf7494d855",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-customs_and_excise_medal_for_distinguished_service-representative-image",
+      "record_id": "HKG-WA-CUSTOMS_AND_EXCISE_MEDAL_FOR_DISTINGUISHED_SERVICE-REPRESENTATIVE",
+      "view_key": "HKG-WA-CUSTOMS_AND_EXCISE_MEDAL_FOR_DISTINGUISHED_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/customs-and-excise-medal-for-distinguished-service.jpg",
+      "source_page": "https://wawards.org/hong-kong/customs-and-excise-medal-for-distinguished-service.html",
+      "image_url": "https://wawards.org/images/hongkong/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64434,
+      "sha256": "81dd081915f1d72f631b2414155f9f5014bdb8d3cf7d5e4a4efbc07bf925ae34",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-customs_and_excise_medal_for_meritorious_service-representative-image",
+      "record_id": "HKG-WA-CUSTOMS_AND_EXCISE_MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE",
+      "view_key": "HKG-WA-CUSTOMS_AND_EXCISE_MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/customs-and-excise-medal-for-meritorious-service.jpg",
+      "source_page": "https://wawards.org/hong-kong/customs-and-excise-medal-for-meritorious-service.html",
+      "image_url": "https://wawards.org/images/hongkong/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68078,
+      "sha256": "da926621bc2cde494cb4ccb679cd64ccc94363a97366ee3e6ea4477f2e2c7462",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-customs_and_excise_long_service_medal-representative-image",
+      "record_id": "HKG-WA-CUSTOMS_AND_EXCISE_LONG_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "HKG-WA-CUSTOMS_AND_EXCISE_LONG_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/customs-and-excise-long-service-medal.jpg",
+      "source_page": "https://wawards.org/hong-kong/customs-and-excise-long-service-medal.html",
+      "image_url": "https://wawards.org/images/hongkong/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65427,
+      "sha256": "edebc51fa1d30f0cb274dfb0d23f4d8a0b1f1769afe6c62d11402b12b78fd42d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "hkg-wa-civil_aid_service_long_service_medals-representative-image",
+      "record_id": "HKG-WA-CIVIL_AID_SERVICE_LONG_SERVICE_MEDALS-REPRESENTATIVE",
+      "view_key": "HKG-WA-CIVIL_AID_SERVICE_LONG_SERVICE_MEDALS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/hong_kong_wawards_families/civil-aid-service-long-service-medals.jpg",
+      "source_page": "https://wawards.org/hong-kong/civil-aid-service-long-service-medals.html",
+      "image_url": "https://wawards.org/images/hongkong/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72688,
+      "sha256": "d2c40007c3906d40725e204d0fd6e0ef288989da0b87291a591335102ccc7dad",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": []
+}

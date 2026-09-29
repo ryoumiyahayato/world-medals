@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "sudan-presidency-wayback-awards",
+  "status": "normalized_batch_1",
+  "source_pages_processed": 28,
+  "official_images_downloaded_and_decoded": 11,
+  "official_views_integrated": 11,
+  "exact_grade_official_views_integrated": 9,
+  "newly_resolved_unpictured_variants": 3,
+  "integrated": [
+    {
+      "record_id": "SDN-COMMONS-PRODUCTION-GOLD",
+      "resolution": "Order of Production I Class / gold; official diagram added"
+    },
+    {
+      "record_id": "SDN-COMMONS-PRODUCTION-SILVER",
+      "resolution": "Order of Production II Class / silver; official diagram added"
+    },
+    {
+      "record_id": "SDN-COMMONS-UPGRADE-MENA7-ORDER-OF-PRODUCTION-SUDAN-83C824242AD5",
+      "resolution": "Order of Production III Class / bronze; official diagram added"
+    },
+    {
+      "record_id": "SDN-COMMONS-SCIENCE-ARTS-GOLD",
+      "resolution": "Gold variant already pictured; official diagram added"
+    },
+    {
+      "record_id": "SDN-COMMONS-SCIENCE-ARTS-SILVER",
+      "resolution": "Silver variant already pictured; official diagram added"
+    },
+    {
+      "record_id": "SDN-COMMONS-UPGRADE-MENA7-MEDAL-FOR-MERIT-135AA0D3E9C4685F",
+      "resolution": "I Class ordinary and gold official front/reverse diagrams added"
+    },
+    {
+      "record_id": "SDN-COMMONS-UPGRADE-MENA7-MEDAL-FOR-GALLANTRY-7CC54D027FD2C886",
+      "resolution": "Official diagram added with exact class deliberately left unresolved"
+    },
+    {
+      "record_id": "SDN-PRESIDENCY-LOYAL-SON-OFFICIAL",
+      "resolution": "Official standard diagram added; the prior MedalBook miniature was normalized under the miniature variant instead of being presented as a generic standard badge"
+    }
+  ],
+  "held_for_reconciliation": [
+    {
+      "page_slug": "Medal-Courage",
+      "reason": "The page describes a two-class award and the official image is integrated, but its exact class remains deliberately unasserted."
+    }
+  ],
+  "text_only_or_placeholder_pages": 17,
+  "rights_note": "Official site images are retained as sourced official diagrams for catalogue research; no open licence is asserted."
+}

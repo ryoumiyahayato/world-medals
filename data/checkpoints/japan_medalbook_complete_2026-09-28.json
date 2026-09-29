@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Japan — MedalBook complete Japan catalogue, excluding Manchukuo",
+  "status": "source_complete_formal_batch_merged",
+  "source_coverage": {
+    "index_and_category_pages": 4,
+    "object_pages_planned": 117,
+    "object_pages_completed": 117,
+    "pictured_object_pages": 79,
+    "images_planned": 306,
+    "images_downloaded_and_decoded": 306,
+    "download_failures": 0
+  },
+  "formal_merge": {
+    "new_rows": 72,
+    "independent_families": 31,
+    "local_complete_views": 128,
+    "historical_catalogue_illustration_rows": 3,
+    "excluded_adjacent_or_non_state_records": 6,
+    "merged_duplicate_grade_label_records": 1
+  },
+  "outputs": [
+    "data/raw_candidates/medalbook_japan.jsonl",
+    "data/source_sweeps/medalbook_japan_2026-09-27.json",
+    "data/source_sweeps/medalbook_japan_images_2026-09-28.json",
+    "data/volumes/japan_medalbook_variants.json",
+    "data/volumes/japan_medalbook_variants_manifest.json",
+    "data/source_atlas/japan_source_matrix.json",
+    "assets/images/japan_medalbook/",
+    "index.html"
+  ],
+  "site_after_merge": {
+    "main_rows": 1412,
+    "main_families": 705,
+    "country_or_period_sections": 50,
+    "decoded_local_files": 2066,
+    "unique_gallery_image_paths": 1991,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Proceed to the complete Mongolia directory, then treat Manchukuo separately. Resume the Japanese Cabinet Office and museum differentials afterward."
+}

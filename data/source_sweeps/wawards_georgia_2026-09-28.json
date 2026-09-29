@@ -1,0 +1,12 @@
+{
+  "source_id": "wawards-georgia",
+  "source_url": "https://wawards.org/en/georgia.html",
+  "accessed": "2026-09-28",
+  "scope": "Complete country index, every linked award page and every exposed full-size image.",
+  "status": "complete",
+  "planned_object_pages": 30,
+  "processed_object_pages": 30,
+  "downloaded_images": 100,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_georgia.jsonl"
+}

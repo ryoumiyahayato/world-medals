@@ -1,0 +1,11 @@
+{
+  "source_id": "wawards_laos_current_lists",
+  "accessed": "2026-09-28",
+  "scope": "Both current Wawards Laos list pages and every linked award object page and image",
+  "status": "complete",
+  "planned_object_pages": 3,
+  "processed_object_pages": 3,
+  "downloaded_images": 10,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_laos.jsonl"
+}

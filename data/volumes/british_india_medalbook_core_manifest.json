@@ -1,0 +1,751 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "bind-mb-000-01",
+      "record_id": "BIND-MB-000-V01",
+      "view_key": "BIND-MB-000-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/000_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/indian-distinguished-service-medal/indian-distinguished-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/14e33d08107417a74f24244e966ce7c15e0cb660/store/fit/528/348/085502b5096f2015347d2f0d29e892b548456a3abee3a5e018b2704fc872/Silver+Medal+%281911-1933%29+Obverse.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        305,
+        348
+      ],
+      "bytes": 31324,
+      "sha256": "ee99eb9c5fbc36acdc0949819df01f70298f0fa11c621129726d18202a0fa83f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-000-02",
+      "record_id": "BIND-MB-000-V01",
+      "view_key": "BIND-MB-000-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/000_02.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/indian-distinguished-service-medal/indian-distinguished-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/b49521893b45e9a2ce1b2cc61ef066e4c6a304d3/store/fit/528/348/5aa8e61ef366a1a8fae35b906af965016b6c90119e38740c8bbd44652a8a/Silver+Medal+%281911-1933%29+Reverse.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        309,
+        348
+      ],
+      "bytes": 32506,
+      "sha256": "10982f2386f440ba5e7ec84a2be1118251a26aaac41902fa432ef3ea18a64f6f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-002-02",
+      "record_id": "BIND-MB-002-V01",
+      "view_key": "BIND-MB-002-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/002_02.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/05bf6657a0c65eb5475fece6429e591f51762fbd/store/fit/528/348/02c57475aaf070d069b32573243a6f96bf2aa485c6b3680c32204238277e/faisal+medal+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 70013,
+      "sha256": "c37bedd3697c1c6f14bb42c8616ea1468734fb36f4cee0db7148acdf71540ddd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-002-04",
+      "record_id": "BIND-MB-002-V01",
+      "view_key": "BIND-MB-002-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/002_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/bbc1fd5fa1cf416b97b57caef93f223a6d5a198b/store/fit/528/348/ac9e532a8a183ab5ac85f45c3d9ceb90590b155ea1258b585a06fcaeafa3/faisal+medal+obv+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 71362,
+      "sha256": "4f6bbf047235a5f69b7ac11e24b33e38c9dec5116456435115b8072d675e2a49",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-003-04",
+      "record_id": "BIND-MB-003-V01",
+      "view_key": "BIND-MB-003-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/003_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/93e72a878cbf494a0095456c0a64ffb6e3a5353c/store/fit/1000/750/a949d8a99bbf5245220f31833b1194e5f29596c497069b076ed5ccaf7019/II-Class-Medal-solid-Obverse-1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        750,
+        750
+      ],
+      "bytes": 36872,
+      "sha256": "827d6eb99d2e5cce9a26fc70f56c25a6c682f1c118fc034b409d80ed59cc11fb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-003-05",
+      "record_id": "BIND-MB-003-V01",
+      "view_key": "BIND-MB-003-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/003_05.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/e516bae862fa197c6157c34805201578864b0737/store/fit/528/348/4c91009f9e2412b0423ae8512f61a4bc861fa23ac9f0c03ece909c1a15f4/II+Class+Medal+%28solid%2C+1910-1936%29+Reverse.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 13115,
+      "sha256": "fe1b4eb13defa402d01da30279284c622a971244288dbdd92fef28b67b5b41ca",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-004-03",
+      "record_id": "BIND-MB-004-V01",
+      "view_key": "BIND-MB-004-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/004_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/640d5110aa9dfd40e55d524e49b43c4d1f53d32e/store/fit/528/348/72f0fb9cfecc613c0069899636b04f891aa970b613aa95f7523aa508db83/OBV+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 9868,
+      "sha256": "29c59eafa5445421008df1111401ace179df7be9462c0629c309f44524b6d650",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-004-04",
+      "record_id": "BIND-MB-004-V01",
+      "view_key": "BIND-MB-004-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/004_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/kaisar-i-hind-medal/kaisar-i-hind-medal-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/da5fc1245bc311a5257ef1ed63a14ff7ba7c3f7f/store/fit/528/348/12f6bf6a3a4d7702c013cd733860454d81cb6968ee287bf207a396ac5e60/REV+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        352,
+        348
+      ],
+      "bytes": 11384,
+      "sha256": "728ea3682cb35ab44738b9eeda4d43c6562e6d93608dddd32605742aaf88ad7f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-005-01",
+      "record_id": "BIND-MB-005-V01",
+      "view_key": "BIND-MB-005-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/005_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/order-of-british-india/order-of-british-india-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/4cb6cc853f9fd3b9a3b9cca20369fed08691e46f/store/fit/1000/750/078127fd5177d6201c8c5d055d652ebb86f8bac6ad34e8d06fa1a66fa4bb/Order+of+British+India.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 319673,
+      "sha256": "65e84980739de1c3d7cc91780063e9ea9c5792452e83d220e9fe4836b965441f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-005-06",
+      "record_id": "BIND-MB-005-V01",
+      "view_key": "BIND-MB-005-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/005_06.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/order-of-british-india/order-of-british-india-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/fcdcdadc9243305f9e91f62ca76295e0b06aef35/store/fit/528/348/9ed1e0379744cf291ce20e8b1d3a131bc1840e10fb0c1a523a66cfd30990/rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 88620,
+      "sha256": "5f8c9b603caf3cca0d7d7c3c9b373e2677b5015eec9b550534df9cc07da822dd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-006-03",
+      "record_id": "BIND-MB-006-V01",
+      "view_key": "BIND-MB-006-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/006_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/order-of-british-india/order-of-british-india-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/a4684a8c5d442af23dd95755fd9be702376a5925/store/fit/1000/750/fcccd97cbb17b03ab70771ea4d95804caa8f86022f0ae56a0463eaba5763/II-Class-Medal-1939-1947-Obverse-1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 82380,
+      "sha256": "f684b5a4579939fa0ae3d406862ed0abe5d5f15b97854d2f4376461cd3655fbf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-006-04",
+      "record_id": "BIND-MB-006-V01",
+      "view_key": "BIND-MB-006-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/006_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/order-of-british-india/order-of-british-india-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/cde9eafaf85a1da69f21407e352d9f005f55c6e2/store/fit/528/348/5029e805a0dcf26a8edde2dab931b527dddb19a69f6239443459009bca05/II-Class-Medal-1939-1947-Reverse-1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 22225,
+      "sha256": "fb5700d37adbe8c06cc4bef016f16a47705485ec3dd3d2feca634408a5f84db0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-009-01",
+      "record_id": "BIND-MB-009-V01",
+      "view_key": "BIND-MB-009-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/009_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/civilian-division/indian-order-of-merit-civilian-division-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/386a8f28c7655dc4c281fe8d0b114fd99efdf807/store/fit/528/348/e4ba077b2ac12b19d44e1a6cad6fa728ee8416f430d88bd69967bdff8a28/Indian+Order+Merit+Civil+IIC+LPM.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 72739,
+      "sha256": "affcaf61bfdff6c4bdb2dc2a97560b91cc233e54fb17b5ab44d47f613010541f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-009-03",
+      "record_id": "BIND-MB-009-V01",
+      "view_key": "BIND-MB-009-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/009_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/civilian-division/indian-order-of-merit-civilian-division-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/8822742ab8e4efe5c357a220522a5f4d51323744/store/fit/528/348/db85a01305d296d791e6f85efa6179e27f07d87c9b4c6154062d5ee89bd0/Indian+Order+Merit+Civil+IIC+LPM+Rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        348,
+        348
+      ],
+      "bytes": 67553,
+      "sha256": "ebdf95220d4d43e2fd607c88efd295f49f327c82cecd0ce6c36ccdd90406f587",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-011-01",
+      "record_id": "BIND-MB-011-V01",
+      "view_key": "BIND-MB-011-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/011_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/military-division/indian-order-of-merit-military-division-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/432eb98d461fd7471a4a0770acb9f4402416333c/store/fit/1000/750/58024748b12325d95f4cf8ef90845aa129ea9081235ea3564bbde04917e7/Indian+Order+of+Merit%2C+Mlitary%2C+I+Class+1837-1912%2C+Obv+.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        371,
+        750
+      ],
+      "bytes": 69921,
+      "sha256": "6aeb369cb5b847e398595f9033b56723f8d6e13637db1009da930dcf6bf6cb87",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-012-01",
+      "record_id": "BIND-MB-012-V01",
+      "view_key": "BIND-MB-012-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/012_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/military-division/indian-order-of-merit-military-division-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/2fc6ef9f984f655bcd8c3279f6d94ca36a72430e/store/fit/528/348/7764bede95e24c79e5432f8aab2d57b5e8618a25be0a6cc357884ac67b15/UK+Indian+Order+of+Merit+IIC+Milit+ME88.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        346,
+        348
+      ],
+      "bytes": 36243,
+      "sha256": "ccf891bff5e81a4b43874ac3436be3b63af7ca7b5f772ea933d69c08fd650ab0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-013-03",
+      "record_id": "BIND-MB-013-V01",
+      "view_key": "BIND-MB-013-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/013_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/military-division/indian-order-of-merit-military-division-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/6c896b21093358121da305a3aba9a977bce012e5/store/fit/528/348/92a7608d9cd674e7400bc2b98bf66ab924ab3dec67ebe66a90bca948adb8/Indian+Order+of+Merit+III+C.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 59379,
+      "sha256": "ca0f83b527f5a065563e278bba87081582ec6e2ed87c731a5f529bbcf5b04c68",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-013-01",
+      "record_id": "BIND-MB-013-V01",
+      "view_key": "BIND-MB-013-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/013_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/military-division/indian-order-of-merit-military-division-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/241299366be663aeecef2b21ebf6fc02805e0931/store/fit/528/348/cd2124759aab60f71b07225a57e45893675708bf5bdedbada5009597b465/Indian+Order+of+Merit+III+C+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 59149,
+      "sha256": "2d9c871cf034def0d139b94d77faca5de845c204303c5af3a891f58fe1dcd5aa",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-014-04",
+      "record_id": "BIND-MB-014-V01",
+      "view_key": "BIND-MB-014-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/014_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-imperial-order-of-the-crown-of-india/the-imperial-order-of-the-crown-of-india-companion-1",
+      "image_url": "https://www.medalbook.com/attachments/591c20de94637da2e2721a105111edaf1f7a1158/store/fit/1000/750/9724fe8d37cfa717494d479aa1591d105ebb147e7ba5faf3e1f1b0ca7a95/obv+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 348897,
+      "sha256": "f49bbd1c1b6a869ec161b3ca51948218e2ea9a9564e2756cc7f81ba4ea1aa0b0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-014-05",
+      "record_id": "BIND-MB-014-V01",
+      "view_key": "BIND-MB-014-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/014_05.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-imperial-order-of-the-crown-of-india/the-imperial-order-of-the-crown-of-india-companion-1",
+      "image_url": "https://www.medalbook.com/attachments/72983ea9a40364d81eccbbde3ead8faa704b613d/store/fit/528/348/8848fb3a2b0f3f6e6c19f04a73fee0640137c50971380f239f2c6c0ddfb5/obv+3.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 77406,
+      "sha256": "ce6057b3a5047db824a1e5ee7efbcf7120fbca8c85ec5319551123f4fc5a9a00",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-015-01",
+      "record_id": "BIND-MB-015-V01",
+      "view_key": "BIND-MB-015-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/015_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/54797ea4d2a954372f1bd4ab3cde2b9985f1c1e4/store/fit/528/348/17f1280ce9d6eed5e3f30bcf7ea257729e548249eb3f41452171d4a05ec9/The+Most+Eminent+Order+of+the+Indian+Empire%2C+Collar.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        178,
+        348
+      ],
+      "bytes": 37497,
+      "sha256": "b69f4b839947b884abbecff681c3c60e645518ad549ad7e272f1f59c3b4dd962",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-016-04",
+      "record_id": "BIND-MB-016-V01",
+      "view_key": "BIND-MB-016-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/016_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-companion-7",
+      "image_url": "https://www.medalbook.com/attachments/b50ab9f643a10eaee5b16cc8ad903d6639e2a5fb/store/fit/528/348/2a31f65617e08de2d557813524b9496e1e8dd7713f56ec57cae94382ff94/COMPANION+UPDATE+OBV.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 99640,
+      "sha256": "eede2d8dd705dbf1bdf1734cd7d91d84faf760dbe26664fceba15555445144d3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-016-01",
+      "record_id": "BIND-MB-016-V01",
+      "view_key": "BIND-MB-016-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/016_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-companion-7",
+      "image_url": "https://www.medalbook.com/attachments/25465766ac2f6d4ff76a6c46682ccea85a4ff59d/store/fit/528/348/a7dc8c84d7902c246332b3ff02812dead1a9de899eef63a4f5a69d15a876/COMPANION+REV.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 74435,
+      "sha256": "34df29483a24f88924ae58b03433df734ff26a0a368f8490073d7152d710313e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-017-04",
+      "record_id": "BIND-MB-017-V01",
+      "view_key": "BIND-MB-017-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/017_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knight-grand-commander-3",
+      "image_url": "https://www.medalbook.com/attachments/bdd9ad5f4e9a249d94d42e49f14478ec1e7266e5/store/fit/528/348/e88f1159e4cd3c830114131421c1b6b320db785dd49428cb826c0ae80913/grand+comm+obv+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 88354,
+      "sha256": "04f7d5ea38d2dc470147362d71a765f8e70e5f82f423b938d1ea06feedcea168",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-017-03",
+      "record_id": "BIND-MB-017-V01",
+      "view_key": "BIND-MB-017-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/017_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knight-grand-commander-3",
+      "image_url": "https://www.medalbook.com/attachments/7c1eec928feeef615ae245a40f7cf0bbbf994444/store/fit/528/348/19d4a62558c4245cce733b9c101ff435fc0a98acfc033f747455cb9ee095/grand+comm+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 76866,
+      "sha256": "b38f864d33b7931213cc4324f92ad6ebe66c8dcadbeb78e170bf78037a78afc1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-018-02",
+      "record_id": "BIND-MB-018-V01",
+      "view_key": "BIND-MB-018-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/018_02.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knight-grand-commander-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/9af5ad81d283241d057cc6efd4132fa141541365/store/fit/528/348/73561982683b0493ee5be4dcc6d9a772b9a1e0678bfcbfaab1dde865d996/grand+comm+bs+obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 108960,
+      "sha256": "a22a3a44a8b692e79c0e1a89559f1f1184a36ffc229b3773d6b731aa1e2ce385",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-018-03",
+      "record_id": "BIND-MB-018-V01",
+      "view_key": "BIND-MB-018-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/018_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knight-grand-commander-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/a05b4edc0a1701424ca83ebced516bfc68507c71/store/fit/528/348/7f067077fbf65537a2649209404d821c51793e44050aa21391b53db01457/grand+comm+bs+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 91036,
+      "sha256": "cc0767017de6577aebc5ea47a2a9be199393799bcf9ef1bdb3676bd3ecb96d9c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-019-07",
+      "record_id": "BIND-MB-019-V01",
+      "view_key": "BIND-MB-019-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/019_07.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knights-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/b19607667d27a7bc33686418064bfd2822f78ad6/store/fit/1000/750/fee7bf7610640cb083531bfe9422a2f9bb5b69400d1eeaae28f0586bf6ba/knight+commander+obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 289931,
+      "sha256": "21bc1d2464b0eb3b895b762e3d4e663ab030e777ddfb57134a436ebfea762915",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-019-03",
+      "record_id": "BIND-MB-019-V01",
+      "view_key": "BIND-MB-019-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/019_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knights-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/2b845f1476bc956559218efe037144077b5e9182/store/fit/528/348/11e5bf01097a17a88efb686ee509257311fb8fc2378aff4420950e71c7f3/knight+commander+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 67714,
+      "sha256": "15da29c1eb8d244a2ad6ab220f4a5ffdb74135623089a78d5293078447352ec6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-020-02",
+      "record_id": "BIND-MB-020-V01",
+      "view_key": "BIND-MB-020-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/020_02.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knights-commander-breast-star-6",
+      "image_url": "https://www.medalbook.com/attachments/66fb8667652c6a2db8da5ddd61736fdef698faca/store/fit/528/348/c11a9cf1dc5fe62f0dd668b8a06d4514b3c1afb1f4901d3d33543bc84fb8/knight+commander+bs+obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 102451,
+      "sha256": "445ebe702469d80c57a5dac1f5edb1fc074ba20278bcaed62b0f0ea879c4565f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-020-03",
+      "record_id": "BIND-MB-020-V01",
+      "view_key": "BIND-MB-020-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/020_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-eminent-order-of-the-indian-empire/the-most-eminent-order-of-the-indian-empire-knights-commander-breast-star-6",
+      "image_url": "https://www.medalbook.com/attachments/d101d1a08db30783b022a55e241e594d3089087e/store/fit/528/348/1bdd69d02817dab6537c4ab434c367f7ec537347663156f3f091b1798c37/knight+commander+bs+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 82131,
+      "sha256": "49996736c2c515b1affeed20c22048843ecda92e567a26f9936566a08564dc91",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-021-01",
+      "record_id": "BIND-MB-021-V01",
+      "view_key": "BIND-MB-021-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/021_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/47117ce240cb1690836cba8fd24af00deaed078a/store/fit/1000/750/55a173290953b42753c40e14c4598995ed04b8f7a6f8d3d7ba5ef71d8948/Obverse42.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        587,
+        750
+      ],
+      "bytes": 93312,
+      "sha256": "392648d1f431a4ffba51b5d3471d397c278e9fb0ab2361dad5d5f98e58ce4339",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-022-01",
+      "record_id": "BIND-MB-022-V01",
+      "view_key": "BIND-MB-022-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/022_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/00bc303db6aff2be5a40f651147e399e737fd185/store/fit/1000/750/31708d8854ece4e4e18a756d56e8423827dfab9a015ad8b36581a9878d60/Star+of+India+Commander.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 32614,
+      "sha256": "0fa3a6cf77c74831fbc518f4b37cd85299195f52e5747215a8e463c9b0ecf921",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-022-03",
+      "record_id": "BIND-MB-022-V01",
+      "view_key": "BIND-MB-022-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/022_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/6256bca20d7e73aa62d00ac122c63ebbe6ee0dd9/store/fit/528/348/7f64df538519d3ad75e4758a14af12d8225be0d4ad324f6d8129b709f246/Star+of+India+Commander+Rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 31666,
+      "sha256": "1043b2518192d10aa1aba97cf612d909f2743e1b91508e4de3d7f926d908d2f0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-024-01",
+      "record_id": "BIND-MB-024-V01",
+      "view_key": "BIND-MB-024-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/024_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-companion-7",
+      "image_url": "https://www.medalbook.com/attachments/20a1a4c1d434d29403c095463fa6e5af8c998507/store/fit/528/348/5ed59bca4a9ff44d3833bd8a5ead4ab97ddd49403990cbee8e37ce1ea063/Obverse-12.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 23952,
+      "sha256": "22177846ece90120cb6af0feb3a584dd72e3f5932d3200845652e10042d71898",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-025-03",
+      "record_id": "BIND-MB-025-V01",
+      "view_key": "BIND-MB-025-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/025_03.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-grand-commander-3",
+      "image_url": "https://www.medalbook.com/attachments/2fd6c491737e591ef6f2e1ab345d83114561d94e/store/fit/1000/750/69a8d736e74ecb34bba417e8f2304d9b5da1c22a16abbbcb2d32a54bcd57/grand+commander+obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 305521,
+      "sha256": "e41b44558de745b406e763687a06583103178d9a8d2e43719e1001568ed85163",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-025-04",
+      "record_id": "BIND-MB-025-V01",
+      "view_key": "BIND-MB-025-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/025_04.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-grand-commander-3",
+      "image_url": "https://www.medalbook.com/attachments/41304f039dd94b1ae6ae59955c1c213afb2025c5/store/fit/528/348/81dfc9cad6315163da802014da94fdda29174d99df1dd005eb9959c9cc00/grand+commander+rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 59198,
+      "sha256": "b0805492125f32ae212cf7b1253de1b419861bf01c953b5d7f19c9d5ddb23a5f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-026-01",
+      "record_id": "BIND-MB-026-V01",
+      "view_key": "BIND-MB-026-VIEW1",
+      "local_path": "assets/images/medalbook_british_india_core/026_01.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-grand-commander-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/042a5ecdbfca922398d530bd1dc02e30a3a1c403/store/fit/1000/750/c7e9c115b56256d88ff5ff1ce141229f4f575d338a2ac192b04359de4424/bs+obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 328582,
+      "sha256": "9f356ef63b689d330e863dd1faf1e6e3e67be161cf260b858a448d50b798ca4e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "bind-mb-026-02",
+      "record_id": "BIND-MB-026-V01",
+      "view_key": "BIND-MB-026-VIEW2",
+      "local_path": "assets/images/medalbook_british_india_core/026_02.jpg",
+      "source_page": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-grand-commander-breast-star-4",
+      "image_url": "https://www.medalbook.com/attachments/119643270d82c719afdc34ba02368e1736a83e9a/store/fit/528/348/64e41a0e7e6e3922febc7c58dbdadd68a5906a709abfb8388ce30ca51f1f/bs+rev+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 72904,
+      "sha256": "a78a937a84fe2469780bf5e1a9acf98be147eaf0aa5488744c1e98a1d14b50de",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-british-india-core-3f988c06d898f930",
+      "name": "Indian Police Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/gallantry-decorations/indian-police-medal/indian-police-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-british-india-core-b0dd380f17a57b79",
+      "name": "Civilian Division",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/civilian-division",
+      "status": "目录分支，不是奖励条目"
+    },
+    {
+      "source_id": "medalbook-british-india-core-cbc0da82d027ad53",
+      "name": "Indian Order of Merit, Civilian Division, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/civilian-division/indian-order-of-merit-civilian-division-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-british-india-core-b09ec5be522e6666",
+      "name": "Military Division",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/medals-decorations/indian-order-of-merit/military-division",
+      "status": "目录分支，不是奖励条目"
+    },
+    {
+      "source_id": "medalbook-british-india-core-d214af6db9046129",
+      "name": "The Most Exalted Order of the Star of India, Commander Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-commander-breast-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-british-india-core-f3bbe0a668bfec33",
+      "name": "The Most Exalted Order of the Star of India, Mantle Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/europe/united-kingdom/orders/the-most-exalted-order-of-the-star-of-india/the-most-exalted-order-of-the-star-of-india-mantle-star-2",
+      "status": "有记载未配图"
+    }
+  ]
+}

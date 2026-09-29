@@ -1,0 +1,32 @@
+{
+    "scope":  "follow-up unresolved/excluded candidates",
+    "unresolved_or_excluded":  [
+                                   {
+                                       "file_title":  "Motherhood Medal1.JPG",
+                                       "family":  "USSR-MED-54",
+                                       "reason":  "download/decode failed: 远程服务器返回错误: (429) Too many requests (f061ab2)。"
+                                   },
+                                   {
+                                       "file_title":  "Заслуженный Штурман-Испытаетль.jpg",
+                                       "family":  "USSR-HON-05",
+                                       "reason":  "download/decode failed: 远程服务器返回错误: (429) Too many requests (f061ab2)。"
+                                   },
+                                   {
+                                       "file_title":  "Distinguished Pilot Of The Soviet Union.jpg",
+                                       "family":  "USSR-HON-09",
+                                       "reason":  "download/decode failed: 远程服务器返回错误: (429) Too many requests (f061ab2)。"
+                                   },
+                                   {
+                                       "file_title":  "People\u0027s Architect of the USSR.png",
+                                       "family":  "USSR-HON-13",
+                                       "reason":  "download/decode failed: 远程服务器返回错误: (429) Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)。"
+                                   },
+                                   {
+                                       "file_title":  "People\u0027s teacher of the Soviet Union.png",
+                                       "family":  "USSR-HON-14",
+                                       "reason":  "download/decode failed: 远程服务器返回错误: (429) Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)。"
+                                   }
+                               ],
+    "as_of":  "2026-09-28",
+    "note":  "Failed or unresolved candidates remain outside正文 records."
+}

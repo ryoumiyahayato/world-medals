@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-09-27",
+  "source": "Spink auction 20003 lot 1504",
+  "images": [
+    {
+      "key": "SDN-SPINK-20003-1504-MERIT-II-VIEW-1",
+      "record_id": "SDN-SPINK-20003-1504-MERIT-II",
+      "view_key": "SDN-SPINK-20003-1504-MERIT-II-VIEW-1",
+      "local_path": "assets/images/sudan_spink_archive/20003_1504_medal_merit_ii.jpg",
+      "source_id": "spink-20003-lot1504",
+      "source_page": "https://spink.com/lot/20003001504",
+      "source_original_url": "https://d3ums4016ncdkp.cloudfront.net/auction/large/20003/20003_1504_1.jpg",
+      "image_kind": "object_photo_crop",
+      "source_group_image": "assets/raw/spink_sudan/20003_1504_1.jpg",
+      "crop_box_ltrb": [
+        285,
+        8,
+        550,
+        565
+      ],
+      "width": 265,
+      "height": 557,
+      "sha256": "db8a183629afa6f3889352539250e8a3385b85a5c63a3808bd33f6566f57ea90",
+      "visual_check": "complete ribbon, suspension and medal visible; adjacent awards excluded; source description identifies the second object as Medal of Merit II Class",
+      "rights_note": "Spink auction archive photograph; retained for offline research catalogue use subject to source terms"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "as_of": "2026-09-29",
+  "source_id": "mondvor_soviet_awards",
+  "source": "Mondvor",
+  "root": "https://mondvor.narod.ru/",
+  "source_type": [
+    "specialist award reference site",
+    "object-page catalog",
+    "image-rich reference"
+  ],
+  "language": [
+    "Russian"
+  ],
+  "scope": "USSR orders, medals, highest distinctions, honorary-title badges/insignia; includes objects in historic Soviet award system and related insignia as separately qualified.",
+  "coverage_period": "1922–1991 award pages; individual dates vary; source also discusses predecessors and post-Soviet recipients.",
+  "directories": [
+    {
+      "name": "ОРДЕНА СССР",
+      "url": "https://mondvor.narod.ru/ordpage.htm",
+      "entries": 20
+    },
+    {
+      "name": "МЕДАЛИ СССР",
+      "url": "https://mondvor.narod.ru/medpage.htm",
+      "entries": 55
+    },
+    {
+      "name": "Высшие степени отличия",
+      "url": "https://mondvor.narod.ru/heropage.html",
+      "entries": 4
+    },
+    {
+      "name": "ПОЧЕТНЫЕ ЗВАНИЯ СССР",
+      "url": "https://mondvor.narod.ru/PochZvan.htm",
+      "entries": 19
+    }
+  ],
+  "scope_totals": {
+    "four_award_directory_rows": 98,
+    "unique_direct_object_pages": 94,
+    "aux_documents_index": 1,
+    "highest_distinctions": 4,
+    "honorary_titles": 19,
+    "orders": 20,
+    "medals": 55
+  },
+  "crawl_totals": {
+    "award_article_and_pagination_pages": 159,
+    "highest_distinctions": 7,
+    "four_directory_pages": 4,
+    "honorary_titles": 15,
+    "scanned_pages": 165,
+    "homepage": 1,
+    "orders": 64,
+    "medals": 73,
+    "total_scanned_pages": 165,
+    "planned_pages": 165,
+    "auxiliary_documents_page": 1
+  },
+  "pagination": "Recursive page-number/detail-page links scanned for all direct object entries: orders 64 total, medals 73, highest distinctions 7, honorary-title pages 15.",
+  "image_capability": "HTML pages cite image binaries directly. 1,904 distinct image URLs inventoried across sections; no binaries downloaded or decoded owing to stated reuse-permission restriction.",
+  "download_method": "Cached HTML/text only; binaries not copied; no access controls bypassed.",
+  "rights": "Site footer allows viewing privately; reproduction/reuse of text or graphics wholly or partly requires permission of author collective. Keep URLs as restricted internal research leads; no public publication until permission cleared.",
+  "priority": "high",
+  "status": "directory and pagination sweep complete; rights-limited image research only",
+  "last_checked": "2026-09-29",
+  "completeness_boundary": "Four award directory pages and all linked article/pagination pages exhausted. Root navigation also recorded; documents/mounts page reviewed as auxiliary, not counted as award candidates. Border/gallery/literature/other-link catalogs not recursively swept because outside requested Soviet award-category boundary; record as future auxiliary queue.",
+  "book_crosswalk": {
+    "badge_coverage": "No direct coverage of honorary title badge objects identified.",
+    "file": "sources/books/ordersandmedalsoftheussr.pdf",
+    "image_status": "book page depictions visible; copied images not used",
+    "year": 1990,
+    "OCR": "sources/pages/ordersandmedalsoftheussr_ocr_extract.txt",
+    "pages": 41,
+    "author": "Georgi A. Putnikov"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "朝鲜 · Commons当前缓存",
+  "records": [
+    {
+      "id": "PRK-COM-1949-MILITARY-MERIT-V01",
+      "family": "PRK-MEDAL-MILITARY-MERIT",
+      "country_zh": "朝鲜",
+      "name": "军事功勋奖章",
+      "original": "1949 military merit medal variation.jpg",
+      "date": "1949年起",
+      "variant": "1949年早期三种制作变体；同图含完整正背面",
+      "views": [
+        {
+          "key": "PRK-COM-1949-MILITARY-MERIT-V01-VIEW1",
+          "label": "完整正背面合图"
+        }
+      ],
+      "source_ids": [
+        "commons-north-korea-0001"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-COM-CHONGRYON20-V01",
+      "family": "PRK-MEDAL-CHONGRYON-20",
+      "country_zh": "朝鲜",
+      "name": "朝鲜总联成立20周年纪念章",
+      "original": "Commemorative Medal \"20th Anniversary Of The Chongryon Foundation\"'.jpg",
+      "date": "1975年",
+      "variant": "纪念章；完整正面",
+      "views": [
+        {
+          "key": "PRK-COM-CHONGRYON20-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "commons-north-korea-0007"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-002-V01"
+    },
+    {
+      "id": "PRK-COM-DPRK-FOUNDATION-MEDAL-V01",
+      "family": "PRK-MEDAL-DPRK-FOUNDATION",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国建国纪念奖章",
+      "original": "Commemorative Medal \"The Foundation of the People's Republic of Korea\".jpg",
+      "date": "朝鲜民主主义人民共和国时期",
+      "variant": "版型待考；完整正面",
+      "views": [
+        {
+          "key": "PRK-COM-DPRK-FOUNDATION-MEDAL-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "commons-north-korea-0009"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-COM-FATHERLAND-LIBERATION-MEDAL-V01",
+      "family": "PRK-MEDAL-FATHERLAND-LIBERATION",
+      "country_zh": "朝鲜",
+      "name": "祖国解放纪念奖章",
+      "original": "Commemorative Medal Fatherland Liberation - Obverse.jpg",
+      "date": "朝鲜民主主义人民共和国时期",
+      "variant": "完整正面；低清参考",
+      "views": [
+        {
+          "key": "PRK-COM-FATHERLAND-LIBERATION-MEDAL-V01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "commons-north-korea-0011"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

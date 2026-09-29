@@ -1,0 +1,32 @@
+@import url("vendor/font/400.css");
+html{min-height:100%;background:var(--custom-bg,var(--space))}body{min-height:100dvh;background:transparent}main,.custom-background main{background:transparent!important}#atmosphere{background-color:var(--custom-bg,var(--space));inset:0}body.custom-background #atmosphere{background-color:transparent}
+#home-book{position:fixed;inset:0 0 120px;height:auto!important;min-height:0!important;margin:0;overflow:hidden}#book-stage{width:100%;height:100%}#book-open{width:min(76vw,430px);height:75%;max-height:510px}#book-fallback{width:clamp(160px,48vw,290px);height:auto;aspect-ratio:7/10}
+.splash-watermark{position:absolute;inset:-8%;opacity:.16;filter:blur(14px);background:#c4a46b;mask:url(icon.png) center/cover no-repeat;-webkit-mask:url(icon.png) center/cover no-repeat;pointer-events:none}#splash .splash-watermark{background:radial-gradient(ellipse,#d6bb77 0%,#b69b6050 45%,transparent 73%);mask:none;-webkit-mask:none}.splash-watermark::after{content:'';position:absolute;inset:0;background:url(icon.png) center/cover no-repeat;mix-blend-mode:screen;filter:grayscale(1) contrast(1.4);opacity:.55}#splash .loading-bottom{bottom:env(safe-area-inset-bottom);left:8px;right:8px}#splash #track{margin:10px 8px 8px}#splash #sweat{font-size:48px!important;top:-14px}#load-message:not([hidden]){position:relative;z-index:2}
+#page-scroll,#written-query,#page-scroll button,#page-scroll strong,#page-scroll h2,.filters input{font-family:'Noto Serif SC','Noto Serif CJK SC',Georgia,serif;font-weight:400}#page-scroll{background-image:linear-gradient(90deg,#a08d6a30,transparent 7%,#fff8 45%,transparent),linear-gradient(#f8f3e7c9,#f8f3e7c9),url(paper.png);background-blend-mode:normal;background-size:auto,auto,700px;color:#39342d}#page-scroll .family td{line-height:1.95}#written-query{font-weight:400;letter-spacing:.05em;line-height:1.9;border-bottom:1px solid #b9a78055;padding-bottom:14px}.ink-character{display:inline-block;vertical-align:baseline;position:relative;white-space:pre}.ink-character svg{position:absolute;inset:0;width:100%;height:100%}.ink-character.han-writing{width:1em;height:1em;vertical-align:-.12em}.filters input{font-size:16px!important;letter-spacing:.04em;outline-width:1px!important}.filters input:focus{box-shadow:0 0 0 1px #b89b6555}.filters input::placeholder{font-size:13px;letter-spacing:0}
+@media(max-height:500px){#home-book{bottom:90px}#reading-book{top:8px;bottom:154px}nav{bottom:10px}}
+
+/* Explicit edges and vh fallback for older Android WebView without inset/dvh. */
+#splash{top:0;right:0;bottom:0;left:0;width:100%;height:100%;min-height:100vh}#splash[hidden]{display:none!important;visibility:hidden!important;pointer-events:none!important}
+#atmosphere{top:0;right:0;bottom:0;left:0}#personal-background{top:-40px;right:-40px;bottom:-40px;left:-40px}#atmosphere::before,#atmosphere::after{top:-25%;right:-25%;bottom:-25%;left:-25%}#motifs{top:0;right:0;bottom:0;left:0}.splash-watermark{top:-8%;right:-8%;bottom:-8%;left:-8%}.splash-watermark::after{top:0;right:0;bottom:0;left:0}
+#home-book{top:0;right:0;bottom:120px;left:0}#book-stage{top:0;right:0;bottom:0;left:0}#book-open{width:68%;max-width:430px}#book-fallback{width:180px;height:255px}.fallback-cover,.fallback-back{top:0;right:0;bottom:0;left:0}.fallback-pages{top:5px;right:-10px;bottom:-8px;left:3px}
+body,#browse{min-height:100vh}#reading-book{top:20px}.turning-leaf{top:0;right:7px;bottom:8px;left:19px}.ink-character svg{top:0;left:0}nav{width:84%;max-width:360px}.book-is-open .filters{background:var(--glass)}
+@media(max-height:500px){#home-book{bottom:90px}#reading-book{top:8px}}
+#browse{min-height:0!important}body{overflow-x:hidden}#book-stage{transform:none}.book-is-open #book-stage{transform:translateY(-12%) scale(.85)}
+
+#splash img#sweat{width:56px;height:56px;object-fit:contain;top:-16px;display:block}
+
+/* Keep the full sprite above the bottom track; animate independently of indexing. */
+#splash .loading-bottom{position:absolute;bottom:0;left:12px;right:12px;height:88px;padding:0;overflow:visible}
+#splash #track{position:absolute;left:0;right:0;bottom:10px;height:5px;margin:0;overflow:visible}
+#loading-runner{position:absolute;left:0;top:-58px;width:56px;height:56px;display:block;will-change:transform;animation:loading-travel 2.4s infinite linear}
+#splash #loading-runner img#sweat{position:static;display:block;width:56px;height:56px;min-width:56px;min-height:56px;max-width:none;max-height:none;object-fit:contain;transform-origin:center;animation:loading-spin 1.2s infinite linear}
+#splash #bar{width:100%;transform-origin:left;will-change:transform;animation:loading-progress 2.4s infinite linear}
+@keyframes loading-travel{0%{transform:translate3d(0,0,0);animation-timing-function:cubic-bezier(.5,0,1,1)}66.666%{transform:translate3d(var(--travel),0,0)}100%{transform:translate3d(calc(var(--travel)*.57),0,0)}}
+@keyframes loading-progress{0%{transform:scaleX(0);animation-timing-function:cubic-bezier(.5,0,1,1)}66.666%{transform:scaleX(.98)}100%{transform:scaleX(.56)}}
+@keyframes loading-spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+.reduce-motion #loading-runner,.reduce-motion #sweat,.reduce-motion #bar{animation:none!important}.reduce-motion #bar{transform:scaleX(.5)}
+@media(prefers-reduced-motion:reduce){#loading-runner,#sweat,#bar{animation:none!important}#bar{transform:scaleX(.5)}}
+
+#splash #loading-runner img#sweat{transform:rotate(0deg)}
+
+#page-scroll .section-heading{position:absolute;top:51px;right:18px;margin:0;padding:0;z-index:3;pointer-events:none}#page-scroll .section-heading h2{display:none}#page-scroll #count{font:10px/1.5 'Noto Serif SC',serif;color:#897b65}#page-scroll .directory-title{font:24px/1.8 'Noto Serif SC',serif;margin:20px 8px 18px;padding-bottom:12px;border-bottom:1px solid #cbbd9f88}.award-directory-entry{display:flex;align-items:center;gap:12px;text-align:left;width:100%;padding:15px 8px;border:0;border-bottom:1px solid #cbbd9f66;border-radius:0;font-size:15px;line-height:1.8;color:#423c31}.directory-number{font:11px Georgia,serif;color:#98886d}.directory-arrow{margin-left:auto;color:#a28f6e}.award-page-title{font:21px/1.7 'Noto Serif SC',serif;margin:22px 8px}.award-paging{display:flex;justify-content:space-between;gap:4px;margin:18px 0}.award-paging button{font-size:12px;min-width:0;padding:8px;color:#715d39;border-color:#cbbd9f}

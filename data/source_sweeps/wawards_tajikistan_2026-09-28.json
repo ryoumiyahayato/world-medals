@@ -1,0 +1,13 @@
+{
+  "source_id": "wawards-tajikistan-2025",
+  "source_url": "https://wawards.org/images/tajikistan/tajikistan.pdf",
+  "accessed": "2026-09-28",
+  "scope": "Complete 2025 reference catalogue PDF, all linked Tajikistan object pages, and every public full-size image linked from those pages.",
+  "status": "complete",
+  "pdf_pages": 11,
+  "planned_object_pages": 35,
+  "processed_object_pages": 35,
+  "downloaded_images": 86,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_tajikistan.jsonl"
+}

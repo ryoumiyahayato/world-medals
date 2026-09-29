@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "peoples_republic_china",
+  "scope_label": "People's Republic of China (1949–) — state, party and military awards",
+  "sources": [
+    {"source_id":"medals_org_china","source_name":"ODM / medals.org.uk — complete PRC directory","base_url":"https://medals.org.uk/china/prc/prc-text.htm","source_type":"specialist_directory","languages":["en"],"date_coverage":"1949–2005","content_coverage":"All three award pages linked from the complete PRC text directory","has_images":true,"has_pagination":false,"download_method":"recursive_html_and_direct_images","priority":1,"status":"completed","last_checked":"2026-09-28","coverage_result":"3/3 award pages processed; one complete low-resolution object image promoted and two source-backed awards retained unpictured.","candidate_file":"data/raw_candidates/medals_org_china.jsonl","sweep_file":"data/source_sweeps/medals_org_china_2026-09-28.json","volume_file":"data/volumes/peoples_republic_china_medals_org.json"},
+    {"source_id":"prc_official_state_honours","source_name":"PRC official state medals and national honorary titles","source_type":"official_government","languages":["zh"],"has_images":true,"has_pagination":true,"download_method":"bounded_official_site_sweep","priority":1,"status":"not_started","last_checked":"2026-09-28"},
+    {"source_id":"prc_official_military_awards","source_name":"PRC and PLA official military awards and insignia regulations","source_type":"official_military","languages":["zh"],"has_images":true,"has_pagination":true,"download_method":"bounded_official_site_and_document_sweep","priority":1,"status":"not_started","last_checked":"2026-09-28"},
+    {"source_id":"commons_prc_awards","source_name":"Wikimedia Commons — PRC orders, decorations and medals category tree","source_type":"open_media_category_tree","languages":["mul"],"has_images":true,"has_pagination":true,"download_method":"mediawiki_api","priority":2,"status":"not_started","last_checked":"2026-09-28"}
+  ],
+  "coverage":{"planned":4,"completed":1,"partial":0,"blocked":0,"not_started":3},
+  "next_action":"Sweep official state and military award systems and Commons; ODM completion is only a narrow historical-source boundary, not completion of the PRC scope."
+}

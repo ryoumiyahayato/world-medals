@@ -1,0 +1,66 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及 Commons 核验版型",
+  "records": [
+    {
+      "id": "EGY-COMMONS-NILE-FOURTH-CLASS",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "قلادة النيل / Order of the Nile",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "四级章；皇冠悬饰；完整实物正面；低清参考",
+      "views": [
+        {
+          "key": "EGY-COMMONS-004-FRONT",
+          "label": "完整实物正面"
+        }
+      ],
+      "source_ids": [
+        "egypt-commons-004"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-COMMONS-NILE-REPUBLIC-STAR",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "قلادة النيل / Order of the Nile",
+      "date": "共和国时期",
+      "variant": "共和国版星章；完整实物正面；低清参考",
+      "views": [
+        {
+          "key": "EGY-COMMONS-005-FRONT",
+          "label": "完整实物正面"
+        }
+      ],
+      "source_ids": [
+        "egypt-commons-005"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-COMMONS-REPUBLIC-FIRST-CLASS-SET-1977",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；图示套装标注1977年",
+      "variant": "一级套装；星章、挂章与绶带同盒完整实物图",
+      "views": [
+        {
+          "key": "EGY-COMMONS-009-FRONT",
+          "label": "完整实物正面"
+        }
+      ],
+      "source_ids": [
+        "egypt-commons-009"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

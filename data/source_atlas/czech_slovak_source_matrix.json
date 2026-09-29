@@ -1,0 +1,186 @@
+{
+  "schema_version": "source-matrix-v2",
+  "as_of": "2026-09-28",
+  "scope_id": "czech_slovak",
+  "scope_label": "Czechoslovakia, Czech Republic and Slovakia award systems",
+  "sources": [
+    {
+      "source_id": "wmi_czechoslovakia_1918_1948",
+      "source_name": "ODM of the Czechoslovak Republic: Text List",
+      "source_type": "specialist_catalogue_text_list",
+      "languages": [
+        "en"
+      ],
+      "scope": "Czechoslovak Republic 1918–1948",
+      "date_coverage": "Czechoslovak Republic 1918–1948",
+      "has_images": false,
+      "pagination": false,
+      "download_method": "direct HTML list and detail pages",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "all visible list items parsed (8)",
+      "candidate_file": "data/raw_candidates/czech_slovak_awards_master_2026-09-28.jsonl",
+      "url": "https://www.medals.org.uk/czechoslovakia/czechoslovak-republic/czechoslovak-republic-text.htm"
+    },
+    {
+      "source_id": "wmi_czechoslovakia_csr_1948_1989",
+      "source_name": "ODM of Czechoslovakia Socialist Republic: Text List",
+      "source_type": "specialist_catalogue_text_list",
+      "languages": [
+        "en"
+      ],
+      "scope": "Czechoslovak Socialist Republic 1948–1989",
+      "date_coverage": "Czechoslovak Socialist Republic 1948–1989",
+      "has_images": false,
+      "pagination": false,
+      "download_method": "direct HTML list and detail pages",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "all visible list items parsed (56)",
+      "candidate_file": "data/raw_candidates/czech_slovak_awards_master_2026-09-28.jsonl",
+      "url": "https://www.medals.org.uk/czechoslovakia/csr/csr-text.htm"
+    },
+    {
+      "source_id": "wmi_czech_republic_1989_present",
+      "source_name": "ODM of the Czech Republic: Text List",
+      "source_type": "specialist_catalogue_text_list",
+      "languages": [
+        "en"
+      ],
+      "scope": "Czech Republic 1989–今",
+      "date_coverage": "Czech Republic 1989–今",
+      "has_images": false,
+      "pagination": false,
+      "download_method": "direct HTML list and detail pages",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "all visible list items parsed (39)",
+      "candidate_file": "data/raw_candidates/czech_slovak_awards_master_2026-09-28.jsonl",
+      "url": "https://www.medals.org.uk/czechoslovakia/czech-republic/czech-republic-text.htm"
+    },
+    {
+      "source_id": "wikipedia_czech_republic_awards",
+      "source_name": "Orders, decorations, and medals of the Czech Republic",
+      "source_type": "Wikipedia national award inventory",
+      "languages": [
+        "en"
+      ],
+      "scope": "Czech Republic 1993–今",
+      "date_coverage": "1993–今",
+      "has_images": true,
+      "pagination": false,
+      "download_method": "article plus linked official pages and Commons files",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "state, military, law-enforcement and ministry headings checked; image files handled separately",
+      "url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Czech_Republic"
+    },
+    {
+      "source_id": "wikipedia_slovakia_awards",
+      "source_name": "Orders, decorations, and medals of Slovakia",
+      "source_type": "Wikipedia national award inventory",
+      "languages": [
+        "en"
+      ],
+      "scope": "Slovakia 1993–今",
+      "date_coverage": "1993–今",
+      "has_images": true,
+      "pagination": false,
+      "download_method": "article plus official President/MoD pages and Commons files",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "six presidential state decorations and additional military/diplomatic headings checked",
+      "url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Slovakia"
+    },
+    {
+      "source_id": "president_slovakia_state_decorations",
+      "source_name": "President of the Slovak Republic — State Decorations",
+      "source_type": "official_state_decorations_overview",
+      "languages": [
+        "sk",
+        "en"
+      ],
+      "scope": "Slovakia 1993–今",
+      "date_coverage": "1993–今",
+      "has_images": true,
+      "pagination": false,
+      "download_method": "official page and archived gallery",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "official list confirms six current state decorations and three classes where applicable",
+      "url": "https://www.prezident.sk/prezidentsky-palac/zeleny-salon/"
+    },
+    {
+      "source_id": "hrad_czech_state_decorations",
+      "source_name": "Prague Castle — State decorations and Act No. 157/1994",
+      "source_type": "official_state_decorations_overview",
+      "languages": [
+        "cs",
+        "en"
+      ],
+      "scope": "Czech Republic 1993–今 and CSFR transition",
+      "date_coverage": "1990–今",
+      "has_images": true,
+      "pagination": false,
+      "download_method": "official acts/specification pages",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "state orders and medals cross-checked against official act",
+      "url": "https://www.hrad.cz/en/czech-republic/state-decorations"
+    },
+    {
+      "source_id": "czech_mod_awards",
+      "source_name": "Ministry of Defence & Armed Forces of the Czech Republic — Military Awards and Decorations",
+      "source_type": "official_ministry_overview",
+      "languages": [
+        "cs",
+        "en"
+      ],
+      "scope": "Czech Republic military awards",
+      "date_coverage": "1997–今",
+      "has_images": true,
+      "pagination": false,
+      "download_method": "official page/PDF",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "cross, golden linden and injury/service awards checked",
+      "url": "https://www.mo.gov.cz/scripts/detail.php?id=6412"
+    },
+    {
+      "source_id": "commons_czech_slovak_awards",
+      "source_name": "Wikimedia Commons Czech/Czechoslovak/Slovak award file categories",
+      "source_type": "image_repository",
+      "languages": [
+        "cs",
+        "sk",
+        "en"
+      ],
+      "scope": "image verification for candidates",
+      "date_coverage": "historical to present",
+      "has_images": true,
+      "pagination": true,
+      "download_method": "Commons file pages and original URLs",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-28",
+      "coverage_result": "selected exact object files to be downloaded and decoded; ribbon-only and portraits excluded",
+      "url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Czechoslovakia"
+    }
+  ],
+  "coverage": {
+    "planned": 9,
+    "completed": 7,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 1
+  },
+  "next_action": "Batch-download exact Commons/official body images, visually reject ribbons/portraits/boxes, then normalize family/variant rows."
+}

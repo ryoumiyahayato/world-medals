@@ -1,0 +1,1253 @@
+{
+  "as_of": "2026-09-27",
+  "source": "MedalBook Ottoman Empire complete catalogue sweep",
+  "scope": "All 97 main_award_candidate catalogue families; this is a source crosswalk, not a claim that one catalogue exhausts all Ottoman awards.",
+  "validation": {
+    "source_candidates": 97,
+    "crosswalk_entries": 97,
+    "missing_keys": [],
+    "extra_keys": [],
+    "status_counts": {
+      "formal_pictured": 75,
+      "formal_unpictured": 2,
+      "identity_conflict": 1,
+      "proposed_not_made": 1,
+      "proposed_or_unissued": 1,
+      "related_pictured": 7,
+      "related_unpictured": 10
+    },
+    "distinct_mapped_project_families": 86
+  },
+  "entries": [
+    {
+      "normalized_key": "1st crete campaign medal 1869",
+      "working_name": "1st Crete Campaign Medal, 1869",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-CRETE-1869",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/1st-crete-campaign-medal-1869/1st-crete-campaign-medal-1869-1"
+      ]
+    },
+    {
+      "normalized_key": "1st yemen campaign medal 1846",
+      "working_name": "1st Yemen Campaign Medal, 1846, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-YEMEN-1847",
+      "note": "Catalogue year 1846; project retains the securely documented 1847 issue label.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/1st-yemen-campaign-medal-1846/1st-yemen-campaign-medal-1846-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/1st-yemen-campaign-medal-1846/1st-yemen-campaign-medal-1846-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/1st-yemen-campaign-medal-1846/1st-yemen-campaign-medal-1846-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "2nd crete campaign medal 1890",
+      "working_name": "2nd Crete Campaign Medal, 1890, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-CRETE-1890",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/2nd-crete-campaign-medal-1890/2nd-crete-campaign-medal-1890-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/2nd-crete-campaign-medal-1890/2nd-crete-campaign-medal-1890-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "2nd yemen campaign medal 1892",
+      "working_name": "2nd Yemen Campaign Medal, 1892, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-YEMEN-1892",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/2nd-yemen-campaign-medal-1892/2nd-yemen-campaign-medal-1892-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/2nd-yemen-campaign-medal-1892/2nd-yemen-campaign-medal-1892-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "3rd yemen campaign medal 1905",
+      "working_name": "3rd Yemen Campaign Medal, 1905",
+      "source_variant_count": 1,
+      "status": "formal_unpictured",
+      "family_id": "OTT-YEMEN-1905",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/3rd-yemen-campaign-medal-1905/3rd-yemen-campaign-medal-1905-1"
+      ]
+    },
+    {
+      "normalized_key": "bosnia campaign medal 1850",
+      "working_name": "Bosnia Campaign Medal, 1850, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-BOSNIA-1850",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/bosnia-campaign-medal-1850/bosnia-campaign-medal-1850-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/bosnia-campaign-medal-1850/bosnia-campaign-medal-1850-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/bosnia-campaign-medal-1850/bosnia-campaign-medal-1850-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "campaign medal for montenegro 1863",
+      "working_name": "Campaign Medal for Montenegro, 1863",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-MONTENEGRO",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/campaign-medal-for-montenegro-1863/campaign-medal-for-montenegro-1863-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal for the danube campaign",
+      "working_name": "Commemorative Medal for the Danube Campaign",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-GENERAL-SERVICE-1854",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-danube-campaign/commemorative-medal-for-the-danube-campaign-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal for the defense of kars 1854",
+      "working_name": "Commemorative Medal for the Defense of Kars, 1854",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-KARS",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-defense-of-kars-1854/commemorative-medal-for-the-defense-of-kars-1854-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal for the hejaz railway at maan 1904",
+      "working_name": "Commemorative Medal for the Hejaz Railway at Maan, 1904, in Gold",
+      "source_variant_count": 4,
+      "status": "formal_pictured",
+      "family_id": "OTT-HEJAZ-MAAN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-maan-1904/commemorative-medal-for-the-hejaz-railway-at-maan-1904-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-maan-1904/commemorative-medal-for-the-hejaz-railway-at-maan-1904-in-nickel-large-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-maan-1904/commemorative-medal-for-the-hejaz-railway-at-maan-1904-in-nickel-small-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-maan-1904/commemorative-medal-for-the-hejaz-railway-at-maan-1904-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal for the hejaz railway at medina 1908",
+      "working_name": "Commemorative Medal for the Hejaz Railway at Medina, 1908, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-HEJAZ-MEDINA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-medina-1908/commemorative-medal-for-the-hejaz-railway-at-medina-1908-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-medina-1908/commemorative-medal-for-the-hejaz-railway-at-medina-1908-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-for-the-hejaz-railway-at-medina-1908/commemorative-medal-for-the-hejaz-railway-at-medina-1908-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of abide i hurriyet",
+      "working_name": "Commemorative Medal of Abide-I Hurriyet, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-MESRUTIYET-MONUMENT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-abide-i-hurriyet/commemorative-medal-of-abide-i-hurriyet-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-abide-i-hurriyet/commemorative-medal-of-abide-i-hurriyet-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of avusturya mulakati",
+      "working_name": "Commemorative Medal of Avusturya Mulakati, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-KARL-I-VISIT-1918",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-avusturya-mulakati/commemorative-medal-of-avusturya-mulakati-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-avusturya-mulakati/commemorative-medal-of-avusturya-mulakati-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-avusturya-mulakati/commemorative-medal-of-avusturya-mulakati-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of fenerbahce idman yurdu",
+      "working_name": "Commemorative Medal of Fenerbahce Idman Yurdu",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-FENERBAHCE-1917",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-fenerbahce-idman-yurdu/commemorative-medal-of-fenerbahce-idman-yurdu-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of galatasaray futbol kulubu",
+      "working_name": "Commemorative Medal of Galatasaray Futbol Kulubu, in Bronze",
+      "source_variant_count": 2,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-GALATASARAY-FOUNDING",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-galatasaray-futbol-kulubu/commemorative-medal-of-galatasaray-futbol-kulubu-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-galatasaray-futbol-kulubu/commemorative-medal-of-galatasaray-futbol-kulubu-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of hatti humayun",
+      "working_name": "Commemorative Medal of Hatti-Humayun, in Bronze",
+      "source_variant_count": 2,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-HATTI-HUMAYUN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-hatti-humayun/commemorative-medal-of-hatti-humayun-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-hatti-humayun/commemorative-medal-of-hatti-humayun-in-gilt-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of hilal i ahmer sergisi",
+      "working_name": "Commemorative Medal of Hilal-I Ahmer Sergisi",
+      "source_variant_count": 1,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-RED-CRESCENT-EXHIBITION-1917",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-hilal-i-ahmer-sergisi/commemorative-medal-of-hilal-i-ahmer-sergisi-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of hirfet sanat ticaret",
+      "working_name": "Commemorative Medal of Hirfet Sanat Ticaret, in Bronze",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-1862-EXHIBITION",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-hirfet-sanat-ticaret/commemorative-medal-of-hirfet-sanat-ticaret-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-hirfet-sanat-ticaret/commemorative-medal-of-hirfet-sanat-ticaret-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of ihtifal i milli",
+      "working_name": "Commemorative Medal of Ihtifal-I Milli",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-IHTIFAL-MILLI",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ihtifal-i-milli/commemorative-medal-of-ihtifal-i-milli-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of kaiser wilhelm",
+      "working_name": "Commemorative Medal of Kaiser Wilhelm, in Bronze",
+      "source_variant_count": 4,
+      "status": "formal_pictured",
+      "family_id": "OTT-WILHELM-II-COMMEMORATIVE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm/commemorative-medal-of-kaiser-wilhelm-in-bronze-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm/commemorative-medal-of-kaiser-wilhelm-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm/commemorative-medal-of-kaiser-wilhelm-in-gold-small-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm/commemorative-medal-of-kaiser-wilhelm-in-silver-3"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of kaiser wilhelm the second",
+      "working_name": "Commemorative Medal of Kaiser Wilhelm the Second, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-WILHELM-II-VISIT-1917",
+      "note": "Mehmed V cypher distinguishes the later visit issue.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm-the-second/commemorative-medal-of-kaiser-wilhelm-the-second-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm-the-second/commemorative-medal-of-kaiser-wilhelm-the-second-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-kaiser-wilhelm-the-second/commemorative-medal-of-kaiser-wilhelm-the-second-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of macar zuvvari hatirasi",
+      "working_name": "Commemorative Medal of Macar Zuwari Katirasi",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-HUNGARIAN-VISITORS-1908",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-macar-zuvvari-hatirasi/commemorative-medal-of-macar-zuwari-katirasi-1"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of mudafa i milliye cemiyeti bicki yurdu",
+      "working_name": "Commemorative Medal of Mudafa-I Milliye Cemiyeti Bicki Yurdu, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-MUDAFAA-MILLIYE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu/commemorative-medal-of-mudafa-i-milliye-cemiyeti-bicki-yurdu-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of sishaneli tufek",
+      "working_name": "Commemorative Medal of Sashaneli Tufek, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-RIFLE-SHOOTING",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-sishaneli-tufek/commemorative-medal-of-sashaneli-tufek-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-sishaneli-tufek/commemorative-medal-of-sashaneli-tufek-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of traktor musabakasi",
+      "working_name": "Commemorative Medal of Traktor Musabakasi, in Bronze",
+      "source_variant_count": 3,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-TRACTOR-1921",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-traktor-musabakasi/commemorative-medal-of-traktor-musabakasi-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-traktor-musabakasi/commemorative-medal-of-traktor-musabakasi-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-traktor-musabakasi/commemorative-medal-of-traktor-musabakasi-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative medal of ziraat ve sinaat",
+      "working_name": "Commemorative Medal of Ziraat ve Sinaat, Type I, in Bronze",
+      "source_variant_count": 6,
+      "status": "formal_pictured",
+      "family_id": "OTT-AGRI-INDUSTRY",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-1863/commemorative-medal-of-ziraat-ve-sinaat-type-i-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-1863/commemorative-medal-of-ziraat-ve-sinaat-type-i-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-1863/commemorative-medal-of-ziraat-ve-sinaat-type-i-in-silver-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-i-1892/commemorative-medal-of-ziraat-ve-sinaat-type-ii-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-i-1892/commemorative-medal-of-ziraat-ve-sinaat-type-ii-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-medal-of-ziraat-ve-sinaat/type-i-i-1892/commemorative-medal-of-ziraat-ve-sinaat-type-ii-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "commemorative silistre medal 1854",
+      "working_name": "Commemorative Silistre Medal, 1854",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-SILISTRA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/commemorative-silistre-medal-1854/commemorative-silistre-medal-1854-1"
+      ]
+    },
+    {
+      "normalized_key": "crimea medal 1854",
+      "working_name": "Crimea Medal, 1854",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-CRIMEA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/crimea-medal-1854/crimea-medal-1854-1"
+      ]
+    },
+    {
+      "normalized_key": "crusier hamidiye medal",
+      "working_name": "Crusier Hamidiye Medal",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-HAMIDIYE-CRUISER",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/crusier-hamidiye-medal/crusier-hamidiye-medal-1"
+      ]
+    },
+    {
+      "normalized_key": "defense of kars 1855",
+      "working_name": "Defense of Kars, 1855, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-KARS",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/defense-of-kars-1855/defense-of-kars-1855-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/defense-of-kars-1855/defense-of-kars-1855-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/defense-of-kars-1855/defense-of-kars-1855-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "fleet donation medal",
+      "working_name": "Fleet Donation Medal, in Bronze",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-NAVAL-DONATION",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/fleet-donation-medal/fleet-donation-medal-in-bronze-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/fleet-donation-medal/fleet-donation-medal-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/fleet-donation-medal/fleet-donation-medal-in-gold-small-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/fleet-donation-medal/fleet-donation-medal-in-nickel-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/fleet-donation-medal/fleet-donation-medal-in-silver-3"
+      ]
+    },
+    {
+      "normalized_key": "general service medal 1853",
+      "working_name": "General Service Medal, 1853, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-GENERAL-SERVICE-1853",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/general-service-medal-1853/general-service-medal-1853-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/general-service-medal-1853/general-service-medal-1853-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "greek campaign medal 1896",
+      "working_name": "Greek Campaign Medal, 1896",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-GREEK-WAR",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/greek-campaign-medal-1896/greek-campaign-medal-1896-1"
+      ]
+    },
+    {
+      "normalized_key": "hejaz railway medal",
+      "working_name": "Hejaz Railway Large Medal, in Gold",
+      "source_variant_count": 6,
+      "status": "formal_pictured",
+      "family_id": "OTT-HEJAZ-RAIL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-large-medal-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-large-medal-in-nickel-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-large-medal-in-silver-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-small-medal-in-gold-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-small-medal-in-nickel-6",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/hejaz-railway-medal/hejaz-railway-small-medal-in-silver-5"
+      ]
+    },
+    {
+      "normalized_key": "imtiyaz medal",
+      "working_name": "Imtiyaz Medal, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-IMTIYAZ-MEDAL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/imtiyaz-medal/imtiyaz-medal-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/imtiyaz-medal/imtiyaz-medal-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "lifesaving medal",
+      "working_name": "Lifesaving Medal",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-LIFESAVING",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/lifesaving-medal/lifesaving-medal-1"
+      ]
+    },
+    {
+      "normalized_key": "liyakat medal",
+      "working_name": "Liyakat Medal, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-LIYAKAT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/liyakat-medal/liyakat-medal-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/liyakat-medal/liyakat-medal-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal for kurdistan 1846",
+      "working_name": "Medal for Kurdistan, 1846, Bronze",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-KURDISTAN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-kurdistan-1846/medal-for-kurdistan-1846-bronze-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-kurdistan-1846/medal-for-kurdistan-1846-large-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-kurdistan-1846/medal-for-kurdistan-1846-large-silver-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-kurdistan-1846/medal-for-kurdistan-1846-small-gold-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-kurdistan-1846/medal-for-kurdistan-1846-small-silver-4"
+      ]
+    },
+    {
+      "normalized_key": "medal for scutari 1831",
+      "working_name": "Medal for Scutari, 1831, I Class",
+      "source_variant_count": 7,
+      "status": "formal_pictured",
+      "family_id": "OTT-SCUTARI-1831",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-ii-class-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-iii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-iv-class-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-v-class-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-vi-class-6",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-scutari-1831/medal-for-scutari-1831-vii-class-7"
+      ]
+    },
+    {
+      "normalized_key": "medal for the reconstruction of the mosque of hagia sophia",
+      "working_name": "Medal for the Reconstruction of the Mosque of Hagia Sophia, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-HAGIA-SOPHIA-RESTORATION",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia/medal-for-the-reconstruction-of-the-mosque-of-hagia-sophia-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal for the russian military mission 1833",
+      "working_name": "Medal for the Russian Military Mission, 1833, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-HUNKAR-ISKELESI",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-russian-military-mission-1833/medal-for-the-russian-military-mission-1833-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-russian-military-mission-1833/medal-for-the-russian-military-mission-1833-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-for-the-russian-military-mission-1833/medal-for-the-russian-military-mission-1833-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of acre 1840",
+      "working_name": "Medal of Acre,1840, in Copper",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-ACRE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-acre-1840/medal-of-acre1840-in-copper-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-acre-1840/medal-of-acre1840-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-acre-1840/medal-of-acre1840-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of anadolu musabinine lane",
+      "working_name": "Medal of Anadolu Musabinine Lane, in Aluminum",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-ANADOLU-EPIDEMIC",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-anadolu-musabinine-lane/medal-of-anadolu-musabinine-lane-in-aluminum-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-anadolu-musabinine-lane/medal-of-anadolu-musabinine-lane-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-anadolu-musabinine-lane/medal-of-anadolu-musabinine-lane-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of belediye",
+      "working_name": "Medal of Belediye",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-MUNICIPAL-ASSEMBLY-1908",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-belediye/medal-of-belediye-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of bezm i alem valide sultanisi",
+      "working_name": "Medal of Bezm-I Alem Valide Sultanisi",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-BEZMIALEM-1916",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-bezm-i-alem-valide-sultanisi/medal-of-bezm-i-alem-valide-sultanisi-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of cami i nusret",
+      "working_name": "Medal of Cami-I Nusret, in Bronze",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-CAMI-NUSRET",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cami-i-nusret/medal-of-cami-i-nusret-in-bronze-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cami-i-nusret/medal-of-cami-i-nusret-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cami-i-nusret/medal-of-cami-i-nusret-in-gold-small-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cami-i-nusret/medal-of-cami-i-nusret-in-silver-large-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cami-i-nusret/medal-of-cami-i-nusret-in-silver-small-4"
+      ]
+    },
+    {
+      "normalized_key": "medal of canakkale ziraat sergisi",
+      "working_name": "Medal of Canakkale Ziraat Sergisi, in Bronze",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-CANAKKALE-AGRICULTURE-1918",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-canakkale-ziraat-sergisi/medal-of-canakkale-ziraat-sergisi-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-canakkale-ziraat-sergisi/medal-of-canakkale-ziraat-sergisi-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of cholera",
+      "working_name": "Medal of Cholera",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-CHOLERA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-cholera/medal-of-cholera-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of darulfunun",
+      "working_name": "Medal of Darulfunun, in Aluminum",
+      "source_variant_count": 2,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-DARULFUNUN-1907",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-darulfunun/medal-of-darulfunun-in-aluminum-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-darulfunun/medal-of-darulfunun-in-bronze-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of ferahi",
+      "working_name": "Medal of Ferahi, in Gold",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-FERAHI",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-ferahi/medal-of-ferahi-in-gold-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of hadim ul haremeyn is serifeyn",
+      "working_name": "Medal of Hadim-ul Haremeyn-is Serifeyn",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-HADIM-HAREMEYN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hadim-ul-haremeyn-is-serifeyn/medal-of-hadim-ul-haremeyn-is-serifeyn-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of hareket i arz",
+      "working_name": "Medal of Hareket-I Arz, in Bronze, medium",
+      "source_variant_count": 7,
+      "status": "formal_pictured",
+      "family_id": "OTT-EARTHQUAKE-1894",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-bronze-medium-6",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-bronze-small-7",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-gold-medium-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-gold-small-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-silver-medium-4",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hareket-i-arz/medal-of-hareket-i-arz-in-silver-small-5"
+      ]
+    },
+    {
+      "normalized_key": "medal of harir musabakasi",
+      "working_name": "Medal of Harir Musabakasi, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-HARIR-MUSABAKA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-harir-musabakasi/medal-of-harir-musabakasi-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-harir-musabakasi/medal-of-harir-musabakasi-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-harir-musabakasi/medal-of-harir-musabakasi-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of hunkar iskelesi",
+      "working_name": "Medal of Hunkar Iskelesi, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-HUNKAR-ISKELESI",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hunkar-iskelesi/medal-of-hunkar-iskelesi-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hunkar-iskelesi/medal-of-hunkar-iskelesi-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-hunkar-iskelesi/medal-of-hunkar-iskelesi-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of iftihar",
+      "working_name": "Medal of Iftihar, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-IFTIHAR-MEDAL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-iftihar/medal-of-iftihar-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-iftihar/medal-of-iftihar-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of ittihad i spor",
+      "working_name": "Medal of Ittihad-I Spor",
+      "source_variant_count": 1,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-SPORTS-ASSOCIATION",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-ittihad-i-spor/medal-of-ittihad-i-spor-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of kadikoy fukaraperver cemiyeti",
+      "working_name": "Medal of Kadikoy Fukaraperver Cemiyeti",
+      "source_variant_count": 1,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-FLOWER-FESTIVAL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-kadikoy-fukaraperver-cemiyeti/medal-of-kadikoy-fukaraperver-cemiyeti-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of kadikoy ittihad i osmani mektebi",
+      "working_name": "Medal of Kadikoy Ittihad-I Osmani Mektebi, in Bronze",
+      "source_variant_count": 2,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-KADIKOY-SCHOOL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-kadikoy-ittihad-i-osmani-mektebi/medal-of-kadikoy-ittihad-i-osmani-mektebi-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-kadikoy-ittihad-i-osmani-mektebi/medal-of-kadikoy-ittihad-i-osmani-mektebi-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of masallah",
+      "working_name": "Medal of Masallah",
+      "source_variant_count": 1,
+      "status": "identity_conflict",
+      "family_id": null,
+      "note": "Catalogue description alone does not establish a formal award rather than a talismanic or commemorative medal.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-masallah/medal-of-masallah-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of mekteb i rustiye",
+      "working_name": "Medal of Mekteb-I Rustiye, in Bronze",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-RUSDIYE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-mekteb-i-rustiye/medal-of-mekteb-i-rustiye-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-mekteb-i-rustiye/medal-of-mekteb-i-rustiye-in-silver-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of mekteb i tibbi yenin acilmasi",
+      "working_name": "Medal of Mekeb-I Tibbi Yenin Acilmasi",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-MEDICAL-SCHOOL-OPENING-1838",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-mekteb-i-tibbi-yenin-acilmasi/medal-of-mekeb-i-tibbi-yenin-acilmasi-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of nisan i endaht",
+      "working_name": "Medal of Nisan-I Endaht",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-NISAN-ENDAHT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-nisan-i-endaht/medal-of-nisan-i-endaht-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of sehid evladi ve malul askere iane sergisi",
+      "working_name": "Medal of Sehid Evladi ve Malul Askere Iane Sergisi, in Gilt, large",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-SEHID-EVLAD-MALUL",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi-in-gilt-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi-in-gilt-medium-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi-in-nickel-small-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi-in-silver-large-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi/medal-of-sehid-evladi-ve-malul-askere-iane-sergisi-in-silver-medium-4"
+      ]
+    },
+    {
+      "normalized_key": "medal of sinop 1853",
+      "working_name": "Medal of Sinop, 1853",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-SINOP-1853",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-sinop-1853/medal-of-sinop-1853-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of takdir i hunder",
+      "working_name": "Medal of Takdir-I Hunder, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-SKILL-KNOWLEDGE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-takdir-i-hunder/medal-of-takdir-i-hunder-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-takdir-i-hunder/medal-of-takdir-i-hunder-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-takdir-i-hunder/medal-of-takdir-i-hunder-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of tanzimat i hayriye",
+      "working_name": "Medal of Tanzimat-I Hayriye, in Bronze",
+      "source_variant_count": 1,
+      "status": "related_pictured",
+      "family_id": "OTT-REL-TANZIMAT-1850",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tanzimat-i-hayriye/medal-of-tanzimat-i-hayriye-in-bronze-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of tarz i atik imtiyaz",
+      "working_name": "Medal of Tarz-I Atik Imtiyaz, in Bronze",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-IMTIYAZ-MEDAL",
+      "note": "Old-style material types remain variants of the Imtiyaz medal family.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tarz-i-atik-imtiyaz/medal-of-tarz-i-atik-imtiyaz-in-bronze-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tarz-i-atik-imtiyaz/medal-of-tarz-i-atik-imtiyaz-in-gold-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of tashih i ayar i sikke",
+      "working_name": "Medal of Tashih-I Ayar-i Sikke, in Bronze, large",
+      "source_variant_count": 6,
+      "status": "formal_pictured",
+      "family_id": "OTT-TASHIH-AYAR",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-bronze-large-5",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-bronze-small-6",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-gold-small-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-silver-large-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tashih-i-ayar-i-sikke/medal-of-tashih-i-ayar-i-sikke-in-silver-small-4"
+      ]
+    },
+    {
+      "normalized_key": "medal of tayyare",
+      "working_name": "Medal of Tayyare, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-AVIATION-1914",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tayyare/medal-of-tayyare-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tayyare/medal-of-tayyare-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tayyare/medal-of-tayyare-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of tesisat i askeriye",
+      "working_name": "Medal of Tesisat-I Askeriye, in Aluminum, small",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-TESISAT-ASKERIYYE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tesisat-i-askeriye/medal-of-tesisat-i-askeriye-in-aluminum-small-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tesisat-i-askeriye/medal-of-tesisat-i-askeriye-in-gold-large-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-tesisat-i-askeriye/medal-of-tesisat-i-askeriye-in-gold-small-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of ticaret mekteb i alisi",
+      "working_name": "Medal of Ticaret Mekteb-I Alisi",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-TICARET-MEKTEBI-1916",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-ticaret-mekteb-i-alisi/medal-of-ticaret-mekteb-i-alisi-1"
+      ]
+    },
+    {
+      "normalized_key": "medal of uclu ittifak",
+      "working_name": "Medal of Uclu Ittifak, in Bronze",
+      "source_variant_count": 2,
+      "status": "related_pictured",
+      "family_id": "OTT-TRIPLE-ALLIANCE",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-uclu-ittifak/medal-of-uclu-ittifak-in-bronze-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-uclu-ittifak/medal-of-uclu-ittifak-in-zinc-2"
+      ]
+    },
+    {
+      "normalized_key": "medal of zabtiye cavusu",
+      "working_name": "Medal of Zabtiye Cavusu",
+      "source_variant_count": 1,
+      "status": "formal_unpictured",
+      "family_id": "OTT-GENDARMERIE-SERGEANT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/medal-of-zabtiye-cavusu/medal-of-zabtiye-cavusu-1"
+      ]
+    },
+    {
+      "normalized_key": "new coin medal",
+      "working_name": "New Coin Medal",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-SIKKE-CEDID",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/new-coin-medal/new-coin-medal-1"
+      ]
+    },
+    {
+      "normalized_key": "order of akka",
+      "working_name": "Order of Akka, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-ACRE",
+      "note": "Catalogue order heading is a duplicate presentation of the Acre medal family.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-akka/order-of-akka-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-akka/order-of-akka-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-akka/order-of-akka-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "order of cami i nusret",
+      "working_name": "Order of Cami-I Nusret, Bronze Medal",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-CAMI-NUSRET",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-cami-i-nusret/order-of-cami-i-nusret-bronze-medal-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-cami-i-nusret/order-of-cami-i-nusret-large-gold-medal-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-cami-i-nusret/order-of-cami-i-nusret-large-silver-medal-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-cami-i-nusret/order-of-cami-i-nusret-small-gold-medal-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-cami-i-nusret/order-of-cami-i-nusret-small-silver-medal-4"
+      ]
+    },
+    {
+      "normalized_key": "order of donanma",
+      "working_name": "Order of Donanma",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-NAVAL-DONATION",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-donanma/order-of-donanma-1"
+      ]
+    },
+    {
+      "normalized_key": "order of education",
+      "working_name": "Order of Education, I Class",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-MAARIF-ORDER",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-education/order-of-education-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-education/order-of-education-ii-class-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-education/order-of-education-iii-class-3"
+      ]
+    },
+    {
+      "normalized_key": "order of ertugrul",
+      "working_name": "Order of Ertugrul, I Class",
+      "source_variant_count": 1,
+      "status": "proposed_not_made",
+      "family_id": "NEW-ERTUGRUL-ORDER",
+      "note": "MedalBook explicitly states that it was never struck.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-ertugrul/order-of-ertugrul-i-class-1"
+      ]
+    },
+    {
+      "normalized_key": "order of kurdistan",
+      "working_name": "Order of Kurdistan, Bronze Medal",
+      "source_variant_count": 5,
+      "status": "formal_pictured",
+      "family_id": "OTT-KURDISTAN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-kurdistan/order-of-kurdistan-bronze-medal-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-kurdistan/order-of-kurdistan-large-gold-medal-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-kurdistan/order-of-kurdistan-large-silver-medal-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-kurdistan/order-of-kurdistan-small-gold-medal-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-kurdistan/order-of-kurdistan-small-silver-medal-4"
+      ]
+    },
+    {
+      "normalized_key": "order of mecruchin i askeriye i iane cemiyeti",
+      "working_name": "Order of Mecruchin-I Askeriye-I Iane Cemiyeti",
+      "source_variant_count": 1,
+      "status": "related_unpictured",
+      "family_id": "OTT-REL-MECRUHIN-IANE-CEMIYETI",
+      "note": "Source says it was not recognized as an official Ottoman order.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-mecruchin-i-askeriye-i-iane-cemiyeti/order-of-mecruchin-i-askeriye-i-iane-cemiyeti-1"
+      ]
+    },
+    {
+      "normalized_key": "order of medjidjie",
+      "working_name": "Order of Medjidjie, Civil Division, I Class",
+      "source_variant_count": 14,
+      "status": "formal_pictured",
+      "family_id": "OTT-MEDJ",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-i-class-breast-star-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-ii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-ii-class-breast-star-4",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-iii-class-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-iv-class-6",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/civil-division/order-of-medjidjie-civil-division-v-class-7",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-i-class-breast-star-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-ii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-ii-class-breast-star-4",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-iii-class-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-iv-class-6",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-medjidjie/military-division/order-of-medjidjie-military-division-v-class-7"
+      ]
+    },
+    {
+      "normalized_key": "order of nishan el iftihair",
+      "working_name": "Order of Nishan El Iftihar, Civil Division, Decoration of the Grand Vizierate",
+      "source_variant_count": 17,
+      "status": "formal_pictured",
+      "family_id": "OTT-IFTIHAR-ORDER",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-decoration-of-the-grand-vizierate-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-decoration-of-the-minister-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-decoration-of-the-officer-of-the-commander-in-chief-of-the-army-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-decoration-of-the-sheikhulislamate-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-decoration-of-the-vizier-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-i-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-ii-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-iii-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-iv-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-v-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/civil-division/order-of-nishan-el-iftihar-civil-division-foreign-state-vi-class-decoration-",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-colonel-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-field-marshal-of-the-army-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-field-marshal-of-the-imperial-guard-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-lieutenant-colonel-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-maj-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-el-iftihair/military-division/order-of-nishan-el-iftihar-military-division-decoration-of-the-major-general-1"
+      ]
+    },
+    {
+      "normalized_key": "order of nishan imtiaz",
+      "working_name": "Order of Nishan-Imtiaz, I Class Badge",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-IMTIYAZ-ORDER",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-imtiaz/order-of-nishan-imtiaz-i-class-badge-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishan-imtiaz/order-of-nishan-imtiaz-i-class-breast-star-2"
+      ]
+    },
+    {
+      "normalized_key": "order of nishani shefkat",
+      "working_name": "Order of Nishani-Shefkat, I Class",
+      "source_variant_count": 4,
+      "status": "formal_pictured",
+      "family_id": "OTT-SEFKAT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishani-shefkat/order-of-nishani-shefkat-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishani-shefkat/order-of-nishani-shefkat-i-class-breast-star-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishani-shefkat/order-of-nishani-shefkat-ii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-nishani-shefkat/order-of-nishani-shefkat-iii-class-4"
+      ]
+    },
+    {
+      "normalized_key": "order of osmania",
+      "working_name": "Order of Osmania, Civil Division, I Class",
+      "source_variant_count": 12,
+      "status": "formal_pictured",
+      "family_id": "OTT-OSM",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-i-class-breast-star-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-ii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-ii-class-breast-star-4",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-iii-class-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/civil-division/order-of-osmania-civil-division-iv-class-6",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-i-class-breast-star-2",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-ii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-ii-class-breast-star-4",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-iii-class-5",
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-iv-class-6"
+      ]
+    },
+    {
+      "normalized_key": "order of tasvir i humayun",
+      "working_name": "Order of Tasvir-I Humayun",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-TASVIR-HUMAYUN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-tasvir-i-humayun/order-of-tasvir-i-humayun-1"
+      ]
+    },
+    {
+      "normalized_key": "order of the crescent",
+      "working_name": "Order of the Crescent",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "MENA7-ORDER-OF-THE-CRESCENT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-the-crescent/order-of-the-crescent-1"
+      ]
+    },
+    {
+      "normalized_key": "order of the house of osman",
+      "working_name": "Order of the House of Osman, Collar",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-HOUSE-OSMAN",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-the-house-of-osman/order-of-the-house-of-osman-collar-1"
+      ]
+    },
+    {
+      "normalized_key": "plevne campaign medal 1877",
+      "working_name": "Plevne Campaign Medal, 1877",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-PLEVNA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/plevne-campaign-medal-1877/plevne-campaign-medal-1877-1"
+      ]
+    },
+    {
+      "normalized_key": "red crescent medal",
+      "working_name": "Red Crescent Medal, in Bronze",
+      "source_variant_count": 3,
+      "status": "formal_pictured",
+      "family_id": "OTT-RED-CRESCENT",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/red-crescent-medal/red-crescent-medal-in-bronze-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/red-crescent-medal/red-crescent-medal-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/red-crescent-medal/red-crescent-medal-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "sanayi medal",
+      "working_name": "Sanayi Medal, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-SANAYI",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sanayi-medal/sanayi-medal-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sanayi-medal/sanayi-medal-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "sebastopol medal 1855",
+      "working_name": "Sebastopol Medal, 1855",
+      "source_variant_count": 1,
+      "status": "proposed_or_unissued",
+      "family_id": "OTT-PROPOSED-SIVASTOPOL-1855",
+      "note": "SALT records physical gold and bronze trial objects but says the medal was very likely not awarded.",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sebastopol-medal-1855/sebastopol-medal-1855-1"
+      ]
+    },
+    {
+      "normalized_key": "silistria medal 1854",
+      "working_name": "Silistria Medal, 1854, in Gold",
+      "source_variant_count": 2,
+      "status": "formal_pictured",
+      "family_id": "OTT-SILISTRA",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/silistria-medal-1854/silistria-medal-1854-in-gold-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/silistria-medal-1854/silistria-medal-1854-in-silver-2"
+      ]
+    },
+    {
+      "normalized_key": "sultans medal for egypt 1801",
+      "working_name": "Sultan's Medal for Egypt, 1801, I Class",
+      "source_variant_count": 4,
+      "status": "formal_pictured",
+      "family_id": "OTT-EGYPT-1801",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sultans-medal-for-egypt-1801/sultan's-medal-for-egypt-1801-i-class-1",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sultans-medal-for-egypt-1801/sultan's-medal-for-egypt-1801-ii-class-2",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sultans-medal-for-egypt-1801/sultan's-medal-for-egypt-1801-iii-class-3",
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/sultans-medal-for-egypt-1801/sultans-medal-for-egypt-1801-iv-class-4"
+      ]
+    },
+    {
+      "normalized_key": "turkish russian war medal 1877",
+      "working_name": "Turkish-Russian War Medal, 1877",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-RUSSO-TURKISH-WAR-1877",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/turkish-russian-war-medal-1877/turkish-russian-war-medal-1877-1"
+      ]
+    },
+    {
+      "normalized_key": "war medal of 1915",
+      "working_name": "War Medal of 1915",
+      "source_variant_count": 1,
+      "status": "formal_pictured",
+      "family_id": "OTT-WAR",
+      "note": "",
+      "source_pages": [
+        "https://www.medalbook.com/europe-east/turkey/medals-decorations/war-medal-of-1915/war-medal-of-1915-1"
+      ]
+    }
+  ]
+}

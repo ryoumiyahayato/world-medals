@@ -1,0 +1,89 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "myanmar-medalbook-154-01",
+      "record_id": "MMR-STAR-REVOLUTION-MEDALBOOK-154",
+      "view_key": "MMR-STAR-REVOLUTION-MEDALBOOK-154-VIEW1",
+      "local_path": "assets/images/medalbook_myanmar/154_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/myanmar/orders/order-of-the-star-of-the-revolution/order-of-the-star-of-the-revolution-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/ab49cb2e1458d7adede75f714be5121d66efd8bf/store/fit/528/348/c1127db8bc285ff5ed3f0b1bbefafb3c59299902aaa7dad879162fa5a3e1/Burmese+Order+Revo+III.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 120533,
+      "sha256": "fd7ec13759fb38654a839a48fdc284e25d1839e3b8c9d366a8b990b2675bae48",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "myanmar-medalbook-154-03",
+      "record_id": "MMR-STAR-REVOLUTION-MEDALBOOK-154",
+      "view_key": "MMR-STAR-REVOLUTION-MEDALBOOK-154-VIEW2",
+      "local_path": "assets/images/medalbook_myanmar/154_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/myanmar/orders/order-of-the-star-of-the-revolution/order-of-the-star-of-the-revolution-iii-class-3",
+      "image_url": "https://www.medalbook.com/attachments/fd2f28836fb72844c50f5981744730317a8680db/store/fit/528/348/4589c84cf6ca5c4fb63f5d5020fac3efd7b964ce2850ca55856096bad2c6/Burmese+Order+Revo+III+rev.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 98665,
+      "sha256": "a88a887bd3c159e7216c248f83aed52b237f84a8751bdef5df1a308c1bbc14e4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "myanmar-medalbook-155-02",
+      "record_id": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155",
+      "view_key": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155-VIEW1",
+      "local_path": "assets/images/medalbook_myanmar/155_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/myanmar/orders/order-of-the-tsalw%C3%A9-5/order-of-the-tsalw%C3%A9-",
+      "image_url": "https://www.medalbook.com/attachments/38be51f1e953dbfb17c7a241144d5cd7406cf9d6/store/fit/528/348/0f7bebfff1c5404dbc9aac03f25d4f15a5c1299c97dbb75252a5790b3f70/Burma%2C+Order+of+the+Tswale%2C+Badge%2C+Andreas+Thies%2C+Obv+.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        511,
+        348
+      ],
+      "bytes": 73342,
+      "sha256": "33d78c88aaccc39e143a198eccd66066efa212ec794bee4b111e9a0a7fc51801",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "myanmar-medalbook-155-01",
+      "record_id": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155",
+      "view_key": "BUR-KONBAUNG-TSALWE-MEDALBOOK-155-VIEW2",
+      "local_path": "assets/images/medalbook_myanmar/155_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/myanmar/orders/order-of-the-tsalw%C3%A9-5/order-of-the-tsalw%C3%A9-",
+      "image_url": "https://www.medalbook.com/attachments/2a7da75bd89005656a12c0ebb7d1e77c96cd9833/store/fit/528/348/66c3baa37e068bd3c459ef52344d0a7932085fa376e9344a21e97c247b0c/Burma%2C+Order+of+the+Tswale%2C+Badge%2C+Andreas+Thies%2C+Rev+.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        509,
+        348
+      ],
+      "bytes": 61650,
+      "sha256": "d11205d424eec499be76ceafd8366d757dd5cfb075add861d2c9ae573d50e963",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": [
+    {
+      "record_index": 113,
+      "name": "Prototype Military Award",
+      "reason": "source does not identify an instituted award; prototype retained only as a raw research candidate"
+    },
+    {
+      "count": 164,
+      "reason": "catalogue pages without a public object image remain in raw candidates"
+    }
+  ]
+}

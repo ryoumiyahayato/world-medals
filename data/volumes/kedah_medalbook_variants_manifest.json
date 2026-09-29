@@ -1,0 +1,79 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-medalbook-238-01",
+      "record_id": "MYS-KEDAH-DISTINGUISHED-SERVICE-STAR-MEDALBOOK-238",
+      "view_key": "MYS-KEDAH-DISTINGUISHED-SERVICE-STAR-MEDALBOOK-238-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/238_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kedah/medals-decorations/the-state-of-kedah-distinguished-service-star/the-state-of-kedah-distinguished-service-star-1",
+      "image_url": "https://www.medalbook.com/attachments/1ecb90c0a0e7bf0d46b683afd3f5cbe33bf1355d/store/fit/528/348/aca93b1fce737afaa75aea7d314a287d02d381dcc85d62afd174d921f80b/The+State+of+Kedah+Distinguished+Service+Star+1.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 52898,
+      "sha256": "bd7cd3bd138f1c6c6a92f75cd96217627fecc5b17d4479e7ea3e410c137ba880",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-271-01",
+      "record_id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-271",
+      "view_key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-271-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/271_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kedah/orders/royal-family-order-of-kedah/royal-family-order-of-kedah-badge-2",
+      "image_url": "https://www.medalbook.com/attachments/25a706ac7ec09ee8b66606d92e50806bbdcd563e/store/fit/1000/750/5e56a7f1e6761d2cdf3f0aff8d9f703a14f0e78ec244c23d2613a3913376/DSCN3279.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        563,
+        750
+      ],
+      "bytes": 91670,
+      "sha256": "dfde2044fb5167b41024fc79b2cd8618905cd0d26d93bfa166bf4ae2545cbb6f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-272-01",
+      "record_id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-272",
+      "view_key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-272-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/272_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kedah/orders/royal-family-order-of-kedah/royal-family-order-of-kedah-breast-star-3",
+      "image_url": "https://www.medalbook.com/attachments/a42deba1476c1f87581e8ee56c084f6a629ae2ed/store/fit/528/348/2cf5ef89e81d172378a817060b8eb982dc4565f6f50c5efda05a30f52187/DSCN3280.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        261,
+        348
+      ],
+      "bytes": 33152,
+      "sha256": "056ff5d25b182b50be69c1dd6ec54b141dc2c46ce3edb364b6e99f4dcdf82466",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-273-01",
+      "record_id": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-273",
+      "view_key": "MYS-KEDAH-ROYAL-FAMILY-MEDALBOOK-273-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/273_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-kedah/orders/royal-family-order-of-kedah/royal-family-order-of-kedah-collar-1",
+      "image_url": "https://www.medalbook.com/attachments/ea36d5601ed4d9a126e9589dd7bd9ab17f3d39c3/store/fit/1000/750/5047eee3a5905f4286ef510c1f78a97e072e7b83ad07fb2c346061da2d0c/DSCN3169.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 124125,
+      "sha256": "84e7fcaff9e53a020758229f4bb1986d65bc59d27cdb5bddd1bf102ca1622555",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

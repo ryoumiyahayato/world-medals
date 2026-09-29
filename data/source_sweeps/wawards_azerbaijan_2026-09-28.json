@@ -1,0 +1,12 @@
+{
+  "source_id": "wawards-azerbaijan",
+  "source_url": "https://wawards.org/en/azerbaijan.html",
+  "accessed": "2026-09-28",
+  "scope": "Complete country index, every linked award page and every exposed full-size image.",
+  "status": "complete",
+  "planned_object_pages": 50,
+  "processed_object_pages": 50,
+  "downloaded_images": 147,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_azerbaijan.jsonl"
+}

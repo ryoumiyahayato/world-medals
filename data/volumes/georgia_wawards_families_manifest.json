@@ -1,0 +1,519 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "geo-order_of_the_national_hero_of_georgia-representative-image",
+      "record_id": "GEO-ORDER_OF_THE_NATIONAL_HERO_OF_GEORGIA-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_THE_NATIONAL_HERO_OF_GEORGIA-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-the-national-hero-of-georgia.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-the-national-hero-of-georgia.html",
+      "image_url": "https://wawards.org/images/georgia/1/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 81593,
+      "sha256": "b373d61543e77e28ab39284b8196b312dc384d526798c097e6ab4f827747128f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-st_george_s_order_of_victory-representative-image",
+      "record_id": "GEO-ST_GEORGE_S_ORDER_OF_VICTORY-REPRESENTATIVE",
+      "view_key": "GEO-ST_GEORGE_S_ORDER_OF_VICTORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/st-george-s-order-of-victory.jpg",
+      "source_page": "https://wawards.org/georgia/st-george-s-order-of-victory.html",
+      "image_url": "https://wawards.org/images/georgia/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 69033,
+      "sha256": "34685fc7a37558dae8bcf55226ad995afbc1e90e8fa0b8cc4a9cbc9c2736cc03",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_david_the_builder-representative-image",
+      "record_id": "GEO-ORDER_OF_DAVID_THE_BUILDER-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_DAVID_THE_BUILDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-david-the-builder.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-david-the-builder.html",
+      "image_url": "https://wawards.org/images/georgia/3/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53870,
+      "sha256": "a1b192b9aff5a3077420d74f1a0e1a350d2924682496ead72aa79321ad42b077",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_queen_tamara-representative-image",
+      "record_id": "GEO-ORDER_OF_QUEEN_TAMARA-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_QUEEN_TAMARA-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-queen-tamara.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-queen-tamara.html",
+      "image_url": "https://wawards.org/images/georgia/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 126316,
+      "sha256": "21855ab150f83a40d29d07530318b4199b30c6cefd5f18089a0c0ac4be9b9ab7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-presidential_order_of_excellence-representative-image",
+      "record_id": "GEO-PRESIDENTIAL_ORDER_OF_EXCELLENCE-REPRESENTATIVE",
+      "view_key": "GEO-PRESIDENTIAL_ORDER_OF_EXCELLENCE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/presidential-order-of-excellence.jpg",
+      "source_page": "https://wawards.org/georgia/presidential-order-of-excellence.html",
+      "image_url": "https://wawards.org/images/georgia/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 108777,
+      "sha256": "6292531ff1c88d4c63f140762ef5148cf2373edac25846200deee848c170a8f6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_st_nicholas-representative-image",
+      "record_id": "GEO-ORDER_OF_ST_NICHOLAS-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_ST_NICHOLAS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-st-nicholas.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-st-nicholas.html",
+      "image_url": "https://wawards.org/images/georgia/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51933,
+      "sha256": "9317ca7bce59d9c90ac7ad6b5d64eb4462ef6915390190d17b0c6d26626bbf29",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_the_golden_fleece-representative-image",
+      "record_id": "GEO-ORDER_OF_THE_GOLDEN_FLEECE-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_THE_GOLDEN_FLEECE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-the-golden-fleece.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-the-golden-fleece.html",
+      "image_url": "https://wawards.org/images/georgia/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 92568,
+      "sha256": "0e6fe7037385c37a81bb3c1efec084d940050e1d914fdb152fd0b3a6354bfc47",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_vakhtang_gorgasali-representative-image",
+      "record_id": "GEO-ORDER_OF_VAKHTANG_GORGASALI-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_VAKHTANG_GORGASALI-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-vakhtang-gorgasali.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-vakhtang-gorgasali.html",
+      "image_url": "https://wawards.org/images/georgia/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59328,
+      "sha256": "3e7e405408e86f02e0cea6f9e038cdea5ad0323687a78cdaba4a2eb5ddffe3be",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-order_of_honor-representative-image",
+      "record_id": "GEO-ORDER_OF_HONOR-REPRESENTATIVE",
+      "view_key": "GEO-ORDER_OF_HONOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/order-of-honor.jpg",
+      "source_page": "https://wawards.org/georgia/order-of-honor.html",
+      "image_url": "https://wawards.org/images/georgia/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68634,
+      "sha256": "8a43843d5d8855b39a1d73a2ec4c4f6f2cdffcbd174b1ba848240cc9b0aab440",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_for_civil_sacrifice-representative-image",
+      "record_id": "GEO-MEDAL_FOR_CIVIL_SACRIFICE-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_FOR_CIVIL_SACRIFICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-for-civil-sacrifice.jpg",
+      "source_page": "https://wawards.org/georgia/medal-for-civil-sacrifice.html",
+      "image_url": "https://wawards.org/images/georgia/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58723,
+      "sha256": "61e0b928e10887e3053ede05f51ead954abd898b8ff411b58fe3a99008395a11",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_of_military_valour-representative-image",
+      "record_id": "GEO-MEDAL_OF_MILITARY_VALOUR-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_OF_MILITARY_VALOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-of-military-valour.jpg",
+      "source_page": "https://wawards.org/georgia/medal-of-military-valour.html",
+      "image_url": "https://wawards.org/images/georgia/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68955,
+      "sha256": "4b797235e4a36ca3d69d8f7d2421730085685c1502a9169d6e373508ac69ea4f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_of_military_honour-representative-image",
+      "record_id": "GEO-MEDAL_OF_MILITARY_HONOUR-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_OF_MILITARY_HONOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-of-military-honour.jpg",
+      "source_page": "https://wawards.org/georgia/medal-of-military-honour.html",
+      "image_url": "https://wawards.org/images/georgia/11/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75906,
+      "sha256": "67c4e80e83187701f03eb855d2459b8d399eca141c71259cd489b7161fe1f9ed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_of_honour-representative-image",
+      "record_id": "GEO-MEDAL_OF_HONOUR-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_OF_HONOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-of-honour.jpg",
+      "source_page": "https://wawards.org/georgia/medal-of-honour.html",
+      "image_url": "https://wawards.org/images/georgia/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55880,
+      "sha256": "d10dd13720340277561abcb41fe33a8b27d6797d8a9f35afed28f85e41900510",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-ministry_of_the_interior_medal_of_bravery-representative-image",
+      "record_id": "GEO-MINISTRY_OF_THE_INTERIOR_MEDAL_OF_BRAVERY-REPRESENTATIVE",
+      "view_key": "GEO-MINISTRY_OF_THE_INTERIOR_MEDAL_OF_BRAVERY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/ministry-of-the-interior-medal-of-bravery.jpg",
+      "source_page": "https://wawards.org/georgia/ministry-of-the-interior-medal-of-bravery.html",
+      "image_url": "https://wawards.org/images/georgia/14/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68672,
+      "sha256": "3f2265101c0789e5a4fddf49e494f01115905c01a4f2308a4565c197b16f2354",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-ministry_of_the_interior_distinguished_service_medal-representative-image",
+      "record_id": "GEO-MINISTRY_OF_THE_INTERIOR_DISTINGUISHED_SERVICE_MEDAL-REPRESENTATIVE",
+      "view_key": "GEO-MINISTRY_OF_THE_INTERIOR_DISTINGUISHED_SERVICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/ministry-of-the-interior-distinguished-service-medal.jpg",
+      "source_page": "https://wawards.org/georgia/ministry-of-the-interior-distinguished-service-medal.html",
+      "image_url": "https://wawards.org/images/georgia/15/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61309,
+      "sha256": "224fa3474e571fddc76eb03d5050c5821ef07854aec8ecb7570e85ecdbe5cee3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-ministry_of_the_interior_medal_for_impeccable_service-representative-image",
+      "record_id": "GEO-MINISTRY_OF_THE_INTERIOR_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "GEO-MINISTRY_OF_THE_INTERIOR_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/ministry-of-the-interior-medal-for-impeccable-service.jpg",
+      "source_page": "https://wawards.org/georgia/ministry-of-the-interior-medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/georgia/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 83108,
+      "sha256": "392b0d3bc15362dde1f9189347599182bcae159beecaf21e22c8bacf3d7369e9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-ministry_of_defense_medal_for_impeccable_service-representative-image",
+      "record_id": "GEO-MINISTRY_OF_DEFENSE_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "view_key": "GEO-MINISTRY_OF_DEFENSE_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/ministry-of-defense-medal-for-impeccable-service.jpg",
+      "source_page": "https://wawards.org/georgia/ministry-of-defense-medal-for-impeccable-service.html",
+      "image_url": "https://wawards.org/images/georgia/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43576,
+      "sha256": "d2bef01d6fa206e07b7d7f1d729bf5e15844a5ee0bbf804da8da7b006697fa92",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_for_devotion_to_the_motherland-representative-image",
+      "record_id": "GEO-MEDAL_FOR_DEVOTION_TO_THE_MOTHERLAND-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_FOR_DEVOTION_TO_THE_MOTHERLAND-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-for-devotion-to-the-motherland.jpg",
+      "source_page": "https://wawards.org/georgia/medal-for-devotion-to-the-motherland.html",
+      "image_url": "https://wawards.org/images/georgia/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35498,
+      "sha256": "b6d1620abd3ee4138028e59adbee5a96bb07959975e2e1966ec144459e8a031d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_kakutsa_cholokashvili-representative-image",
+      "record_id": "GEO-MEDAL_KAKUTSA_CHOLOKASHVILI-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_KAKUTSA_CHOLOKASHVILI-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-kakutsa-cholokashvili.jpg",
+      "source_page": "https://wawards.org/georgia/medal-kakutsa-cholokashvili.html",
+      "image_url": "https://wawards.org/images/georgia/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55060,
+      "sha256": "a89682d44f8e797a23159ec0191dfe7875ce915a8ad99a23686af01d5b86c5ca",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_general_kvinitadze-representative-image",
+      "record_id": "GEO-MEDAL_GENERAL_KVINITADZE-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_GENERAL_KVINITADZE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-general-kvinitadze.jpg",
+      "source_page": "https://wawards.org/georgia/medal-general-kvinitadze.html",
+      "image_url": "https://wawards.org/images/georgia/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67307,
+      "sha256": "a9a06cee6e634145e870376db7af5eab369f01551d7f16a92d5280bad64a674c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-lifesaving_medal-representative-image",
+      "record_id": "GEO-LIFESAVING_MEDAL-REPRESENTATIVE",
+      "view_key": "GEO-LIFESAVING_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/lifesaving-medal.jpg",
+      "source_page": "https://wawards.org/georgia/lifesaving-medal.html",
+      "image_url": "https://wawards.org/images/georgia/21/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 38650,
+      "sha256": "a1b499cfe6954ef7ae37f577f89686f9fc8b4f70437880f7d9ecf41cbbab5c72",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_for_peacekeeping_operations-representative-image",
+      "record_id": "GEO-MEDAL_FOR_PEACEKEEPING_OPERATIONS-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_FOR_PEACEKEEPING_OPERATIONS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-for-peacekeeping-operations.jpg",
+      "source_page": "https://wawards.org/georgia/medal-for-peacekeeping-operations.html",
+      "image_url": "https://wawards.org/images/georgia/22/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63986,
+      "sha256": "5eb80b5cbb067c3ebf4f4c823a8666b957cfaf154b6762e8e8c84d1ddd3f085d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_general_mazniashvili-representative-image",
+      "record_id": "GEO-MEDAL_GENERAL_MAZNIASHVILI-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_GENERAL_MAZNIASHVILI-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-general-mazniashvili.jpg",
+      "source_page": "https://wawards.org/georgia/medal-general-mazniashvili.html",
+      "image_url": "https://wawards.org/images/georgia/23/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45079,
+      "sha256": "a82343da2c91454a58f594144578a4a3b4982179e67db5342f3d3291c2da2eb0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_for_courage_in_the_struggle_against_disaster-representative-image",
+      "record_id": "GEO-MEDAL_FOR_COURAGE_IN_THE_STRUGGLE_AGAINST_DISASTER-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_FOR_COURAGE_IN_THE_STRUGGLE_AGAINST_DISASTER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-for-courage-in-the-struggle-against-disaster.jpg",
+      "source_page": "https://wawards.org/georgia/medal-for-courage-in-the-struggle-against-disaster.html",
+      "image_url": "https://wawards.org/images/georgia/24/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44239,
+      "sha256": "9c46eed1ed09d32538678c28d8f8c76cf062aaa38cc8f3c6474cc1b746b4e912",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_giorgi_antsukhelidze-representative-image",
+      "record_id": "GEO-MEDAL_GIORGI_ANTSUKHELIDZE-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_GIORGI_ANTSUKHELIDZE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-giorgi-antsukhelidze.jpg",
+      "source_page": "https://wawards.org/georgia/medal-giorgi-antsukhelidze.html",
+      "image_url": "https://wawards.org/images/georgia/25/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49941,
+      "sha256": "63662d7bde2274781eaad12fa01c581fcb686aa1bab333fba534ef6310b4bb0d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_didgori_cross-representative-image",
+      "record_id": "GEO-MEDAL_DIDGORI_CROSS-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_DIDGORI_CROSS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-didgori-cross.jpg",
+      "source_page": "https://wawards.org/georgia/medal-didgori-cross.html",
+      "image_url": "https://wawards.org/images/georgia/26/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51283,
+      "sha256": "e0f4b35ac34379e464143c56663469cac175a7cb8abdc178fc8c94e925d92e98",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-medal_80_years_of_internal_troops-representative-image",
+      "record_id": "GEO-MEDAL_80_YEARS_OF_INTERNAL_TROOPS-REPRESENTATIVE",
+      "view_key": "GEO-MEDAL_80_YEARS_OF_INTERNAL_TROOPS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/medal-80-years-of-internal-troops.jpg",
+      "source_page": "https://wawards.org/georgia/medal-80-years-of-internal-troops.html",
+      "image_url": "https://wawards.org/images/georgia/27/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63441,
+      "sha256": "e5ccfc8a66efb7ecbb92c9a7b70e2ba4cff265f519cc8440feae3535dc9bc3a7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-jubilee_medal_65_years_of_victory_over_fascism-representative-image",
+      "record_id": "GEO-JUBILEE_MEDAL_65_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE",
+      "view_key": "GEO-JUBILEE_MEDAL_65_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/jubilee-medal-65-years-of-victory-over-fascism.jpg",
+      "source_page": "https://wawards.org/georgia/jubilee-medal-65-years-of-victory-over-fascism.html",
+      "image_url": "https://wawards.org/images/georgia/28/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66113,
+      "sha256": "551383380680daefd0c9199d489e098d42e59e6edb56d3491cf2ee8b04bf8c65",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-jubilee_medal_70_years_of_victory_over_fascism-representative-image",
+      "record_id": "GEO-JUBILEE_MEDAL_70_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE",
+      "view_key": "GEO-JUBILEE_MEDAL_70_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/jubilee-medal-70-years-of-victory-over-fascism.jpg",
+      "source_page": "https://wawards.org/georgia/jubilee-medal-70-years-of-victory-over-fascism.html",
+      "image_url": "https://wawards.org/images/georgia/29/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57114,
+      "sha256": "6bd55640bed49a0e594d22b08f8c394371854ac3ffae9b5b0e2964985b688bed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "geo-jubilee_medal_75_years_of_victory_over_fascism-representative-image",
+      "record_id": "GEO-JUBILEE_MEDAL_75_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE",
+      "view_key": "GEO-JUBILEE_MEDAL_75_YEARS_OF_VICTORY_OVER_FASCISM-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/georgia_wawards_families/jubilee-medal-75-years-of-victory-over-fascism.jpg",
+      "source_page": "https://wawards.org/georgia/jubilee-medal-75-years-of-victory-over-fascism.html",
+      "image_url": "https://wawards.org/images/georgia/30/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48264,
+      "sha256": "f5f48bce257c4ee29fb885a09d08d70a190b19202bc1dc2316e8eab2a716ce75",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "Armenia output is a differential against the existing 16-family volume; source images for overlapping families remain cached."
+  ]
+}

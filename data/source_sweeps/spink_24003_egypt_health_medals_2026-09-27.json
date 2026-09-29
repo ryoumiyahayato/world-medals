@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "source_id": "spink_24003_egypt_health_medals",
+  "scope_id": "egypt",
+  "as_of": "2026-09-27",
+  "status": "completed",
+  "source_page": "https://spink.com/lot/24003000347",
+  "bounded_unit": "Auction 24003, lot 347",
+  "lots_processed": 1,
+  "objects_described": 4,
+  "images_downloaded": 1,
+  "image_dimensions": [1100, 567],
+  "formal_families_added": 0,
+  "existing_families_pictured": 1,
+  "variants_added": 1,
+  "local_complete_images_added": 1,
+  "result": "The red-enamel crown 1945 Malaria Medal front is complete. It is paired only as a different-object type reference with the complete crown-suspension reverse in the 2005 JOMSA article. The other three objects remain visible in the preserved group source and were not multiplied into unsupported rows.",
+  "candidate_file": "data/raw_candidates/spink_24003_egypt_health_medals.jsonl",
+  "local_group_image": "assets/raw/egypt_spink_24003/24003_347_1.jpg",
+  "formal_crop": "assets/images/egypt_omsa_malaria_cholera/malaria_1945_red_crown_front.jpg",
+  "crop_box": [45, 0, 290, 567],
+  "next_action": "Find complete paired images for the non-enamel crown malaria type and the combined specimen before adding further variant rows."
+}

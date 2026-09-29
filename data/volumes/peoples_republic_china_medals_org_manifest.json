@@ -1,0 +1,39 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "prc-odm-000-01",
+      "record_id": "PRC-ODM-000-V01",
+      "view_key": "PRC-ODM-000-VIEW1",
+      "local_path": "assets/images/medals_org_china/000_01.jpg",
+      "source_page": "https://medals.org.uk/china/prc/prc001.htm",
+      "image_url": "https://medals.org.uk/china/prc/images/prc001.jpg",
+      "artist": "ODM / medals.org.uk object image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        116,
+        250
+      ],
+      "bytes": 10918,
+      "sha256": "6a81c2ba880c72ce8a67f1966ed50235105ad81be453c7b0bea3e5833c6dfe32",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medals-org-china-0aef46c92a3d5035",
+      "name": "Medal for the Liberation of Manchuria",
+      "date": "Unknown.",
+      "page_url": "https://medals.org.uk/china/prc/prc002.htm",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medals-org-china-72a176a0482eb08e",
+      "name": "Military Service Medal 1954",
+      "date": "Unknown.",
+      "page_url": "https://medals.org.uk/china/prc/prc003.htm",
+      "status": "有记载未配图"
+    }
+  ]
+}

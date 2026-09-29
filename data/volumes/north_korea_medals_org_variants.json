@@ -1,0 +1,360 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "朝鲜 · ODM",
+  "records": [
+    {
+      "id": "PRK-ODM-000-V01",
+      "family": "PRK-HERO-OF-DPRK",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国英雄金星奖章",
+      "original": "Hero of the Korean Democratic People's Republic Gold Star Medal",
+      "date": "1950年设立",
+      "variant": "金星奖章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-000-01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-0e6d75fe568c87d5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-062-V01"
+    },
+    {
+      "id": "PRK-ODM-001-V01",
+      "family": "PRK-HERO-LABOUR",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国劳动英雄金星奖章",
+      "original": "Hero of Labour of the Korean Democratic People's Republic Gold Star Medal",
+      "date": "1951年设立",
+      "variant": "金星奖章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-001-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-001-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-f4ec89eda73ee8fe"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-006-V01",
+      "family": "PRK-ORDER-ADMIRAL-YI-SUN-SIN",
+      "country_zh": "朝鲜",
+      "name": "李舜臣将军勋章",
+      "original": "Order of Admiral Li Sun Sin",
+      "date": "1950年设立",
+      "variant": "二级；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-006-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-006-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-a67881f32012aac3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-007-V01",
+      "family": "PRK-ORD-12",
+      "country_zh": "朝鲜",
+      "name": "劳动勋章",
+      "original": "Order of Labour",
+      "date": "1951年设立",
+      "variant": "第二型；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-007-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-007-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-2feb52d84162f254"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-042-V01"
+    },
+    {
+      "id": "PRK-ODM-008-V01",
+      "family": "PRK-ORDER-THREE-REVOLUTIONS",
+      "country_zh": "朝鲜",
+      "name": "三大革命红旗勋章",
+      "original": "Order of the Red Banner of Three Great Revolutions",
+      "date": "1986年设立",
+      "variant": "勋章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-008-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-008-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-20dab52af7547ca8"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-060-V01"
+    },
+    {
+      "id": "PRK-ODM-009-V01",
+      "family": "PRK-ORDER-WAR-VICTORY-40",
+      "country_zh": "朝鲜",
+      "name": "祖国解放战争胜利40周年纪念勋章",
+      "original": "Commemorative Order \"40th Anniversary of Fatherland Liberation War Victory\"",
+      "date": "1993年",
+      "variant": "纪念勋章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-009-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-009-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-3299939189dcd229"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-022-V01"
+    },
+    {
+      "id": "PRK-ODM-010-V01",
+      "family": "PRK-ORDER-MINING-HONOUR",
+      "country_zh": "朝鲜",
+      "name": "矿业服务荣誉勋章",
+      "original": "Order of Mining Honour",
+      "date": "1973年设立",
+      "variant": "一级；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-010-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-010-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-2afc12373ec04fb5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-010-V02",
+      "family": "PRK-ORDER-MINING-HONOUR",
+      "country_zh": "朝鲜",
+      "name": "矿业服务荣誉勋章",
+      "original": "Order of Mining Honour",
+      "date": "1973年设立",
+      "variant": "二级；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-010-02-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-010-02-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-2afc12373ec04fb5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-010-V03",
+      "family": "PRK-ORDER-MINING-HONOUR",
+      "country_zh": "朝鲜",
+      "name": "矿业服务荣誉勋章",
+      "original": "Order of Mining Honour",
+      "date": "1973年设立",
+      "variant": "三级；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-010-03-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-010-03-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-2afc12373ec04fb5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-011-V01",
+      "family": "PRK-ORDER-MILITARY-ENGINEERING-SERVICE",
+      "country_zh": "朝鲜",
+      "name": "军事工程服役荣誉勋章",
+      "original": "Order of Military Engineering Service Honour",
+      "date": "朝鲜民主主义人民共和国时期",
+      "variant": "三级·服役10年章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-011-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-011-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-93a26be7d3809487"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-012-V01",
+      "family": "PRK-ORDER-DPRK-20",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国成立20周年纪念勋章",
+      "original": "Commemorative Order \"20th Anniversary of the Foundation of the Democratic People's Republic of Korea\"",
+      "date": "1968年",
+      "variant": "纪念勋章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-012-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-012-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-a22d0f75ef0ba337"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-013-V01",
+      "family": "PRK-ORDER-PEOPLES-ARMY-60",
+      "country_zh": "朝鲜",
+      "name": "人民军建军60周年纪念勋章",
+      "original": "Commemorative Order \"60th Anniversary of the People's Army\"",
+      "date": "1992年",
+      "variant": "纪念勋章；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-013-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-013-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-dda91162cdbe0015"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-025-V01"
+    },
+    {
+      "id": "PRK-ODM-014-V01",
+      "family": "PRK-ORDER-MILITARY-SERVICE-HONOUR",
+      "country_zh": "朝鲜",
+      "name": "军事服役荣誉勋章",
+      "original": "Order of Military Service Honour",
+      "date": "1973年设立",
+      "variant": "三级；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-014-01-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "PRK-ODM-014-01-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-2b53197dc89a8219"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "PRK-MB-049-V01"
+    },
+    {
+      "id": "PRK-ODM-016-V01",
+      "family": "PRK-ORDER-FRIENDSHIP",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国友谊勋章",
+      "original": "Order of Democratic People's Republic of Korea Friendship",
+      "date": "1985年设立",
+      "variant": "一级章饰；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-016-01-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-dcd7c12d453f00ea"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "PRK-ODM-016-V02",
+      "family": "PRK-ORDER-FRIENDSHIP",
+      "country_zh": "朝鲜",
+      "name": "朝鲜民主主义人民共和国友谊勋章",
+      "original": "Order of Democratic People's Republic of Korea Friendship",
+      "date": "1985年设立",
+      "variant": "一级副章（星章）；低清参考",
+      "views": [
+        {
+          "key": "PRK-ODM-016-02-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-north-korea-dcd7c12d453f00ea"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

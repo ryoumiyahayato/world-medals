@@ -1,0 +1,135 @@
+[
+  {
+    "family": "OTT-REL-DARULFUNUN-1907",
+    "name": "达鲁福农纪念章",
+    "original": "Dârülfünun Madalyası",
+    "date": "1907",
+    "known_variant": "铝质",
+    "source_ids": ["tdv-madalya", "obarsiv:2110:112257"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；SALT组合记录提供馆藏线索，但原图受Local Access限制，未使用网页缩略图。"
+  },
+  {
+    "family": "OTT-REL-HUNGARIAN-VISITORS-1908",
+    "name": "匈牙利访客纪念章",
+    "original": "Macar Züvvârı Hâtırası Madalyası",
+    "date": "1908",
+    "known_variant": "鎏金铜质",
+    "source_ids": ["tdv-madalya", "obarsiv:2110:112257"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；SALT组合记录提供馆藏线索，但尚未取得可核对的完整原图。"
+  },
+  {
+    "family": "OTT-REL-GALATASARAY-TERBIYE-1910",
+    "name": "加拉塔萨雷体育俱乐部纪念章",
+    "original": "Galatasaray Terbiye-i Bedeniyye Kulübü Madalyası",
+    "date": "1910",
+    "known_variant": "铜质",
+    "source_ids": ["tdv-madalya", "salt-anudm00278"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；SALT体育奖章组合页列有加拉塔萨雷对象，但当前无法把各图与本条逐一可靠对应。"
+  },
+  {
+    "family": "OTT-REL-BEZMIALEM-1916",
+    "name": "贝兹米阿莱姆瓦利德苏丹学校纪念章",
+    "original": "Bezmiâlem Vâlide Sultânîsi Madalyası",
+    "date": "1916",
+    "known_variant": "银质",
+    "source_ids": ["tdv-madalya", "obarsiv:2110:105179"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；SALT学校奖章组合记录列出该校，但原图访问受限。"
+  },
+  {
+    "family": "OTT-REL-TICARET-MEKTEBI-1916",
+    "name": "高等商业学校纪念章",
+    "original": "Ticaret Mekteb-i Âlîsi Madalyası",
+    "date": "1916",
+    "known_variant": "银质",
+    "source_ids": ["tdv-madalya", "medalbook-ottoman-2270682fcb4023f3"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；MedalBook称目前不知有公私收藏存世实例，因此不编造或借用相似校章。"
+  },
+  {
+    "family": "OTT-REL-FENERBAHCE-1917",
+    "name": "费内巴切体育俱乐部纪念章",
+    "original": "Fenerbahçe İdman Yurdu Madalyası",
+    "date": "1917",
+    "known_variant": "铜质",
+    "source_ids": ["tdv-madalya", "salt-anudm00278"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质；SALT组合页列有费内巴切对象，但尚未把具体图与1917版可靠对应。"
+  },
+  {
+    "family": "OTT-REL-CICEK-1921",
+    "name": "花卉展览纪念章",
+    "original": "Çiçek Meşheri Madalyası",
+    "date": "1921",
+    "known_variant": "银质、铜质",
+    "source_ids": ["tdv-madalya"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质，尚未取得可确认图。"
+  },
+  {
+    "family": "OTT-REL-TRACTOR-1921",
+    "name": "拖拉机竞赛纪念章",
+    "original": "Traktör Müsabakası Madalyası",
+    "date": "1921",
+    "known_variant": "金质、银质、铜质",
+    "source_ids": ["tdv-madalya"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "TDV列明年份与材质，尚未取得可确认图。"
+  },
+  {
+    "family": "OTT-REL-HATTI-HUMAYUN",
+    "name": "改革诏书纪念章",
+    "original": "Hatt-ı Hümâyun / Islahat Fermanı Commemorative Medal",
+    "date": "1856年后",
+    "known_variant": "鎏金、铜质",
+    "source_ids": ["medalbook-ottoman-a8ffb89e6710499b", "medalbook-ottoman-2c054cb50c2eabf0"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "目录将其说明为纪念《改革诏书》签署的纪念章；属于相关历史纪念门类，不能与1850年坦志麦特纪念章合并。"
+  },
+  {
+    "family": "OTT-REL-IHTIFAL-MILLI",
+    "name": "民族庆典纪念章",
+    "original": "İhtifal-i Millî Hatıra Madalyası",
+    "date": "待考",
+    "known_variant": "待考",
+    "source_ids": ["medalbook-ottoman-4428a1547e0e416c"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "来源说明其纪念加拉塔萨雷学校举行的典礼；按学校／仪式纪念门类登记。"
+  },
+  {
+    "family": "OTT-REL-MEDICAL-SCHOOL-OPENING-1838",
+    "name": "新医学校开幕纪念章",
+    "original": "Mekteb-i Tıbbiye'nin Açılması Madalyası",
+    "date": "1838",
+    "known_variant": "待考",
+    "source_ids": ["medalbook-ottoman-d31fed2a5dd6f4c7"],
+    "status": "RELATED_UNPICTURED",
+    "reason": "来源说明其用于纪念新医学校开幕；按学校／事件纪念门类登记。"
+  },
+  {
+    "family": "OTT-REL-MECRUHIN-IANE-CEMIYETI",
+    "name": "伤兵救济协会章",
+    "original": "Mecrûhîn-i Askeriyeye İâne Cemiyeti Nişanı",
+    "date": "待考",
+    "known_variant": "待考",
+    "source_ids": ["medalbook-ottoman-9759ccc68a26c39b"],
+    "status": "UNOFFICIAL_RELATED_UNPICTURED",
+    "reason": "MedalBook明确说明其未被承认为奥斯曼帝国正式勋章，故只列相关机构奖励，不进入正式主编。"
+  },
+  {
+    "family": "OTT-REL-ABDULAZIZ-LONDON-VISIT-1867",
+    "name": "阿卜杜勒-阿齐兹苏丹访伦纪念章",
+    "original": "Abdul Aziz, Visit to the City of London Medal",
+    "date": "1867",
+    "known_variant": "青铜；约76.4毫米、275.42克；J. S. Wyon与A. B. Wyon制；原盒版有记录",
+    "source_ids": [
+      "zfwt-abdulaziz-london-visit-1867",
+      "baldwins-islamic-list9-item258-citation"
+    ],
+    "status": "RELATED_FOREIGN_ISSUED_UNPICTURED",
+    "reason": "为苏丹1867年访伦而由伦敦方面铸造的历史纪念章，不是奥斯曼国家正式授奖；当前来源图许可和原图文件尚未核清，故先列相关纪念附编缺图项。"
+  }
+]

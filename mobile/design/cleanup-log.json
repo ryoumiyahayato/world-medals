@@ -1,0 +1,18 @@
+{
+  "deleted_old_apk_files": 12,
+  "deleted_intermediate_apks": 3,
+  "freed_bytes": 1114394975,
+  "kept_apk": "world-medals-0.004.apk",
+  "kept_apk_hash_verified": true,
+  "archived": "data/source_sweeps/recovered_medalbook_sudan_2026-09-26.json",
+  "preserved": [
+    "assets",
+    "sources",
+    "originals",
+    "data",
+    "tmp",
+    "backups",
+    "mobile/.local"
+  ],
+  "note": "Broad recursive cleanup was rejected; only enumerated old package files and three verified rebuildable APK intermediates were deleted."
+}

@@ -1,0 +1,583 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-istiadat-9267",
+      "record_id": "MYS-FED-MALAYSIA-COMMEMORATIVE-ISTIADAT-9267",
+      "view_key": "MYS-FED-MALAYSIA-COMMEMORATIVE-ISTIADAT-9267-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9267.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9267",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PPM.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 876215,
+      "sha256": "4f673e2ce0663a7d703fc3605e4e1ced85f56c18f307bf2755a24ddc2c4520bd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9269",
+      "record_id": "MYS-FED-CORONATION-XVI-ISTIADAT-9269",
+      "view_key": "MYS-FED-CORONATION-XVI-ISTIADAT-9269-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9269.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9269",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/Pingat-Pertabalan.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 914514,
+      "sha256": "9301c78aef83196af2386df6fd379c85164df2fcfcce1ba345bee22377168d25",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9265",
+      "record_id": "MYS-FED-NATIONAL-HEROES-SERVICE-ISTIADAT-9265",
+      "view_key": "MYS-FED-NATIONAL-HEROES-SERVICE-ISTIADAT-9265-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9265.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9265",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PJPN.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        771,
+        1021
+      ],
+      "bytes": 467093,
+      "sha256": "db1fca5d269293dbe636aa025b4f83378b7783018943586d3833654d577d648c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9263",
+      "record_id": "MYS-FED-NATIONAL-SOVEREIGNTY-ISTIADAT-9263",
+      "view_key": "MYS-FED-NATIONAL-SOVEREIGNTY-ISTIADAT-9263-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9263.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9263",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.K.N..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1367,
+        906
+      ],
+      "bytes": 519902,
+      "sha256": "01a84ac2e164ee3f5dc2555355a87db4fb8ae5a94f9c1392989ae14e84ec6d87",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9261",
+      "record_id": "MYS-FED-EXCELLENT-SERVICE-ISTIADAT-9261",
+      "view_key": "MYS-FED-EXCELLENT-SERVICE-ISTIADAT-9261-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9261.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9261",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.P.C..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1286,
+        852
+      ],
+      "bytes": 538062,
+      "sha256": "d6b2a2b4b886f505fe05ead4ea01506db83d76d87dba333071597988c3ed1e1e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9258",
+      "record_id": "MYS-FED-MALAYSIA-SERVICE-ISTIADAT-9258",
+      "view_key": "MYS-FED-MALAYSIA-SERVICE-ISTIADAT-9258-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9258.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9258",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PJM.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        771,
+        1021
+      ],
+      "bytes": 536062,
+      "sha256": "277c09ad1004b5ecf42c79e68e3378c25f0c562de75c40730901d81e15e99eef",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9256",
+      "record_id": "MYS-FED-LOYAL-SERVICE-ISTIADAT-9256",
+      "view_key": "MYS-FED-LOYAL-SERVICE-ISTIADAT-9256-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9256.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9256",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.P.S..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        928,
+        1299
+      ],
+      "bytes": 488558,
+      "sha256": "3a8ef7d2697015a9778109f0c1edc2e6f55b079211d839986719f53865111d40",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9254",
+      "record_id": "MYS-FED-GENERAL-SERVICE-ISTIADAT-9254",
+      "view_key": "MYS-FED-GENERAL-SERVICE-ISTIADAT-9254-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9254.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9254",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.P.A..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        829,
+        1142
+      ],
+      "bytes": 459083,
+      "sha256": "4c4e46c80f4da1f8905a906e3a4eb5b8309776677ef99ef4cf598bfd7988098e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9252",
+      "record_id": "MYS-FED-MERITORIOUS-DUTY-ISTIADAT-9252",
+      "view_key": "MYS-FED-MERITORIOUS-DUTY-ISTIADAT-9252-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9252.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9252",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.K.B..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1029,
+        1356
+      ],
+      "bytes": 516723,
+      "sha256": "f1c8574495c1f09b6926b806beed0d1d72f3eaff2f835952fcc35645595a4816",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9250",
+      "record_id": "MYS-FED-SERVICE-ISTIADAT-9250",
+      "view_key": "MYS-FED-SERVICE-ISTIADAT-9250-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9250.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9250",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.K..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        920,
+        1121
+      ],
+      "bytes": 527587,
+      "sha256": "cd093f7bb23633e49e2d1430ba2da86bf81c96105d3488bafaf85732e4f0d875",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9248",
+      "record_id": "MYS-FED-AIR-FORCE-ISTIADAT-9248",
+      "view_key": "MYS-FED-AIR-FORCE-ISTIADAT-9248-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9248.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9248",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.T.U..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1067,
+        1387
+      ],
+      "bytes": 952639,
+      "sha256": "7821d560960a05f893f81603b9cabae20cffe03a27f21830b0c3d336282bb000",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9246",
+      "record_id": "MYS-FED-MENTION-BRAVERY-ISTIADAT-9246",
+      "view_key": "MYS-FED-MENTION-BRAVERY-ISTIADAT-9246-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9246.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9246",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/K.P.K..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1056,
+        653
+      ],
+      "bytes": 288597,
+      "sha256": "03688f7e0129037d0ab3a6ae5e1deb7003014f33fe525be9f74dd6af97e67cbb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9244",
+      "record_id": "MYS-FED-FEDERATION-GALLANTRY-ISTIADAT-9244",
+      "view_key": "MYS-FED-FEDERATION-GALLANTRY-ISTIADAT-9244-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9244.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9244",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/J.P.P..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        771,
+        1021
+      ],
+      "bytes": 552721,
+      "sha256": "fb7026bf3c01fe14882a0de65a4791365d5ea1332c694865096c2c95cfbe9475",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9242",
+      "record_id": "MYS-FED-COMMANDER-VALOUR-ISTIADAT-9242",
+      "view_key": "MYS-FED-COMMANDER-VALOUR-ISTIADAT-9242-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9242.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9242",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.G.B..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        807,
+        1116
+      ],
+      "bytes": 616617,
+      "sha256": "18da3d462348042bb0a616b78a075b771e14cdc4a275f4db1205e7f154f76393",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9240",
+      "record_id": "MYS-FED-GRAND-KNIGHT-VALOUR-ISTIADAT-9240",
+      "view_key": "MYS-FED-GRAND-KNIGHT-VALOUR-ISTIADAT-9240-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9240.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9240",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/S.P..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        915,
+        1375
+      ],
+      "bytes": 1040322,
+      "sha256": "ece362e8126ed4ac70d040cdcc4cf0f57a592a7c829a4f145e45e7b5667bef62",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9216",
+      "record_id": "MYS-FED-ORDER-MERIT-ISTIADAT-9216",
+      "view_key": "MYS-FED-ORDER-MERIT-ISTIADAT-9216-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9216.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9216",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/D.B..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1179,
+        1295
+      ],
+      "bytes": 1473024,
+      "sha256": "938d48b111be73fb44a93d1b51c1383bde8f77e563282380255a9dcb2bac6262",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9211",
+      "record_id": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9211",
+      "view_key": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9211-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9211.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9211",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/BSD.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1025847,
+      "sha256": "c5acfb2f066b11a67865c32ff8c4984435812dbe6ce5b83fbc34ed3264f1af39",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9204",
+      "record_id": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9204",
+      "view_key": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9204-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9204.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9204",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/KSD.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1005249,
+      "sha256": "c299d473216ba7a0966889e9078aa85e51ef2fc28eb5c8ab13ab61f55e4ac89a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9199",
+      "record_id": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9199",
+      "view_key": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9199-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9199.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9199",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/JSD.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1107863,
+      "sha256": "de624c8aaf49bf2748531c4c94b2f6d1befb62119c09380ba63639026c604535",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9194",
+      "record_id": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9194",
+      "view_key": "MYS-FED-LOYALTY-ROYAL-HOUSEHOLD-ISTIADAT-9194-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9194.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9194",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PSD.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        924,
+        1247
+      ],
+      "bytes": 1340997,
+      "sha256": "791c0fa730431e34a3e1d6f5b25b2869be9671ab1432a0471e17fb87ff36199d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9183",
+      "record_id": "MYS-FED-MERITORIOUS-SERVICE-ORDER-ISTIADAT-9183",
+      "view_key": "MYS-FED-MERITORIOUS-SERVICE-ORDER-ISTIADAT-9183-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9183.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9183",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PJN.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        900,
+        1343
+      ],
+      "bytes": 1097304,
+      "sha256": "d105363528e5b5888c0902e133425cad8d5a6c4d5a83a39d77288407f41572d2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9170",
+      "record_id": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9170",
+      "view_key": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9170-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9170.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9170",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/JSM.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1078815,
+      "sha256": "35ecc954095db7cd726e99c60a11976b62903927fbb31422194b14d1d90eff0c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9162",
+      "record_id": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9162",
+      "view_key": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9162-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9162.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9162",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PSM.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        927,
+        1383
+      ],
+      "bytes": 1212621,
+      "sha256": "105aa53575faedcdd6fdebfd0139fa0f394ec2bf3405d90b89db07deaffeaebf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9153",
+      "record_id": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9153",
+      "view_key": "MYS-FED-LOYALTY-CROWN-ISTIADAT-9153-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9153.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9153",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/SSM.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        930,
+        1393
+      ],
+      "bytes": 923587,
+      "sha256": "ac611bd1827dfe25c2a5ba4f168d6fa074525463c7637e6924fa1e2f71e23504",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9148",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9148",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9148-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9148.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9148",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/PPN.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 887397,
+      "sha256": "9f82eafbf2ce08273b9ea254c4033b51578fd68455cfce1e5df0ab72239340b6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9142",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9142",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9142-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9142.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9142",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/AMN.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1121190,
+      "sha256": "e482fbc9ab331b82644aefc4a950268ee3d4a114c8583625df641a268fea0290",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9133",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9133",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9133-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9133.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9133",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/KMN.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1149938,
+      "sha256": "be4b08297da6044c052bedbce20877d13500925c10aebf8a6bdeba0b0801edd8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9047",
+      "record_id": "MYS-FED-ROYAL-FAMILY-MALAYSIA-ISTIADAT-9047",
+      "view_key": "MYS-FED-ROYAL-FAMILY-MALAYSIA-ISTIADAT-9047-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9047.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9047",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/D.K.M.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        924,
+        1373
+      ],
+      "bytes": 871008,
+      "sha256": "2c40880fed904898ead6a7b69a76ab7c0132116d472bc09ecfe5b1d78b15d5f0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9070",
+      "record_id": "MYS-FED-CROWN-REALM-ISTIADAT-9070",
+      "view_key": "MYS-FED-CROWN-REALM-ISTIADAT-9070-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9070.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9070",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/D.M.N.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        968,
+        1400
+      ],
+      "bytes": 1016412,
+      "sha256": "cfbe3d33e7ef7feeac74ce37be16a88f2a87daafaf39563d6f21ba0dbe30f35e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9088",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9088",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9088-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9088.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9088",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/S.M.N.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        901,
+        1340
+      ],
+      "bytes": 993407,
+      "sha256": "4f88dc3d6e673cbc9a7c2100912e4c1c8117a97cdc60d2c4ccbd4c88eaa097d9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9090",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9090",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9090-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9090.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9090",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/P.M.N..png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        910,
+        1367
+      ],
+      "bytes": 1177839,
+      "sha256": "27de4af10f6343033aaced1f40f68b28faffbb47951aa8d262a337eb9571977a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-istiadat-9105",
+      "record_id": "MYS-FED-DEFENDER-REALM-ISTIADAT-9105",
+      "view_key": "MYS-FED-DEFENDER-REALM-ISTIADAT-9105-VIEW1",
+      "local_path": "assets/images/istiadat_malaysia_federal/9105.png",
+      "source_page": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/#pum-9105",
+      "image_url": "https://www.istiadat.gov.my/wp-content/uploads/2021/01/JMN-1.png",
+      "artist": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa",
+      "license": "Malaysian Government official website terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1200,
+        1000
+      ],
+      "bytes": 1208375,
+      "sha256": "db3897871a23d4f0c42c485d6903048da691abb1783f473484373174e776d47c",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

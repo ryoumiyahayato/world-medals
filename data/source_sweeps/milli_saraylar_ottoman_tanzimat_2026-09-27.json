@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "milli_saraylar_osmanli_saltanatinin_sembolleri",
+  "source_pdf": "sources/books/milli_saraylar_osmanli_saltanatinin_sembolleri.pdf",
+  "scope": "Tanzimat medal exact figures and context",
+  "status": "completed_bounded_figure_unit",
+  "processed_pdf_pages": [
+    96,
+    97
+  ],
+  "printed_pages": [
+    88,
+    89
+  ],
+  "figures": [
+    "5",
+    "5-a"
+  ],
+  "corroborating_object_record": "https://archives.saltresearch.org/handle/123456789/124782",
+  "raw_page": "assets/raw/ottoman_milli_saraylar/osmanli_saltanatinin_sembolleri_pdf_page_97.png",
+  "published_images": [
+    "assets/images/ottoman_milli_saraylar/tanzimat_1850_front.png",
+    "assets/images/ottoman_milli_saraylar/tanzimat_1850_reverse.png"
+  ],
+  "candidate_file": "data/raw_candidates/milli_saraylar_ottoman_tanzimat.jsonl",
+  "volume_file": "data/volumes/ottoman_milli_saraylar_related.json",
+  "completion_rule": "The bounded official-publication figure pair and corroborating collection record were processed; this does not claim the entire 202-page book was swept for every medal."
+}

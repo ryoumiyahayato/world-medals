@@ -1,0 +1,342 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及 eMedals 制造商与等级版型",
+  "records": [
+    {
+      "id": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "约1928年；二型",
+      "variant": "大官级挂章；J. Lattes（开罗）；银质、局部镀金及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-NILE-GRAND-OFFICER-LATTES-1928-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "约1925—1926年",
+      "variant": "五等；Lattes制；银质、局部镀金及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-NILE-FIFTH-LATTES-1925-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "约1925年；二型",
+      "variant": "大十字级星章；Lattes制；银质、金质中央饰及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925-V1",
+          "label": "星章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-NILE-GRAND-CROSS-STAR-LATTES-1925-V2",
+          "label": "星章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic",
+      "date": "1972年后二型",
+      "variant": "大官级挂章；T. Bichay制；银质镀金及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY-V1",
+          "label": "挂章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-BICHAY-V2",
+          "label": "挂章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic",
+      "date": "1972年后二型",
+      "variant": "大官级星章；T. Bichay制；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY-V1",
+          "label": "星章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-BICHAY-V2",
+          "label": "星章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA",
+      "family": "EGY-GAP-STAR-OF-HONOUR",
+      "country_zh": "埃及",
+      "name": "荣誉之星勋章",
+      "original": "Order of the Star of Honour",
+      "date": "1972—1984年二型",
+      "variant": "单级星章；Bomisa（西班牙）制；银、镀银及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-HONOUR-STAR-TYPE2-BOMISA-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic",
+      "date": "1953—1972年一型",
+      "variant": "大官级挂章；Z. Fuchs（开罗）制；银质及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS-V1",
+          "label": "挂章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-BADGE-FUCHS-V2",
+          "label": "挂章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic",
+      "date": "1953—1972年一型",
+      "variant": "大官级星章；Z. Fuchs（开罗）制；银质及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS-V1",
+          "label": "星章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-REPUBLIC-GRAND-OFFICER-STAR-FUCHS-V2",
+          "label": "星章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit",
+      "date": "约1960年",
+      "variant": "二等大官级挂章；Fahmy T. Bichay（开罗）制；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960-V1",
+          "label": "挂章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-MERIT-SECOND-BADGE-BICHAY-1960-V2",
+          "label": "挂章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit",
+      "date": "约1960年",
+      "variant": "二等大官级星章；Fahmy T. Bichay（开罗）制；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960-V1",
+          "label": "星章完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-MERIT-SECOND-STAR-BICHAY-1960-V2",
+          "label": "星章完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925",
+      "family": "MENA7-ORDER-OF-ISMAIL",
+      "country_zh": "埃及",
+      "name": "伊斯梅尔勋章",
+      "original": "Order of Ismail",
+      "date": "约1925—1926年",
+      "variant": "目录称一等指挥官级；Lattes制；18K金及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-ISMAIL-GOLD-COMMANDER-LATTES-1925-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES",
+      "family": "MENA7-ORDER-OF-ISMAIL",
+      "country_zh": "埃及",
+      "name": "伊斯梅尔勋章",
+      "original": "Order of Ismail",
+      "date": "埃及王国时期",
+      "variant": "军官级；目录称法国制造、Lattes标记；银、金及珐琅；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-ISMAIL-OFFICER-LATTES-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY",
+      "family": "EGY-GAP-ORDER-SPORT",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sport",
+      "date": "共和国时期",
+      "variant": "一等指挥官级；Bichay（开罗）制；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-SPORT-COMMANDER-BICHAY-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE",
+      "family": "EGY-MEDALS-ORG-DISTINGUISHED-SERVICE",
+      "country_zh": "埃及",
+      "name": "杰出服务奖章",
+      "original": "Distinguished Service Medal",
+      "date": "时期待考",
+      "variant": "铜质；29毫米；整体悬挂结构；完整正反面",
+      "views": [
+        {
+          "key": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-EMEDALS-DISTINGUISHED-SERVICE-BRONZE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "emedals_egypt_catalog"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

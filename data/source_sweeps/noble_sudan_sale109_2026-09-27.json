@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "noble_sudan_sale109",
+  "status": "completed_bounded_sudan_segment",
+  "source": "Noble Numismatics Sale 109, session A14",
+  "coverage": "Lots 4550-4552, the complete contiguous Sudan segment",
+  "lots_processed": 3,
+  "lots": [
+    {"lot": 4550, "title": "Order of the Two Niles 4th Class", "result": "promoted", "images": 1},
+    {"lot": 4551, "title": "Sudan Defence Force General Service Medal 1933", "result": "already represented; no duplicate row", "images": 1},
+    {"lot": 4552, "title": "Long and Distinguished Service Medal specimen", "result": "already represented; source image not required for current exact-grade gap", "images": 1}
+  ],
+  "formal_rows_added": 1,
+  "formal_complete_views_added": 1,
+  "pending_variants_resolved": 1,
+  "notes": "Lot 4550 page and 1000x1419 source photograph were cached and decoded. The current lot page supplies no reverse image."
+}

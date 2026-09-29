@@ -1,0 +1,1726 @@
+{
+  "as_of": "2026-09-29",
+  "volume": "爱尔兰国防军2010年官方勋奖章图册整册归并草稿",
+  "records": [
+    {
+      "id": "IE-DF-2010-001",
+      "family": "IE-MIL-GALLANTRY",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "军事英勇奖章",
+      "original": "An Bonn Míleata Calmachta / The Military Medal for Gallantry",
+      "date": "1944年设立",
+      "variant": "荣誉级（With Honour）；银质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-001-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-001-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-002",
+      "family": "IE-MIL-GALLANTRY",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "军事英勇奖章",
+      "original": "An Bonn Míleata Calmachta / The Military Medal for Gallantry",
+      "date": "1944年设立",
+      "variant": "卓异级（With Distinction）；铜质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-002-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-002-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-003",
+      "family": "IE-MIL-GALLANTRY",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "军事英勇奖章",
+      "original": "An Bonn Míleata Calmachta / The Military Medal for Gallantry",
+      "date": "1944年设立",
+      "variant": "功绩级（With Merit）；铜质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-003-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-003-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-004",
+      "family": "IE-DIST-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "卓越服役奖章",
+      "original": "An Bonn Seirbhíse Dearscna / The Distinguished Service Medal",
+      "date": "1964年2月18日设立",
+      "variant": "荣誉级（With Honour）；银质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-004-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-004-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-005",
+      "family": "IE-DIST-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "卓越服役奖章",
+      "original": "An Bonn Seirbhíse Dearscna / The Distinguished Service Medal",
+      "date": "1964年2月18日设立",
+      "variant": "卓异级（With Distinction）；铜质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-005-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-005-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-006",
+      "family": "IE-DIST-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "卓越服役奖章",
+      "original": "An Bonn Seirbhíse Dearscna / The Distinguished Service Medal",
+      "date": "1964年2月18日设立",
+      "variant": "功绩级（With Merit）；铜质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-006-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-007",
+      "family": "IE-GOOD-CONDUCT",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "良好品行奖章",
+      "original": "An Bonn Dea-Iompair / The Good Conduct Medal",
+      "date": "1987年9月16日至1990年1月30日授予",
+      "variant": "铜质；现已停授；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-007-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-007-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-008",
+      "family": "IE-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "服役奖章",
+      "original": "An Bonn Seirbhíse / The Service Medal",
+      "date": "设立日期待考；2010年官方图册所载",
+      "variant": "士官与士兵十年服役；纯圣帕特里克蓝绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-008-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-008-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-009",
+      "family": "IE-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "服役奖章",
+      "original": "An Bonn Seirbhíse / The Service Medal",
+      "date": "设立日期待考；2010年官方图册所载",
+      "variant": "军官十五年服役／士官与士兵十五年服役；中央金色条纹绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-009-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-010",
+      "family": "IE-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "服役奖章",
+      "original": "An Bonn Seirbhíse / The Service Medal",
+      "date": "设立日期待考；2010年官方图册所载",
+      "variant": "军官二十年服役／士官与士兵十五年服役；加铜质服役条；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-010-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-011",
+      "family": "IE-FCA-SM-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "地方防卫军与海上志愿军服役奖章",
+      "original": "An Bonn Seirbhíse (FCÁ agus SM) / The Service Medal (FCÁ and SM)",
+      "date": "1961年6月设立",
+      "variant": "七年服役；无服役条；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-011-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-011-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-012",
+      "family": "IE-FCA-SM-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "地方防卫军与海上志愿军服役奖章",
+      "original": "An Bonn Seirbhíse (FCÁ agus SM) / The Service Medal (FCÁ and SM)",
+      "date": "1961年6月设立",
+      "variant": "十二年服役；一道服役条；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-012-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-013",
+      "family": "IE-FCA-SM-SERVICE",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "地方防卫军与海上志愿军服役奖章",
+      "original": "An Bonn Seirbhíse (FCÁ agus SM) / The Service Medal (FCÁ and SM)",
+      "date": "1961年6月设立",
+      "variant": "二十一年服役；两道服役条，上条数字“21”；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-013-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-014",
+      "family": "IE-EMERGENCY-SERVICE",
+      "awarding_authority": "爱尔兰国防军及爱尔兰国家应急服务机构",
+      "name": "紧急状态服役奖章",
+      "original": "An Bonn Seirbhíse Éigeandála / The Emergency Service Medal",
+      "date": "1944年10月设立；认可1939年9月3日至1946年3月31日服役",
+      "variant": "国防军／地方防卫军代表型；红绶带中央两道白纹；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-014-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-014-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-015",
+      "family": "IE-EMERGENCY-SERVICE",
+      "awarding_authority": "爱尔兰国防军及爱尔兰国家应急服务机构",
+      "name": "紧急状态服役奖章",
+      "original": "An Bonn Seirbhíse Éigeandála / The Emergency Service Medal",
+      "date": "1944年10月设立；认可1939年9月3日至1946年3月31日服役",
+      "variant": "其他机构代表型；红绶带中央一道白纹；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-015-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-016",
+      "family": "IE-EMERGENCY-SERVICE",
+      "awarding_authority": "爱尔兰国防军及爱尔兰国家应急服务机构",
+      "name": "紧急状态服役奖章",
+      "original": "An Bonn Seirbhíse Éigeandála / The Emergency Service Medal",
+      "date": "1944年10月设立；认可1939年9月3日至1946年3月31日服役",
+      "variant": "其他机构代表型；加1939—1946额外两年服役条；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-016-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-017",
+      "family": "IE-UN-PEACEKEEPERS",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "联合国维和人员奖章",
+      "original": "An Bonn Chosantóirí Síochána na Náisiún Aontaithe / The United Nations Peacekeepers Medal",
+      "date": "1989年设立",
+      "variant": "银质；爱尔兰国防军海外维和服役奖章；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-017-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-017-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-018",
+      "family": "IE-MILITARY-STAR",
+      "awarding_authority": "爱尔兰国防军",
+      "name": "军事之星",
+      "original": "An Réalt Míleata / The Military Star",
+      "date": "设立日期待考；追溯适用于1958年6月28日后符合条件者",
+      "variant": "铜质八角星；追授阵亡人员；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-018-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-018-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-019",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1948年",
+      "variant": "联合国停战监督组织任务型（UNTSO）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-019-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-019-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-020",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1949年",
+      "variant": "联合国驻印度和巴基斯坦军事观察组任务型（UNMOGIP）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-020-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-020-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-021",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1958年",
+      "variant": "联合国黎巴嫩观察组任务型（UNOGIL）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-021-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-021-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-022",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1960年；图示1963年后绶带",
+      "variant": "联合国刚果行动任务型；1963年后绿色主纹绶带（ONUC）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-022-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-022-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-023",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1962年",
+      "variant": "联合国西新几内亚临时行政当局／安全部队任务型（UNTEA/UNSF）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-023-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-023-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-024",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1964年",
+      "variant": "联合国驻塞浦路斯维持和平部队任务型（UNFICYP）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-024-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-024-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-025",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1965年",
+      "variant": "联合国印度－巴基斯坦观察团任务型（UNIPOM）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-025-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-025-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-026",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1973年",
+      "variant": "联合国第二期紧急部队任务型（UNEF II）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-026-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-027",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1974年",
+      "variant": "联合国脱离接触观察员部队任务型（UNDOF）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-027-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-027-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-028",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1978年",
+      "variant": "联合国驻黎巴嫩临时部队任务型（UNIFIL）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-028-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-028-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-029",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1979年",
+      "variant": "联合国总部服务任务型（UNHQ）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-029-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-029-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-030",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1988年",
+      "variant": "联合国伊朗－伊拉克军事观察团任务型（UNIIMOG）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-030-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-031",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1989年",
+      "variant": "联合国过渡时期援助团任务型（UNTAG）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-031-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-032",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1989年",
+      "variant": "联合国中美洲观察团任务型（ONUCA）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-032-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-032-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-033",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国第二期安哥拉核查团任务型（UNAVEM II）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-033-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-034",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国特别委员会任务型（UNSCOM）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-034-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-034-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-035",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国西撒哈拉全民投票特派团任务型（MINURSO）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-035-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-035-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-036",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国伊拉克－科威特观察团任务型（UNIKOM）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-036-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-037",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国柬埔寨先遣团任务型（UNAMIC）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-037-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-037-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-038",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1991年",
+      "variant": "联合国萨尔瓦多观察团任务型（ONUSAL）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-038-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-039",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1992年",
+      "variant": "联合国柬埔寨过渡时期权力机构任务型（UNTAC）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-039-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-039-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-040",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1992年",
+      "variant": "联合国保护部队任务型（UNPROFOR）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-040-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-041",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1992—1993年",
+      "variant": "联合国第二期索马里行动任务型（UNOSOM II）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-041-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-042",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1993年",
+      "variant": "联合国阿富汗特别团任务型（UNSMA）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-042-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-043",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1993年",
+      "variant": "联合国海地特派团任务型（UNMIH）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-043-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-044",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1994年",
+      "variant": "联合国卢旺达援助团任务型（UNAMIR）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-044-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-045",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1995年",
+      "variant": "联合国预防性部署部队任务型（UNPREDEP）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-045-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-045-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-046",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1996年",
+      "variant": "联合国普雷维拉卡观察团任务型（UNMOP）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-046-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-046-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-047",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1996年",
+      "variant": "联合国东斯拉沃尼亚过渡行政当局任务型（UNTAES）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-047-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-048",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1999年",
+      "variant": "联合国科索沃临时行政当局特派团任务型（UNMIK）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-048-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-049",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "1999—2002年",
+      "variant": "联合国东帝汶三任务共用绶带型（UNAMET/UNTAET/UNMISET）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-049-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-050",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "2000年",
+      "variant": "联合国刚果民主共和国特派团任务型（MONUC）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-050-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-050-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-051",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "2000年",
+      "variant": "联合国埃塞俄比亚和厄立特里亚特派团任务型（UNMEE）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-051-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-052",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "2003年",
+      "variant": "联合国利比里亚特派团任务型（UNMIL）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-052-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-052-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-053",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "2003—2004年",
+      "variant": "联合国科特迪瓦特派团／行动任务型；图示ONUCI较窄中央三色纹（MINUCI/ONUCI）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-053-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-054",
+      "family": "UN-MEDAL",
+      "awarding_authority": "联合国",
+      "name": "联合国奖章",
+      "original": "United Nations Medal",
+      "date": "2009年",
+      "variant": "联合国中非共和国和乍得特派团第二期任务型（MINURCAT II）；铜质标准章体，任务专用绶带；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-054-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-054-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-055",
+      "family": "UN-DAG-HAMMARSKJOLD",
+      "awarding_authority": "联合国",
+      "name": "达格·哈马舍尔德奖章",
+      "original": "Dag Hammarskjöld Medal",
+      "date": "1997年7月22日设立",
+      "variant": "追授因维和行动殉职人员；玻璃晶体与金属片组合；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-055-V01",
+          "label": "完整正面／整体图"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-056",
+      "family": "EU-ECMM",
+      "awarding_authority": "欧洲共同体",
+      "name": "欧洲共同体监察团奖章",
+      "original": "European Community Monitor Mission Medal",
+      "date": "1991年起",
+      "variant": "银色合金；图示“EC Monitor Mission”铭文型；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-056-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-056-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-057",
+      "family": "EU-EUMM",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲联盟监察团奖章",
+      "original": "European Union Monitoring Mission Medal",
+      "date": "2000—2007年",
+      "variant": "银色合金；EU中央铭文型；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-057-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-057-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-058",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2003年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“ARTEMIS”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-058-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-058-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-059",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2003年",
+      "variant": "作战总部／计划支援型；蓝白绶带；“ARTEMIS”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-059-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-059-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-060",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2004年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“ALTHEA”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-060-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-061",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2005—2007年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“AMIS”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-061-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-062",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2005—2007年",
+      "variant": "作战总部／计划支援型；蓝白绶带；“AMIS”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-062-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-063",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2005—2006年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“AMM”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-063-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-064",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2005—2006年",
+      "variant": "作战总部／计划支援型；蓝白绶带；“AMM”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-064-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-065",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2006年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“EUFOR RD CONGO”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-065-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-066",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2006年",
+      "variant": "作战总部／计划支援型；蓝白绶带；“EUFOR RD CONGO”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-066-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-067",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2008—2009年",
+      "variant": "任务区／部队总部型；蓝黄绶带；“EUFOR TCHAD/RCA”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-067-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-068",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2008—2009年",
+      "variant": "作战总部／计划支援型；蓝白绶带；“EUFOR TCHAD/RCA”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-068-V01",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-069",
+      "family": "EU-ESDP-SERVICE",
+      "awarding_authority": "欧洲联盟",
+      "name": "欧洲安全与防务政策服役奖章",
+      "original": "European Security and Defence Policy Service Medal",
+      "date": "2008年起",
+      "variant": "作战总部／计划支援型；蓝白绶带；“ATALANTA”任务扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-069-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-069-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-070",
+      "family": "ICFY-MEDAL",
+      "awarding_authority": "前南斯拉夫问题国际会议",
+      "name": "前南斯拉夫问题国际会议奖章",
+      "original": "International Conference on the Former Yugoslavia Medal",
+      "date": "1992年起",
+      "variant": "监察任务服役奖章；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-070-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-070-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-071",
+      "family": "NATO-MEDAL",
+      "awarding_authority": "北大西洋公约组织",
+      "name": "北约奖章",
+      "original": "NATO Medal",
+      "date": "1997年起",
+      "variant": "SFOR；“Former Yugoslavia”扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-071-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-071-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-072",
+      "family": "NATO-MEDAL",
+      "awarding_authority": "北大西洋公约组织",
+      "name": "北约奖章",
+      "original": "NATO Medal",
+      "date": "1999年起",
+      "variant": "KFOR；“Kosovo”扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-072-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-072-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-073",
+      "family": "INTERFET-MEDAL",
+      "awarding_authority": "东帝汶国际部队",
+      "name": "东帝汶国际部队奖章",
+      "original": "International Force East Timor Medal / INTERFET Medal",
+      "date": "1999—2000年",
+      "variant": "标准型；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-073-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-073-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-074",
+      "family": "NATO-MEDAL",
+      "awarding_authority": "北大西洋公约组织",
+      "name": "北约奖章",
+      "original": "NATO Medal",
+      "date": "2002年起",
+      "variant": "非第五条款奖章；巴尔干服役扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-074-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-074-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-075",
+      "family": "NATO-MEDAL",
+      "awarding_authority": "北大西洋公约组织",
+      "name": "北约奖章",
+      "original": "NATO Medal",
+      "date": "2002年起",
+      "variant": "非第五条款奖章；ISAF扣饰；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-075-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-075-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-076",
+      "family": "IE-1916-MEDAL",
+      "awarding_authority": "爱尔兰",
+      "name": "1916年奖章",
+      "original": "An Bonn 1916 / The 1916 Medal",
+      "date": "为1916年4月23日起复活节起义参战者设",
+      "variant": "标准型；铜质；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-076-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-076-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-077",
+      "family": "IE-1917-1921-SERVICE",
+      "awarding_authority": "爱尔兰",
+      "name": "1917—1921年服役奖章",
+      "original": "An Bonn Seirbhíse (1917-1921) / The Service Medal (1917-1921)",
+      "date": "表彰1917—1921年独立斗争服役",
+      "variant": "带“Comrac”战斗服役条型；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-077-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-077-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-078",
+      "family": "IE-1916-SURVIVORS",
+      "awarding_authority": "爱尔兰",
+      "name": "1916年幸存者奖章",
+      "original": "An Bonn Marthanóirí 1916 / The 1916 Survivors' Medal",
+      "date": "1966年设立",
+      "variant": "银鎏金；仅授予仍在世的1916年复活节起义参与者；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-078-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-078-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    },
+    {
+      "id": "IE-DF-2010-079",
+      "family": "IE-TRUCE-ANNIVERSARY",
+      "awarding_authority": "爱尔兰",
+      "name": "停战周年纪念奖章（1921）",
+      "original": "An Bonn Cuimhneacháin Sos Cogaidh (1921) / The Truce (1921) Anniversary Medal",
+      "date": "1971年设立",
+      "variant": "铜质；授予1971年7月11日仍在世且已获1917—1921年服役奖章者；官方图册实物图·低清参考",
+      "views": [
+        {
+          "key": "IE-DF-2010-079-V01",
+          "label": "完整正面"
+        },
+        {
+          "key": "IE-DF-2010-079-V02",
+          "label": "同页所示完整背面"
+        }
+      ],
+      "source_ids": [
+        "IE-DF-MEDALS-2010"
+      ]
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "family": "IE-1917-1921-SERVICE",
+      "name": "1917—1921年服役奖章",
+      "original": "The Service Medal (1917-1921)",
+      "variant": "无战斗服役条型",
+      "pdf_page": 95,
+      "reason": "官方图册文字明确列为第二类别，但本页只配带条型完整实物图。"
+    },
+    {
+      "family": "UN-MEDAL",
+      "name": "联合国奖章",
+      "original": "United Nations Medal - ONUC",
+      "variant": "ONUC 1960—1963早期型；UNTSO式绶带加“CONGO”扣饰",
+      "pdf_page": 34,
+      "reason": "本页仅给绶带／扣饰局部图，依项目规则不作为正文完整章体图。"
+    },
+    {
+      "family": "EU-ECMM",
+      "name": "欧洲共同体监察团奖章",
+      "original": "European Community Monitor Mission Medal",
+      "variant": "“EC Task Force”中央铭文型",
+      "pdf_page": 72,
+      "reason": "文字说明存在该铭文型，但本页完整实物图为另一铭文型。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：Na Fórsaí Cosanta（常备陆军、空军与海军）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：An Slua Muirí（海上志愿预备役）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：An Fórsa Cosanta Áitiúil（地方防卫军）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：Fórsa na nÓglach（第二线预备役专业人员）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：26ú Cathlán（第26营）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：Seirbhís Áltranais an Airm（陆军护理服务）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：An tSeirbhís Séiplíneachta（随军牧师服务）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：Caomhnóirí Áitiúla（地方保安部队）",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：爱尔兰红十字会志愿援助科",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：爱尔兰红十字会急救科",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    },
+    {
+      "family": "IE-EMERGENCY-SERVICE",
+      "name": "紧急状态服役奖章",
+      "original": "The Emergency Service Medal",
+      "variant": "机构背铭版：防空袭预防组织",
+      "pdf_page": 25,
+      "reason": "图册列明十一种机构背铭，但仅配两种绶带组的代表性正面和一枚未逐项标识的背面。"
+    }
+  ]
+}

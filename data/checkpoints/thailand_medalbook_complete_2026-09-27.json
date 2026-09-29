@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Thailand / Siam — MedalBook complete catalogue",
+  "status": "source_complete_formal_batch_merged",
+  "source_coverage": {
+    "index_and_category_pages": 4,
+    "object_pages_planned": 153,
+    "object_pages_completed": 153,
+    "pictured_object_pages": 66,
+    "unpictured_candidates": 87,
+    "images_planned": 225,
+    "images_downloaded_and_decoded": 225,
+    "download_failures": 0
+  },
+  "formal_merge": {
+    "new_rows": 63,
+    "independent_families": 26,
+    "local_complete_views": 105,
+    "object_photograph_rows": 59,
+    "historical_catalogue_illustration_rows": 4,
+    "excluded_non_thai_awards": 1,
+    "excluded_cross_grade_source_mismatches": 2
+  },
+  "outputs": [
+    "data/raw_candidates/medalbook_thailand.jsonl",
+    "data/source_sweeps/medalbook_thailand_2026-09-27.json",
+    "data/source_sweeps/medalbook_thailand_images_2026-09-27.json",
+    "data/volumes/thailand_medalbook_variants.json",
+    "data/volumes/thailand_medalbook_variants_manifest.json",
+    "data/source_atlas/thailand_source_matrix.json",
+    "assets/images/thailand_medalbook/",
+    "index.html"
+  ],
+  "site_after_merge": {
+    "main_rows": 1340,
+    "main_families": 682,
+    "country_or_period_sections": 48,
+    "decoded_local_files": 1938,
+    "unique_gallery_image_paths": 1863,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Sweep the Thai official precedence table and Commons category tree as a differential, preserving 87 text-only MedalBook records as unpictured candidates. Then start the complete MedalBook Japan catalogue and compare it against the existing Meiji/Taisho rows."
+}

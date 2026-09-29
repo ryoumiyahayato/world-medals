@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "istiadat_malaysia_federal",
+  "source_name": "Bahagian Istiadat dan Urusetia Persidangan Antarabangsa — Federal Honours",
+  "seed_url": "https://www.istiadat.gov.my/darjah-kebesaran-persekutuan/darjah-darjah-kebesaran-bintang-bintang-pingat-pingat-persekutuan/",
+  "status": "completed",
+  "directory_pages": 1,
+  "embedded_popups_seen": 54,
+  "award_popups_processed": 32,
+  "downloaded_images": 32,
+  "failed_images": [],
+  "candidate_file": "data/raw_candidates/istiadat_malaysia_federal.jsonl",
+  "page_cache": "sources/pages/istiadat_malaysia_federal",
+  "image_cache": "assets/raw/istiadat_malaysia_federal"
+}

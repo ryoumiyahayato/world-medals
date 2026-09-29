@@ -1,0 +1,2026 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "roc-mb-006-01",
+      "record_id": "ROC-MB-006-V01",
+      "view_key": "ROC-MB-006-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/006_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/catastrophe-relief-merit-order/catastrophe-relief-merit-order-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/5451decfcf9c8a73e0a80f3cfccb3c001788afd1/store/fit/1000/750/61dc8a3a04923c75655194fea6f7ea4c926faa3819856729f12b4a2fb9e5/Catastrophe+Relief+Medals+I+C.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        430,
+        750
+      ],
+      "bytes": 63500,
+      "sha256": "85e748456ecc05dcb0b31fa06b1988f5709d15a3c793e57a4640021ed2aded31",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-007-01",
+      "record_id": "ROC-MB-007-V01",
+      "view_key": "ROC-MB-007-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/007_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/catastrophe-relief-merit-order/catastrophe-relief-merit-order-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/78e32164729f07f15a1b5da1abc600559f8a6e63/store/fit/1000/750/b6e53f5861fa79c6cadee3f28d0d59f2f1b255e4bacdfcbb6aa2d6eac2b3/Catastrophe+Relief+Medals+II+C.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        674,
+        750
+      ],
+      "bytes": 99091,
+      "sha256": "1fa1b4e9f8d97c1940757ed4f29ba9d4488671cb40ccdd1b0cc2299f7f58d519",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-010-01",
+      "record_id": "ROC-MB-010-V01",
+      "view_key": "ROC-MB-010-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/010_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/catastrophe-relief-merit-order/catastrophe-relief-merit-order-v-class-5",
+      "image_url": "https://www.medalbook.com/attachments/4a3b01470042947131e7f9d2db6bd112383dcaa8/store/fit/528/348/4c58751896f08e78bc02a0fefecff3b68ef5b42dd449e6670c5d3628ce64/Catastrophe+Relief+Medals+V+C+ME74.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        265,
+        348
+      ],
+      "bytes": 27427,
+      "sha256": "6e276a5fb6b1242d78fd4766a0e2b8304fb9da9ecc860ca65b906e64a3f5dacc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-026-01",
+      "record_id": "ROC-MB-026-V01",
+      "view_key": "ROC-MB-026-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/026_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-for-the-suppression-of-bandits/merit-medal-for-the-suppression-of-bandits-1",
+      "image_url": "https://www.medalbook.com/attachments/4bf078e7372d7b3a163382a9c223c5798e1e04bc/store/fit/528/348/6e946fc357aa2e1253f59eb1ffa4e2feb357fe28069d8199a9f1f59ed0d1/Merit+Medal+for+the+Suppression+of+Bandits+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 37780,
+      "sha256": "cef6f3ea3dcb9cc21e9cfa3e97b0e444e7a084123328f44d6e6be555a880a1f7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-026-03",
+      "record_id": "ROC-MB-026-V01",
+      "view_key": "ROC-MB-026-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/026_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-for-the-suppression-of-bandits/merit-medal-for-the-suppression-of-bandits-1",
+      "image_url": "https://www.medalbook.com/attachments/aa3a24d9376cb6930bf43215fa63f52211491250/store/fit/528/348/8f6f7609b4b26819edf875e808c6be6d2bc62fdd39555bf5c7866a54fb19/Merit+Medal+for+the+Suppression+of+Bandits+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 31388,
+      "sha256": "d5494e933ae62a6a85f6a4e19433da3acb7123ec0d62034ca146537f11fb6443",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-028-01",
+      "record_id": "ROC-MB-028-V01",
+      "view_key": "ROC-MB-028-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/028_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic-1912/merit-medal-of-the-republic-1912-ii-class-2",
+      "image_url": "https://www.medalbook.com/attachments/13f188ca5e993d9f43a288d48a2a05a662cf15c2/store/fit/1000/750/d2f0648f512f3437c45a671b3d39dbfca495fce18f9ef9bf8f1dab78fda4/Merit+Medal+of+the+Republic+ME29.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        516,
+        750
+      ],
+      "bytes": 63398,
+      "sha256": "b4d4111951457e42a287ceff74e2faecc4b5551f2bc021650d23e83d4a819aa7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-030-01",
+      "record_id": "ROC-MB-030-V01",
+      "view_key": "ROC-MB-030-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/030_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic/merit-medal-of-the-republic-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/543a87908cdc2181498f7181d7fef2cd56e6faf3/store/fit/528/348/0c6a18410224896e83f1e3dc63868668777d980359c7de3ee0622b731cdd/Republic+Merit+Medal+IIC+ME90.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        242,
+        348
+      ],
+      "bytes": 27805,
+      "sha256": "90fc5a95b728c535c56b75a80fb30f909e11f37ff0ce9f29f8dd6a86ed32ddac",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-033-01",
+      "record_id": "ROC-MB-033-V01",
+      "view_key": "ROC-MB-033-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/033_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-order-of-the-patriot-army/merit-order-of-the-patriot-army-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/26baaf831eb4a712791af51c2851fddc4bc3e816/store/fit/1000/750/6598129688b0393eeebe1e853762602d810ce19535b40b67fa9b070daaea/China%2C+Merit+Order+of+the+Patriot+Army%2C+Andreas+Thies%2C+Obv.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        540,
+        750
+      ],
+      "bytes": 93606,
+      "sha256": "07b9dbc2013a69843a0d2dac7cc59c2ede867f355c6addc1046ff6f9857ff396",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-033-03",
+      "record_id": "ROC-MB-033-V01",
+      "view_key": "ROC-MB-033-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/033_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-order-of-the-patriot-army/merit-order-of-the-patriot-army-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/e01b98ed978d1f7c1842e0d111c571bfc2d39618/store/fit/528/348/60049bcdb67557f9ccc9d622054d83e7b302a932aaf09a6451cdf8943022/China%2C+Merit+Order+of+the+Patriot+Army%2C+Andreas+Thies%2C+Rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        252,
+        348
+      ],
+      "bytes": 29319,
+      "sha256": "b1e5cb8d9232215beb21441e04b0c2659dbb4d79fb31fa29e36f8ff1c261f7f4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-045-01",
+      "record_id": "ROC-MB-045-V01",
+      "view_key": "ROC-MB-045-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/045_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/president-yuan-shih-kai-inauguration-medal/president-yuan-shih-kai-inauguration-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/15def9c1ab7ecf5d46d3126b18d05489bddb0940/store/fit/1000/750/18b495991fdcd7c086011598f29ab5efb58e21a7c5f7d71432fe3a103ddd/China+Yuan+Shih-Kai+Inaug+Medal+ME70.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        472,
+        750
+      ],
+      "bytes": 69461,
+      "sha256": "d1d3712e2e51fe79e11e0f8d6da4f236335d3f5c717fc9299d85d2e521d686b0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-051-01",
+      "record_id": "ROC-MB-051-V01",
+      "view_key": "ROC-MB-051-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/051_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-innauguration-decoration/tsao-kun-innauguration-decoration-1",
+      "image_url": "https://www.medalbook.com/attachments/0abd8eb02ca60065ca0aee848d5ce5d980932fcf/store/fit/1000/750/c19cfe1caaf29e3e341bcaceaf50e5f2e513ebecc614331c7bbccf76f243/Tsao+Kun+Innauguration+Decoration%2C+Obv+.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        322,
+        750
+      ],
+      "bytes": 77164,
+      "sha256": "5620ccccbf10770dfa4d68513982420916b0f9173dd001aa2837b5633bf54276",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-056-01",
+      "record_id": "ROC-MB-056-V01",
+      "view_key": "ROC-MB-056-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/056_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-merit-medal/tsao-kun-merit-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/371e8653ed3c487630bf2e0e3b94df8fdd5a5ff3/store/fit/1000/750/2abb56ae40ee8ec54ff169a91b5ed69b885ce90ad22537fd36b7f821924d/Tsao+Kun+Merit+Medal+ME90.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        499,
+        750
+      ],
+      "bytes": 59283,
+      "sha256": "23dd03aed6a39721efa172518fa3d1a40c7c3141f6e5d9d5e8ddf41f4b5ac042",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-061-01",
+      "record_id": "ROC-MB-061-V01",
+      "view_key": "ROC-MB-061-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/061_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-service-medal/wwi-service-medal-for-officers-2",
+      "image_url": "https://www.medalbook.com/attachments/2328abc3f8b5c94210978f15252ea3480c18b155/store/fit/528/348/79feb14cc5529cb4adb34ddaf9abd1f36b97e4f4a745ebf516f4c5a3d787/WWI+Service+Medal%2C+Silver+%28Officers%29%2C+Obv+.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        160,
+        348
+      ],
+      "bytes": 31884,
+      "sha256": "7721357024506806640f8b384e0258c6720771f1bae72f56de63665f87b60f30",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-061-02",
+      "record_id": "ROC-MB-061-V01",
+      "view_key": "ROC-MB-061-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/061_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-service-medal/wwi-service-medal-for-officers-2",
+      "image_url": "https://www.medalbook.com/attachments/6607eccc309a0a7dbbdc1bd0d2ba31eeaebd7d01/store/fit/528/348/4ca6e1e1f217af3d8a542b27f69521479d3d92760bbe526513df7ca1f2cd/WWI+Service+Medal%2C+Silver+%28Officers%29%2C+Rev+.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        159,
+        348
+      ],
+      "bytes": 31677,
+      "sha256": "4758c34ec52d6d8f3331924c2ac29931bf50244b46345c6d2c3d9e09750fd860",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-065-01",
+      "record_id": "ROC-MB-065-V01",
+      "view_key": "ROC-MB-065-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/065_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wang-cheng-bin-merit-medal/wang-cheng-bin-merit-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/7458836fd13fbf48e9dd65ad20e23b300c301a43/store/fit/528/348/5fcb4dc6c6b8e117d8b78ef13bf00bc99846634702a15dd8f86bba21a01a/Wang+Cheng+Bin+Merit+Medal+ME70.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        215,
+        348
+      ],
+      "bytes": 23912,
+      "sha256": "49c9300e1ffef4c90bea0762b1f470fd2e9eb5b2a7b87452c0556b119c173cab",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-068-01",
+      "record_id": "ROC-MB-068-V01",
+      "view_key": "ROC-MB-068-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/068_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-merit-medal/wu-pei-fu-merit-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/4e29172c0c532c918b5716572cd011bb458c121b/store/fit/528/348/d941db90fa7caf8f28178b71bb3b3f8f6b1607130ff33c41c01d9aa1d97c/Wu+Pei+Fu+Merit+Medal+ME74.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        256,
+        348
+      ],
+      "bytes": 32588,
+      "sha256": "b096190b50f8b54a9710b07a8eafadc62298452d894e3bfb5dafdd4985ee4a04",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-070-01",
+      "record_id": "ROC-MB-070-V01",
+      "view_key": "ROC-MB-070-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/070_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-qualification-award/wu-pei-fu-qualification-award-1",
+      "image_url": "https://www.medalbook.com/attachments/3e97211d8f84d84c07c037da56a0f28036e69d7b/store/fit/1000/750/3cc9880f7f8030f51b8f01f13b225c628826c7ef277ef0333238abeb23a6/Wu+Pei+Fu+Qualification+Medal+ME74.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        466,
+        750
+      ],
+      "bytes": 75216,
+      "sha256": "7caa3884d7b6725cb848cc0b2a32efbb21bd2f450c1e79d4ea1983d82cbdeb93",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-071-01",
+      "record_id": "ROC-MB-071-V01",
+      "view_key": "ROC-MB-071-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/071_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-sharpshooter-medal/wu-pei-fu-sharpshooter-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/50138a7f76a36fe7ca1ae37a655df90f47c28efb/store/fit/528/348/d1d609920e36ec168cb010a290e238eb1b2407862791044b1b2f03c8aadf/Wu+Pei+Fu+Sharpshooter+Medal+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 38563,
+      "sha256": "006a407d9fac7558556c166ea3ea5d5ad718546649af34e9face7ec63a753074",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-071-02",
+      "record_id": "ROC-MB-071-V01",
+      "view_key": "ROC-MB-071-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/071_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-sharpshooter-medal/wu-pei-fu-sharpshooter-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/8d1435f8b9080eb7455f74ac34b284d39777d5f0/store/fit/528/348/35bae368f3fa234ef816f2424ad8d5430a0019d245e8de9a8dcc34dfb0b6/Wu+Pei+Fu+Sharpshooter+Medal+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 37788,
+      "sha256": "63c7a6dbb1545ebb3e71c80ab0f329cc6275d52ebc4d5e8864b50cd96cb4deea",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-073-01",
+      "record_id": "ROC-MB-073-V01",
+      "view_key": "ROC-MB-073-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/073_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/xu-shichang-inauguration-medal/xu-shichang-inauguration-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/20db38cb5e7314480090ef13f87850f8b4bb6759/store/fit/528/348/fea539a839fa0b2372a02347df128e19b0ecd881682d22efba0067d796d0/Xu+Shichang+Inaug+Medal+ME70.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        223,
+        348
+      ],
+      "bytes": 32260,
+      "sha256": "2bb50a36cc397f9e677457e80e548a8fbb55aa8b57e4c78132245ba5fbb4825c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-076-03",
+      "record_id": "ROC-MB-076-V01",
+      "view_key": "ROC-MB-076-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/076_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/yuan-shih-kai-merit-medal/yuan-shih-kai-merit-medal-i-class-1",
+      "image_url": "https://www.medalbook.com/attachments/fdaebaca478f25bcf40c168785c70b97b10ebb3b/store/fit/528/348/b82c40679780c2e1819b50f1ea9d1d56fb300310555a843317190769ed5e/Yuan+Shih-Kai+Merit+Medal%2C+I+Class%2C+Gold%2C+Rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        239,
+        348
+      ],
+      "bytes": 41352,
+      "sha256": "eda666e329aa30da26ee1c386f7a2d0fb202eedb11c803eae2f1e45fa8dbbcad",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-084-01",
+      "record_id": "ROC-MB-084-V01",
+      "view_key": "ROC-MB-084-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/084_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/96b193a61a4d630cd1e714f93fd06d388bb6a924/store/fit/528/348/7415cee14b1e38210a69129dadc97ea40a198fe13058a95bdf525f75f52c/Precious+Grain+I+C+Badge+ME74.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        306,
+        348
+      ],
+      "bytes": 68489,
+      "sha256": "9e5c60c4300f8661f493abb19aa2baf36312a75dbc2b58fe2567127eb520bfa3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-085-01",
+      "record_id": "ROC-MB-085-V01",
+      "view_key": "ROC-MB-085-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/085_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-i-class-star-2",
+      "image_url": "https://www.medalbook.com/attachments/033dd820c93afe526c4b0cdd040902e262636a68/store/fit/528/348/bf54cd704f32332a13f79f80fd152847dcb0f426d880832f22c86e294794/Order+of+Illustrious+Brilliant+Golden+Grain%2C+I+Class+Star+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 34063,
+      "sha256": "5df73ebde9fe0527be6fc119ec626e4a313dc0f4a002f8f1d6619b34225c6463",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-085-03",
+      "record_id": "ROC-MB-085-V01",
+      "view_key": "ROC-MB-085-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/085_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-i-class-star-2",
+      "image_url": "https://www.medalbook.com/attachments/83e7b47b1d4957bdcf172bf1d23d3db0feb51f99/store/fit/528/348/0d45f5f29c46d5df7723fabcf57866dfb3d358b88711252dc46892d38c03/Order+of+Illustrious+Brilliant+Golden+Grain%2C+I+Class+Star+4.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 28404,
+      "sha256": "34dfe031027ba990f5e7628099452f27e4184c88e0ae667034b628d22dcbd11f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-086-01",
+      "record_id": "ROC-MB-086-V01",
+      "view_key": "ROC-MB-086-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/086_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/646be4a11e1b873d4d37a793bac25934be56b028/store/fit/528/348/67aa9ea3e11ce5c2624ef7a6d6cb7f22d4ce5c3af3bafef5f95951b7bb73/Precious+Grain+II+C+Badge+ME83.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        374,
+        348
+      ],
+      "bytes": 55415,
+      "sha256": "b7c7d321116643c6612c65239a7a74ae4c702e45fcd870b0348958ec8d550b97",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-087-07",
+      "record_id": "ROC-MB-087-V01",
+      "view_key": "ROC-MB-087-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/087_07.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/f8b4a1bc389c64698e490cc813ba4eac95551ce4/store/fit/528/348/5566116bbbc22e90e5fb41412b4a233397ef8cb7f0a7442934a44b50247a/Order+of+Illustrious+Brilliant+Golden+Grain%2C+II+Class+Star+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 37277,
+      "sha256": "237a7cd1d5d5e208ca38c018270aced331106fbc19eada1cad335c23c5c3b93f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-087-06",
+      "record_id": "ROC-MB-087-V01",
+      "view_key": "ROC-MB-087-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/087_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/ddd36f783c24c3902ed525eb1d62ef983091ab8a/store/fit/528/348/2293c08a7feffe8066114e34898ae69fbc77d3355ca74dae5a2b7561afeb/Order+of+Illustrious+Brilliant+Golden+Grain%2C+II+Class+Star+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 32467,
+      "sha256": "201bd74aaf7556c2185209fe1cb9424c35a966b18f556792454760ac483e7114",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-088-01",
+      "record_id": "ROC-MB-088-V01",
+      "view_key": "ROC-MB-088-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/088_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/e622f85ea4e8abe88177e89e918a099d352ee16d/store/fit/1000/750/e829a37532f2a25e806cf40ef8f1e033c99721798b42e4b373e5a3ae2cad/Illustrious+Brilliant+Golden+Grain+IIIC+Badge+ME67.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        519,
+        750
+      ],
+      "bytes": 83673,
+      "sha256": "597d276776e945fddcae57980d1fef3a8fb29b5a6c3bcc581d3266de67120287",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-091-02",
+      "record_id": "ROC-MB-091-V01",
+      "view_key": "ROC-MB-091-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/091_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-v-class-knight-8",
+      "image_url": "https://www.medalbook.com/attachments/9191af5e9b490e07457b1b36346a49e5c7408657/store/fit/528/348/9ef2bfe9adc2338601be8ed391bd44b3e94e365cc7b5cd9d3b2880272d96/Order+of+Illustrious+Brilliant+Golden+Grain%2C+V+Class+Knight+3.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 30908,
+      "sha256": "f6dee921c12672c230a161ac9efc9acaf7ee7d8217bcffc1564dd17617a4676d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-091-01",
+      "record_id": "ROC-MB-091-V01",
+      "view_key": "ROC-MB-091-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/091_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-v-class-knight-8",
+      "image_url": "https://www.medalbook.com/attachments/87a65277c5d8452920b3007fc46b61d1997f5f3f/store/fit/528/348/8f92b4a3a4a7b0db0fc5fa3f1ebfa467a768421804c50c424af043e7504d/Order+of+Illustrious+Brilliant+Golden+Grain%2C+V+Class+Knight+4.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 28528,
+      "sha256": "2f572f34479e6df973505ebf33fc50b7eb12660783f596be3b4289d41f8bfdd1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-110-01",
+      "record_id": "ROC-MB-110-V01",
+      "view_key": "ROC-MB-110-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/110_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-iv-class-commander-7",
+      "image_url": "https://www.medalbook.com/attachments/780f74e94513d624ce49d7895ec62d2146a3caa6/store/fit/1000/750/eb272a611acb25b3ee984c108f6e865ad9141d8f492c6ef2fae9d37b0b61/Precious+Tripold+IVC+ME110.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        443,
+        750
+      ],
+      "bytes": 74199,
+      "sha256": "ea0a8ef980b2c080d89f6e8a03932212dbc7fda695ece86055f93ee392c9bd19",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-112-03",
+      "record_id": "ROC-MB-112-V01",
+      "view_key": "ROC-MB-112-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/112_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-v-class-commander-8",
+      "image_url": "https://www.medalbook.com/attachments/ff88eeeb0ffd705aa3ae9d9352fceeee446b0fed/store/fit/1000/750/6d806a4e0a2267e127d59fb3e6f75d244728acf0acd40815584e2ae62e5d/A_Rare_Chinese_O_5506e66460787.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 579459,
+      "sha256": "f55c7a882faabd7967815e7187ff6f57e89f1af3e95ab8a701be5a96997df457",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-112-02",
+      "record_id": "ROC-MB-112-V01",
+      "view_key": "ROC-MB-112-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/112_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-v-class-commander-8",
+      "image_url": "https://www.medalbook.com/attachments/6c82594c91c0b3561e89dd315b527e128c20a353/store/fit/528/348/96f8652dfcc55542ec8dd36932596a64e8794b8bef683e2eca7a5c85ebd7/IMG_03.jpg5506e69d6f983.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 146235,
+      "sha256": "51777e0a1304dfd85e4eafef78b1acf02cd13527cef59e356d77da881ce5ae8d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-126-01",
+      "record_id": "ROC-MB-126-V01",
+      "view_key": "ROC-MB-126-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/126_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/09723ee20ebd36dfee2035f0499607247514b4c2/store/fit/1000/750/8a5b2ed761374cf816f7b643dc517b7cfc2b7d439905d20fecbe492e3184/Brilliant+Jade+Sash+Badge+ME.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        532,
+        750
+      ],
+      "bytes": 84104,
+      "sha256": "d1bc709cd2b52f0fd15947a52db6dacde0ffbd8319bb0abc24bb1e9497162929",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-126-02",
+      "record_id": "ROC-MB-126-V01",
+      "view_key": "ROC-MB-126-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/126_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/735302c76be44512cb5fd36857effc7ea9b34b46/store/fit/528/348/ec9b8dbfc1a0f43106e3c8c3a4003ca3dcdfed5172932b3bc21915ea027a/Brilliant+Jade+Sash+Badge+Rev+ME.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        252,
+        348
+      ],
+      "bytes": 20759,
+      "sha256": "297e8225a399f7e61fe2856e868515adf1ffac9ad04face3bc3249444cf71ba9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-128-01",
+      "record_id": "ROC-MB-128-V01",
+      "view_key": "ROC-MB-128-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/128_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/0e68c2a670b4a0334a1ee22db1ca4bd111629a59/store/fit/1000/750/bec363f8088dd4ff3b8b789b7b533f691a5f0a65f73606f5074229f2f445/Brilliant+Jade+IIC+Badge+ME90.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        533,
+        750
+      ],
+      "bytes": 108712,
+      "sha256": "19190323b179d06efc0b0fbca7a913814ab924af070479fbb66426b5fa55f485",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-129-01",
+      "record_id": "ROC-MB-129-V01",
+      "view_key": "ROC-MB-129-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/129_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/aced2da65979b89871ba139bcc44d7c37b9ea09c/store/fit/528/348/07f4dca3330f16c036092f611542ff7142569fabdea2fd98d1033c9745bc/Brilliant+Jade+IIIC+Com+Star+ME70.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        312,
+        348
+      ],
+      "bytes": 47211,
+      "sha256": "366210a94325c71978284a4eec4e838bcd8fc1cf3a8a41b8582926dd2f364de2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-130-01",
+      "record_id": "ROC-MB-130-V01",
+      "view_key": "ROC-MB-130-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/130_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/662651381524055400a3c0876615b8b9247ff915/store/fit/528/348/50014aa35dd7c3596dd94179742e8b17389c1e42677eb25fb33017f17ffd/Brilliant+Jade+IIIC+Com+ME70.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        242,
+        348
+      ],
+      "bytes": 40251,
+      "sha256": "e4fca75b9fa347784005f8b7b09e0ef07534fb4c5c5da4cf8b3d8d17a7097790",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-132-01",
+      "record_id": "ROC-MB-132-V01",
+      "view_key": "ROC-MB-132-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/132_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-v-class-officer-7",
+      "image_url": "https://www.medalbook.com/attachments/2e7028f65c9f66050a96e7435820d87a644cf699/store/fit/528/348/9504ff805db87ecc2a3aa74f46b8903a2d88143afdb0fd6412ed7723c0a9/Brilliant+Jade+V+Badge+ME83.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        200,
+        348
+      ],
+      "bytes": 21892,
+      "sha256": "8186cecf827cea16bd9faa6da3a80c7f4f30b7e63b6ab9088fac465d4f8c73e9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-133-01",
+      "record_id": "ROC-MB-133-V01",
+      "view_key": "ROC-MB-133-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/133_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-vi-class-officer-8",
+      "image_url": "https://www.medalbook.com/attachments/0692edfd3fc153dd3db22c0aa885b73daa33c179/store/fit/1000/750/2c18772c19ad289bfe330b9b6316360cbec208d5a765cf20fd34561b4e89/Brilliant+Jade+VI+Class+Badge+ME88.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        435,
+        750
+      ],
+      "bytes": 84549,
+      "sha256": "2e3960734fc552d08fa7b398bf3e73f34fd355f8a87f44e7155ebf52f2f87a2e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-134-02",
+      "record_id": "ROC-MB-134-V01",
+      "view_key": "ROC-MB-134-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/134_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/a4442eefd7858925ea76e0aea185a1d1b6a48146/store/fit/528/348/2fc40cfbfb494c0b550f7d61bd7300af9eda37b3893b7c788423852901b3/Order+of+the+Golden+Grain%2C+I+Class+Sash+Badge+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 20448,
+      "sha256": "30dd22ad4ba8da374048a66e1ffffb19024b4acaaa7db11cd2680b7922cadc51",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-134-03",
+      "record_id": "ROC-MB-134-V01",
+      "view_key": "ROC-MB-134-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/134_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/a52e9afedcad0e948f9793a8029473dacfaeda2f/store/fit/528/348/08f6bdccc5e87bce93a5906a7e11e6719f356976ab061ebf34c3cc2a7f7c/Order+of+the+Golden+Grain%2C+I+Class+Sash+Badge+4.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 31668,
+      "sha256": "da6aba2fffc5bdfcc38ebff7dbe6da1170de6757dbb3a9242a6fb8dedefc2752",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-135-02",
+      "record_id": "ROC-MB-135-V01",
+      "view_key": "ROC-MB-135-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/135_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-i-class-star-2",
+      "image_url": "https://www.medalbook.com/attachments/28989851a8be028e6bd510ba84c9df2c92180afd/store/fit/1000/750/4f22dd9886327a35e623e8a684f11e7097332e54bdb27b934cdf1fda68e1/Order+of+the+Golden+Grain%2C+I+Class+Star+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 159939,
+      "sha256": "d2fb386078814125add25a400de50a98073bf39791fd66a4fe24e979209c8cae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-135-06",
+      "record_id": "ROC-MB-135-V01",
+      "view_key": "ROC-MB-135-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/135_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-i-class-star-2",
+      "image_url": "https://www.medalbook.com/attachments/a5d652d820f00d32865efdd26772c27943854db7/store/fit/528/348/c913879ae84368c36ba765c195abc60f37bdbaa43c531e112988e041b4d2/Order+of+the+Golden+Grain%2C+Type+II%2C+I+Class+Star+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 33363,
+      "sha256": "29f890c3f41aa9377edfacec8550064d50a48e06e26b04d021598a84ce00625f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-136-04",
+      "record_id": "ROC-MB-136-V01",
+      "view_key": "ROC-MB-136-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/136_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/8a0e50fb08d5410bffad0ac85bfbe629ba00478c/store/fit/1000/750/49b8e685c0ada719be59f0feb6820fa06b83f2e98633640d1b1a64070099/Order+of+the+Golden+Grain%2C+Type+II%2C+II+Class+Sash+Badge+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 76402,
+      "sha256": "375e8f5492cc47e94f5e8467bd802dd5dad98accdc12a6f20ebe7dcb3176832a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-136-02",
+      "record_id": "ROC-MB-136-V01",
+      "view_key": "ROC-MB-136-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/136_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/7c805905b35c2e3dade4a9c37ab2ef7d54be2108/store/fit/528/348/af9de0c64de4657c4c48fb12bc00c88f6f6780924b4b7be0a06e49fda586/Order+of+the+Golden+Grain%2C+Type+II%2C+II+Class+Sash+Badge+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 19113,
+      "sha256": "ee0ee6fe77b3fcf5a38772606c2f5c32cd33922b13d054cb758bfa91f7d2e1e8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-137-01",
+      "record_id": "ROC-MB-137-V01",
+      "view_key": "ROC-MB-137-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/137_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/1ff2c865bc9f2a8895a4a793184b04ad4480b7e1/store/fit/528/348/a7f7231c98d12b0e1973c4c1b7011a8bbd607f11ae1810fb4306340e745d/Order+of+the+Golden+Grain%2C+Type+II%2C+II+Class+Star+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 39774,
+      "sha256": "8f0d3144e88cb689fc2cc85b91546247ee2b74e02e1cb544cff3ab02d5977ed8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-137-07",
+      "record_id": "ROC-MB-137-V01",
+      "view_key": "ROC-MB-137-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/137_07.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/fccd9a2cafb562c74f262b6a45776322fc4d50f4/store/fit/528/348/dc02d8b9fa6f4ab3737d3f757aaabb0c1a14ce28861340815a352366435d/Order+of+the+Golden+Grain%2C+Type+II%2C+II+Class+Star+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 32423,
+      "sha256": "dcb84d6f84ed901f475b2a89d28da2fb67c8575a5aadf5e6c0ef165641e5226d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-138-01",
+      "record_id": "ROC-MB-138-V01",
+      "view_key": "ROC-MB-138-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/138_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/04e6a9aae195a944ce454085ab65f7c00f2d9cc6/store/fit/528/348/f831eebb927132d6784440aadf5bd87ce30a445572a271aa7473c97a14ab/IMG_021.jpg54f4babce3c631.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 128589,
+      "sha256": "f710207fccfc96ea180dfcbaf776cf19080df4e456ddc249f0bd8208a3fca4ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-138-03",
+      "record_id": "ROC-MB-138-V01",
+      "view_key": "ROC-MB-138-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/138_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/cd9ccb0eff21ad5f5e5ddda9887c2dd3474859f4/store/fit/528/348/77844a8557d43e0ffcced16a3317e9e66a6e070c87c701ae77b8a4d4888d/IMG_04.jpg54f4bacbe9aff.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 169152,
+      "sha256": "c2032ae85ae400f09b972b2e05f240c8da6c261b78cf7a14ec60efcde1e0cbc5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-139-07",
+      "record_id": "ROC-MB-139-V01",
+      "view_key": "ROC-MB-139-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/139_07.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-iv-class-officer-6",
+      "image_url": "https://www.medalbook.com/attachments/fa47ee25837dae131e49152e030883ac15a500d1/store/fit/528/348/69fe08ee6f334803aebebdbfe5441c4976d0840a9e430753b6f2c1e0898b/Order+of+the+Golden+Grain%2C+Type+II%2C+IV+Class+Officer+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 26407,
+      "sha256": "9a92127ef9a6a36b7fd7aa332a8bee3889f6e69b7bb59941cac96c260744a2d3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-139-04",
+      "record_id": "ROC-MB-139-V01",
+      "view_key": "ROC-MB-139-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/139_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-iv-class-officer-6",
+      "image_url": "https://www.medalbook.com/attachments/af3794592e6c40cc5c25de16dbbaaa1005f6837b/store/fit/528/348/2d1fee0a4d36298413539c530b73521e1123546a7dd30ee14bed230edc45/Order+of+the+Golden+Grain%2C+Type+II%2C+IV+Class+Officer+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24080,
+      "sha256": "ecf8c52b2c1a36203ce2567649c39802461efd1e284f984fc0ce0d4b229d30f4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-141-03",
+      "record_id": "ROC-MB-141-V01",
+      "view_key": "ROC-MB-141-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/141_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-v-class-officer-7",
+      "image_url": "https://www.medalbook.com/attachments/115b2ea84779b47264b15f8588a1062616482bb9/store/fit/528/348/9795c66644217debd940fd8d48bbdb534c98028ae304982eff25ee497c44/Order+of+the+Golden+Grain%2C+Type+II%2C+V+Class+Officer+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25032,
+      "sha256": "7635c0489310cff5cc005f94d502d5b0e6aec4d28cf04878f2a5f0a59a92ac27",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-141-07",
+      "record_id": "ROC-MB-141-V01",
+      "view_key": "ROC-MB-141-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/141_07.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-v-class-officer-7",
+      "image_url": "https://www.medalbook.com/attachments/cf556f9019c24f475c674e16451d44cf5fb28696/store/fit/528/348/e8c0c6b1090a4ab2b3eaa99cf112b2d550045f142ba1ea90c9a87ef77419/Order+of+the+Golden+Grain%2C+Type+II%2C+V+Class+Officer+2.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 24941,
+      "sha256": "84e55524afceece7e23e98add9e8dccecc19a1ce936f797eea0776d6ae65dd58",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-142-06",
+      "record_id": "ROC-MB-142-V01",
+      "view_key": "ROC-MB-142-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/142_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-vi-class-officer-8",
+      "image_url": "https://www.medalbook.com/attachments/e984deb9242ed1e4d6b5d95609194b760c2d009c/store/fit/1000/750/dedbd68c7971c0dbf22fbff27884ec463c2394c4c5b85aa461b00abc40eb/Order+of+the+Golden+Grain%2C+Type+II%2C+V+Class+Officer+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 123828,
+      "sha256": "6d8701132655f9c00fca012a87ca6d745e50f63dbe8423e01738ec528f29c0e0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-143-01",
+      "record_id": "ROC-MB-143-V01",
+      "view_key": "ROC-MB-143-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/143_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-vii-class-knight-9",
+      "image_url": "https://www.medalbook.com/attachments/17a460573442dbf8d72d50186749d7a9c33ed203/store/fit/1000/750/8982adef9930a5f1d29e2ce29136e498561a49a0233cc99b401288555136/Golden+Grain+VII+Class+Knight+ME102.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        448,
+        750
+      ],
+      "bytes": 70238,
+      "sha256": "0a737f15d6f03201fec1a922ddba6458147b2da9c494b27a1de0c7df0213cac0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-145-01",
+      "record_id": "ROC-MB-145-V01",
+      "view_key": "ROC-MB-145-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/145_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-i-class-sash-badge-1",
+      "image_url": "https://www.medalbook.com/attachments/9e88b069e69cd004cce15ddbc9aa3b695d0b3675/store/fit/1000/750/190a367cee5b2243d41b1b9f6037de84d0bfd9ce5ff49da2320ca9906a74/China+Striped+Tiger+IC+badge.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        460,
+        750
+      ],
+      "bytes": 80386,
+      "sha256": "3d84486b210dfc716981110af8f89d25e8508d0e85a8cd6828e7af148ecce023",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-146-02",
+      "record_id": "ROC-MB-146-V01",
+      "view_key": "ROC-MB-146-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/146_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-i-class-star-2",
+      "image_url": "https://www.medalbook.com/attachments/9d895b382dd1960b441f220501fdc86936bdebe4/store/fit/1000/750/1f706f9928100d314cd8b879ebd9136489dbb28f96b2573c9c8cf4ca750b/Miniature+Order+of+the+Striped+Tiger%2C+I+Class+Star+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 134354,
+      "sha256": "58db2f8bcc7345cb0cb57a4b7cbae743eba0db61a224dea367abd7f6b4d5f5c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-147-02",
+      "record_id": "ROC-MB-147-V01",
+      "view_key": "ROC-MB-147-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/147_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/2921883700fa9b5f934e49a03db9a9f20cb083ee/store/fit/528/348/30d05e685295d5b6f5d4b92c7f5e4bd204f576c9ff96cfe01d974d14b0ab/Striped+Tiger+IIC+Badge+Ob.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 26319,
+      "sha256": "a3ac17d52bae93eda139c7b9c050c38d00ae0826b8c1ea8c22766022f8a9047f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-147-03",
+      "record_id": "ROC-MB-147-V01",
+      "view_key": "ROC-MB-147-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/147_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-ii-class-sash-badge-3",
+      "image_url": "https://www.medalbook.com/attachments/3762c5a4b9b189c7690ca09ed52ae7d97da38347/store/fit/528/348/0f00a13b499de812074ac5574a875f54e3360a11540a356130ff875a5436/Striped+Tiger+IIC+Badge+Rev.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 22321,
+      "sha256": "723bbf48847d9728b54f5c781677caf0e48bdd92a7408a80950a2959c2a0fa8c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-148-02",
+      "record_id": "ROC-MB-148-V01",
+      "view_key": "ROC-MB-148-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/148_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/a59219b52d95bdf1ac9630124d6c7c0a6f9513a4/store/fit/1000/750/aa6055642a5c81ae50cdc935d9edbaf81a9ddcc7a76090b6dcb1f57358a3/A_Chinese_Order__553b924c91fd0.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 643439,
+      "sha256": "953a12d23c131771c50b5eed3f1c13ac040be13c7c13b084fda6539dbe3d146d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-148-04",
+      "record_id": "ROC-MB-148-V01",
+      "view_key": "ROC-MB-148-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/148_04.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-ii-class-star-4",
+      "image_url": "https://www.medalbook.com/attachments/e0f0d71486b2b3005d0d98df881a7fd6717625fc/store/fit/528/348/693e04089569a8078cbe65644ef624de7aeeb7935f92647a69924c931047/IMG_02.jpg553b926a0db9c.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 204848,
+      "sha256": "6297745acc8da02b09c23a2bc2984218d011423958d7fd04111cdf1c7fc763a4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-149-02",
+      "record_id": "ROC-MB-149-V01",
+      "view_key": "ROC-MB-149-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/149_02.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/479b5381999f6c99a5bfb2005faf2ea08f74f9df/store/fit/1000/750/3eddacdfdd870ba55c81411e98e9f9790d02add1a003796887c9ba4a8824/IMG_04.jpg550876c36193e.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 494176,
+      "sha256": "3b4919c0570a36cd22b5facf65fc36ea219ff1b04feff30bc33ae25e1142f5be",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-149-01",
+      "record_id": "ROC-MB-149-V01",
+      "view_key": "ROC-MB-149-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/149_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-iii-class-commander-5",
+      "image_url": "https://www.medalbook.com/attachments/2380a2e5bf2dcd9097b083503a2bd7cebd8632cc/store/fit/528/348/77f4c467195a647de5515b6ee26e428882bb2a50315dfadd1eb91de09d43/IMG_07.jpg550876e6c7293.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 136260,
+      "sha256": "451a91d6539ce083ba50f95ccdfae8d517228708974bf0eb4f0da74f2ba56f04",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-151-01",
+      "record_id": "ROC-MB-151-V01",
+      "view_key": "ROC-MB-151-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/151_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-iv-class-officer-badge-7",
+      "image_url": "https://www.medalbook.com/attachments/065caf9701721b951d274085ad1abf876c406db2/store/fit/1000/750/cbcb9b0c705f8786114204134bc46ea0b52d0f2dd1c44ec09a57bc165979/Striped+Tiger+IV+ME83.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        469,
+        750
+      ],
+      "bytes": 73151,
+      "sha256": "689fa6966646ea9af11eab98904c9b7855fce9d0e69debb4b36bd6fa47ced627",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-153-01",
+      "record_id": "ROC-MB-153-V01",
+      "view_key": "ROC-MB-153-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/153_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-v-class-officer-badge-8",
+      "image_url": "https://www.medalbook.com/attachments/6597f6dedb1e0f2f050926c7f69e31550edc2bd1/store/fit/1000/750/4521324f5d98f091f3c3a53057198da9ef7e9f30349541bf51f09ee44429/Striped+Tiger%2C+V+Class+ME.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        395,
+        750
+      ],
+      "bytes": 65395,
+      "sha256": "7634f2c45e06c27cc6bb58ae22b3854718398c3fced218102cafb59d9dcebd6b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-154-01",
+      "record_id": "ROC-MB-154-V01",
+      "view_key": "ROC-MB-154-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/154_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-vi-class-officer-badge-9",
+      "image_url": "https://www.medalbook.com/attachments/c9448ab74da1041cd814736f59b615b3a68b0f61/store/fit/528/348/89a2df804bec0dc51e7cd9093fe211f4b8ee61a0489a8fe2f25ae95ae089/Striped+Tiger%2C+VI+Class+ME.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        170,
+        348
+      ],
+      "bytes": 23740,
+      "sha256": "6e577f53d6cec037bfe6404db4a135456446a98b419a4e3004a858424d19caf5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-155-05",
+      "record_id": "ROC-MB-155-V01",
+      "view_key": "ROC-MB-155-VIEW1",
+      "local_path": "assets/images/medalbook_republic_of_china/155_05.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-vii-class-knight-10",
+      "image_url": "https://www.medalbook.com/attachments/81f073d1a150c123f8cbfb418cb1c8b19f2a9caa/store/fit/1000/750/f29cefcf4c72be80b69d5a15935b6c0d81417491f4564d815a839c9914ef/Order+of+the+Striped+Tiger%2C+VII+Class+Knight+1.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 104990,
+      "sha256": "875d1040f51d948fdc6c0b08d6b20b93a58a583a1458cf21e9c779795c82b954",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "roc-mb-155-06",
+      "record_id": "ROC-MB-155-V01",
+      "view_key": "ROC-MB-155-VIEW2",
+      "local_path": "assets/images/medalbook_republic_of_china/155_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-vii-class-knight-10",
+      "image_url": "https://www.medalbook.com/attachments/899d93377b335d50526619a995b55ed88a4d9971/store/fit/528/348/73b9f9a795271bc7b42f72d6542716cdb0736fd798b6b69b895b4d115aca/Order+of+the+Striped+Tiger%2C+VII+Class+Knight+5.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 25222,
+      "sha256": "76491637b80eabec772bb592ef26b3baf4c3f672530b07f5a897e97ee4693837",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-republic_of_china-5a29f42753c09599",
+      "name": "10th Anniversary of the Republic of China Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/10th-anniversary-of-the-republic-of-china-merit-medal/10th-anniversary-of-the-republic-of-china-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-32c1f655dcd34f36",
+      "name": "20th Anniversary of the Revolution Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/20th-anniversary-of-the-revolution-medal/20th-anniversary-of-the-revolution-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-2b0b0e7e00fd8e1b",
+      "name": "9th Corps Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/9th-corps-merit-medal/9th-corps-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-938cc03ce76ffb75",
+      "name": "Arms Supply Merit Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/arms-supply-merit-medal/arms-supply-merit-medal-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-ebb31e3d2875a313",
+      "name": "Arms Supply Merit Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/arms-supply-merit-medal/arms-supply-merit-medal-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-4f90a74bc80dbf00",
+      "name": "Arms Supply Merit Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/arms-supply-merit-medal/arms-supply-merit-medal-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d55b3bee2c003823",
+      "name": "Catastrophe Relief Merit Order, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/catastrophe-relief-merit-order/catastrophe-relief-merit-order-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-3f109f58a422a356",
+      "name": "Catastrophe Relief Merit Order, IV Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/catastrophe-relief-merit-order/catastrophe-relief-merit-order-iv-class-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-58a202bd60186ce8",
+      "name": "Chahar Province Merit Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/chahar-province-merit-medal/chahar-province-merit-medal-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-e62bef8bf35aec6b",
+      "name": "Chahar Province Merit Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/chahar-province-merit-medal/chahar-province-merit-medal-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-40750795d71d1142",
+      "name": "Chahar Province Merit Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/chahar-province-merit-medal/chahar-province-merit-medal-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-f1b18efff7d6f2ae",
+      "name": "Citizen Protection Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/citizen-protection-medal/citizen-protection-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-bccdd69f9a1d04a5",
+      "name": "Commissioner Li Military Affairs Decoration",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/commissioner-li-military-affairs-decoration/commissioner-li-military-affairs-decoration-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c439f9841b95e142",
+      "name": "Decoration for the Completion of the Republican Constitution",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/decoration-for-the-completion-of-the-republican-constitution/decoration-for-the-completion-of-the-republican-constitution-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-1a036f5d86255324",
+      "name": "Fang Zhenwu Honour Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/fang-zhenwu-honour-medal/fang-zhenwu-honour-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9f323f6a28f39992",
+      "name": "Feng Guozhang Expeditionary Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/feng-guozhang-expeditionary-medal/feng-guozhang-expeditionary-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c07c280538dce6b2",
+      "name": "Fujian Province Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/fujian-province-merit-medal/fujian-province-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-cb4e64f265f250b6",
+      "name": "Gold Marksmanship Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/gold-marksmanship-medal/gold-marksmanship-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-e7287e9c771ab3c0",
+      "name": "Lu Rongting War Medal, in Bronze",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/lu-rongting-war-medal/lu-rongting-war-medal-in-bronze-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-2da81db74bdf2f01",
+      "name": "Lu Rongting War Medal, in Gilt",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/lu-rongting-war-medal/lu-rongting-war-medal-in-gilt-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-edd3673c98a41c3f",
+      "name": "Lu Rongting War Medal, in Gold",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/lu-rongting-war-medal/lu-rongting-war-medal-in-gold-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-4766be6c17f75467",
+      "name": "Lu Rongting War Medal, in Silver",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/lu-rongting-war-medal/lu-rongting-war-medal-in-silver-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d89af2c724c61546",
+      "name": "Marksmanship Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/marksmanship-medal/marksmanship-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-99d33de8bc77334b",
+      "name": "Merit Medal of the Republic, 1912, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic-1912/merit-medal-of-the-republic-1912-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-e14449a53a956d5c",
+      "name": "Merit Medal of the Republic, 1912, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic-1912/merit-medal-of-the-republic-1912-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c1e4144581e729a6",
+      "name": "Merit Medal of the Republic, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic/merit-medal-of-the-republic-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-1c0de37bf1438db8",
+      "name": "Merit Medal of the Republic, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-medal-of-the-republic/merit-medal-of-the-republic-iii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-23e995d71c0ab62f",
+      "name": "Merit Order of the Patriot Army, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/merit-order-of-the-patriot-army/merit-order-of-the-patriot-army-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-3c800189ec51365b",
+      "name": "Military Reward Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/military-reward-medal/military-reward-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-32ac8f9bab969c84",
+      "name": "Ministry of Country Military Foces Merit Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/ministry-of-country-military-forces-merit-medal/ministry-of-country-military-foces-merit-medal-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-a81a509aa53b435c",
+      "name": "Ministry of Country Military Forces Merit Medal, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/ministry-of-country-military-forces-merit-medal/ministry-of-country-military-forces-merit-medal-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-86d6f1326e9f43f3",
+      "name": "Ministry of Country Military Forces Merit Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/ministry-of-country-military-forces-merit-medal/ministry-of-country-military-forces-merit-medal-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-30a653cb52f6749a",
+      "name": "National Army Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/national-army-commemorative-medal/national-army-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-73c710c65db96390",
+      "name": "National Convention Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/national-convention-commemorative-medal/national-convention-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-615ebbecdfb87620",
+      "name": "Naval Ministry Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/naval-ministry-merit-medal/naval-ministry-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-921f023f0800608e",
+      "name": "Officer's Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/officers-merit-medal/officer's-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-1b645ccc390ce6c2",
+      "name": "Opening of the First Parliament Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/opening-of-the-first-parliament-medal/opening-of-the-first-parliament-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9335680797d2cdfc",
+      "name": "President Yuan Shih-Kai Inauguration Army Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/president-yuan-shih-kai-inauguration-army-medal/president-yuan-shih-kai-inauguration-army-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-80e457a9516d80d6",
+      "name": "Red Cross Medal for Saving Wounded Soliders",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/red-cross-medal-for-saving-wounded-soldiers/red-cross-medal-for-saving-wounded-soliders-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-7f486ec1aab5a1af",
+      "name": "Republican Silver Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/republican-silver-merit-medal/republican-silver-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-a5585d8af8926591",
+      "name": "Special Guards Merit Decoration, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/special-guards-merit-decoration/special-guards-merit-decoration-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-07d278412e442e03",
+      "name": "Special Guards Merit Decoration, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/special-guards-merit-decoration/special-guards-merit-decoration-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-f0b4bd85b1790640",
+      "name": "Special Guards Merit Decoration, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/special-guards-merit-decoration/special-guards-merit-decoration-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-555f0b3d425cd4d8",
+      "name": "Tsao Kun Innauguration Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-innauguration-medal/tsao-kun-innauguration-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c5b3b71b63499de7",
+      "name": "Tsao Kun Merit Decoration, with flower petals & leaves",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-merit-decoration/tsao-kun-merit-decoration-with-flower-petals--leaves-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-18900d97e5a6454c",
+      "name": "Tsao Kun Merit Decoration, with green centre",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-merit-decoration/tsao-kun-merit-decoration-with-green-centre-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-7883915be1de227e",
+      "name": "Tsao Kun Merit Decoration, with red centre",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-merit-decoration/tsao-kun-merit-decoration-with-red-centre-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-4414343e327b33d5",
+      "name": "Tsao Kun Merit Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-merit-star/tsao-kun-merit-star-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-6070da39f85c39bb",
+      "name": "Tsao Kun Protection of Constitution, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-protection-of-constitution-decoration/tsao-kun-protection-of-constitution-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c170ecbfc470dbaa",
+      "name": "Tsao Kun Protection of Constitution, Breast Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/tsao-kun-protection-of-constitution-decoration/tsao-kun-protection-of-constitution-breast-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-0ef07022e309df2d",
+      "name": "WWI Service Medal, for NCO's & men",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-service-medal/wwi-service-medal-for-nco's--men-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-ccebbb876fb5bf3c",
+      "name": "WWI Service Medal, for senior officer's",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-service-medal/wwi-service-medal-for-senior-officer's-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-a1e118e116d63e12",
+      "name": "WWI Soldier's Medal, in Bronze",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-soldiers-medal/wwi-soldier's-medal-in-bronze-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-f736577266203d4f",
+      "name": "WWI Soldier's Medal, in Silver",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/w-w-i-soldiers-medal/wwi-soldier's-medal-in-silver-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-a2506aef5fd9c52f",
+      "name": "Wu Pei Fu Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-commemorative-medal/wu-pei-fu-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-b255c8e0a273d23b",
+      "name": "Wu Pei Fu Merit Medal, 1915",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-merit-medal-1915/wu-pei-fu-merit-medal-1915-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-75afd324f709546f",
+      "name": "Wu Pei Fu Merit Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/wu-pei-fu-merit-star/wu-pei-fu-merit-star-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-3eb5a75e201b2ebf",
+      "name": "Xu Shichang Commemorative Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/xu-shichang-commemorative-medal/xu-shichang-commemorative-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9a400298c44d7b8f",
+      "name": "Xu Shichang Merit Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/xu-shichang-merit-medal/xu-shichang-merit-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-ec1305a45cce030b",
+      "name": "Yuan Shih-Kai Inauguration Naval Medal",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/yuan-shih-kai-inauguration-naval-medal/yuan-shih-kai-inauguration-naval-medal-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-908a346c1343c0a0",
+      "name": "Yuan Shih-Kai Merit Medal, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/yuan-shih-kai-merit-medal/yuan-shih-kai-merit-medal-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-42f7a22930e5d058",
+      "name": "Yuan Shih-Kai Merit Medal, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/yuan-shih-kai-merit-medal/yuan-shih-kai-merit-medal-iii-class-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-bc5eb7b323e4cbd2",
+      "name": "Yuan Shih-Kai Republican Commemorative Decoration",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/medals-decorations/yuan-shih-kai-republican-commemorative-decoration/yuan-shih-kai-republican-commemorative-decoration-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-796fdf3d552227d8",
+      "name": "Order of Blue Sky and White Sun, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-blue-sky-and-white-sun/order-of-blue-sky-and-white-sun-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-8a2b5e8a3f9217f7",
+      "name": "Order of Blue Sky and White Sun, Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-blue-sky-and-white-sun/order-of-blue-sky-and-white-sun-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-5bfb94b856bfdaaa",
+      "name": "Order of Dr. Sun Yat - Sen, Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-dr-sun-yat-sen/order-of-dr--sun-yat---sen-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-8022e7f815039644",
+      "name": "Order of Dr. Sun Yat - Sen, Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-dr-sun-yat-sen/order-of-dr--sun-yat---sen-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-72a922943b1c5907",
+      "name": "Order of Illustrious Brilliant Golden Grain, III Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-iii-class-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-872ad2ccfbe310c4",
+      "name": "Order of Illustrious Brilliant Golden Grain, IV Class Officer",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-illustrious-brilliant-golden-grain/order-of-illustrious-brilliant-golden-grain-iv-class-officer-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c05ec67bd5d27956",
+      "name": "Order of Merit, I Class, I Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-i-grade-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-e2a80d160add822d",
+      "name": "Order of Merit, I Class, II Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-ii-grade-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-dcd18ae627119778",
+      "name": "Order of Merit, I Class, III Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-iii-grade-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-93665d379fb3970c",
+      "name": "Order of Merit, I Class, IV Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-iv-grade-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-029d85dfd6499aa0",
+      "name": "Order of Merit, I Class, V Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-v-grade-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-bc2866947951da76",
+      "name": "Order of Merit, I Class, VI Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-i-class-vi-grade-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-cdb2938ab391f699",
+      "name": "Order of Merit, II Class, I Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-i-grade-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-df634839e2592ae2",
+      "name": "Order of Merit, II Class, II Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-ii-grade-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-6c773b8e296d2484",
+      "name": "Order of Merit, II Class, III Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-iii-grade-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-f76a27ef4aee2d75",
+      "name": "Order of Merit, II Class, IV Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-iv-grade-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-56817acadb74d4b9",
+      "name": "Order of Merit, II Class, V Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-v-grade-11",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-56df5face17750e2",
+      "name": "Order of Merit, II Class, VI Grade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-merit/order-of-merit-ii-class-vi-grade-12",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-0a7e67d75d75b606",
+      "name": "Order of Precious Tripod, I Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-i-class-sash-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-194792734580cd8d",
+      "name": "Order of Precious Tripod, I Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-i-class-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d7bfdbbea25d6d2b",
+      "name": "Order of Precious Tripod, II Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-ii-class-sash-badge-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9d1967427b868c87",
+      "name": "Order of Precious Tripod, II Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-ii-class-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d8eca70c1005a3c6",
+      "name": "Order of Precious Tripod, III Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-iii-class-sash-badge-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9ba567836e0e5b99",
+      "name": "Order of Precious Tripod, III Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-iii-class-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-fb4ba3f224ede5c6",
+      "name": "Order of Precious Tripod, IX Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-ix-class-knight-12",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-24de64c7ca688d35",
+      "name": "Order of Precious Tripod, VI Class Officer",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-vi-class-officer-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-574dc36dd6679115",
+      "name": "Order of Precious Tripod, VII Class Officer",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-vii-class-officer-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-011d51be94a529c8",
+      "name": "Order of Precious Tripod, VIII Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-precious-tripod/order-of-precious-tripod-viii-class-knight-11",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-466ecd2e7b2789d0",
+      "name": "Order of the Black Dragon, I Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-i-class-sash-badge-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-03142bceab3cbfa3",
+      "name": "Order of the Black Dragon, I Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-i-class-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-4a8d46a34d4beadd",
+      "name": "Order of the Black Dragon, II Class Sash Badge",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-ii-class-sash-badge-3",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d986e2ab288368a6",
+      "name": "Order of the Black Dragon, II Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-ii-class-star-4",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-b2e396c0d05d130b",
+      "name": "Order of the Black Dragon, III Class Commander",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-iii-class-commander-5",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-eb9b40f0487e8dc4",
+      "name": "Order of the Black Dragon, IV Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-iv-class-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-a6bec5430ed8929d",
+      "name": "Order of the Black Dragon, V Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-v-class-7",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-1cb9ef81f5562acf",
+      "name": "Order of the Black Dragon, VI Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-vi-class-8",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-56f1cb6b3974c058",
+      "name": "Order of the Black Dragon, VII Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-vii-class-9",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-6d016f21b166f15a",
+      "name": "Order of the Black Dragon, VIII Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-black-dragon/order-of-the-black-dragon-viii-class-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-2e996a8fd401d275",
+      "name": "Order of the Brilliant Jade, I Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-i-class-star-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-d4e4d7fc211f48fc",
+      "name": "Order of the Brilliant Jade, IV Class Officer",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-brilliant-jade/order-of-the-brilliant-jade-iv-class-officer-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-852e0b6703c17c4f",
+      "name": "Order of the Golden Grain, IX Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-ix-class-knight-11",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-b0307d3e167e4887",
+      "name": "Order of the Golden Grain, VIII Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-golden-grain/order-of-the-golden-grain-viii-class-knight-10",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-9c5577f4d8fcb3f1",
+      "name": "Order of the Striped Tiger, III Class Star",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-iii-class-star-6",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-11704c779d5b4155",
+      "name": "Order of the Striped Tiger, IX Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-ix-class-knight-12",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-36dde7f5aa65e961",
+      "name": "Order of the Striped Tiger, VIII Class Knight",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-the-striped-tiger/order-of-the-striped-tiger-viii-class-knight-11",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-0281e68d8ba16df9",
+      "name": "Order of Tung Leaf, I Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-tung-leaf/order-of-tung-leaf-i-class-1",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-bf7e4faeddf37afe",
+      "name": "Order of Tung Leaf, II Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-tung-leaf/order-of-tung-leaf-ii-class-2",
+      "status": "有记载未配图"
+    },
+    {
+      "source_id": "medalbook-republic_of_china-c2e39e115f7d03d7",
+      "name": "Order of Tung Leaf, III Class",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date/orders/order-of-tung-leaf/order-of-tung-leaf-iii-class-3",
+      "status": "有记载未配图"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-29",
+  "scope_id": "netherlands",
+  "scope_label": "Kingdom of the Netherlands and Dutch royal-house award systems",
+  "sources": [
+    {
+      "source_id": "wmi_netherlands_directory",
+      "source_name": "World Medals Index - Orders, Decorations and Medals of the Kingdom of the Netherlands Text List",
+      "base_url": "https://www.medals.org.uk/netherlands/netherlands-text.htm",
+      "source_type": "specialist_award_directory",
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "scope_dates": "Dutch Republic and Kingdom periods represented by the listed award pages; detail coverage begins in 1813 and extends to contemporary awards",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "complete_text_list_link_enumeration_then_all_detail_pages_and_selected_original_image_files",
+      "priority": 1,
+      "status": "partial",
+      "sweep_status": "completed",
+      "image_harvest_status": "partial",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Text List exposed 34 linked award detail pages; 34/34 pages returned HTTP 200 and their image captions/date fields were parsed. 33 distinct complete-front image candidates were found. First batch selected 21 front variants across 12 families; 12 other front images and all unpictured names remain for later formal-scope and variant review.",
+      "candidate_file": "data/raw_candidates/netherlands_medals_org_master_2026-09-29.jsonl",
+      "volume_file": "data/volumes/netherlands_wmi_batch1_2026-09-29.json",
+      "manifest_file": "data/volumes/netherlands_wmi_batch1_2026-09-29_manifest.json",
+      "image_directory": "assets/images/netherlands_wmi_batch1_2026-09-29",
+      "rights_status": "Individual object pages do not state photographer or redistribution terms; local research use only pending rights review."
+    },
+    {
+      "source_id": "wikipedia_netherlands_award_inventory",
+      "source_name": "Orders, decorations, and medals of the Netherlands (English Wikipedia inventory)",
+      "base_url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_the_Netherlands",
+      "source_type": "discovery_master_list",
+      "languages": [
+        "en"
+      ],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "full_article_inventory_read_and_crosswalk_to_specialist_directory",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Full overview opened. It distinguishes chivalric orders, house orders, state bravery/merit/operation awards, commemoratives, service awards, private organizations, and international awards. Used only as a scope/discovery crosswalk; candidate-by-candidate historical and image sweep remains.",
+      "rights_status": "Discovery source only; image thumbnails/ribbons not harvested."
+    },
+    {
+      "source_id": "royal_house_personal_decorations",
+      "source_name": "Royal House of the Netherlands - Personal decorations",
+      "base_url": "https://www.royal-house.nl/topics/monarchy/decorations-and-honours/personal-decorations",
+      "source_type": "official_award_authority_overview",
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "official_overview_page_read_and_class_classification_check",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Official overview confirms two civilian orders, the Military Order of William as the sole military order, key foundation date/class distinctions for the three chivalric orders, and separates royal-house awards. It is not a complete inventory of all Dutch state medals."
+    },
+    {
+      "source_id": "royal_honours_military_order",
+      "source_name": "Royal Honours and Decorations - Military Order of William",
+      "base_url": "https://www.royalhonoursanddecorations.nl/decorations-and-honours/military-order-of-william",
+      "source_type": "official_order_reference",
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "scope_dates": "1815 to present",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "official_history_and_classes_page_read",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Official page confirms foundation on 30 April 1815 and four classes; used to cross-check the WMI class names and date."
+    },
+    {
+      "source_id": "netherlands_official_order_of_wear",
+      "source_name": "Netherlands official Decision on the Order of Wear of Decorations",
+      "base_url": "https://wetten.overheid.nl/BWBR0048879",
+      "source_type": "official_legal_awards_inventory",
+      "languages": [
+        "nl"
+      ],
+      "has_images": false,
+      "has_pagination": true,
+      "download_method": "official_statute_and_annex_candidate_differential",
+      "priority": 1,
+      "status": "blocked",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Official source found in search; web reader returned an internal error when opened, so the annex and current award list were not extracted. Revisit via the official gazette/dataset interface."
+    },
+    {
+      "source_id": "commons_netherlands_awards_categories",
+      "source_name": "Wikimedia Commons Netherlands orders, decorations and medals category tree",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations,_and_medals_of_the_Netherlands",
+      "source_type": "image_category_tree",
+      "languages": [
+        "mul",
+        "nl",
+        "en"
+      ],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "recursive_category_members_then_file_pages_and_full_originals",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Discovered from the Wikipedia inventory Commons link; no category or file pages scanned in this batch."
+    },
+    {
+      "source_id": "onderscheidingen_nl_awards_directory",
+      "source_name": "Onderscheidingen.nl Dutch-language decorations directory",
+      "base_url": "https://www.onderscheidingen.nl/",
+      "source_type": "specialist_award_directory",
+      "languages": [
+        "nl"
+      ],
+      "has_images": true,
+      "has_pagination": null,
+      "download_method": "official/country-directory-discovery_then_object_page_review",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-29",
+      "coverage_result": "Identified as a Dutch-language specialist source from the Wikipedia inventory; not opened in this batch."
+    }
+  ],
+  "coverage": {
+    "planned": 7,
+    "completed": 2,
+    "partial": 2,
+    "blocked": 1,
+    "not_started": 2
+  },
+  "next_action": "Exhaust Commons category branches and the Dutch-language Onderscheidingen.nl directory; retrieve the official order-of-wear annex through an accessible government route; crosswalk all listed candidates to WMI and expand complete images for families with no front."
+}

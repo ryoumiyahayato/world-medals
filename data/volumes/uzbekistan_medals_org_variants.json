@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "乌兹别克斯坦共和国 · ODM",
+  "records": [
+    {
+      "id": "UZB-ODM-002-JASORAT",
+      "family": "MENA7-JASORAT",
+      "country_zh": "乌兹别克斯坦",
+      "name": "勇气奖章",
+      "original": "Medal of Courage",
+      "date": "1994年5月5日设立",
+      "variant": "ODM 所示实物；完整正背面",
+      "views": [
+        {
+          "key": "UZB-ODM-002-JASORAT-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "UZB-ODM-002-JASORAT-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-uzbekistan-d03d6efac79988c1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

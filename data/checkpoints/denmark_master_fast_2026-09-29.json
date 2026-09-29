@@ -1,0 +1,50 @@
+{
+  "checkpoint_id": "denmark_master_fast_2026-09-29",
+  "as_of": "2026-09-29",
+  "scope": "丹麦国家奖励体系快速总目录与首批配图",
+  "plan": [
+    "扫完medals.org.uk丹麦两页 ribbon chart和所有链接对象页",
+    "与现有丹麦卷做差集",
+    "至少取得20个独立章种/主要等级的完整本地图",
+    "保存raw、volume/manifest、matrix与checkpoint；不改公共HTML/site_build/validate_site"
+  ],
+  "source_counts": {
+    "completed": 1,
+    "partial": 2,
+    "not_started": 0,
+    "planned": 3
+  },
+  "counts": {
+    "unresolved_pages": 0,
+    "merged_families": 28,
+    "decoded_local_images": 28,
+    "image_bearing_detail_pages": 35,
+    "chart_detail_pages_listed": 53,
+    "body_families": 0,
+    "raw_candidates": 65,
+    "detail_pages_fetched": 53,
+    "variants": 28
+  },
+  "files": [
+    "data\\raw_candidates\\denmark\\medals_org_denmark_full_directory_2026-09-29.jsonl",
+    "data/volumes/denmark_master_fast_2026-09-29.json",
+    "data/volumes/denmark_master_fast_2026-09-29_manifest.json",
+    "data/source_atlas/denmark_source_matrix.json",
+    "assets/raw/denmark_master_fast_2026-09-29/",
+    "sources/cache/medals_org_denmark"
+  ],
+  "status": "first_batch_reviewed_and_merged",
+  "next_action": "继续从丹麦王室官方目录与逐文件核权的Commons对象页补齐本批未配图family，并扩展同一family的主要等级和历史版型。",
+  "site_build_touched": true,
+  "public_html_touched": true,
+  "main_review": {
+    "contact_sheet": "data/image_harvest/denmark_master_fast_contact_sheet.jpg",
+    "visually_reviewed_rows": 28,
+    "accepted_complete_front_rows": 28,
+    "rejected_rows": 0,
+    "label_corrections": "将专业目录图片由图式更正为低清实物照；清理设立日期中的Awarded/Discontinued网页粘连，并修正1939—1945年红十字会纪念奖章题名。",
+    "published_image_directory": "assets/images/denmark_master_fast_2026-09-29/",
+    "validation": "site_build、validate_site、audit_regressions、validate_interactions全部通过；断网引用均为本地文件。"
+  },
+  "notes": "图像源版权未知；离线研究图鉴保留来源与权利限制，不标示为可再发布素材。"
+}

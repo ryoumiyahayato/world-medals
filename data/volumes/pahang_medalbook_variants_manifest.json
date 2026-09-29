@@ -1,0 +1,61 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "malaysia-medalbook-404-01",
+      "record_id": "MYS-PAHANG-CROWN-MEDALBOOK-404",
+      "view_key": "MYS-PAHANG-CROWN-MEDALBOOK-404-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/404_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-pahang/orders/esteemed-order-of-the-crown-of-pahang/esteemed-order-of-the-crown-of-pahang-knight-companion-breast-star-5",
+      "image_url": "https://www.medalbook.com/attachments/5d1d70b6588be86020d67b4fa0643eacbd40e148/store/fit/1000/750/030b020396b9819bfafce4bc2b2b2f9f0999ecfc9eae6e17d4caafb6155e/Pahang+Knight+Companion++Breast+Star+ME74.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        771,
+        750
+      ],
+      "bytes": 148439,
+      "sha256": "f34e4cef0afeaff1c663b60b8b1c3430357f3f46e73fbf94e7a49125145f5553",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-409-01",
+      "record_id": "MYS-PAHANG-CROWN-INDRA-FAMILY-MEDALBOOK-409",
+      "view_key": "MYS-PAHANG-CROWN-INDRA-FAMILY-MEDALBOOK-409-VIEW1",
+      "local_path": "assets/images/medalbook_malaysia/409_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-pahang/orders/the-most-esteemed-family-order-of-the-crown-of-indra-of-pahang/the-most-esteemed-family-order-of-the-crown-of-indra-of-pahang-i-class-badge-2",
+      "image_url": "https://www.medalbook.com/attachments/9e64f37054558736c4e4a902c56506e50c6dc9e7/store/fit/1000/750/52e0335fac49c3da52bc23ec4f988011944a2c54ea889387c385672138b6/Pahang+Crown+GC.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 234950,
+      "sha256": "9f2ca63f1c3f8d2bb45bbec1712499139b91399e752d534e81c8e1fabdcf0c83",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "malaysia-medalbook-409-03",
+      "record_id": "MYS-PAHANG-CROWN-INDRA-FAMILY-MEDALBOOK-409",
+      "view_key": "MYS-PAHANG-CROWN-INDRA-FAMILY-MEDALBOOK-409-VIEW2",
+      "local_path": "assets/images/medalbook_malaysia/409_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/malaysia/sultanate-of-pahang/orders/the-most-esteemed-family-order-of-the-crown-of-indra-of-pahang/the-most-esteemed-family-order-of-the-crown-of-indra-of-pahang-i-class-badge-2",
+      "image_url": "https://www.medalbook.com/attachments/f5e85feacec710d6608a887a99f2112e56e19225/store/fit/528/348/a2fa17f25292d565f5c49b1cbb6537485982629dd315548302eeba3b66fa/Pahang+Crown+GC+Rev.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 70169,
+      "sha256": "6a71318546821c5e558478ac4178c598995253e77b9ccc000294d1b435a8ff8b",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": []
+}

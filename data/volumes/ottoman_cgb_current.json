@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国 CGB 档案版型",
+  "records": [
+    {
+      "id": "OTT-CGB-FME917718-OSMANIE-III",
+      "family": "OTT-OSM",
+      "country_zh": "奥斯曼帝国",
+      "name": "奥斯曼尼耶勋章",
+      "original": "Nişan-ı Osmanî / Order of Osmanieh",
+      "date": "1862年设立",
+      "variant": "三等颈章；章体宽61.5毫米；镀金铜、银色金属及珐琅；原绿底红边颈绶与原盒；盒标S. Germont（利摩日，不据此断定章体制造者）；完整正反面合图",
+      "views": [{"key": "OTT-CGB-FME917718-OSMANIE-III-V1", "label": "完整正反面合图"}],
+      "source_ids": ["cgb-fme_917718"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

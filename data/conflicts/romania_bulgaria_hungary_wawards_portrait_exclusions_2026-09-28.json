@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "World Awards Romania, Bulgaria, Hungary and Serbia country indexes",
+  "sources": {
+    "romania": {"overview_pages": 3, "images": 3},
+    "bulgaria": {"overview_pages": 2, "images": 2},
+    "hungary": {"overview_pages": 3, "images": 3},
+    "serbia": {"overview_pages": 2, "images": 2}
+  },
+  "formal_rows_created": 0,
+  "reason": "Every exposed image is a decorated-person portrait rather than an isolated complete award object. Portraits were retained only as source evidence and excluded from the three-column catalogue.",
+  "next_action": "Use each country's national award-system master list as the candidate universe and batch-match isolated object images or official designs."
+}

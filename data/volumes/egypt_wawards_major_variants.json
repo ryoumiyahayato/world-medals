@@ -1,0 +1,580 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及主要勋章等级与组件",
+  "records": [
+    {
+      "id": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL",
+      "family": "MENA7-ORDER-OF-ISMAIL",
+      "country_zh": "埃及",
+      "name": "伊斯梅尔勋章",
+      "original": "Order of Ismail",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-01-ORDER-OF-ISMAIL-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-48b1cea7d55552c3f1d7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL",
+      "family": "MENA7-ORDER-OF-ISMAIL",
+      "country_zh": "埃及",
+      "name": "伊斯梅尔勋章",
+      "original": "Order of Ismail",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-02-ORDER-OF-ISMAIL-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-48b1cea7d55552c3f1d7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-03-ORDER-OF-MUHAMMAD-ALI",
+      "family": "MENA7-ORDER-OF-MUHAMMAD-ALI",
+      "country_zh": "埃及",
+      "name": "穆罕默德·阿里勋章",
+      "original": "Order of Muhammad Ali",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "一期挂章；正反面合图",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-03-ORDER-OF-MUHAMMAD-ALI-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-86c6cf1d714e3eb2bf6d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-04-ORDER-OF-MUHAMMAD-ALI",
+      "family": "MENA7-ORDER-OF-MUHAMMAD-ALI",
+      "country_zh": "埃及",
+      "name": "穆罕默德·阿里勋章",
+      "original": "Order of Muhammad Ali",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "一期星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-04-ORDER-OF-MUHAMMAD-ALI-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-86c6cf1d714e3eb2bf6d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI",
+      "family": "MENA7-ORDER-OF-MUHAMMAD-ALI",
+      "country_zh": "埃及",
+      "name": "穆罕默德·阿里勋章",
+      "original": "Order of Muhammad Ali",
+      "date": "1919年改版；埃及王国时期",
+      "variant": "二期大绶挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-05-ORDER-OF-MUHAMMAD-ALI-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-86c6cf1d714e3eb2bf6d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-06-ORDER-OF-MUHAMMAD-ALI",
+      "family": "MENA7-ORDER-OF-MUHAMMAD-ALI",
+      "country_zh": "埃及",
+      "name": "穆罕默德·阿里勋章",
+      "original": "Order of Muhammad Ali",
+      "date": "1919年改版；埃及王国时期",
+      "variant": "二期星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-06-ORDER-OF-MUHAMMAD-ALI-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-86c6cf1d714e3eb2bf6d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI",
+      "family": "MENA7-ORDER-OF-MUHAMMAD-ALI",
+      "country_zh": "埃及",
+      "name": "穆罕默德·阿里勋章",
+      "original": "Order of Muhammad Ali",
+      "date": "埃及王国时期",
+      "variant": "附属奖章／低阶章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-07-ORDER-OF-MUHAMMAD-ALI-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-86c6cf1d714e3eb2bf6d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-08-ORDER-OF-THE-NILE",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "大绶级套装；绶带、挂章与星章",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-08-ORDER-OF-THE-NILE-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-7e72a62dbd79d37ef4d1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-09-ORDER-OF-THE-NILE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-7e72a62dbd79d37ef4d1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "颈章／挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-10-ORDER-OF-THE-NILE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-7e72a62dbd79d37ef4d1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-11-ORDER-OF-THE-VIRTUES",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "美德勋章（尼尚·卡迈勒）",
+      "original": "Order of the Virtues / Nishan al-Kamal",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "王国版挂章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-11-ORDER-OF-THE-VIRTUES-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e3dec46128c8cc545d52"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-12-ORDER-OF-THE-VIRTUES",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "美德勋章（尼尚·卡迈勒）",
+      "original": "Order of the Virtues / Nishan al-Kamal",
+      "date": "1915年设立；埃及王国时期",
+      "variant": "王国版星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-12-ORDER-OF-THE-VIRTUES-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e3dec46128c8cc545d52"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Independence",
+      "date": "1955年设立",
+      "variant": "挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-13-ORDER-OF-INDEPENDENCE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-0565b6e030d3891e2fb3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Independence",
+      "date": "1955年设立",
+      "variant": "星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-14-ORDER-OF-INDEPENDENCE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-0565b6e030d3891e2fb3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "وسام الاستحقاق / Order of Merit",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-15-ORDER-OF-MERIT-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e3b95bb61b359bfba776"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "وسام الاستحقاق / Order of Merit",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-16-ORDER-OF-MERIT-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e3b95bb61b359bfba776"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-17-ORDER-OF-SCIENCES-AND-ARTS",
+      "family": "EGY-GAP-SCIENCES-ARTS",
+      "country_zh": "埃及",
+      "name": "科学与艺术勋章",
+      "original": "Order of Sciences and Arts",
+      "date": "1953年设立",
+      "variant": "星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-17-ORDER-OF-SCIENCES-AND-ARTS-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-8b13f5585c8d36ac42b9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-18-ORDER-OF-SCIENCES-AND-ARTS",
+      "family": "EGY-GAP-SCIENCES-ARTS",
+      "country_zh": "埃及",
+      "name": "科学与艺术勋章",
+      "original": "Order of Sciences and Arts",
+      "date": "1953年设立",
+      "variant": "挂章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-18-ORDER-OF-SCIENCES-AND-ARTS-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-8b13f5585c8d36ac42b9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "EGY-GAP-SCIENCES-ARTS-01"
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT",
+      "family": "EGY-GAP-ORDER-SPORT",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sport",
+      "date": "1952年设立",
+      "variant": "星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-19-ORDER-OF-SPORT-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-163fee1ba991a309e771"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true,
+      "supersedes_id": "EGY-GAP-ORDER-SPORT-01"
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-20-ORDER-OF-SPORT",
+      "family": "EGY-GAP-ORDER-SPORT",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sport",
+      "date": "1952年设立",
+      "variant": "挂章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-20-ORDER-OF-SPORT-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-163fee1ba991a309e771"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-21-ORDER-OF-THE-NILE",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "1953年设立；共和国时期",
+      "variant": "共和国版大绶挂章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-21-ORDER-OF-THE-NILE-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-40cc97ea9f8bf7f03616"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile",
+      "date": "1953年设立；共和国时期",
+      "variant": "共和国版星章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-22-ORDER-OF-THE-NILE-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-40cc97ea9f8bf7f03616"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "挂章；正反面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-WAWARDS-MAJOR-23-ORDER-OF-THE-REPUBLIC-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-56feaa87fd422b96e9dd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-24-ORDER-OF-THE-REPUBLIC",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "وسام الجمهورية / Order of the Republic",
+      "date": "1953年设立；1972年法律重定",
+      "variant": "星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-24-ORDER-OF-THE-REPUBLIC-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-56feaa87fd422b96e9dd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-25-ORDER-OF-THE-VIRTUES",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "美德勋章（尼尚·卡迈勒）",
+      "original": "Order of the Virtues / Nishan al-Kamal",
+      "date": "1915年设立；共和国时期继续授予",
+      "variant": "共和国版一等；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-25-ORDER-OF-THE-VIRTUES-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e7883a088dde78facbc9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-WAWARDS-MAJOR-26-ORDER-OF-THE-VIRTUES",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "美德勋章（尼尚·卡迈勒）",
+      "original": "Order of the Virtues / Nishan al-Kamal",
+      "date": "1915年设立；共和国时期继续授予",
+      "variant": "共和国版二等；完整正面",
+      "views": [
+        {
+          "key": "EGY-WAWARDS-MAJOR-26-ORDER-OF-THE-VIRTUES-V1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-egypt-e7883a088dde78facbc9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

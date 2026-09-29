@@ -1,8 +1,44 @@
 {
   "schema_version": "2.0",
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-27",
   "ordering": "priority, partial before new where operationally useful",
   "items": [
+    {
+      "source_id": "fr_samlhoc_phaleristique_full_tree_2026",
+      "source_name": "SAMLHOC — La phaléristique, complete French orders/decorations/medals tree",
+      "scope_ids": [
+        "france_all_regimes"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://www.samlhoc.fr/phaleristique/",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Recursively exhaust the orders, decorations and medals indexes and all object pages; keep current, abolished, colonial/overseas and Vichy granting systems distinct, then merge by family and variant without deleting unmatched existing rows."
+    },
+    {
+      "source_id": "fr_grande_chancellerie_decorations_museum_2026",
+      "source_name": "Grande chancellerie de la Légion d'honneur — national orders, decorations and museum",
+      "scope_ids": [
+        "france_all_regimes"
+      ],
+      "priority": 1,
+      "status": "not_started",
+      "base_url": "https://www.legiondhonneur.fr/fr",
+      "matrix_file": "data/source_atlas/france_second_third_republic_source_matrix.json",
+      "next_action": "Sweep the national orders and decorations section, museum pages, archives entry points and downloadable institutional publications; use this source for official names, dates and institutional scope, and pair images only when the object page supports the exact variant."
+    },
+    {
+      "source_id": "awardgov_legacy_official",
+      "source_name": "award.gov.ru — legacy official RF award portal",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": "http://award.gov.ru/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
     {
       "source_id": "bogazici_ottoman",
       "source_name": "Boğaziçi University Digital Archive supplied record",
@@ -16,28 +52,160 @@
       "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
     },
     {
-      "source_id": "medalbook_sudan",
-      "source_name": "MedalBook Sudan catalogue",
+      "source_id": "commons_empire_medal_categories",
+      "source_name": "Wikimedia Commons — Medals of the Russian Empire category",
       "scope_ids": [
-        "sudan"
+        "russia_empire_ussr_federation"
       ],
       "priority": 1,
       "status": "partial",
-      "base_url": "https://www.medalbook.com/africa-north/sudan-1",
-      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Medals_of_the_Russian_Empire",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
       "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
     },
     {
-      "source_id": "picryl_ottoman",
-      "source_name": "PICRYL Ottoman medals topic result set",
+      "source_id": "commons_ussr_medal_categories",
+      "source_name": "Wikimedia Commons — Soviet medal categories",
       "scope_ids": [
-        "ottoman_empire"
+        "russia_empire_ussr_federation"
       ],
       "priority": 1,
       "status": "partial",
-      "base_url": null,
-      "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Medals_of_the_Soviet_Union",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
       "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "commons_ussr_order_categories",
+      "source_name": "Wikimedia Commons — Soviet order categories",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders_of_the_Soviet_Union",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "es_boe_military_book_2025",
+      "source_name": "BOE — Las órdenes y condecoraciones militares del Reino de España",
+      "scope_ids": [
+        "spain"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://www.boe.es/biblioteca_juridica/publicacion.php?id=PUB-DH-2025-364",
+      "matrix_file": "data/source_atlas/spain_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "es_prieto_barrio_current_directory",
+      "source_name": "Antonio Prieto Barrio — current Spanish medal/order directory",
+      "scope_ids": [
+        "spain"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://www.coleccionesmilitares.com/medallas/texto/odm1.htm",
+      "matrix_file": "data/source_atlas/spain_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "hermitage_collection_search",
+      "source_name": "State Hermitage Museum — collection catalogue search (not yet swept)",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "not_started",
+      "base_url": "https://www.hermitagemuseum.org/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "medalirus_empire_portal",
+      "source_name": "Medalirus — Russian Empire awards catalogue",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://medalirus.ru/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "mondvor_ussr_medal_index",
+      "source_name": "Mondvor — СССР медалдары目录",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://mondvor.narod.ru/medpage.htm",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "mondvor_ussr_order_index",
+      "source_name": "Mondvor — СССР орденлары目录",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://mondvor.narod.ru/ordpage.htm",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "rf_decree_1099_2024",
+      "source_name": "俄联邦总统令1099号合并文本（截至2024-05-10）",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://www.mos.ru/upload/documents/files/3503/1YkazPrezidentaRFot07092010N1099%28redot10052024%29.pdf",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "se_shm_object_pages_selected",
+      "source_name": "SHM public object pages — selected direct detail checks",
+      "scope_ids": [
+        "sweden_shm_orders"
+      ],
+      "priority": 1,
+      "status": "partial",
+      "base_url": "https://samlingar.shm.se/object/",
+      "matrix_file": "data/source_atlas/sweden_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "se_shm_original_media_batch1",
+      "source_name": "SHM original image media endpoints — selected badge/star candidates",
+      "scope_ids": [
+        "sweden_shm_orders"
+      ],
+      "priority": 1,
+      "status": "blocked",
+      "base_url": "https://media.samlingar.shm.se/item/",
+      "matrix_file": "data/source_atlas/sweden_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "se_sweden_official_order_statutes",
+      "source_name": "Swedish official order statutes and Royal Order portal",
+      "scope_ids": [
+        "sweden_shm_orders"
+      ],
+      "priority": 1,
+      "status": "not_started",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/sweden_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
     },
     {
       "source_id": "spink_ottoman",
@@ -46,22 +214,22 @@
         "ottoman_empire"
       ],
       "priority": 1,
-      "status": "not_started",
+      "status": "partial",
       "base_url": null,
       "matrix_file": "data/source_atlas/ottoman_source_matrix.json",
-      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
     },
     {
-      "source_id": "sudan_presidency_medals",
-      "source_name": "Sudan Presidency — Medals and Decorations",
+      "source_id": "state_history_museum_collection",
+      "source_name": "State Historical Museum (Moscow) — online collections (not yet swept)",
       "scope_ids": [
-        "sudan"
+        "russia_empire_ussr_federation"
       ],
       "priority": 1,
-      "status": "blocked",
-      "base_url": "https://www.presidency.gov.sd/medals-decorations",
-      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
-      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+      "status": "not_started",
+      "base_url": "https://shm.ru/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
     },
     {
       "source_id": "turkishculture_ottoman",
@@ -100,40 +268,28 @@
       "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
     },
     {
-      "source_id": "wawards_sudan",
-      "source_name": "Wawards Sudan catalogue",
+      "source_id": "auction_russian_awards_archive",
+      "source_name": "Professional auction archive search for Russian awards (not yet systematically swept)",
       "scope_ids": [
-        "sudan"
-      ],
-      "priority": 1,
-      "status": "partial",
-      "base_url": "https://wawards.org/en/sudan.html",
-      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
-      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
-    },
-    {
-      "source_id": "commons_egypt_awards",
-      "source_name": "Wikimedia Commons Egypt orders and medals category tree",
-      "scope_ids": [
-        "egypt"
+        "russia_empire_ussr_federation"
       ],
       "priority": 2,
       "status": "not_started",
-      "base_url": "https://commons.wikimedia.org/",
-      "matrix_file": "data/source_atlas/egypt_source_matrix.json",
+      "base_url": "https://www.gazette-drouot.com/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
       "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
     },
     {
-      "source_id": "commons_sudan_awards",
-      "source_name": "Wikimedia Commons Sudan orders and medals category tree",
+      "source_id": "commons_empire_order_categories",
+      "source_name": "Wikimedia Commons — Russian Empire order category tree",
       "scope_ids": [
-        "sudan"
+        "russia_empire_ussr_federation"
       ],
       "priority": 2,
-      "status": "blocked",
-      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Sudan",
-      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
-      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+      "status": "partial",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders_of_the_Russian_Empire",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
     },
     {
       "source_id": "egypt_abdeen_medals_museum",
@@ -145,6 +301,66 @@
       "status": "partial",
       "base_url": "https://www.presidency.eg/en/القصور-الرئاسية/قصر-عابدين/",
       "matrix_file": "data/source_atlas/egypt_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "es_bvd_medalla_militar_colectiva",
+      "source_name": "Biblioteca Virtual de Defensa — Medalla Militar Colectiva candidate record",
+      "scope_ids": [
+        "spain"
+      ],
+      "priority": 2,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/spain_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "es_ceres_orders_catalogue",
+      "source_name": "CERES Spanish museum collections portal — medal/order object search",
+      "scope_ids": [
+        "spain"
+      ],
+      "priority": 2,
+      "status": "blocked",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/spain_source_matrix.json",
+      "next_action": "Retain exact blocker; retry only after a meaningful access-path change or use an alternate source."
+    },
+    {
+      "source_id": "es_commons_award_categories",
+      "source_name": "Wikimedia Commons — Spanish military decorations categories and file pages",
+      "scope_ids": [
+        "spain"
+      ],
+      "priority": 2,
+      "status": "partial",
+      "base_url": null,
+      "matrix_file": "data/source_atlas/spain_source_matrix.json",
+      "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
+    },
+    {
+      "source_id": "rsl_catalogue_awards_books",
+      "source_name": "Russian State Library catalogue — historical award books and illustrated catalogues (not yet searched)",
+      "scope_ids": [
+        "russia_empire_ussr_federation"
+      ],
+      "priority": 2,
+      "status": "not_started",
+      "base_url": "https://search.rsl.ru/",
+      "matrix_file": "data/source_atlas/russia_source_matrix.json",
+      "next_action": "Sweep the complete accessible source or a clearly bounded chapter/lot range."
+    },
+    {
+      "source_id": "spink_sudan_gap_archive",
+      "source_name": "Spink Sudan award gap archive search",
+      "scope_ids": [
+        "sudan"
+      ],
+      "priority": 2,
+      "status": "partial",
+      "base_url": "https://www.spink.com/",
+      "matrix_file": "data/source_atlas/sudan_source_matrix.json",
       "next_action": "Finish remaining visible pagination, categories, chapters or failed object pages."
     },
     {

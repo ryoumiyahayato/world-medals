@@ -1,0 +1,22 @@
+{
+  "source_id": "wikipedia-poland-award-inventory",
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Poland",
+    "https://pl.wikipedia.org/wiki/Polskie_odznaczenia_(lista)"
+  ],
+  "accessed": "2026-09-28",
+  "status": "complete",
+  "scope": "All exposed award tables in the English master list and Polish Polskie odznaczenia (lista); state, ministerial, local and other rows are explicitly classified.",
+  "polish_rows": 814,
+  "polish_state_rows": 200,
+  "polish_ministerial_rows": 129,
+  "english_rows": 37,
+  "cached_pages": [
+    "sources/pages/wikipedia_awards/poland_pl.html",
+    "sources/pages/wikipedia_awards/poland_en.html"
+  ],
+  "raw_outputs": [
+    "data/raw_candidates/wikipedia_poland_pl_awards.jsonl",
+    "data/raw_candidates/wikipedia_poland_en_awards.jsonl"
+  ]
+}

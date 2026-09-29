@@ -1,0 +1,108 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "singapore-medalbook-030-01",
+      "record_id": "SGP-AWARD-SAF-GOOD-SERVICE-MEDALBOOK",
+      "view_key": "SGP-AWARD-SAF-GOOD-SERVICE-MEDALBOOK-VIEW1",
+      "local_path": "assets/images/medalbook_singapore/030_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/singapore/medals-decorations/singapore-armed-forces-good-service-medal/singapore-armed-forces-good-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/25e6da02aa8c3d577bdffd93fa222783cd15396a/store/fit/1000/750/97214b94e854f8b72cded2107bc18ef2b2641e3d187a3266fa8bc88a60d1/Singapore+Military+Good+Service+LPM.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        750,
+        750
+      ],
+      "bytes": 317301,
+      "sha256": "3a07badb8d642e8afeb38ee702f00b6e1ef6b1f2d075fcbe1946fb5c61ed14f5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "singapore-medalbook-031-05",
+      "record_id": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK",
+      "view_key": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK-VIEW1",
+      "local_path": "assets/images/medalbook_singapore/031_05.jpg",
+      "source_page": "https://www.medalbook.com/asia/singapore/medals-decorations/singapore-armed-forces-long-service-and-good-conduct-medal/singapore-armed-forces-long-service-and-good-conduct-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/641ca88a2135894fb362a41d6af04bc45bc3444e/store/fit/528/348/82f79c9308f33d63c2dce3f32b60675e5039f6a2bae1b09af6dd9dba0295/Singapore+Armed+Forces+Long+Service+and+Good+Conduct+Medal+2.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        464,
+        348
+      ],
+      "bytes": 23062,
+      "sha256": "8c3848219e6e4b1be92b1f0339b4d9b14bbfddec7b789e83582391b48f732ecc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "singapore-medalbook-031-06",
+      "record_id": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK",
+      "view_key": "SGP-AWARD-SAF-LONG-SERVICE-GOOD-CONDUCT-MEDALBOOK-VIEW2",
+      "local_path": "assets/images/medalbook_singapore/031_06.jpg",
+      "source_page": "https://www.medalbook.com/asia/singapore/medals-decorations/singapore-armed-forces-long-service-and-good-conduct-medal/singapore-armed-forces-long-service-and-good-conduct-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/cfaa2d78879a187582328577dfdb10ff8133d2de/store/fit/1000/750/8712a5450e51ac5b865aae8eeded0a106c9aaa48805e165040bce9117caf/Singapore+Armed+Forces+Long+Service+and+Good+Conduct+Medal+1.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "bytes": 88074,
+      "sha256": "9b17eca718ce0982032496ec28ce04e907655d95c1663ed1e28a9a07f3f34ff6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "singapore-medalbook-037-01",
+      "record_id": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK",
+      "view_key": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK-VIEW1",
+      "local_path": "assets/images/medalbook_singapore/037_01.jpg",
+      "source_page": "https://www.medalbook.com/asia/singapore/medals-decorations/singapore-police-service-good-service-medal/singapore-police-service-good-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/0a60e298e4dbf4bd1e4546a7956a90fee23007e8/store/fit/528/348/4025a17ff5b3dfa19f1f80d68f669ef832473061c8c15f6ca316fa6319fa/MedalSilver11.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        172,
+        348
+      ],
+      "bytes": 66195,
+      "sha256": "197b464e09d165a7116c86dd7e36273b222b83176992dfce9af25ba5251d601f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "singapore-medalbook-037-03",
+      "record_id": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK",
+      "view_key": "SGP-AWARD-POLICE-GOOD-SERVICE-MEDALBOOK-VIEW2",
+      "local_path": "assets/images/medalbook_singapore/037_03.jpg",
+      "source_page": "https://www.medalbook.com/asia/singapore/medals-decorations/singapore-police-service-good-service-medal/singapore-police-service-good-service-medal-1",
+      "image_url": "https://www.medalbook.com/attachments/c3ac3ed7ad61d24c1f86ad89acada377461d5048/store/fit/528/348/234d760764c83262598b2bd54751ba9100c8fca72eccc85cdcb6f3c022bd/MedalSilver11b.jpg",
+      "artist": "MedalBook catalogue object photograph",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        163,
+        348
+      ],
+      "bytes": 64401,
+      "sha256": "1336df4921488070def20a773760fc76a8e65af926f79628bd9911406e3c1c04",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "excluded_candidates": [
+    {
+      "kind": "unpictured_object_pages",
+      "count": 65,
+      "reason": "目录有记录但未公开完整实物图；保留原始候选"
+    },
+    {
+      "kind": "duplicate_angles",
+      "count": 6,
+      "reason": "重复正面或局部角度未进入正文"
+    }
+  ]
+}

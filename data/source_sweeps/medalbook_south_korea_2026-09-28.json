@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "medalbook_south_korea",
+  "source_name": "MedalBook — South Korea complete public catalogue",
+  "seed_url": "https://www.medalbook.com/asia/korea/south-korea-1",
+  "status": "completed",
+  "planned_index_pages": 3,
+  "processed_index_pages": 3,
+  "index_page_candidate_counts": {
+    "https://www.medalbook.com/asia/korea/south-korea-1": 80,
+    "https://www.medalbook.com/asia/korea/south-korea/orders": 80,
+    "https://www.medalbook.com/asia/korea/south-korea/medals-decorations": 42
+  },
+  "discovered_item_pages": 122,
+  "processed_item_pages": 122,
+  "item_pages_with_images": 22,
+  "original_image_urls": 100,
+  "failed_pages": [],
+  "remaining_pages": 0,
+  "raw_candidate_file": "data/raw_candidates/medalbook_south_korea.jsonl",
+  "cache_directory": "sources/pages/medalbook_south_korea",
+  "completion_rule": "Every configured index/category page and every discovered South Korea object/version page were fetched."
+}

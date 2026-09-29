@@ -123,9 +123,9 @@
     },
     {
       "id": "OMB2-F8CB61842D8B",
-      "family": "OTT-SASHANELI",
+      "family": "OTT-RIFLE-SHOOTING",
       "country_zh": "奥斯曼帝国",
-      "name": "六膛线步枪射击纪念奖章",
+      "name": "六膛线步枪纪念奖章",
       "original": "Commemorative Medal of Sashaneli Tufek, in Gold",
       "date": "制度日期待考",
       "variant": "金质／金色版；完整实物图；商业目录图像，仅限本地研究",
@@ -348,7 +348,7 @@
       "name": "斯库台奖章",
       "original": "Medal for Scutari, 1831, IV Class",
       "date": "1831",
-      "variant": "四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-59242236CD35-FRONT",
@@ -363,9 +363,9 @@
     },
     {
       "id": "OMB2-89CC3C8A5087",
-      "family": "OTT-RUSSIAN-MISSION-1833",
+      "family": "OTT-HUNKAR-ISKELESI",
       "country_zh": "奥斯曼帝国",
-      "name": "俄国军事使团奖章",
+      "name": "许恩卡尔伊斯凯莱西条约纪念章",
       "original": "Medal for the Russian Military Mission, 1833, in Silver",
       "date": "1833",
       "variant": "银质／银色版；完整实物图；商业目录图像，仅限本地研究",
@@ -503,7 +503,7 @@
     },
     {
       "id": "OMB2-8DE12065D3BD",
-      "family": "OTT-SILISTRE",
+      "family": "OTT-SILISTRA",
       "country_zh": "奥斯曼帝国",
       "name": "锡利斯特拉奖章",
       "original": "Silistria Medal, 1854, in Silver",
@@ -528,7 +528,7 @@
       "name": "苏丹埃及战役奖章",
       "original": "Sultan's Medal for Egypt, 1801, II Class",
       "date": "1801",
-      "variant": "一等；二等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "二等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-694C988A893E-FRONT",
@@ -548,7 +548,7 @@
       "name": "苏丹埃及战役奖章",
       "original": "Sultan's Medal for Egypt, 1801, III Class",
       "date": "1801",
-      "variant": "一等；二等；三等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "三等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-85A806525456-FRONT",
@@ -568,7 +568,7 @@
       "name": "苏丹埃及战役奖章",
       "original": "Sultan's Medal for Egypt, 1801, IV Class",
       "date": "1801",
-      "variant": "四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-3FCF41030376-FRONT",
@@ -607,7 +607,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, I Class",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "文职组；一等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -627,7 +627,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, I Class Breast Star",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "文职组；一等；胸星；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -647,8 +647,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, II Class",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "文职组；二等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-73B2A01CCEE5-FRONT",
@@ -667,8 +667,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, II Class Breast Star",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；胸星；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "文职组；二等；胸星；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-C6E1C2F64CC8-FRONT",
@@ -687,8 +687,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, III Class",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；三等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "文职组；三等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-22144F526617-FRONT",
@@ -707,8 +707,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, IV Class",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "文职组；四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "文职组；四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-24EF2A2C8842-FRONT",
@@ -727,7 +727,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Civil Division, V Class",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "文职组；五等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -747,7 +747,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Military Division, I Class",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "军职组；一等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -767,7 +767,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Military Division, I Class Breast Star",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "军职组；一等；胸星；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -787,8 +787,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Military Division, III Class",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "军职组；一等；二等；三等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "军职组；三等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-A3901FF458CD-FRONT",
@@ -807,8 +807,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Military Division, IV Class",
-      "date": "1851年设立；图示版型时期待考",
-      "variant": "军职组；四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1852年设立；图示版型时期待考",
+      "variant": "军职组；四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-6E72A0CB03AF-FRONT",
@@ -827,7 +827,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "麦吉迪勋章",
       "original": "Order of Medjidjie, Military Division, V Class",
-      "date": "1851年设立；图示版型时期待考",
+      "date": "1852年设立；图示版型时期待考",
       "variant": "军职组；五等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -868,7 +868,7 @@
       "name": "伊夫蒂哈尔勋章",
       "original": "Order of Nishan El Iftihar, Civil Division, Foreign State VI Class Decoration",
       "date": "1852",
-      "variant": "文职组；一等；六等；外国外授型；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "文职组；六等；外国外授型；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-B4B5E8DD72E6-FRONT",
@@ -928,7 +928,7 @@
       "name": "慈善勋章",
       "original": "Order of Nishani-Shefkat, II Class",
       "date": "1878年设立；图示版型时期待考",
-      "variant": "一等；二等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "二等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-A9EEEE54A334-FRONT",
@@ -948,7 +948,7 @@
       "name": "慈善勋章",
       "original": "Order of Nishani-Shefkat, III Class",
       "date": "1878年设立；图示版型时期待考",
-      "variant": "一等；二等；三等；完整实物图；商业目录图像，仅限本地研究",
+      "variant": "三等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-FF4E4DBC2EF6-FRONT",
@@ -967,7 +967,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, I Class",
-      "date": "1862年设立；图示版型时期待考",
+      "date": "1861年设立；图示版型时期待考",
       "variant": "文职组；一等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -987,7 +987,7 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, I Class Breast Star",
-      "date": "1862年设立；图示版型时期待考",
+      "date": "1861年设立；图示版型时期待考",
       "variant": "文职组；一等；胸星；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
@@ -1007,8 +1007,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, II Class",
-      "date": "1862年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1861年设立；图示版型时期待考",
+      "variant": "文职组；二等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-86DD31058494-FRONT",
@@ -1027,8 +1027,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, II Class Breast Star",
-      "date": "1862年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；胸星；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1861年设立；图示版型时期待考",
+      "variant": "文职组；二等；胸星；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-38B25DC82AD3-FRONT",
@@ -1047,8 +1047,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, III Class",
-      "date": "1862年设立；图示版型时期待考",
-      "variant": "文职组；一等；二等；三等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1861年设立；图示版型时期待考",
+      "variant": "文职组；三等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-397A4DB27FC5-FRONT",
@@ -1067,8 +1067,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Civil Division, IV Class",
-      "date": "1862年设立；图示版型时期待考",
-      "variant": "文职组；四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1861年设立；图示版型时期待考",
+      "variant": "文职组；四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-EA282237625B-FRONT",
@@ -1087,8 +1087,8 @@
       "country_zh": "奥斯曼帝国",
       "name": "奥斯曼勋章",
       "original": "Order of Osmania, Military Division, IV Class",
-      "date": "1862年设立；图示版型时期待考",
-      "variant": "军职组；四等；五等；完整实物图；商业目录图像，仅限本地研究",
+      "date": "1861年设立；图示版型时期待考",
+      "variant": "军职组；四等；完整实物图；商业目录图像，仅限本地研究",
       "views": [
         {
           "key": "OMB2-1215A16CCA8C-FRONT",

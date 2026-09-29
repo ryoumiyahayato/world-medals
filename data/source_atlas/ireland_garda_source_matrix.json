@@ -1,0 +1,54 @@
+{
+  "source_atlas_id": "ireland_garda_source_matrix",
+  "as_of": "2026-09-29",
+  "scope": "爱尔兰国家警察正式勋奖章",
+  "sources": [
+    {
+      "id": "IE-GARDA-SCOTT-HISTORY",
+      "type": "official_national_police_history",
+      "language": "en",
+      "scope": "斯科特英勇奖章制度与形制",
+      "date_coverage": "1923—现行",
+      "image_capability": "单枚低清图",
+      "pagination": "none",
+      "download_method": "public page and direct image",
+      "priority": 1,
+      "status": "completed_visible_page",
+      "last_checked": "2026-09-29"
+    },
+    {
+      "id": "IE-GARDA-SCOTT-BOOKLET-2023",
+      "type": "official_ceremony_booklet",
+      "language": "en",
+      "scope": "斯科特奖章金银铜三级",
+      "date_coverage": "1923—2023",
+      "image_capability": "三级完整正面合照",
+      "pagination": "24-page PDF",
+      "download_method": "direct public PDF; embedded image extraction",
+      "priority": 1,
+      "status": "completed_relevant_booklet",
+      "last_checked": "2026-09-29"
+    },
+    {
+      "id": "IE-GARDA-OTHER-AWARDS",
+      "type": "official_national_police",
+      "language": "en/ga",
+      "scope": "国家警察其他正式奖章与长期服务奖励",
+      "date_coverage": "待扫",
+      "image_capability": "unknown",
+      "pagination": "unknown",
+      "download_method": "site and publications sweep pending",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-29"
+    }
+  ],
+  "counts": {
+    "planned": 3,
+    "completed": 2,
+    "partial": 0,
+    "blocked": 0,
+    "not_started": 1
+  },
+  "next_action": "穷尽国家警察其他正式奖章和服役奖励；与国防军官方整册结果合并为爱尔兰总卷。"
+}

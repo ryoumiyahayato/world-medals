@@ -1,0 +1,81 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "tkm-medalbook-hero-gold-shield",
+      "record_id": "TKM-MEDALBOOK-HERO-GOLD-SHIELD",
+      "view_key": "TKM-MEDALBOOK-HERO-GOLD-SHIELD-VIEW1",
+      "local_path": "assets/images/medalbook_turkmenistan/hero_gold_shield_star.jpg",
+      "source_page": "https://www.medalbook.com/middle-east/turkmenistan/orders/hero-of-turkmenistan/hero-of-turkmenistan-1",
+      "image_url": "https://www.medalbook.com/attachments/7fd937bcab0003069e9419529d4b2842fd310f40/store/fit/1000/750/96336874144402a68257a2319cce61a7e153b6c32b42487143002c724631/TM_Gold_star.jpg",
+      "artist": "MedalBook catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        478,
+        750
+      ],
+      "bytes": 92102,
+      "sha256": "ea5cfb5b36aa85b4144d3dc76a99432506dc85101684ec1eb27ac923b93ec0be",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medalbook-turkmenistan-6a0eeadcb186dce0",
+      "name": "Commemorative Medal 15 Years of Independence Military Parade",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/commemorative-medal-15-years-of-independence-military-parade/commemorative-medal-15-years-of-independence-military-parade-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-11e186f663082ac3",
+      "name": "Commemorative Medal for 15 Years of Turkmenistan Independence",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/commemorative-medal-for-15-years-of-turkmenistan-independence/commemorative-medal-for-15-years-of-turkmenistan-independence-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-bfea87efb1af9faa",
+      "name": "Honour Award of Saparmurat Turkmenbashi",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/honour-badge-of-saparmurat-turkmenbashi/honour-award-of-saparmurat-turkmenbashi-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-bcda3c68138ce4d9",
+      "name": "Jubilee Medal 10 Years of Turkmenistan Independence",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/jubilee-medal-10-years-of-turkmenistan-independence/jubilee-medal-10-years-of-turkmenistan-independence-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-ab8174ee54556efa",
+      "name": "Jubilee Medal 60 Anniversary of Victory in Great Patriotic War",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/jubilee-medal-60-anniversary-of-victory-in-great-patriotic-war/jubilee-medal-60-anniversary-of-victory-in-great-patriotic-war-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-84731b9b4cbd550a",
+      "name": "Makhtumkuli International Prize Award",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/makhtumkuli-international-prize-award/makhtumkuli-international-prize-award-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    },
+    {
+      "source_id": "medalbook-turkmenistan-aa82714cdda257ff",
+      "name": "Medal for Service to the State",
+      "date": "待考",
+      "page_url": "https://www.medalbook.com/middle-east/turkmenistan/medals-decorations/medal-for-service-to-the-state/medal-for-service-to-the-state-1",
+      "status": "完整目录有记录；当前来源无公开实物图"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "kind": "same_variant_lower_resolution_or_repeated_source_images",
+      "count": 6,
+      "reason": "其余图片与已入编版型相同或为同图低分辨率副本，未重复入编"
+    }
+  ]
+}

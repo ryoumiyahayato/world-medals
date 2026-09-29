@@ -1,0 +1,274 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "吉尔吉斯共和国 · ODM",
+  "records": [
+    {
+      "id": "KGZ-ODM-000-HERO",
+      "family": "KGZ-TITLE-HERO",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "吉尔吉斯共和国英雄",
+      "original": "Hero of the Kyrgyz Republic",
+      "date": "1996年4月16日设立",
+      "variant": "“白隼”特别标志",
+      "views": [
+        {
+          "key": "KGZ-ODM-000-HERO-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "KGZ-ODM-000-HERO-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-3db5a2f46c76a6b7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-001-MANAS-1",
+      "family": "KGZ-ORD-MANAS",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "玛纳斯勋章",
+      "original": "Order of Manas",
+      "date": "1996年4月16日设立",
+      "variant": "一级",
+      "views": [
+        {
+          "key": "KGZ-ODM-001-MANAS-1-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-523526055013dc54"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-001-MANAS-2",
+      "family": "KGZ-ORD-MANAS",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "玛纳斯勋章",
+      "original": "Order of Manas",
+      "date": "1996年4月16日设立",
+      "variant": "二级",
+      "views": [
+        {
+          "key": "KGZ-ODM-001-MANAS-2-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-523526055013dc54"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-001-MANAS-3",
+      "family": "KGZ-ORD-MANAS",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "玛纳斯勋章",
+      "original": "Order of Manas",
+      "date": "1996年4月16日设立",
+      "variant": "三级",
+      "views": [
+        {
+          "key": "KGZ-ODM-001-MANAS-3-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-523526055013dc54"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-002-KURMANJAN-DATKA",
+      "family": "KGZ-ORD-KURMANJAN-DATKA",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "库尔曼詹·达特卡勋章",
+      "original": "Order of Kurmanjan Datka",
+      "date": "2016年11月26日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "KGZ-ODM-002-KURMANJAN-DATKA-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-8ce0f55dafb36755"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-003-DANAKER",
+      "family": "KGZ-ORD-DANAKER",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "丹纳克尔（和平缔造者）勋章",
+      "original": "Order of the Peacemaker",
+      "date": "1999年11月12日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "KGZ-ODM-003-DANAKER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-5856f66573cab648"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-004-GLORY-ORDER",
+      "family": "KGZ-ORD-DANK",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "荣耀勋章",
+      "original": "Order of Glory",
+      "date": "2017年8月18日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "KGZ-ODM-004-GLORY-ORDER-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-f2f211efb7df468e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-005-FRIENDSHIP",
+      "family": "KGZ-ORD-DOSTUK",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "友谊勋章",
+      "original": "Order of Friendship",
+      "date": "2017年8月18日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "KGZ-ODM-005-FRIENDSHIP-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-b10aaf4d48c31588"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-006-MOTHER-HEROINE",
+      "family": "KGZ-ORD-MOTHER-HEROINE",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "英雄母亲勋章",
+      "original": "Order of Mother Heroine",
+      "date": "1996年4月16日设立",
+      "variant": "章饰",
+      "views": [
+        {
+          "key": "KGZ-ODM-006-MOTHER-HEROINE-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "KGZ-ODM-006-MOTHER-HEROINE-VIEW2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-a2c7947f3a3093d3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-008-GLORY-MEDAL",
+      "family": "KGZ-MED-DANK",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "荣耀奖章",
+      "original": "Medal of Courage",
+      "date": "1996年4月16日设立",
+      "variant": "奖章",
+      "views": [
+        {
+          "key": "KGZ-ODM-008-GLORY-MEDAL-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-f5cdb6f1b4191aaa"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-009-MOTHER-GLORY",
+      "family": "KGZ-MED-MOTHER-GLORY",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "母亲荣耀奖章",
+      "original": "Medal of Mother's Glory",
+      "date": "1996年4月16日设立",
+      "variant": "奖章",
+      "views": [
+        {
+          "key": "KGZ-ODM-009-MOTHER-GLORY-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-cb0a9dfc9677606d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-010-PEOPLE-TITLE-BADGE",
+      "family": "KGZ-BADGE-PEOPLES-HONORARY-TITLE",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "第一类“人民”荣誉称号徽章",
+      "original": "Badge for the first category \"People's\" honorary titles of the Kyrgyz Republic",
+      "date": "2017年6月28日设立",
+      "variant": "荣誉称号徽章",
+      "views": [
+        {
+          "key": "KGZ-ODM-010-PEOPLE-TITLE-BADGE-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-69a317a8543e7d33"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "KGZ-ODM-011-MERIT-TITLE-BADGE",
+      "family": "KGZ-BADGE-MERIT-HONORARY-TITLE",
+      "country_zh": "吉尔吉斯共和国",
+      "name": "“功勋”荣誉称号徽章",
+      "original": "Badge for the Honorary Title \"For Merit\" of the Kyrgyz Republic",
+      "date": "2017年6月28日设立",
+      "variant": "荣誉称号徽章",
+      "views": [
+        {
+          "key": "KGZ-ODM-011-MERIT-TITLE-BADGE-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals-org-kyrgyzstan-0ea5c87b72eb3ec3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

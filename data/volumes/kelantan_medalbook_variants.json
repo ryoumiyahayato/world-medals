@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "吉兰丹苏丹国",
+  "records": [
+    {
+      "id": "MYS-KELANTAN-CROWN-MEDALBOOK-303",
+      "family": "MYS-KELANTAN-CROWN",
+      "country_zh": "吉兰丹苏丹国",
+      "name": "吉兰丹王冠至显赫勋章",
+      "original": "Most Illustrious Order of the Crown of Kelantan, Knight Grand Commander Breast Star",
+      "date": "1916年设立",
+      "variant": "骑士大指挥官级星章",
+      "views": [
+        {
+          "key": "MYS-KELANTAN-CROWN-MEDALBOOK-303-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-1d9cbb6f3e660a5b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "MYS-KELANTAN-CROWN-MEDALBOOK-304",
+      "family": "MYS-KELANTAN-CROWN",
+      "country_zh": "吉兰丹苏丹国",
+      "name": "吉兰丹王冠至显赫勋章",
+      "original": "Most Illustrious Order of the Crown of Kelantan, Knight Grand Commander Collar",
+      "date": "1916年设立",
+      "variant": "骑士大指挥官级项链章",
+      "views": [
+        {
+          "key": "MYS-KELANTAN-CROWN-MEDALBOOK-304-VIEW1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-malaysia-4e578f0f2ea6cce0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

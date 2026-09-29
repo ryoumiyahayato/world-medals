@@ -1,0 +1,10 @@
+{
+  "source_id": "wikipedia-saudi_arabia-award-system",
+  "source_url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Saudi_Arabia",
+  "accessed": "2026-09-28",
+  "scope": "Complete current national honours list page, all award tables and lists excluding references and recipient lists.",
+  "status": "complete",
+  "raw_candidates": 33,
+  "cached_page": "sources/pages/wikipedia_awards/saudi_arabia.html",
+  "raw_output": "data/raw_candidates/wikipedia_saudi_arabia_award_system.jsonl"
+}

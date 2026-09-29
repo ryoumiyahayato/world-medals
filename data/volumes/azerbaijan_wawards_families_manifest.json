@@ -1,0 +1,859 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "aze-wa-hero_of_the_patriotic_war-representative-image",
+      "record_id": "AZE-WA-HERO_OF_THE_PATRIOTIC_WAR-REPRESENTATIVE",
+      "view_key": "AZE-WA-HERO_OF_THE_PATRIOTIC_WAR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/hero-of-the-patriotic-war.jpg",
+      "source_page": "https://wawards.org/azerbaijan/hero-of-the-patriotic-war.html",
+      "image_url": "https://wawards.org/images/azerbaijan/2/21.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48655,
+      "sha256": "bcc1f85b729e05342d90be44fd7a5dcbf27bca4cf007279ed249666740c0639b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-national_hero_of_azerbaijan-representative-image",
+      "record_id": "AZE-WA-NATIONAL_HERO_OF_AZERBAIJAN-REPRESENTATIVE",
+      "view_key": "AZE-WA-NATIONAL_HERO_OF_AZERBAIJAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/national-hero-of-azerbaijan.jpg",
+      "source_page": "https://wawards.org/azerbaijan/national-hero-of-azerbaijan.html",
+      "image_url": "https://wawards.org/images/azerbaijan/3/8.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56024,
+      "sha256": "aa1a6af7c5adc2d8c46bfa1bbb32d46a4c07529446c3bd16636f30d96b7fdd4f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-heydar_aliyev_order-representative-image",
+      "record_id": "AZE-WA-HEYDAR_ALIYEV_ORDER-REPRESENTATIVE",
+      "view_key": "AZE-WA-HEYDAR_ALIYEV_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/heydar-aliyev-order.jpg",
+      "source_page": "https://wawards.org/azerbaijan/heydar-aliyev-order.html",
+      "image_url": "https://wawards.org/images/azerbaijan/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63373,
+      "sha256": "17a932db23e8f214356c71d60d93e67b6a0bc18b2ea3d76cb843f8832f343f6d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-independence_order-representative-image",
+      "record_id": "AZE-WA-INDEPENDENCE_ORDER-REPRESENTATIVE",
+      "view_key": "AZE-WA-INDEPENDENCE_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/independence-order.jpg",
+      "source_page": "https://wawards.org/azerbaijan/independence-order.html",
+      "image_url": "https://wawards.org/images/azerbaijan/5/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56248,
+      "sha256": "f625631b947a67794acd05fc39fc67722bc9c822f7fb677c253f189e46072505",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-shah_ismail_order-representative-image",
+      "record_id": "AZE-WA-SHAH_ISMAIL_ORDER-REPRESENTATIVE",
+      "view_key": "AZE-WA-SHAH_ISMAIL_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/shah-ismail-order.jpg",
+      "source_page": "https://wawards.org/azerbaijan/shah-ismail-order.html",
+      "image_url": "https://wawards.org/images/azerbaijan/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64667,
+      "sha256": "ccc10dddd27e88de0a867000d32c4d19984ff78242782834de2410b7fc7f1ca4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_the_banner_of_azerbaijan-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_THE_BANNER_OF_AZERBAIJAN-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_THE_BANNER_OF_AZERBAIJAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-the-banner-of-azerbaijan.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-the-banner-of-azerbaijan.html",
+      "image_url": "https://wawards.org/images/azerbaijan/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52834,
+      "sha256": "d4955b43195bbcffde6dbd30a17671993c85168b569d3f3a2e5bc75ee8960735",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_honor-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_HONOR-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_HONOR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-honor.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-honor.html",
+      "image_url": "https://wawards.org/images/azerbaijan/7/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50021,
+      "sha256": "b3d3d7109230aacd289ff1e0dcb0221d1b4cf349fa0a7ec1ecaae2d905e489c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_glory-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_GLORY-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_GLORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-glory.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-glory.html",
+      "image_url": "https://wawards.org/images/azerbaijan/8/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60498,
+      "sha256": "fb9fdaefa95be8dc33994d2db9d8d42a897f44a600d010cc855856f1cd3b2451",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_friendship-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_FRIENDSHIP-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_FRIENDSHIP-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-friendship.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-friendship.html",
+      "image_url": "https://wawards.org/images/azerbaijan/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65607,
+      "sha256": "f23ff5963eb14be41ecbbbfb7e491ccb2674e5d7cbed5c5f782639c5158fb175",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_for_service_to_the_fatherland-representative-image",
+      "record_id": "AZE-WA-ORDER_FOR_SERVICE_TO_THE_FATHERLAND-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_FOR_SERVICE_TO_THE_FATHERLAND-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-for-service-to-the-fatherland.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-for-service-to-the-fatherland.html",
+      "image_url": "https://wawards.org/images/azerbaijan/10/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56463,
+      "sha256": "4f638cc55aa44eb520b94b6b9c3be7497d8b0de98f70530b3132f26d5cd7af02",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_labour-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_LABOUR-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_LABOUR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-labour.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-labour.html",
+      "image_url": "https://wawards.org/images/azerbaijan/11/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49328,
+      "sha256": "1c2a64e917165e90d5ae979715968d60fffd2b64cdb792722b36a9731f99fc8d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-order_of_victory-representative-image",
+      "record_id": "AZE-WA-ORDER_OF_VICTORY-REPRESENTATIVE",
+      "view_key": "AZE-WA-ORDER_OF_VICTORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/order-of-victory.jpg",
+      "source_page": "https://wawards.org/azerbaijan/order-of-victory.html",
+      "image_url": "https://wawards.org/images/azerbaijan/12/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42532,
+      "sha256": "a78fccdc7612cb02ce1dbdee3612b6072b66497ee3c5f049ddd1bf8abfb93dc0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-karabakh_order-representative-image",
+      "record_id": "AZE-WA-KARABAKH_ORDER-REPRESENTATIVE",
+      "view_key": "AZE-WA-KARABAKH_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/karabakh-order.jpg",
+      "source_page": "https://wawards.org/azerbaijan/karabakh-order.html",
+      "image_url": "https://wawards.org/images/azerbaijan/13/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57664,
+      "sha256": "a737c39d536f9277361c103459a64c6e68b5620f38500e3ca85b17d951b286c6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_the_motherland-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_THE_MOTHERLAND-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_THE_MOTHERLAND-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-the-motherland.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-the-motherland.html",
+      "image_url": "https://wawards.org/images/azerbaijan/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41070,
+      "sha256": "bf572780e8686dbf720263175be6a752e6ce6f1a05a5d23a952ea4ead44a1c1d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_courage-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_COURAGE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_COURAGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-courage.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-courage.html",
+      "image_url": "https://wawards.org/images/azerbaijan/15/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 75117,
+      "sha256": "28692b44b2275932faf321b3144b938a2c9e3d02a7d9e1475458c4f52136cccc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-progress_medal-representative-image",
+      "record_id": "AZE-WA-PROGRESS_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-PROGRESS_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/progress-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/progress-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/16/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 37890,
+      "sha256": "a7ea5321f291bc046e4332fff8211b9eb9b3d07ae8c011626b91db764a1b7e84",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_military_merit-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_MILITARY_MERIT-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_MILITARY_MERIT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-military-merit.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-military-merit.html",
+      "image_url": "https://wawards.org/images/azerbaijan/17/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45421,
+      "sha256": "ea49fcba20bccc802af1595c931f7f6105589f99f1a7849f81c1cec6d7f90b8b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_distinction_in_military_service-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_DISTINCTION_IN_MILITARY_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-distinction-in-military-service.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-distinction-in-military-service.html",
+      "image_url": "https://wawards.org/images/azerbaijan/18/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 37984,
+      "sha256": "1d1560f3ae711ec88ea4b2ec6dea20cfe7e56d5978563a1a76633f5437b63c87",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_bravery-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_BRAVERY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-bravery.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-bravery.html",
+      "image_url": "https://wawards.org/images/azerbaijan/25/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51031,
+      "sha256": "82637add824fbcce699b361a3e8fb13c5c13c2c0aff9e40843c8b8f3fa57ab36",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_distinguished_at_the_border-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_DISTINGUISHED_AT_THE_BORDER-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_DISTINGUISHED_AT_THE_BORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-distinguished-at-the-border.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-distinguished-at-the-border.html",
+      "image_url": "https://wawards.org/images/azerbaijan/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50224,
+      "sha256": "981dd89948350369db110b9ac47373f04eb93a8522cb81ae890318c32e682068",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_merits_in_military_cooperation-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_MERITS_IN_MILITARY_COOPERATION-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_MERITS_IN_MILITARY_COOPERATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-merits-in-military-cooperation.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-merits-in-military-cooperation.html",
+      "image_url": "https://wawards.org/images/azerbaijan/20/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53121,
+      "sha256": "ec2bffb5f3eacef9ba440fc72a786a4ecb5cc318b182727892b3b04777c07422",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-veteran_of_the_armed_forces_medal-representative-image",
+      "record_id": "AZE-WA-VETERAN_OF_THE_ARMED_FORCES_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-VETERAN_OF_THE_ARMED_FORCES_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/veteran-of-the-armed-forces-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/veteran-of-the-armed-forces-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/21/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36981,
+      "sha256": "b138757fea94a951ee6db95d177ec06a1671ec710a603f39f125d89621f32a8d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_meritorious_service-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_MERITORIOUS_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-meritorious-service.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-meritorious-service.html",
+      "image_url": "https://wawards.org/images/azerbaijan/22/7.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57292,
+      "sha256": "4a758accb53dd5d4350518cabe6b0dd9a47db768ff43c100d8ac94a457c7ba39",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_distinction_in_public_service-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_DISTINCTION_IN_PUBLIC_SERVICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_DISTINCTION_IN_PUBLIC_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-distinction-in-public-service.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-distinction-in-public-service.html",
+      "image_url": "https://wawards.org/images/azerbaijan/23/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 36902,
+      "sha256": "ffb0aca2420d0147bcd1b58695ef19346b73ac587a5054c37cc9734771729712",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_for_meritorious_service_in_the_internal_affairs-representative-image",
+      "record_id": "AZE-WA-MEDAL_FOR_MERITORIOUS_SERVICE_IN_THE_INTERNAL_AFFAIRS-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_FOR_MERITORIOUS_SERVICE_IN_THE_INTERNAL_AFFAIRS-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-for-meritorious-service-in-the-internal-affairs.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-for-meritorious-service-in-the-internal-affairs.html",
+      "image_url": "https://wawards.org/images/azerbaijan/24/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41093,
+      "sha256": "dfae72d542bbfcddad8c3947cc19dfbe93e8dc4f16164c24ec207587e71dabd7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-veteran_of_police_medal-representative-image",
+      "record_id": "AZE-WA-VETERAN_OF_POLICE_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-VETERAN_OF_POLICE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/veteran-of-police-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/veteran-of-police-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/47/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63870,
+      "sha256": "6da525f9eff9b67632b8541e71c442a5963f9e4efa1f0e79688b483eb99520f4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-honorary_titles_badge-representative-image",
+      "record_id": "AZE-WA-HONORARY_TITLES_BADGE-REPRESENTATIVE",
+      "view_key": "AZE-WA-HONORARY_TITLES_BADGE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/honorary-titles-badge.jpg",
+      "source_page": "https://wawards.org/azerbaijan/honorary-titles-badge.html",
+      "image_url": "https://wawards.org/images/azerbaijan/50/8.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 84563,
+      "sha256": "a821fbacbf80786391e3daa88469a13b3fec5bbb597f9f312f20f32d7f22c265",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_the_liberation_of_fuzuli_medal-representative-image",
+      "record_id": "AZE-WA-FOR_THE_LIBERATION_OF_FUZULI_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_THE_LIBERATION_OF_FUZULI_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-the-liberation-of-fuzuli-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-the-liberation-of-fuzuli-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/37/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71822,
+      "sha256": "c3d80c8bdfdd95fc79b902fa9062e8a166394868e244d1fecc97c2957bb43c4e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_the_liberation_of_kalbajar_medal-representative-image",
+      "record_id": "AZE-WA-FOR_THE_LIBERATION_OF_KALBAJAR_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_THE_LIBERATION_OF_KALBAJAR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-the-liberation-of-kalbajar-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-the-liberation-of-kalbajar-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/38/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 78759,
+      "sha256": "21fdaeb1ef94c8217d6b6a52fe025949d61c337bea6e2fabe254368c9c6ba7d0",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_the_liberation_of_khojavend_medal-representative-image",
+      "record_id": "AZE-WA-FOR_THE_LIBERATION_OF_KHOJAVEND_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_THE_LIBERATION_OF_KHOJAVEND_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-the-liberation-of-khojavend-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-the-liberation-of-khojavend-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/39/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 149803,
+      "sha256": "f5c0a29f741c17ba9baa0705a1a6f34f85fd3c4b54984b15380a5c983c017d52",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_the_liberation_of_shusha_medal-representative-image",
+      "record_id": "AZE-WA-FOR_THE_LIBERATION_OF_SHUSHA_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_THE_LIBERATION_OF_SHUSHA_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-the-liberation-of-shusha-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-the-liberation-of-shusha-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/40/6.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 94571,
+      "sha256": "0ccf45c14a43d47594f766abd4721047e5c315a6046cb5003cc604207aa522bf",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_the_liberation_of_sugovushan_medal-representative-image",
+      "record_id": "AZE-WA-FOR_THE_LIBERATION_OF_SUGOVUSHAN_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_THE_LIBERATION_OF_SUGOVUSHAN_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-the-liberation-of-sugovushan-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-the-liberation-of-sugovushan-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/41/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 164981,
+      "sha256": "d288a50f257338947e4ffe389618c6d86a0d63f0fc236e8372241565b5582195",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-for_distinction_in_battle_medal-representative-image",
+      "record_id": "AZE-WA-FOR_DISTINCTION_IN_BATTLE_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-FOR_DISTINCTION_IN_BATTLE_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/for-distinction-in-battle-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/for-distinction-in-battle-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/42/8.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55051,
+      "sha256": "a9f4e39c5328fa6c1c6dcd6c78420b2c8f3741428355746a0effa4ed44dc5d79",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-brave_warrior_medal-representative-image",
+      "record_id": "AZE-WA-BRAVE_WARRIOR_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-BRAVE_WARRIOR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/brave-warrior-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/brave-warrior-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/43/9.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52677,
+      "sha256": "cfa604140d3c7366a67599202c246c822642486e6e4f61e5eae4df0b953af536",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-participant_of_the_patriotic_war_medal-representative-image",
+      "record_id": "AZE-WA-PARTICIPANT_OF_THE_PATRIOTIC_WAR_MEDAL-REPRESENTATIVE",
+      "view_key": "AZE-WA-PARTICIPANT_OF_THE_PATRIOTIC_WAR_MEDAL-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/participant-of-the-patriotic-war-medal.jpg",
+      "source_page": "https://wawards.org/azerbaijan/participant-of-the-patriotic-war-medal.html",
+      "image_url": "https://wawards.org/images/azerbaijan/44/10.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 97975,
+      "sha256": "1c5055b821965535c638f3acfc94062fafd92a1022dd9eb3eae529eae5fe210f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_10th_anniversary_of_the_armed_forces-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_10TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-10th-anniversary-of-the-armed-forces.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-10th-anniversary-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/azerbaijan/26/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43492,
+      "sha256": "bf635b4743c1693bf6aba96185f268ddaedc956a5ba073ae3f197f350bf95537",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_20th_anniversary_of_the_special_state_protection_service-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_SPECIAL_STATE_PROTECTION_SERVICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_20TH_ANNIVERSARY_OF_THE_SPECIAL_STATE_PROTECTION_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-20th-anniversary-of-the-special-state-protection-service.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-20th-anniversary-of-the-special-state-protection-service.html",
+      "image_url": "https://wawards.org/images/azerbaijan/49/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50874,
+      "sha256": "a1c00ede12bffde5c436c27d10c41e6134fa5323e3eec4ec2119bc2e7589de69",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_90th_anniversary_of_the_armed_forces-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-90th-anniversary-of-the-armed-forces.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-90th-anniversary-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/azerbaijan/27/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60801,
+      "sha256": "478f96e896b558305bbbe5dd8249c07a2c66aeb1abc734234b5e58d7cb8e3b80",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_95th_anniversary_of_the_armed_forces-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_95TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_95TH_ANNIVERSARY_OF_THE_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-95th-anniversary-of-the-armed-forces.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-95th-anniversary-of-the-armed-forces.html",
+      "image_url": "https://wawards.org/images/azerbaijan/28/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 40647,
+      "sha256": "67ab0e73e50e0e8d4d6da3692a395bdbed121388e107121dd3737d96773e9285",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_the_azerbaijani_army-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_AZERBAIJANI_ARMY-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_AZERBAIJANI_ARMY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-the-azerbaijani-army.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-the-azerbaijani-army.html",
+      "image_url": "https://wawards.org/images/azerbaijan/29/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41146,
+      "sha256": "bd8534a271bc3e8243946ebcfe30ad37bd5c59bbaf911a601e8d55b32346baaa",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_the_azerbaijani_police-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_AZERBAIJANI_POLICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_AZERBAIJANI_POLICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-the-azerbaijani-police.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-the-azerbaijani-police.html",
+      "image_url": "https://wawards.org/images/azerbaijan/30/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52541,
+      "sha256": "39773de06092cf1712c233fbc3c271317f306ad5027be3ae2598aadae1b84fbe",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_azerbaijan_democratic_republic-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_AZERBAIJAN_DEMOCRATIC_REPUBLIC-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_AZERBAIJAN_DEMOCRATIC_REPUBLIC-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-azerbaijan-democratic-republic.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-azerbaijan-democratic-republic.html",
+      "image_url": "https://wawards.org/images/azerbaijan/31/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 37637,
+      "sha256": "8b0598a63389bf032ca92667007dc24c52d201f824ead887cf5bafc62f469d55",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_90th_anniversary_of_the_national_security_agency-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_NATIONAL_SECURITY_AGENCY-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_NATIONAL_SECURITY_AGENCY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-90th-anniversary-of-the-national-security-agency.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-90th-anniversary-of-the-national-security-agency.html",
+      "image_url": "https://wawards.org/images/azerbaijan/48/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58349,
+      "sha256": "6db6a6372843e04330d430688e5d38fe014f7451d73d817deb2aa9b503390971",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_state_security_agency-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_STATE_SECURITY_AGENCY-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_STATE_SECURITY_AGENCY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-state-security-agency.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-state-security-agency.html",
+      "image_url": "https://wawards.org/images/azerbaijan/32/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51382,
+      "sha256": "6b77edd9626c00908b77961c2707a011cd26eb148b3bdbf8a25f653908af5c81",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_the_diplomatic_service-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_DIPLOMATIC_SERVICE-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_DIPLOMATIC_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-the-diplomatic-service.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-the-diplomatic-service.html",
+      "image_url": "https://wawards.org/images/azerbaijan/33/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52205,
+      "sha256": "bae262a9745d9c056eef90bbd8acfc323a47000ec0984103ea903096e64894ec",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-medal_100th_anniversary_of_the_baku_state_university-representative-image",
+      "record_id": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_BAKU_STATE_UNIVERSITY-REPRESENTATIVE",
+      "view_key": "AZE-WA-MEDAL_100TH_ANNIVERSARY_OF_THE_BAKU_STATE_UNIVERSITY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/medal-100th-anniversary-of-the-baku-state-university.jpg",
+      "source_page": "https://wawards.org/azerbaijan/medal-100th-anniversary-of-the-baku-state-university.html",
+      "image_url": "https://wawards.org/images/azerbaijan/34/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 37613,
+      "sha256": "e9fe83856a8e5c2eb90ab1eb563445c541ca549268c24f10424e336e3ead4ecc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_70_years_of_victory_in_the_great_patriotic_war-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_70_YEARS_OF_VICTORY_IN_THE_GREAT_PATRIOTIC_WAR-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_70_YEARS_OF_VICTORY_IN_THE_GREAT_PATRIOTIC_WAR-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-70-years-of-victory-in-the-great-patriotic-war.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-70-years-of-victory-in-the-great-patriotic-war.html",
+      "image_url": "https://wawards.org/images/azerbaijan/35/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62384,
+      "sha256": "6085bce420bed058adec63bc2ffa09ce9788e972bc27241b4fde98cdd19b1029",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_100_years_of_heydar_aliyev-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_100_YEARS_OF_HEYDAR_ALIYEV-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_100_YEARS_OF_HEYDAR_ALIYEV-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-100-years-of-heydar-aliyev.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-100-years-of-heydar-aliyev.html",
+      "image_url": "https://wawards.org/images/azerbaijan/36/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59046,
+      "sha256": "f8554df57cd482a8b5b6c879391ea1a451927dc8922836600fd8b0cc93bedc82",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_90th_anniversary_of_the_border_guard-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_BORDER_GUARD-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_90TH_ANNIVERSARY_OF_THE_BORDER_GUARD-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-90th-anniversary-of-the-border-guard.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-90th-anniversary-of-the-border-guard.html",
+      "image_url": "https://wawards.org/images/azerbaijan/45/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59750,
+      "sha256": "2e36ee595877d258a344f9dbfb3cf6e1355f1db3a7e821c4f500de3120815843",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aze-wa-jubilee_medal_100th_anniversary_of_the_border_guard-representative-image",
+      "record_id": "AZE-WA-JUBILEE_MEDAL_100TH_ANNIVERSARY_OF_THE_BORDER_GUARD-REPRESENTATIVE",
+      "view_key": "AZE-WA-JUBILEE_MEDAL_100TH_ANNIVERSARY_OF_THE_BORDER_GUARD-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/azerbaijan_wawards_families/jubilee-medal-100th-anniversary-of-the-border-guard.jpg",
+      "source_page": "https://wawards.org/azerbaijan/jubilee-medal-100th-anniversary-of-the-border-guard.html",
+      "image_url": "https://wawards.org/images/azerbaijan/46/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66542,
+      "sha256": "1ee1b968daf2b1b9c8108791ab06d0bbb924e7c43daa9668ff21a5dbd602d560",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "Known duplicate legacy rows are excluded by site_build; unique liberation and honorary-title variants remain retained."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_id": "wawards-qatar",
+  "source_file": "sources/books/qatar/wawards_qatar.pdf",
+  "accessed": "2026-09-28",
+  "scope": "Complete PDF, every linked award page and every exposed full-size image.",
+  "status": "complete",
+  "pdf_pages": 8,
+  "planned_object_pages": 24,
+  "processed_object_pages": 24,
+  "downloaded_images": 66,
+  "failures": [],
+  "raw_output": "data/raw_candidates/wawards_qatar.jsonl"
+}

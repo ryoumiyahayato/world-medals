@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Philippines historical governments and Republic",
+  "status": "medalbook_source_completed",
+  "source_coverage": {"configured_index_pages": 4, "object_pages": 134, "exposed_images": 88, "downloaded_images": 88, "failures": 0},
+  "formal_output": {"rows": 21, "families": 14, "views": 38, "awarding_subjects": ["菲律宾共和国", "菲律宾群岛政府（1901–1935）"]},
+  "excluded": ["1904 St. Louis World’s Fair souvenir medal — related object, not a formal Philippine award", "UN Service Medal for Korea — United Nations awarding authority, not Philippines"],
+  "unpictured_candidates": 111,
+  "visual_review": "Four contact sheets reviewed; selected views preserve complete award bodies. No ribbon-only image admitted.",
+  "next_action": "Official Gazette/Honors Code differential, followed by Commons image differential."
+}

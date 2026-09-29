@@ -1,0 +1,398 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "kaz-odm-000-people-hero-02",
+      "record_id": "KAZ-ODM-000-PEOPLE-HERO",
+      "view_key": "KAZ-ODM-000-PEOPLE-HERO-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/000_people-hero_02.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan001.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan001.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        114,
+        250
+      ],
+      "bytes": 8199,
+      "sha256": "d983736dc0b7375ce5ff6d0b8f0affe19ebf3bf725f158cb34d8ed24b9b066b4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-001-golden-eagle-02",
+      "record_id": "KAZ-ODM-001-GOLDEN-EAGLE",
+      "view_key": "KAZ-ODM-001-GOLDEN-EAGLE-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/001_golden-eagle_02.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan002.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan003.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        155,
+        250
+      ],
+      "bytes": 16751,
+      "sha256": "699430a2ff8a6e993300abcfb6b54bacf9e7763f6270b99a2e2986c58324465c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-001-golden-eagle-03",
+      "record_id": "KAZ-ODM-001-GOLDEN-EAGLE",
+      "view_key": "KAZ-ODM-001-GOLDEN-EAGLE-VIEW2",
+      "local_path": "assets/images/medals_org_kazakhstan/001_golden-eagle_03.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan002.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan004.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        249,
+        250
+      ],
+      "bytes": 25087,
+      "sha256": "fc500b8336205b363c53c85f307f73e1025a8ea2bab8a4b6534e5ac159bb834a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-002-fatherland-01",
+      "record_id": "KAZ-ODM-002-FATHERLAND",
+      "view_key": "KAZ-ODM-002-FATHERLAND-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/002_fatherland_01.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan003.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan006.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        108,
+        250
+      ],
+      "bytes": 9995,
+      "sha256": "c8e24464cdfd6cac22c0a1028d7696890c8c0913fdf81c3f42efd5cb9ed51f75",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-004-glory-1-badge-01",
+      "record_id": "KAZ-ODM-004-GLORY-1-BADGE",
+      "view_key": "KAZ-ODM-004-GLORY-1-BADGE-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/004_glory-1-badge_01.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan005.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan007.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        232,
+        250
+      ],
+      "bytes": 21918,
+      "sha256": "9de24a39574ff23f2b9059b3b2dd9bda95ac203291d1317202d2c0144d9851c8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-004-glory-1-star-02",
+      "record_id": "KAZ-ODM-004-GLORY-1-STAR",
+      "view_key": "KAZ-ODM-004-GLORY-1-STAR-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/004_glory-1-star_02.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan005.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan008.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        238,
+        250
+      ],
+      "bytes": 20027,
+      "sha256": "6906f3dad7dc2da4c35175deb981d845bef0fc97f1f0c983c72c2849bb68b7d4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-004-glory-2-03",
+      "record_id": "KAZ-ODM-004-GLORY-2",
+      "view_key": "KAZ-ODM-004-GLORY-2-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/004_glory-2_03.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan005.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan009.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        130,
+        250
+      ],
+      "bytes": 10613,
+      "sha256": "87dbb32b8a4be69208d2953341d01ad52e456cd6dbd2a0392a3e81d60c3c8586",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-005-valour-1-01",
+      "record_id": "KAZ-ODM-005-VALOUR-1",
+      "view_key": "KAZ-ODM-005-VALOUR-1-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/005_valour-1_01.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan006.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan010.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        130,
+        250
+      ],
+      "bytes": 11679,
+      "sha256": "27b067bac819feab18a15b32e9893e972b4ecb82f8e01148bc8861ebfd349c95",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-005-valour-2-02",
+      "record_id": "KAZ-ODM-005-VALOUR-2",
+      "view_key": "KAZ-ODM-005-VALOUR-2-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/005_valour-2_02.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan006.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan011.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        138,
+        250
+      ],
+      "bytes": 11701,
+      "sha256": "1d694b2edc01d610813462d5672534b4be575fcaf889ac51aaccf205c0b3d0ce",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-005-valour-3-03",
+      "record_id": "KAZ-ODM-005-VALOUR-3",
+      "view_key": "KAZ-ODM-005-VALOUR-3-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/005_valour-3_03.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan006.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan012.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        124,
+        250
+      ],
+      "bytes": 10703,
+      "sha256": "f99d4c7d805459f459c3ae2da5f505852050db2a7435da9805eddba7b9a64e28",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-006-nobility-01",
+      "record_id": "KAZ-ODM-006-NOBILITY",
+      "view_key": "KAZ-ODM-006-NOBILITY-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/006_nobility_01.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan007.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan013.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        117,
+        250
+      ],
+      "bytes": 9941,
+      "sha256": "a215ab00c367b471771a732e175179e3babf7c65293c57490a6eb27361ef612b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "kaz-odm-007-friendship-01",
+      "record_id": "KAZ-ODM-007-FRIENDSHIP",
+      "view_key": "KAZ-ODM-007-FRIENDSHIP-VIEW1",
+      "local_path": "assets/images/medals_org_kazakhstan/007_friendship_01.jpg",
+      "source_page": "https://www.medals.org.uk/kazakhstan/kazakhstan008.htm",
+      "image_url": "https://www.medals.org.uk/kazakhstan/images/kazakhstan014.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        236,
+        250
+      ],
+      "bytes": 21890,
+      "sha256": "6d353d59d0b71b54f82337c3df12c23c65621cc2691f06f19ce80a15a0bdfa34",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medals-org-kazakhstan-5151c66d06584228",
+      "name": "Order of the First President of the Republic of Kazakhstan Nursultan Nazarayev",
+      "date": "30 May 2001.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan004.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-468215eddea41d87",
+      "name": "Order of Honour",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan009.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-edd8f3cd39ead170",
+      "name": "Order of the Panther",
+      "date": "1999.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan010.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-b6b9f70138920498",
+      "name": "Honoured Worker of Kazakhstan",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan011.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-40fb458362b9f34e",
+      "name": "Space Pilot of Kazakhstan",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan012.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-df5388438d360183",
+      "name": "Gold Pendant",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan013.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-edc3e7b1eeac9cbb",
+      "name": "Silver Pendant",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan014.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-17c9e5cf6e6cf67b",
+      "name": "Medal for Courage",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan015.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-1b5933ee19910683",
+      "name": "Medal for Military Valour",
+      "date": "1995.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan016.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-8044b58f4bfccec9",
+      "name": "Medal for Labour Merit",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan017.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-6730158675c49e8f",
+      "name": "Medal for 10 Years of Independence of the Republic of Kazakhstan",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan018.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-f1a1190eef617770",
+      "name": "Medal for Mercy",
+      "date": "1993.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan019.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-e038e6feb9feb501",
+      "name": "Armed Forces Meritorious Service Medal",
+      "date": "2002.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan020.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-129b8fe176ff6f41",
+      "name": "Fire Services Meritorious Service Medal",
+      "date": "5 June 2006.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan021.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-41eee7a126e54419",
+      "name": "Jubilee Medal 10 Years of the Constitution of Kazakhstan",
+      "date": "20 April 2005.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan022.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-158bd07a10673bed",
+      "name": "Jubilee Medal 10 years of the Parliament of the Republic of Kazakhstan",
+      "date": "7 November 2005.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan023.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-b713ad4c009998d4",
+      "name": "Jubilee Medal 60 Years of Victory in the Great Patriotic War",
+      "date": "14 September 2004.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan024.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-c80d7c6c609122d2",
+      "name": "Jubilee Medal 10 Years of the Armed Forces of Kazakhstan",
+      "date": "2002.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan025.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-f148cc4178dd0adc",
+      "name": "Jubilee Medal 10 Years of the city of Astana",
+      "date": "6 May 2008.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan026.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-67583f384e9cfdc4",
+      "name": "Jubilee Medal 50 Years of the Development of Virgin Soil",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan027.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-a1c69da26451ab65",
+      "name": "Medal for Distinction in the Protection of the State Borders",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan028.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-934435ec0689bb60",
+      "name": "Medal for Distinguished Labor in the Ministry of Internal Affairs",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan029.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-0d67fb801ac60580",
+      "name": "Medal for the Development of International Military Cooperation",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan030.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-kazakhstan-51e81d502aa3d167",
+      "name": "Medal Veteran of the Interior Ministry",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/kazakhstan/kazakhstan031.htm",
+      "status": "有记载未配完整章体图"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "kind": "ribbon_only",
+      "count": 2,
+      "reason": "绶带图不作为章体图示"
+    }
+  ]
+}

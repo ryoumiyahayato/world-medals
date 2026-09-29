@@ -1,0 +1,1342 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及 · MedalBook 等级与版型",
+  "records": [
+    {
+      "id": "EGY-MB-082",
+      "family": "EGY-COLLAR-OF-FOUAD-I",
+      "country_zh": "埃及",
+      "name": "福阿德一世项链勋饰",
+      "original": "Collar of Fouad I, Collar",
+      "date": "1936—1954年",
+      "variant": "项链；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-082-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-993d61aae48daffe"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-086",
+      "family": "EGY-ORDER-OF-AGRICULTURE",
+      "country_zh": "埃及",
+      "name": "农业勋章",
+      "original": "Order of Agriculture, Commander, I Class",
+      "date": "1932—1954年",
+      "variant": "一等指挥官级；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-086-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-086-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-32536209be41e05f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-090",
+      "family": "EGY-ORDER-OF-ARTS-AND-SCIENCES",
+      "country_zh": "埃及",
+      "name": "艺术与科学勋章",
+      "original": "Order of Arts and Sciences, Commander",
+      "date": "1953年设立",
+      "variant": "指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-090-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-090-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-d065b8c0c6c59561"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-091",
+      "family": "EGY-ORDER-OF-ARTS-AND-SCIENCES",
+      "country_zh": "埃及",
+      "name": "艺术与科学勋章",
+      "original": "Orders of Arts and Science, Officer",
+      "date": "1953年设立",
+      "variant": "军官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-091-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-091-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-fc98cfae2ae5ed66"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-092",
+      "family": "EGY-ORDER-OF-CULTURE",
+      "country_zh": "埃及",
+      "name": "文化勋章",
+      "original": "Order of Culture, Commander, I Class",
+      "date": "1932—1953年",
+      "variant": "一等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-092-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-092-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-02c9a2760b9b2c1c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-098",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type I, III Class",
+      "date": "1915—1953年型",
+      "variant": "第一型三等；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-098-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-f8149f9183a8090a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-099",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type I, Supreme Class",
+      "date": "1915—1953年型",
+      "variant": "第一型最高等绶章；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-099-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-96a6c28b165e0423"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-100",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type I, Supreme Class Breast Star",
+      "date": "1915—1953年型",
+      "variant": "第一型最高等星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-100-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-100-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-d37e3b8e97e4d373"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-101",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type II, I Class",
+      "date": "1953年后型",
+      "variant": "第二型一等；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-101-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-101-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-5204fdd2b87c50d1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-103",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type II, II Class",
+      "date": "1953年后型",
+      "variant": "第二型二等；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-103-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-a50dedbe72be6df7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-104",
+      "family": "MENA7-ORDER-OF-THE-VIRTUES",
+      "country_zh": "埃及",
+      "name": "阿尔卡迈勒勋章（美德勋章）",
+      "original": "Order of Al Kamal/ Order of Virtues, Type II, III Class",
+      "date": "1953年后型",
+      "variant": "第二型三等；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-104-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-104-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-03276ff6ae2008be"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-119",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Istiklal/ Order of Independence, Grand Cross Badge, I Class",
+      "date": "1955—1965年",
+      "variant": "一等大十字绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-119-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-119-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7e7e981325f6c4af"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-120",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Istiklal/ Order of Independence, Grand Cross Breast Star, I Class",
+      "date": "1955—1965年",
+      "variant": "一等大十字星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-120-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-120-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7d06f1c52ad4da32"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-121",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Istiklal/Order of Independence, Breast Star, II Class",
+      "date": "1955—1965年",
+      "variant": "二等星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-121-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-121-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-baea601564778630"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-123",
+      "family": "MENA7-ORDER-OF-INDEPENDENCE-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及独立勋章",
+      "original": "Order of Istiklal/Order of Independence, Officer, II Class",
+      "date": "1955—1965年",
+      "variant": "二等军官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-123-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-123-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-376e6933ca27068c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-127",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type I, Commander",
+      "date": "1953—1972年型",
+      "variant": "第一型指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-127-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-127-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-257cf17eee966540"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-128",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type I, Grand Cordon",
+      "date": "1953—1972年型",
+      "variant": "第一型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-128-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-128-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-bee087d0d380194f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-129",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type I, Grand Cordon Breast Star",
+      "date": "1953—1972年型",
+      "variant": "第一型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-129-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-129-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ba27c571a58e174e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-131",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type I, Grand Officer Breast Star",
+      "date": "1953—1972年型",
+      "variant": "第一型大官级星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-131-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-131-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ccb9eb1fa61dc0db"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-134",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Commander",
+      "date": "1972年后型",
+      "variant": "第二型指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-134-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-134-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-e74f7f7f669d366c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-135",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Grand Cordon",
+      "date": "1972年后型",
+      "variant": "第二型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-135-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-135-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-a40f7153d2190475"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-136",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Grand Cordon Breast Star",
+      "date": "1972年后型",
+      "variant": "第二型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-136-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-136-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7d6e37d72933a05b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-137",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Grand Officer",
+      "date": "1972年后型",
+      "variant": "第二型大官级绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-137-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-137-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-9203207e6701808d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-138",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Grand Officer Breast Star",
+      "date": "1972年后型",
+      "variant": "第二型大官级星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-138-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-138-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-f5cf947ff023069c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-139",
+      "family": "MENA7-ORDER-OF-MERIT-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及功绩勋章",
+      "original": "Order of Merit, Type II, Knight",
+      "date": "1972年后型",
+      "variant": "第二型骑士级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-139-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-139-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7cb349a2e24cc66b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-148",
+      "family": "EGY-ORDER-OF-SPORTS",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sports, Badge, II Class",
+      "date": "1954年设立",
+      "variant": "二等章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-148-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-148-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-d8c31aa84a0c01dd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-149",
+      "family": "EGY-ORDER-OF-SPORTS",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sports, Commander, I Class",
+      "date": "1954年设立",
+      "variant": "一等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-149-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-149-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-bce4577a02b850fa"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-150",
+      "family": "EGY-ORDER-OF-SPORTS",
+      "country_zh": "埃及",
+      "name": "体育勋章",
+      "original": "Order of Sports, Kight, III Class",
+      "date": "1954年设立",
+      "variant": "三等骑士级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-150-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-150-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-5cea78977d8a0ed1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-152",
+      "family": "EGY-MILITARY-STAR-OF-KING-FOUAD-I",
+      "country_zh": "埃及",
+      "name": "福阿德一世国王军事星章",
+      "original": "Order of the Military Star of King Fouad I, Medal",
+      "date": "1919年设立；1922年改称",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-152-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-152-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-3ce0342371acb79c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-153",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Commander",
+      "date": "1915—1926年型",
+      "variant": "第一型指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-153-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-153-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-a3b4054e2462ab93"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-154",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Grand Cordon",
+      "date": "1915—1926年型",
+      "variant": "第一型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-154-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-154-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-787f8b54514c4c9e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-155",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Grand Cordon Breast Star",
+      "date": "1915—1926年型",
+      "variant": "第一型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-155-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-155-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-49e47ad124b98585"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-156",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Grand Officer",
+      "date": "1915—1926年型",
+      "variant": "第一型大官级绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-156-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-156-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-c170df19afab3dab"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-157",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Grand Officer Breast Star",
+      "date": "1915—1926年型",
+      "variant": "第一型大官级星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-157-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-157-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7e3bc2a915ddc253"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-158",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type I, Knight",
+      "date": "1915—1926年型",
+      "variant": "第一型骑士级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-158-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-158-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ad7541bc5e684e5e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-162",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Commander",
+      "date": "1926—1953年型",
+      "variant": "第二型指挥官级；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-162-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-33627b3f53eb709a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-163",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Grand Cordon",
+      "date": "1926—1953年型",
+      "variant": "第二型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-163-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-163-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7e9b32c3019cd9f1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-164",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Grand Cordon Breast Star",
+      "date": "1926—1953年型",
+      "variant": "第二型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-164-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-164-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-48d72524c9499412"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-165",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Grand Officer",
+      "date": "1926—1953年型",
+      "variant": "第二型大官级绶章；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-165-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-42b9027e346e3ca7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-166",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Grand Officer Breast Star",
+      "date": "1926—1953年型",
+      "variant": "第二型大官级星章；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-166-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-e46e11d24ccaf7aa"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-168",
+      "family": "MENA7-ORDER-OF-THE-NILE",
+      "country_zh": "埃及",
+      "name": "尼罗河勋章",
+      "original": "Order of the Nile, Type II, Officer",
+      "date": "1926—1953年型",
+      "variant": "第二型军官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-168-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-168-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-f7c65e1fa260ea96"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-170",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Commander",
+      "date": "1953—1972年型",
+      "variant": "第一型指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-170-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-170-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ab91bc2c7a1de86a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-171",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Grand Cordon",
+      "date": "1953—1972年型",
+      "variant": "第一型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-171-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-171-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-736e78ed8dd78ffb"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-172",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Grand Cordon Breast Star",
+      "date": "1953—1972年型",
+      "variant": "第一型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-172-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-172-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-468a1e9d118aab0d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-174",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Grand Officer Breast Star",
+      "date": "1953—1972年型",
+      "variant": "第一型大官级星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-174-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-174-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-bc108ac4c25513c4"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-175",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Knight",
+      "date": "1953—1972年型",
+      "variant": "第一型骑士级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-175-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-175-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ee1d9053ec8c16c3"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-176",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type I, Officer",
+      "date": "1953—1972年型",
+      "variant": "第一型军官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-176-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-176-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-aecb7231c08a9f6f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-178",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type II, Commander",
+      "date": "1972年后型",
+      "variant": "第二型指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-178-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-178-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-9748b493f7282285"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-179",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type II, Grand Cordon",
+      "date": "1972年后型",
+      "variant": "第二型大绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-179-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-179-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-4ac72d2be94cdebc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-180",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type II, Grand Cordon Breast Star",
+      "date": "1972年后型",
+      "variant": "第二型大绶星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-180-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-180-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-da9c6602cfd4a275"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-181",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type II, Grand Officer",
+      "date": "1972年后型",
+      "variant": "第二型大官级绶章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-181-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-181-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-33cb753257579a15"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-182",
+      "family": "MENA7-ORDER-OF-THE-REPUBLIC-EGYPT",
+      "country_zh": "埃及",
+      "name": "埃及共和国勋章",
+      "original": "Order of the Republic, Type II, Grand Officer Breast Star",
+      "date": "1972年后型",
+      "variant": "第二型大官级星章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-182-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-182-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7a161e10b0bd56c2"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-185",
+      "family": "EGY-ORDER-OF-THE-SINAI-STAR",
+      "country_zh": "埃及",
+      "name": "西奈之星勋章",
+      "original": "Order of the Sinai Star, I Class",
+      "date": "1972年设立",
+      "variant": "一等；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-185-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-185-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-0497d1b1a15ede8f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-186",
+      "family": "EGY-ORDER-OF-THE-SINAI-STAR",
+      "country_zh": "埃及",
+      "name": "西奈之星勋章",
+      "original": "Order of the Sinai Star, II Class",
+      "date": "1972年设立",
+      "variant": "二等；完整正面",
+      "views": [
+        {
+          "key": "EGY-MB-186-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-b5b2f97cdc5390ac"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-188",
+      "family": "EGY-ORDER-OF-TRADE-AND-INDUSTRY",
+      "country_zh": "埃及",
+      "name": "工商勋章",
+      "original": "Order of Trade and Industry, Type I, Commander, I Class",
+      "date": "1932—1954年",
+      "variant": "第一型一等指挥官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-188-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-188-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-ef7e59d58c02f792"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-193",
+      "family": "EGY-ORDER-OF-TRADE-AND-INDUSTRY",
+      "country_zh": "埃及",
+      "name": "工商勋章",
+      "original": "Order of Trade and Industry, Type II, Officer, II Class",
+      "date": "1932—1954年",
+      "variant": "第二型二等军官级；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-193-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-193-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-2c540f83654b3e90"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MB-194",
+      "family": "EGY-UNION-ORDER-UAR",
+      "country_zh": "埃及",
+      "name": "阿拉伯联合共和国联合勋章",
+      "original": "Union Order of the United Arab Republic",
+      "date": "1958—1961年",
+      "variant": "章；完整正反面",
+      "views": [
+        {
+          "key": "EGY-MB-194-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MB-194-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-egypt-7a8be8b0c086ada7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

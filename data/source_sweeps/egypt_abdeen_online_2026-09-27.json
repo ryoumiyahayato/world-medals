@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.0",
+  "source_id": "egypt_abdeen_medals_museum",
+  "scope_id": "egypt",
+  "as_of": "2026-09-27",
+  "status": "partial_printed_catalogue_not_located",
+  "online_pages_processed": [
+    "https://www.presidency.eg/en/القصور-الرئاسية/قصر-عابدين/",
+    "https://www.presidency.eg/en/الرئاسة/متحف-مقتنيات-الرئيس/"
+  ],
+  "online_result": "The official pages confirm the museum, its 1928 creation and a medals/decorations collection assembled from royal holdings, gifts and acquisitions. They provide no named object records, object pagination or catalogue download.",
+  "secondary_discovery": {
+    "url": "https://ijhms.journals.ekb.eg/article_119030_6057c2211b4156ad1f6e8d923dc043b2.pdf",
+    "finding": "An academic museum study names printed catalogues including 'Abdeen Palace Museums' and 'Selections of Abdeen Palace Museums'.",
+    "status": "catalogue_titles_discovered_not_acquired"
+  },
+  "candidate_records": 0,
+  "formal_rows_added": 0,
+  "exclusion_note": "Generic gallery photographs are not object-level evidence and were not used to create or illustrate award rows.",
+  "next_action": "Locate the named printed catalogues through library or archive holdings and sweep their medal sections if accessible."
+}

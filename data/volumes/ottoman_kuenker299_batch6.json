@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国：Künker 299专题拍卖差集第六批",
+  "records": [
+    {
+      "id": "OK299-7382",
+      "family": "OTT-CANAKKALE-AGRICULTURE-1918",
+      "country_zh": "奥斯曼帝国",
+      "name": "恰纳卡莱农业展览奖章",
+      "original": "Çanakkale Zirâat Sergisi Madalyası",
+      "date": "1918",
+      "variant": "青铜级；重度佩戴；无环无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7382-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7382-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7382"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7406",
+      "family": "OTT-WILHELM-II-VISIT-1917",
+      "country_zh": "奥斯曼帝国",
+      "name": "德皇威廉二世访问君士坦丁堡纪念章",
+      "original": "Alman Mülâkat Madalyası",
+      "date": "1917",
+      "variant": "官方银级；64.8毫米；非佩戴式；边缘铭文；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7406-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7406-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7406"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

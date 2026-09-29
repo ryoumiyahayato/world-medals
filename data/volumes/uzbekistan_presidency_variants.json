@@ -1,0 +1,46 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "乌兹别克斯坦共和国 · 总统府国家奖励",
+  "records": [
+    {
+      "id": "UZB-PRES-001-MEHNAT-SHUHRATI",
+      "family": "UZB-ORD-MEHNAT-SHUHRATI",
+      "country_zh": "乌兹别克斯坦",
+      "name": "劳动荣誉勋章",
+      "original": "Mehnat shuhrati",
+      "date": "1995年8月31日设立",
+      "variant": "总统府官方展示版",
+      "views": [
+        {
+          "key": "UZB-PRES-001-MEHNAT-SHUHRATI-VIEW1",
+          "label": "官方完整正面"
+        }
+      ],
+      "source_ids": [
+        "uzbekistan-presidency-mehnat-shuhrati"
+      ],
+      "image_kind": "official_object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "UZB-PRES-002-FIDOKORONA-XIZMATLARI-UCHUN",
+      "family": "UZB-ORD-FIDOKORONA-XIZMATLARI-UCHUN",
+      "country_zh": "乌兹别克斯坦",
+      "name": "无私服务勋章",
+      "original": "Fidokorona xizmatlari uchun",
+      "date": "设立日期待考",
+      "variant": "总统府官方展示版",
+      "views": [
+        {
+          "key": "UZB-PRES-002-FIDOKORONA-XIZMATLARI-UCHUN-VIEW1",
+          "label": "官方完整正面"
+        }
+      ],
+      "source_ids": [
+        "uzbekistan-presidency-fidokorona-xizmatlari-uchun"
+      ],
+      "image_kind": "official_object_photo",
+      "html_eligible": true
+    }
+  ]
+}

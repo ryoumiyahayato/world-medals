@@ -1,0 +1,242 @@
+[
+  {
+    "n": 1,
+    "file_id": "csk-csk_wl_collar",
+    "candidate_id": "CSK-WL-COLLAR",
+    "rel": "assets/images/czech_slovak_fast/csk-wl-collar.jpg"
+  },
+  {
+    "n": 2,
+    "file_id": "csk-csk_wl_swords",
+    "candidate_id": "CSK-WL-SWORDS",
+    "rel": "assets/images/czech_slovak_fast/csk-wl-swords.jpg"
+  },
+  {
+    "n": 3,
+    "file_id": "csk-csk_falcon",
+    "candidate_id": "CSK-FALCON",
+    "rel": "assets/images/czech_slovak_fast/csk-falcon.jpg"
+  },
+  {
+    "n": 4,
+    "file_id": "csk-csk_war_cross_1918",
+    "candidate_id": "CSK-WAR-CROSS-1918",
+    "rel": "assets/images/czech_slovak_fast/csk-war-cross-1918.jpg"
+  },
+  {
+    "n": 5,
+    "file_id": "csk-csk_war_cross_1939",
+    "candidate_id": "CSK-WAR-CROSS-1939",
+    "rel": "assets/images/czech_slovak_fast/csk-war-cross-1939.png"
+  },
+  {
+    "n": 6,
+    "file_id": "csk-csk_bravery_enemy",
+    "candidate_id": "CSK-BRAVERY-ENEMY",
+    "rel": "assets/images/czech_slovak_fast/csk-bravery-enemy.jpg"
+  },
+  {
+    "n": 7,
+    "file_id": "csk-csk_mil_order_liberty",
+    "candidate_id": "CSK-MIL-ORDER-LIBERTY",
+    "rel": "assets/images/czech_slovak_fast/csk-mil-order-liberty.jpg"
+  },
+  {
+    "n": 8,
+    "file_id": "csk-csk_wl_victory_star",
+    "candidate_id": "CSK-WL-VICTORY-STAR",
+    "rel": "assets/images/czech_slovak_fast/csk-wl-victory-star.jpg"
+  },
+  {
+    "n": 9,
+    "file_id": "csk-cssr_gold_star_hero",
+    "candidate_id": "CSSR-GOLD-STAR-HERO",
+    "rel": "assets/images/czech_slovak_fast/cssr-gold-star-hero.png"
+  },
+  {
+    "n": 10,
+    "file_id": "csk-cssr_klement_gottwald",
+    "candidate_id": "CSSR-KLEMENT-GOTTWALD",
+    "rel": "assets/images/czech_slovak_fast/cssr-klement-gottwald.jpg"
+  },
+  {
+    "n": 11,
+    "file_id": "csk-cssr_friendship",
+    "candidate_id": "CSSR-FRIENDSHIP",
+    "rel": "assets/images/czech_slovak_fast/cssr-friendship.png"
+  },
+  {
+    "n": 12,
+    "file_id": "csk-cssr_labour_order",
+    "candidate_id": "CSSR-LABOUR-ORDER",
+    "rel": "assets/images/czech_slovak_fast/cssr-labour-order.png"
+  },
+  {
+    "n": 13,
+    "file_id": "csk-cssr_slovak_uprising_ii",
+    "candidate_id": "CSSR-SLOVAK-UPRISING-II",
+    "rel": "assets/images/czech_slovak_fast/cssr-slovak-uprising-ii.jpg"
+  },
+  {
+    "n": 14,
+    "file_id": "csk-cssr_slovak_uprising_ii_back",
+    "candidate_id": "CSSR-SLOVAK-UPRISING-II-BACK",
+    "rel": "assets/images/czech_slovak_fast/cssr-slovak-uprising-ii-back.jpg"
+  },
+  {
+    "n": 15,
+    "file_id": "csk-cssr_victorious_february",
+    "candidate_id": "CSSR-VICTORIOUS-FEBRUARY",
+    "rel": "assets/images/czech_slovak_fast/cssr-victorious-february.jpg"
+  },
+  {
+    "n": 16,
+    "file_id": "csk-cssr_socialism",
+    "candidate_id": "CSSR-SOCIALISM",
+    "rel": "assets/images/czech_slovak_fast/cssr-socialism.jpg"
+  },
+  {
+    "n": 17,
+    "file_id": "csk-cssr_red_banner",
+    "candidate_id": "CSSR-RED-BANNER",
+    "rel": "assets/images/czech_slovak_fast/cssr-red-banner.png"
+  },
+  {
+    "n": 18,
+    "file_id": "csk-cssr_red_star",
+    "candidate_id": "CSSR-RED-STAR",
+    "rel": "assets/images/czech_slovak_fast/cssr-red-star.png"
+  },
+  {
+    "n": 19,
+    "file_id": "csk-cssr_red_banner_labour",
+    "candidate_id": "CSSR-RED-BANNER-LABOUR",
+    "rel": "assets/images/czech_slovak_fast/cssr-red-banner-labour.jpg"
+  },
+  {
+    "n": 20,
+    "file_id": "csk-cssr_red_star_labour",
+    "candidate_id": "CSSR-RED-STAR-LABOUR",
+    "rel": "assets/images/czech_slovak_fast/cssr-red-star-labour.jpg"
+  },
+  {
+    "n": 21,
+    "file_id": "csk-cssr_devotion_work",
+    "candidate_id": "CSSR-DEVOTION-WORK",
+    "rel": "assets/images/czech_slovak_fast/cssr-devotion-work.jpg"
+  },
+  {
+    "n": 22,
+    "file_id": "csk-cssr_loyal_work",
+    "candidate_id": "CSSR-LOYAL-WORK",
+    "rel": "assets/images/czech_slovak_fast/cssr-loyal-work.jpg"
+  },
+  {
+    "n": 23,
+    "file_id": "csk-cssr_comenius",
+    "candidate_id": "CSSR-COMENIUS",
+    "rel": "assets/images/czech_slovak_fast/cssr-comenius.png"
+  },
+  {
+    "n": 24,
+    "file_id": "csk-cssr_army_merit_i",
+    "candidate_id": "CSSR-ARMY-MERIT-I",
+    "rel": "assets/images/czech_slovak_fast/cssr-army-merit-i.png"
+  },
+  {
+    "n": 25,
+    "file_id": "csk-cssr_army_merit_ii",
+    "candidate_id": "CSSR-ARMY-MERIT-II",
+    "rel": "assets/images/czech_slovak_fast/cssr-army-merit-ii.png"
+  },
+  {
+    "n": 26,
+    "file_id": "csk-cssr_army_merit_iii",
+    "candidate_id": "CSSR-ARMY-MERIT-III",
+    "rel": "assets/images/czech_slovak_fast/cssr-army-merit-iii.png"
+  },
+  {
+    "n": 27,
+    "file_id": "csk-csk_bachmac",
+    "candidate_id": "CSK-BACHMAC",
+    "rel": "assets/images/czech_slovak_fast/csk-bachmac.jpg"
+  },
+  {
+    "n": 28,
+    "file_id": "csk-csk_sokolov",
+    "candidate_id": "CSK-SOKOLOV",
+    "rel": "assets/images/czech_slovak_fast/csk-sokolov.jpg"
+  },
+  {
+    "n": 29,
+    "file_id": "csk-csk_snp_commemorative",
+    "candidate_id": "CSK-SNP-COMMEMORATIVE",
+    "rel": "assets/images/czech_slovak_fast/csk-snp-commemorative.jpg"
+  },
+  {
+    "n": 30,
+    "file_id": "csk-cze_heroism",
+    "candidate_id": "CZE-HEROISM",
+    "rel": "assets/images/czech_slovak_fast/cze-heroism.jpg"
+  },
+  {
+    "n": 31,
+    "file_id": "csk-cze_mod_gold_linden",
+    "candidate_id": "CZE-MOD-GOLD-LINDEN",
+    "rel": "assets/images/czech_slovak_fast/cze-mod-gold-linden.jpg"
+  },
+  {
+    "n": 32,
+    "file_id": "csk-cze_mod_injury",
+    "candidate_id": "CZE-MOD-INJURY",
+    "rel": "assets/images/czech_slovak_fast/cze-mod-injury.jpg"
+  },
+  {
+    "n": 33,
+    "file_id": "csk-cze_artis",
+    "candidate_id": "CZE-ARTIS",
+    "rel": "assets/images/czech_slovak_fast/cze-artis.jpg"
+  },
+  {
+    "n": 34,
+    "file_id": "csk-cze_diplomacy_en",
+    "candidate_id": "CZE-DIPLOMACY-EN",
+    "rel": "assets/images/czech_slovak_fast/cze-diplomacy-en.jpg"
+  },
+  {
+    "n": 35,
+    "file_id": "csk-svk_hlinka_i",
+    "candidate_id": "SVK-HLINKA-I",
+    "rel": "assets/images/czech_slovak_fast/svk-hlinka-i.jpg"
+  },
+  {
+    "n": 36,
+    "file_id": "csk-svk_pribina_ii",
+    "candidate_id": "SVK-PRIBINA-II",
+    "rel": "assets/images/czech_slovak_fast/svk-pribina-ii.jpg"
+  },
+  {
+    "n": 37,
+    "file_id": "csk-svk_pribina_iii",
+    "candidate_id": "SVK-PRIBINA-III",
+    "rel": "assets/images/czech_slovak_fast/svk-pribina-iii.jpg"
+  },
+  {
+    "n": 38,
+    "file_id": "csk-svk1939_defence_march",
+    "candidate_id": "SVK1939-DEFENCE-MARCH",
+    "rel": "assets/images/czech_slovak_fast/svk1939-defence-march.jpg"
+  },
+  {
+    "n": 39,
+    "file_id": "csk-svk1939_ww_cross_i",
+    "candidate_id": "SVK1939-WW-CROSS-I",
+    "rel": "assets/images/czech_slovak_fast/svk1939-ww-cross-i.jpg"
+  },
+  {
+    "n": 40,
+    "file_id": "csk-svk1939_resistance_i",
+    "candidate_id": "SVK1939-RESISTANCE-I",
+    "rel": "assets/images/czech_slovak_fast/svk1939-resistance-i.jpg"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "myanmar_burma_historical",
+  "scope_label": "Myanmar/Burma historical and modern award systems",
+  "sources": [
+    {
+      "source_id": "medalbook_myanmar",
+      "source_name": "MedalBook — Myanmar/Burma catalogue",
+      "base_url": "https://www.medalbook.com/asia/myanmar/",
+      "source_type": "specialist_directory",
+      "languages": ["en"],
+      "content_coverage": "Three master pages plus complete orders and medals/decorations category roots",
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "complete_indexes_then_object_pages_and_original_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "167/167 object or grade pages and 9/9 exposed images processed without failures; two identified formal rows retained under separate Konbaung and post-independence awarding subjects; one unidentified prototype excluded.",
+      "candidate_file": "data/raw_candidates/medalbook_myanmar.jsonl",
+      "sweep_file": "data/source_sweeps/medalbook_myanmar_2026-09-28.json",
+      "image_sweep_file": "data/source_sweeps/medalbook_myanmar_images_2026-09-28.json"
+    },
+    {
+      "source_id": "commons_myanmar",
+      "source_name": "Wikimedia Commons — Myanmar award category tree",
+      "base_url": "https://commons.wikimedia.org/wiki/Category:Orders,_decorations_and_medals_of_Myanmar",
+      "source_type": "open_media_category_tree",
+      "languages": ["mul"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "mediawiki_api_recursive_tree",
+      "priority": 1,
+      "status": "partial",
+      "last_checked": "2026-09-28",
+      "coverage_result": "21/21 discovered categories and 113 file pages inventoried; 9 raster files cached and visually reviewed after Commons thumbnail recovery; 3 image requests remain unresolved. Rank insignia, wearer photographs and ribbon-only files were excluded; the Thudhamma Thingaha image is a modern user-drawn sample and was retained only as discovery evidence.",
+      "candidate_file": "data/raw_candidates/commons_myanmar.jsonl",
+      "sweep_file": "data/source_sweeps/commons_myanmar_2026-09-28.json"
+    },
+    {
+      "source_id": "myanmar_official_gazette_and_honours",
+      "source_name": "Myanmar government gazette and official honours notices",
+      "source_type": "official_gazette_and_award_notices",
+      "languages": ["my", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "gazette_issue_and_official_notice_sweep",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 3, "completed": 1, "partial": 1, "blocked": 0, "not_started": 1},
+  "next_action": "Resolve only the three remaining Commons image failures, then sweep official honours notices and gazette issues against the 164 unpictured MedalBook candidates."
+}

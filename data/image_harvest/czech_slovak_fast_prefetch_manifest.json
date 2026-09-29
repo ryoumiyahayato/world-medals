@@ -1,0 +1,352 @@
+﻿{
+    "schema":  "commons-prefetch-v1",
+    "batch_id":  "czech_slovak_fast_2026-09-28",
+    "accessed":  "2026-09-28",
+    "metadata_file":  "data/image_harvest/czech_slovak_fast_commons_metadata.json",
+    "downloaded":  [
+                       {
+                           "file":  "Gold Star Hero CSSR.png",
+                           "path":  "C:\\Users\\agcrf\\Desktop\\world-medals\\assets\\images\\czech_slovak_fast\\gold_star_hero_cssr_png.png",
+                           "bytes":  36028,
+                           "width":  99,
+                           "height":  190,
+                           "mime":  "image/png",
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gold_Star_Hero_CSSR.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                           "retrieval_url":  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gold_Star_Hero_CSSR.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                           "source_kind":  "Commons original route",
+                           "original_route_status":  "HTTP 200",
+                           "descriptionurl":  "https://commons.wikimedia.org/wiki/File:Gold_Star_Hero_CSSR.png",
+                           "reused":  true
+                       },
+                       {
+                           "file":  "ComeniusMedal1953 1.png",
+                           "path":  "C:\\Users\\agcrf\\Desktop\\world-medals\\assets\\images\\czech_slovak_fast\\comeniusmedal1953_1_png.png",
+                           "bytes":  21401,
+                           "width":  88,
+                           "height":  88,
+                           "mime":  "image/png",
+                           "url":  "https://upload.wikimedia.org/wikipedia/commons/6/61/ComeniusMedal1953_1.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                           "retrieval_url":  "https://upload.wikimedia.org/wikipedia/commons/6/61/ComeniusMedal1953_1.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                           "source_kind":  "Commons original route",
+                           "original_route_status":  "HTTP 200",
+                           "descriptionurl":  "https://commons.wikimedia.org/wiki/File:ComeniusMedal1953_1.png",
+                           "reused":  true
+                       }
+                   ],
+    "failed":  [
+                   {
+                       "file":  "Order of the White Lion grand cross collar (Czechoslovakia 1922-1948) - Tallinn Museum of Orders.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/6/68/Order_of_the_White_Lion_grand_cross_collar_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Order_of_the_White_Lion_grand_cross_collar_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg/2000px-Order_of_the_White_Lion_grand_cross_collar_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg"
+                   },
+                   {
+                       "file":  "Order of the White Lion grand cross with swords badge (Czechoslovakia 1922-1948) - Tallinn Museum of Orders.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Order_of_the_White_Lion_grand_cross_with_swords_badge_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Order_of_the_White_Lion_grand_cross_with_swords_badge_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg/2000px-Order_of_the_White_Lion_grand_cross_with_swords_badge_%28Czechoslovakia_1922-1948%29_-_Tallinn_Museum_of_Orders.jpg"
+                   },
+                   {
+                       "file":  "Falconorder.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Falconorder.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Falconorder.jpg/2000px-Falconorder.jpg"
+                   },
+                   {
+                       "file":  "Czechoslovak War Cross 1918.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/2/2d/Czechoslovak_War_Cross_1918.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Czechoslovak_War_Cross_1918.jpg/2000px-Czechoslovak_War_Cross_1918.jpg"
+                   },
+                   {
+                       "file":  "Czechoslovak War Cross 1939-1945.PNG",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/6/61/Czechoslovak_War_Cross_1939-1945.PNG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Czechoslovak_War_Cross_1939-1945.PNG/2000px-Czechoslovak_War_Cross_1939-1945.PNG"
+                   },
+                   {
+                       "file":  "Czechoslovak Medal for Bravery before the Enemy.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Czechoslovak_Medal_for_Bravery_before_the_Enemy.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Czechoslovak_Medal_for_Bravery_before_the_Enemy.jpg/2000px-Czechoslovak_Medal_for_Bravery_before_the_Enemy.jpg"
+                   },
+                   {
+                       "file":  "Czechoslovak Military Order for Liberty.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/2/23/Czechoslovak_Military_Order_for_Liberty.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Czechoslovak_Military_Order_for_Liberty.jpg/2000px-Czechoslovak_Military_Order_for_Liberty.jpg"
+                   },
+                   {
+                       "file":  "Ster van de Militaire Orde van de Witte Leeuw voor de Overwinning 1945.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ster_van_de_Militaire_Orde_van_de_Witte_Leeuw_voor_de_Overwinning_1945.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ster_van_de_Militaire_Orde_van_de_Witte_Leeuw_voor_de_Overwinning_1945.jpg/2000px-Ster_van_de_Militaire_Orde_van_de_Witte_Leeuw_voor_de_Overwinning_1945.jpg"
+                   },
+                   {
+                       "file":  "Order of Klement Gottwald badge obverse (Czechoslovakia 1955-1960) - Tallinn Museum of Orders.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Order_of_Klement_Gottwald_badge_obverse_%28Czechoslovakia_1955-1960%29_-_Tallinn_Museum_of_Orders.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Order_of_Klement_Gottwald_badge_obverse_%28Czechoslovakia_1955-1960%29_-_Tallinn_Museum_of_Orders.jpg/2000px-Order_of_Klement_Gottwald_badge_obverse_%28Czechoslovakia_1955-1960%29_-_Tallinn_Museum_of_Orders.jpg"
+                   },
+                   {
+                       "file":  "Order of Friendship (CSSR) 1.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Order_of_Friendship_%28CSSR%29_1.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Order_of_Friendship_%28CSSR%29_1.png/2000px-Order_of_Friendship_%28CSSR%29_1.png"
+                   },
+                   {
+                       "file":  "Order of Labor (CSSR).png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/e/eb/Order_of_Labor_%28CSSR%29.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Order_of_Labor_%28CSSR%29.png/2000px-Order_of_Labor_%28CSSR%29.png"
+                   },
+                   {
+                       "file":  "Order of the Slovak National Uprising 2 kl.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/9/94/Order_of_the_Slovak_National_Uprising_2_kl.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Order_of_the_Slovak_National_Uprising_2_kl.jpg/2000px-Order_of_the_Slovak_National_Uprising_2_kl.jpg"
+                   },
+                   {
+                       "file":  "Order of the Slovak National Uprising 2 kl rev.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Order_of_the_Slovak_National_Uprising_2_kl_rev.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Order_of_the_Slovak_National_Uprising_2_kl_rev.jpg/2000px-Order_of_the_Slovak_National_Uprising_2_kl_rev.jpg"
+                   },
+                   {
+                       "file":  "Order victory in February.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Order_victory_in_February.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Order_victory_in_February.jpg/2000px-Order_victory_in_February.jpg"
+                   },
+                   {
+                       "file":  "Rad socialismu avers.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rad_socialismu_avers.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rad_socialismu_avers.jpg/2000px-Rad_socialismu_avers.jpg"
+                   },
+                   {
+                       "file":  "Red Banner CSSR.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/d/db/Red_Banner_CSSR.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Red_Banner_CSSR.png/2000px-Red_Banner_CSSR.png"
+                   },
+                   {
+                       "file":  "Red star CSSR.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Red_star_CSSR.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Red_star_CSSR.png/2000px-Red_star_CSSR.png"
+                   },
+                   {
+                       "file":  "Order of the Red Banner of Labour.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Order_of_the_Red_Banner_of_Labour.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Order_of_the_Red_Banner_of_Labour.jpg/2000px-Order_of_the_Red_Banner_of_Labour.jpg"
+                   },
+                   {
+                       "file":  "Order of the Red Star of Labour.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/6/69/Order_of_the_Red_Star_of_Labour.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Order_of_the_Red_Star_of_Labour.jpg/2000px-Order_of_the_Red_Star_of_Labour.jpg"
+                   },
+                   {
+                       "file":  "Decoration for Devotion to Work.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/4/41/Decoration_for_Devotion_to_Work.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Decoration_for_Devotion_to_Work.jpg/2000px-Decoration_for_Devotion_to_Work.jpg"
+                   },
+                   {
+                       "file":  "Decoration for Loyal Work.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/2/24/Decoration_for_Loyal_Work.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Decoration_for_Loyal_Work.jpg/2000px-Decoration_for_Loyal_Work.jpg"
+                   },
+                   {
+                       "file":  "艠谩d budov谩n铆 socialistick茅 vlasti.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "CZ Medal Za zasluhy o CSLA 1kl.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/8/8d/CZ_Medal_Za_zasluhy_o_CSLA_1kl.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CZ_Medal_Za_zasluhy_o_CSLA_1kl.png/2000px-CZ_Medal_Za_zasluhy_o_CSLA_1kl.png"
+                   },
+                   {
+                       "file":  "CZ Medal Za zasluhy o CSLA 2kl.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/9/93/CZ_Medal_Za_zasluhy_o_CSLA_2kl.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CZ_Medal_Za_zasluhy_o_CSLA_2kl.png/2000px-CZ_Medal_Za_zasluhy_o_CSLA_2kl.png"
+                   },
+                   {
+                       "file":  "CZ Medal Za zasluhy o CSLA 3kl.png",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/CZ_Medal_Za_zasluhy_o_CSLA_3kl.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CZ_Medal_Za_zasluhy_o_CSLA_3kl.png/2000px-CZ_Medal_Za_zasluhy_o_CSLA_3kl.png"
+                   },
+                   {
+                       "file":  "Bachmac Commemorative Medal.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/4/41/Bachmac_Commemorative_Medal.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bachmac_Commemorative_Medal.jpg/2000px-Bachmac_Commemorative_Medal.jpg"
+                   },
+                   {
+                       "file":  "Sokolov medal.JPG",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sokolov_medal.JPG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sokolov_medal.JPG/2000px-Sokolov_medal.JPG"
+                   },
+                   {
+                       "file":  "Pamatna medaila Radu Slovenskeho narodneho povstania averz.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/1/18/Pamatna_medaila_Radu_Slovenskeho_narodneho_povstania_averz.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pamatna_medaila_Radu_Slovenskeho_narodneho_povstania_averz.jpg/2000px-Pamatna_medaila_Radu_Slovenskeho_narodneho_povstania_averz.jpg"
+                   },
+                   {
+                       "file":  "B铆l媒 lev.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "艠谩d masaryka.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Tapferkeitsmedaille der Tschechischen Republik.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Tapferkeitsmedaille_der_Tschechischen_Republik.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tapferkeitsmedaille_der_Tschechischen_Republik.jpg/2000px-Tapferkeitsmedaille_der_Tschechischen_Republik.jpg"
+                   },
+                   {
+                       "file":  "Medaile Za z谩sluhy 1. stupn臎.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Z谩slu啪n媒 k艡铆啪 ministra obrany.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Golden Linden Decoration the Ministry of Defence of the Czech Republic.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Golden_Linden_Decoration_the_Ministry_of_Defence_of_the_Czech_Republic.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Golden_Linden_Decoration_the_Ministry_of_Defence_of_the_Czech_Republic.jpg/2000px-Golden_Linden_Decoration_the_Ministry_of_Defence_of_the_Czech_Republic.jpg"
+                   },
+                   {
+                       "file":  "K艡铆啪 obrany st谩tu ministra obrany 膶esk茅 republiky.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Medailezazraneni.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Medailezazraneni.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Medailezazraneni.jpg/2000px-Medailezazraneni.jpg"
+                   },
+                   {
+                       "file":  "Medaile M艩MT avers.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Medaile M艩MT revers.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Artis Bohemiae Amicis.JPG",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/3/3f/Artis_Bohemiae_Amicis.JPG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Artis_Bohemiae_Amicis.JPG/2000px-Artis_Bohemiae_Amicis.JPG"
+                   },
+                   {
+                       "file":  "Medaile ministra zahrani膷n铆ch v臎c铆 Za z谩sluhy o diplomacii set.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Distinguished Contribution to Diplomacy Medal.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Distinguished_Contribution_to_Diplomacy_Medal.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Distinguished_Contribution_to_Diplomacy_Medal.jpg/2000px-Distinguished_Contribution_to_Diplomacy_Medal.jpg"
+                   },
+                   {
+                       "file":  "Biely dvojkr铆啪 1. triedy vojensk茅ho druhu.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Rad Andreja Hlinku 1- triedy.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rad_Andreja_Hlinku_1-_triedy.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rad_Andreja_Hlinku_1-_triedy.jpg/2000px-Rad_Andreja_Hlinku_1-_triedy.jpg"
+                   },
+                   {
+                       "file":  "Rad 慕udov铆ta 艩t煤ra 1. triedy vojensk茅ho druhu.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Kr铆啪 Milana Rastislava 艩tef谩nika.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Pribinov kr铆啪 1. triedy.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Pribinov kriz 2 triedy.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pribinov_kriz_2_triedy.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pribinov_kriz_2_triedy.jpg/2000px-Pribinov_kriz_2_triedy.jpg"
+                   },
+                   {
+                       "file":  "Pribinov kriz 3 triedy.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/3/33/Pribinov_kriz_3_triedy.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pribinov_kriz_3_triedy.jpg/2000px-Pribinov_kriz_3_triedy.jpg"
+                   },
+                   {
+                       "file":  "Rad Slovensk茅ho n谩rodn茅ho povstania 1. triedy.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Medaila za z谩sluhy o slovensk煤 diplomaciu.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Medaila za z谩sluhy o slovensk煤 diplomaciu D谩mska.jpg",
+                       "status":  "Commons API file not found"
+                   },
+                   {
+                       "file":  "Pamatna medaila Za obranu Slovenska v marci 1939.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pamatna_medaila_Za_obranu_Slovenska_v_marci_1939.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pamatna_medaila_Za_obranu_Slovenska_v_marci_1939.jpg/2000px-Pamatna_medaila_Za_obranu_Slovenska_v_marci_1939.jpg"
+                   },
+                   {
+                       "file":  "Pamatny kriz svetovej vojny 1 stupna.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pamatny_kriz_svetovej_vojny_1_stupna.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pamatny_kriz_svetovej_vojny_1_stupna.jpg/2000px-Pamatny_kriz_svetovej_vojny_1_stupna.jpg"
+                   },
+                   {
+                       "file":  "Bronzovy pozlateny Kriz svetovej vojny 2 stupna Slovenskej republiky 1939 az 1944.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bronzovy_pozlateny_Kriz_svetovej_vojny_2_stupna_Slovenskej_republiky_1939_az_1944.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bronzovy_pozlateny_Kriz_svetovej_vojny_2_stupna_Slovenskej_republiky_1939_az_1944.jpg/2000px-Bronzovy_pozlateny_Kriz_svetovej_vojny_2_stupna_Slovenskej_republiky_1939_az_1944.jpg"
+                   },
+                   {
+                       "file":  "Kriz odboja 1 stupna vojnovej Slovenskej republiky.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kriz_odboja_1_stupna_vojnovej_Slovenskej_republiky.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kriz_odboja_1_stupna_vojnovej_Slovenskej_republiky.jpg/2000px-Kriz_odboja_1_stupna_vojnovej_Slovenskej_republiky.jpg"
+                   },
+                   {
+                       "file":  "Vojenska medaila Za zasluhy rok 1940.jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/6/61/Vojenska_medaila_Za_zasluhy_rok_1940.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vojenska_medaila_Za_zasluhy_rok_1940.jpg/2000px-Vojenska_medaila_Za_zasluhy_rok_1940.jpg"
+                   },
+                   {
+                       "file":  "Vojenske vyznamenanie Za hrdinstvo 2 stupna (1940).jpg",
+                       "status":  "远程服务器返回错误: (400) 错误的请求。",
+                       "original_url":  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vojenske_vyznamenanie_Za_hrdinstvo_2_stupna_%281940%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                       "thumbnail_url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vojenske_vyznamenanie_Za_hrdinstvo_2_stupna_%281940%29.jpg/2000px-Vojenske_vyznamenanie_Za_hrdinstvo_2_stupna_%281940%29.jpg"
+                   }
+               ],
+    "requested":  59,
+    "metadata_count":  43,
+    "downloaded_count":  2,
+    "failed_count":  57
+}

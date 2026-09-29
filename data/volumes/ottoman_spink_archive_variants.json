@@ -1,0 +1,84 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国 Spink 档案版型",
+  "records": [
+    {
+      "id": "OTT-SPINK-26001-374-LIFESAVING-RIBAND-BAR",
+      "family": "OTT-LIFESAVING",
+      "country_zh": "奥斯曼帝国",
+      "name": "救生奖章",
+      "original": "Tahlîs-i Can / Life Saving Medal",
+      "date": "1859–1860",
+      "variant": "原绿色绶带及横扣佩带型；完整正反面合图",
+      "views": [{"key": "OTT-SPINK-26001-374-V1", "label": "完整正反面合图"}],
+      "source_ids": ["spink-archive-26001000374"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SPINK-26111-719-MEDJIDIE-III-84MM",
+      "family": "OTT-MEDJ",
+      "country_zh": "奥斯曼帝国",
+      "name": "麦吉迪勋章",
+      "original": "Mecidiye / Order of the Medjidie",
+      "date": "1852年设立",
+      "variant": "三等颈章；84×64毫米；金、银及珐琅；原颈绶；完整正面",
+      "views": [{"key": "OTT-SPINK-26111-719-V1", "label": "完整正面"}],
+      "source_ids": ["spink-archive-26111000719"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SPINK-26113-750-MEDJIDIE-III-TURKISH",
+      "family": "OTT-MEDJ",
+      "country_zh": "奥斯曼帝国",
+      "name": "麦吉迪勋章",
+      "original": "Mecidiye / Order of the Medjidie",
+      "date": "1852年设立",
+      "variant": "三等颈章；80×61毫米；土耳其制造；金、银及珐琅；完整正背面",
+      "views": [{"key": "OTT-SPINK-26113-750-FRONT", "label": "完整正面"}, {"key": "OTT-SPINK-26113-750-REVERSE", "label": "完整反面"}],
+      "source_ids": ["spink-archive-26113000750"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SPINK-26113-751-MEDJIDIE-V-TURKISH-MARKS",
+      "family": "OTT-MEDJ",
+      "country_zh": "奥斯曼帝国",
+      "name": "麦吉迪勋章",
+      "original": "Mecidiye / Order of the Medjidie",
+      "date": "1852年设立",
+      "variant": "五等胸章；无剑；70×53毫米；土耳其反面戳记；完整正反面合图",
+      "views": [{"key": "OTT-SPINK-26113-751-V1", "label": "完整正反面合图"}],
+      "source_ids": ["spink-archive-26113000751"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SPINK-25113-959-GALLIPOLI-57MM",
+      "family": "OTT-WAR",
+      "country_zh": "奥斯曼帝国",
+      "name": "奥斯曼战争奖章（加里波利之星）",
+      "original": "Harp Madalyası / Gallipoli Star",
+      "date": "1915",
+      "variant": "57毫米；银及镀银金属、红珐琅；反面别针式；完整正反面合图",
+      "views": [{"key": "OTT-SPINK-25113-959-V1", "label": "完整正反面合图"}],
+      "source_ids": ["spink-archive-25113000959"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-SPINK-26111-720-GALLIPOLI-SILVER-ENAMEL",
+      "family": "OTT-WAR",
+      "country_zh": "奥斯曼帝国",
+      "name": "奥斯曼战争奖章（加里波利之星）",
+      "original": "Harp Madalyası / Gallipoli Star",
+      "date": "1915",
+      "variant": "银及红珐琅；制造者与尺寸未标；实物有少量珐琅修补；完整正反面合图",
+      "views": [{"key": "OTT-SPINK-26111-720-V1", "label": "完整正反面合图"}],
+      "source_ids": ["spink-terms-26111000720"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国 CGB 相关纪念与附编",
+  "records": [
+    {
+      "id": "OTT-CGB-FME1138818-RED-CRESCENT-EXHIBITION",
+      "family": "OTT-REL-RED-CRESCENT-EXHIBITION-1917",
+      "country_zh": "奥斯曼帝国",
+      "name": "红新月展览贡献者感谢章",
+      "original": "Hilâl-i Ahmer Sergisi Madalyası",
+      "date": "1917",
+      "variant": "红新月慈善展览贡献者／捐助者感谢章；青铜；60毫米；Charles Errmann署名；原盒；非红新月正式佩戴奖章；完整正反面合图",
+      "views": [{"key": "OTT-CGB-FME1138818-RED-CRESCENT-EXHIBITION-V1", "label": "完整正反面合图"}],
+      "source_ids": ["cgb-fme_1138818"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CGB-FME691382-SUEZ-CONCESSION",
+      "family": "OTT-REL-SUEZ-CONCESSION-1866",
+      "country_zh": "奥斯曼帝国",
+      "name": "苏伊士运河特许权批准纪念章",
+      "original": "Ratification de la concession du canal de Suez à Napoléon III",
+      "date": "1866",
+      "variant": "纪念性章牌；黄铜；32.5毫米；阿卜杜勒-阿齐兹与拿破仑三世肖像；非佩戴式；完整正反面合图",
+      "views": [{"key": "OTT-CGB-FME691382-SUEZ-CONCESSION-V1", "label": "完整正反面合图"}],
+      "source_ids": ["cgb-fme_691382"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OTT-CGB-FME768171-CONSTITUTION-LOOPED",
+      "family": "OTT-REL-UNOFFICIAL-CONSTITUTION",
+      "country_zh": "奥斯曼帝国",
+      "name": "宪政颁布非官方纪念章",
+      "original": "Meşrûtiyyet İlânı Madalyası",
+      "date": "1908",
+      "variant": "非官方纪念章；青铜；44.5毫米；带一体式穿孔悬耳；CGB以两个库存号及冲突年代列出，按章面纪年与同型目录归入1908年宪政纪念；完整正反面合图",
+      "views": [{"key": "OTT-CGB-FME768171-CONSTITUTION-LOOPED-V1", "label": "完整正反面合图"}],
+      "source_ids": ["cgb-fme_768171", "cgb-fme_829035"],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

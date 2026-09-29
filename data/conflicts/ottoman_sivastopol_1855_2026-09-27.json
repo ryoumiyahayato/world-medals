@@ -1,0 +1,38 @@
+{
+  "as_of": "2026-09-27",
+  "family": "OTT-PROPOSED-SIVASTOPOL-1855",
+  "working_name": "塞瓦斯托波尔奖章",
+  "original": "Sivastopol Madalyası / Sebastopol Medal",
+  "status": "PROPOSED_OR_UNISSUED_AWARD_STATUS_CONFLICT",
+  "date_candidates": [
+    "1855",
+    "实际设立记为1856"
+  ],
+  "physical_objects": [
+    {
+      "source_id": "salt-anudm00126",
+      "identifier": "ANUDM00126",
+      "material": "金质",
+      "diameter_mm": 37,
+      "weight_g": 35.98,
+      "views_recorded": 2,
+      "source_page": "https://archives.saltresearch.org/handle/123456789/114924"
+    },
+    {
+      "source_id": "salt-anudm00127",
+      "identifier": "ANUDM00127",
+      "material": "青铜质正面试制",
+      "diameter_mm": 36.7,
+      "weight_g": 28.95,
+      "views_recorded": 1,
+      "source_page": "https://archives.saltresearch.org/handle/123456789/112000"
+    }
+  ],
+  "conflict": "SALT保存并编目了金质实物及青铜正面试制件，但其金质对象说明同时指出该章很可能从未实际授予；MedalBook仅说明形制近似克里米亚奖章且资料有限。",
+  "decision": "作为有存世实物依据的拟设／可能未授予章保留内部记录，不计入正式已授予章种，不以克里米亚奖章图片替代。SALT原图为Local Access，取得可核对完整图前不进入正文。",
+  "source_pages": [
+    "https://archives.saltresearch.org/handle/123456789/114924",
+    "https://archives.saltresearch.org/handle/123456789/112000",
+    "https://www.medalbook.com/europe-east/turkey/medals-decorations/sebastopol-medal-1855/sebastopol-medal-1855-1"
+  ]
+}

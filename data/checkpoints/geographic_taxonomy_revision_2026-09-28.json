@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-09-28",
+  "status": "applied_and_validated",
+  "changes": [
+    "Removed the user-facing transregional historical-systems category.",
+    "Assigned the Russian Empire, Soviet Union and Russian Federation only to Eastern Europe.",
+    "Kept the Ottoman Empire only in Western Asia and Yugoslavia only in the Balkans/Southeastern Europe.",
+    "Renamed the British navigation unit to United Kingdom; central British awards remain under it while distinct colonial or local awarding authorities remain local.",
+    "Collapsed Meiji, Taisho, Showa and modern Japan into one continuous Japan catalogue section.",
+    "Removed empty pre-modern Japan and Joseon nodes and replaced the generic China historical placeholder with the evidenced Manchukuo awarding polity.",
+    "Expanded Central America, the Caribbean, South America and sub-Saharan Africa into explicit country discovery units."
+  ],
+  "classification_rule": "Geography follows the principal centre of the awarding authority. Place of service or occupation alone does not create a new award system.",
+  "validation_required": [
+    "single-character search",
+    "country and section filters",
+    "no duplicate image payloads",
+    "no ribbon-only rows"
+  ]
+}

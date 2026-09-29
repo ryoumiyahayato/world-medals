@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-27",
   "items": [
     {
       "scope_id": "ottoman_empire",
@@ -47,14 +47,23 @@
     {
       "scope_id": "egypt",
       "priority": 2,
-      "status": "partial_harvest_rate_limited",
+      "status": "targeted_gap_harvest",
       "source_ids": [
         "wawards_egypt",
         "egypt_presidency_honours",
         "omsa_egypt_awards_appendix",
-        "commons_egypt_awards"
+        "commons_egypt_awards",
+        "egypt_abdeen_medals_museum",
+        "egypt_mota_royal_jewelry_medal_collection",
+        "heritage_auction_3075_2019",
+        "omsa_egypt_malaria_cholera_2005",
+        "spink_24003_egypt_health_medals",
+        "medals_org_egypt_kingdom",
+        "medals_org_egypt_republic",
+        "ahram_filaha_2019",
+        "emedals_egypt_catalog"
       ],
-      "target": "Retry only the 19 recorded Commons original URLs after the 429 condition changes, then decode and visually inspect before binding to the 62 normalized families."
+      "target": "Medals of the World and the current 91-product eMedals Egypt collection are fully swept. Locate complete-object images for the 7 source-backed OMSA families that remain unpictured. Order of Filaha has verified 1915/1923制度 evidence but no eligible object image; do not promote its decree/sculpture images or any ribbon/device graphics."
     },
     {
       "scope_id": "sudan",

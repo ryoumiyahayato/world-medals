@@ -1,0 +1,49 @@
+{
+  "scope": "France — SAMLHOC complete three-tree sweep plus Grande chancellerie official verification",
+  "as_of": "2026-09-29",
+  "status": "batch_complete_reviewed_and_merged",
+  "source_counts": {"planned": 2, "completed": 2, "partial": 0, "not_started": 0},
+  "raw_candidates": {
+    "samlhoc_family_groups": 194,
+    "samlhoc_normalized_family_candidates": 173,
+    "official_pages": 236,
+    "total_raw_records_or_groups": 430
+  },
+  "mergeable_output": {
+    "volume": "data/volumes/france_official_core_2026-09-29.json",
+    "manifest": "data/volumes/france_official_core_2026-09-29_manifest.json",
+    "sources": "data/volumes/france_official_core_2026-09-29_sources.json",
+    "families": 4,
+    "new_families_against_prebatch": 2,
+    "variant_rows": 4,
+    "complete_front_back_images": 4,
+    "local_decoded_images": 4
+  },
+  "research_images": {
+    "samlhoc_references_downloaded_decoded": 896,
+    "samlhoc_unique_sha256": 895,
+    "official_references_downloaded_decoded": 481,
+    "official_unique_sha256": 455,
+    "rights_restricted_not_auto_mergeable": 1350
+  },
+  "unresolved": {
+    "samlhoc_difference_candidates": 152,
+    "families_without_any_source_image": 1,
+    "family_without_image_slug": "medaille_commemorative_travailleurs_indochinois",
+    "note": "Unresolved means not yet independently normalized and cleared for public image use; it does not mean the award is false. Preserve all rows under only-add policy."
+  },
+  "validation": {
+    "all_target_pages_cached": true,
+    "all_downloaded_images_decoded": true,
+    "official_volume_json_parsed": true,
+    "official_manifest_key": "images",
+    "official_manifest_matches_views": true,
+    "official_image_sha256_verified": true,
+    "visual_inspection": "Four official core composite images checked: each shows complete obverse and reverse with full suspension and ribbon."
+  },
+  "next": [
+    "Main task may merge the four-row official volume without changing existing families; two rows add variants and two add new families.",
+    "Process the 152 SAMLHOC difference candidates source-first by granting body and period; replace rights-restricted images with open museum or official images before public merge.",
+    "Prioritize the single image-less family and colonial/overseas issuer separation; do not mechanically label all as modern France."
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "as_of": "2026-09-29",
+  "volume_id": "bulgaria_wmi_batch1_2026-09-29",
+  "scope": "Selected awards of the Principality of Bulgaria (1878–1908), Kingdom of Bulgaria (1908–1946), and Republic of Bulgaria (1991–present); this is a partial pictured batch.",
+  "source_boundary": "World Medals Index (medals.org.uk) text lists for Principality/Kingdom (30 entries), People’s Republic (81 linked entries), and Republic (8 entries). 36 object pages were opened; 20 complete front variants were downloaded and decoded. No People’s Republic object page was opened in this batch.",
+  "records": [
+    {
+      "id": "BUL-WMI-001",
+      "family": "BUL-MILITARY-ORDER-OF-BRAVERY",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "勇敢军功勋章",
+      "original": "Military Order of Bravery",
+      "date": "1880年1月1日",
+      "variant": "第4级第1型；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-01-FRONT",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：1 January 1880 by Alexander I。图像说明原文：Class 4 Grade 1, Obverse。授予说明：To officers for bravery。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom007.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-002",
+      "family": "BUL-ORDER-OF-ST-ALEXANDER",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "圣亚历山大勋章",
+      "original": "Order of St.Alexander",
+      "date": "1881年12月25日",
+      "variant": "大十字级星章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-02-FRONT",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：25 December 1881 by Prince Alexander I。图像说明原文：Grand Cross: Star, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom002.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-003",
+      "family": "BUL-ORDER-OF-ST-ALEXANDER",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "圣亚历山大勋章",
+      "original": "Order of St.Alexander",
+      "date": "1881年12月25日",
+      "variant": "第2级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-03-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-03-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：25 December 1881 by Prince Alexander I。图像说明原文：Class 2: Badge, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom002.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-004",
+      "family": "BUL-ORDER-OF-ST-ALEXANDER",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "圣亚历山大勋章",
+      "original": "Order of St.Alexander",
+      "date": "1881年12月25日",
+      "variant": "第3级指挥官级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-04-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-04-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：25 December 1881 by Prince Alexander I。图像说明原文：Class 3 (Commander): Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom002.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-005",
+      "family": "BUL-ORDER-OF-ST-ALEXANDER",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "圣亚历山大勋章",
+      "original": "Order of St.Alexander",
+      "date": "1881年12月25日",
+      "variant": "骑士级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-05-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-05-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：25 December 1881 by Prince Alexander I。图像说明原文：Knight, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom002.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-006",
+      "family": "BUL-ORDER-OF-MERIT",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "功绩勋章",
+      "original": "Order of Merit",
+      "date": "1881年12月25日",
+      "variant": "金质奖章版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-06-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-06-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：25 December 1881。图像说明原文：Gold Medal, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom030.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-007",
+      "family": "BUL-NATIONAL-ORDER-FOR-CIVIL-MERIT",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "国家民事功绩勋章",
+      "original": "National Order for Civil Merit",
+      "date": "1891年8月2日",
+      "variant": "大十字级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-07-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-07-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：2 August 1891。图像说明原文：Grand Cross: Badge, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom003.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-008",
+      "family": "BUL-NATIONAL-ORDER-FOR-CIVIL-MERIT",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "国家民事功绩勋章",
+      "original": "National Order for Civil Merit",
+      "date": "1891年8月2日",
+      "variant": "第3级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-08-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-08-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：2 August 1891。图像说明原文：Class 3, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom003.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-009",
+      "family": "BUL-NATIONAL-ORDER-FOR-CIVIL-MERIT",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "国家民事功绩勋章",
+      "original": "National Order for Civil Merit",
+      "date": "1891年8月2日",
+      "variant": "第5级加花环女式蝴蝶结版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-09-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-09-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：2 August 1891。图像说明原文：Class 5 with Wreath (on ladies' bow), Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom003.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-010",
+      "family": "BUL-NATIONAL-ORDER-FOR-CIVIL-MERIT",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "国家民事功绩勋章",
+      "original": "National Order for Civil Merit",
+      "date": "1891年8月2日",
+      "variant": "银质功绩十字章版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-10-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-10-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：2 August 1891。图像说明原文：Silver Merit Cross, Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom003.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-011",
+      "family": "BUL-ORDER-FOR-INCENTIVE-TO-HUMANITY",
+      "country_zh": "保加利亚王国",
+      "period_scope": "1908–1946",
+      "name": "人道激励勋章",
+      "original": "Order for Incentive to Humanity",
+      "date": "1917年5月30日",
+      "variant": "第1级男式挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-11-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-11-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：30 May 1917。图像说明原文：Class 1: Badge (Male), Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom041.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-012",
+      "family": "BUL-ORDER-FOR-INCENTIVE-TO-HUMANITY",
+      "country_zh": "保加利亚王国",
+      "period_scope": "1908–1946",
+      "name": "人道激励勋章",
+      "original": "Order for Incentive to Humanity",
+      "date": "1917年5月30日",
+      "variant": "第2级女式挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-12-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-12-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：30 May 1917。图像说明原文：Class 2 (Female), Obverse。授予说明：Unknown。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom041.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-013",
+      "family": "BUL-QUEEN-ELEONORE-CROSS",
+      "country_zh": "保加利亚王国",
+      "period_scope": "1908–1946",
+      "name": "埃莱奥诺雷王后十字章",
+      "original": "Queen Eleonore Cross",
+      "date": "1916年",
+      "variant": "挂章正面；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-13-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-13-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：1916。图像说明原文：Obverse。授予说明：To members of the British Red Cross units who served in Bulgaria, Greece, Montenegro, Serbia, or Turkey during the Turco-Balkan war (1912-1913) or the Balkan Allies war (1913). World Medals Index Text List Ribbon Chart References。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom053.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-014",
+      "family": "BUL-CROSS-FOR-THE-ELECTION-OF-PRINCE-FERDINAND-I",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "斐迪南一世亲王当选纪念十字章",
+      "original": "Cross for the Election of Prince Ferdinand I",
+      "date": "1887年12月21日",
+      "variant": "第1级十字章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-14-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-14-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：21 December 1887。图像说明原文：Class 1, Obverse。授予说明：To military personnel who had been members of the garrisons of the towns through which Ferdinand I passed on his arrival in Bulgaria on 2 August 1887。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom006.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-015",
+      "family": "BUL-PRINCE-FERDINAND-WEDDING-MEDAL",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "斐迪南亲王婚礼纪念奖章",
+      "original": "Prince Ferdinand Wedding Medal",
+      "date": "1893年4月8日",
+      "variant": "银质带冠奖章版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-15-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-15-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：8 April 1893。图像说明原文：Silver Medal with Crown, Obverse。授予说明：To mark the wedding of Ferdinand and Maria Louise。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom061.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-016",
+      "family": "BUL-MEDAL-FOR-80TH-ANNIVERSARY-OF-KNYAGINYA-CLEMENTINE",
+      "country_zh": "保加利亚公国",
+      "period_scope": "1878–1908",
+      "name": "克莱门蒂娜公主八十诞辰纪念奖章",
+      "original": "Medal for 80th Anniversary of Knyaginya Clementine",
+      "date": "1899年",
+      "variant": "银质奖章版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-16-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-16-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：1899。图像说明原文：Silver Medal, Obverse。授予说明：To mark the 80th birthday of Princess Clementina, the mother of Prince Ferdinand。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom062.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-017",
+      "family": "BUL-MEDAL-FOR-THE-BALKAN-WAR-1912-13",
+      "country_zh": "保加利亚王国",
+      "period_scope": "1908–1946",
+      "name": "1912—1913年巴尔干战争奖章",
+      "original": "Medal for the Balkan War 1912-13",
+      "date": "1933年12月9日",
+      "variant": "战斗员版；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-17-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-17-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：9 December 1933。图像说明原文：Combatant, Obverse。授予说明：For participation in the Balkan War, or to the next-of-kin of those slain. Combatant Non-combatant Sorry - no picture of obverse Sorry - no picture of reverse Next-of-Kin Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom010.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-018",
+      "family": "BUL-WAR-COMMEMORATIVE-MEDAL-1915-18",
+      "country_zh": "保加利亚王国",
+      "period_scope": "1908–1946",
+      "name": "1915—1918年战争纪念奖章",
+      "original": "War Commemorative Medal 1915-18",
+      "date": "1933年12月",
+      "variant": "挂章正面；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-18-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-18-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：December 1933。图像说明原文：Obverse。授予说明：To those who served in the First World War as combatants, or non-combatants, to the next-of-kin of those slain and to Bulgaria's allies in that war. Combatant Non-combatant Sorry - no picture of obverse Sorry - no picture of reverse Next-of-Kin Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References。来源对象页：https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom009.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-019",
+      "family": "BUL-ORDER-FOR-CIVIL-MERIT",
+      "country_zh": "保加利亚共和国",
+      "period_scope": "1991年至今",
+      "name": "民事功绩勋章",
+      "original": "Order for Civil Merit",
+      "date": "2003年5月29日",
+      "variant": "第1级挂章；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-19-FRONT",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：29 May 2003。图像说明原文：1st Class, Obverse。授予说明：For contributions towards the development of Bulgarian society, democratic institutions, human rights or the defence and security of the state。来源对象页：https://www.medals.org.uk/bulgaria/republic/bulgaria-r-004.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    },
+    {
+      "id": "BUL-WMI-020",
+      "family": "BUL-JUBILEE-MEDAL-60-YEARS-OF-VICTORY-IN-WORLD-WAR-2",
+      "country_zh": "保加利亚共和国",
+      "period_scope": "1991年至今",
+      "name": "第二次世界大战胜利60周年纪念奖章",
+      "original": "Jubilee Medal 60 Years of Victory in World War 2",
+      "date": "2005年",
+      "variant": "挂章正面；正面视图；低清参考",
+      "views": [
+        {
+          "key": "BUL-WMI-20-FRONT",
+          "label": "正面"
+        },
+        {
+          "key": "BUL-WMI-20-BACK1",
+          "label": "背面"
+        }
+      ],
+      "source_ids": [
+        "wmi_bulgaria_directory"
+      ],
+      "image_kind": "specimen_photo_reference",
+      "html_eligible": true,
+      "notes": "WMI页面日期字段原文：2005。图像说明原文：Obverse。授予说明：Unknown. World Medals Index Text List Ribbon Chart References。来源对象页：https://www.medals.org.uk/bulgaria/republic/bulgaria-r-009.htm。图像像素长边约250，为完整实物视图但仅低清参考；网页未单列该图的作者与再分发许可。"
+    }
+  ],
+  "counts": {
+    "pictured_variant_rows": 20,
+    "award_families": 13,
+    "front_views": 20,
+    "paired_back_views": 17,
+    "unique_image_files": 37,
+    "rights_unverified_views": 37
+  }
+}

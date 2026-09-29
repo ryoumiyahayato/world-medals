@@ -1,0 +1,10 @@
+{
+  "source_id": "wikipedia-jordan-award-system",
+  "source_url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Jordan",
+  "accessed": "2026-09-28",
+  "scope": "Complete current national honours list page, all award tables and lists excluding references and recipient lists.",
+  "status": "complete",
+  "raw_candidates": 17,
+  "cached_page": "sources/pages/wikipedia_awards/jordan.html",
+  "raw_output": "data/raw_candidates/wikipedia_jordan_award_system.jsonl"
+}

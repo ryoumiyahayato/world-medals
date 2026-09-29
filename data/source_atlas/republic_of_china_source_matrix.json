@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "as_of": "2026-09-28",
+  "scope_id": "republic_of_china",
+  "scope_label": "Republic of China (1912–) — central, regional and military awards",
+  "sources": [
+    {
+      "source_id": "medalbook_republic_of_china",
+      "source_name": "MedalBook — complete Republic of China catalogue",
+      "base_url": "https://www.medalbook.com/asia/china/republic-of-china-1912-date",
+      "source_type": "specialist_directory",
+      "languages": ["en"],
+      "date_coverage": "1912–present, predominantly 1912–1949",
+      "content_coverage": "Every visible object page in the Republic of China medals/decorations and orders trees",
+      "has_images": true,
+      "has_pagination": false,
+      "download_method": "recursive_html_and_direct_images",
+      "priority": 1,
+      "status": "completed",
+      "last_checked": "2026-09-28",
+      "coverage_result": "160/160 object pages processed and 163/163 images cached. Forty-nine pictured grade/type rows in 19 independent families and 69 unique local views were promoted; one generic Precious Tripod row was replaced and 111 source-backed pages remain unpictured.",
+      "candidate_file": "data/raw_candidates/medalbook_republic_of_china.jsonl",
+      "sweep_file": "data/source_sweeps/medalbook_republic_of_china_2026-09-28.json",
+      "page_cache": "sources/pages/medalbook_republic_of_china",
+      "image_cache": "assets/raw/medalbook_republic_of_china",
+      "volume_file": "data/volumes/republic_of_china_medalbook_variants.json"
+    },
+    {
+      "source_id": "roc_official_honours",
+      "source_name": "Republic of China official orders and medals pages",
+      "source_type": "official_government",
+      "languages": ["zh", "en"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "bounded_official_site_sweep",
+      "priority": 1,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    },
+    {
+      "source_id": "commons_republic_of_china_awards",
+      "source_name": "Wikimedia Commons — Republic of China orders and medals differential",
+      "source_type": "open_media_category_tree",
+      "languages": ["mul"],
+      "has_images": true,
+      "has_pagination": true,
+      "download_method": "mediawiki_api",
+      "priority": 2,
+      "status": "not_started",
+      "last_checked": "2026-09-28"
+    }
+  ],
+  "coverage": {"planned": 3, "completed": 1, "partial": 0, "blocked": 0, "not_started": 2},
+  "next_action": "Advance to PRC and Vietnam, then sweep official ROC and Commons differentials with emphasis on the 111 text-only catalogue pages."
+}

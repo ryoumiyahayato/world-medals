@@ -1,0 +1,59 @@
+{
+  "schema_version": "world-medals-volume-v1",
+  "batch_id": "POLAND-WIKIPEDIA-MASTER-PICTURED-20260928",
+  "as_of": "2026-09-28",
+  "records": [
+    {
+      "id": "POL-WIKI-WHITE-EAGLE-GENERAL",
+      "family": "POL-WIKI-WHITE-EAGLE",
+      "country_zh": "波兰",
+      "name": "白鹰勋章",
+      "original": "Order Orła Białego / Order of the White Eagle",
+      "date": "1705",
+      "variant": "等级／版型待考；完整章体低清参考",
+      "views": [{"key": "POL-WIKI-WHITE-EAGLE-GENERAL-VIEW1", "label": "完整正面"}],
+      "source_ids": ["wikipedia-poland-en-master-04aba4c396", "commons-file-f6add548df"],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "POL-WIKI-POLONIA-RESTITUTA-KNIGHT",
+      "family": "POL-WIKI-POLONIA-RESTITUTA",
+      "country_zh": "波兰",
+      "name": "波兰复兴勋章",
+      "original": "Order Odrodzenia Polski / Order of Polonia Restituta",
+      "date": "1921",
+      "variant": "骑士十字；完整章体低清参考",
+      "views": [{"key": "POL-WIKI-POLONIA-RESTITUTA-KNIGHT-VIEW1", "label": "完整正面"}],
+      "source_ids": ["wikipedia-poland-en-master-04ee4082d8", "commons-file-379e84ebd4"],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "POL-WIKI-REPUBLIC-MERIT-GRAND-CROSS",
+      "family": "POL-WIKI-REPUBLIC-MERIT",
+      "country_zh": "波兰",
+      "name": "波兰共和国功绩勋章",
+      "original": "Order Zasługi Rzeczypospolitej Polskiej / Order of Merit of the Republic of Poland",
+      "date": "1990",
+      "variant": "大十字级；完整章体低清参考",
+      "views": [{"key": "POL-WIKI-REPUBLIC-MERIT-GRAND-CROSS-VIEW1", "label": "完整正面"}],
+      "source_ids": ["wikipedia-poland-en-master-62b3d75f44", "commons-file-1ac9ffe647"],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    },
+    {
+      "id": "POL-WIKI-VIRTUTI-MILITARI-GRAND-CROSS",
+      "family": "POL-WIKI-VIRTUTI-MILITARI",
+      "country_zh": "波兰",
+      "name": "军事英勇勋章",
+      "original": "Order Wojenny Virtuti Militari / Order Virtuti Militari",
+      "date": "1792",
+      "variant": "大十字级；完整章体低清参考",
+      "views": [{"key": "POL-WIKI-VIRTUTI-MILITARI-GRAND-CROSS-VIEW1", "label": "完整正面"}],
+      "source_ids": ["wikipedia-poland-en-master-cc7cbe7ecc", "commons-file-1152d579e1"],
+      "image_kind": "complete_object_low_resolution",
+      "html_eligible": true
+    }
+  ]
+}

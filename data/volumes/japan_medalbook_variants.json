@@ -1,0 +1,1670 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "日本 · MedalBook 勋奖章等级与版型",
+  "records": [
+    {
+      "id": "JPN-MB-001",
+      "family": "JPN-MEIJI-FORMOSA-EXPEDITION",
+      "country_zh": "日本 · 明治时期",
+      "name": "台湾出兵从军牌",
+      "original": "1874 Formosa Expedition War Medal",
+      "date": "1874—1875年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-001-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-d9f07b301e90f722"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-002",
+      "family": "JPN-MEIJI-SINO-JAPANESE-WAR-CAMPAIGN-MEDAL",
+      "country_zh": "日本 · 明治时期",
+      "name": "明治二十七八年从军记章",
+      "original": "1894-95 Sino-Japanese War Medal",
+      "date": "1894—1895年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-002-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-002-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-f21611ba1eb21370"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-003",
+      "family": "JPN-BOXER-WAR-MEDAL",
+      "country_zh": "日本 · 明治时期",
+      "name": "北清事变从军记章",
+      "original": "1900 Boxer War Medal",
+      "date": "1900—1901年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-003-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-003-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-db3fa8284cb0b21a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-004",
+      "family": "JPN-RUSSO-JAPANESE-WAR-MEDAL",
+      "country_zh": "日本 · 明治时期",
+      "name": "明治三十七八年从军记章",
+      "original": "1904-05 Russo-Japanese War Medal",
+      "date": "1904—1905年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-004-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-004-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-e79161fc79391c97"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-006",
+      "family": "JPN-WWI-CAMPAIGN-MEDAL",
+      "country_zh": "日本 · 大正时期",
+      "name": "大正三年至九年战役从军记章",
+      "original": "1914-20 War Medal",
+      "date": "1914—1920年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-006-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-006-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-2bfa692023c72ba9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-007",
+      "family": "JPN-CHINA-INCIDENT-1931",
+      "country_zh": "日本 · 昭和时期",
+      "name": "昭和六年至九年事变从军记章",
+      "original": "1931-34 China Incident War Medal",
+      "date": "1931—1934年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-007-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-007-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-14e10fe9ba8dd30f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-008",
+      "family": "JPN-CHINA-INCIDENT-1937",
+      "country_zh": "日本 · 昭和时期",
+      "name": "支那事变从军记章",
+      "original": "1937-45 China Incident War Medal",
+      "date": "1937—1945年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-008-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-008-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5e9ab2b0c6c52fda"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-009",
+      "family": "JPN-IMPERIAL-PALACE-DOUBLE-BRIDGE-VISIT",
+      "country_zh": "日本 · 昭和时期",
+      "name": "帝国宫殿二重桥参观纪念章",
+      "original": "1937 Visit to the Double Bridge of the Imperial Palace Medal",
+      "date": "1937年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-009-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-009-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-9cb78589b639f1a9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-014",
+      "family": "JPN-IMPERIAL-SILVER-WEDDING",
+      "country_zh": "日本 · 明治时期",
+      "name": "明治天皇银婚纪念章",
+      "original": "25th Wedding Anniversary Medal, in Silver",
+      "date": "1894年",
+      "variant": "银质版；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-014-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-f0f1a2264323035e"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-015",
+      "family": "JPN-2600-NATIONAL-ANNIVERSARY",
+      "country_zh": "日本 · 昭和时期",
+      "name": "纪元二千六百年纪念章",
+      "original": "2600th National Anniversary Commemorative Medal",
+      "date": "1940年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-015-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-015-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-dd3f2621b86c7274"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-035",
+      "family": "JPN-CHINA-INCIDENT-COMMEMORATIVE",
+      "country_zh": "日本 · 昭和时期",
+      "name": "支那事变纪念章",
+      "original": "China Incident Commemorative Medal",
+      "date": "1942年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-035-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-035-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-3d447b939fc14ec8"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-037",
+      "family": "JPN-CROWN-PRINCE-KOREA-VOYAGE",
+      "country_zh": "日本 · 明治时期",
+      "name": "皇太子韩国行启纪念章",
+      "original": "Crown Prince's Voyage to Korea Commemorative Medal, in Silver",
+      "date": "1907—1909年",
+      "variant": "奖章；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-037-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-f38305c63932fb02"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-038",
+      "family": "JPN-TAISHO-FIRST-NATIONAL-CENSUS-MEDAL",
+      "country_zh": "日本 · 大正时期",
+      "name": "第一回国势调查纪念章",
+      "original": "First National Census Commemorative Medal",
+      "date": "1920—1921年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-038-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-038-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-0eddaba21b5e01dd"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-040",
+      "family": "JPN-CONSTITUTION-PROMULGATION",
+      "country_zh": "日本 · 明治时期",
+      "name": "帝国宪法发布纪念章",
+      "original": "Imperial Constitution Promulgation Commemorative Medal, in Silver",
+      "date": "1889年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-040-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-040-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-964e7a3c03288f13"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-042",
+      "family": "JPN-IMPERIAL-FLYING-ASSOCIATION-MERIT",
+      "country_zh": "日本 · 昭和时期",
+      "name": "帝国飞行协会有功章",
+      "original": "Imperial Japanese Flying Association Merit Medal",
+      "date": "1929年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-042-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-042-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-704ee7823f0bfed0"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-043",
+      "family": "JPN-SEA-DISASTER-RESCUE-MERIT",
+      "country_zh": "日本 · 大正时期",
+      "name": "帝国海难救济会有功章",
+      "original": "Imperial Sea Disaster Rescue Society Medal, I Class",
+      "date": "设立日期待考",
+      "variant": "一等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-043-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-043-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-a19e767558eb4a4f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-044",
+      "family": "JPN-SEA-DISASTER-RESCUE-MERIT",
+      "country_zh": "日本 · 大正时期",
+      "name": "帝国海难救济会有功章",
+      "original": "Imperial Sea Disaster Rescue Society Medal, II Class",
+      "date": "设立日期待考",
+      "variant": "二等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-044-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-044-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-3133143c3687f80f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-046",
+      "family": "JPN-HORSE-ADMINISTRATION-BUREAU",
+      "country_zh": "日本 · 大正时期",
+      "name": "马政局奖章",
+      "original": "Japanese Horse Administration Bureau Medal, 1915, I Class",
+      "date": "1915年",
+      "variant": "一等；马匹颈挂奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-046-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-046-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-1d3dac0d41956f16"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-048",
+      "family": "JPN-HORSE-ADMINISTRATION-BUREAU",
+      "country_zh": "日本 · 大正时期",
+      "name": "马政局奖章",
+      "original": "Japanese Horse Administration Bureau Medal, 1915, III Class",
+      "date": "1915年",
+      "variant": "三等；马匹颈挂奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-048-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-048-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-a295cb93b1273f31"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-051",
+      "family": "JPN-KOREA-ANNEXATION-MEDAL",
+      "country_zh": "日本 · 明治时期",
+      "name": "韩国并合纪念章",
+      "original": "Korean Annexation Commemorative Medal",
+      "date": "1910—1912年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-051-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-051-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-198d70158733e58b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-053",
+      "family": "JPN-MEDAL-OF-HONOUR",
+      "country_zh": "日本 · 明治时期",
+      "name": "褒章",
+      "original": "Medal of Honour",
+      "date": "1881年设立",
+      "variant": "具体绶色／种类待考；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-053-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-053-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5f37d4128e3114a1"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-057",
+      "family": "JPN-RED-CROSS-MEMBERSHIP",
+      "country_zh": "日本 · 明治时期",
+      "name": "日本红十字会会员章",
+      "original": "Red Cross Membership Medal, Special Membership, in Gold",
+      "date": "1888年后",
+      "variant": "特别会员金质版；历史图录插图",
+      "views": [
+        {
+          "key": "JPN-MB-057-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-ffd882758b6decbc"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-058",
+      "family": "JPN-RED-CROSS-MEMBERSHIP",
+      "country_zh": "日本 · 明治时期",
+      "name": "日本红十字会会员章",
+      "original": "Red Cross Membership Medal, Special Membership, in Silver",
+      "date": "1888年后",
+      "variant": "特别会员银质版；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-058-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-058-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-628c45b36c2428d5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-059",
+      "family": "JPN-RED-CROSS-RUSSO-JAPANESE-WAR",
+      "country_zh": "日本 · 明治时期",
+      "name": "日本红十字会日俄战争纪念章",
+      "original": "Red Cross Society Commemorative Medal for the Russo-Japanese War Medal, 1904-1905",
+      "date": "1904—1905年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-059-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-059-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-dae9bdf5de3f5309"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-061",
+      "family": "JPN-SHOWA-ENTHRONEMENT",
+      "country_zh": "日本 · 昭和时期",
+      "name": "昭和大礼纪念章",
+      "original": "Showa Enthronement Commemorative Medal",
+      "date": "1928年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-061-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-061-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-be6c8fc279d71c32"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-062",
+      "family": "JPN-TAISHO-ENTHRONEMENT-MEDAL",
+      "country_zh": "日本 · 大正时期",
+      "name": "大正大礼纪念章",
+      "original": "Taisho Enthronement Commemorative Medal",
+      "date": "1915年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-062-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-062-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-db2444b124e31f8d"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-065",
+      "family": "JPN-WWI-VICTORY-MEDAL",
+      "country_zh": "日本 · 大正时期",
+      "name": "第一次世界大战战捷纪念章",
+      "original": "WWI Victory Medal",
+      "date": "1920年",
+      "variant": "奖章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-065-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-065-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-69768dcaaf180342"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-069",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本 · 明治时期",
+      "name": "菊花章",
+      "original": "Order of the Chrysanthemum, Collar",
+      "date": "1876／1888年设立",
+      "variant": "颈饰；历史图录插图",
+      "views": [
+        {
+          "key": "JPN-MB-069-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-0aa8cb5f84c5647b"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-070",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本 · 明治时期",
+      "name": "菊花章",
+      "original": "Order of the Chrysanthemum, Collar Badge",
+      "date": "1876／1888年设立",
+      "variant": "颈饰章饰；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-070-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-cb6e451f12ac3f33"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-071",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本 · 明治时期",
+      "name": "菊花章",
+      "original": "Order of the Chrysanthemum, Grand Cordon Badge",
+      "date": "1876／1888年设立",
+      "variant": "大绶正章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-071-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-071-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-ab7ff7ee823861ed"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-072",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本 · 明治时期",
+      "name": "菊花章",
+      "original": "Order of the Chrysanthemum, Grand Cordon Breast Star",
+      "date": "1876／1888年设立",
+      "variant": "大绶副章／星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-072-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-072-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-0dc2a2bc0b1bdd04"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-073",
+      "family": "JPN-ORDER-CHRYSANTHEMUM",
+      "country_zh": "日本 · 明治时期",
+      "name": "菊花章",
+      "original": "Order of the Chrysanthemum, Small Chain Badge",
+      "date": "1876／1888年设立",
+      "variant": "小链章饰；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-073-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-e90e2356cc019284"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-074",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, I Class Breast Star",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "一／二等共用星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-074-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-074-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5f6f68232c006e2a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-075",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, I Class Sash Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "一等大绶正章；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-075-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-3e4874702001b6dc"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-078",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, III Class Neck Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "三等颈章；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-078-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-2f10d2f698424e38"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-079",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, IV Class Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "四等章饰；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-079-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-079-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-158aa41dd0fa6409"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-080",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, V Class Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "五等章饰；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-080-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-080-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-19377f8bac2436c7"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-081",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, VI Class Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "六等章饰；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-081-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-081-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-eec953cad58657e9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-082",
+      "family": "JPN-ORDER-GOLDEN-KITE",
+      "country_zh": "日本 · 明治时期",
+      "name": "金鵄勋章",
+      "original": "Order of the Golden Kite, VII Class Silver Badge",
+      "date": "1890年正式制定；1947年废止",
+      "variant": "七等银质章饰；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-082-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-082-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-11b10dd13640d7d4"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-083",
+      "family": "JPN-ORDER-PAULOWNIA",
+      "country_zh": "日本 · 现代",
+      "name": "桐花大绶章",
+      "original": "Order of the Paulownia Flowers, Badge",
+      "date": "2003年独立设置",
+      "variant": "章饰；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-083-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-083-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-d4520d23d7903ee9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-084",
+      "family": "JPN-ORDER-PAULOWNIA",
+      "country_zh": "日本 · 现代",
+      "name": "桐花大绶章",
+      "original": "Order of the Paulownia Flowers, Star",
+      "date": "2003年独立设置",
+      "variant": "星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-084-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-084-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-6ec3963b368860df"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-085",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, Grand Cordon",
+      "date": "1875年设立",
+      "variant": "Grand Cordon；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-085-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-da7dea3a0af748af"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-086",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, Grand Cordon Breast Star",
+      "date": "1875年设立",
+      "variant": "大绶副章／星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-086-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-086-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-e955f55e79903d62"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-087",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, I Class",
+      "date": "1875年设立",
+      "variant": "一等；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-087-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5ac2d7fdd15a86ac"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-088",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, I Class Breast Star",
+      "date": "1875年设立",
+      "variant": "一等星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-088-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-088-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-fe2b63638f28001b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-089",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, II Class",
+      "date": "1875年设立",
+      "variant": "二等；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-089-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-9f08cae568a1c488"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-090",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, II Class Breast Star",
+      "date": "1875年设立",
+      "variant": "二等星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-090-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-090-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-277816f14c81aea6"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-091",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, III Class",
+      "date": "1875年设立",
+      "variant": "三等；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-091-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5872f8f0c7358f33"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-092",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, IV Class",
+      "date": "1875年设立",
+      "variant": "四等；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-092-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-f4e0489e450562a2"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-093",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, V Class",
+      "date": "1875年设立",
+      "variant": "五等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-093-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-093-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-6cd05e96d1a4100b"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-094",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, VI Class",
+      "date": "1875年设立",
+      "variant": "六等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-094-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-094-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-601c65e7a415bb5f"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-095",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, VII Class",
+      "date": "1875年设立",
+      "variant": "七等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-095-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-095-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-42a6f059f4479e80"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-096",
+      "family": "JPN-ORDER-RISING-SUN",
+      "country_zh": "日本 · 明治时期",
+      "name": "旭日章",
+      "original": "Order of the Rising Sun, VIII Class",
+      "date": "1875年设立",
+      "variant": "八等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-096-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-096-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-a8a82d94bfdcd165"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-098",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, I Class Breast Star",
+      "date": "1888年设立",
+      "variant": "一等星章；历史图录插图",
+      "views": [
+        {
+          "key": "JPN-MB-098-V1",
+          "label": "历史图录插图"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-9fcdfc6e9fc2acd3"
+      ],
+      "image_kind": "historical_catalogue_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-099",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, II Class",
+      "date": "1888年设立",
+      "variant": "二等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-099-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-099-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-255bb3887ad2380c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-100",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, III Class",
+      "date": "1888年设立",
+      "variant": "三等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-100-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-100-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-a77f4027467a1501"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-101",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, IV Class",
+      "date": "1888年设立",
+      "variant": "四等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-101-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-101-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-1b0266660b9c12ed"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-102",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, V Class",
+      "date": "1888年设立",
+      "variant": "五等；完整正面",
+      "views": [
+        {
+          "key": "JPN-MB-102-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-242f45a1ca615270"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-103",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, VI Class",
+      "date": "1888年设立",
+      "variant": "六等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-103-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-103-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-582c74337ea01aea"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-104",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, VII Class",
+      "date": "1888年设立",
+      "variant": "七等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-104-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-104-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-cc15d67f0d67d270"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-105",
+      "family": "JPN-ORDER-SACRED-CROWN",
+      "country_zh": "日本 · 明治时期",
+      "name": "宝冠章",
+      "original": "Order of the Sacred Crown, VIII Class",
+      "date": "1888年设立",
+      "variant": "八等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-105-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-105-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-a7e7701bfae92384"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-106",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, I Class",
+      "date": "1888年设立",
+      "variant": "一等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-106-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-106-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-8fee27f87d8c134a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-107",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, I Class Breast Star",
+      "date": "1888年设立",
+      "variant": "一等星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-107-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-107-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-d72e08d97585ea0c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-108",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, II Class Breast Star",
+      "date": "1888年设立",
+      "variant": "二等星章；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-108-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-108-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-2254c431c73efad9"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-109",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, III Class",
+      "date": "1888年设立",
+      "variant": "三等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-109-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-109-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-d218489983920b0c"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-110",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, IV Class",
+      "date": "1888年设立",
+      "variant": "四等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-110-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-110-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-3bbbf75bd5c59854"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-111",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, V Class",
+      "date": "1888年设立",
+      "variant": "五等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-111-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-111-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-e9009ab04ad7c9a5"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-112",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, VI Class",
+      "date": "1888年设立",
+      "variant": "六等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-112-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-112-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-0525684797fc7428"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-113",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, VII Class",
+      "date": "1888年设立",
+      "variant": "七等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-113-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-113-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-5b7be838313f9f64"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-114",
+      "family": "JPN-ORDER-SACRED-TREASURE",
+      "country_zh": "日本 · 明治时期",
+      "name": "瑞宝章",
+      "original": "Order of the Sacred Treasure, VIII Class",
+      "date": "1888年设立",
+      "variant": "八等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-114-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-114-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-c61e20943e73128a"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-115",
+      "family": "JPN-RED-CROSS-ORDER-MERIT",
+      "country_zh": "日本 · 现代",
+      "name": "日本红十字会有功章",
+      "original": "Red Cross Order of Merit, I Class",
+      "date": "1888年后；一等1956年设置",
+      "variant": "一等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-115-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-115-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-2cd49fb1b5b68c37"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "JPN-MB-116",
+      "family": "JPN-RED-CROSS-ORDER-MERIT",
+      "country_zh": "日本 · 现代",
+      "name": "日本红十字会有功章",
+      "original": "Red Cross Order of Merit, II Class",
+      "date": "1888年后；一等1956年设置",
+      "variant": "二等；完整正反面",
+      "views": [
+        {
+          "key": "JPN-MB-116-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "JPN-MB-116-V2",
+          "label": "完整背面"
+        }
+      ],
+      "source_ids": [
+        "medalbook-japan-d0869f36af5d20de"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

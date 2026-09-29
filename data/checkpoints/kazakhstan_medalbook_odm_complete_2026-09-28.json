@@ -1,0 +1,9 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Kazakhstan — complete MedalBook and ODM batch",
+  "status": "two_sources_complete_formal_batch_merged",
+  "source_coverage": {"planned_sources": 4, "completed_sources": 2, "partial_sources": 0, "not_started_sources": 2, "medalbook_object_pages": 55, "odm_pages": 31, "downloaded_source_files": 14},
+  "formal_merge": {"new_rows": 11, "represented_families": 7, "net_new_families": 7, "local_complete_views": 12, "unpictured_source_candidates": 79, "duplicate_payloads_promoted": 0, "ribbon_only_views_promoted": 0},
+  "site_after_merge": {"main_rows": 1989, "main_families": 1039, "country_or_period_sections": 106, "decoded_local_files": 3021, "unique_gallery_image_paths": 2946, "reused_image_payloads": 0, "ribbon_only_rows": 0, "validation": "site, regression and browser interaction checks passed"},
+  "next_action": "Advance to Uzbekistan, then the other Central Asian republics; retain official-law and Commons differentials."
+}

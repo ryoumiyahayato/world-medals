@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "omn-wawards-order_of_appreciation-representative-image",
+      "record_id": "OMN-WAWARDS-ORDER_OF_APPRECIATION-REPRESENTATIVE",
+      "view_key": "OMN-WAWARDS-ORDER_OF_APPRECIATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/wawards_oman/order-of-appreciation.jpg",
+      "source_page": "https://wawards.org/oman/order-of-appreciation.html",
+      "image_url": "https://wawards.org/images/oman/1/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52595,
+      "sha256": "da89e5322459003ac865f865a58eb4dfabf6d7bf5f174bea74a8b1f020af502b",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "First pass establishes family coverage; additional source images remain cached for grade and reverse expansion."
+  ]
+}

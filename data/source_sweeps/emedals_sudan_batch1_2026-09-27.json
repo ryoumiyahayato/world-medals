@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-09-27",
+  "source_id": "emedals_sudan_batch1",
+  "status": "completed_bounded_item_batch",
+  "items": [
+    {"item": "W6054", "title": "Police Long and Distinguished Service Medal", "images": 6, "formal_views": 2},
+    {"item": "W6057", "title": "Army Long and Distinguished Service Medal", "images": 7, "formal_views": 2},
+    {"item": "W0031", "title": "Order of the Republic, Grand Cross Star", "images": 2, "formal_views": 2},
+    {"item": "M0620-13", "title": "Order of the Republic, Grand Officer's Set", "images": 10, "formal_views": 3},
+    {"item": "W8564", "title": "Order of the Republic, Commander", "images": 9, "formal_views": 2}
+  ],
+  "images_downloaded_and_decoded": 34,
+  "formal_rows_added": 5,
+  "formal_complete_views_added": 11,
+  "pending_variants_resolved": 3,
+  "new_families_added": 0,
+  "notes": "Police and Army long-service versions are variants of one family. The Republic order records are grade/component variants of the existing family; product angles, boxes and close-ups were cached but not multiplied into formal rows."
+}

@@ -1,0 +1,702 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "奥斯曼帝国：Künker 299专题拍卖差集第四批",
+  "records": [
+    {
+      "id": "OK299-7215",
+      "family": "OTT-HAGIA-SOPHIA-RESTORATION",
+      "country_zh": "奥斯曼帝国",
+      "name": "圣索菲亚大教堂修缮竣工纪念章",
+      "original": "Ayasofya Tamir Madalyası",
+      "date": "1849",
+      "variant": "银级；44.3毫米；非佩戴式；Fossati／Robertson签名；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7215-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7215-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7215"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7217",
+      "family": "OTT-BOSNIA-1850",
+      "country_zh": "奥斯曼帝国",
+      "name": "波斯尼亚战役奖章",
+      "original": "Bosna Madalyası",
+      "date": "1849",
+      "variant": "金级；金质；补配青铜悬环；无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7217-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7217-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7217"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7218",
+      "family": "OTT-BOSNIA-1850",
+      "country_zh": "奥斯曼帝国",
+      "name": "波斯尼亚战役奖章",
+      "original": "Bosna Madalyası",
+      "date": "1849",
+      "variant": "银级；银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7218-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7218-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7218"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7219",
+      "family": "OTT-BOSNIA-1850",
+      "country_zh": "奥斯曼帝国",
+      "name": "波斯尼亚战役奖章",
+      "original": "Bosna Madalyası",
+      "date": "1849",
+      "variant": "旧制非官方青铜版；蚀刻法；旧佩戴扣；无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7219-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7219-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7219"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7220",
+      "family": "OTT-IFTIHAR-MEDAL",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔奖章",
+      "original": "İftihâr Madalyası / Nişân-ı İftihâr Madalyası",
+      "date": "1853-1884",
+      "variant": "第三型银级；奥斯曼式镶框；后配绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7220-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7220-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7220"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7221",
+      "family": "OTT-IFTIHAR-MEDAL",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔奖章",
+      "original": "İftihâr Madalyası / Nişân-ı İftihâr Madalyası",
+      "date": "1853-1884",
+      "variant": "第三型银级；英式铸造绶带扣；原绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7221-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7221-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7221"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7222",
+      "family": "OTT-IFTIHAR-MEDAL",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔奖章",
+      "original": "İftihâr Madalyası / Nişân-ı İftihâr Madalyası",
+      "date": "1853-1884",
+      "variant": "第三型银级；旧式佩戴扣；绿底红边绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7222-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7222-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7222"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7224",
+      "family": "OTT-IFTIHAR-MEDAL",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔奖章",
+      "original": "İftihâr Madalyası / Nişân-ı İftihâr Madalyası",
+      "date": "1853-1884",
+      "variant": "第三型银级；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7224-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7224-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7224"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7225",
+      "family": "OTT-IFTIHAR-MEDAL",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔奖章",
+      "original": "İftihâr Madalyası / Nişân-ı İftihâr Madalyası",
+      "date": "1853-1884",
+      "variant": "第三型铜质试铸；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7225-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7225-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7225"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7226",
+      "family": "OTT-SILISTRA",
+      "country_zh": "奥斯曼帝国",
+      "name": "锡利斯特拉战役奖章",
+      "original": "Silistre Madalyası",
+      "date": "1854",
+      "variant": "银级；银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7226-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7226-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7226"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7234",
+      "family": "OTT-SILISTRA",
+      "country_zh": "奥斯曼帝国",
+      "name": "锡利斯特拉战役奖章",
+      "original": "Silistre Madalyası",
+      "date": "1854",
+      "variant": "银级；银质；原绶带与双钩佩戴横条；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7234-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7234-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7234"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7235",
+      "family": "OTT-SILISTRA",
+      "country_zh": "奥斯曼帝国",
+      "name": "锡利斯特拉军旗奖章",
+      "original": "Sancaklı Silistre Madalyası",
+      "date": "约1854",
+      "variant": "银质；非佩戴式；可能为第二图式，是否实际授予待考；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7235-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7235-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7235"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7227",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第一版／英国版；CRIMEA铭文；银质；无环无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7227-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7227-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7227"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7228",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第二版／法国版；LA CRIMEE铭文；英式佩戴扣；后配绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7228-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7228-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7228"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7229",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第三版／撒丁版；LA CRIMEA铭文；撒丁式扣；旧绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7229-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7229-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7229"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7230",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第三版／撒丁版；银质；有穿孔但无环无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7230-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7230-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7230"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7231",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第三版／撒丁版；银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7231-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7231-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7231"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7232",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第三版／撒丁版；私人局部珐琅改装；原穿孔封闭；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7232-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7232-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7232"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7233",
+      "family": "OTT-CRIMEA",
+      "country_zh": "奥斯曼帝国",
+      "name": "克里米亚战争奖章",
+      "original": "Kırım Madalyası",
+      "date": "1855-1856",
+      "variant": "第三版／撒丁版；私人彩色珐琅改装；胸针式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7233-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7233-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7233"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7236",
+      "family": "OTT-KARS",
+      "country_zh": "奥斯曼帝国",
+      "name": "卡尔斯战役奖章",
+      "original": "Kars Madalyası",
+      "date": "1855",
+      "variant": "银级；银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7236-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7236-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7236"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7237",
+      "family": "OTT-KARS",
+      "country_zh": "奥斯曼帝国",
+      "name": "卡尔斯战役奖章",
+      "original": "Kars Madalyası",
+      "date": "1855",
+      "variant": "银级；英式铸造绶带扣；原绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7237-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7237-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7237"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7238",
+      "family": "OTT-IFTIHAR-ORDER",
+      "country_zh": "奥斯曼帝国",
+      "name": "伊夫蒂哈尔勋章奖章",
+      "original": "Nişân-ı İftihâr Madalyası",
+      "date": "1858",
+      "variant": "银质低阶奖章形制；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7238-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7238-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7238"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7239",
+      "family": "OTT-LIFESAVING",
+      "country_zh": "奥斯曼帝国",
+      "name": "救生奖章",
+      "original": "Tahlisiye Madalyası",
+      "date": "约1858-1922",
+      "variant": "银质；原绶带；佩戴横条；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7239-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7239-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7239"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7240",
+      "family": "OTT-LIFESAVING",
+      "country_zh": "奥斯曼帝国",
+      "name": "救生奖章",
+      "original": "Tahlisiye Madalyası",
+      "date": "约1914-1922",
+      "variant": "锌质战末版；残留镀银；无环无绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7240-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7240-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7240"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7241",
+      "family": "OTT-LIFESAVING",
+      "country_zh": "奥斯曼帝国",
+      "name": "救生奖章",
+      "original": "Tahlisiye Madalyası",
+      "date": "约1858-1922",
+      "variant": "银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7241-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7241-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7241"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7242",
+      "family": "OTT-LIFESAVING",
+      "country_zh": "奥斯曼帝国",
+      "name": "救生奖章",
+      "original": "Tahlisiye Madalyası",
+      "date": "约1858-1922",
+      "variant": "青铜质试铸；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7242-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7242-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7242"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7249",
+      "family": "OTT-CRETE-ATIK-GIRIT",
+      "country_zh": "奥斯曼帝国",
+      "name": "旧式克里特战役奖章",
+      "original": "Atîk Girit Madalyası",
+      "date": "1868",
+      "variant": "银质；后配绶带扣；旧绿色绶带；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7249-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7249-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7249"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7250",
+      "family": "OTT-CRETE-ATIK-GIRIT",
+      "country_zh": "奥斯曼帝国",
+      "name": "旧式克里特战役奖章",
+      "original": "Atîk Girit Madalyası",
+      "date": "1868",
+      "variant": "银质；非佩戴式；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7250-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7250-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7250"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "OK299-7251",
+      "family": "OTT-RUSSO-TURKISH-WAR-1877",
+      "country_zh": "奥斯曼帝国",
+      "name": "俄土战争奖章",
+      "original": "Rusya Muhârebesi Madalyası",
+      "date": "1877-1878",
+      "variant": "第二版；El Gazi图格拉；银质；绶带与佩戴横条；Künker 299图录实物照 · 2017",
+      "views": [
+        {
+          "key": "OK299-7251-FRONT",
+          "label": "正面完整实物图"
+        },
+        {
+          "key": "OK299-7251-BACK",
+          "label": "背面完整实物图"
+        }
+      ],
+      "source_ids": [
+        "kuenker299-lot-7251"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

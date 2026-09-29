@@ -1,0 +1,349 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "arm-wa-medal_for_excellent_maintenance_of_public_order-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_EXCELLENT_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_EXCELLENT_MAINTENANCE_OF_PUBLIC_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-excellent-maintenance-of-public-order.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-excellent-maintenance-of-public-order.html",
+      "image_url": "https://wawards.org/images/armenia/19/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65868,
+      "sha256": "9d08db2b59a12fd9f5291e7cf7b7369b74db85fb3a0cd404bdb127c0c08127d8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_gratitude-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_GRATITUDE-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_GRATITUDE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-gratitude.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-gratitude.html",
+      "image_url": "https://wawards.org/images/armenia/20/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45614,
+      "sha256": "9382f4ddabb0dcb728f18d785cdbfb3659408657361c9fd3f63e2d0588acf710",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_merit_in_work-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_MERIT_IN_WORK-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_MERIT_IN_WORK-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-merit-in-work.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-merit-in-work.html",
+      "image_url": "https://wawards.org/images/armenia/21/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52797,
+      "sha256": "2ce10555eb4dc6f9776c6c7a32d22eb9fb92651a30f08f5756e93caea845f84f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_parental_glory-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_PARENTAL_GLORY-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_PARENTAL_GLORY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-parental-glory.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-parental-glory.html",
+      "image_url": "https://wawards.org/images/armenia/22/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53723,
+      "sha256": "20d58b4faef0ee2eb69db4e14106ad569325e7a9ecec9168cb0b3b9a554cd6d2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_fair_service-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_FAIR_SERVICE-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_FAIR_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-fair-service.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-fair-service.html",
+      "image_url": "https://wawards.org/images/armenia/4/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59233,
+      "sha256": "cb7163b1bcc06dc83bb86cd011ac852f4c601505b314e13024428d2ccea8f5b9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_marshal_baghramyan-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_MARSHAL_BAGHRAMYAN-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_MARSHAL_BAGHRAMYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-marshal-baghramyan.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-marshal-baghramyan.html",
+      "image_url": "https://wawards.org/images/armenia/5/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48761,
+      "sha256": "f6817ae0642e962f4d4112c2bb169fc13c9ac736e8353bed52b4feec267d7218",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_drastamat_kanayan-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_DRASTAMAT_KANAYAN-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_DRASTAMAT_KANAYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-drastamat-kanayan.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-drastamat-kanayan.html",
+      "image_url": "https://wawards.org/images/armenia/6/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44059,
+      "sha256": "e592c6e3d36b2fd60576fbdbfb99f4e8c63707de303f90ca6afa8a24e3e3fe4a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_garegin_nzdeh-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_GAREGIN_NZDEH-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_GAREGIN_NZDEH-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-garegin-nzdeh.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-garegin-nzdeh.html",
+      "image_url": "https://wawards.org/images/armenia/7/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58701,
+      "sha256": "d26d3962d60c5418de6a88af2021d91529b46e98d0c863cb70c24d89291431a3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_nelson_stepanyan-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_NELSON_STEPANYAN-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_NELSON_STEPANYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-nelson-stepanyan.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-nelson-stepanyan.html",
+      "image_url": "https://wawards.org/images/armenia/2/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59763,
+      "sha256": "aa49d75a4793694873457ef16dd854943a4dec51302e8f051fa81a2de61e2256",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_vazgen_sargsyan-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_VAZGEN_SARGSYAN-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_VAZGEN_SARGSYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-vazgen-sargsyan.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-vazgen-sargsyan.html",
+      "image_url": "https://wawards.org/images/armenia/9/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 37046,
+      "sha256": "bb8449d6e020cd681569c40c619b0241222d5bed9f032f40e41c60f7c639e899",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_admiral_isakov-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_ADMIRAL_ISAKOV-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_ADMIRAL_ISAKOV-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-admiral-isakov.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-admiral-isakov.html",
+      "image_url": "https://wawards.org/images/armenia/10/6.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 66061,
+      "sha256": "db8fd28fb081db4338e6316b89fae8493f796b940c540351b119b7d20b8a5b35",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_of_andranik_ozanyan-representative-image",
+      "record_id": "ARM-WA-MEDAL_OF_ANDRANIK_OZANYAN-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_OF_ANDRANIK_OZANYAN-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-of-andranik-ozanyan.jpg",
+      "source_page": "https://wawards.org/armenia/medal-of-andranik-ozanyan.html",
+      "image_url": "https://wawards.org/images/armenia/11/3.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44149,
+      "sha256": "f176f63f12fd61e098d9be112061b5eddec71c59485a53cb43fdca22c505d8c1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_combat_duty-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_COMBAT_DUTY-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_COMBAT_DUTY-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-combat-duty.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-combat-duty.html",
+      "image_url": "https://wawards.org/images/armenia/3/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53738,
+      "sha256": "fe8cf17b26b2f6528c8faea36bf6237296f83ca4e5d9ed69112d21974d15febd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-jubilee_medal_20_years_of_armed_forces-representative-image",
+      "record_id": "ARM-WA-JUBILEE_MEDAL_20_YEARS_OF_ARMED_FORCES-REPRESENTATIVE",
+      "view_key": "ARM-WA-JUBILEE_MEDAL_20_YEARS_OF_ARMED_FORCES-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/jubilee-medal-20-years-of-armed-forces.jpg",
+      "source_page": "https://wawards.org/armenia/jubilee-medal-20-years-of-armed-forces.html",
+      "image_url": "https://wawards.org/images/armenia/14/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 65923,
+      "sha256": "08b9f91cf802f56949791790e6527b902296f0e1ea460e083e815b62ead7d8fc",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_heroism-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_HEROISM-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_HEROISM-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-heroism.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-heroism.html",
+      "image_url": "https://wawards.org/images/armenia/31/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 46822,
+      "sha256": "3fcdb368e89aeebedb9590be9b8c7c21d5a3ac3b9d2b9682a6f892398526b852",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_strengthening_law_and_order-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_STRENGTHENING_LAW_AND_ORDER-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_STRENGTHENING_LAW_AND_ORDER-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-strengthening-law-and-order.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-strengthening-law-and-order.html",
+      "image_url": "https://wawards.org/images/armenia/32/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53317,
+      "sha256": "0a6f015ed15b6528b1950c82a177370524db6e8089fae6191a0777e6c14dac72",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_strengthening_cooperation-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_STRENGTHENING_COOPERATION-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_STRENGTHENING_COOPERATION-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-strengthening-cooperation.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-strengthening-cooperation.html",
+      "image_url": "https://wawards.org/images/armenia/33/4.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47511,
+      "sha256": "75e190e63ff04f1652fef516bf3c97f1acb491492eabfdba6b2aad4401a363ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_protection_of_law-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_PROTECTION_OF_LAW-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_PROTECTION_OF_LAW-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-protection-of-law.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-protection-of-law.html",
+      "image_url": "https://wawards.org/images/armenia/34/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47550,
+      "sha256": "6346041195a7b50a9a1eee118e8735af11660c74516a25ced90d3d76fba8ecbd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-medal_for_combat_support-representative-image",
+      "record_id": "ARM-WA-MEDAL_FOR_COMBAT_SUPPORT-REPRESENTATIVE",
+      "view_key": "ARM-WA-MEDAL_FOR_COMBAT_SUPPORT-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/medal-for-combat-support.jpg",
+      "source_page": "https://wawards.org/armenia/medal-for-combat-support.html",
+      "image_url": "https://wawards.org/images/armenia/35/2.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55209,
+      "sha256": "0f011240a0a6dc7ae80e69369aebe7351d2574dcb6df7b2cbc833cd028f2371e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "arm-wa-police_medal_for_long_service-representative-image",
+      "record_id": "ARM-WA-POLICE_MEDAL_FOR_LONG_SERVICE-REPRESENTATIVE",
+      "view_key": "ARM-WA-POLICE_MEDAL_FOR_LONG_SERVICE-REPRESENTATIVE-VIEW1",
+      "local_path": "assets/images/armenia_wawards_differential/police-medal-for-long-service.jpg",
+      "source_page": "https://wawards.org/armenia/police-medal-for-long-service.html",
+      "image_url": "https://wawards.org/images/armenia/36/1.jpg",
+      "license": "source-site research use; publication rights not asserted",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58107,
+      "sha256": "f0f505bfee7788dd522b5c2eb764a82cbb4e1a87182e533e3a98cc1dd690d849",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [],
+  "notes": [
+    "Armenia output is a differential against the existing 16-family volume; source images for overlapping families remain cached."
+  ]
+}

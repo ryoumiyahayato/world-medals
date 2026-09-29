@@ -1,0 +1,1042 @@
+{
+  "as_of": "2026-09-28",
+  "volume": "立陶宛共和国",
+  "records": [
+    {
+      "id": "LTU-WA-VYTIS_CROSS-REPRESENTATIVE",
+      "family": "LTU-WA-VYTIS_CROSS",
+      "country_zh": "立陶宛共和国",
+      "name": "维蒂斯十字勋章",
+      "original": "Vytis Cross",
+      "date": "1919年设立；另载1920年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-VYTIS_CROSS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-VYTIS_CROSS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-VYTIS_CROSS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-VYTIS_CROSS-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-001"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE",
+      "family": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT",
+      "country_zh": "立陶宛共和国",
+      "name": "维陶塔斯大帝勋章",
+      "original": "Order of Vytautas the Great",
+      "date": "1930年设立；另载1991年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW5",
+          "label": "完整图样·5"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW6",
+          "label": "完整图样·6"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW7",
+          "label": "完整图样·7"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-002"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE",
+      "family": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS",
+      "country_zh": "立陶宛共和国",
+      "name": "维蒂斯十字勋章",
+      "original": "Order of the Vytis Cross",
+      "date": "1927年设立；另载1930、1991年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW5",
+          "label": "完整图样·5"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW6",
+          "label": "完整图样·6"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW7",
+          "label": "完整图样·7"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_VYTIS_CROSS-REPRESENTATIVE-VIEW8",
+          "label": "完整图样·8"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-003"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE",
+      "family": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS",
+      "country_zh": "立陶宛共和国",
+      "name": "立陶宛大公格迪米纳斯勋章",
+      "original": "Order of the Lithuanian Grand Duke Gediminas",
+      "date": "1927年设立；另载1930、1991年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW5",
+          "label": "完整图样·5"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-004"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ORDER_FOR_MERITS_TO_LITHUANIA-REPRESENTATIVE",
+      "family": "LTU-WA-ORDER_FOR_MERITS_TO_LITHUANIA",
+      "country_zh": "立陶宛共和国",
+      "name": "立陶宛功绩勋章",
+      "original": "Order for Merits to Lithuania",
+      "date": "2002年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ORDER_FOR_MERITS_TO_LITHUANIA-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ORDER_FOR_MERITS_TO_LITHUANIA-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-005"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-LIFE_SAVING_CROSS-REPRESENTATIVE",
+      "family": "LTU-WA-LIFE_SAVING_CROSS",
+      "country_zh": "立陶宛共和国",
+      "name": "救生十字勋章",
+      "original": "Life Saving Cross",
+      "date": "1930年设立；另载1991年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-LIFE_SAVING_CROSS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-LIFE_SAVING_CROSS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-LIFE_SAVING_CROSS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-006"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_ORDER_OF_VYTAUTAS_THE_GREAT",
+      "country_zh": "立陶宛共和国",
+      "name": "维陶塔斯大帝勋章奖章",
+      "original": "Medal of the Order of Vytautas the Great",
+      "date": "1930年设立；另载1995、2002年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_VYTAUTAS_THE_GREAT-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-007"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS",
+      "country_zh": "立陶宛共和国",
+      "name": "立陶宛大公格迪米纳斯勋章奖章",
+      "original": "Medal of the Order of the Lithuanian Grand Duke Gediminas",
+      "date": "1930年设立；另载1995、2002年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_LITHUANIAN_GRAND_DUKE_GEDIMINAS-REPRESENTATIVE-VIEW5",
+          "label": "完整图样·5"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-008"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_CROSS_OF_VYTIS-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_CROSS_OF_VYTIS",
+      "country_zh": "立陶宛共和国",
+      "name": "维蒂斯十字勋章奖章",
+      "original": "Medal of the Order of the Cross of Vytis",
+      "date": "2002年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_OF_THE_CROSS_OF_VYTIS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-009"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_ORDER_FOR_MERITS_TO_LITHUANIA-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_ORDER_FOR_MERITS_TO_LITHUANIA",
+      "country_zh": "立陶宛共和国",
+      "name": "立陶宛功绩勋章奖章",
+      "original": "Medal of the Order for Merits to Lithuania",
+      "date": "2002年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_ORDER_FOR_MERITS_TO_LITHUANIA-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-010"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY",
+      "country_zh": "立陶宛共和国",
+      "name": "建军志愿者奖章",
+      "original": "Medal of the Volunteers-Founders of the Army",
+      "date": "1928年设立；另载1918、1919、1995、2001年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_VOLUNTEERS_FOUNDERS_OF_THE_ARMY-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-011"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_LITHUANIAN_INDEPENDENCE-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_LITHUANIAN_INDEPENDENCE",
+      "country_zh": "立陶宛共和国",
+      "name": "立陶宛独立奖章",
+      "original": "Medal of Lithuanian Independence",
+      "date": "1928年设立；另载2000、1990、2001年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_LITHUANIAN_INDEPENDENCE-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_LITHUANIAN_INDEPENDENCE-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_LITHUANIAN_INDEPENDENCE-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-012"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_PIONEERS_OF_THE_ARMY-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_PIONEERS_OF_THE_ARMY",
+      "country_zh": "立陶宛共和国",
+      "name": "建军先驱奖章",
+      "original": "Medal of the Pioneers of the Army",
+      "date": "1940年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_PIONEERS_OF_THE_ARMY-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_PIONEERS_OF_THE_ARMY-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-013"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_LIBERATION_OF_KLAIPEDA-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_LIBERATION_OF_KLAIPEDA",
+      "country_zh": "立陶宛共和国",
+      "name": "克莱佩达解放奖章",
+      "original": "Medal of the Liberation of Klaipeda",
+      "date": "1924年设立；另载1923年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_LIBERATION_OF_KLAIPEDA-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_LIBERATION_OF_KLAIPEDA-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-014"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_13_JANUARY-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_13_JANUARY",
+      "country_zh": "立陶宛共和国",
+      "name": "一月十三日奖章",
+      "original": "Medal of 13 January",
+      "date": "1991年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_13_JANUARY-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_13_JANUARY-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-015"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS",
+      "country_zh": "立陶宛共和国",
+      "name": "达里乌斯与吉雷纳斯奖章",
+      "original": "Medal of Darius and Girenas",
+      "date": "1993年设立；另载2003年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_DARIUS_AND_GIRENAS-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-016"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-RIFLEMEN_S_STAR_DECORATION-REPRESENTATIVE",
+      "family": "LTU-WA-RIFLEMEN_S_STAR_DECORATION",
+      "country_zh": "立陶宛共和国",
+      "name": "步枪手之星佩饰",
+      "original": "Riflemen's Star Decoration",
+      "date": "1930年设立；另载1991、2003年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_DECORATION-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_DECORATION-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_DECORATION-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_DECORATION-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-017"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-RIFLEMEN_S_STAR_MEDAL-REPRESENTATIVE",
+      "family": "LTU-WA-RIFLEMEN_S_STAR_MEDAL",
+      "country_zh": "立陶宛共和国",
+      "name": "步枪手之星奖章",
+      "original": "Riflemen's Star Medal",
+      "date": "1939年设立；另载1991、2003年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_MEDAL-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_MEDAL-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        },
+        {
+          "key": "LTU-WA-RIFLEMEN_S_STAR_MEDAL-REPRESENTATIVE-VIEW4",
+          "label": "完整图样·4"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-018"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_MERITS_FOR_CIVILIANS-REPRESENTATIVE",
+      "family": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_MERITS_FOR_CIVILIANS",
+      "country_zh": "立陶宛共和国",
+      "name": "国防系统平民功绩奖章",
+      "original": "National Defence System Medal for Merits for Civilians",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_MERITS_FOR_CIVILIANS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-020"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_DISTINCTION-REPRESENTATIVE",
+      "family": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_DISTINCTION",
+      "country_zh": "立陶宛共和国",
+      "name": "国防系统优异奖章",
+      "original": "National Defence System Medal For Distinction",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_DISTINCTION-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_DISTINCTION-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-021"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_GENERAL_JONAS_ZEMAITIS_MEDAL-REPRESENTATIVE",
+      "family": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_GENERAL_JONAS_ZEMAITIS_MEDAL",
+      "country_zh": "立陶宛共和国",
+      "name": "国防系统约纳斯·热马蒂斯将军奖章",
+      "original": "National Defence System General Jonas Zemaitis Medal",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_GENERAL_JONAS_ZEMAITIS_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-022"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_INTERNATIONAL_OPERATIONS-REPRESENTATIVE",
+      "family": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_INTERNATIONAL_OPERATIONS",
+      "country_zh": "立陶宛共和国",
+      "name": "国防系统国际行动奖章",
+      "original": "National Defence System Medal For International Operations",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_FOR_INTERNATIONAL_OPERATIONS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-023"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_OF_NATO_ACCESSION-REPRESENTATIVE",
+      "family": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_OF_NATO_ACCESSION",
+      "country_zh": "立陶宛共和国",
+      "name": "国防系统加入北约奖章",
+      "original": "National Defence System Medal of NATO Accession",
+      "date": "2004年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-NATIONAL_DEFENCE_SYSTEM_MEDAL_OF_NATO_ACCESSION-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-024"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MERITS-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MERITS",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量功绩奖章",
+      "original": "Armed Forces Medal For Merits",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MERITS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MERITS-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-025"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINCTION-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINCTION",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量优异奖章",
+      "original": "Armed Forces Medal For Distinction",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINCTION-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-026"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_WOUND_MEDAL-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_WOUND_MEDAL",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量负伤奖章",
+      "original": "Armed Forces Wound Medal",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_WOUND_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-027"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MUTUAL_SUPPORT-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MUTUAL_SUPPORT",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量相互支援奖章",
+      "original": "Armed Forces Medal For Mutual Support",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MUTUAL_SUPPORT-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_MUTUAL_SUPPORT-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-028"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINGUISHED_SERVICE-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINGUISHED_SERVICE",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量杰出服役奖章",
+      "original": "Armed Forces Medal for Distinguished Service",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINGUISHED_SERVICE-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_DISTINGUISHED_SERVICE-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-029"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_SERVICE-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_SERVICE",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量模范服役奖章",
+      "original": "Armed Forces Medal For Exemplary Service",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_SERVICE-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_SERVICE-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-030"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_VOLUNTEER_SERVICE-REPRESENTATIVE",
+      "family": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_VOLUNTEER_SERVICE",
+      "country_zh": "立陶宛共和国",
+      "name": "武装力量模范志愿服役奖章",
+      "original": "Armed Forces Medal For Exemplary Volunteer Service",
+      "date": "2012年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_VOLUNTEER_SERVICE-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ARMED_FORCES_MEDAL_FOR_EXEMPLARY_VOLUNTEER_SERVICE-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-031"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-POLICE_GUARDIAN_ANGEL_MEDAL-REPRESENTATIVE",
+      "family": "LTU-WA-POLICE_GUARDIAN_ANGEL_MEDAL",
+      "country_zh": "立陶宛共和国",
+      "name": "警察守护天使奖章",
+      "original": "Police \"Guardian Angel Medal\"",
+      "date": "日期待考",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-POLICE_GUARDIAN_ANGEL_MEDAL-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-POLICE_GUARDIAN_ANGEL_MEDAL-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-033"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-POLICE_MEDAL_OF_MERIT-REPRESENTATIVE",
+      "family": "LTU-WA-POLICE_MEDAL_OF_MERIT",
+      "country_zh": "立陶宛共和国",
+      "name": "警察功绩奖章",
+      "original": "Police Medal of Merit",
+      "date": "2005年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-POLICE_MEDAL_OF_MERIT-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-034"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-POLICE_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE",
+      "family": "LTU-WA-POLICE_MEDAL_FOR_IMPECCABLE_SERVICE",
+      "country_zh": "立陶宛共和国",
+      "name": "警察无瑕服役奖章",
+      "original": "Police Medal For Impeccable Service",
+      "date": "2005年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-POLICE_MEDAL_FOR_IMPECCABLE_SERVICE-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-035"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-POLICE_MEDAL_FOR_DUTY_PERFORMED_IN_1991-REPRESENTATIVE",
+      "family": "LTU-WA-POLICE_MEDAL_FOR_DUTY_PERFORMED_IN_1991",
+      "country_zh": "立陶宛共和国",
+      "name": "警察1991年履职奖章",
+      "original": "Police Medal For duty performed in 1991",
+      "date": "1991年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-POLICE_MEDAL_FOR_DUTY_PERFORMED_IN_1991-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-036"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-ORDER_OF_THE_LABOUR_STAR-REPRESENTATIVE",
+      "family": "LTU-WA-ORDER_OF_THE_LABOUR_STAR",
+      "country_zh": "立陶宛共和国",
+      "name": "劳动之星勋章",
+      "original": "Order of the Labour Star",
+      "date": "1939年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LABOUR_STAR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-ORDER_OF_THE_LABOUR_STAR-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-037"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_OF_THE_LABOUR_STAR-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_OF_THE_LABOUR_STAR",
+      "country_zh": "立陶宛共和国",
+      "name": "劳动之星奖章",
+      "original": "Medal of the Labour Star",
+      "date": "1939年设立；另载2014年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_LABOUR_STAR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_OF_THE_LABOUR_STAR-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-038"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-FIREMEN_CROSS-REPRESENTATIVE",
+      "family": "LTU-WA-FIREMEN_CROSS",
+      "country_zh": "立陶宛共和国",
+      "name": "消防员十字勋章",
+      "original": "Firemen Cross",
+      "date": "1933年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-FIREMEN_CROSS-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-039"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-BADGE_HELP_TO_THE_NEAR-REPRESENTATIVE",
+      "family": "LTU-WA-BADGE_HELP_TO_THE_NEAR",
+      "country_zh": "立陶宛共和国",
+      "name": "助人徽章",
+      "original": "Badge Help to the Near",
+      "date": "1925年设立／纪年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-BADGE_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-BADGE_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-040"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-CROSS_HELP_TO_THE_NEAR-REPRESENTATIVE",
+      "family": "LTU-WA-CROSS_HELP_TO_THE_NEAR",
+      "country_zh": "立陶宛共和国",
+      "name": "助人十字勋章",
+      "original": "Cross Help to the Near",
+      "date": "1933年设立；另载1991年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-CROSS_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-CROSS_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        },
+        {
+          "key": "LTU-WA-CROSS_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW3",
+          "label": "完整图样·3"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-041"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    },
+    {
+      "id": "LTU-WA-MEDAL_HELP_TO_THE_NEAR-REPRESENTATIVE",
+      "family": "LTU-WA-MEDAL_HELP_TO_THE_NEAR",
+      "country_zh": "立陶宛共和国",
+      "name": "助人奖章",
+      "original": "Medal Help to the Near",
+      "date": "1933年设立；另载1937年",
+      "variant": "World Awards对象页完整图样组；具体等级／版别待考",
+      "views": [
+        {
+          "key": "LTU-WA-MEDAL_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW1",
+          "label": "完整图样"
+        },
+        {
+          "key": "LTU-WA-MEDAL_HELP_TO_THE_NEAR-REPRESENTATIVE-VIEW2",
+          "label": "完整图样·2"
+        }
+      ],
+      "source_ids": [
+        "wawards-lithuania-042"
+      ],
+      "image_kind": "catalogue_object_or_illustration",
+      "html_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-09-28",
+  "source_id": "medalbook_kazakhstan",
+  "source_name": "MedalBook — Kazakhstan complete public catalogue",
+  "seed_url": "https://www.medalbook.com/asia/kazakhstan-1",
+  "status": "completed",
+  "planned_index_pages": 1,
+  "processed_index_pages": 1,
+  "index_page_candidate_counts": {
+    "https://www.medalbook.com/asia/kazakhstan-1": 55
+  },
+  "discovered_item_pages": 55,
+  "processed_item_pages": 55,
+  "item_pages_with_images": 0,
+  "original_image_urls": 0,
+  "failed_pages": [],
+  "remaining_pages": 0,
+  "raw_candidate_file": "data/raw_candidates/medalbook_kazakhstan.jsonl",
+  "cache_directory": "sources/pages/medalbook_kazakhstan",
+  "completion_rule": "Every configured index/category page and every discovered Kazakhstan object/version page were fetched."
+}

@@ -1,0 +1,321 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "lka-odm-000-supreme-heroism-02",
+      "record_id": "LKA-ODM-000-SUPREME-HEROISM",
+      "view_key": "LKA-ODM-000-SUPREME-HEROISM-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/000_supreme-heroism_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka001.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka001-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        108,
+        250
+      ],
+      "bytes": 10730,
+      "sha256": "ba3162f44910edceeb1d8f5c3169efb92e8137a0ee24d1e7467b490ab96ddeb2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-000-supreme-heroism-03",
+      "record_id": "LKA-ODM-000-SUPREME-HEROISM",
+      "view_key": "LKA-ODM-000-SUPREME-HEROISM-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/000_supreme-heroism_03.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka001.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka001-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        106,
+        250
+      ],
+      "bytes": 10777,
+      "sha256": "6d08d4db910bedbfec76ff995333a52c89f19320878528f0cff70f717b611dde",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-009-meritorious-service-01",
+      "record_id": "LKA-ODM-009-MERITORIOUS-SERVICE",
+      "view_key": "LKA-ODM-009-MERITORIOUS-SERVICE-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/009_meritorious-service_01.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka010.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka010-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        106,
+        250
+      ],
+      "bytes": 12772,
+      "sha256": "80efc38b30a3b7d861fa598072a9f7c09ad4bb78367537b7db1c32567f4f2576",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-009-meritorious-service-02",
+      "record_id": "LKA-ODM-009-MERITORIOUS-SERVICE",
+      "view_key": "LKA-ODM-009-MERITORIOUS-SERVICE-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/009_meritorious-service_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka010.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka010-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        107,
+        250
+      ],
+      "bytes": 12888,
+      "sha256": "8d02f180222af9f3039c426a2c7817d817f7d6810c8daf5e942500cc66206bf5",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-014-civil-war-service-01",
+      "record_id": "LKA-ODM-014-CIVIL-WAR-SERVICE",
+      "view_key": "LKA-ODM-014-CIVIL-WAR-SERVICE-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/014_civil-war-service_01.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka015.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka015-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        129,
+        250
+      ],
+      "bytes": 12316,
+      "sha256": "6d3eaa4a52cb7783cce82adb635c85bd925f9604ddfdf8ecb09fcee5d92c6e0e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-014-civil-war-service-02",
+      "record_id": "LKA-ODM-014-CIVIL-WAR-SERVICE",
+      "view_key": "LKA-ODM-014-CIVIL-WAR-SERVICE-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/014_civil-war-service_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka015.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka015-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        123,
+        250
+      ],
+      "bytes": 11671,
+      "sha256": "9a25c998f5133fd4df92914d4562cfa39df9dc5533c3b5ac8a3cc0db6e64c0e9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-016-independence-50-02",
+      "record_id": "LKA-ODM-016-INDEPENDENCE-50",
+      "view_key": "LKA-ODM-016-INDEPENDENCE-50-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/016_independence-50_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka017.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka017-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        117,
+        250
+      ],
+      "bytes": 9632,
+      "sha256": "c4792d8d25277f5cdfabbccb32368d599c0b1d4d978bfd1277696c0ec2c1a44a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-016-independence-50-03",
+      "record_id": "LKA-ODM-016-INDEPENDENCE-50",
+      "view_key": "LKA-ODM-016-INDEPENDENCE-50-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/016_independence-50_03.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka017.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka017-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        112,
+        250
+      ],
+      "bytes": 9348,
+      "sha256": "efe37e543cdcd327f4c74a46b66de7fa485823893bf9e248e334d6881b1cb408",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-017-air-force-50-01",
+      "record_id": "LKA-ODM-017-AIR-FORCE-50",
+      "view_key": "LKA-ODM-017-AIR-FORCE-50-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/017_air-force-50_01.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka018.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka018-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        116,
+        250
+      ],
+      "bytes": 12560,
+      "sha256": "b8811899eedc716fce255bebf08e41f48318ff62dc7e936f56af6bc5595e2019",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-017-air-force-50-02",
+      "record_id": "LKA-ODM-017-AIR-FORCE-50",
+      "view_key": "LKA-ODM-017-AIR-FORCE-50-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/017_air-force-50_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka018.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka018-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        111,
+        250
+      ],
+      "bytes": 12290,
+      "sha256": "2c0b12f337d0bf9c713fc5d570763ebd293b0ab3960ca38ef498cd1c230158af",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-018-son-nation-01",
+      "record_id": "LKA-ODM-018-SON-NATION",
+      "view_key": "LKA-ODM-018-SON-NATION-VIEW1",
+      "local_path": "assets/images/medals_org_sri_lanka/018_son-nation_01.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka019.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka019-01.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        129,
+        250
+      ],
+      "bytes": 11573,
+      "sha256": "714f4a29dac76743d78b76befe5ce4d246c6d1ad2b4a1baa24070282b3fd993e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "lka-odm-018-son-nation-02",
+      "record_id": "LKA-ODM-018-SON-NATION",
+      "view_key": "LKA-ODM-018-SON-NATION-VIEW2",
+      "local_path": "assets/images/medals_org_sri_lanka/018_son-nation_02.jpg",
+      "source_page": "https://www.medals.org.uk/sri-lanka/sri-lanka019.htm",
+      "image_url": "https://www.medals.org.uk/sri-lanka/images/sri-lanka019-02.jpg",
+      "artist": "ODM / medals.org.uk catalogue image",
+      "license": "Source terms apply; retained for offline research catalogue",
+      "dimensions": [
+        125,
+        250
+      ],
+      "bytes": 12406,
+      "sha256": "5d0b073f63987db3806bdb7196a370eb9f5cc92f0388160b0c845fa2f3626229",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ],
+  "unpictured_candidates": [
+    {
+      "source_id": "medals-org-sri_lanka-290d393b7235a565",
+      "name": "Veerodhara Vibushanya",
+      "date": "1971.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka002.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-ffbce79be7130bd5",
+      "name": "Veera Vickram Vibushanya",
+      "date": "1971.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka003.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-0db3f0414b0b6621",
+      "name": "Police Medal for Gallantry",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka004.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-1c9eb2d61a08136a",
+      "name": "Armed Services Inauguration Medal",
+      "date": "July 1955.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka005.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-53414a11fb3a7302",
+      "name": "Police Independence Medal",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka006.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-9fdce9b8381394e2",
+      "name": "Armed Services Medal",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka007.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-0f31104af783218d",
+      "name": "Videsha Seva Padakkama",
+      "date": "1971.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka008.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-0def21a98763a1ba",
+      "name": "Visiatha Seva Vibushanya",
+      "date": "1971.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka009.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-335ae52ef7829fcf",
+      "name": "Sri Lanka Armed Forces Long Service Medal",
+      "date": "1 August 1979.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka011.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-73e3c2aafc26e16e",
+      "name": "Medal for Meritorious Service",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka012.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-6c8e79e2f109e48f",
+      "name": "Ceylon Police Long Service and Good Conduct Medal",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka013.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-ebf785a3c6257545",
+      "name": "Ceylon Fire Brigade Long Service and Good Conduct Medal",
+      "date": "Unknown.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka014.htm",
+      "status": "有记载未配完整章体图"
+    },
+    {
+      "source_id": "medals-org-sri_lanka-ebcaeaeff2311e5e",
+      "name": "Pride of Sri Lanka",
+      "date": "1986.",
+      "page_url": "https://www.medals.org.uk/sri-lanka/sri-lanka016.htm",
+      "status": "有记载未配完整章体图"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "kind": "ribbon_only",
+      "count": 3,
+      "reason": "绶带图不作为章体图示"
+    }
+  ]
+}

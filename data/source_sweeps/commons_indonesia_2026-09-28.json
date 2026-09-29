@@ -1,0 +1,150 @@
+{
+  "as_of": "2026-09-28",
+  "source": "Category:Orders, decorations and medals of Indonesia",
+  "status": "complete_with_download_failures",
+  "categories_visited": 21,
+  "files_discovered": 141,
+  "raster_files_cached": 21,
+  "download_failures": [
+    {
+      "title": "File:Bintang Penegak Demokrasi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bintang_Penegak_Demokrasi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)'>"
+    },
+    {
+      "title": "File:GanefoBronzeMedal.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/GanefoBronzeMedal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)'>"
+    }
+  ],
+  "categories": [
+    "Category:Indonesia Military Operation Service Medal",
+    "Category:Medal Satyalancana Bhakti",
+    "Category:Medal Satyalancana Dharma Olahraga",
+    "Category:Medal Satyalancana Gerakan Operasi Militer II",
+    "Category:Medal Satyalancana Gerakan Operasi Militer III",
+    "Category:Medal Satyalancana Gerakan Operasi Militer IV",
+    "Category:Medal Satyalancana Gerakan Operasi Militer V",
+    "Category:Medal Satyalancana Gerakan Operasi Militer VI",
+    "Category:Medal Satyalancana Gerakan Operasi Militer VII",
+    "Category:Medal Satyalancana Karya Satya",
+    "Category:Medal Satyalancana Kesetiaan",
+    "Category:Medal Satyalancana Perang Kemerdekaan",
+    "Category:Medal Satyalancana Teladan",
+    "Category:Medal Sewindu Angkatan Perang",
+    "Category:Medals of Indonesia",
+    "Category:Orders of Indonesia",
+    "Category:Orders, decorations and medals of Indonesia",
+    "Category:The Star of Guerrilla",
+    "Category:The Star of Mahaputera",
+    "Category:The Star of the Republic of Indonesia",
+    "Category:The Star of the Upholder of Democracy"
+  ],
+  "retry_recovered": [],
+  "thumbnail_recovered": [
+    {
+      "title": "File:Karya Satya XX.png",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Karya_Satya_XX.png/1280px-Karya_Satya_XX.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/c9a14091fcc334f6_1200.png",
+      "width": 1280,
+      "height": 1280,
+      "bytes": 196009
+    },
+    {
+      "title": "File:Karya Satya XXX.png",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Karya_Satya_XXX.png/1280px-Karya_Satya_XXX.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/8c50ae07cc60b74f_1200.png",
+      "width": 1280,
+      "height": 1280,
+      "bytes": 196420
+    },
+    {
+      "title": "File:Medal, campaign (AM 806910-1).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Medal%2C_campaign_%28AM_806910-1%29.jpg/1280px-Medal%2C_campaign_%28AM_806910-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/899766e714ef5dea_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 357076
+    },
+    {
+      "title": "File:Medal, campaign (AM 806910-2).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Medal%2C_campaign_%28AM_806910-2%29.jpg/1280px-Medal%2C_campaign_%28AM_806910-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/9fb7f0eb72be5544_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 385816
+    },
+    {
+      "title": "File:Medal, campaign (AM 806910-3).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Medal%2C_campaign_%28AM_806910-3%29.jpg/1280px-Medal%2C_campaign_%28AM_806910-3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/7631be337bc99fa5_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 301468
+    },
+    {
+      "title": "File:Medal, campaign (AM 806911-1).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Medal%2C_campaign_%28AM_806911-1%29.jpg/1280px-Medal%2C_campaign_%28AM_806911-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/02d63a3492232344_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 444981
+    },
+    {
+      "title": "File:Medal, campaign (AM 806911-2).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Medal%2C_campaign_%28AM_806911-2%29.jpg/1280px-Medal%2C_campaign_%28AM_806911-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/df696efdbf449200_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 414895
+    },
+    {
+      "title": "File:Medal, campaign (AM 806911-3).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Medal%2C_campaign_%28AM_806911-3%29.jpg/1280px-Medal%2C_campaign_%28AM_806911-3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/e2955e40c991f1d6_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 305061
+    },
+    {
+      "title": "File:Medal, campaign (AM 806919-1).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Medal%2C_campaign_%28AM_806919-1%29.jpg/1280px-Medal%2C_campaign_%28AM_806919-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/615c05dc13f0e1d5_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 429489
+    },
+    {
+      "title": "File:Medal, campaign (AM 806919-2).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Medal%2C_campaign_%28AM_806919-2%29.jpg/1280px-Medal%2C_campaign_%28AM_806919-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/33c0e4ac7f55f9f5_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 432967
+    },
+    {
+      "title": "File:Medal, campaign (AM 806919-3).jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Medal%2C_campaign_%28AM_806919-3%29.jpg/1280px-Medal%2C_campaign_%28AM_806919-3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/32c1ab58b5a9d340_1200.jpg",
+      "width": 1280,
+      "height": 1920,
+      "bytes": 323195
+    },
+    {
+      "title": "File:Medali.jpg",
+      "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Medali.jpg/1280px-Medali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "local_path": "assets/raw/commons_indonesia/3bc17ff7b580b2bc_1200.jpg",
+      "width": 1280,
+      "height": 960,
+      "bytes": 256002
+    },
+    {
+      "title": "File:Star of the Republic of Indonesia Nararya (Fifth Class).jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Star_of_the_Republic_of_Indonesia_Nararya_%28Fifth_Class%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "local_path": "assets/raw/commons_indonesia/c98fa30cf504f8e7_1200.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 75885
+    }
+  ]
+}

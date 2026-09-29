@@ -1,0 +1,13 @@
+{
+  "source_atlas_id": "iceland_source_matrix",
+  "as_of": "2026-09-29",
+  "scope": "冰岛王国时期与共和国正式勋赏体系",
+  "sources": [
+    {"id":"IS-GOV-HONOURS","type":"official_government_honours_directory","language":"is","scope":"四项正式勋赏及图像","date_coverage":"1921—现行","image_capability":"四张完整低清实物图","pagination":"none","download_method":"direct public library endpoint","priority":1,"status":"completed_visible_directory","last_checked":"2026-09-29","coverage_boundary":"政府页面列出的猎鹰勋章、红十字会勋饰、总统荣誉奖章、共和国英勇功绩奖章"},
+    {"id":"IS-PRESIDENCY-FALCON","type":"official_presidency","language":"en/is","scope":"猎鹰勋章历史、五级与佩戴制度","date_coverage":"1921—现行","image_capability":"页面图片未单独用于本批","pagination":"none","download_method":"web review","priority":1,"status":"completed_fact_check","last_checked":"2026-09-29"},
+    {"id":"IS-ALTHINGI-AWARDS-LAWS","type":"official_legal_database","language":"is","scope":"145/2005猎鹰勋章令与143/2005共和国英勇功绩奖章令","date_coverage":"2005—现行","image_capability":"none","pagination":"none","download_method":"web review","priority":1,"status":"completed_selected_laws","last_checked":"2026-09-29"},
+    {"id":"IS-NATIONAL-MUSEUM-SARPUR","type":"national_museum_collection","language":"is","scope":"历史版型与馆藏实物","date_coverage":"待扫","image_capability":"可能","pagination":"unknown","download_method":"object search pending","priority":2,"status":"not_started","last_checked":"2026-09-29"}
+  ],
+  "counts": {"planned":4,"completed":3,"partial":0,"blocked":0,"not_started":1},
+  "next_action": "扫描国家博物馆/Sarpur的猎鹰勋章历史版型、五个现行等级，以及红十字会勋饰两级和共和国英勇功绩奖章银质二级实物。"
+}

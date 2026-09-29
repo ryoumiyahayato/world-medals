@@ -1,0 +1,51 @@
+{
+  "as_of": "2026-09-27",
+  "scope": "Ottoman completeness audit — MedalBook 97-family crosswalk and formal gap follow-up",
+  "source_coverage": {
+    "planned_sources": 25,
+    "completed_sources": 19,
+    "partially_scanned_sources": 2,
+    "blocked_sources": 4,
+    "not_started_sources": 0,
+    "finite_catalogue_audits": {
+      "MedalBook": "97/97 main-award candidate families explicitly mapped",
+      "TDV": "91/91 chronology rows explicitly mapped"
+    }
+  },
+  "medalbook_crosswalk": {
+    "source_candidates": 97,
+    "crosswalk_entries": 97,
+    "missing_keys": 0,
+    "extra_keys": 0,
+    "formal_pictured_source_headings": 75,
+    "formal_unpictured": 2,
+    "related_pictured": 7,
+    "related_unpictured": 10,
+    "identity_conflict": 1,
+    "proposed_not_made": 1,
+    "proposed_or_unissued": 1,
+    "distinct_mapped_project_families": 86
+  },
+  "formal_unpictured": [
+    "OTT-GENDARMERIE-SERGEANT",
+    "OTT-YEMEN-1905"
+  ],
+  "classification_repairs": [
+    "Sebastopol/Sivastopol 1855 is no longer labelled generically identity-unresolved: SALT proves physical gold and bronze-trial objects, but also says the medal was very likely never awarded; it is retained as proposed-or-unissued and excluded from the formal count.",
+    "The MedalBook duplicate headings for Acre, Kars, Silistria, Kurdistan, Cami-i Nusret and Donanma are explicitly crosswalked to stable project families instead of being counted twice.",
+    "The 1867 Sultan Abdülaziz London visit medal is isolated as a British/City of London commemorative issue in the related appendix, not counted as an Ottoman state award.",
+    "Sanay-i Nefise is retained as a period/name issue within OTT-SANAYI rather than inflated into a second family; 1884, the 1888 regulation and the 1889 list date remain to be aligned."
+  ],
+  "current_ottoman_volume": {
+    "independent_formal_families": 82,
+    "variant_rows": 311,
+    "formal_local_images": 473,
+    "related_rows": 42,
+    "formal_unpictured_families": 2
+  },
+  "next_action": "Search a new bounded specialist-auction or museum unit for the 1905 final Yemen medal and the formal silver Zaptiye Çavuşları medal. Audit early Ottoman honor ornaments (çelenk, sorguç, tuğ and pre-order gifts) as a separate historical-honours boundary, and locate a licensable full image for the related 1867 London visit medal; do not inflate the formal medal/order count with badges, copies, foreign commemoratives or proposed orders.",
+  "publish": {
+    "github_push_performed": false,
+    "reason": "Ottoman volume remains incomplete because two documented formal families still lack an eligible complete image and four sources remain blocked, including the newly discovered 2025 Kuşoğlu whole-book PDF."
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "as_of": "2026-09-28",
+  "images": [
+    {
+      "key": "aut-aur-003-v01-front",
+      "record_id": "AUT-AUR-003-V01",
+      "view_key": "AUT-AUR-003-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic003.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic003.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria003-01.jpg",
+      "object_reference": "World Medals Index image caption “Insignia for Men, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Insignia for Men, Obverse",
+      "dimensions": [
+        164,
+        250
+      ],
+      "bytes": 15381,
+      "sha256": "940ce2aad0e8aa5d062bc48a2f4625c424aae03bfe249efc2f5dd64b91e42174",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-001-v01-front",
+      "record_id": "AUT-AUR-001-V01",
+      "view_key": "AUT-AUR-001-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic001.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic001.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria001-01.jpg",
+      "object_reference": "World Medals Index image caption “Class 1: Badge, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Class 1: Badge, Obverse",
+      "dimensions": [
+        188,
+        250
+      ],
+      "bytes": 18134,
+      "sha256": "797450c967442c63d82a870f381d1366752a766cbc734a150ba6a002dfc80959",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-004-v01-front",
+      "record_id": "AUT-AUR-004-V01",
+      "view_key": "AUT-AUR-004-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic004.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic004.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria004-03.jpg",
+      "object_reference": "World Medals Index image caption “Cross of Honour (Male), Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Cross of Honour (Male), Obverse",
+      "dimensions": [
+        147,
+        250
+      ],
+      "bytes": 11786,
+      "sha256": "e5030de4c7a15303cc1bdeb79d4707ef1ac4a09ea4087fc21ac6c020b65033cb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-010-v01-front",
+      "record_id": "AUT-AUR-010-V01",
+      "view_key": "AUT-AUR-010-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic010.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic010.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria010-01.jpg",
+      "object_reference": "World Medals Index image caption “Male Insignia, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Male Insignia, Obverse",
+      "dimensions": [
+        166,
+        250
+      ],
+      "bytes": 12283,
+      "sha256": "d840d28f0bb4767037742c53d9b353833046e9d1494ec2837d8f30e0ed16ee25",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-012-v01-front",
+      "record_id": "AUT-AUR-012-V01",
+      "view_key": "AUT-AUR-012-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic012.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic012.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria012-01.jpg",
+      "object_reference": "World Medals Index image caption “Type 1, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Type 1, Obverse",
+      "dimensions": [
+        151,
+        250
+      ],
+      "bytes": 11208,
+      "sha256": "ebba1b0638bcd27e06b57fa02a9c13697548684325bb7cf8793056a4b5dc1426",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-011-v01-front",
+      "record_id": "AUT-AUR-011-V01",
+      "view_key": "AUT-AUR-011-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic011.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic011.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria011-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        170,
+        250
+      ],
+      "bytes": 13895,
+      "sha256": "aed207bfb79c4034de880a89f4b567a0bf4c737e9d6fe794b3c4875b7a05ebed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-014-v01-front",
+      "record_id": "AUT-AUR-014-V01",
+      "view_key": "AUT-AUR-014-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic014.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic014.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria014-01.jpg",
+      "object_reference": "World Medals Index image caption “Class 1, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Class 1, Obverse",
+      "dimensions": [
+        147,
+        250
+      ],
+      "bytes": 10617,
+      "sha256": "b11eb4b99e12b885b94ce6c362ec972ed7235d2e549a0dc48cfc79b4eb1c7c6a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-015-v01-front",
+      "record_id": "AUT-AUR-015-V01",
+      "view_key": "AUT-AUR-015-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic015.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic015.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria015-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        239,
+        250
+      ],
+      "bytes": 21822,
+      "sha256": "155c9e5cb550bff8bad111ff1a4581de42091d2ccdd527d0e5798323499eedbb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-016-v01-front",
+      "record_id": "AUT-AUR-016-V01",
+      "view_key": "AUT-AUR-016-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic016.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic016.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria016-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        104,
+        250
+      ],
+      "bytes": 9429,
+      "sha256": "4a582e4d62930ac6074c872de9843ba9a6b18ae20ba7fd6fdff088e4c4a39a6c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-017-v01-front",
+      "record_id": "AUT-AUR-017-V01",
+      "view_key": "AUT-AUR-017-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic017.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic017.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria017-01.jpg",
+      "object_reference": "World Medals Index image caption “Gold Medal (Male), Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Gold Medal (Male), Obverse",
+      "dimensions": [
+        159,
+        250
+      ],
+      "bytes": 11911,
+      "sha256": "2d410697fd1a89e362502db4247fe3a1e4e5e0b5ce4952f243a5bf51f7ea0c14",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-018-v01-front",
+      "record_id": "AUT-AUR-018-V01",
+      "view_key": "AUT-AUR-018-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic018.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic018.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria018-01.jpg",
+      "object_reference": "World Medals Index image caption “Male Insignia, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Male Insignia, Obverse",
+      "dimensions": [
+        154,
+        250
+      ],
+      "bytes": 12578,
+      "sha256": "ad8639bcb4cc469986e759917ac5ff055dd350deae65417838bf552f48fd8204",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-021-v01-front",
+      "record_id": "AUT-AUR-021-V01",
+      "view_key": "AUT-AUR-021-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic021.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic021.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria021-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        154,
+        250
+      ],
+      "bytes": 13543,
+      "sha256": "9d2e8db3c8f9aad06a758a4591fc9b24d755c4ae5a9f1e7c43238d207abf84a3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-023-v01-front",
+      "record_id": "AUT-AUR-023-V01",
+      "view_key": "AUT-AUR-023-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic023.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic023.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria023-01.jpg",
+      "object_reference": "World Medals Index image caption “Gold Medal, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Gold Medal, Obverse",
+      "dimensions": [
+        149,
+        250
+      ],
+      "bytes": 12511,
+      "sha256": "8b85d500961c29151613868e0d2a8de53e2dcad5917eaddd79e489bd82f45985",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-022-v01-front",
+      "record_id": "AUT-AUR-022-V01",
+      "view_key": "AUT-AUR-022-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic022.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic022.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria022-01.jpg",
+      "object_reference": "World Medals Index image caption “Class 1, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Class 1, Obverse",
+      "dimensions": [
+        161,
+        250
+      ],
+      "bytes": 12641,
+      "sha256": "66eb73655284a029e60a9459ba5b9128f7bdf2d069e26edcedcbf05b3375c6cd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-027-v01-front",
+      "record_id": "AUT-AUR-027-V01",
+      "view_key": "AUT-AUR-027-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic027.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic027.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria027-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        162,
+        250
+      ],
+      "bytes": 14338,
+      "sha256": "52c6be750d1c3d99896c38ac39ef259360aa57e184d1f187ec710d1bb0425b59",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-029-v01-front",
+      "record_id": "AUT-AUR-029-V01",
+      "view_key": "AUT-AUR-029-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic029.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic029.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria029-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        149,
+        250
+      ],
+      "bytes": 10685,
+      "sha256": "3e8015b551a7ea987a507f4fe1ed5c6b404b2b43fa8ed67f9cb8f03920a1811a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-028-v01-front",
+      "record_id": "AUT-AUR-028-V01",
+      "view_key": "AUT-AUR-028-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic028.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic028.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria028-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        161,
+        250
+      ],
+      "bytes": 11104,
+      "sha256": "7b01fc60b2e68ad6273bd47be8fd29459738fbf2574e16a6d15d0db2cf4bcff8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-050-v01-front",
+      "record_id": "AUT-AUR-050-V01",
+      "view_key": "AUT-AUR-050-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic050.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic050.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria050-01.jpg",
+      "object_reference": "World Medals Index image caption “Class 1, Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Class 1, Obverse",
+      "dimensions": [
+        155,
+        250
+      ],
+      "bytes": 10709,
+      "sha256": "b91a83f98108f247ceda0ce6c13c52f28787cd92896ffdc4bff9508970554a19",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "aut-aur-054-v01-front",
+      "record_id": "AUT-AUR-054-V01",
+      "view_key": "AUT-AUR-054-V01-VIEW1",
+      "local_path": "assets/images/austria_medals_org_fast_2026-09-28/austria-republic054.jpg",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic054.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria054-01.jpg",
+      "object_reference": "World Medals Index image caption “Obverse” on the award detail page",
+      "artist": "World Medals Index; photographer/collector not identified on page",
+      "license": "No blanket republication license located; local offline research use only; publication/export rights unverified",
+      "source_caption": "Obverse",
+      "dimensions": [
+        133,
+        250
+      ],
+      "bytes": 9306,
+      "sha256": "52e6c2ad0453ff4955c0f3659cbbb8ab22027d31d0f739a1cc480fb2562b6d47",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

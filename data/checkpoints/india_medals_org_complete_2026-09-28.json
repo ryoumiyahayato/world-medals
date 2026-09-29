@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "India / Dominion of India — complete ODM directory differential",
+  "status": "source_complete_formal_batch_merged",
+  "source_coverage": {
+    "object_pages_planned": 31,
+    "object_pages_completed": 31,
+    "downloaded_files": 70,
+    "pictured_source_pages": 26
+  },
+  "formal_merge": {
+    "new_rows": 17,
+    "represented_families": 13,
+    "net_new_families": 12,
+    "local_complete_views": 34,
+    "ribbon_only_or_unpictured_pages_retained": 16,
+    "duplicate_payloads_promoted": 0,
+    "ribbon_only_views_promoted": 0
+  },
+  "site_after_merge": {
+    "main_rows": 1828,
+    "main_families": 931,
+    "country_or_period_sections": 96,
+    "decoded_local_files": 2735,
+    "unique_gallery_image_paths": 2660,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Advance the Asia queue to Pakistan; keep official India and Commons differentials queued."
+}

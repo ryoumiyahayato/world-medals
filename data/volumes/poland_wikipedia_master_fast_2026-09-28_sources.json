@@ -1,0 +1,43 @@
+{
+  "source_record_version": "AUTONOMOUS_SOURCE_DISCOVERY_V2",
+  "batch_id": "POLAND-WIKIPEDIA-MASTER-FAST-20260928",
+  "accessed_on": "2026-09-28",
+  "sources": [
+    {
+      "source_id": "WIKI-POLAND-EN-MASTER",
+      "source_type": "Wikipedia national award master list",
+      "title": "Orders, decorations, and medals of Poland",
+      "url": "https://en.wikipedia.org/wiki/Orders,_decorations,_and_medals_of_Poland",
+      "raw_cache": "sources/pages/wikipedia_poland_orders_decorations_medals_en.wikitext",
+      "language": "English",
+      "coverage": "All article sections and tables parsed; 81 award rows retained as raw candidates.",
+      "evidence": "Table first columns supply award names; established-in cells supply date candidates; class columns and file links supply grade/image clues.",
+      "status": "completed_table_sweep"
+    },
+    {
+      "source_id": "COMMONS-FILE-PAGES-FROM-ARTICLE",
+      "source_type": "Wikimedia Commons file pages and original files",
+      "languages": [
+        "English"
+      ],
+      "coverage": "25 non-ribbon object-image candidates attempted; 4 files downloaded and decoded; 21 rejected or failed.",
+      "status": "partial_image_sweep",
+      "limitation": "Commons file-page licenses and visual completeness remain to be checked individually; no ribbon-bar image was promoted."
+    },
+    {
+      "source_id": "EXISTING-POLAND-RAW-DIFFERENTIAL",
+      "source_type": "Local prior raw candidates",
+      "local_records": [
+        "data/raw_candidates/wikipedia_poland_en_awards.jsonl",
+        "data/raw_candidates/wikipedia_poland_pl_awards.jsonl",
+        "data/raw_candidates/wawards_poland.jsonl"
+      ],
+      "status": "compared_name_level_only",
+      "limitation": "Prior raw candidates are discovery clues, not independently revalidated facts."
+    }
+  ],
+  "search_languages": [
+    "English"
+  ],
+  "rights_note": "仅保留公开下载且可解码文件；重新发布须遵守各 Commons 文件页许可与署名要求。"
+}

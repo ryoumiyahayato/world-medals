@@ -1,0 +1,338 @@
+{
+  "as_of": "2026-09-27",
+  "volume": "埃及共和国明确等级与时期型差集",
+  "records": [
+    {
+      "id": "EGY-MEDALS-ORG-REP-LABOUR-CLASS-3",
+      "family": "EGY-MEDALS-ORG-ORDER-LABOUR",
+      "country_zh": "埃及",
+      "name": "劳动勋章",
+      "original": "Order of Labour",
+      "date": "1966年设立",
+      "variant": "三级；完整实物正面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-LABOUR-CLASS-3-V1",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1",
+      "family": "EGY-GAP-MILITARY-COURAGE",
+      "country_zh": "埃及",
+      "name": "军事勇气奖章",
+      "original": "Military Medal of Courage",
+      "date": "1959年7月9日设立",
+      "variant": "一等金质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-1-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2",
+      "family": "EGY-GAP-MILITARY-COURAGE",
+      "country_zh": "埃及",
+      "name": "军事勇气奖章",
+      "original": "Military Medal of Courage",
+      "date": "1959年7月9日设立",
+      "variant": "二等银质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-2-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3",
+      "family": "EGY-GAP-MILITARY-COURAGE",
+      "country_zh": "埃及",
+      "name": "军事勇气奖章",
+      "original": "Military Medal of Courage",
+      "date": "1959年7月9日设立",
+      "variant": "三等铜质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-COURAGE-CLASS-3-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1",
+      "family": "EGY-WAWARDS-MEDAL-OF-MERIT",
+      "country_zh": "埃及",
+      "name": "功绩奖章",
+      "original": "Medal for Merit",
+      "date": "1953年设立",
+      "variant": "一等金质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-1-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2",
+      "family": "EGY-WAWARDS-MEDAL-OF-MERIT",
+      "country_zh": "埃及",
+      "name": "功绩奖章",
+      "original": "Medal for Merit",
+      "date": "1953年设立",
+      "variant": "二等银质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-2-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3",
+      "family": "EGY-WAWARDS-MEDAL-OF-MERIT",
+      "country_zh": "埃及",
+      "name": "功绩奖章",
+      "original": "Medal for Merit",
+      "date": "1953年设立",
+      "variant": "三等铜质奖章；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MERIT-MEDAL-CLASS-3-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1",
+      "family": "EGY-GAP-MOBILISATION",
+      "country_zh": "埃及",
+      "name": "动员奖章",
+      "original": "Mobilisation Medal",
+      "date": "1953年设立",
+      "variant": "一等；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-1-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2",
+      "family": "EGY-GAP-MOBILISATION",
+      "country_zh": "埃及",
+      "name": "动员奖章",
+      "original": "Mobilisation Medal",
+      "date": "1953年设立",
+      "variant": "二等；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-2-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3",
+      "family": "EGY-GAP-MOBILISATION",
+      "country_zh": "埃及",
+      "name": "动员奖章",
+      "original": "Mobilisation Medal",
+      "date": "1953年设立",
+      "variant": "三等；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MOBILISATION-CLASS-3-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1",
+      "family": "EGY-GAP-MILITARY-DUTY",
+      "country_zh": "埃及",
+      "name": "军事职责奖章",
+      "original": "Medal of Military Duty",
+      "date": "1953年7月9日设立",
+      "variant": "一等金质奖章；目录所示型；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-1-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2",
+      "family": "EGY-GAP-MILITARY-DUTY",
+      "country_zh": "埃及",
+      "name": "军事职责奖章",
+      "original": "Medal of Military Duty",
+      "date": "1953年7月9日设立",
+      "variant": "二等银质奖章；目录所示型；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-2-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3",
+      "family": "EGY-GAP-MILITARY-DUTY",
+      "country_zh": "埃及",
+      "name": "军事职责奖章",
+      "original": "Medal of Military Duty",
+      "date": "1953年7月9日设立",
+      "variant": "三等铜质奖章；目录所示型；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-MILITARY-DUTY-CLASS-3-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    },
+    {
+      "id": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4",
+      "family": "EGY-MEDALS-ORG-DISTINGUISHED-SERVICE",
+      "country_zh": "埃及",
+      "name": "杰出服务奖章",
+      "original": "Medal of Distinguished Service",
+      "date": "1972年设立；1984年起四型",
+      "variant": "四型（1984年至今）；完整正反面；低清参考",
+      "views": [
+        {
+          "key": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4-V1",
+          "label": "完整正面"
+        },
+        {
+          "key": "EGY-MEDALS-ORG-REP-DISTINGUISHED-SERVICE-TYPE-4-V2",
+          "label": "完整反面"
+        }
+      ],
+      "source_ids": [
+        "medals_org_egypt_republic"
+      ],
+      "image_kind": "object_photo",
+      "html_eligible": true
+    }
+  ]
+}

@@ -3,6 +3,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
+$AsOf = (Get-Date).ToString('yyyy-MM-dd')
 $AtlasPath = Join-Path $ProjectRoot 'data\source_atlas\global_source_atlas.json'
 $QueueRoot = Join-Path $ProjectRoot 'data\queues'
 New-Item -ItemType Directory -Force -Path $QueueRoot | Out-Null
@@ -31,7 +32,7 @@ $discoveryItems = foreach ($scope in $requiredScopes) {
         next_action = if ($knownScopes -contains $scope.scope_id) {'Expand uncovered source types and re-check high-value partial sources during continuation.'} else {'Create the autonomous source matrix and immediately sweep one high-priority accessible source.'}
     }
 }
-Save-Json 'source_discovery_queue.json' ([ordered]@{schema_version='2.0'; as_of='2026-09-26'; workflow='AUTONOMOUS_SOURCE_DISCOVERY_V2'; items=@($discoveryItems)})
+Save-Json 'source_discovery_queue.json' ([ordered]@{schema_version='2.0'; as_of=$AsOf; workflow='AUTONOMOUS_SOURCE_DISCOVERY_V2'; items=@($discoveryItems)})
 
 $sweepItems = foreach ($source in $atlas.sources | Where-Object { $_.status -in @('partial','not_started','blocked') } | Sort-Object @{Expression={if ($_.priority) {[int]$_.priority} else {9}}}, source_id) {
     [ordered]@{
@@ -45,21 +46,21 @@ $sweepItems = foreach ($source in $atlas.sources | Where-Object { $_.status -in 
         next_action = if ($source.status -eq 'blocked') {'Retain exact blocker; retry only after a meaningful access-path change or use an alternate source.'} elseif ($source.status -eq 'partial') {'Finish remaining visible pagination, categories, chapters or failed object pages.'} else {'Sweep the complete accessible source or a clearly bounded chapter/lot range.'}
     }
 }
-Save-Json 'source_sweep_queue.json' ([ordered]@{schema_version='2.0'; as_of='2026-09-26'; ordering='priority, partial before new where operationally useful'; items=@($sweepItems)})
+Save-Json 'source_sweep_queue.json' ([ordered]@{schema_version='2.0'; as_of=$AsOf; ordering='priority, partial before new where operationally useful'; items=@($sweepItems)})
 
 $imageItems = @(
     [ordered]@{scope_id='ottoman_empire'; priority=1; status='partial_harvest_rights_blocked'; source_ids=@('commons_ottoman','emedals_ottoman','kuenker299_ottoman','ottoman_bank_archive_awards'); target='Continue normalized missing-image families from an open-licence source; three complete research images are retained but not publication-cleared.'},
     [ordered]@{scope_id='france_second_third_republic'; priority=2; status='partial_harvest_rights_blocked'; source_ids=@('FR-SAMLHOC-TONKIN','FR-SAMLHOC-MADAGASCAR','FR-OFFICIAL-COMMEMORATIVE-PDF'); target='Find reusable complete TONKIN-clasp and Madagascar variant images, then continue official or historical plate figures for accepted differences.'},
     [ordered]@{scope_id='german_states'; priority=2; status='research_harvest_complete_rights_blocked'; source_ids=@('DE-DHM-ORDERS'); target='Confirm reuse permission or replace 33 local candidates with rights-cleared museum or historical-plate images.'},
     [ordered]@{scope_id='japan_meiji_taisho'; priority=2; status='partial_harvest_rate_limited'; source_ids=@('jpn-ndl-1441381','japan_official_commons_batch1'); target='Retry only the nine recorded Commons originals after the 429 condition changes; one Cabinet Office CC BY image has already replaced the rights-unclear collar image.'},
-    [ordered]@{scope_id='egypt'; priority=2; status='partial_harvest_rate_limited'; source_ids=@('wawards_egypt','egypt_presidency_honours','omsa_egypt_awards_appendix','commons_egypt_awards'); target='Retry only the 19 recorded Commons original URLs after the 429 condition changes, then decode and visually inspect before binding to the 62 normalized families.'},
+    [ordered]@{scope_id='egypt'; priority=2; status='targeted_gap_harvest'; source_ids=@('wawards_egypt','egypt_presidency_honours','omsa_egypt_awards_appendix','commons_egypt_awards','egypt_abdeen_medals_museum','egypt_mota_royal_jewelry_medal_collection','heritage_auction_3075_2019','omsa_egypt_malaria_cholera_2005','spink_24003_egypt_health_medals','medals_org_egypt_kingdom','medals_org_egypt_republic','ahram_filaha_2019','emedals_egypt_catalog'); target='Medals of the World and the current 91-product eMedals Egypt collection are fully swept. Locate complete-object images for the 7 source-backed OMSA families that remain unpictured. Order of Filaha has verified 1915/1923制度 evidence but no eligible object image; do not promote its decree/sculpture images or any ribbon/device graphics.'},
     [ordered]@{scope_id='sudan'; priority=2; status='research_harvest_complete_rights_blocked'; source_ids=@('wawards_sudan','medalbook_sudan','commons_sudan_awards'); target='Replace or clear the 17 complete commercial-source fronts; retry Commons only after the 429 access condition changes.'}
 )
-Save-Json 'image_harvest_queue.json' ([ordered]@{schema_version='2.0'; as_of='2026-09-26'; items=$imageItems})
+Save-Json 'image_harvest_queue.json' ([ordered]@{schema_version='2.0'; as_of=$AsOf; items=$imageItems})
 
 $mergeItems = foreach ($scope in $requiredScopes) {
     [ordered]@{scope_id=$scope.scope_id; priority=$scope.priority; status='waiting_for_normalized_and_image_reviewed_batch'; target='Existing offline index.html'; ui_contract='名称＋日期｜等级／版别｜完整图样'}
 }
-Save-Json 'html_merge_queue.json' ([ordered]@{schema_version='2.0'; as_of='2026-09-26'; rebuild_policy='One rebuild after a material normalized and image-reviewed batch; never one item at a time.'; items=@($mergeItems)})
+Save-Json 'html_merge_queue.json' ([ordered]@{schema_version='2.0'; as_of=$AsOf; rebuild_policy='One rebuild after a material normalized and image-reviewed batch; never one item at a time.'; items=@($mergeItems)})
 
 [ordered]@{discovery=$discoveryItems.Count; sweep=$sweepItems.Count; image=$imageItems.Count; merge=$mergeItems.Count} | ConvertTo-Json

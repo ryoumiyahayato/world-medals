@@ -1,0 +1,1355 @@
+{
+  "as_of": "2026-09-27",
+  "images": [
+    {
+      "key": "egypt-wawards-medal-01-01",
+      "record_id": "EGY-WAWARDS-MEDAL-01-LIBERATION-OF-KUWAIT-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-01-LIBERATION-OF-KUWAIT-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/01-liberation-of-kuwait-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/liberation-of-kuwait-medal.html",
+      "image_url": "https://wawards.org/images/egypt/2/1/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54637,
+      "sha256": "68069666de5398c9ee484b15b75b3d08bd7e520b7f22d17e6997c40d3365f9cd",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-01-02",
+      "record_id": "EGY-WAWARDS-MEDAL-01-LIBERATION-OF-KUWAIT-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-01-LIBERATION-OF-KUWAIT-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/01-liberation-of-kuwait-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/liberation-of-kuwait-medal.html",
+      "image_url": "https://wawards.org/images/egypt/2/1/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49091,
+      "sha256": "a4c294ad02491484d2e6447f14bed442b68f8d5e31e595d02b75dd10fa598c5d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-02-01",
+      "record_id": "EGY-WAWARDS-MEDAL-02-MEDAL-20TH-ANNIVERSARY-OF-THE-REVOLUTION",
+      "view_key": "EGY-WAWARDS-MEDAL-02-MEDAL-20TH-ANNIVERSARY-OF-THE-REVOLUTION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/02-medal-20th-anniversary-of-the-revolution-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-20th-anniversary-of-the-revolution.html",
+      "image_url": "https://wawards.org/images/egypt/2/2/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50077,
+      "sha256": "c3ffbc43cfcfaa499c0afd2549831c09a56fc8a7575439f5a7f40c321c8b3cb1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-02-02",
+      "record_id": "EGY-WAWARDS-MEDAL-02-MEDAL-20TH-ANNIVERSARY-OF-THE-REVOLUTION",
+      "view_key": "EGY-WAWARDS-MEDAL-02-MEDAL-20TH-ANNIVERSARY-OF-THE-REVOLUTION-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/02-medal-20th-anniversary-of-the-revolution-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-20th-anniversary-of-the-revolution.html",
+      "image_url": "https://wawards.org/images/egypt/2/2/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 49700,
+      "sha256": "3a2afd3c80a0ae7a3b2d071611307fd4d80667cdd30ca23b1a35ad03f08013d9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-03-01",
+      "record_id": "EGY-WAWARDS-MEDAL-03-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI",
+      "view_key": "EGY-WAWARDS-MEDAL-03-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/03-medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai.html",
+      "image_url": "https://wawards.org/images/egypt/2/3/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52078,
+      "sha256": "74e8e672b7468871ddbf2e992110c9c95ba6aaa5f7fb73e2e383eccd30dd5214",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-04-01",
+      "record_id": "EGY-WAWARDS-MEDAL-04-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI",
+      "view_key": "EGY-WAWARDS-MEDAL-04-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/04-medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai.html",
+      "image_url": "https://wawards.org/images/egypt/2/3/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67627,
+      "sha256": "ab3932c19bf4612dccdb85f502cc08c96c10bccc09f61e8ca86d1aa9361d9544",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-04-02",
+      "record_id": "EGY-WAWARDS-MEDAL-04-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI",
+      "view_key": "EGY-WAWARDS-MEDAL-04-MEDAL-COMMEMORATING-THE-SILVER-JUBILEE-OF-THE-LIBERATION-OF-SINAI-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/04-medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-commemorating-the-silver-jubilee-of-the-liberation-of-sinai.html",
+      "image_url": "https://wawards.org/images/egypt/2/3/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60200,
+      "sha256": "8a90f14b275d75213b274fb48387eda6b92807876cd8c16e649183bdfda69d7a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-05-01",
+      "record_id": "EGY-WAWARDS-MEDAL-05-MEDAL-OF-6TH-OCTOBER",
+      "view_key": "EGY-WAWARDS-MEDAL-05-MEDAL-OF-6TH-OCTOBER-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/05-medal-of-6th-october-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-6th-october.html",
+      "image_url": "https://wawards.org/images/egypt/2/5/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47600,
+      "sha256": "bcaffcbf8dcbc512090f2cd8a0be82be5378a915baef1d990a6f0713d79ef500",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-05-02",
+      "record_id": "EGY-WAWARDS-MEDAL-05-MEDAL-OF-6TH-OCTOBER",
+      "view_key": "EGY-WAWARDS-MEDAL-05-MEDAL-OF-6TH-OCTOBER-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/05-medal-of-6th-october-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-6th-october.html",
+      "image_url": "https://wawards.org/images/egypt/2/5/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42605,
+      "sha256": "7b462bd8db3d0c5113fb0039717b207097c0523e72b97259573f537d91fb6606",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-06-01",
+      "record_id": "EGY-WAWARDS-MEDAL-06-MEDAL-OF-COMBATANTS-OF-OCTOBER-1973",
+      "view_key": "EGY-WAWARDS-MEDAL-06-MEDAL-OF-COMBATANTS-OF-OCTOBER-1973-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/06-medal-of-combatants-of-october-1973-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-combatants-of-october-1973.html",
+      "image_url": "https://wawards.org/images/egypt/2/6/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42772,
+      "sha256": "df8b4618f5cfe0bc7605d3a8f67ed547c61ddd6b6d8a47231b5fb471c30c673f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-06-02",
+      "record_id": "EGY-WAWARDS-MEDAL-06-MEDAL-OF-COMBATANTS-OF-OCTOBER-1973",
+      "view_key": "EGY-WAWARDS-MEDAL-06-MEDAL-OF-COMBATANTS-OF-OCTOBER-1973-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/06-medal-of-combatants-of-october-1973-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-combatants-of-october-1973.html",
+      "image_url": "https://wawards.org/images/egypt/2/6/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41654,
+      "sha256": "03741a39184a0dedbd63f05bb1f9fb0324226ec670649fdcf26bcdded1778124",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-07-01",
+      "record_id": "EGY-WAWARDS-MEDAL-07-MEDAL-OF-THE-GOLDEN-ANNIVERSARY-OF-THE-23-JULY-REVOLUTION",
+      "view_key": "EGY-WAWARDS-MEDAL-07-MEDAL-OF-THE-GOLDEN-ANNIVERSARY-OF-THE-23-JULY-REVOLUTION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/07-medal-of-the-golden-anniversary-of-the-23-july-revolution-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-the-golden-anniversary-of-the-23-july-revolution.html",
+      "image_url": "https://wawards.org/images/egypt/2/7/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48615,
+      "sha256": "98681ccbc16d6f021ade1c4d5497b017119d48a70c490d6ea5ce44c51425c41a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-07-02",
+      "record_id": "EGY-WAWARDS-MEDAL-07-MEDAL-OF-THE-GOLDEN-ANNIVERSARY-OF-THE-23-JULY-REVOLUTION",
+      "view_key": "EGY-WAWARDS-MEDAL-07-MEDAL-OF-THE-GOLDEN-ANNIVERSARY-OF-THE-23-JULY-REVOLUTION-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/07-medal-of-the-golden-anniversary-of-the-23-july-revolution-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/medal-of-the-golden-anniversary-of-the-23-july-revolution.html",
+      "image_url": "https://wawards.org/images/egypt/2/7/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48157,
+      "sha256": "a1718cbb1cc461fe6eabb015371658ca6140a1a616ac41777c84ca2a807e3638",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-08-01",
+      "record_id": "EGY-WAWARDS-MEDAL-08-ORDER-OF-THE-SINAI-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-08-ORDER-OF-THE-SINAI-STAR-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/08-order-of-the-sinai-star-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/order-of-the-sinai-star.html",
+      "image_url": "https://wawards.org/images/egypt/2/4/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52923,
+      "sha256": "0c9fe144a77e483e3e17dfef76e94b3a51741959d54413ceb578293e9a9b2923",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-08-02",
+      "record_id": "EGY-WAWARDS-MEDAL-08-ORDER-OF-THE-SINAI-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-08-ORDER-OF-THE-SINAI-STAR-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/08-order-of-the-sinai-star-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/order-of-the-sinai-star.html",
+      "image_url": "https://wawards.org/images/egypt/2/4/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41068,
+      "sha256": "34c35ec780fe44bb9ad4303c865216360965f37eecdd64a206ed9053dfa8271d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-09-01",
+      "record_id": "EGY-WAWARDS-MEDAL-09-ORDER-OF-THE-SINAI-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-09-ORDER-OF-THE-SINAI-STAR-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/09-order-of-the-sinai-star-01.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/order-of-the-sinai-star.html",
+      "image_url": "https://wawards.org/images/egypt/2/4/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 44223,
+      "sha256": "39f8d0022d6fd107dd80aeb1893015059685d07445807fb905dad8ca9304de94",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-09-02",
+      "record_id": "EGY-WAWARDS-MEDAL-09-ORDER-OF-THE-SINAI-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-09-ORDER-OF-THE-SINAI-STAR-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/09-order-of-the-sinai-star-02.jpg",
+      "source_page": "https://wawards.org/egypt/arab-republic-of-egypt/order-of-the-sinai-star.html",
+      "image_url": "https://wawards.org/images/egypt/2/4/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35207,
+      "sha256": "146473ba5b0cb65daa11839c9318f83c7c2b26051cf8207b1dbcb0e89d1e67f3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-10-01",
+      "record_id": "EGY-WAWARDS-MEDAL-10-CENTENARY-OF-MOHAMED-ALI-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-10-CENTENARY-OF-MOHAMED-ALI-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/10-centenary-of-mohamed-ali-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/centenary-of-mohamed-ali-medal.html",
+      "image_url": "https://wawards.org/images/egypt/1/15/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54793,
+      "sha256": "16d7bf9a8a151987aee66715ee3152bb2b5e2bd7269d863995131cec99209b70",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-10-02",
+      "record_id": "EGY-WAWARDS-MEDAL-10-CENTENARY-OF-MOHAMED-ALI-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-10-CENTENARY-OF-MOHAMED-ALI-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/10-centenary-of-mohamed-ali-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/centenary-of-mohamed-ali-medal.html",
+      "image_url": "https://wawards.org/images/egypt/1/15/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 53978,
+      "sha256": "9d695a2ae4b261fcb88692400af634f2cc5f3646f7a70a890de95ee24cb61861",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-11-01",
+      "record_id": "EGY-WAWARDS-MEDAL-11-MEDAL-FOR-DEVOTION-TO-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-11-MEDAL-FOR-DEVOTION-TO-DUTY-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/11-medal-for-devotion-to-duty-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-for-devotion-to-duty.html",
+      "image_url": "https://wawards.org/images/egypt/1/11/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 71029,
+      "sha256": "b91f9763273a94a6af43b786f688890664e8439fabe6de0e22294ae00f12af8d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-11-02",
+      "record_id": "EGY-WAWARDS-MEDAL-11-MEDAL-FOR-DEVOTION-TO-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-11-MEDAL-FOR-DEVOTION-TO-DUTY-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/11-medal-for-devotion-to-duty-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-for-devotion-to-duty.html",
+      "image_url": "https://wawards.org/images/egypt/1/11/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 63888,
+      "sha256": "8fff5f4e3cbd147350df2dc9e7de9070504996552a1d6d2ea1ceeb6268920cf8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-12-01",
+      "record_id": "EGY-WAWARDS-MEDAL-12-MEDAL-FOR-MERITORIOUS-ACTS",
+      "view_key": "EGY-WAWARDS-MEDAL-12-MEDAL-FOR-MERITORIOUS-ACTS-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/12-medal-for-meritorious-acts-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-for-meritorious-acts.html",
+      "image_url": "https://wawards.org/images/egypt/1/10/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60306,
+      "sha256": "666e087f7444172a3d9b1d4c52ad54eac915856cb68d4ff1d191b8e181555a2a",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-12-02",
+      "record_id": "EGY-WAWARDS-MEDAL-12-MEDAL-FOR-MERITORIOUS-ACTS",
+      "view_key": "EGY-WAWARDS-MEDAL-12-MEDAL-FOR-MERITORIOUS-ACTS-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/12-medal-for-meritorious-acts-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-for-meritorious-acts.html",
+      "image_url": "https://wawards.org/images/egypt/1/10/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 56034,
+      "sha256": "2f7bf0ed30718c69ee9b52639b7fce4089978150d7465ae1e24cd1d2c657a1f8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-13-01",
+      "record_id": "EGY-WAWARDS-MEDAL-13-MEDAL-OF-BENEVOLENCE",
+      "view_key": "EGY-WAWARDS-MEDAL-13-MEDAL-OF-BENEVOLENCE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/13-medal-of-benevolence-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-of-benevolence.html",
+      "image_url": "https://wawards.org/images/egypt/1/12/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62341,
+      "sha256": "6c2b29cbd5da89ed215f42a12b7779b7b068bbfaface581c75fc5aaca65392c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-13-02",
+      "record_id": "EGY-WAWARDS-MEDAL-13-MEDAL-OF-BENEVOLENCE",
+      "view_key": "EGY-WAWARDS-MEDAL-13-MEDAL-OF-BENEVOLENCE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/13-medal-of-benevolence-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/medal-of-benevolence.html",
+      "image_url": "https://wawards.org/images/egypt/1/12/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 58210,
+      "sha256": "60e813f714035b31cf9e9304757b4ba7a0f0a3adf695f0772d1f324a7ce43147",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-14-01",
+      "record_id": "EGY-WAWARDS-MEDAL-14-MINISTRY-OF-GENERAL-EDUCATION-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-14-MINISTRY-OF-GENERAL-EDUCATION-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/14-ministry-of-general-education-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/ministry-of-general-education-medal.html",
+      "image_url": "https://wawards.org/images/egypt/1/1/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 61015,
+      "sha256": "7bba27c7927d92a8115e6fad351386261d517f30f20b0821e43d5e3b0a96bd3e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-14-02",
+      "record_id": "EGY-WAWARDS-MEDAL-14-MINISTRY-OF-GENERAL-EDUCATION-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-14-MINISTRY-OF-GENERAL-EDUCATION-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/14-ministry-of-general-education-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/ministry-of-general-education-medal.html",
+      "image_url": "https://wawards.org/images/egypt/1/1/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 70589,
+      "sha256": "b7c8403501fb0753efd07ea14573960280721762e1b3220941a39c65fadcf164",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-15-01",
+      "record_id": "EGY-WAWARDS-MEDAL-15-ORDER-OF-AGRICULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-15-ORDER-OF-AGRICULTURE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/15-order-of-agriculture-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-agriculture.html",
+      "image_url": "https://wawards.org/images/egypt/1/5/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59228,
+      "sha256": "a9f9e2956c1858f8daf6211392a286f52284469a0652cb5a46669b977e835912",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-15-02",
+      "record_id": "EGY-WAWARDS-MEDAL-15-ORDER-OF-AGRICULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-15-ORDER-OF-AGRICULTURE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/15-order-of-agriculture-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-agriculture.html",
+      "image_url": "https://wawards.org/images/egypt/1/5/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51015,
+      "sha256": "bd1e3b433f0e237d89ca83584dacfd0dc008b7da0edb3d24afa4ef5555855d7e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-16-01",
+      "record_id": "EGY-WAWARDS-MEDAL-16-ORDER-OF-AGRICULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-16-ORDER-OF-AGRICULTURE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/16-order-of-agriculture-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-agriculture.html",
+      "image_url": "https://wawards.org/images/egypt/1/5/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54160,
+      "sha256": "443b21fd73a939638ae264088f66d07549d584a86cbaef9503124b8fc22001f6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-17-01",
+      "record_id": "EGY-WAWARDS-MEDAL-17-ORDER-OF-CULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-17-ORDER-OF-CULTURE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/17-order-of-culture-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-culture.html",
+      "image_url": "https://wawards.org/images/egypt/1/6/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55449,
+      "sha256": "508523270afc3243f808a5b60109a5e595c498a3de6082d9a36e6bdd25bee1b3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-18-01",
+      "record_id": "EGY-WAWARDS-MEDAL-18-ORDER-OF-INDUSTRY-AND-COMMERCE",
+      "view_key": "EGY-WAWARDS-MEDAL-18-ORDER-OF-INDUSTRY-AND-COMMERCE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/18-order-of-industry-and-commerce-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-industry-and-commerce.html",
+      "image_url": "https://wawards.org/images/egypt/1/7/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59394,
+      "sha256": "51d67116a763e63992630036df316e60b6787fc0dc01b87df03fc11bf3c1d494",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-18-02",
+      "record_id": "EGY-WAWARDS-MEDAL-18-ORDER-OF-INDUSTRY-AND-COMMERCE",
+      "view_key": "EGY-WAWARDS-MEDAL-18-ORDER-OF-INDUSTRY-AND-COMMERCE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/18-order-of-industry-and-commerce-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-industry-and-commerce.html",
+      "image_url": "https://wawards.org/images/egypt/1/7/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67268,
+      "sha256": "e5cf9dc68a36e058c9d1ed6cb9c853bff277a2d0712359bda4f98cd5d23615f4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-19-01",
+      "record_id": "EGY-WAWARDS-MEDAL-19-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I",
+      "view_key": "EGY-WAWARDS-MEDAL-19-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/19-order-of-the-military-star-of-fuad-i-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-military-star-of-fuad-i.html",
+      "image_url": "https://wawards.org/images/egypt/1/13/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35424,
+      "sha256": "a7fb1977c44b38adb315494105b37115ec6ebf285d30a1cbd41cf25f49704650",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-20-01",
+      "record_id": "EGY-WAWARDS-MEDAL-20-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I",
+      "view_key": "EGY-WAWARDS-MEDAL-20-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/20-order-of-the-military-star-of-fuad-i-01.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-military-star-of-fuad-i.html",
+      "image_url": "https://wawards.org/images/egypt/1/13/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54072,
+      "sha256": "938c9f1bbb3a91db2bc092ed12bc24d2cf29161814e596d33815e9ce86d246f8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-20-02",
+      "record_id": "EGY-WAWARDS-MEDAL-20-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I",
+      "view_key": "EGY-WAWARDS-MEDAL-20-ORDER-OF-THE-MILITARY-STAR-OF-FUAD-I-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/20-order-of-the-military-star-of-fuad-i-02.jpg",
+      "source_page": "https://wawards.org/egypt/kingdom-of-egypt/order-of-the-military-star-of-fuad-i.html",
+      "image_url": "https://wawards.org/images/egypt/1/13/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48450,
+      "sha256": "3deb19778bc6614bdc70f91dceb89bff047ae72e83d203f5a937aa79bcc43ae2",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-21-01",
+      "record_id": "EGY-WAWARDS-MEDAL-21-MEDAL-FOR-SPORT",
+      "view_key": "EGY-WAWARDS-MEDAL-21-MEDAL-FOR-SPORT-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/21-medal-for-sport-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-for-sport.html",
+      "image_url": "https://wawards.org/images/egypt/3/1/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 73714,
+      "sha256": "20829b5c755ef0cbd1790f5fa1c5163eceb96efecfa38bd3a58ec63225ec42d8",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-21-02",
+      "record_id": "EGY-WAWARDS-MEDAL-21-MEDAL-FOR-SPORT",
+      "view_key": "EGY-WAWARDS-MEDAL-21-MEDAL-FOR-SPORT-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/21-medal-for-sport-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-for-sport.html",
+      "image_url": "https://wawards.org/images/egypt/3/1/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64890,
+      "sha256": "b234a858631fd8037fe5339afb4c2e305da3fd24c1f858d56e9f9599c6a03d16",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-22-01",
+      "record_id": "EGY-WAWARDS-MEDAL-22-MEDAL-OF-EXCEPTIONAL-PROMOTION",
+      "view_key": "EGY-WAWARDS-MEDAL-22-MEDAL-OF-EXCEPTIONAL-PROMOTION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/22-medal-of-exceptional-promotion-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-exceptional-promotion.html",
+      "image_url": "https://wawards.org/images/egypt/3/19/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 47637,
+      "sha256": "670fab23d899ae37484fb3586040ae14bb94186e8505f32928d20cc97f03a12d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-22-02",
+      "record_id": "EGY-WAWARDS-MEDAL-22-MEDAL-OF-EXCEPTIONAL-PROMOTION",
+      "view_key": "EGY-WAWARDS-MEDAL-22-MEDAL-OF-EXCEPTIONAL-PROMOTION-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/22-medal-of-exceptional-promotion-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-exceptional-promotion.html",
+      "image_url": "https://wawards.org/images/egypt/3/19/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48192,
+      "sha256": "79f9bb4dfc35e31479a1c0df3272f51d02717f888fa1402576f8d6a021157125",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-23-01",
+      "record_id": "EGY-WAWARDS-MEDAL-23-MEDAL-OF-MILITARY-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-23-MEDAL-OF-MILITARY-DUTY-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/23-medal-of-military-duty-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-military-duty.html",
+      "image_url": "https://wawards.org/images/egypt/3/12/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60293,
+      "sha256": "fe30dd31d42bfa6b02c242892c19269391ed365d4ec413fb5786e9f5e0c89aa4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-23-02",
+      "record_id": "EGY-WAWARDS-MEDAL-23-MEDAL-OF-MILITARY-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-23-MEDAL-OF-MILITARY-DUTY-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/23-medal-of-military-duty-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-military-duty.html",
+      "image_url": "https://wawards.org/images/egypt/3/12/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 39382,
+      "sha256": "4a86a1bb37b3f6c7ac2e1bde28b832f7c666017606adcfa6f3998792b2db10e1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-24-01",
+      "record_id": "EGY-WAWARDS-MEDAL-24-MEDAL-OF-MILITARY-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-24-MEDAL-OF-MILITARY-DUTY-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/24-medal-of-military-duty-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-military-duty.html",
+      "image_url": "https://wawards.org/images/egypt/3/12/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57389,
+      "sha256": "474300c3d4a328aebf8cf44c7d33dc8ba79b6867955e3f63fa17c6b8c9173ebb",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-24-02",
+      "record_id": "EGY-WAWARDS-MEDAL-24-MEDAL-OF-MILITARY-DUTY",
+      "view_key": "EGY-WAWARDS-MEDAL-24-MEDAL-OF-MILITARY-DUTY-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/24-medal-of-military-duty-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-military-duty.html",
+      "image_url": "https://wawards.org/images/egypt/3/12/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42744,
+      "sha256": "b79b231bf108486cad1ec5abd9bac79a185b5205ea42b168413ef962c0e7a4ed",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-25-01",
+      "record_id": "EGY-WAWARDS-MEDAL-25-MEDAL-OF-MOBILISATION",
+      "view_key": "EGY-WAWARDS-MEDAL-25-MEDAL-OF-MOBILISATION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/25-medal-of-mobilisation-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-mobilisation.html",
+      "image_url": "https://wawards.org/images/egypt/3/20/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 52157,
+      "sha256": "56fcfc5b7ce732822da0e2852c74d27a70a5dacad251c37281de111b76d5529c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-25-02",
+      "record_id": "EGY-WAWARDS-MEDAL-25-MEDAL-OF-MOBILISATION",
+      "view_key": "EGY-WAWARDS-MEDAL-25-MEDAL-OF-MOBILISATION-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/25-medal-of-mobilisation-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/medal-of-mobilisation.html",
+      "image_url": "https://wawards.org/images/egypt/3/20/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 51665,
+      "sha256": "e8233fcc2b388aacb5e2294909a1220b8b838b7bbdba33f3cd9488a9dd14c34b",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-26-01",
+      "record_id": "EGY-WAWARDS-MEDAL-26-ORDER-OF-AGRICULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-26-ORDER-OF-AGRICULTURE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/26-order-of-agriculture-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-agriculture.html",
+      "image_url": "https://wawards.org/images/egypt/3/16/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 62389,
+      "sha256": "7e2a720fb5e4e463da54e6778a3db0783fe344be097a349c639f37f626d0663c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-26-02",
+      "record_id": "EGY-WAWARDS-MEDAL-26-ORDER-OF-AGRICULTURE",
+      "view_key": "EGY-WAWARDS-MEDAL-26-ORDER-OF-AGRICULTURE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/26-order-of-agriculture-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-agriculture.html",
+      "image_url": "https://wawards.org/images/egypt/3/16/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48980,
+      "sha256": "e43caa39e1265fcd75582d3ae3db824bbf8e70e7a956271c9fa014f69ca6cc20",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-27-01",
+      "record_id": "EGY-WAWARDS-MEDAL-27-ORDER-OF-THE-MILITARY-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-27-ORDER-OF-THE-MILITARY-STAR-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/27-order-of-the-military-star-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-military-star.html",
+      "image_url": "https://wawards.org/images/egypt/3/15/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42985,
+      "sha256": "a2ed819579cbce8a19a34b53046dc3110df9c33e8c9095b205ad971cc4720ee9",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-27-02",
+      "record_id": "EGY-WAWARDS-MEDAL-27-ORDER-OF-THE-MILITARY-STAR",
+      "view_key": "EGY-WAWARDS-MEDAL-27-ORDER-OF-THE-MILITARY-STAR-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/27-order-of-the-military-star-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-military-star.html",
+      "image_url": "https://wawards.org/images/egypt/3/15/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 40855,
+      "sha256": "6a35205cb7536dbfa540cac7f85a03a78d4a551f5ee11256de00f30d3a49c6e4",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-28-01",
+      "record_id": "EGY-WAWARDS-MEDAL-28-ORDER-OF-THE-STAR-OF-LIBERATION-POLICE",
+      "view_key": "EGY-WAWARDS-MEDAL-28-ORDER-OF-THE-STAR-OF-LIBERATION-POLICE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/28-order-of-the-star-of-liberation-police-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/order-of-the-star-of-liberation-police.html",
+      "image_url": "https://wawards.org/images/egypt/3/18/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 68562,
+      "sha256": "8b2635f5b378ff303c31a8fba6d27a3a569454c090bcf16d3bedc51d8bfccd63",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-29-01",
+      "record_id": "EGY-WAWARDS-MEDAL-29-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-29-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/29-silver-jubilee-of-the-air-force-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/silver-jubilee-of-the-air-force-medal.html",
+      "image_url": "https://wawards.org/images/egypt/3/10/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54752,
+      "sha256": "6c3bba19e6406d9e21ff193af5446ddd8ee7700b7ebf3742738197ab039ca8ae",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-29-02",
+      "record_id": "EGY-WAWARDS-MEDAL-29-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-29-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/29-silver-jubilee-of-the-air-force-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/silver-jubilee-of-the-air-force-medal.html",
+      "image_url": "https://wawards.org/images/egypt/3/10/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 46176,
+      "sha256": "8181417b86e968ab18fb190cb46682a9a35b8bc88563847a9eb859c3dd230551",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-30-01",
+      "record_id": "EGY-WAWARDS-MEDAL-30-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-30-SILVER-JUBILEE-OF-THE-AIR-FORCE-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/30-silver-jubilee-of-the-air-force-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/republic-of-egypt/silver-jubilee-of-the-air-force-medal.html",
+      "image_url": "https://wawards.org/images/egypt/3/10/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 72903,
+      "sha256": "b85e33118429221a92fe0ace2297dc9582f036d52ed66f8ba8de97c1227292d1",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-31-01",
+      "record_id": "EGY-WAWARDS-MEDAL-31-FRIENDSHIP-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-31-FRIENDSHIP-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/31-friendship-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/friendship-medal.html",
+      "image_url": "https://wawards.org/images/egypt/4/7/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 40871,
+      "sha256": "9190a2ecd54bc8f300a8b9d633cc5c67dcf932a303e05962ebc35c6107644336",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-31-02",
+      "record_id": "EGY-WAWARDS-MEDAL-31-FRIENDSHIP-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-31-FRIENDSHIP-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/31-friendship-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/friendship-medal.html",
+      "image_url": "https://wawards.org/images/egypt/4/7/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 43155,
+      "sha256": "47f4579f156847cd71b8acfcdcf00dfedb7cdc116b300408090d202f8046940c",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-32-01",
+      "record_id": "EGY-WAWARDS-MEDAL-32-FRIENDSHIP-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-32-FRIENDSHIP-MEDAL-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/32-friendship-medal-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/friendship-medal.html",
+      "image_url": "https://wawards.org/images/egypt/4/7/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 50163,
+      "sha256": "4f90059df432787f140c8a7a70357553850de177506d609f9f0ea80d5ffec199",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-32-02",
+      "record_id": "EGY-WAWARDS-MEDAL-32-FRIENDSHIP-MEDAL",
+      "view_key": "EGY-WAWARDS-MEDAL-32-FRIENDSHIP-MEDAL-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/32-friendship-medal-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/friendship-medal.html",
+      "image_url": "https://wawards.org/images/egypt/4/7/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48174,
+      "sha256": "585ea11363611daac5a0b985f53b4f0a4ac60422d683bc2ad06db49a970520c7",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-33-01",
+      "record_id": "EGY-WAWARDS-MEDAL-33-MEDAL-OF-DISTINCTION",
+      "view_key": "EGY-WAWARDS-MEDAL-33-MEDAL-OF-DISTINCTION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/33-medal-of-distinction-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-distinction.html",
+      "image_url": "https://wawards.org/images/egypt/4/2/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54361,
+      "sha256": "5429146b335521113407d55decc2192148bde622ef4999a45945e1200b3b8e4d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-33-02",
+      "record_id": "EGY-WAWARDS-MEDAL-33-MEDAL-OF-DISTINCTION",
+      "view_key": "EGY-WAWARDS-MEDAL-33-MEDAL-OF-DISTINCTION-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/33-medal-of-distinction-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-distinction.html",
+      "image_url": "https://wawards.org/images/egypt/4/2/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45708,
+      "sha256": "3dd563cc8247adef1c2a8f8a3b1dc97f8ed966dfbd8a4d93fc98c68e7446b5a6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-34-01",
+      "record_id": "EGY-WAWARDS-MEDAL-34-MEDAL-OF-DISTINCTION",
+      "view_key": "EGY-WAWARDS-MEDAL-34-MEDAL-OF-DISTINCTION-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/34-medal-of-distinction-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-distinction.html",
+      "image_url": "https://wawards.org/images/egypt/4/2/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 41305,
+      "sha256": "70cd103b129d05be8d9d26f7a82a932fb940091ba9b0608a8f467a6b9710dada",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-35-01",
+      "record_id": "EGY-WAWARDS-MEDAL-35-MEDAL-OF-LONG-SERVICE-AND-GOOD-EXAMPLE",
+      "view_key": "EGY-WAWARDS-MEDAL-35-MEDAL-OF-LONG-SERVICE-AND-GOOD-EXAMPLE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/35-medal-of-long-service-and-good-example-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-long-service-and-good-example.html",
+      "image_url": "https://wawards.org/images/egypt/4/5/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 59687,
+      "sha256": "5a642e519f7ead0b55ae2cc345dbc0b56bd697d78e342ed8a77557beeef2cb90",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-35-02",
+      "record_id": "EGY-WAWARDS-MEDAL-35-MEDAL-OF-LONG-SERVICE-AND-GOOD-EXAMPLE",
+      "view_key": "EGY-WAWARDS-MEDAL-35-MEDAL-OF-LONG-SERVICE-AND-GOOD-EXAMPLE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/35-medal-of-long-service-and-good-example-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-long-service-and-good-example.html",
+      "image_url": "https://wawards.org/images/egypt/4/5/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 60461,
+      "sha256": "c50a302fac2a19a58ad899d1ed72094a4b19806a4695869c1e52bd700e023e08",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-36-01",
+      "record_id": "EGY-WAWARDS-MEDAL-36-MEDAL-OF-TRAINING",
+      "view_key": "EGY-WAWARDS-MEDAL-36-MEDAL-OF-TRAINING-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/36-medal-of-training-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-training.html",
+      "image_url": "https://wawards.org/images/egypt/4/4/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 69609,
+      "sha256": "cae67a7a5b3c03472518412bdd3aeec15e752832ed60203bc3b36b37d87e8005",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-36-02",
+      "record_id": "EGY-WAWARDS-MEDAL-36-MEDAL-OF-TRAINING",
+      "view_key": "EGY-WAWARDS-MEDAL-36-MEDAL-OF-TRAINING-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/36-medal-of-training-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-training.html",
+      "image_url": "https://wawards.org/images/egypt/4/4/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 64054,
+      "sha256": "a23965e560beaa33c2a40034e42c1be5e12e6d8279ed71a162be54cb41ff2cea",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-37-01",
+      "record_id": "EGY-WAWARDS-MEDAL-37-MEDAL-OF-TRAINING",
+      "view_key": "EGY-WAWARDS-MEDAL-37-MEDAL-OF-TRAINING-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/37-medal-of-training-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-training.html",
+      "image_url": "https://wawards.org/images/egypt/4/4/3.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 45578,
+      "sha256": "cbbf0c28c8f26f02de8b1a42e07a496a7c8ab0873e5a36c9377953ae195a2f2e",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-37-02",
+      "record_id": "EGY-WAWARDS-MEDAL-37-MEDAL-OF-TRAINING",
+      "view_key": "EGY-WAWARDS-MEDAL-37-MEDAL-OF-TRAINING-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/37-medal-of-training-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-training.html",
+      "image_url": "https://wawards.org/images/egypt/4/4/4.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 42118,
+      "sha256": "ef02455b27766b72e364e5a581dac668388ea2faf3800c9a8dad2429dd7f29d3",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-38-01",
+      "record_id": "EGY-WAWARDS-MEDAL-38-MEDAL-OF-WAR-WOUNDED",
+      "view_key": "EGY-WAWARDS-MEDAL-38-MEDAL-OF-WAR-WOUNDED-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/38-medal-of-war-wounded-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-war-wounded.html",
+      "image_url": "https://wawards.org/images/egypt/4/3/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 76079,
+      "sha256": "f95fffeb0af0b5bf5254730699e7ff8fb903d750b9f2ad9455099f5aed24f42f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-38-02",
+      "record_id": "EGY-WAWARDS-MEDAL-38-MEDAL-OF-WAR-WOUNDED",
+      "view_key": "EGY-WAWARDS-MEDAL-38-MEDAL-OF-WAR-WOUNDED-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/38-medal-of-war-wounded-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/medal-of-war-wounded.html",
+      "image_url": "https://wawards.org/images/egypt/4/3/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 55750,
+      "sha256": "1a9e69ccbd95fc0a9abe03dcdf0a3015b96b6d29b5ed0785b1e46f611797b37d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-39-01",
+      "record_id": "EGY-WAWARDS-MEDAL-39-MILITARY-MEDAL-OF-COURAGE",
+      "view_key": "EGY-WAWARDS-MEDAL-39-MILITARY-MEDAL-OF-COURAGE-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/39-military-medal-of-courage-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/military-medal-of-courage.html",
+      "image_url": "https://wawards.org/images/egypt/4/6/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 54806,
+      "sha256": "29450a5c913c26b370d53ab56b66eee85589b825490e6d5005072bd682072dd6",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-39-02",
+      "record_id": "EGY-WAWARDS-MEDAL-39-MILITARY-MEDAL-OF-COURAGE",
+      "view_key": "EGY-WAWARDS-MEDAL-39-MILITARY-MEDAL-OF-COURAGE-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/39-military-medal-of-courage-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/military-medal-of-courage.html",
+      "image_url": "https://wawards.org/images/egypt/4/6/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 67674,
+      "sha256": "14e5bd605125dfa812f9948483187e0cc66f54eb536f44eb851c6ee05867ac04",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-40-01",
+      "record_id": "EGY-WAWARDS-MEDAL-40-ORDER-COMMEMORATING-THE-UNITED-ARAB-REPUBLIC",
+      "view_key": "EGY-WAWARDS-MEDAL-40-ORDER-COMMEMORATING-THE-UNITED-ARAB-REPUBLIC-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/40-order-commemorating-the-united-arab-republic-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/order-commemorating-the-united-arab-republic.html",
+      "image_url": "https://wawards.org/images/egypt/4/8/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 48706,
+      "sha256": "df8504bffec57e3ca52a3109e7bc83243acc5fb8e98728de83effae5f1418d5d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-40-02",
+      "record_id": "EGY-WAWARDS-MEDAL-40-ORDER-COMMEMORATING-THE-UNITED-ARAB-REPUBLIC",
+      "view_key": "EGY-WAWARDS-MEDAL-40-ORDER-COMMEMORATING-THE-UNITED-ARAB-REPUBLIC-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/40-order-commemorating-the-united-arab-republic-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/order-commemorating-the-united-arab-republic.html",
+      "image_url": "https://wawards.org/images/egypt/4/8/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 35865,
+      "sha256": "5bd9323fc7084d7bca3b8b7ee5c60440a26baa533dd4ff50671958269b7d8a6d",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-41-01",
+      "record_id": "EGY-WAWARDS-MEDAL-41-ORDER-OF-THE-STAR-OF-HONOUR",
+      "view_key": "EGY-WAWARDS-MEDAL-41-ORDER-OF-THE-STAR-OF-HONOUR-V1",
+      "local_path": "assets/images/egypt_wawards_medal_variants/41-order-of-the-star-of-honour-01.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/order-of-the-star-of-honour.html",
+      "image_url": "https://wawards.org/images/egypt/4/1/1.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 80668,
+      "sha256": "7990f72c4a111a9407721f130c9cd05cf2be2c1ab4681933fac1b16b591cfb1f",
+      "decoded": true,
+      "visually_checked": true
+    },
+    {
+      "key": "egypt-wawards-medal-41-02",
+      "record_id": "EGY-WAWARDS-MEDAL-41-ORDER-OF-THE-STAR-OF-HONOUR",
+      "view_key": "EGY-WAWARDS-MEDAL-41-ORDER-OF-THE-STAR-OF-HONOUR-V2",
+      "local_path": "assets/images/egypt_wawards_medal_variants/41-order-of-the-star-of-honour-02.jpg",
+      "source_page": "https://wawards.org/egypt/united-arab-republic/order-of-the-star-of-honour.html",
+      "image_url": "https://wawards.org/images/egypt/4/1/2.jpg",
+      "artist": "Wawards / source collection",
+      "license": "Rights status not stated; retained for offline research catalogue",
+      "dimensions": [
+        600,
+        600
+      ],
+      "bytes": 57478,
+      "sha256": "5ea678a45b93e55f797c418f4de1304f8ef1322957ff49fb8598fae55adb6987",
+      "decoded": true,
+      "visually_checked": true
+    }
+  ]
+}

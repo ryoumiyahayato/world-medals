@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Pakistan — complete MedalBook and recursive ODM source batch",
+  "status": "two_sources_complete_formal_batch_merged",
+  "source_coverage": {
+    "planned_sources": 5,
+    "completed_sources": 2,
+    "partial_sources": 0,
+    "not_started_sources": 3,
+    "medalbook_object_pages": 148,
+    "odm_recursive_pages": 50,
+    "downloaded_source_files": 160
+  },
+  "formal_merge": {
+    "new_rows": 57,
+    "represented_families": 32,
+    "net_new_families": 31,
+    "local_complete_views": 91,
+    "unpictured_source_candidates": 153,
+    "cross_source_duplicate_rows_merged": 6,
+    "alternate_source_views_merged": 11,
+    "duplicate_payloads_promoted": 0,
+    "ribbon_only_views_promoted": 0
+  },
+  "site_after_merge": {
+    "main_rows": 1885,
+    "main_families": 962,
+    "country_or_period_sections": 97,
+    "decoded_local_files": 2826,
+    "unique_gallery_image_paths": 2751,
+    "reused_image_payloads": 0,
+    "ribbon_only_rows": 0,
+    "validation": "site, regression and browser interaction checks passed"
+  },
+  "next_action": "Advance the accessible Asia queue to Nepal/Bhutan/Bangladesh/Sri Lanka while retaining three finite Pakistan differential sources."
+}

@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-09-27",
+  "source": "CGB current archive query — Ottoman",
+  "images": [
+    {
+      "view_key": "OTT-CGB-FME917718-OSMANIE-III-V1",
+      "local_path": "assets/images/ottoman_cgb_current/fme_917718_osmanie_iii_front_reverse.jpg",
+      "source_page": "https://www.cgb.fr/turquie-empire-ottoman-medaille-ordre-de-losmanie-nishani-osmani-insigne-de-cou-sup,fme_917718,a.html",
+      "source_url": "https://images3.cgb.fr/images/medaille/fme_917718.jpg",
+      "width": 1200,
+      "height": 806,
+      "sha256": "e29c4c56ab706a2a77ba5e03204abb6740e715f976455b748112ccb3f437b007",
+      "visual_check": "同一件三等颈章完整正背面、悬挂结构、颈绶及原盒均在画面内；原水印保留"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "as_of": "2026-09-28",
+  "scope": "Malaysia federal and state award systems — complete MedalBook catalogue",
+  "status": "source_complete_formal_merge_verified",
+  "source_coverage": {
+    "planned_sources": 5,
+    "completed_sources": 1,
+    "partial_sources": 0,
+    "blocked_sources": 0,
+    "not_started_sources": 4,
+    "configured_index_and_category_pages": 23,
+    "medalbook_object_pages": 607,
+    "downloaded_source_images": 89,
+    "source_image_failures": 0,
+    "contact_sheets_visually_checked": 4
+  },
+  "formal_merge": {
+    "new_rows": 30,
+    "net_new_families": 18,
+    "local_complete_views": 41,
+    "awarding_subjects": 8,
+    "status": "merged into separate federal, state and sultanate sections with all regressions passing"
+  },
+  "unpictured_medalbook_object_pages": 576,
+  "next_action": "Run Malaysia federal and state official-source differentials; keep Malacca, Penang, Negeri Sembilan, Perlis, Selangor and Terengganu queued until complete images are obtained."
+}
