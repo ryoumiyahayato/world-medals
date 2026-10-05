@@ -1,0 +1,1307 @@
+{
+  "as_of": "2026-10-05",
+  "records": [
+    {
+      "id": "AUT-REP-WMI-031-01",
+      "family": "AUT-REP-FIRE-BRIGADE-MERIT-CROSS",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会功绩十字章",
+      "original": "Verdienstkreuz des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "功绩大十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-031-01-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-031-01-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic031",
+        "AUT-REP-WMI-031-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic031.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For acts of courage or outstanding service. | Grades: 2.",
+          "image_reference": "Grand Cross of Merit, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-031-03",
+      "family": "AUT-REP-FIRE-BRIGADE-MERIT-CROSS",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会功绩十字章",
+      "original": "Verdienstkreuz des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "功绩十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-031-03-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic031",
+        "AUT-REP-WMI-031-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic031.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For acts of courage or outstanding service. | Grades: 2.",
+          "image_reference": "Cross of Merit, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-033-01",
+      "family": "AUT-REP-RED-CROSS-MERIT-CROSS",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会功绩十字章",
+      "original": "Verdienstkreuz des Österreichischen Roten Kreuzes",
+      "date": "待考",
+      "variant": "一级功绩十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-033-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic033",
+        "AUT-REP-WMI-033-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic033.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For outstanding service to the Red Cross. | Grades: 2 (Cross of Merit 1st Class and Cross of Merit).",
+          "image_reference": "Cross of Merit Class 1, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-033-02",
+      "family": "AUT-REP-RED-CROSS-MERIT-CROSS",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会功绩十字章",
+      "original": "Verdienstkreuz des Österreichischen Roten Kreuzes",
+      "date": "待考",
+      "variant": "功绩十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-033-02-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic033",
+        "AUT-REP-WMI-033-02-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic033.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For outstanding service to the Red Cross. | Grades: 2 (Cross of Merit 1st Class and Cross of Merit).",
+          "image_reference": "Cross of Merit, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-034-01",
+      "family": "AUT-REP-FIRE-BRIGADE-MERIT-DECORATION",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会功绩章",
+      "original": "Verdienstzeichen des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "一级；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-034-01-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-034-01-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic034",
+        "AUT-REP-WMI-034-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic034.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For meritorious service to the Fire Service. | Grades: 3.",
+          "image_reference": "Class 1, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-034-03",
+      "family": "AUT-REP-FIRE-BRIGADE-MERIT-DECORATION",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会功绩章",
+      "original": "Verdienstzeichen des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "二级；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-034-03-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-034-03-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic034",
+        "AUT-REP-WMI-034-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic034.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For meritorious service to the Fire Service. | Grades: 3.",
+          "image_reference": "Class 2, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-034-05",
+      "family": "AUT-REP-FIRE-BRIGADE-MERIT-DECORATION",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会功绩章",
+      "original": "Verdienstzeichen des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "三级；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-034-05-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-034-05-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic034",
+        "AUT-REP-WMI-034-05-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic034.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For meritorious service to the Fire Service. | Grades: 3.",
+          "image_reference": "Class 3, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-052-01",
+      "family": "AUT-REP-FIRE-BRIGADE-INTERNATIONAL-COOPERATION",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会国际合作奖章",
+      "original": "Medaille für internationale Zusammenarbeit des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "完整正面；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-052-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic052",
+        "AUT-REP-WMI-052-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic052.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: To foreign fire brigade members who have made a significant contribution to the cooperation and / or the maintenance of friendly relationships between foreign fire brigade organizations and the Austrian fire brigades.",
+          "image_reference": "Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-01",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "克夫拉赫 1965救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Köflach 1965, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-02",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "特雷维索 1966救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-02-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-02-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Treviso 1966, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-03",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "弗留利 1976救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-03-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Friuli 1976, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-04",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "杰莫纳 1976救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-04-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-04-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Gemona 1976, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-05",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "达尔马提亚 2002救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-05-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-05-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Dalmatia 2002, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-06",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "阿尔及利亚 2003救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-06-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-06-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Algeria 2003, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-07",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "保加利亚 2005救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-07-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-07-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Bulgaria 2005, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-08",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "罗马尼亚 2005救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-08-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-08-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Romania 2005, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-053-09",
+      "family": "AUT-REP-FIRE-BRIGADE-DISASTER-RELIEF",
+      "country_zh": "奥地利·消防联合会",
+      "name": "奥地利消防联合会救灾功绩章",
+      "original": "Katastrophenverdienstzeichen des des Österreichischen Bundesfeuerwehrverbandes",
+      "date": "待考",
+      "variant": "马其顿 2007救灾饰牌；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-053-09-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic053",
+        "AUT-REP-WMI-053-09-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic053.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: For services in disaster operations outside of one's own federal state or in another country.",
+          "image_reference": "Macedonia 2007, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利消防联合会",
+      "category": "行业团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-035-01",
+      "family": "AUT-REP-RED-CROSS-MERIT-MEDAL",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会功绩奖章",
+      "original": "Verdienstmedaille des Österreichischen Roten Kreuzes",
+      "date": "1954年03月28日",
+      "variant": "金级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-035-01-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-035-01-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic035",
+        "AUT-REP-WMI-035-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic035.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 28 March 1954. | Awarded: For meritorious service to the Red Cross. | Grades: 3.",
+          "image_reference": "Gold Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-035-03",
+      "family": "AUT-REP-RED-CROSS-MERIT-MEDAL",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会功绩奖章",
+      "original": "Verdienstmedaille des Österreichischen Roten Kreuzes",
+      "date": "1954年03月28日",
+      "variant": "银级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-035-03-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-035-03-VIEW2",
+          "label": "背面（来源同版图示）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic035",
+        "AUT-REP-WMI-035-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic035.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 28 March 1954. | Awarded: For meritorious service to the Red Cross. | Grades: 3.",
+          "image_reference": "Silver Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-035-05",
+      "family": "AUT-REP-RED-CROSS-MERIT-MEDAL",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会功绩奖章",
+      "original": "Verdienstmedaille des Österreichischen Roten Kreuzes",
+      "date": "1954年03月28日",
+      "variant": "铜级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-035-05-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-035-05-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic035",
+        "AUT-REP-WMI-035-05-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic035.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 28 March 1954. | Awarded: For meritorious service to the Red Cross. | Grades: 3.",
+          "image_reference": "Bronze Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-036-01",
+      "family": "AUT-REP-RED-CROSS-BLOOD-SERVICE",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会献血事业功绩奖章",
+      "original": "Medaille für Verdienste um das Blutspenden des Österreichischen Roten Kreuzes",
+      "date": "1969年07月05日",
+      "variant": "金级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-036-01-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-036-01-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic036",
+        "AUT-REP-WMI-036-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic036.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 5 July 1969. | Awarded: For meritorious contributions to the blood donation system. | Grades: 3.",
+          "image_reference": "Gold Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-036-03",
+      "family": "AUT-REP-RED-CROSS-BLOOD-SERVICE",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会献血事业功绩奖章",
+      "original": "Medaille für Verdienste um das Blutspenden des Österreichischen Roten Kreuzes",
+      "date": "1969年07月05日",
+      "variant": "银级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-036-03-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-036-03-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic036",
+        "AUT-REP-WMI-036-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic036.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 5 July 1969. | Awarded: For meritorious contributions to the blood donation system. | Grades: 3.",
+          "image_reference": "Silver Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-036-05",
+      "family": "AUT-REP-RED-CROSS-BLOOD-SERVICE",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会献血事业功绩奖章",
+      "original": "Medaille für Verdienste um das Blutspenden des Österreichischen Roten Kreuzes",
+      "date": "1969年07月05日",
+      "variant": "银级奖章 ·女式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-036-05-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-036-05-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic036",
+        "AUT-REP-WMI-036-05-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic036.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 5 July 1969. | Awarded: For meritorious contributions to the blood donation system. | Grades: 3.",
+          "image_reference": "Silver Medal (Female), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-036-07",
+      "family": "AUT-REP-RED-CROSS-BLOOD-SERVICE",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会献血事业功绩奖章",
+      "original": "Medaille für Verdienste um das Blutspenden des Österreichischen Roten Kreuzes",
+      "date": "1969年07月05日",
+      "variant": "铜级奖章 ·男式；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-036-07-VIEW1",
+          "label": "正面"
+        },
+        {
+          "key": "AUT-REP-WMI-036-07-VIEW2",
+          "label": "背面（来源同版图示，不保证同一实物）"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic036",
+        "AUT-REP-WMI-036-07-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic036.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 5 July 1969. | Awarded: For meritorious contributions to the blood donation system. | Grades: 3.",
+          "image_reference": "Bronze Medal (Male), Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-037-01",
+      "family": "AUT-REP-RED-CROSS-BLOOD-DONATION",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会长期献血奖章",
+      "original": "Verdienstmedaille in Gold für Blutspende",
+      "date": "2003年06月13日",
+      "variant": "金级奖章·金级花环；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-037-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic037",
+        "AUT-REP-WMI-037-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic037.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 13 June 2003. | Awarded: To mark long-term committment to making donations of blood. | Grades: 3.",
+          "image_reference": "Gold Medal with Gold Wreath, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-037-02",
+      "family": "AUT-REP-RED-CROSS-BLOOD-DONATION",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会长期献血奖章",
+      "original": "Verdienstmedaille in Gold für Blutspende",
+      "date": "2003年06月13日",
+      "variant": "金级奖章·银级花环；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-037-02-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic037",
+        "AUT-REP-WMI-037-02-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic037.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 13 June 2003. | Awarded: To mark long-term committment to making donations of blood. | Grades: 3.",
+          "image_reference": "Gold Medal with Silver Wreath, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-037-03",
+      "family": "AUT-REP-RED-CROSS-BLOOD-DONATION",
+      "country_zh": "奥地利·红十字会",
+      "name": "奥地利红十字会长期献血奖章",
+      "original": "Verdienstmedaille in Gold für Blutspende",
+      "date": "2003年06月13日",
+      "variant": "金级奖章·铜级花环；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-037-03-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic037",
+        "AUT-REP-WMI-037-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic037.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 13 June 2003. | Awarded: To mark long-term committment to making donations of blood. | Grades: 3.",
+          "image_reference": "Gold Medal with Bronze Wreath, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Federal Awards",
+      "awarding_authority": "奥地利红十字会",
+      "category": "慈善团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-01",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "星章指挥官级挂章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Commander with Star: Badge, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-02",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "星章指挥官级星章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-02-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-02-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Commander with Star: Star, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-03",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "指挥官级挂章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-03-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-03-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Commander, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-04",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "军官级；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-04-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-04-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Officer"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-05",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "金级骑士十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-05-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-05-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Knight Cross in Gold, Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-030-06",
+      "family": "AUT-REP-BLUE-HELMETS-DECORATION",
+      "country_zh": "奥地利·蓝盔联合会",
+      "name": "奥地利蓝盔联合会荣誉章",
+      "original": "Vereinigung Österreichischer Blauhelme",
+      "date": "1995年12月14日",
+      "variant": "银级骑士十字章；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-030-06-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic030",
+        "AUT-REP-WMI-030-06-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic030.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: 14 December 1995. | Awarded: For service in support and promotion of international peacekeeping and aid missions. | Grades: 6.",
+          "image_reference": "Knight Cross in Silver"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利蓝盔联合会",
+      "category": "社团奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    },
+    {
+      "id": "AUT-REP-WMI-049-01",
+      "family": "AUT-REP-OLRG-HONOUR-CROSS",
+      "country_zh": "奥地利·救生协会",
+      "name": "奥地利救生协会荣誉十字章",
+      "original": "Ehrenkreuz der ÖLRG",
+      "date": "待考",
+      "variant": "完整正面；低清参考",
+      "views": [
+        {
+          "key": "AUT-REP-WMI-049-01-VIEW1",
+          "label": "正面"
+        }
+      ],
+      "source_ids": [
+        "wmi-austria-republic049",
+        "AUT-REP-WMI-049-01-REVIEWED-SOURCE"
+      ],
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic049.htm",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Instituted: Unknown. | Awarded: Unknown.",
+          "image_reference": "Obverse"
+        }
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "local_offline": true,
+      "rights_note": "仅本地离线研究；公开再发布许可未确认",
+      "review_status": "draft_normalized_and_visually_checked",
+      "directory_section": "Awards of Organisations",
+      "awarding_authority": "奥地利救生协会（ÖLRG）",
+      "category": "救生团体奖励附编",
+      "period_scope": "奥地利共和国；具体版型期以来源记录为准"
+    }
+  ]
+}

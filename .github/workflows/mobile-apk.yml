@@ -52,6 +52,7 @@ jobs:
         run: |
           node mobile/scripts/test_search.cjs
           node mobile/scripts/validate_mobile.cjs
+          python mobile/scripts/test_publication_policy.py
       - uses: actions/upload-artifact@v4
         with:
           name: world-medals-android

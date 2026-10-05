@@ -7,13 +7,15 @@
       "matched_existing_objects": 491,
       "pending_classification": 774,
       "annex_or_other": 459,
-      "next": "Read remaining object pages; reconcile grades, periods and makers; select nonduplicate variants; acquire publishable photos"
+      "next": "Batch reconcile actual object evidence into families/variants; deduplicate objects; retrieve full photos for missing types",
+      "object_pages_read": 1724,
+      "object_pages_remaining": 0
     },
     {
       "source": "medals_org_austria",
-      "unmapped_pages": 28,
+      "unmapped_pages": 0,
       "held_rows": 2,
-      "next": "Normalize issuing systems and widow award; replace boundary-cropped Iron Crown image"
+      "next": "Resolved28pagebatch;heldimages andmissingtextrecords remain separate image/identificationqueue"
     },
     {
       "source": "france_official_world_map",

@@ -58,13 +58,14 @@ def export():
         volume = section.get('id')
         count = 0
         for tr in section.select('tr[id]'):
-            if tr.get('data-publication-eligible') == 'false':
-                continue
+            restricted_images = tr.get('data-publication-eligible') == 'false'
             cells = tr.find_all('td', recursive=False)
             if len(cells) != 3:
                 continue
             photos = []
             for im in cells[2].select('img[src]'):
+                if restricted_images or im.get('data-publication-eligible') == 'false':
+                    continue
                 rel = im['src']
                 path = (ROOT / rel).resolve()
                 if not path.is_relative_to(ROOT) or not path.is_file():

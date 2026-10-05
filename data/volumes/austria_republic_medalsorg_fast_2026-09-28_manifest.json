@@ -380,6 +380,363 @@
       "sha256": "52e6c2ad0453ff4955c0f3659cbbb8ab22027d31d0f739a1cc480fb2562b6d47",
       "decoded": true,
       "visually_checked": true
+    },
+    {
+      "key": "aut-aur-003-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-003-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-003-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic003.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria003-02.jpg",
+      "source_caption": "Insignia for Men, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/879929074075b9abd420.jpg",
+      "dimensions": [
+        161,
+        250
+      ],
+      "bytes": 13411,
+      "sha256": "706b8a01575d0dd6eab0aa9050a5199aaee02954cbdaf6c9a142ab1be6323f5a",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic003.htm: Insignia for Men, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-054-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-054-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-054-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic054.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria054-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/5e3d57243164708b8a55.jpg",
+      "dimensions": [
+        144,
+        250
+      ],
+      "bytes": 10531,
+      "sha256": "042f22c6bc503d23f45226288853783482ccba4a3d8a09b16c76ee9974a63acf",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic054.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-004-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-004-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-004-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic004.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria004-04.jpg",
+      "source_caption": "Cross of Honour (Male), Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/cba8ebe497a1aae8c414.jpg",
+      "dimensions": [
+        145,
+        250
+      ],
+      "bytes": 11889,
+      "sha256": "19bce80a47cbe93bd8504ca2bd2f1023e5a0f041b396c77f710921a9a4788dad",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic004.htm: Cross of Honour (Male), Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-016-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-016-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-016-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic016.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria016-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/f759f3ea0c89e123b0c6.jpg",
+      "dimensions": [
+        99,
+        250
+      ],
+      "bytes": 7493,
+      "sha256": "00b2150b7cdeda7c01b7c7bda11f2fd847cdeba1890c3194c21c977d3b09716a",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic016.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-017-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-017-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-017-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic017.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria017-02.jpg",
+      "source_caption": "Gold Medal (Male), Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/c67654bead4cb280a5e1.jpg",
+      "dimensions": [
+        156,
+        250
+      ],
+      "bytes": 12059,
+      "sha256": "1c3f6802dc20e32390067730db1bd6557bc94914ff6dd5f2749cbc3ca65ccecd",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic017.htm: Gold Medal (Male), Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-018-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-018-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-018-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic018.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria018-02.jpg",
+      "source_caption": "Male Insignia, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/71977953da5b4ac6edd0.jpg",
+      "dimensions": [
+        148,
+        250
+      ],
+      "bytes": 11889,
+      "sha256": "8c04db005e0d5bdafc0f171c9d95f214b2886e2c534f7b98600f910e79c147f4",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic018.htm: Male Insignia, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-010-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-010-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-010-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic010.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria010-02.jpg",
+      "source_caption": "Male Insignia, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/eaf076fe9c93db0e4f22.jpg",
+      "dimensions": [
+        164,
+        250
+      ],
+      "bytes": 12724,
+      "sha256": "f16c3c12d28818bf4cd6a8d2f01d403cebe612dc46dd07170c06363fc6ee5972",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic010.htm: Male Insignia, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-011-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-011-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-011-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic011.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria011-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/25de254d5f4b1f0de245.jpg",
+      "dimensions": [
+        167,
+        250
+      ],
+      "bytes": 13604,
+      "sha256": "f141710fbc05f31d8dbb7a5f9730d388b15b4236602d79f24fa2d0863a372e3f",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic011.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-021-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-021-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-021-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic021.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria021-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/c464230042b25aba519e.jpg",
+      "dimensions": [
+        151,
+        250
+      ],
+      "bytes": 13522,
+      "sha256": "4e320b917b64836614354420fd3c1dc92d52d8865d125e05100f31182585834c",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic021.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-028-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-028-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-028-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic028.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria028-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/8a0814eeffb20f4a7584.jpg",
+      "dimensions": [
+        175,
+        250
+      ],
+      "bytes": 13093,
+      "sha256": "38eecf153db804ba61e996d958bc995f69e3746db608a6d2ae6811d939d7102f",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic028.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-014-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-014-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-014-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic014.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria014-02.jpg",
+      "source_caption": "Class 1, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/11fb4d0230d67989cd49.jpg",
+      "dimensions": [
+        154,
+        250
+      ],
+      "bytes": 10684,
+      "sha256": "51f9920103d594f0081a7b5da313c31f38dbd0ba22054b54cdaf621c4f4d85b5",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic014.htm: Class 1, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-050-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-050-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-050-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic050.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria050-02.jpg",
+      "source_caption": "Class 1, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/d1816cff8fde23c44433.jpg",
+      "dimensions": [
+        154,
+        250
+      ],
+      "bytes": 10693,
+      "sha256": "5788712cfa9dab0d04e805ff661340a8dd2031e4622459eed5ce3ca441d07dfb",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic050.htm: Class 1, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-012-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-012-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-012-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic012.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria012-02.jpg",
+      "source_caption": "Type 1, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/bde6fa4eca593e817c18.jpg",
+      "dimensions": [
+        144,
+        250
+      ],
+      "bytes": 11080,
+      "sha256": "df3c564ab393f92b6b4a13313966a9045cca90671efc37376ba1d1b5ec0d65ab",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic012.htm: Type 1, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-027-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-027-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-027-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic027.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria027-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/d3d353ebb73f563e2aaf.jpg",
+      "dimensions": [
+        160,
+        250
+      ],
+      "bytes": 14141,
+      "sha256": "92fb547d145bdb82e0659ad2a68e902bae451dd92a1c8052d9d67745d932016b",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic027.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-022-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-022-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-022-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic022.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria022-02.jpg",
+      "source_caption": "Class 1, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/25c62ae4ea191efa4de8.jpg",
+      "dimensions": [
+        157,
+        250
+      ],
+      "bytes": 12514,
+      "sha256": "83f927ff684aa145bb4642001575637c5aaa39335fec798cc64a497e2e4bc944",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic022.htm: Class 1, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-023-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-023-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-023-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic023.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria023-02.jpg",
+      "source_caption": "Gold Medal, Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/78f962288d463ae12ab8.jpg",
+      "dimensions": [
+        149,
+        250
+      ],
+      "bytes": 12121,
+      "sha256": "8ae4d106e3e564f9cbde6a5e7388f145bc7792bf9a9bdf4209bd3c585c89fe96",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic023.htm: Gold Medal, Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-aur-029-v01-wmi-back-20261005",
+      "view_key": "AUT-AUR-029-V01-WMI-BACK-20261005",
+      "record_id": "AUT-AUR-029-V01",
+      "source_page": "https://www.medals.org.uk/austria/austria-republic/austria-republic029.htm",
+      "image_url": "https://www.medals.org.uk/austria/austria-republic/images/austria029-02.jpg",
+      "source_caption": "Reverse",
+      "local_path": "assets/raw/austria_republic_20261005/c3173910c99c732e3d43.jpg",
+      "dimensions": [
+        141,
+        250
+      ],
+      "bytes": 12495,
+      "sha256": "1f1cabee9100c7a673747ca2d71450915e14c1ab94a50158bcea31c7eddf2751",
+      "decoded": true,
+      "visually_checked": true,
+      "license": "No blanketpublicationpermission;offline researchreferenceonly",
+      "object_reference": "austria-republic029.htm: Reverse",
+      "visual_review": "Completeawardoutlinecheckedinexisting_backscontactsheet",
+      "publication_eligible": false
     }
   ]
 }

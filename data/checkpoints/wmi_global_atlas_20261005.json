@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-10-05",
+  "status": "globalindexandperioddirectorydiscovery_complete",
+  "counts": {
+    "alphabet_indices": 25,
+    "country_historical_entries": 229,
+    "text_directories": 287,
+    "errors": 0
+  },
+  "atlas_draft": "data/staging/wmi_global_atlas_20261005/source_atlas_draft.json",
+  "sweep_queue": "data/staging/wmi_global_atlas_20261005/sweep_queue_draft.json",
+  "discovery_queue": "data/staging/wmi_global_atlas_20261005/discovery_queue_draft.json",
+  "next": "MainmergethesebyexactsourceURLswithatlas;resumehighestprioritypartialscopeobjectandimagequeues",
+  "not_claimed": "Notall287objectcataloguesarealreadyharvested"
+}

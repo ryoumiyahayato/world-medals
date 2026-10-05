@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-10-05",
+  "status": "reviewed_built_push_pending_goal_active",
+  "new_main_families": 1,
+  "new_appendix_families": 10,
+  "new_variant_rows": 76,
+  "complete_new_views": 120,
+  "un_image_leads_pending": 3,
+  "apk_version": "0.016",
+  "apk_sha256": "770599553b06364a320d6929b82413fdcf3a1c824b32537e0d483f6ad3a6fe04",
+  "catalogue_rows": 9154,
+  "catalogue_volumes": 254,
+  "emedals_object_sweep": {
+    "planned": 1724,
+    "cached": 1724,
+    "failed": 0,
+    "remaining": 0
+  },
+  "next": "VerifyGitHubstagepush/release/CI;integrateNoonans,Darabanth,UKarchivebatches;continueeMedalsfamily-variantimagephaseandremainingwebsitequeues",
+  "limitations": [
+    "Currentnewphotosresearchonly;APKpreservesthefactswithoutrestrictedphotos",
+    "Wholewebsiteobjectiveincomplete;sourceaccessboundariesretained",
+    "PrivateGitHubreleasesnotreadablebyunauthenticatedappclients"
+  ]
+}

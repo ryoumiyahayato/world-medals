@@ -1,0 +1,2362 @@
+{
+  "as_of": "2026-10-05",
+  "tasks": [
+    {
+      "scope_label": "Abkhazia",
+      "index_entry": "https://www.medals.org.uk/abkhazia/abkhazia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/abkhazia/abkhazia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Abu Dhabi",
+      "index_entry": "https://www.medals.org.uk/abu-dhabi/abu-dhabi.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/abu-dhabi/abu-dhabi-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Afghanistan",
+      "index_entry": "https://www.medals.org.uk/afghanistan/afghanistan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/afghanistan/ir-afghanistan/ir-afghanistan-text.htm",
+        "https://www.medals.org.uk/afghanistan/afghanistan-republic/afghan-r-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Albania",
+      "index_entry": "https://www.medals.org.uk/albania/albania.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/albania/albania-republic/albania-republic-text.htm",
+        "https://www.medals.org.uk/albania/albania-kingdom/albania-kingdom-text.htm",
+        "https://www.medals.org.uk/albania/albania-pr/albania-pr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Algeria",
+      "index_entry": "https://www.medals.org.uk/algeria/algeria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/algeria/pdr-algeria/pdr-algeria-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Andorra",
+      "index_entry": "https://www.medals.org.uk/andorra/andorra.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/andorra/andorra-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Angola",
+      "index_entry": "https://www.medals.org.uk/angola/angola.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/angola/angola-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Anhalt",
+      "index_entry": "https://www.medals.org.uk/anhalt/anhalt.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/anhalt/anhalt-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Anjouan",
+      "index_entry": "https://www.medals.org.uk/anjouan/anjouan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/anjouan/anjouan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Annam",
+      "index_entry": "https://www.medals.org.uk/annam/annam.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/annam/annam-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Antigua",
+      "index_entry": "https://www.medals.org.uk/antigua/antigua.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/antigua/antigua-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Aragon",
+      "index_entry": "https://www.medals.org.uk/aragon/aragon.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/aragon/aragon-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Argentina",
+      "index_entry": "https://www.medals.org.uk/argentina/argentina.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/argentina/argentina-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Armenia",
+      "index_entry": "https://www.medals.org.uk/armenia/armenia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/armenia/armenia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Artsakh",
+      "index_entry": "https://www.medals.org.uk/artsakh/artsakh.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/artsakh/artsakh-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Auch",
+      "index_entry": "https://www.medals.org.uk/auch/auch.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/auch/auch-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Australia",
+      "index_entry": "https://www.medals.org.uk/australia/australia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/australia/australia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Austria",
+      "index_entry": "https://www.medals.org.uk/austria/austria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/austria/austria-republic/austria-republic-text.htm",
+        "https://www.medals.org.uk/austria/austria-empire/austria-empire-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Azerbaijan",
+      "index_entry": "https://www.medals.org.uk/azerbaijan/azerbaijan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/azerbaijan/azerbaijan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Baden",
+      "index_entry": "https://www.medals.org.uk/baden/baden.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/baden/baden-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bahamas",
+      "index_entry": "https://www.medals.org.uk/bahamas/bahamas.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bahamas/bahamas-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bahrain",
+      "index_entry": "https://www.medals.org.uk/bahrain/bahrain.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bahrain/bahrain-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bangladesh",
+      "index_entry": "https://www.medals.org.uk/bangladesh/bangladesh.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bangladesh/bangladesh-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Barbados",
+      "index_entry": "https://www.medals.org.uk/barbados/barbados.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/barbados/barbados-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Barcelona",
+      "index_entry": "https://www.medals.org.uk/barcelona/barcelona.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/barcelona/barcelona-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bavaria",
+      "index_entry": "https://www.medals.org.uk/bavaria/bavaria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bavaria/bavaria-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Belarus",
+      "index_entry": "https://www.medals.org.uk/belarus/belarus.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/belarus/belarus-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Belgium",
+      "index_entry": "https://www.medals.org.uk/belgium/belgium.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/belgium/belgium-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Belize",
+      "index_entry": "https://www.medals.org.uk/belize/belize.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/belize/belize-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Benin",
+      "index_entry": "https://www.medals.org.uk/benin/benin.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/benin/benin/benin-text.htm",
+        "https://www.medals.org.uk/benin/pr-benin/prbenin-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bhutan",
+      "index_entry": "https://www.medals.org.uk/bhutan/bhutan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bhutan/bhutan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bolivia",
+      "index_entry": "https://www.medals.org.uk/bolivia/bolivia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bolivia/bolivia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bosnia",
+      "index_entry": "https://www.medals.org.uk/bosnia/bosnia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bosnia/bosnia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Botswana",
+      "index_entry": "https://www.medals.org.uk/botswana/botswana.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/botswana/botswana-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Brazil",
+      "index_entry": "https://www.medals.org.uk/brazil/brazil.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil-text.htm",
+        "https://www.medals.org.uk/brazil/brazil-empire/brazil-empire-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Brunei",
+      "index_entry": "https://www.medals.org.uk/brunei/brunei.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/brunei/brunei-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Brunswick",
+      "index_entry": "https://www.medals.org.uk/brunswick/brunswick.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/brunswick/brunswick-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bukhara",
+      "index_entry": "https://www.medals.org.uk/bukhara/bukhara.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bukhara/bukhara-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Bulgaria",
+      "index_entry": "https://www.medals.org.uk/bulgaria/bulgaria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/bulgaria/republic/bulgaria-r-text.htm",
+        "https://www.medals.org.uk/bulgaria/kingdom/bulgaria-kingdom-text.htm",
+        "https://www.medals.org.uk/bulgaria/peoples-republic/bulgaria-pr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Burkina Faso",
+      "index_entry": "https://www.medals.org.uk/burkina-faso/burkina-faso.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/burkina-faso/burkina-faso-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Burma",
+      "index_entry": "https://www.medals.org.uk/myanmar/myanmar.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/myanmar/myanmar-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Burundi",
+      "index_entry": "https://www.medals.org.uk/burundi/burundi.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/burundi/burundi-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Cambodia",
+      "index_entry": "https://www.medals.org.uk/cambodia/cambodia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/cambodia/kingdom-of-cambodia/cambodia-text.htm",
+        "https://www.medals.org.uk/cambodia/protectorate/protectorate-text.htm",
+        "https://www.medals.org.uk/cambodia/old-kingdom/old-kingdom-text.htm",
+        "https://www.medals.org.uk/cambodia/kampuchea/kampuchea-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Cameroon",
+      "index_entry": "https://www.medals.org.uk/cameroon/cameroon.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/cameroon/cameroon-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Canada",
+      "index_entry": "https://www.medals.org.uk/canada/canada.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/canada/canada-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Cape Verde",
+      "index_entry": "https://www.medals.org.uk/cape-verde/cape-verde.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/cape-verde/cape-verde-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Central African Republic",
+      "index_entry": "https://www.medals.org.uk/car/car.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/car/car-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Chad",
+      "index_entry": "https://www.medals.org.uk/tchad/tchad.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tchad/tchad-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Chile",
+      "index_entry": "https://www.medals.org.uk/chile/chile.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/chile/chile-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "China",
+      "index_entry": "https://www.medals.org.uk/china/china.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/china/prc/prc-text.htm",
+        "https://www.medals.org.uk/china/china-empire/china-empire-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Colombia",
+      "index_entry": "https://www.medals.org.uk/colombia/colombia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/colombia/colombia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Comoros",
+      "index_entry": "https://www.medals.org.uk/comoros/comoros.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/comoros/comoros-text.htm",
+        "https://www.medals.org.uk/comoros/french-comoros/fr-comoros-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "DR Congo",
+      "index_entry": "https://www.medals.org.uk/dr-congo/dr-congo.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/dr-congo/dr-congo-text.htm",
+        "https://www.medals.org.uk/dr-congo/zaire/zaire-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Congo",
+      "index_entry": "https://www.medals.org.uk/congo/congo.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/congo/congo-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Costa Rica",
+      "index_entry": "https://www.medals.org.uk/costa-rica/costa-rica.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/costa-rica/costa-rica-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Croatia",
+      "index_entry": "https://www.medals.org.uk/croatia/croatia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/croatia/republic-croatia/republic-croatia-text.htm",
+        "https://www.medals.org.uk/croatia/independent-croatia/independent-croatia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Cuba",
+      "index_entry": "https://www.medals.org.uk/cuba/cuba.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/cuba/socialist-cuba/socialist-cuba-text.htm",
+        "https://www.medals.org.uk/cuba/cuba-republic/cuba-republic-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Cyprus",
+      "index_entry": "https://www.medals.org.uk/cyprus/cyprus.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/cyprus/cyprus-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Czechoslovakia",
+      "index_entry": "https://www.medals.org.uk/czechoslovakia/czechoslovakia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/czechoslovakia/czech-republic/czech-republic-text.htm",
+        "https://www.medals.org.uk/czechoslovakia/czechoslovak-republic/czechoslovak-republic-text.htm",
+        "https://www.medals.org.uk/czechoslovakia/csr/csr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Denmark",
+      "index_entry": "https://www.medals.org.uk/denmark/denmark.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/denmark/denmark-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Djibouti",
+      "index_entry": "https://www.medals.org.uk/djibouti/djibouti.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/djibouti/republic/djibouti-text.htm",
+        "https://www.medals.org.uk/djibouti/french/djibouti-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Dominican Republic",
+      "index_entry": "https://www.medals.org.uk/dominican-republic/dominican-republic.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/dominican-republic/dominican-republic-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Donetsk",
+      "index_entry": "https://www.medals.org.uk/donetsk/donetsk.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/donetsk/donetsk-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ecuador",
+      "index_entry": "https://www.medals.org.uk/ecuador/ecuador.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ecuador/ecuador-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Egypt",
+      "index_entry": "https://www.medals.org.uk/egypt/egypt.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/egypt/egypt-republic/egypt-republic-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "El Salvador",
+      "index_entry": "https://www.medals.org.uk/el-salvador/el-salvador.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/el-salvador/el-salvador-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Equatorial Guinea",
+      "index_entry": "https://www.medals.org.uk/equatorial-guinea/equatorial-guinea.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/equatorial-guinea/equatorial-guinea-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Estonia",
+      "index_entry": "https://www.medals.org.uk/estonia/estonia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/estonia/estonia-republic/estonia-text.htm",
+        "https://www.medals.org.uk/estonia/estonia1918/estonia1918-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ethiopia",
+      "index_entry": "https://www.medals.org.uk/ethiopia/ethiopia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ethiopia/fdr-ethiopia/fdr-ethiopia-text.htm",
+        "https://www.medals.org.uk/ethiopia/ethiopia-empire/ethiopia-text.htm",
+        "https://www.medals.org.uk/ethiopia/pdr-ethiopia/pdr-ethiopia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "European Union",
+      "index_entry": "https://www.medals.org.uk/european-union/european-union.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/european-union/european-union-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Fiji",
+      "index_entry": "https://www.medals.org.uk/fiji/fiji.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/fiji/fiji-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Finland",
+      "index_entry": "https://www.medals.org.uk/finland/finland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/finland/finland-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "France",
+      "index_entry": "https://www.medals.org.uk/france/france.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/france/france-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Gabon",
+      "index_entry": "https://www.medals.org.uk/gabon/gabon.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/gabon/gabon-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Gambia",
+      "index_entry": "https://www.medals.org.uk/gambia/gambia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/gambia/gambia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Georgia",
+      "index_entry": "https://www.medals.org.uk/georgia/georgia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/georgia/georgia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Germany",
+      "index_entry": "https://www.medals.org.uk/germany/germany.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/germany/frg/frg-text.htm",
+        "https://www.medals.org.uk/germany/german-empire/german-empire-text.htm",
+        "https://www.medals.org.uk/germany/weimar/weimar-text.htm",
+        "https://www.medals.org.uk/germany/third-reich/third-reich-text.htm",
+        "https://www.medals.org.uk/germany/ddr/ddr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ghana",
+      "index_entry": "https://www.medals.org.uk/ghana/ghana.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ghana/ghana-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Greece",
+      "index_entry": "https://www.medals.org.uk/greece/greece.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/greece/greece-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Guatemala",
+      "index_entry": "https://www.medals.org.uk/guatemala/guatemala.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/guatemala/guatemala-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Guinea",
+      "index_entry": "https://www.medals.org.uk/guinea/guinea.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/guinea/guinea-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Guyana",
+      "index_entry": "https://www.medals.org.uk/guyana/guyana.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/guyana/guyana-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Haiti",
+      "index_entry": "https://www.medals.org.uk/haiti/haiti.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/haiti/haiti-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hannover",
+      "index_entry": "https://www.medals.org.uk/hannover/hannover.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hannover/hannover-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hawaii",
+      "index_entry": "https://www.medals.org.uk/hawaii/hawaii.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hawaii/hawaii-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hesse-Darmstadt",
+      "index_entry": "https://www.medals.org.uk/hesse-darmstadt/hesse-darmstadt.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hesse-darmstadt/hesse-darmstadt-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hessen-Homburg",
+      "index_entry": "https://www.medals.org.uk/hessen-homburg/hessen-homburg.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hessen-homburg/hessen-homburg-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hessen-Kassel",
+      "index_entry": "https://www.medals.org.uk/hessen-kassel/hessen-kassel.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hessen-kassel/hessen-kassel-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hohenzollern",
+      "index_entry": "https://www.medals.org.uk/hohenzollern/hohenzollern.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hohenzollern/hohenzollern-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Honduras",
+      "index_entry": "https://www.medals.org.uk/honduras/honduras.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/honduras/honduras-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hong Kong (SAR)",
+      "index_entry": "https://www.medals.org.uk/hong-kong/hong-kong.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hong-kong/hong-kong-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Hungary",
+      "index_entry": "https://www.medals.org.uk/hungary/hungary.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/hungary/hungary/hungary-text.htm",
+        "https://www.medals.org.uk/hungary/hungary-regency/hungary-regency-text.htm",
+        "https://www.medals.org.uk/hungary/hungary-1944/hungary1944-text.htm",
+        "https://www.medals.org.uk/hungary/hungary-pr/hungary-pr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Iceland",
+      "index_entry": "https://www.medals.org.uk/iceland/iceland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/iceland/iceland-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "India",
+      "index_entry": "https://www.medals.org.uk/india/india.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/india/india-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Indonesia",
+      "index_entry": "https://www.medals.org.uk/indonesia/indonesia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/indonesia/indonesia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Iran",
+      "index_entry": "https://www.medals.org.uk/iran/iran.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/iran/islamic-iran/islamic-iran-text.htm",
+        "https://www.medals.org.uk/iran/empire-of-iran/empire-iran-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Iraq",
+      "index_entry": "https://www.medals.org.uk/iraq/iraq.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/iraq/iraq-republic/iraq-republic-text.htm",
+        "https://www.medals.org.uk/iraq/iraq-kingdom/iraq-kingdom-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ireland",
+      "index_entry": "https://www.medals.org.uk/ireland/ireland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ireland/ireland-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Isenburg-Birstein",
+      "index_entry": "https://www.medals.org.uk/isenburg-birstein/isenburg-birstein.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/isenburg-birstein/isenburg-birstein-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Israel",
+      "index_entry": "https://www.medals.org.uk/israel/israel.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/israel/israel-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Italy",
+      "index_entry": "https://www.medals.org.uk/italy/italy.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/italy/republic/italian-republic-text.htm",
+        "https://www.medals.org.uk/italy/kingdom/italy-kingdom-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ivory Coast",
+      "index_entry": "https://www.medals.org.uk/ivory-coast/ivory-coast.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ivory-coast/ivory-coast-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Jamaica",
+      "index_entry": "https://www.medals.org.uk/jamaica/jamaica.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/jamaica/jamaica-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Japan",
+      "index_entry": "https://www.medals.org.uk/japan/japan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/japan/japan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Johore",
+      "index_entry": "https://www.medals.org.uk/johore/johore.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/johore/johore-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Jordan",
+      "index_entry": "https://www.medals.org.uk/jordan/jordan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/jordan/jordan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kazakhstan",
+      "index_entry": "https://www.medals.org.uk/kazakhstan/kazakhstan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kazakhstan/kazakhstan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kedah",
+      "index_entry": "https://www.medals.org.uk/kedah/kedah.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kedah/kedah-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kelantan",
+      "index_entry": "https://www.medals.org.uk/kelantan/kelantan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kelantan/kelantan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kenya",
+      "index_entry": "https://www.medals.org.uk/kenya/kenya.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kenya/kenya-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kiribati",
+      "index_entry": "https://www.medals.org.uk/kiribati/kiribati.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kiribati/kiribati-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Korea - Empire",
+      "index_entry": "https://www.medals.org.uk/korea-imperial/korea-imperial.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/korea-imperial/korea-imperial-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Korea - North",
+      "index_entry": "https://www.medals.org.uk/north-korea/north-korea.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/north-korea/north-korea-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Korea - South",
+      "index_entry": "https://www.medals.org.uk/south-korea/south-korea.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/south-korea/south-korea-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kosovo",
+      "index_entry": "https://www.medals.org.uk/kosovo/kosovo.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kosovo/kosovo-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kuwait",
+      "index_entry": "https://www.medals.org.uk/kuwait/kuwait.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kuwait/kuwait-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Kyrgyzstan",
+      "index_entry": "https://www.medals.org.uk/kyrgyzstan/kyrgyzstan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/kyrgyzstan/kyrgyzstan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Laos",
+      "index_entry": "https://www.medals.org.uk/laos/laos.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/laos/pr-laos/pr-laos-text.htm",
+        "https://www.medals.org.uk/laos/kingdom-laos/kingdom-laos-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Latvia",
+      "index_entry": "https://www.medals.org.uk/latvia/latvia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/latvia/1991-latvia/1991-latvia-text.htm",
+        "https://www.medals.org.uk/latvia/1918-latvia/1918-latvia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Lebanon",
+      "index_entry": "https://www.medals.org.uk/lebanon/lebanon.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/lebanon/lebanon/lebanon-text.htm",
+        "https://www.medals.org.uk/lebanon/mandate/mandate-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Lesotho",
+      "index_entry": "https://www.medals.org.uk/lesotho/lesotho.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/lesotho/lesotho-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Liberia",
+      "index_entry": "https://www.medals.org.uk/liberia/liberia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/liberia/liberia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Libya",
+      "index_entry": "https://www.medals.org.uk/libya/libya.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/libya/libya-republic/libya-republic-text.htm",
+        "https://www.medals.org.uk/libya/libya-kingdom/libya-kingdom-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Liechtenstein",
+      "index_entry": "https://www.medals.org.uk/liechtenstein/liechtenstein.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/liechtenstein/liechtenstein-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Lippe-Detmold",
+      "index_entry": "https://www.medals.org.uk/lippe-detmold/lippe-detmold.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/lippe-detmold/lippe-detmold-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Lithuania",
+      "index_entry": "https://www.medals.org.uk/lithuania/lithuania.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/lithuania/lithuania-1991/lithuania-text-1991.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Luxembourg",
+      "index_entry": "https://www.medals.org.uk/luxembourg/luxembourg.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/luxembourg/luxembourg-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Macedonia",
+      "index_entry": "https://www.medals.org.uk/macedonia/macedonia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/macedonia/macedonia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Madagascar",
+      "index_entry": "https://www.medals.org.uk/madagascar/madagascar.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/madagascar/madagascar-republic/madagascar-republic-text.htm",
+        "https://www.medals.org.uk/madagascar/kingdom-of-madagascar/kingdom-of-madagascar-text.htm",
+        "https://www.medals.org.uk/madagascar/french-madagascar/french-madagascar-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Malawi",
+      "index_entry": "https://www.medals.org.uk/malawi/malawi.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/malawi/malawi-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Malaysia",
+      "index_entry": "https://www.medals.org.uk/malaysia/malaysia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/malaysia/malaysia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Maldives",
+      "index_entry": "https://www.medals.org.uk/maldives/maldives.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/maldives/republic/maldives-text.htm",
+        "https://www.medals.org.uk/maldives/sultanate/maldives-text.htm",
+        "https://www.medals.org.uk/maldives/old-republic/maldives-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mali",
+      "index_entry": "https://www.medals.org.uk/mali/mali.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mali/mali-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Malta",
+      "index_entry": "https://www.medals.org.uk/malta/malta.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/malta/malta-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mauritania",
+      "index_entry": "https://www.medals.org.uk/mauritania/mauritania.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mauritania/mauritania-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mauritius",
+      "index_entry": "https://www.medals.org.uk/mauritius/mauritius.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mauritius/mauritius-republic/mauritius-republic-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mecklenburg-Schwerin",
+      "index_entry": "https://www.medals.org.uk/mecklenburg-schwerin/mecklenburg-schwerin.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mecklenburg-schwerin/mecklenburg-schwerin-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mecklenburg-Strelitz",
+      "index_entry": "https://www.medals.org.uk/mecklenburg-strelitz/mecklenburg-strelitz.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mecklenburg-strelitz/mecklenburg-strelitz-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mexico",
+      "index_entry": "https://www.medals.org.uk/mexico/mexico.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mexico/mexico-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Moldova",
+      "index_entry": "https://www.medals.org.uk/moldova/moldova.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/moldova/moldova-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Monaco",
+      "index_entry": "https://www.medals.org.uk/monaco/monaco.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/monaco/monaco-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mongolia",
+      "index_entry": "https://www.medals.org.uk/mongolia/mongolia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mongolia/mongolia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Montenegro",
+      "index_entry": "https://www.medals.org.uk/montenegro/montenegro.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/montenegro/montenegro/montenegro-text.htm",
+        "https://www.medals.org.uk/montenegro/pk-montenegro/pk-montenegro-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Morocco",
+      "index_entry": "https://www.medals.org.uk/morocco/morocco.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/morocco/morocco-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Mozambique",
+      "index_entry": "https://www.medals.org.uk/mozambique/mozambique.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/mozambique/mozambique-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Myanmar",
+      "index_entry": "https://www.medals.org.uk/myanmar/myanmar.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/myanmar/myanmar-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Namibia",
+      "index_entry": "https://www.medals.org.uk/namibia/namibia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/namibia/namibia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Nepal",
+      "index_entry": "https://www.medals.org.uk/nepal/nepal.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/nepal/nepal-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "The Netherlands",
+      "index_entry": "https://www.medals.org.uk/netherlands/netherlands.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/netherlands/netherlands-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "New Zealand",
+      "index_entry": "https://www.medals.org.uk/new-zealand/new-zealand.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/new-zealand/new-zealand-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Nicaragua",
+      "index_entry": "https://www.medals.org.uk/nicaragua/nicaragua.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/nicaragua/nicaragua-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Niger",
+      "index_entry": "https://www.medals.org.uk/niger/niger.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/niger/niger-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Nigeria",
+      "index_entry": "https://www.medals.org.uk/nigeria/nigeria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/nigeria/nigeria-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "NATO",
+      "index_entry": "https://www.medals.org.uk/nato/nato.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/nato/nato-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Norway",
+      "index_entry": "https://www.medals.org.uk/norway/norway.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/norway/norway-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Oldenburg",
+      "index_entry": "https://www.medals.org.uk/oldenburg/oldenburg.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/oldenburg/oldenburg-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Oman",
+      "index_entry": "https://www.medals.org.uk/oman/oman.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/oman/oman-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ossetia - South",
+      "index_entry": "https://www.medals.org.uk/south-ossetia/south-ossetia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/south-ossetia/south-ossetia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Pakistan",
+      "index_entry": "https://www.medals.org.uk/pakistan/pakistan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/pakistan/pakistan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Palestine",
+      "index_entry": "https://www.medals.org.uk/palestine/palestine.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/palestine/palestine-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Panama",
+      "index_entry": "https://www.medals.org.uk/panama/panama.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/panama/panama-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Papua New Guinea",
+      "index_entry": "https://www.medals.org.uk/papua-new-guinea/png.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/papua-new-guinea/png-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Paraguay",
+      "index_entry": "https://www.medals.org.uk/paraguay/paraguay.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/paraguay/paraguay-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Peru",
+      "index_entry": "https://www.medals.org.uk/peru/peru.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/peru/peru-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "The Philippines",
+      "index_entry": "https://www.medals.org.uk/philippines/philippines.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/philippines/philippines-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Poland",
+      "index_entry": "https://www.medals.org.uk/poland/poland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/poland/3republic/3republic-text.htm",
+        "https://www.medals.org.uk/poland/2republic/2republic-text.htm",
+        "https://www.medals.org.uk/poland/peoples-republic/peoples-republic-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Portugal",
+      "index_entry": "https://www.medals.org.uk/portugal/portugal.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/portugal/portugal-republic/portugal-republic-text.htm",
+        "https://www.medals.org.uk/portugal/portugal-kingdom/portugal-kingdom-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Prussia",
+      "index_entry": "https://www.medals.org.uk/prussia/prussia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/prussia/prussia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Qatar",
+      "index_entry": "https://www.medals.org.uk/qatar/qatar.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/qatar/qatar-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Rhodesia",
+      "index_entry": "https://www.medals.org.uk/rhodesia/rhodesia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/rhodesia/rhodesia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Romania",
+      "index_entry": "https://www.medals.org.uk/romania/romania.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/romania/republic-romania/republic-romania-text.htm",
+        "https://www.medals.org.uk/romania/kingdom-romania/kingdom-romania-text.htm",
+        "https://www.medals.org.uk/romania/socialist-romania/socialist-romania-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Russia",
+      "index_entry": "https://www.medals.org.uk/russia/russia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/russia/rf/rf-text.htm",
+        "https://www.medals.org.uk/russia/imperial/imperial-russia-text.htm",
+        "https://www.medals.org.uk/russia/ussr/ussr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Rwanda",
+      "index_entry": "https://www.medals.org.uk/rwanda/rwanda.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/rwanda/rwanda-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "St Christopher & Nevis",
+      "index_entry": "https://www.medals.org.uk/st-christopher/st-christopher.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/st-christopher/st-christopher-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Samoa",
+      "index_entry": "https://www.medals.org.uk/samoa/samoa.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/samoa/samoa-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "San Marino",
+      "index_entry": "https://www.medals.org.uk/san-marino/san-marino.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/san-marino/san-marino-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Sarawak",
+      "index_entry": "https://www.medals.org.uk/sarawak/sarawak.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/sarawak/sarawak-text.htm",
+        "https://www.medals.org.uk/sarawak/sarawak/sarawak-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Saudi Arabia",
+      "index_entry": "https://www.medals.org.uk/saudi-arabia/saudi-arabia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/saudi-arabia/saudi-arabia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Saxe-Altenburg",
+      "index_entry": "https://www.medals.org.uk/saxe-altenburg/saxe-altenburg.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/saxe-altenburg/saxe-altenburg-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Saxe-Weimar-Eisenach",
+      "index_entry": "https://www.medals.org.uk/saxe-weimar/saxe-weimar.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/saxe-weimar/saxe-weimar-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Saxony",
+      "index_entry": "https://www.medals.org.uk/saxony/saxony.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/saxony/saxony-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Schleswig-Holstein",
+      "index_entry": "https://www.medals.org.uk/schleswig-holstein/index.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/schleswig-holstein/schleswig-holstein-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Senegal",
+      "index_entry": "https://www.medals.org.uk/senegal/senegal.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/senegal/senegal-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Serbia",
+      "index_entry": "https://www.medals.org.uk/serbia/serbia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/serbia/serbia-republic/serbia-rep-text.htm",
+        "https://www.medals.org.uk/serbia/serbia-kingdom/serbia-kingdom-text.htm",
+        "https://www.medals.org.uk/serbia/serb-mont/serb-mont-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Sierra Leone",
+      "index_entry": "https://www.medals.org.uk/sierra-leone/sierra-leone.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/sierra-leone/sierra-leone-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Singapore",
+      "index_entry": "https://www.medals.org.uk/singapore/singapore.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/singapore/singapore-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Slovakia",
+      "index_entry": "https://www.medals.org.uk/slovakia/slovakia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/slovakia/republic-slovakia/republic-slovakia-text.htm",
+        "https://www.medals.org.uk/slovakia/slovakia-state/slovakia-state-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Slovenia",
+      "index_entry": "https://www.medals.org.uk/slovenia/slovenia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/slovenia/slovenia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Solomon Islands",
+      "index_entry": "https://www.medals.org.uk/solomons/solomons.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/solomons/solomons-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Somalia",
+      "index_entry": "https://www.medals.org.uk/somalia/somalia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/somalia/fr-somalia/fr-somalia-text.htm",
+        "https://www.medals.org.uk/somalia/untt/untt-text.htm",
+        "https://www.medals.org.uk/somalia/somalia/somalia-text.htm",
+        "https://www.medals.org.uk/somalia/dr-somalia/dr-somalia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "South Africa",
+      "index_entry": "https://www.medals.org.uk/south-africa/south-africa.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/south-africa/south-africa-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Spain",
+      "index_entry": "https://www.medals.org.uk/spain/spain.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/spain/spain-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Sri Lanka",
+      "index_entry": "https://www.medals.org.uk/sri-lanka/sri-lanka.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/sri-lanka/sri-lanka-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Sudan",
+      "index_entry": "https://www.medals.org.uk/sudan/sudan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/sudan/sudan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Suriname",
+      "index_entry": "https://www.medals.org.uk/suriname/suriname.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/suriname/suriname-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Swaziland",
+      "index_entry": "https://www.medals.org.uk/swaziland/swaziland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/swaziland/swaziland-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Sweden",
+      "index_entry": "https://www.medals.org.uk/sweden/sweden.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/sweden/sweden-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Switzerland",
+      "index_entry": "https://www.medals.org.uk/switzerland/switzerland.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/switzerland/switzerland-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Syria",
+      "index_entry": "https://www.medals.org.uk/syria/syria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/syria/syria-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Taiwan",
+      "index_entry": "https://www.medals.org.uk/taiwan/taiwan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/taiwan/taiwan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Tajikistan",
+      "index_entry": "https://www.medals.org.uk/tajikistan/tajikistan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tajikistan/tajikistan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Tanzania",
+      "index_entry": "https://www.medals.org.uk/tanzania/tanzania.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tanzania/tanzania-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Tchad",
+      "index_entry": "https://www.medals.org.uk/tchad/tchad.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tchad/tchad-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Thailand",
+      "index_entry": "https://www.medals.org.uk/thailand/thailand.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/thailand/thailand-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Togo",
+      "index_entry": "https://www.medals.org.uk/togo/togo.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/togo/togo-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Tonga",
+      "index_entry": "https://www.medals.org.uk/tonga/tonga.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tonga/tonga-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Transnistria",
+      "index_entry": "https://www.medals.org.uk/transnistria/transnistria.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/transnistria/transnistria-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Trinidad & Tobago",
+      "index_entry": "https://www.medals.org.uk/trinidad/trinidad.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/trinidad/trinidad-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Tunisia",
+      "index_entry": "https://www.medals.org.uk/tunisia/tunisia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/tunisia/tunisia-republic/tunisia-text.htm",
+        "https://www.medals.org.uk/tunisia/fr-tunisia/fr-tunisia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Turkey",
+      "index_entry": "https://www.medals.org.uk/turkey/turkey.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/turkey/turkey/turkey-text.htm",
+        "https://www.medals.org.uk/turkey/ottoman/ottoman-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Turkmenistan",
+      "index_entry": "https://www.medals.org.uk/turkmenistan/turkmenistan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/turkmenistan/turkmenistan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Uganda",
+      "index_entry": "https://www.medals.org.uk/uganda/uganda.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/uganda/uganda-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Ukraine",
+      "index_entry": "https://www.medals.org.uk/ukraine/ukraine.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/ukraine/ukraine-republic/ukraine-republic-text.htm",
+        "https://www.medals.org.uk/ukraine/ukraine-ssr/ukraine-ssr-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "United Arab Emirates",
+      "index_entry": "https://www.medals.org.uk/uae/uae.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/uae/uae-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "United Kingdom",
+      "index_entry": "https://www.medals.org.uk/united-kingdom/united-kingdom.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/united-kingdom/united-kingdom-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "United Nations",
+      "index_entry": "https://www.medals.org.uk/united-nations/united-nations.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/united-nations/united-nations-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "USA",
+      "index_entry": "https://www.medals.org.uk/usa/usa.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/usa/usa-text.htm",
+        "https://www.medals.org.uk/usa/usa-states-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Uruguay",
+      "index_entry": "https://www.medals.org.uk/uruguay/uruguay.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/uruguay/uruguay-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Uzbekistan",
+      "index_entry": "https://www.medals.org.uk/uzbekistan/uzbekistan.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/uzbekistan/uzbekistan-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Vanuatu",
+      "index_entry": "https://www.medals.org.uk/vanuatu/vanuatu.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/vanuatu/vanuatu-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "The Vatican",
+      "index_entry": "https://www.medals.org.uk/vatican/vatican.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/vatican/vatican-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Venezuela",
+      "index_entry": "https://www.medals.org.uk/venezuela/venezuela.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/venezuela/venezuela-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Vietnam (North)",
+      "index_entry": "https://www.medals.org.uk/north-vietnam/north-vietnam.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/north-vietnam/north-vietnam-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Vietnam (South)",
+      "index_entry": "https://www.medals.org.uk/south-vietnam/south-vietnam.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/south-vietnam/south-vietnam-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Württemberg",
+      "index_entry": "https://www.medals.org.uk/wuerttemberg/wuerttemberg.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/wuerttemberg/wuerttemberg-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Yemen",
+      "index_entry": "https://www.medals.org.uk/yemen/yemen.htm",
+      "status": "queued",
+      "task": "Findpublicawarddirectorywithinlandingorexternalofficialsource",
+      "reason": "Noindexedtextdirectorydiscovered"
+    },
+    {
+      "scope_label": "Yemen",
+      "index_entry": "https://www.medals.org.uk/yemen/yemen.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Yugoslavia",
+      "index_entry": "https://www.medals.org.uk/yugoslavia/yugoslavia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/yugoslavia/fry/fry-text.htm",
+        "https://www.medals.org.uk/yugoslavia/yugo-kingdom/yugo-kingdom-text.htm",
+        "https://www.medals.org.uk/yugoslavia/yugoslavia/yugoslavia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Zambia",
+      "index_entry": "https://www.medals.org.uk/zambia/zambia.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/zambia/zambia-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    },
+    {
+      "scope_label": "Zimbabwe",
+      "index_entry": "https://www.medals.org.uk/zimbabwe/zimbabwe.htm",
+      "status": "queued",
+      "task": "Locateindependentofficial/museumlegislationresourcesforeachhistoricalawardingauthority",
+      "known_wmi_directories": [
+        "https://www.medals.org.uk/zimbabwe/zimbabwe/zimbabwe-text.htm"
+      ],
+      "boundary": "Noautomaticmodernnationalassignmentforhistoricalororganisationaward"
+    }
+  ],
+  "source_access_errors": []
+}

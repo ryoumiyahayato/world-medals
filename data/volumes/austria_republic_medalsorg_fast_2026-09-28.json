@@ -14,6 +14,11 @@
         {
           "key": "AUT-AUR-003-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-003-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -38,7 +43,8 @@
           "source_page": "https://www.bundeskanzleramt.gv.at/themen/auszeichnungen.html",
           "note": "Austrian Federal Chancellery identifies the listed Republic merit/science decorations as federal awards."
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-001-V01",
@@ -48,12 +54,7 @@
       "original": "Ehrenzeichen für Verdienste um die Republik Österreich",
       "date": "1952年4月2日设立",
       "variant": "第一级章饰；低清参考",
-      "views": [
-        {
-          "key": "AUT-AUR-001-V01-VIEW1",
-          "label": "正面（低清参考）"
-        }
-      ],
+      "views": [],
       "source_ids": [
         "medalsorg-austria-republic-austria-republic001",
         "medalsorg-austria-republic-text-list",
@@ -61,7 +62,7 @@
       ],
       "image_kind": "catalogue_object_photo",
       "html_eligible": true,
-      "body_eligible": true,
+      "body_eligible": false,
       "local_offline": true,
       "rights_note": "来源未声明通用再发布许可；图像仅纳入本地离线研究图鉴，公开发布或导出前需核查许可。",
       "evidence": [
@@ -76,7 +77,15 @@
           "source_page": "https://www.bundeskanzleramt.gv.at/themen/auszeichnungen.html",
           "note": "Austrian Federal Chancellery identifies the listed Republic merit/science decorations as federal awards."
         }
-      ]
+      ],
+      "publication_eligible": false,
+      "held_views": [
+        {
+          "key": "AUT-AUR-001-V01-VIEW1",
+          "label": "正面（低清参考）"
+        }
+      ],
+      "quality_note": "Source image touches/cuts lower badge tip; retained as source evidence, moved to unpictured appendix pending complete replacement."
     },
     {
       "id": "AUT-AUR-004-V01",
@@ -90,6 +99,11 @@
         {
           "key": "AUT-AUR-004-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-004-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -114,7 +128,8 @@
           "source_page": "https://www.bundeskanzleramt.gv.at/themen/auszeichnungen.html",
           "note": "Austrian Federal Chancellery identifies the listed Republic merit/science decorations as federal awards."
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-010-V01",
@@ -128,6 +143,11 @@
         {
           "key": "AUT-AUR-010-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-010-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -146,7 +166,8 @@
           "source_excerpt": "Instituted: 1964. | Awarded: For contributions to the organisation of the Winter Olympics at Innsbruck, 1964.",
           "image_reference": "World Medals Index image caption: Male Insignia, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-012-V01",
@@ -160,6 +181,11 @@
         {
           "key": "AUT-AUR-012-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-012-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -178,7 +204,8 @@
           "source_excerpt": "Instituted: 2001. | Awarded: For service on military operations.",
           "image_reference": "World Medals Index image caption: Type 1, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-011-V01",
@@ -192,6 +219,11 @@
         {
           "key": "AUT-AUR-011-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-011-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -210,7 +242,8 @@
           "source_excerpt": "Instituted: 1976. | Awarded: For contributions to the organisation of the Winter Olympics at Innsbruck, 1976.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-014-V01",
@@ -224,6 +257,11 @@
         {
           "key": "AUT-AUR-014-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-014-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -242,7 +280,8 @@
           "source_excerpt": "Instituted: 11 June 1975. | Awarded: To those wounded in combat. | Grades: 2.",
           "image_reference": "World Medals Index image caption: Class 1, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-015-V01",
@@ -274,7 +313,8 @@
           "source_excerpt": "Instituted: 13 November 1989. | Awarded: For outstanding service to the Armed Forces.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-016-V01",
@@ -288,6 +328,11 @@
         {
           "key": "AUT-AUR-016-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-016-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -306,7 +351,8 @@
           "source_excerpt": "Instituted: 27 January 1976. | Awarded: To those who actively resisted the Nazi regime contributing to Austria's liberation from Nazi rule..",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-017-V01",
@@ -320,6 +366,11 @@
         {
           "key": "AUT-AUR-017-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-017-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -338,7 +389,8 @@
           "source_excerpt": "Instituted: 18 June 1957 as Silver and Gold Medals, since 15 February 1968 only awarded in Gold. | Instituted: 18 June 1957 as Silver and Gold Medals, since 15 February 1968 only awarded in Gold.",
           "image_reference": "World Medals Index image caption: Gold Medal (Male), Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-018-V01",
@@ -352,6 +404,11 @@
         {
           "key": "AUT-AUR-018-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-018-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -370,7 +427,8 @@
           "source_excerpt": "Instituted: 2 April 1952. | Awarded: For noteworthy achievements or services to the Republic.",
           "image_reference": "World Medals Index image caption: Male Insignia, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-021-V01",
@@ -384,6 +442,11 @@
         {
           "key": "AUT-AUR-021-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-021-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -402,7 +465,8 @@
           "source_excerpt": "Instituted: 24 February 1954. | Awarded: For courageous acts during rescues and meritorious contributions to the mine rescue service.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-023-V01",
@@ -416,6 +480,11 @@
         {
           "key": "AUT-AUR-023-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-023-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -434,7 +503,8 @@
           "source_excerpt": "Instituted: Bronze: 10 July 1963; Silver: 13 February 1969; and Gold: 28 June 1989. | Awarded: For service in the armed forces reserves, based on the number of days served. | Ribbon: Blue with white-edged red stripes according to grade.",
           "image_reference": "World Medals Index image caption: Gold Medal, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-022-V01",
@@ -448,6 +518,11 @@
         {
           "key": "AUT-AUR-022-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-022-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -466,7 +541,8 @@
           "source_excerpt": "Instituted: 10 July 1963. | Awarded: For sevice in the armed forces, both regular and reserve. | Ribbon: Blue and white according to grade.",
           "image_reference": "World Medals Index image caption: Class 1, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-027-V01",
@@ -480,6 +556,11 @@
         {
           "key": "AUT-AUR-027-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-027-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -498,7 +579,8 @@
           "source_excerpt": "Instituted: 1 December 1985. | Awarded: For 30 years of flawless service as an executive officer or civil servant in one of the law enforcement organisations of Austria.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-029-V01",
@@ -512,6 +594,11 @@
         {
           "key": "AUT-AUR-029-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-029-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -530,7 +617,8 @@
           "source_excerpt": "Instituted: 24 July 2006. | Awarded: For service in the militia.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-028-V01",
@@ -544,6 +632,11 @@
         {
           "key": "AUT-AUR-028-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-028-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -562,7 +655,8 @@
           "source_excerpt": "Instituted: 24 July 2006. | Awarded: For outstanding civilian or military achivements in support of defence.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-050-V01",
@@ -576,6 +670,11 @@
         {
           "key": "AUT-AUR-050-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-050-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -594,7 +693,8 @@
           "source_excerpt": "Instituted: Unknown. | Awarded: To law enforcement officers injured in the course of their duties. | Grades: 2.",
           "image_reference": "World Medals Index image caption: Class 1, Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     },
     {
       "id": "AUT-AUR-054-V01",
@@ -608,6 +708,11 @@
         {
           "key": "AUT-AUR-054-V01-VIEW1",
           "label": "正面（低清参考）"
+        },
+        {
+          "key": "AUT-AUR-054-V01-WMI-BACK-20261005",
+          "label": "背面（来源同版图示，未保证同一实物）",
+          "publication_eligible": false
         }
       ],
       "source_ids": [
@@ -626,7 +731,8 @@
           "source_excerpt": "Instituted: 5 July 2024. | Awarded: For acts of courage in the face of extreme danger.",
           "image_reference": "World Medals Index image caption: Obverse"
         }
-      ]
+      ],
+      "publication_eligible": false
     }
   ]
 }

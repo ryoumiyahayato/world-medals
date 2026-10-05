@@ -1,5 +1,6 @@
 /* Navigation geography only; a route never rewrites the historical awarding authority. */
 window.CATEGORY_ROUTES={};
+window.CATEGORY_ROUTES['austria-carinthia']=['欧洲','中欧','奥地利'];
 function routes(continent,region,country,ids){ids.split(' ').forEach(id=>window.CATEGORY_ROUTES[id]=[continent,region,country]);}
 routes('亚洲','东亚','中国','qing-empire republic-of-china peoples-republic-china manchukuo hong-kong');
 routes('亚洲','东亚','日本','japan');routes('亚洲','东亚','韩国／朝鲜','korean-empire south-korea north-korea');routes('亚洲','东亚','蒙古','mongolian-peoples-republic mongolia');
