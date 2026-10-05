@@ -5,10 +5,10 @@
   "source_count": 647,
   "coverage": {
     "planned": 647,
-    "completed": 175,
-    "partial": 67,
+    "completed": 176,
+    "partial": 74,
     "blocked": 18,
-    "not_started": 382
+    "not_started": 379
   },
   "scopes": [
     {
@@ -10250,9 +10250,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 1,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "Supplied MOD guide:82 visible sections cached;53 image URLs attempted,51 decoded and2 failures. Existing award crosswalk, visual image audit and linked-document queue remain.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],

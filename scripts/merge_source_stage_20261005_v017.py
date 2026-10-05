@@ -13,7 +13,7 @@ obj=next(x for x in objects if x['object_id']==oid)
 rid='AUT-EM-'+oid;sid=rid+'-SOURCE'
 sources[sid]=dict(page=obj['object_page'],title='1813—1814年军队十字章：金质包边及悬挂环',summary=obj['description'],accessed='2026-10-05',object_id=oid,credit='eMedals',license='Copyright eMedals; no redistribution permission established')
 views=[];images=[]
-for i,n in enumerate((3,4)):
+for i,n in enumerate((2,5)):
     path=f'assets/raw/emedals_austria_imperial_20261005/{oid}_{n:02}.jpg'
     key=rid+'-VIEW'+str(i+1)
     with Image.open(R/path) as im: im.load();size=im.size

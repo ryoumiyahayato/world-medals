@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-10-05",
+  "source_id": "user_20261005_uk_mod",
+  "status": "completed_bounded_article",
+  "scope": "Supplied guide only: all visible headings, descriptions, image and outbound reference links. Linked documents are queued, not claimed exhausted.",
+  "pages": 1,
+  "sections": 82,
+  "unique_image_leads": 53,
+  "article_sha256": "2363b5a0aa1a3c1b2c654d8aff03c602ebffa99ad0906614aa8d157aeb174cb4",
+  "next": "Crosswalk to existing UK MOD completion records and resolve remaining image gaps; no new awards asserted by heading count"
+}

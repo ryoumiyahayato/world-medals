@@ -1,0 +1,805 @@
+{
+  "as_of": "2026-10-05",
+  "source_id": "user_20261005_uk_mod",
+  "failed_images": [
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a616e4ced915d0afa3b06e4/s960_Ebola_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "status": "download_failed",
+      "error_type": "ConnectionError"
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61c363e5274a0a1b110fb6/s960_Silver_Jubilee_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "status": "download_failed",
+      "error_type": "ReadTimeout"
+    }
+  ],
+  "decoded_images_pending_visual_and_crosswalk": [
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61664640f0b60abc670b3b/s960_Victoria_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/e681572db523f703ba0c.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "8c4dae8e27f162ec351ef36e150a751137ecc15c8f92f2ffe6cfab3e8bc6ab60",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a621ae6e5274a0a37ef21e1/s960_George_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/c2966fc8ede3c750759d.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "ddfc17958e810b58e57edbfb7f2000674d125b0d888bc86ee4486493f256ed3a",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61109540f0b652634cbc3b/s960_Conspicous_Gallantry_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/45dab6efcd85cf41ec5f.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "98a9c886fb9501ed3cb44a5d8a3d84c1f79e856a4ef16dadc35f980de2a6c8de",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60d051e5274a443e0044fc/s960_Distinuished_Service_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/d4c16a930bedb98c6e53.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "c32f59b41cc93004af65aa56113cea3a134dc5237f4a6e2c93d72ebb8687228a",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a619cf640f0b60abc673abf/s960_Military_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/ba9b77accf8ffa591996.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "2e66e08688ee9539101d5a056c16d52893d48e2b8d201bfa3e7d92f806720013",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a615bd640f0b60abc6701e3/s960_Distinuished_Flying_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/b716dd831750af72c8df.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "5fd758a7bf6c3c67555bfcde50ccc5dcfa473757746626a08a4df3f5957d58cc",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a612dfced915d7dfb583684/s960_Air_Force_Cross_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/59ad61e4884fb6a498b6.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "8c3acbaaa4eaef7b2c8fcbd695e0c133ff2f96a1ac2584d120ad00b211053822",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61c67ded915d0afc4662c5/s960_Royal_Red_Cross_Class_II_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/58b5222234fd0acd73b9.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "d781a38af7b2fe6c938d98389465954094996af0746047cc4fc901ccae26dbb6",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60dda240f0b652634c8a86/s960_George_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/f31aa9fce5f0a77a9f35.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "9ebf5edfe52a7dce341e40ebbfba85f1b5b87dc042e911b25b1934c4c30024d4",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a616e16ed915d0afa3b06ac/s960_Queens_Gallantry_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/f6f49a61de2807f35247.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "8774b4bd405b18d1f9788526dc3765b7062bab88f87ce9a4543b7a3d4863cbf6",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60caeced915d7dfea674ab/s960_Queens_Volunteer_Reserves_Medal.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/c2d09e3b05588cc7c872.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "d7985becdc2401fafb484a7e36e74ac6d0a6ffccfe59e1b3c471a53b5532ab14",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a616a2aed915d0afa3b034f/s960_Mentioned_in_Dispatches_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/6d818fb39da0a0168e57.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "12a05e6beb1c64b429d0a0adbdc8b8f7fee8d9d9970d8392da69786ac9e22091",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61bcd3e5274a0a204881a9/s960_Queens_Commendation_for_valuable_service_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/3db49e316f8d3bb34cb8.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "e1d7cee2b6846269c71e49f89984a173eb021735690b5443228444c4340ab05e",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6173e8ed915d0afa3b0bc5/s960_Queens_Commendation_for_bravery_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/303e1c8c4dc7069d1ea8.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "74bb26a77247a4859397f6e515c744f6590b26f64f1d586e794c53b6ddb64f6e",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61c0dfed915d0afa3b4f6d/s960_Queens_Commendation_for_Bravery_in_the_air_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/120f1a71095eb21a79dc.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "b71c16410ab9754ebcc356103882c180c0b1b1a3313718f0af600b4a1766402d",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60cb9ae5274a443e004009/s960_1939-1945_Star.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/ca3841922cc40c3a3373.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "bb71ebcfb45dd0fd46b2e8cf2817c9fbbfd64b09b95ffe5db1415d3913e60561",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a619aabe5274a0a1b10eac8/s960_Atlantic_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/476c22eb870fa0561686.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "5026ec2c3a0d180453cd79405a19babbef9a270dee839aa6f60625e3328f6c52",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61affce5274a0a1b10fe64/s960_Air_Crew_Europe_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/0f273e86a2b7d618e86c.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "7dbc60b6c49afc79add62b26186a9ad604bcc95b1687a6ca9f53fdb2e912a9c4",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60e93640f0b652634c95ee/s960_Artic_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/c17db74c4ee1ff7d0d8e.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "d96b9fe226489c87587554020b9e5f9b97ffd3a73345e7f2bd09c55edb9691eb",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a621470e5274a0a37ef1cc7/s960_Africa_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/56402ab6075a92d4aa32.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "f81ea3659f3aa34da7eb9fbcbe69e61e672693d56e1120828e9e5a3fdfd91313",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61343a40f0b65266e7e887/s960_Pacific_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/bc463e4c544166c6ba32.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "e8ed71fac76c9787824ec99ead6ace41b8f8dd2db5cfbe46b1d8b156fa0f5ae7",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60c5ede5274a443e003a39/s960_Burma_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/7d2886b26a0df5392795.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "347bae16503a6e938bf649576d20d1f619e41bd0fb661ac8839a1e0b773c9e75",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61c6c540f0b60ab9a831d7/s960_Italy_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/7e54416ce27a86f705d7.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "fa38d51a5700ba3f0c0b2b1be83cf5cbc0515caedc13fd23d3d7ef6efbcf0d76",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61cf6140f0b60abc6767b1/s960_France_and_Germany_Star_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/c3b007db7f6f81c4b996.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "38c7f5bf58719049868e5d862f7b4f0a650914d6a89da1b9c1ff0848dfaa215a",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a619c4fed915d0afa3b2ea5/s960_Defence_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/e829e5c8e62f9291c66e.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "fe009435454f4f41c54b7463fc0758ee7c98ea2dd0bc34ad90dc21213197e8dd",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6207c040f0b63b5bc8f2b1/s960_War_Medal_1939-1945_copy_2.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/6fd45c43c9cd6840f707.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "313cd4dab19592c610c0ae3923308c553c954f4f73e4022ae993d20d4e154289",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a614b63ed915d7dfb585101/s960_General_Service_1918__Malya__copy_2.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/2f5201494ee56cff5063.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "391103e23b0ab6400677de9d4dcef1f078bfd410a16312ef568fc4445890fa80",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/614c67c58fa8f56109de6430/s960_Naval_General_Services_Medal_1915..jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/7cf08c6ffec3ad3d2ccd.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "d33ba2fafec083044459a7eea8b39480a65783583e8fecabc184318acd0efe2f",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/64b66c3d71749c001389ed51/s960_Africa_General_Service_Medal_with_Kenya_Clasp.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/ec195573e4ead476dde0.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "077f776e124cfb4283a4bbabf85ae3bc0e669e777face0fd1c9f304be3ed7e02",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61aa02ed915d0afc46499c/s960_Korea_Medal_copy_2.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/6abd2a886bc1c8afd6c5.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "1b4cd36c1f85669740f0961ed92b4f144f93833c3913ebce1ed4911ce908481c",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a615a8eed915d0afc4603e0/s960_General_Service_1962-2007_copy_2.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/9a1097f2d6b503566df5.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "ef1c76c333fb397bc84337729dfaae66be0ba0d47d08740ef2e756bc95bf3245",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6103fc40f0b652634cb03e/s960_South_Atlantic_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/c6f285e7637f66c7ebaf.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "9cc143a97797321a752bbb880abb5519d84a49c3d0df466010a5dadfbb386082",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6145b440f0b60ab9a7befa/s960_Gulf_War_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/f1647ba692c8ab8cfc70.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "5eea644c673561e144bef23b905814d983881f98295e97cba29e9e5e1d8fe2a2",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5d4d51ace5274a53fdf278a8/s960_op-iraq-abd-syria-medals.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/6932337271ea0674737d.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "5b8bb750e02bbd99189e1a13c5e5b195b70a1edb5960205e15d0cde158e70cc1",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6206c8e5274a0a37ef11fc/s960_Sierra_Leone_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/f4bb60d8544af25e8e82.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "6effd641233cae273d2dc8c80f534c45adfb91a94a7f8bc4afd821b613c40855",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a613fb6ed915d7dfea6e312/s960_Afghan_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/940f7312a801a7096a67.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "878a9dbeb7236a58601bbb172bb2e13b0294ea8ca5d15598dd0857871149f130",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61b3f340f0b60ab9a82131/s960_Congo_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/b28ac58087045f44a681.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "d3b6d7d13cbb42007d8ddc1f0ad2f590e3a365e141c88b692119da66b32424c3",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a611342e5274a443e008600/s960_Iraq_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/874b653c20999690b583.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "638b2274964477c7a8a894fd453fab9a00ed2f7b3538224f66b0aa2c7e64af44",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6140e5ed915d7dfea6e42b/s960_General_Service_2008_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/cb5325d4751ed4c31e07.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "7674a7b5a92301ec1b467bf08cf4c0270fda2564ee2f026fcb3f7f805c11f534",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61e682e5274a0a2048a518/s960_Golden_Jubilee_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/388b58ee722956b5182f.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "89089834026c5f9068755440327f782d8e739bd5cf9b00269a05daafcb54efcc",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a614b7c40f0b60abc66f32b/s960_Diamond_Jubille_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/b8bd477c77a819d628b0.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "ee8d5b0e97837572a4bec531a5190f8ea84441c87c2ae548d108a0f04fe364de",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/6454e1222f6222000ca6a5a6/s960_platinum_Jubilee_JB_HR.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/6f89ea26bea5e52e97e6.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "5d500a9bd0a2a66e15d79a3a410f2dc47e8124511a67436d82669016c24c74e3",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/645ba193c6e897000ca0fcaf/s960_coronation_medal_.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/59740cccd1c68adca807.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "997133885ca1d49ea1d83d2331a6d5dde76079597cb9b961c958b73916e13845",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a610f0eed915d7dfb581a5e/s960_Accumulated_Service_single-stripe.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/2429502ae588532596df.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "3e37ef547d58d5de7688eb1c66d9cbcf40138e2cc52671d55eb0172fcdec00b6",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a614b74e5274a443e00b951/s960_Accumulated_service_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/18945ae074f16c071345.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "1ca6d6de63cfb9830846e1ae26a0f6f406c984ef8e93471329af4680528fcd7b",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a612e9ee5274a443e009ecb/s960_RN_LSGC_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/79d2c8d01aa71431ef38.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "fa078e88f44f400d59cceb0b4609e60c984c68e0b5a758f3078773b5c2384954",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a61f6c240f0b63b5bc8e531/s960_Army-LSGC_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/317153be2f075c17b4e4.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "f642106d94ab6d6dad319593f209eff2ed1a16a55296ceb412afc6027259baf4",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a537ca3ed915d5954747f29/s960_RAF_LSGC_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/a3b9e41e728c32406a4b.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "02f7ca6376ef66c7ee2fb051e00c8bc3717e5581a5b6d9d92d11eb639c8a851f",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a6209fa40f0b63b5bc8f475/s960_Volunteer_Reserves_Service_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/cbd34c6dd38a93a413b5.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "da51e9a41db4fd134c3903af2d16b0c94feb976b8bdf1a477ec664c304c430fd",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a60cf0240f0b652634c7bac/s960_Cadet_Medal_copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/746e63b9baf6b676f045.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "7116fcbe726efb10aa08fcdce6fc891d4dbe0bd333f95511e5442a8c628ef8aa",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    },
+    {
+      "image_url": "https://assets.publishing.service.gov.uk/media/5a615be8e5274a443e00c7eb/s960_Elizabeth_Cross__and_MIN__copy.jpg",
+      "caption": "",
+      "source_page": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "accessed": "2026-10-05",
+      "local_path": "assets/raw/uk_mod_20261005/fde312afaf5731fcc2bc.jpg",
+      "dimensions": [
+        960,
+        640
+      ],
+      "sha256": "999baaab0c26985076f3dd12db66c82dd3a0a72ea851559b0bc626c5b7309208",
+      "status": "decoded_visual_and_identity_review_pending",
+      "publication_eligible": false
+    }
+  ],
+  "outbound_reference_links": [
+    {
+      "url": "https://www.gov.uk/apply-medal-or-veterans-badge",
+      "title": "Medals Office"
+    },
+    {
+      "url": "https://www.nationalarchives.gov.uk/about/our-role/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records/",
+      "title": "National Archives"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/accumulated-campaign-service-medal-2011-acsm-11-din/the-accumulated-campaign-service-medal-acsm-1994-and-2011-policy-review-2020",
+      "title": "The Accumulated Campaign Service Medal ( ACSM ) 1994 and 2011 Policy Review 2020."
+    },
+    {
+      "url": "http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/recommendations-military-honours-awards-1935-1990/",
+      "title": "The National Archives."
+    },
+    {
+      "url": "https://www.centralchancery.org.uk/insignia-decorations-and-medals/",
+      "title": "Central Chancery of the Orders of Knighthood."
+    },
+    {
+      "url": "https://www.gov.uk/honours/types-of-honours-and-awards",
+      "title": "Order of the Bath and the Order of the British Empire"
+    },
+    {
+      "url": "https://www.gov.uk/apply-medal-or-veterans-badge/replace-a-medal-or-badge",
+      "title": "replace a King’s Commendation for Bravery in the Air"
+    },
+    {
+      "url": "https://www.gov.uk/apply-medal-or-veterans-badge/apply-for-a-medal",
+      "title": "MOD Medal Office"
+    },
+    {
+      "url": "http://www.nationalarchives.gov.uk/",
+      "title": "medal card or roll"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/home-guard-service-questionnaire",
+      "title": "Home Guard service questionnaire"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/d-day-70-application-form-for-award-of-the-legion-dhonneur",
+      "title": "apply for the Legion d’Honneur"
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/69130d415dec0071ce496346/Pingat_Jasa_Malaysia_Application_Form.docx",
+      "title": "Pingat Jasa Malaysia (PJM) medal application form"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/honours-and-awards-in-the-armed-forces-jsp-761",
+      "title": "JSP 761"
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/request-for-the-elizabeth-cross-and-memorial-scroll",
+      "title": "MOD Medal Office"
+    },
+    {
+      "url": "https://www.thegazette.co.uk/London/issue/62529/supplement/326",
+      "title": "The London Gazette"
+    },
+    {
+      "url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+      "title": "Ministry of Defence"
+    }
+  ],
+  "note": "References include administrative material; review relevance before following. No new formal family count from headings or image count."
+}

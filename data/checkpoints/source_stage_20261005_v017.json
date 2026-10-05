@@ -1,6 +1,6 @@
 {
   "as_of": "2026-10-05",
-  "status": "built_verified_publish_pending_goal_active",
+  "status": "published_verified_goal_active",
   "apk_version": "0.017",
   "apk_sha256": "6c56a0987b0c69c2b22e4035c86df879c898d3ee3d3d4cea877f4b05d1396631",
   "new_pictured_formal_families": 11,
@@ -19,5 +19,9 @@
     "not_started": 3
   },
   "known_limits": "Source images retained in private local research HTML; restricted photographs excluded from APK, facts retained. Whole-site sweeps remain incomplete.",
-  "next": "Verify release; continue imperial Army Cross and three cold-medal evidence batches; scan remaining site queues"
+  "next": "Verify release; continue imperial Army Cross and three cold-medal evidence batches; scan remaining site queues",
+  "github_release": "https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-v0.017",
+  "github_asset_digest_verified": true,
+  "ci_run": 37286997736,
+  "ci_conclusion": "success"
 }
