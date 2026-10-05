@@ -1,0 +1,52 @@
+{
+  "source_id": "user_20261005_london_medals",
+  "batch": "British Miscellaneous page 1 image references",
+  "accessed": "2026-10-05",
+  "review_stage": "raw candidate image review only; no normalized family/body assignment",
+  "rights_status": "No reuse licence found in the source terms reviewed; internal private research cache only, do not publish pending permission.",
+  "downloaded_image_count": 2,
+  "decoded_image_count": 2,
+  "files": [
+    {
+      "item_number": "CMA/50073",
+      "english_name": "Queen’s Medal for Champion Shots of the Royal Navy and Royal Marines, clasp 1970",
+      "original_image_url": "https://cdn.london-medals.co.uk/2026/06/5987ed5f-6f8c-4794-8368-e70f18b65a2b.jpg",
+      "image_reference": "Image search result on the London Medal Company product page; exact item/title match.",
+      "local_path": "assets/raw/london_medal_company_20261005/CMA_50073_queen_champion_shots_1970.jpg",
+      "format": "JPEG",
+      "dimensions_px": [
+        1500,
+        1500
+      ],
+      "bytes": 198171,
+      "sha256": "03DE9C8AF62D54263957F3D2C6C685863628C2EC1E74E117323E33170C268F63",
+      "decode": "Pillow Image.open + verify passed.",
+      "viewed": true,
+      "visible_side": "obverse/front; Elizabeth II bust and dated 1970 clasp visible.",
+      "visual_completeness": "complete circular medal and entire ribbon/suspension are within the frame; one face only, no matching reverse located.",
+      "publication_use": "not approved; research-only"
+    },
+    {
+      "item_number": "CMA/51598",
+      "english_name": "Queen’s Medal for Champion Shots in the Armed Forces / Army Best Shot Medal, clasp 1956",
+      "original_image_url": "https://cdn.london-medals.co.uk/2026/07/485c7a84-869a-420e-aaff-0f1d110b3602.jpg",
+      "image_reference": "Image search result indexed under a London Medal Company product page with matching title/recipient. The visible older listing product URL returned 404; attribution remains a candidate link, not fully confirmed by opened object-page text.",
+      "local_path": "assets/raw/london_medal_company_20261005/CMA_51598_army_best_shot_1956.jpg",
+      "format": "JPEG",
+      "dimensions_px": [
+        1500,
+        1500
+      ],
+      "bytes": 187268,
+      "sha256": "ED740602861C29C3408FC0088D642048869098338EA8534EA2DCAEADE2C546FC",
+      "decode": "Pillow Image.open + verify passed.",
+      "viewed": true,
+      "visible_side": "reverse; classical allegorical scene visible.",
+      "visual_completeness": "medal and full suspension/ribbon are within the frame; one face only. Product page not verified, so do not use in正文 pending direct object-page review.",
+      "publication_use": "not approved; research-only"
+    }
+  ],
+  "no_generated_images": true,
+  "no_gallery_or_full_page_screenshot_used": true
+}
+

@@ -378,7 +378,7 @@ if user_other_integration.exists():
             spec.setdefault('unfiltered_record_files',[]).append('user_other_20261003.json')
             spec.setdefault('file_include_ids',{})['user_other_20261003.json']=ids
             if spec.get('include_ids'):spec['include_ids'].extend(ids)
-for batch_name in ('source_batch_20261005','austria_pending_20261005','austria_republic_20261005','source_stage_v017_20261005','darabanth_20261005'):
+for batch_name in ('source_batch_20261005','austria_pending_20261005','austria_republic_20261005','source_stage_v017_20261005','darabanth_20261005','austria_cold_20261005'):
     batch_integration=ROOT/f'data/volumes/{batch_name}_integration.json'
     if not batch_integration.exists():continue
     integration=json.loads(batch_integration.read_text('utf-8'))

@@ -1,0 +1,29 @@
+{
+  "as_of": "2026-10-05",
+  "status": "built_verified_pending_github_release",
+  "apk_version": "0.018",
+  "apk_sha256": "318e99d63d98bf44a1c26f53a360ad73e8ae384d3a1893f631065358dddb7c01",
+  "new_pictured_formal_families": 2,
+  "new_formal_variant_rows": 6,
+  "accepted_complete_views": 12,
+  "unpictured_variant_candidates": 3,
+  "raw_target_objects": 23,
+  "decoded_source_images": 30,
+  "source_scope_counts": {
+    "planned": 14,
+    "completed": 2,
+    "partial": 10,
+    "blocked": 1,
+    "not_started": 1
+  },
+  "validation": [
+    "APK v2/v3 signature",
+    "CRC",
+    "Exact packaged index/catalog/hierarchy/version comparison",
+    "Search and reader navigation regressions",
+    "Publication policy",
+    "Browser rendering with complete front/reverse"
+  ],
+  "known_limits": "206 restricted research records retain facts but exclude photographs from APK; new photographs available in private local index.html. No native phone installation test.",
+  "next": "Merge Spink 26001 image-reviewed families; continue cached Malta/Teutonic issuer leads; complete remaining source queues."
+}

@@ -1,0 +1,44 @@
+{
+  "checkpoint_id": "london_medal_company_20261005_partial_01",
+  "source_id": "user_20261005_london_medals",
+  "created": "2026-10-05",
+  "state": "partial",
+  "summary": "Mapped visible British and World root category trees and pagination bounds; saved 28 British Miscellaneous page-1 listing candidates and 10 object-page text extracts. Two direct CDN originals were downloaded, decoded, viewed and retained privately. Category not exhausted.",
+  "files_written": [
+    "data/raw_candidates/london_medal_company_british_misc_page1_20261005.jsonl",
+    "sources/cache/london_medal_company_20261005/british_root_snapshot.json",
+    "sources/cache/london_medal_company_20261005/world_root_snapshot.json",
+    "sources/cache/london_medal_company_20261005/british_misc_page1_snapshot.json",
+    "sources/cache/london_medal_company_20261005/object_page_excerpts.jsonl",
+    "sources/cache/london_medal_company_20261005/object_page_access_log.jsonl",
+    "sources/cache/london_medal_company_20261005/terms_and_access_note.json",
+    "data/normalized_drafts/london_medal_company_british_misc_image_review_20261005.json",
+    "data/source_sweeps/london_medal_company_source_matrix_20261005.json",
+    "assets/raw/london_medal_company_20261005/CMA_50073_queen_champion_shots_1970.jpg",
+    "assets/raw/london_medal_company_20261005/CMA_51598_army_best_shot_1956.jpg"
+  ],
+  "source_boundary": {
+    "british_root": "1361–1362 results observed; 49 pages; 12 visible child categories; not swept.",
+    "world_root": "1264–1318 results observed; page endpoint 47 in indexed snapshot; 54 visible child categories; root data inconsistent; not swept.",
+    "british_misc": "34 observed; page 1 listing fully captured (28 rows); page 2 not fetched (6 rows unseen); 10 object pages text extracted / 18 unavailable."
+  },
+  "counters": {
+    "planned_sources": 1,
+    "completed_sources": 0,
+    "partial_sources": 1,
+    "unstarted_sources": 0,
+    "raw_candidates": 28,
+    "normalized_families": 0,
+    "body_families": 0,
+    "variants": 0,
+    "local_decoded_images": 2,
+    "unresolved_candidates": 28
+  },
+  "limitations": [
+    "No main-site direct HTML was downloaded because ordinary local HTTP GET returned 403; web-extracted page text was used where available.",
+    "No login, paywall, CDN access control or anti-bot measures were bypassed.",
+    "Image rights are unclear and no files were placed in the public catalogue."
+  ],
+  "next_step": "Use source-specific matrix. If resuming the same package, inspect the six missing second-page listings only if a normal public fetch becomes accessible; otherwise move to another bounded visible child category. Keep unvisited page queues and root boundaries explicit."
+}
+

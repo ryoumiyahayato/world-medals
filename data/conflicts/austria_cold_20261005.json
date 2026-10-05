@@ -1,0 +1,29 @@
+{
+  "conflicts": [
+    "不得把1797对象临时ID AUT-FAM-AH-009当作本奖章family：该ID用于Signum Laudis。按现有卷对应至AUT-FAM-HAB-053（Tirol）或AUT-FAM-HAB-054（Lower Austria），并保留错标页面证据。",
+    "851832、851598、851971页面标题/说明和奖章铭文有冲突；可见铭文将Tirol（DEN TAPFEREN VERTEIDIGERN DES VATERLANDES）与Lower Austria（DEN BIEDEREN SOEHNEN OESTERREICHS DES LANDESVATERS DANK）区分。",
+    "外籍禧年章精确设立日存在4月12日与12月2日来源差异；没有查看到设立敕令，因此只记1908年。",
+    "25年Landsturm图像样本被eMedals写作gilded silver，而OMSA介绍铜质及鎏金青铜型；不确认该对象材质。",
+    "eMedals销售页和图片不等同于真品鉴定；851832页面明称绶带为错误时期替换带。"
+  ],
+  "unpictured_variants": [
+    {
+      "variant_key": "AUT-VAR-AH-JUBILEE-FOREIGNERS-GOLD",
+      "display_cn": "金质级；高级外国人物／将领（专题资料说法）",
+      "evidence": "OMSA专题称颁予盟国元首和高级军官。eMedals本次馆藏结果中未发现该级对象图。",
+      "photo_status": "无图"
+    },
+    {
+      "variant_key": "AUT-VAR-AH-LANDSTURM-25-GILT_BRONZE_OFFICERS",
+      "display_cn": "25年型；军官鎏金青铜型",
+      "evidence": "OMSA专题有此型制说法；本批未取得明确对应军官级的完整实物图。",
+      "photo_status": "无独立确认配图"
+    },
+    {
+      "variant_key": "AUT-VAR-AH-LANDSTURM-40-GILT_BRONZE_OFFICERS",
+      "display_cn": "40年型；军官鎏金青铜型",
+      "evidence": "OMSA专题有此型制说法；本批无完整对应实物图。",
+      "photo_status": "无独立确认配图"
+    }
+  ]
+}

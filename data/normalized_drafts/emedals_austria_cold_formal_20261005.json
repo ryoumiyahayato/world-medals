@@ -1,0 +1,283 @@
+{
+  "batch_id": "emedals_austria_cold_formal_20261005",
+  "source_id": "emedals_austria_imperial_20261005",
+  "access_date": "2026-10-05",
+  "draft_only": true,
+  "applied_to_shared_volume": false,
+  "publication_eligible": false,
+  "merge_summary": {
+    "source_object_pages_in_three_packages": 23,
+    "existing_family_supplements": 2,
+    "new_family_candidates": 2,
+    "new_body_families": 0,
+    "variant_candidates": 9,
+    "distinct_photo_candidate_types": 6,
+    "selected_object_pages_downloaded_decoded_and_visually_inspected": 8,
+    "direct_original_images_downloaded_decoded_and_inspected": 30,
+    "candidate_pages_not_individually_image_reviewed": 15,
+    "redistribution_rights_cleared": 0,
+    "rights": "No redistribution permission established; local research cache only"
+  },
+  "existing_family_supplements": [
+    {
+      "record_type": "existing_family_merge_supplement",
+      "family_id": "AUT-FAM-HAB-053",
+      "family_exists": true,
+      "canonical_name_cn": "提洛尔保卫者纪念奖章",
+      "original_names": [
+        "Erinnerungsmedaille für die Tiroler Verteidiger",
+        "Medaille des Tiroler Aufgebots 1797",
+        "Tiroler Denkmünze 1797",
+        "Militär Ehrenmedaille ‘Tiroler Denkmünze’"
+      ],
+      "public_date": "1797年；确切设立日待考",
+      "granting_body": "哈布斯堡君主弗朗茨二世；受领人为提洛尔动员队伍成员",
+      "variant_candidate": {
+        "variant_key": "AUT-VAR-HAB-053-SILVER-CANDIDATE",
+        "display_cn": "银质型；常见目录分作士官与士兵级，个体对象等级待考",
+        "evidence": "eMedals 8518326583573及8515988586773称银质、约39毫米。Künker目录列Tiroler Denkmünze (1797) 银质章38.9/40.1毫米并见I.N.WIRT.F签名；Dorotheum另以银质士官与士兵型标拍。",
+        "primary_object_id": "8518326583573",
+        "source_page": "https://www.emedals.com/products/austria-imperial-a-1797-issue-lower-austria-tirol-silver-military-merit-medal-eg1085",
+        "selected_front": "assets/raw/emedals_austria_cold_20261005/8518326583573/8518326583573_01_m17-1294.jpg",
+        "selected_reverse": "assets/raw/emedals_austria_cold_20261005/8518326583573/8518326583573_02_m17-1295.jpg",
+        "object_image_review": "完整正背面已下载、解码和目视核查。反面可读DEN TAPFEREN VERTEIDIGERN DES VATERLANDES MDCCXCVII；正面题衔可读GRAF VON TYROL。",
+        "related_object_id": "8515988586773",
+        "source_conflict": "851832标题及说明把奖章称作Lower Austria / Niederösterreichisches Aufgebot，且临时family_id AUT-FAM-AH-009；851598标题也称Lower Austria但说明称Alternate Tiroler Denkmunze。两者实物铭文和目录分项支持Tyrol型，原页冲突保留。",
+        "body_eligible": false,
+        "status": "existing_family_variant_supplement_candidate_source_conflicts_preserved"
+      }
+    },
+    {
+      "record_type": "existing_family_merge_supplement",
+      "family_id": "AUT-FAM-HAB-054",
+      "family_exists": true,
+      "canonical_name_cn": "下奥地利军事功绩奖章",
+      "original_names": [
+        "Erinnerungsmedaille für das Niederösterreichische Aufgebot 1797",
+        "Militärverdienstmedaille für das Niederösterreichische Aufgebot 1797",
+        "Verdienstmedaille des Niederösterreichischen Mobilisierungsaufgebots 1797"
+      ],
+      "public_date": "1797年；确切设立日待考",
+      "granting_body": "哈布斯堡君主弗朗茨二世；受领人为下奥地利动员队伍成员",
+      "variant_candidate": {
+        "variant_key": "AUT-VAR-HAB-054-SMALL-SILVER-CANDIDATE",
+        "display_cn": "小型银质型；专家拍卖资料列为士官及士兵型",
+        "evidence": "eMedals 9344720044309称银质；Künker目录列Niederösterreichische Militär-Verdienstmedaille (1797)小型银章，39.0毫米、I.N.WIRT.F签名；Dorotheum专家将同名小型银章列为士官及士兵型。该来源包未见独立的小型金质或大型银质实物。",
+        "primary_object_id": "9344720044309",
+        "source_page": "https://www.emedals.com/products/austria-imperial-a-merit-medal-for-the-lower-austrian-mobilization-of-1797-m0693-12",
+        "selected_front": "assets/raw/emedals_austria_cold_20261005/9344720044309/9344720044309_01_MNC5897_8b1d74ae-5318-4618-ae1b-6c64c04a6cf5.jpg",
+        "selected_reverse": "assets/raw/emedals_austria_cold_20261005/9344720044309/9344720044309_02_MNC5899_ee72d83b-2e1a-4a3f-9857-23673270ee73.jpg",
+        "corroborating_conflict_object_id": "8519716471061",
+        "object_image_review": "9344720044309完整正背面已解码及目视核查；851971标题称Tirol，但反面可读DEN BIEDEREN SOEHNEN OESTERREICHS DES LANDESVATERS DANK MDCCXCVII，支持下奥地利型。",
+        "source_conflict": "8519716471061标题称Tirol而实物铭文指向下奥地利；需在合并备注保留拍品级冲突。",
+        "body_eligible": false,
+        "status": "existing_family_variant_supplement_candidate_source_conflicts_preserved"
+      }
+    }
+  ],
+  "new_family_candidates": [
+    {
+      "record_type": "new_family_candidate",
+      "candidate_family_key": "AUT-CAND-AH-PROPRIETOR_JUBILEE_FOREIGNERS_1908",
+      "canonical_name_cn": "弗朗茨·约瑟夫六十年在位外籍团体禧年奖章",
+      "original_names": [
+        "Inhaber Jubiläumsmedaille für Ausländer",
+        "Regierungs-Jubiläums-Erinnerungsmedaille in Bronze für Ausländer",
+        "Proprietors Jubilee Medal for Foreigners",
+        "Internationale Jubiläums-Erinnerungsmedaille"
+      ],
+      "granting_body": "弗朗茨·约瑟夫一世／奥匈君主；向与皇帝有荣誉团长或团主关系的非奥匈团体成员及到访外国人士颁授。奥地利馆藏分类或佩戴国籍不能替代授予主体。",
+      "date_candidate": {
+        "public_date": "1908年",
+        "inscribed_period": "1848–1908",
+        "institution_day": "待考：Ingolstadt市博物馆文章称4月12日gestiftet；eMedals称12月2日instituted，OMSA称12月2日Date Issued。未见创设敕令，暂只用年份。",
+        "recipient_award_date": "待考"
+      },
+      "variants": [
+        {
+          "variant_key": "AUT-VAR-AH-JUBILEE-FOREIGNERS-GOLD",
+          "display_cn": "金质级；高级外国人物／将领（专题资料说法）",
+          "evidence": "OMSA专题称颁予盟国元首和高级军官。eMedals本次馆藏结果中未发现该级对象图。",
+          "photo_status": "无图"
+        },
+        {
+          "variant_key": "AUT-VAR-AH-JUBILEE-FOREIGNERS-SILVER",
+          "display_cn": "银质级；A边标；配绶带",
+          "evidence": "eMedals 8522075504917对象页称银质、边缘A标；OMSA专题称授予相关外国团体军官。",
+          "primary_object_id": "8522075504917",
+          "source_page": "https://www.emedals.com/products/austria-imperial-a-jubilee-medal-for-foreigners-in-silver-eu20854rl1",
+          "selected_front": "assets/raw/emedals_austria_cold_20261005/8522075504917/8522075504917_01_l22_mnc1390_966_1.jpg",
+          "selected_reverse": "assets/raw/emedals_austria_cold_20261005/8522075504917/8522075504917_02_l22_mnc1394_967_1.jpg",
+          "image_review": "奖章正背完整，背面同框有藏品标签卡；全图已下载、解码、目视检查。",
+          "rights": "研究缓存；无再发布许可",
+          "status": "photo_candidate"
+        },
+        {
+          "variant_key": "AUT-VAR-AH-JUBILEE-FOREIGNERS-BRONZE",
+          "display_cn": "铜质级",
+          "evidence": "eMedals 9401016090901对象页称铜质；OMSA专题称授予外国团体准尉、旗手、军校学员及高级士官。",
+          "primary_object_id": "9401016090901",
+          "source_page": "https://www.emedals.com/products/austria-imperial-a-jubilee-medal-for-foreigners-in-bronze-eu24041",
+          "selected_front": "assets/raw/emedals_austria_cold_20261005/9401016090901/9401016090901_01_MNC7399_2ebb0dc4-56b7-49a7-9f6b-d0aca7a071b3.jpg",
+          "selected_reverse": "assets/raw/emedals_austria_cold_20261005/9401016090901/9401016090901_02_MNC7401_744eb1e5-c076-486a-be2c-209d81c245ce.jpg",
+          "image_review": "奖章正背完整且已下载、解码、目视检查；本组图未见绶带。",
+          "rights": "研究缓存；无再发布许可",
+          "status": "photo_candidate"
+        }
+      ],
+      "source_object_ids": [
+        "9401016090901",
+        "8522075504917",
+        "8518550520085",
+        "8515163193621"
+      ],
+      "adjacent_excluded_object_id": "8521784819989",
+      "body_eligible": false,
+      "status": "new_family_candidate_not_applied_to_volume"
+    },
+    {
+      "record_type": "new_family_candidate",
+      "candidate_family_key": "AUT-CAND-AH-LANDSTURM_LONG_MERITORIOUS_MEMBERSHIP_1908",
+      "canonical_name_cn": "Landsturm义务团体长期功绩会员奖章",
+      "original_names": [
+        "Ehrenzeichen für 25-, bezw. 40jährige verdienstliche Mitgliedschaft bei einer landsturmpflichtigen Körperschaft",
+        "Landsturm 25 Dienstjahre Ehrenzeichen",
+        "Landsturm 40 Dienstjahre Ehrenzeichen"
+      ],
+      "granting_body": "弗朗茨·约瑟夫一世的最高决议；受领人为负有Landsturm义务团体的长期有功会员。“Home Guard”仅为英文目录标签，不按现代Home Guard解释。",
+      "date_candidate": {
+        "institution_date": "1908-11-26（RIS 1913条例第13条回引）",
+        "award_date": "个体颁授日待考",
+        "recipient_rule": "25年或40年有功会员，属于landsturmpflichtige Körperschaft"
+      },
+      "variants": [
+        {
+          "variant_key": "AUT-VAR-AH-LANDSTURM-25-BRONZE",
+          "display_cn": "25年型；铜质（型制来源说法）",
+          "evidence": "官方RIS确认25/40年型和设立日；OMSA专题称25年型铜质或军官鎏金青铜。eMedals所见9219920134421称gilded silver，与OMSA材料分类不合，故此图仅作25年章候选，实物材料待核。",
+          "primary_object_id": "9219920134421",
+          "source_page": "https://www.emedals.com/products/austria-empire-an-honour-medal-for-25-years-of-home-guard-meritorious-service-c-1910-eu23079",
+          "selected_front": "assets/raw/emedals_austria_cold_20261005/9219920134421/9219920134421_01_AI1_3215.jpg",
+          "selected_reverse": "assets/raw/emedals_austria_cold_20261005/9219920134421/9219920134421_02_AI1_3216.jpg",
+          "image_review": "章体正反、悬挂与绶带完整；QUINQUE LUSTRA可见；图像已下载、解码、目视检查。",
+          "status": "photo_candidate_material_conflict"
+        },
+        {
+          "variant_key": "AUT-VAR-AH-LANDSTURM-25-GILT_BRONZE_OFFICERS",
+          "display_cn": "25年型；军官鎏金青铜型",
+          "evidence": "OMSA专题有此型制说法；本批未取得明确对应军官级的完整实物图。",
+          "photo_status": "无独立确认配图"
+        },
+        {
+          "variant_key": "AUT-VAR-AH-LANDSTURM-40-BRONZE",
+          "display_cn": "40年型；铜质；背铭OCTO LUSTRA并有双头鹰悬挂件",
+          "evidence": "eMedals 9316789551381称铜质并见OCTO LUSTRA；OMSA专题也列铜质40年型。",
+          "primary_object_id": "9316789551381",
+          "source_page": "https://www.emedals.com/products/austria-imperial-an-honour-medal-for-home-guard-meritorious-service-40-years-medal-eu23601",
+          "selected_front": "assets/raw/emedals_austria_cold_20261005/9316789551381/9316789551381_01_MNC6952_1f844920-859f-4f7b-87b1-31acbed61c10.jpg",
+          "selected_reverse": "assets/raw/emedals_austria_cold_20261005/9316789551381/9316789551381_02_MNC6954_27903afc-b120-4ba3-9db5-aa86bdef9c9d.jpg",
+          "image_review": "完整正反章体、鹰形悬挂件与绶带可见；已下载、解码、目视检查。",
+          "status": "photo_candidate"
+        },
+        {
+          "variant_key": "AUT-VAR-AH-LANDSTURM-40-GILT_BRONZE_OFFICERS",
+          "display_cn": "40年型；军官鎏金青铜型",
+          "evidence": "OMSA专题有此型制说法；本批无完整对应实物图。",
+          "photo_status": "无独立确认配图"
+        }
+      ],
+      "source_object_ids": [
+        "9316789551381",
+        "9219920134421",
+        "8519408877845",
+        "8518331564309",
+        "8518249808149"
+      ],
+      "body_eligible": false,
+      "status": "new_family_candidate_not_applied_to_volume"
+    }
+  ],
+  "source_conflicts": [
+    "不得把1797对象临时ID AUT-FAM-AH-009当作本奖章family：该ID用于Signum Laudis。按现有卷对应至AUT-FAM-HAB-053（Tirol）或AUT-FAM-HAB-054（Lower Austria），并保留错标页面证据。",
+    "851832、851598、851971页面标题/说明和奖章铭文有冲突；可见铭文将Tirol（DEN TAPFEREN VERTEIDIGERN DES VATERLANDES）与Lower Austria（DEN BIEDEREN SOEHNEN OESTERREICHS DES LANDESVATERS DANK）区分。",
+    "外籍禧年章精确设立日存在4月12日与12月2日来源差异；没有查看到设立敕令，因此只记1908年。",
+    "25年Landsturm图像样本被eMedals写作gilded silver，而OMSA介绍铜质及鎏金青铜型；不确认该对象材质。",
+    "eMedals销售页和图片不等同于真品鉴定；851832页面明称绶带为错误时期替换带。"
+  ],
+  "source_evidence": [
+    {
+      "source_id": "hesse_schreiber_1940",
+      "type": "专业图录扫描（列支敦士登国家图书馆）",
+      "citation": "Hessenthal & Schreiber, Die tragbaren Ehrenzeichen des Deutschen Reiches, Kaisertum Österreich, 1940, entries 1100–1102 p.302 and 1103–1106 pp.302–303",
+      "url": "https://doc1.bibliothek.li/aap/FLMA142381.pdf",
+      "claim": "将1797提洛尔与下奥地利动员奖章分列为两组；不能合并为一个family。",
+      "local_cache_status": "direct request failed TLS/SSL; contents/text index read from NLB catalog search result",
+      "local_cache_path": null
+    },
+    {
+      "source_id": "kuenker_auction_catalogue_385",
+      "type": "专业钱币拍卖图录",
+      "url": "https://kuenker.s3.eu-central-1.amazonaws.com/media/e7/13/63/1734362656/385_kuenker-katalog_web-.pdf",
+      "claim": "第4140号为下奥地利1797小型银章，39.0毫米；第4141–4142号为提洛尔1797银章，38.9/40.1毫米；分别列出。",
+      "local_cache_status": "downloaded; PDF validation successful, 212 pages",
+      "local_cache_path": "sources/books/kuenker_catalogue_385.pdf"
+    },
+    {
+      "source_id": "dorotheum_lower_austria_2014",
+      "type": "专业拍卖行对象说明",
+      "url": "https://www.dorotheum.com/de/l/3272540/",
+      "claim": "下奥地利1797银章，题作士官及士兵级。",
+      "local_cache_status": "direct request failed HTTP 403; lot details read via web page search result",
+      "local_cache_path": null
+    },
+    {
+      "source_id": "ris_gvbltirvbg_26_1913_p13",
+      "type": "奥地利法规信息系统历史法规",
+      "url": "https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR12058038/NOR12058038.html",
+      "claim": "1913年《射击场条例》第13条回引1908-11-26最高决议，并明列Landsturm义务团体的25年/40年功绩会员奖章。",
+      "local_cache_status": "direct request failed HTTP 503; legal text was read from RIS indexed page via web search",
+      "local_cache_path": null
+    },
+    {
+      "source_id": "omsa_landsturm_25",
+      "type": "奖章收藏协会专题文章（二级资料）",
+      "url": "https://www.omsa.org/home-guard-twenty-five-year-service-decoration/",
+      "claim": "记载25年青铜型、军官鎏金青铜型、QUINQUE LUSTRA，并称获40年章时需交回25年章。",
+      "local_cache_status": "direct request failed HTTP 403; page content read via web search",
+      "local_cache_path": null
+    },
+    {
+      "source_id": "omsa_landsturm_40",
+      "type": "奖章收藏协会专题文章（二级资料）",
+      "url": "https://www.omsa.org/home-guard-forty-year-service-decoration/",
+      "claim": "记载40年铜质型、军官鎏金青铜型、OCTO LUSTRA及鹰形悬挂件。",
+      "local_cache_status": "downloaded",
+      "local_cache_path": "sources/pages/emedals_austria_cold_20261005/omsa_home_guard_40_year.html"
+    },
+    {
+      "source_id": "omsa_jubilee_foreigners",
+      "type": "奖章收藏协会专题文章（二级资料）",
+      "url": "https://www.omsa.org/proprietors-jubilee-medal-for-foreigners/",
+      "claim": "称1908-12-02为颁发日期，奖章授予11支非奥匈团体的特定人员，有金、银、铜三等。",
+      "local_cache_status": "downloaded",
+      "local_cache_path": "sources/pages/emedals_austria_cold_20261005/omsa_proprietors_jubilee_foreigners.html"
+    },
+    {
+      "source_id": "ingolstadt_museum_jubilee",
+      "type": "市博物馆网站上的历史/收藏文章",
+      "url": "https://www.ingolstadt.de/stadtmuseum/scheuerer/personen/milmus07.htm",
+      "claim": "称奖章于1908-04-12设立；与12月2日来源说法并存，原始敕令尚未查看。",
+      "local_cache_status": "downloaded",
+      "local_cache_path": "sources/pages/emedals_austria_cold_20261005/ingolstadt_milmus07.html"
+    },
+    {
+      "source_id": "oesta_archive_1797_record",
+      "type": "奥地利国家档案馆目录",
+      "url": "https://www.archivinformationssystem.at/detail.aspx?ID=325908",
+      "claim": "收录1797军队档案和勋奖章授予名册背景；本批不把它作为两种1797奖章型制的直接证明。"
+    }
+  ],
+  "merge_decision": "不重复建立1797提洛尔与下奥地利family；各提交一条银质型候选增补到现有AUT-FAM-HAB-053及AUT-FAM-HAB-054。另暂存1908外籍禧年章与Landsturm 25/40年奖章两个新family候选。未改共享卷或index.html。",
+  "rights_note": "30张原站图片只存本地研究缓存；没有确认再发布许可。",
+  "status": "isolated_mergeable_draft_not_applied_to_shared_family_index_or_index_html"
+}

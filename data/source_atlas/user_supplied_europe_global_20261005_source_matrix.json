@@ -256,9 +256,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted"
+      "coverage_boundary": "Auction 26001: all 19 list pages and 375 object pages cached; image download/review and family normalization ongoing. Not entire Spink archive."
     }
   ],
   "coverage": {
@@ -267,5 +267,12 @@
     "partial": 9,
     "blocked": 1,
     "not_started": 2
+  },
+  "coverage_summary": {
+    "planned": 14,
+    "completed": 2,
+    "partial": 10,
+    "blocked": 1,
+    "not_started": 1
   }
 }
