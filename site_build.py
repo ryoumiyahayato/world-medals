@@ -378,10 +378,12 @@ if user_other_integration.exists():
             spec.setdefault('unfiltered_record_files',[]).append('user_other_20261003.json')
             spec.setdefault('file_include_ids',{})['user_other_20261003.json']=ids
             if spec.get('include_ids'):spec['include_ids'].extend(ids)
-for batch_name in ('source_batch_20261005','austria_pending_20261005','austria_republic_20261005'):
+for batch_name in ('source_batch_20261005','austria_pending_20261005','austria_republic_20261005','source_stage_v017_20261005','darabanth_20261005'):
     batch_integration=ROOT/f'data/volumes/{batch_name}_integration.json'
     if not batch_integration.exists():continue
     integration=json.loads(batch_integration.read_text('utf-8'))
+    if integration['volume_rows'].get('cuba') and not any(s['anchor']=='cuba' for s in volume_specs):
+        volume_specs.append(dict(slug='cuba',title='古巴',anchor='cuba',aliases='古巴 Cuba Solidaridad',country_group='cuba',record_files=[],manifest_files=[]))
     if integration['volume_rows'].get('france-kingdom'):
         volume_specs.append(dict(slug='france-kingdom',title='法国王国·旧制度时期',anchor='france-kingdom',aliases='法国王国 France Kingdom Ancien Régime 圣灵 圣路易',country_group='france',record_files=[],manifest_files=[]))
     if integration['volume_rows'].get('austria-carinthia'):
@@ -456,6 +458,7 @@ for key,img in manifest.items():
 # Adjacent school, association, qualification and unofficial pieces are useful
 # references, but are deliberately kept out of the official family count.
 related_volume_specs=[
+    ('darabanth_related_20261005.json','darabanth_related_20261005_manifest.json'),
     ('austria_republic_related_20261005.json','austria_republic_related_20261005_manifest.json'),
     ('austria_pending_related_20261005.json','austria_pending_related_20261005_manifest.json'),
     ('german_completion_related_20260929.json','german_completion_related_20260929_manifest.json'),

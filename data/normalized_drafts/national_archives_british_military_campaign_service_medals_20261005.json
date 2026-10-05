@@ -1,0 +1,27 @@
+{
+  "source_id": "tna-british-campaign-service-medals",
+  "as_of": "2026-10-05",
+  "status": "draft only; no index or mobile edits",
+  "families": [
+    {"id":"GB-UK-TERRITORIAL-FORCE-WAR-MEDAL","name_zh":"领土军战争奖章","original":"Territorial Force War Medal","date":"1914–1919 qualifying service (award/issue date待核)","variants":[{"label":"标准悬挂式；实物材质待考","evidence":"NAM 1958-11-96-28; no image downloaded"}]},
+    {"id":"GB-UK-DIAMOND-JUBILEE-MEDAL-1897","name_zh":"维多利亚女王钻禧奖章","original":"Queen Victoria Diamond Jubilee Medal","date":"1897","variants":[{"label":"奖章版型；材质待考","evidence":"NAM 2004-11-176-2; no image downloaded"}]},
+    {"id":"GB-UK-EDWARD-VII-CORONATION-MEDAL","name_zh":"爱德华七世加冕奖章","original":"King Edward VII Coronation Medal","date":"1902 (TNA guide says 1901; see conflict file)","variants":[{"label":"银质版","evidence":"NAM 1963-10-104--14"},{"label":"铜质版；据NAM描述授予部分NCO及其他军阶人员","evidence":"NAM 1963-10-104--14; object-level specimen needs review"}]},
+    {"id":"GB-UK-GEORGE-V-CORONATION-MEDAL-1911","name_zh":"乔治五世加冕奖章","original":"King George V Coronation Medal","date":"1911","variants":[{"label":"银质版","evidence":"NAM 2002-02-1094-5"}]},
+    {"id":"GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1903","name_zh":"德里杜尔巴奖章","original":"Delhi Durbar Medal","date":"1903","variants":[{"label":"金质版；按受领身份授予","evidence":"NAM Coronation Medals page; no specimen reviewed"},{"label":"银质版","evidence":"NAM search record 1951-11-95; object page not opened"}]},
+    {"id":"GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1911","name_zh":"德里杜尔巴奖章","original":"Delhi Durbar Medal","date":"1911","variants":[{"label":"金质版；按受领身份授予","evidence":"NAM Coronation Medals page; specimen metal not confirmed for acc. 1988-08-9-4"},{"label":"银质版","evidence":"NAM Coronation Medals page; no specimen image downloaded"}]},
+    {"id":"GB-UK-GEORGE-V-SILVER-JUBILEE-MEDAL-1935","name_zh":"乔治五世银禧奖章","original":"King George V Silver Jubilee Medal","date":"1935","variants":[{"label":"银质版","evidence":"NAM 2002-02-602-9"}]},
+    {"id":"GB-UK-GEORGE-VI-CORONATION-MEDAL-1937","name_zh":"乔治六世加冕奖章","original":"King George VI Coronation Medal","date":"1937","variants":[{"label":"银质版","evidence":"NAM 1965-10-195-9"}]},
+    {"id":"GB-UK-POLAR-MEDAL","name_zh":"极地奖章","original":"Polar Medal","date":"1904年起（TNA guide statement; official instrument/date pending verification）","variants":[{"label":"基础型；period/metal/ribbon bars待考","evidence":"TNA guide; ADM1/ADM171 roll leads"}]}
+  ],
+  "existing_family_drafts": [
+    {"family":"GB-ORDER-RVO","candidate":"Royal Victorian Medal; TNA guide ties medal to 1901 Queen Victoria funeral context","action":"crosswalk only; review whether medal is represented within RVO hierarchy or as separate family; do not equate automatically"},
+    {"family":"GB-UK-RAF-LSGC-MEDAL","candidate":"George V-period Royal Air Force Long Service and Good Conduct Medal","action":"add variant only after exact AIR72 date/type verification"},
+    {"family":"GB-UK-1914-STAR","candidate":"1914 Star","action":"crosswalk; existing family"},
+    {"family":"GB-UK-BRITISH-WAR-MEDAL-1914-20","candidate":"British War Medal 1914-20","action":"crosswalk; existing family"},
+    {"family":"GB-UK-VICTORY-MEDAL-1914-19","candidate":"Victory Medal 1914-19","action":"crosswalk; existing family"},
+    {"family":"GB-UK-CORONATION-MEDAL-1953","candidate":"Coronation Medal 1953","action":"crosswalk; existing family"},
+    {"family":"GB-UK-SILVER-JUBILEE-MEDAL-1977","candidate":"Silver Jubilee Medal 1977","action":"crosswalk; existing family"},
+    {"family":"GB-UK-1914-15-STAR","candidate":"1914-15 Star","action":"crosswalk; existing family confirmed in UK completion index"}
+  ],
+  "counts": {"new_family_drafts":9,"new_family_variant_rows":12,"existing_family_variant_drafts":2,"existing_family_crosswalks":7,"body_families":0,"images_downloaded":0,"images_decoded":0,"unresolved_leads":1}
+}

@@ -126,9 +126,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 1,
-      "status": "not_started",
+      "status": "completed",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted"
+      "coverage_boundary": "Named campaign/service-medal guide: one article, sections1–10 and2 appendices plus visible link inventory. Recipient archives and unavailable Discovery series not exhausted."
     },
     {
       "source_id": "user_20261005_noonans",
@@ -142,11 +142,14 @@
       "date_coverage": "historical_to_modern; source-specific boundaries pending",
       "has_images": true,
       "has_pagination": true,
-      "download_method": "cached bounded classification/object-page sweep",
+      "download_method": "Public indexed web pages only; direct site and media CDN requests timed out; Cloudflare challenge not bypassed",
       "priority": 1,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted"
+      "coverage_boundary": "Noonans special collection 1426: first chronological page lots 101–140 cached; object pages 101–103 read; remaining collection pages and the rest of Noonans unscanned.",
+      "content_coverage": "One of six listing pages; 40/227 lot summaries; three object-page descriptions; two further lot numbers only found in search-index excerpts.",
+      "image_quality_notes": "Noonans displays media images at 500×500; media CDN fetch timed out and no image was downloaded, decoded, or visually reviewed. Site states images are personal use only; no commercial use or resale without permission.",
+      "evidence": "data/source_sweeps/noonans_risk1426_20261005.json"
     },
     {
       "source_id": "user_20261005_london_medals",
@@ -235,9 +238,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted"
+      "coverage_boundary": "46th Major Auction Faleristics category exhausted:5 pages,53 object pages,114 source images. Other auctions not exhausted."
     },
     {
       "source_id": "user_20261005_spink",
@@ -260,9 +263,9 @@
   ],
   "coverage": {
     "planned": 14,
-    "completed": 1,
-    "partial": 6,
+    "completed": 2,
+    "partial": 8,
     "blocked": 1,
-    "not_started": 6
+    "not_started": 3
   }
 }

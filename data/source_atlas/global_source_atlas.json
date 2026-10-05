@@ -6,9 +6,9 @@
   "coverage": {
     "planned": 647,
     "completed": 175,
-    "partial": 66,
+    "partial": 67,
     "blocked": 18,
-    "not_started": 383
+    "not_started": 382
   },
   "scopes": [
     {
@@ -10272,9 +10272,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 1,
-      "status": "not_started",
+      "status": "completed",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "Named campaign/service-medal guide: one article, sections1–10 and2 appendices plus visible link inventory. Recipient archives and unavailable Discovery series not exhausted.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],
@@ -10292,15 +10292,18 @@
       "date_coverage": "historical_to_modern; source-specific boundaries pending",
       "has_images": true,
       "has_pagination": true,
-      "download_method": "cached bounded classification/object-page sweep",
+      "download_method": "Public indexed web pages only; direct site and media CDN requests timed out; Cloudflare challenge not bypassed",
       "priority": 1,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "Noonans special collection 1426: first chronological page lots 101–140 cached; object pages 101–103 read; remaining collection pages and the rest of Noonans unscanned.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],
-      "matrix_file": "data/source_atlas/user_supplied_europe_global_20261005_source_matrix.json"
+      "matrix_file": "data/source_atlas/user_supplied_europe_global_20261005_source_matrix.json",
+      "content_coverage": "One of six listing pages; 40/227 lot summaries; three object-page descriptions; two further lot numbers only found in search-index excerpts.",
+      "image_quality_notes": "Noonans displays media images at 500×500; media CDN fetch timed out and no image was downloaded, decoded, or visually reviewed. Site states images are personal use only; no commercial use or resale without permission.",
+      "sweep_file": "data/source_sweeps/noonans_risk1426_20261005.json"
     },
     {
       "source_id": "user_20261005_london_medals",
@@ -10405,9 +10408,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "46th Major Auction Faleristics category exhausted:5 pages,53 object pages,114 source images. Other auctions not exhausted.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],
@@ -18684,7 +18687,7 @@
   ],
   "continuation_rule": "Consult the latest checkpoint and queues; finish high-priority partial sweeps, normalize harvested data, harvest missing images, merge HTML, checkpoint, then expand the next queued scope.",
   "latest_soviet_reference_checkpoint": "data/checkpoints/user_soviet_20261003_v010.json",
-  "latest_source_batch_checkpoint": "data/checkpoints/source_batch_20261005.json",
+  "latest_source_batch_checkpoint": "data/checkpoints/source_stage_20261005_v017.json",
   "latest_public_release": "mobile-v0.015 (private repository)",
   "latest_austria_republic_checkpoint": "data/checkpoints/austria_republic_20261005.json",
   "medals_world_discovery_queue": "data/queues/medals_world_discovery_queue_20261005.json"

@@ -1,0 +1,593 @@
+{
+  "images": [
+    {
+      "key": "dar46-30825-view1",
+      "record_id": "DAR46-30825",
+      "view_key": "DAR46-30825-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572316_1_3572316.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1957-A-Munka-Voros-Zaszlo-Erdemrendje-aranyozott-zomancozott-bronz-kituntetes-mellszalagon~II3572316",
+      "image_url": "https://static.darabanth.com/images/3/5/3572316.jpg",
+      "object_reference": "46th Major Auction lot 30825",
+      "dimensions": [
+        438,
+        800
+      ],
+      "sha256": "a3bcc4fdfd6e3d4a06e503a349113ba917a41f30149f51d5ca6b49b9e512e472",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30826-view1",
+      "record_id": "DAR46-30826",
+      "view_key": "DAR46-30826-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572317_1_3572317.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1954-Munka-Erdemerem-zomancozott-bronz-kituntetes-mellszalagon-T-AUHungary-1954-Labour-Merit~II3572317",
+      "image_url": "https://static.darabanth.com/images/3/5/3572317.jpg",
+      "object_reference": "46th Major Auction lot 30826",
+      "dimensions": [
+        493,
+        800
+      ],
+      "sha256": "401b633f27f0d4402c643b70aed0025238a0a0258bf97e9c37992e3cd21db922",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30826-view2",
+      "record_id": "DAR46-30826",
+      "view_key": "DAR46-30826-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572317_2_3572317a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1954-Munka-Erdemerem-zomancozott-bronz-kituntetes-mellszalagon-T-AUHungary-1954-Labour-Merit~II3572317",
+      "image_url": "https://static.darabanth.com/images/3/5/3572317a.jpg",
+      "object_reference": "46th Major Auction lot 30826",
+      "dimensions": [
+        493,
+        800
+      ],
+      "sha256": "7efd4543f64deda03323fb02c4440bcaf2a438b5fcc9cc851e885fb1cf227bed",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30827-view1",
+      "record_id": "DAR46-30827",
+      "view_key": "DAR46-30827-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572321_1_3572321.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-Aprilis-Negyedike-Erdemrend-aranyozott-zomancozott-bronz-kituntetes-mellszalaggal~II3572321",
+      "image_url": "https://static.darabanth.com/images/3/5/3572321.jpg",
+      "object_reference": "46th Major Auction lot 30827",
+      "dimensions": [
+        449,
+        800
+      ],
+      "sha256": "59a120e88286218412dd4d2e171b20a577eafdaedd1b32ecc29d51d4c279e8b3",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30827-view2",
+      "record_id": "DAR46-30827",
+      "view_key": "DAR46-30827-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572321_2_3572321a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-Aprilis-Negyedike-Erdemrend-aranyozott-zomancozott-bronz-kituntetes-mellszalaggal~II3572321",
+      "image_url": "https://static.darabanth.com/images/3/5/3572321a.jpg",
+      "object_reference": "46th Major Auction lot 30827",
+      "dimensions": [
+        459,
+        800
+      ],
+      "sha256": "a3907c35d465f5dcff0880a50ba3430d8efd372042ccd36e17bee6e1fc944259",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30828-view1",
+      "record_id": "DAR46-30828",
+      "view_key": "DAR46-30828-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572318_1_3572318.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-A-Magyar-Nepkoztarsasag-aranykoszoruval-diszitett-Csillagrendje-aranyozott-zomancozott~II3572318",
+      "image_url": "https://static.darabanth.com/images/3/5/3572318.jpg",
+      "object_reference": "46th Major Auction lot 30828",
+      "dimensions": [
+        454,
+        800
+      ],
+      "sha256": "4f9e9e318a774b408e7d2e4ecff28b99bbef17312336940a980a621e0b2d39bb",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30828-view2",
+      "record_id": "DAR46-30828",
+      "view_key": "DAR46-30828-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572318_2_3572318a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-A-Magyar-Nepkoztarsasag-aranykoszoruval-diszitett-Csillagrendje-aranyozott-zomancozott~II3572318",
+      "image_url": "https://static.darabanth.com/images/3/5/3572318a.jpg",
+      "object_reference": "46th Major Auction lot 30828",
+      "dimensions": [
+        444,
+        800
+      ],
+      "sha256": "e16c1e2d5f3766b65856e4d6815a6a6ae2e53e8110fe8a82e9e3e190264af005",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30830-view1",
+      "record_id": "DAR46-30830",
+      "view_key": "DAR46-30830-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572320_1_3572320.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-A-Magyar-Nepkoztarsasag-Csillagrendje-aranyozott-zomancozott-bronz-kituntetes~II3572320",
+      "image_url": "https://static.darabanth.com/images/3/5/3572320.jpg",
+      "object_reference": "46th Major Auction lot 30830",
+      "dimensions": [
+        448,
+        800
+      ],
+      "sha256": "b6dc9b2ea60b2fd2b4aaf4197e1425b5668ca90e6f368e3315148e819c83a4b2",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30830-view2",
+      "record_id": "DAR46-30830",
+      "view_key": "DAR46-30830-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572320_2_3572320a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1984-A-Magyar-Nepkoztarsasag-Csillagrendje-aranyozott-zomancozott-bronz-kituntetes~II3572320",
+      "image_url": "https://static.darabanth.com/images/3/5/3572320a.jpg",
+      "object_reference": "46th Major Auction lot 30830",
+      "dimensions": [
+        445,
+        800
+      ],
+      "sha256": "1243fbb6804dc11a3bc72668bd9a0951cd2b38ee1c8b14bdb55b6cd485df460c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30831-view1",
+      "record_id": "DAR46-30831",
+      "view_key": "DAR46-30831-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3542147_1_3542147.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1991-Magyar-Koztarsasagi-Erdemrend-tisztikeresztje-polgari-tagozat-zomancozott-aranyozott~II3542147",
+      "image_url": "https://static.darabanth.com/images/3/5/3542147.jpg",
+      "object_reference": "46th Major Auction lot 30831",
+      "dimensions": [
+        453,
+        799
+      ],
+      "sha256": "91cc8165689948f57875769376fc7694161215c3b943b1290d9f0f9c5a62642c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30831-view2",
+      "record_id": "DAR46-30831",
+      "view_key": "DAR46-30831-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3542147_2_3542147a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1991-Magyar-Koztarsasagi-Erdemrend-tisztikeresztje-polgari-tagozat-zomancozott-aranyozott~II3542147",
+      "image_url": "https://static.darabanth.com/images/3/5/3542147a.jpg",
+      "object_reference": "46th Major Auction lot 30831",
+      "dimensions": [
+        439,
+        800
+      ],
+      "sha256": "051c89fa03d07a3334caa1e784ca79154bf3e35088fb23b66155523fef6f5d41",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30832-view1",
+      "record_id": "DAR46-30832",
+      "view_key": "DAR46-30832-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573070_1_3573070.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Rendorsegi-Szolgalati-Jel-30-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3573070",
+      "image_url": "https://static.darabanth.com/images/3/5/3573070.jpg",
+      "object_reference": "46th Major Auction lot 30832",
+      "dimensions": [
+        530,
+        800
+      ],
+      "sha256": "ad8b9bfdbb43ce087d31de30a37591caf02f643e6793f24667eda2fe266e9015",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30833-view1",
+      "record_id": "DAR46-30833",
+      "view_key": "DAR46-30833-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573067_1_3573067.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Rendorsegi-Szolgalati-Jel-20-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3573067",
+      "image_url": "https://static.darabanth.com/images/3/5/3573067.jpg",
+      "object_reference": "46th Major Auction lot 30833",
+      "dimensions": [
+        545,
+        799
+      ],
+      "sha256": "b2f21946896d720171d433a21b8b3eb6074cf1c53a51e3e732482dd5ab29a46b",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30834-view1",
+      "record_id": "DAR46-30834",
+      "view_key": "DAR46-30834-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573060_1_3573060.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Rendorsegi-Szolgalati-Jel-10-ev-utan-fuggesztokarikan-jelzett-Ag-kituntetes-mellszalagon-~II3573060",
+      "image_url": "https://static.darabanth.com/images/3/5/3573060.jpg",
+      "object_reference": "46th Major Auction lot 30834",
+      "dimensions": [
+        505,
+        800
+      ],
+      "sha256": "67920bb2660c090daa721899aa5991b0da004ff45edc9c97b0b9462af803fc5c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30836-view1",
+      "record_id": "DAR46-30836",
+      "view_key": "DAR46-30836-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573265_1_3573265.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Hatarorsegi-Szolgalati-Jel-30-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3573265",
+      "image_url": "https://static.darabanth.com/images/3/5/3573265.jpg",
+      "object_reference": "46th Major Auction lot 30836",
+      "dimensions": [
+        559,
+        800
+      ],
+      "sha256": "951fb48d8329f81a82d637723218378c2d5a453450b04a104e0cf0723eacc00f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30837-view1",
+      "record_id": "DAR46-30837",
+      "view_key": "DAR46-30837-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572904_1_3572904.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Tuzoltosagi-Szolgalati-Jel-30-ev-utan-fuggesztokarikan-jelzett-Ag-kituntetes-mellszalagon-~II3572904",
+      "image_url": "https://static.darabanth.com/images/3/5/3572904.jpg",
+      "object_reference": "46th Major Auction lot 30837",
+      "dimensions": [
+        539,
+        800
+      ],
+      "sha256": "902f187295ad6093d698408ba526ff121c2618066fa494e718b2eb8e279838bf",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30838-view1",
+      "record_id": "DAR46-30838",
+      "view_key": "DAR46-30838-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572880_1_3572880.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Tuzoltosagi-Szolgalati-Jel-20-ev-utan-fuggesztokarikan-jelzett-Ag-kituntetes-mellszalagon-~II3572880",
+      "image_url": "https://static.darabanth.com/images/3/5/3572880.jpg",
+      "object_reference": "46th Major Auction lot 30838",
+      "dimensions": [
+        550,
+        800
+      ],
+      "sha256": "6f62c2aa55295ecf967d1675c056393714393eccd24a89922ba8ae08a9e62965",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30839-view1",
+      "record_id": "DAR46-30839",
+      "view_key": "DAR46-30839-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3572927_1_3572927.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Tuzoltosagi-Szolgalati-Jel-10-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3572927",
+      "image_url": "https://static.darabanth.com/images/3/5/3572927.jpg",
+      "object_reference": "46th Major Auction lot 30839",
+      "dimensions": [
+        560,
+        800
+      ],
+      "sha256": "0b160876812847616f0b8812fc90a6fb1fef32eb08a90622e6418b7f6949f25f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30840-view1",
+      "record_id": "DAR46-30840",
+      "view_key": "DAR46-30840-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573025_1_3573025.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Polgari-Vedelmi-Szolgalati-Jel-30-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3573025",
+      "image_url": "https://static.darabanth.com/images/3/5/3573025.jpg",
+      "object_reference": "46th Major Auction lot 30840",
+      "dimensions": [
+        564,
+        800
+      ],
+      "sha256": "46c1725b45b0fae8d4f423288097cbeee04ed19af6bf9cb0ce5c2277672ff4df",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30841-view1",
+      "record_id": "DAR46-30841",
+      "view_key": "DAR46-30841-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573022_1_3573022.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Polgari-Vedelmi-Szolgalati-Jel-20-ev-utan-jelzett-Ag-kituntetes-mellszalagon-miniaturrel~II3573022",
+      "image_url": "https://static.darabanth.com/images/3/5/3573022.jpg",
+      "object_reference": "46th Major Auction lot 30841",
+      "dimensions": [
+        523,
+        800
+      ],
+      "sha256": "2b167e2f79b1c7e6f3100eb5f46581d107fb2908d038073186678613f8c7b187",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30842-view1",
+      "record_id": "DAR46-30842",
+      "view_key": "DAR46-30842-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573014_1_3573014.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-Polgari-Vedelmi-Szolgalati-Jel-10-ev-utan-fuggesztokarikan-jelzett-Ag-kituntetes~II3573014",
+      "image_url": "https://static.darabanth.com/images/3/5/3573014.jpg",
+      "object_reference": "46th Major Auction lot 30842",
+      "dimensions": [
+        615,
+        800
+      ],
+      "sha256": "702c7013f1d5b6a0873ffdedf651e2fd1091a587ae1623e0e1695b2061e7d303",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30843-view1",
+      "record_id": "DAR46-30843",
+      "view_key": "DAR46-30843-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573318_1_3573318.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-A-Koz-Szolgalataert-Erdemjel-arany-fokozata-aranyozott-zomancozott-bronz-kituntetes~II3573318",
+      "image_url": "https://static.darabanth.com/images/3/5/3573318.jpg",
+      "object_reference": "46th Major Auction lot 30843",
+      "dimensions": [
+        551,
+        800
+      ],
+      "sha256": "11cb89b19dea0c7801fcd40f33c648c735c1a03c3f3440d7b7467f5b7eba5fac",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30844-view1",
+      "record_id": "DAR46-30844",
+      "view_key": "DAR46-30844-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573311_1_3573311.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1992-A-Koz-Szolgalataert-Erdemjel-ezust-fokozata-ezustozott-zomancozott-bronz-kituntetes-~II3573311",
+      "image_url": "https://static.darabanth.com/images/3/5/3573311.jpg",
+      "object_reference": "46th Major Auction lot 30844",
+      "dimensions": [
+        544,
+        800
+      ],
+      "sha256": "ca8a9725551e4d721c37d02efee93efd9d1564cedf8ba9e886c90b0c87a118d7",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30845-view1",
+      "record_id": "DAR46-30845",
+      "view_key": "DAR46-30845-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573293_1_3573293.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-A-Koz-Szolgalataert-Erdemjel-bronz-fokozata-zomancozott-bronz-kituntetes-mellszalagon-~II3573293",
+      "image_url": "https://static.darabanth.com/images/3/5/3573293.jpg",
+      "object_reference": "46th Major Auction lot 30845",
+      "dimensions": [
+        583,
+        800
+      ],
+      "sha256": "4fe0325b87275b90248dc7b3de6905e0b048fc6e902e8469064e76be18947fac",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30850-view1",
+      "record_id": "DAR46-30850",
+      "view_key": "DAR46-30850-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573337_1_3573337.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2000-Arvizvedelemert-Szolgalati-Jel-ezustszinu-erem-mellszalagon-szalagsavval-disztokban-T-AU~II3573337",
+      "image_url": "https://static.darabanth.com/images/3/5/3573337.jpg",
+      "object_reference": "46th Major Auction lot 30850",
+      "dimensions": [
+        590,
+        800
+      ],
+      "sha256": "19bcd52f661ceea64c7cc4feae4b469a64e6943323c4c430806cdc8a0e891bbf",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30850-view2",
+      "record_id": "DAR46-30850",
+      "view_key": "DAR46-30850-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573337_2_3573337a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2000-Arvizvedelemert-Szolgalati-Jel-ezustszinu-erem-mellszalagon-szalagsavval-disztokban-T-AU~II3573337",
+      "image_url": "https://static.darabanth.com/images/3/5/3573337a.jpg",
+      "object_reference": "46th Major Auction lot 30850",
+      "dimensions": [
+        601,
+        800
+      ],
+      "sha256": "5c7c6dddb070e6aa949d6a2dcc9cf1cb955adf34443919e1e7d96bf9ac3ee458",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30871-view1",
+      "record_id": "DAR46-30871",
+      "view_key": "DAR46-30871-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3563150_1_3563150.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1950-k-Baberkoszorus-Kivalo-Dolgozo-zomancozott-fem-kituntetes-Rakosi-cimerrel-T-AUHungary-cca~II3563150",
+      "image_url": "https://static.darabanth.com/images/3/5/3563150.jpg",
+      "object_reference": "46th Major Auction lot 30871",
+      "dimensions": [
+        724,
+        800
+      ],
+      "sha256": "0038ced931b9c85ec564ebc96363c05c95ad0eedd69d3025ae1f598f8ab24246",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30871-view2",
+      "record_id": "DAR46-30871",
+      "view_key": "DAR46-30871-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3563150_2_3563150a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1950-k-Baberkoszorus-Kivalo-Dolgozo-zomancozott-fem-kituntetes-Rakosi-cimerrel-T-AUHungary-cca~II3563150",
+      "image_url": "https://static.darabanth.com/images/3/5/3563150a.jpg",
+      "object_reference": "46th Major Auction lot 30871",
+      "dimensions": [
+        696,
+        800
+      ],
+      "sha256": "b569c2d247288d6941da8b6dddc0b3711115f6b17709959692a49ef912217077",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30872-view1",
+      "record_id": "DAR46-30872",
+      "view_key": "DAR46-30872-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3563240_1_3563240.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1950-k-Baberkoszorus-Szakma-Kivalo-Muszaki-Dolgozoja-aranyozott-zomancozott-Rakosi-cimeres~II3563240",
+      "image_url": "https://static.darabanth.com/images/3/5/3563240.jpg",
+      "object_reference": "46th Major Auction lot 30872",
+      "dimensions": [
+        665,
+        800
+      ],
+      "sha256": "70f6fa2f33de5070155a052d2fc94e81558b0c61d38df140cb8cb6ad1d00825c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30874-view1",
+      "record_id": "DAR46-30874",
+      "view_key": "DAR46-30874-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573675_1_3573675.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Kuba-1979-Orden-de-la-Solidaridad-Szolidaritasi-Rend-fem-kituntetes-eredeti-mellszalagon-T-AU~II3573675",
+      "image_url": "https://static.darabanth.com/images/3/5/3573675.jpg",
+      "object_reference": "46th Major Auction lot 30874",
+      "dimensions": [
+        455,
+        799
+      ],
+      "sha256": "0b96c289479a14498d880a5d24f4acadc8c5ee75e73c7e93c811c0ed894488e7",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30874-view2",
+      "record_id": "DAR46-30874",
+      "view_key": "DAR46-30874-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573675_2_3573675a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Kuba-1979-Orden-de-la-Solidaridad-Szolidaritasi-Rend-fem-kituntetes-eredeti-mellszalagon-T-AU~II3573675",
+      "image_url": "https://static.darabanth.com/images/3/5/3573675a.jpg",
+      "object_reference": "46th Major Auction lot 30874",
+      "dimensions": [
+        472,
+        800
+      ],
+      "sha256": "f5fb754960ffc68cf404c2a67b111de3b9a6c92ac965b55d95af1f095bd6e8bb",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    }
+  ]
+}

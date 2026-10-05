@@ -1,41 +1,56 @@
 {
   "as_of": "2026-10-05",
   "source_id": "NOONANS-RISK-1426",
-  "root": "https://www.noonans.co.uk/archive/special-collections/1426/",
-  "archive_discovery": "https://www.noonans.co.uk/archive/past-catalogues/",
-  "collection_title": "The Collection of the late James C. Risk, C.V.O., F.S.A.",
+  "checkpoint_status": "partial_access_limited",
+  "current_source": "https://www.noonans.co.uk/archive/special-collections/1426/",
+  "declared_lots": 227,
   "auction_date": "2026-01-14",
-  "declared_collection_lots": 227,
-  "fully_read_object_pages": 1,
-  "raw_candidates": 1,
-  "images_downloaded": 0,
-  "publication_images": 0,
-  "status": "partial; source access blocked for bulk",
-  "scope": "Full 227-lot special collection intended; not exhausted",
-  "boundary": "First listing shows 40 lots per page; final-page or paging query not yet verified; do not invent remaining page URLs",
-  "failures": [
-    {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/",
-      "method": "requests",
-      "status": 403,
-      "reason": "Cloudflare Just a moment page; no bypass attempted"
-    },
-    {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516290/",
-      "method": "web",
-      "reason": "timeout"
-    },
-    {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516292/",
-      "method": "web",
-      "reason": "timeout"
-    },
-    {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516620/",
-      "method": "web",
-      "reason": "timeout"
-    }
+  "position": {
+    "listing_pages_visible": 6,
+    "listing_pages_fully_read": 1,
+    "first_page_lots": "101–140",
+    "object_pages_fully_read": [
+      101,
+      102,
+      103
+    ],
+    "failed_object_pages": [
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "search_index_only": [
+      104,
+      105,
+      141,
+      143,
+      209
+    ]
+  },
+  "counts": {
+    "planned_sources": 1,
+    "complete_sources": 0,
+    "partial_sources": 1,
+    "blocked_sources": 0,
+    "not_started_sources": 0,
+    "raw_candidate_records": 48,
+    "unique_lot_numbers": 43,
+    "merged_families": 0,
+    "body_families": 0,
+    "variants": 0,
+    "local_images": 0,
+    "unresolved_known_lot_candidates": 43,
+    "unscanned_listing_rows": 187
+  },
+  "blockers": [
+    "Cloudflare security verification on ordinary browser access; no bypass attempted.",
+    "Pagination offsets 40,80,120,160,200 and object-page requests for lots 104–108 timed out/inaccessible.",
+    "Noonans PDF endpoint exceeds web tool's 59,581,959-byte extraction limit.",
+    "Media CDN image links timed out; 0 image files downloaded, decoded, or reviewed.",
+    "A full-looking text body for lot 141 was returned in a web search result but the object page was not directly opened; it remains search-index-only."
   ],
-  "remaining_objects_min": 226,
-  "next_action": "Resume ordinary public access after source state changes, discover visible pagination and exhaust all 227 object pages; use alternate open photos for facts."
+  "rights_note": "Noonans states images are copyrighted by Noonans Mayfair Ltd and for personal use only, with no commercial use or resale without permission.",
+  "next_action": "Keep this Noonans source partial and do not retry its blocked pages in this batch; continue with the next accessible source. Return to the unread Noonans pages when ordinary public access is available."
 }

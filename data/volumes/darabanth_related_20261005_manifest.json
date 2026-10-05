@@ -1,0 +1,840 @@
+{
+  "images": [
+    {
+      "key": "dar46-30846-view1",
+      "record_id": "DAR46-30846",
+      "view_key": "DAR46-30846-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573383_1_3573383.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-Szemere-Bertalan-Erdemjel-aranyozott-zomancozott-bronz-kituntetes-mellszalagon-~II3573383",
+      "image_url": "https://static.darabanth.com/images/3/5/3573383.jpg",
+      "object_reference": "46th Major Auction lot 30846",
+      "dimensions": [
+        580,
+        800
+      ],
+      "sha256": "b13899f72c983d0558507208c1d904a030a6d47e770e0cf0168fbbd2929e7bf7",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30847-view1",
+      "record_id": "DAR46-30847",
+      "view_key": "DAR46-30847-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573380_1_3573380.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-Szent-Gyorgy-Erdemjel-aranyozott-zomancozott-bronz-kituntetes-mellszalagon-miniaturrel-~II3573380",
+      "image_url": "https://static.darabanth.com/images/3/5/3573380.jpg",
+      "object_reference": "46th Major Auction lot 30847",
+      "dimensions": [
+        550,
+        800
+      ],
+      "sha256": "0df414d662db153f5356df337de572b37182cea61bc5fbb54239cb21c40d300a",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30848-view1",
+      "record_id": "DAR46-30848",
+      "view_key": "DAR46-30848-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573390_1_3573390.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-Szent-Laszlo-Erdemjel-aranyozott-zomancozott-bronz-kituntetes-mellszalagon-miniaturrel-~II3573390",
+      "image_url": "https://static.darabanth.com/images/3/5/3573390.jpg",
+      "object_reference": "46th Major Auction lot 30848",
+      "dimensions": [
+        573,
+        800
+      ],
+      "sha256": "626421c93abcd5e2cfd4421c2bdf71897bdb9cd84e32b1d925e79232b5fcc6ff",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30849-view1",
+      "record_id": "DAR46-30849",
+      "view_key": "DAR46-30849-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3573377_1_3573377.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/2001-Szent-Florian-Erdemjel-aranyozott-zomancozott-bronz-kituntetes-mellszalagon-miniaturrel-~II3573377",
+      "image_url": "https://static.darabanth.com/images/3/5/3573377.jpg",
+      "object_reference": "46th Major Auction lot 30849",
+      "dimensions": [
+        571,
+        800
+      ],
+      "sha256": "c322a6781ca8ca2cb36b84d9ddedfa84a34265f817ee08678b9efc08027269ae",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30852-view1",
+      "record_id": "DAR46-30852",
+      "view_key": "DAR46-30852-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3563102_1_3563102.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1900-k-1829-Soproni-Zeneegyesulet-zomancozott-fem-dalos-jelveny-szalaggal-BELADA-NFG-WIEN~II3563102",
+      "image_url": "https://static.darabanth.com/images/3/5/3563102.jpg",
+      "object_reference": "46th Major Auction lot 30852",
+      "dimensions": [
+        385,
+        800
+      ],
+      "sha256": "2ce8e2d82d645f72651b7ed369a3af9332a84a950083b69300fcc09c56779c72",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30852-view2",
+      "record_id": "DAR46-30852",
+      "view_key": "DAR46-30852-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3563102_2_3563102a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1900-k-1829-Soproni-Zeneegyesulet-zomancozott-fem-dalos-jelveny-szalaggal-BELADA-NFG-WIEN~II3563102",
+      "image_url": "https://static.darabanth.com/images/3/5/3563102a.jpg",
+      "object_reference": "46th Major Auction lot 30852",
+      "dimensions": [
+        382,
+        799
+      ],
+      "sha256": "1f1d9ffa42554e3b30d4f0b8322a2a7ad6c6efd8d5ca3f8599863873ad699d61",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30853-view1",
+      "record_id": "DAR46-30853",
+      "view_key": "DAR46-30853-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3533528_1_3533528.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1910-Torokszentmiklos-varosa-25-eves-onkentes-tuzoltoi-mukodes-emlekeul-85-910-jelzett-Ag~II3533528",
+      "image_url": "https://static.darabanth.com/images/3/5/3533528.jpg",
+      "object_reference": "46th Major Auction lot 30853",
+      "dimensions": [
+        758,
+        800
+      ],
+      "sha256": "88c2acf34c5368db99d4e16a4a34660b3c73b1d4080b8b4378b92e5bbc38479e",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30853-view2",
+      "record_id": "DAR46-30853",
+      "view_key": "DAR46-30853-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3533528_2_3533528a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1910-Torokszentmiklos-varosa-25-eves-onkentes-tuzoltoi-mukodes-emlekeul-85-910-jelzett-Ag~II3533528",
+      "image_url": "https://static.darabanth.com/images/3/5/3533528a.jpg",
+      "object_reference": "46th Major Auction lot 30853",
+      "dimensions": [
+        753,
+        800
+      ],
+      "sha256": "f438460a011aa4dd160bc49a671cd825a59808b02fbccbd0bce2651c84c8cab2",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30854-view1",
+      "record_id": "DAR46-30854",
+      "view_key": "DAR46-30854-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557711_1_3557711.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1910-1920-k-Magyar-Voroskereszt-Ifjusagi-Osztalya-zomancozott-bronz-jelveny-fuggoleges-tuvel-~II3557711",
+      "image_url": "https://static.darabanth.com/images/3/5/3557711.jpg",
+      "object_reference": "46th Major Auction lot 30854",
+      "dimensions": [
+        650,
+        799
+      ],
+      "sha256": "b8e8915b1367f86210992a03c963fbb55e7ca0d747a0b13335bd0fa098ec1f9c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30854-view2",
+      "record_id": "DAR46-30854",
+      "view_key": "DAR46-30854-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557711_2_3557711a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1910-1920-k-Magyar-Voroskereszt-Ifjusagi-Osztalya-zomancozott-bronz-jelveny-fuggoleges-tuvel-~II3557711",
+      "image_url": "https://static.darabanth.com/images/3/5/3557711a.jpg",
+      "object_reference": "46th Major Auction lot 30854",
+      "dimensions": [
+        672,
+        800
+      ],
+      "sha256": "3cd80914724b5cfcfdf173bd5a6a5ed8a18650c9dba4911114c3c7cd39eab454",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30855-view1",
+      "record_id": "DAR46-30855",
+      "view_key": "DAR46-30855-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557746_1_3557746.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1910-1930-k-Verado-3db-zomancozott-bronz-kismeretu-jelveny-haromszor-kulonfele-kivitelben~II3557746",
+      "image_url": "https://static.darabanth.com/images/3/5/3557746.jpg",
+      "object_reference": "46th Major Auction lot 30855",
+      "dimensions": [
+        283,
+        800
+      ],
+      "sha256": "5bf6089bc0ba4db0668b51448d2e03cce0a6598552dd280dd52fc7fb9f6755f0",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30856-view1",
+      "record_id": "DAR46-30856",
+      "view_key": "DAR46-30856-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557729_1_3557729.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-k-Magyar-Ifj-Voroskereszt-zomancozott-bronz-jelveny-fuggoleges-tuvel-20x17mm~II3557729",
+      "image_url": "https://static.darabanth.com/images/3/5/3557729.jpg",
+      "object_reference": "46th Major Auction lot 30856",
+      "dimensions": [
+        319,
+        800
+      ],
+      "sha256": "525686b4991c31eb2469950e25a898af798f0e77c436d1e67c755fdeb2f3c9b0",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30856-view2",
+      "record_id": "DAR46-30856",
+      "view_key": "DAR46-30856-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557729_2_3557729a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-k-Magyar-Ifj-Voroskereszt-zomancozott-bronz-jelveny-fuggoleges-tuvel-20x17mm~II3557729",
+      "image_url": "https://static.darabanth.com/images/3/5/3557729a.jpg",
+      "object_reference": "46th Major Auction lot 30856",
+      "dimensions": [
+        313,
+        800
+      ],
+      "sha256": "4d7e0e1b497a81679529061f723a71e4f3fa0baeb1aa9a77617a5252e87ec5d7",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30857-view1",
+      "record_id": "DAR46-30857",
+      "view_key": "DAR46-30857-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3568346_1_3568346.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-k-Hungaria-bronz-cserkesz-sapkajelveny-45x35mm-T-XFHungary-cca-1930-Hungaria-bronze~II3568346",
+      "image_url": "https://static.darabanth.com/images/3/5/3568346.jpg",
+      "object_reference": "46th Major Auction lot 30857",
+      "dimensions": [
+        800,
+        725
+      ],
+      "sha256": "9e18c9aa80dbbee8c3fae83c310644483b7410331ba6c8c9b4c51c5c2766f3b4",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30857-view2",
+      "record_id": "DAR46-30857",
+      "view_key": "DAR46-30857-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3568346_2_3568346a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-k-Hungaria-bronz-cserkesz-sapkajelveny-45x35mm-T-XFHungary-cca-1930-Hungaria-bronze~II3568346",
+      "image_url": "https://static.darabanth.com/images/3/5/3568346a.jpg",
+      "object_reference": "46th Major Auction lot 30857",
+      "dimensions": [
+        800,
+        656
+      ],
+      "sha256": "d92e2db96bcfeb05a1f9072271248b2e0e5a559a6cadae7a4cd2b3eea5f29f97",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30858-view1",
+      "record_id": "DAR46-30858",
+      "view_key": "DAR46-30858-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557480_1_3557480.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-1940-k-Koronas-Voroskereszt-koszoruban-aranyozott-zomancozott-bronz-jelveny-ferde~II3557480",
+      "image_url": "https://static.darabanth.com/images/3/5/3557480.jpg",
+      "object_reference": "46th Major Auction lot 30858",
+      "dimensions": [
+        607,
+        800
+      ],
+      "sha256": "4b604da54f96ed81b7dedc7910eae815455d3b8bffa194b636bd4a357e873255",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30858-view2",
+      "record_id": "DAR46-30858",
+      "view_key": "DAR46-30858-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557480_2_3557480a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1930-1940-k-Koronas-Voroskereszt-koszoruban-aranyozott-zomancozott-bronz-jelveny-ferde~II3557480",
+      "image_url": "https://static.darabanth.com/images/3/5/3557480a.jpg",
+      "object_reference": "46th Major Auction lot 30858",
+      "dimensions": [
+        596,
+        800
+      ],
+      "sha256": "5e44b787e8bd8d98a94f3c26096d78ac74e7ad56bb551a02501209c35d868b14",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30859-view1",
+      "record_id": "DAR46-30859",
+      "view_key": "DAR46-30859-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557605_1_3557605.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Beran-Nandor-1889-1965-1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-peremen-jelzett-ezust~II3557605",
+      "image_url": "https://static.darabanth.com/images/3/5/3557605.jpg",
+      "object_reference": "46th Major Auction lot 30859",
+      "dimensions": [
+        761,
+        800
+      ],
+      "sha256": "b951922e8dabe4ae3b5f0168f4b5b5281def574f547b26f75e4a364297cdcee0",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30859-view2",
+      "record_id": "DAR46-30859",
+      "view_key": "DAR46-30859-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557605_2_3557605a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Beran-Nandor-1889-1965-1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-peremen-jelzett-ezust~II3557605",
+      "image_url": "https://static.darabanth.com/images/3/5/3557605a.jpg",
+      "object_reference": "46th Major Auction lot 30859",
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "761350517dd804c80da3da14ce280876190bc4b7b37cfba937d195de708f09f0",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30860-view1",
+      "record_id": "DAR46-30860",
+      "view_key": "DAR46-30860-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557634_1_3557634.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-kituntetes-mellszalagon-A-MAGYAR-VOROS~II3557634",
+      "image_url": "https://static.darabanth.com/images/3/5/3557634.jpg",
+      "object_reference": "46th Major Auction lot 30860",
+      "dimensions": [
+        542,
+        800
+      ],
+      "sha256": "776eb0a5adce3a921b411fef534568898cd56a7b55feb868801a2f2385403255",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30860-view2",
+      "record_id": "DAR46-30860",
+      "view_key": "DAR46-30860-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557634_2_3557634a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-kituntetes-mellszalagon-A-MAGYAR-VOROS~II3557634",
+      "image_url": "https://static.darabanth.com/images/3/5/3557634a.jpg",
+      "object_reference": "46th Major Auction lot 30860",
+      "dimensions": [
+        536,
+        800
+      ],
+      "sha256": "70b15448e7c4e8b949ccb93cde00b2bc3d642a44607ac692e999bc987a7ae89c",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30861-view1",
+      "record_id": "DAR46-30861",
+      "view_key": "DAR46-30861-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557585_1_3557585.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-aranyozott-bronz-kituntetes-mellszalagon-A-MAGYAR~II3557585",
+      "image_url": "https://static.darabanth.com/images/3/5/3557585.jpg",
+      "object_reference": "46th Major Auction lot 30861",
+      "dimensions": [
+        520,
+        800
+      ],
+      "sha256": "18edd3ce1ecf531e40b6ca5e93b84a0fd291f8d5002d4f747a2fa274b19282c1",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30861-view2",
+      "record_id": "DAR46-30861",
+      "view_key": "DAR46-30861-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557585_2_3557585a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-aranyozott-bronz-kituntetes-mellszalagon-A-MAGYAR~II3557585",
+      "image_url": "https://static.darabanth.com/images/3/5/3557585a.jpg",
+      "object_reference": "46th Major Auction lot 30861",
+      "dimensions": [
+        526,
+        800
+      ],
+      "sha256": "69e560cf983d3a3992ff8115975162c9b090196438c2e937cf7ac17aaf3be22f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30862-view1",
+      "record_id": "DAR46-30862",
+      "view_key": "DAR46-30862-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557592_1_3557592.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Beran-Nandor-1889-1965-1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-aranyozott-bronz~II3557592",
+      "image_url": "https://static.darabanth.com/images/3/5/3557592.jpg",
+      "object_reference": "46th Major Auction lot 30862",
+      "dimensions": [
+        768,
+        800
+      ],
+      "sha256": "014a1edffd39cbe45480cf0daf94c15067dfc05e0343df091109761b1406c74b",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30862-view2",
+      "record_id": "DAR46-30862",
+      "view_key": "DAR46-30862-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557592_2_3557592a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Beran-Nandor-1889-1965-1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-aranyozott-bronz~II3557592",
+      "image_url": "https://static.darabanth.com/images/3/5/3557592a.jpg",
+      "object_reference": "46th Major Auction lot 30862",
+      "dimensions": [
+        774,
+        800
+      ],
+      "sha256": "cab0c3bb2825f3f928c637b8be9d9446488a4112bac16bdf71d3125f67c55941",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30863-view1",
+      "record_id": "DAR46-30863",
+      "view_key": "DAR46-30863-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557684_1_3557684.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-ezustozott-bronz-kituntetes-peremen-BRONZ~II3557684",
+      "image_url": "https://static.darabanth.com/images/3/5/3557684.jpg",
+      "object_reference": "46th Major Auction lot 30863",
+      "dimensions": [
+        566,
+        800
+      ],
+      "sha256": "47c2df7f3cdc7fb5e9be9bcb4584fd69b3f6105dc50297f06757711ffdfadb07",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30863-view2",
+      "record_id": "DAR46-30863",
+      "view_key": "DAR46-30863-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557684_2_3557684a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-ezustozott-bronz-kituntetes-peremen-BRONZ~II3557684",
+      "image_url": "https://static.darabanth.com/images/3/5/3557684a.jpg",
+      "object_reference": "46th Major Auction lot 30863",
+      "dimensions": [
+        546,
+        800
+      ],
+      "sha256": "d65ece71f910284729626258bda5bb870a50486127c91f73e7659cfc2b52cc84",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30865-view1",
+      "record_id": "DAR46-30865",
+      "view_key": "DAR46-30865-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557648_1_3557648.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-emlekerem-ful-nelkul-A-MAGYAR-VOROS-KERESZT~II3557648",
+      "image_url": "https://static.darabanth.com/images/3/5/3557648.jpg",
+      "object_reference": "46th Major Auction lot 30865",
+      "dimensions": [
+        796,
+        800
+      ],
+      "sha256": "78334a1a5d008a16f8e7969e473c100ceaf722471b00917244156f38ef83afaa",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30865-view2",
+      "record_id": "DAR46-30865",
+      "view_key": "DAR46-30865-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557648_2_3557648a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-emlekerem-ful-nelkul-A-MAGYAR-VOROS-KERESZT~II3557648",
+      "image_url": "https://static.darabanth.com/images/3/5/3557648a.jpg",
+      "object_reference": "46th Major Auction lot 30865",
+      "dimensions": [
+        793,
+        800
+      ],
+      "sha256": "ee2adf1b8bd03151ecf7f67f3ee61a958a39419ac4e54d9f7972f657ede8df7f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30866-view1",
+      "record_id": "DAR46-30866",
+      "view_key": "DAR46-30866-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557618_1_3557618.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-ezustozott-bronz-kituntetes-noi-csokorszalagon-A~II3557618",
+      "image_url": "https://static.darabanth.com/images/3/5/3557618.jpg",
+      "object_reference": "46th Major Auction lot 30866",
+      "dimensions": [
+        800,
+        796
+      ],
+      "sha256": "b1858f00a5be3b0faabbf8d1ca669d72f333ec99323ae61bea394db93d8de813",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30866-view2",
+      "record_id": "DAR46-30866",
+      "view_key": "DAR46-30866-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557618_2_3557618a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-ezustozott-bronz-kituntetes-noi-csokorszalagon-A~II3557618",
+      "image_url": "https://static.darabanth.com/images/3/5/3557618a.jpg",
+      "object_reference": "46th Major Auction lot 30866",
+      "dimensions": [
+        800,
+        787
+      ],
+      "sha256": "8c07d1d3370ff6fb8225758af88f0c894b4be976c0945da5d5dbe4ea7837142e",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30867-view1",
+      "record_id": "DAR46-30867",
+      "view_key": "DAR46-30867-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557626_1_3557626.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-kituntetes-noi-csokorszalagon-A-MAGYAR-VOROS~II3557626",
+      "image_url": "https://static.darabanth.com/images/3/5/3557626.jpg",
+      "object_reference": "46th Major Auction lot 30867",
+      "dimensions": [
+        717,
+        800
+      ],
+      "sha256": "041524bfb0166517da0b7b7866b65027cae1ce4eee0ccb117f58e08dd9298944",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30867-view2",
+      "record_id": "DAR46-30867",
+      "view_key": "DAR46-30867-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557626_2_3557626a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-Magyar-Voroskereszt-Ifjusagi-Osztalya-bronz-kituntetes-noi-csokorszalagon-A-MAGYAR-VOROS~II3557626",
+      "image_url": "https://static.darabanth.com/images/3/5/3557626a.jpg",
+      "object_reference": "46th Major Auction lot 30867",
+      "dimensions": [
+        717,
+        800
+      ],
+      "sha256": "bd31789aeea69e991de608e282ceba25b437d53b75758e48a8e845cccfa86044",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30868-view1",
+      "record_id": "DAR46-30868",
+      "view_key": "DAR46-30868-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557704_1_3557704.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-k-Magy-Voroskereszt-Ifj-Osztalya-zomancozott-bronz-sapkajelveny-hatoldalan-Beran-N~II3557704",
+      "image_url": "https://static.darabanth.com/images/3/5/3557704.jpg",
+      "object_reference": "46th Major Auction lot 30868",
+      "dimensions": [
+        554,
+        800
+      ],
+      "sha256": "0e86b1e219e233be305a67067d0e07bdcce680247a2937f67aacc5e8a70b80e7",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30868-view2",
+      "record_id": "DAR46-30868",
+      "view_key": "DAR46-30868-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557704_2_3557704a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1935-k-Magy-Voroskereszt-Ifj-Osztalya-zomancozott-bronz-sapkajelveny-hatoldalan-Beran-N~II3557704",
+      "image_url": "https://static.darabanth.com/images/3/5/3557704a.jpg",
+      "object_reference": "46th Major Auction lot 30868",
+      "dimensions": [
+        563,
+        800
+      ],
+      "sha256": "575d1f7516385d3993eed21eab99556979bbe7c7d60e776a932ff24dc5323d70",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30869-view1",
+      "record_id": "DAR46-30869",
+      "view_key": "DAR46-30869-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557534_1_3557534.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1942-k-A-Magyar-Voroskereszt-Diszjelvenye-aranyozott-zomancozott-bronz-kituntetes-hatoldalon~II3557534",
+      "image_url": "https://static.darabanth.com/images/3/5/3557534.jpg",
+      "object_reference": "46th Major Auction lot 30869",
+      "dimensions": [
+        800,
+        711
+      ],
+      "sha256": "bee66e53ab27131f94507ce9382b47c1733275f7405865d5092345a9d278e875",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30869-view2",
+      "record_id": "DAR46-30869",
+      "view_key": "DAR46-30869-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3557534_2_3557534a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1942-k-A-Magyar-Voroskereszt-Diszjelvenye-aranyozott-zomancozott-bronz-kituntetes-hatoldalon~II3557534",
+      "image_url": "https://static.darabanth.com/images/3/5/3557534a.jpg",
+      "object_reference": "46th Major Auction lot 30869",
+      "dimensions": [
+        800,
+        735
+      ],
+      "sha256": "1c68f65e428613acedaf4ab78537d70a0a87204f0d3c2a507e5581132aff5143",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30870-view1",
+      "record_id": "DAR46-30870",
+      "view_key": "DAR46-30870-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3564277_1_3564277.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1941-1944-k-DMKSZ-Delvideki-Magyar-Kozmuvelodesi-Szovetseg-zomancozott-fem-gomblyukjelveny~II3564277",
+      "image_url": "https://static.darabanth.com/images/3/5/3564277.jpg",
+      "object_reference": "46th Major Auction lot 30870",
+      "dimensions": [
+        555,
+        800
+      ],
+      "sha256": "4ed4c7131d582b8213a47d8e21a955064adb4f10ff63ca8e51b436ae6fbae79f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30870-view2",
+      "record_id": "DAR46-30870",
+      "view_key": "DAR46-30870-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3564277_2_3564277a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/1941-1944-k-DMKSZ-Delvideki-Magyar-Kozmuvelodesi-Szovetseg-zomancozott-fem-gomblyukjelveny~II3564277",
+      "image_url": "https://static.darabanth.com/images/3/5/3564277a.jpg",
+      "object_reference": "46th Major Auction lot 30870",
+      "dimensions": [
+        508,
+        800
+      ],
+      "sha256": "efe68105ec3cfa027ef23523d1b78c56212be8b2da25189a7372eeddf2b9cd16",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30875-view1",
+      "record_id": "DAR46-30875",
+      "view_key": "DAR46-30875-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3542254_1_3542254.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Romania-1953-IV-Ifjusagi-es-Diak-Vilagfesztival-a-Bekeert-es-Baratsagert-Nemzetkozi~II3542254",
+      "image_url": "https://static.darabanth.com/images/3/5/3542254.jpg",
+      "object_reference": "46th Major Auction lot 30875",
+      "dimensions": [
+        379,
+        800
+      ],
+      "sha256": "6e09c1d3ee2d329f33f2dc0eb5a4bb6fe0928f0df82fe70320eb81f0c15649eb",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30875-view2",
+      "record_id": "DAR46-30875",
+      "view_key": "DAR46-30875-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3542254_2_3542254a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Romania-1953-IV-Ifjusagi-es-Diak-Vilagfesztival-a-Bekeert-es-Baratsagert-Nemzetkozi~II3542254",
+      "image_url": "https://static.darabanth.com/images/3/5/3542254a.jpg",
+      "object_reference": "46th Major Auction lot 30875",
+      "dimensions": [
+        402,
+        800
+      ],
+      "sha256": "94a7935d860d29ccc05f9d0cf61f5efb5a9c3422758d4837c491011eaaafd79f",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30876-view1",
+      "record_id": "DAR46-30876",
+      "view_key": "DAR46-30876-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3577423_1_3577423.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Spanyolorszag-1935-k-Irgalmassag-Rendje-nagykeresztje-aranyozott-zomancozott-bronz-kituntetes-~II3577423",
+      "image_url": "https://static.darabanth.com/images/3/5/3577423.jpg",
+      "object_reference": "46th Major Auction lot 30876",
+      "dimensions": [
+        616,
+        1024
+      ],
+      "sha256": "21928390567703b1ffcf60bbde0a96c3e89c19108875dc6966337e23a631f897",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30877-view1",
+      "record_id": "DAR46-30877",
+      "view_key": "DAR46-30877-VIEW1",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3577421_1_3577421.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Spanyolorszag-1935-k-Irgalmassag-Rendje-kozepkeresztje-aranyozott-zomancozott-bronz-kituntetes~II3577421",
+      "image_url": "https://static.darabanth.com/images/3/5/3577421.jpg",
+      "object_reference": "46th Major Auction lot 30877",
+      "dimensions": [
+        592,
+        1024
+      ],
+      "sha256": "afccd3fb9f9a90b7608e0e6d8f1b108fc962631ca8c218f10c36d383378b022b",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    },
+    {
+      "key": "dar46-30877-view2",
+      "record_id": "DAR46-30877",
+      "view_key": "DAR46-30877-VIEW2",
+      "local_path": "assets/raw/darabanth_46_faleristics_20261005/3577421_2_3577421a.jpg",
+      "source_page": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673/Spanyolorszag-1935-k-Irgalmassag-Rendje-kozepkeresztje-aranyozott-zomancozott-bronz-kituntetes~II3577421",
+      "image_url": "https://static.darabanth.com/images/3/5/3577421a.jpg",
+      "object_reference": "46th Major Auction lot 30877",
+      "dimensions": [
+        583,
+        1024
+      ],
+      "sha256": "4988fca24ec97fd205a083825d58ab4a75a939ff557fa189ff2abdd6cb4c2099",
+      "decoded": true,
+      "visually_checked": true,
+      "artist": "Darabanth Auction House",
+      "license": "No publication license located; private research only",
+      "publication_eligible": false
+    }
+  ]
+}

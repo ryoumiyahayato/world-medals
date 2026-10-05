@@ -1,0 +1,11 @@
+{
+  "id":"uk-edward-vii-coronation-medal-date-1901-1902",
+  "topic":"Edward VII Coronation Medal date",
+  "claims":[
+    {"source":"The National Archives guide","url":"https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/","claim":"Guide refers to Coronation Medals 1901 and 1911.","accessed":"2026-10-05"},
+    {"source":"National Army Museum","url":"https://www.nam.ac.uk/explore/coronation-medals","claim":"Edward VII medal dated 26 June 1902; ceremony was postponed to 9 August 1902.","accessed":"2026-10-05"},
+    {"source":"National Army Museum object record 1963-10-104--14","url":"https://collection.nam.ac.uk/detail.php?acc=1963-10-104--14","claim":"Edward VII Coronation Medal; silver issue with 26 June 1902 date; bronze issue to selected NCOs and other ranks is described.","accessed":"2026-10-05"}
+  ],
+  "handling":"Keep the medal family under Edward VII name. Record 1902 as NAM-supported medal date and preserve TNA 1901 wording as a source conflict; do not silently overwrite or treat ceremony delay date as award issue date.",
+  "status":"open; seek primary warrant/Gazette or stronger official record during merge"
+}

@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-10-05",
+  "images": [
+    {
+      "key": "aut-em-8515397681429-view1",
+      "record_id": "AUT-EM-8515397681429",
+      "view_key": "AUT-EM-8515397681429-VIEW1",
+      "local_path": "assets/raw/emedals_austria_imperial_20261005/8515397681429_03.jpg",
+      "source_page": "https://www.emedals.com/products/a-scarce-1813-14-austrian-army-cross-with-gold-rim-loop-eu6818",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/img_03_a879a5bf-e11a-43df-bb0e-bbf5979f2cb7.jpg?v=1692849056",
+      "object_reference": "8515397681429",
+      "artist": "eMedals",
+      "license": "Copyright eMedals; local research only",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "sha256": "6b97cc4eef55a18a343bf3852d0a26001e93886159618c9ded2bf179e8fd2d7b",
+      "decoded": true,
+      "visually_checked": true,
+      "visual_review": "Full cross outline, wreath and suspension visible; inscriptions distinguish front and reverse; watermark retained",
+      "publication_eligible": false
+    },
+    {
+      "key": "aut-em-8515397681429-view2",
+      "record_id": "AUT-EM-8515397681429",
+      "view_key": "AUT-EM-8515397681429-VIEW2",
+      "local_path": "assets/raw/emedals_austria_imperial_20261005/8515397681429_04.jpg",
+      "source_page": "https://www.emedals.com/products/a-scarce-1813-14-austrian-army-cross-with-gold-rim-loop-eu6818",
+      "image_url": "https://cdn.shopify.com/s/files/1/0713/9105/2053/files/img_02_a8a09425-a96d-466d-8e4e-b4cca897443a.jpg?v=1692849062",
+      "object_reference": "8515397681429",
+      "artist": "eMedals",
+      "license": "Copyright eMedals; local research only",
+      "dimensions": [
+        1000,
+        750
+      ],
+      "sha256": "901f42b861e08a87ed5d4297d4f38f598c4c919e13dc71b1ef3f3dfd76cf32dd",
+      "decoded": true,
+      "visually_checked": true,
+      "visual_review": "Full cross outline, wreath and suspension visible; inscriptions distinguish front and reverse; watermark retained",
+      "publication_eligible": false
+    }
+  ]
+}

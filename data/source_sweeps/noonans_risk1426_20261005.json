@@ -1,41 +1,197 @@
 {
   "as_of": "2026-10-05",
   "source_id": "NOONANS-RISK-1426",
+  "source_name": "Noonans special collection",
   "root": "https://www.noonans.co.uk/archive/special-collections/1426/",
-  "archive_discovery": "https://www.noonans.co.uk/archive/past-catalogues/",
+  "archive_discovery": "https://www.noonans.co.uk/archive/special-collections/",
   "collection_title": "The Collection of the late James C. Risk, C.V.O., F.S.A.",
   "auction_date": "2026-01-14",
   "declared_collection_lots": 227,
-  "fully_read_object_pages": 1,
-  "raw_candidates": 1,
-  "images_downloaded": 0,
-  "publication_images": 0,
-  "status": "partial; source access blocked for bulk",
-  "scope": "Full 227-lot special collection intended; not exhausted",
-  "boundary": "First listing shows 40 lots per page; final-page or paging query not yet verified; do not invent remaining page URLs",
-  "failures": [
+  "scope": "One bounded Noonans special collection only; not the whole Noonans auction archive.",
+  "coverage_status": "partial_access_limited",
+  "source_counts": {
+    "planned": 1,
+    "completed": 0,
+    "partial": 1,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "pagination": {
+    "listing_page_count_visible": 6,
+    "rows_per_page": 40,
+    "fully_read_pages": 1,
+    "first_page_lot_range": "101–140",
+    "page_1_url": "https://www.noonans.co.uk/archive/special-collections/1426/?sort=Chronological",
+    "unread_page_offsets": [
+      40,
+      80,
+      120,
+      160,
+      200
+    ],
+    "unread_lot_rows": 187
+  },
+  "object_pages": {
+    "fully_read_lot_numbers": [
+      101,
+      102,
+      103
+    ],
+    "failed_fetch_lot_numbers": [
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "remaining_lot_pages_not_read": 224,
+    "note": "Remaining count out of 227 after 3 fully read pages; selected search-index snippets do not count as object-page reads."
+  },
+  "search_index_discoveries": {
+    "lot_numbers": [
+      104,
+      105,
+      141,
+      143,
+      209
+    ],
+      "note": "104 and 105 overlap the first listing page; 141, 143 and 209 are additional lot-number discoveries. Lots 104, 105, 143 and 209 were saved as search excerpts. The web search result for lot 141 returned a full page body, saved separately, but the object page itself was not directly opened; none of these are counted as direct object-page reads."
+  },
+  "candidate_counts": {
+    "raw_candidate_records": 48,
+    "unique_lot_numbers": 43,
+    "award_families_merged": 0,
+    "body_families": 0,
+    "variants": 0,
+    "local_images": 0,
+    "images_downloaded": 0,
+    "images_decoded": 0,
+    "images_visually_reviewed": 0,
+    "unresolved_known_lot_candidates": 43,
+    "unscanned_listing_lot_rows": 187
+  },
+  "status": "First listing page, three directly retrieved object pages, and selected search-index discovery records are captured; source scope remains incomplete.",
+  "boundary": "Noonans's indexed collection page reports 227 lots across six pagination pages. The cached first chronological page covers lots 101–140. Direct access to pages 2–6 and subsequent object pages timed out or failed; the site's browser session displayed Cloudflare security verification. No bypass was attempted. A web search result exposed a full-looking text body for lot 141, but its object page was not directly opened, so it remains a search-index-only discovery. All other Noonans collection categories and lots remain outside this sweep.",
+  "access_log": [
     {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/",
-      "method": "requests",
-      "status": 403,
-      "reason": "Cloudflare Just a moment page; no bypass attempted"
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?sort=Chronological",
+      "method": "web indexed page open",
+      "result": "success; 227 lots found; first 40 rows and six page links captured",
+      "cache": "sources/cache/noonans_risk1426_20261005/special_collection_listing_page1_web.txt"
     },
     {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516290/",
-      "method": "web",
-      "reason": "timeout"
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?offset=40&sort=Chronological",
+      "method": "web open",
+      "result": "timeout"
     },
     {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516292/",
-      "method": "web",
-      "reason": "timeout"
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?offset=80&sort=Chronological",
+      "method": "web open",
+      "result": "timeout or inaccessible"
     },
     {
-      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516620/",
-      "method": "web",
-      "reason": "timeout"
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?offset=120&sort=Chronological",
+      "method": "web open",
+      "result": "timeout"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?offset=160&sort=Chronological",
+      "method": "web open",
+      "result": "timeout or inaccessible"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/?offset=200&sort=Chronological",
+      "method": "web open",
+      "result": "timeout"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516009/?sort=Chronological",
+      "method": "web indexed object page",
+      "result": "success; lot 101 description and image-link metadata read",
+      "cache": "sources/cache/noonans_risk1426_20261005/object_pages_101_102_web.txt"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516089/?sort=Chronological",
+      "method": "web indexed object page",
+      "result": "success; lot 102 description and image-link metadata read",
+      "cache": "sources/cache/noonans_risk1426_20261005/object_pages_101_102_web.txt"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/515971/?sort=Chronological",
+      "method": "web indexed object page",
+      "result": "success; lot 103 description and image-link metadata read",
+      "cache": "sources/cache/noonans_risk1426_20261005/object_page_103_web.txt"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/lot-archive/results/516586/",
+      "method": "web search result content",
+      "result": "Full-looking lot 141 page body returned in search result; direct object-page open was not performed and this is not counted as an object-page read",
+      "cache": "sources/cache/noonans_risk1426_20261005/search_result_lot_141_web.txt"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516961/?sort=Chronological",
+      "method": "web click from collection page",
+      "result": "timeout; lot 104"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516974/?sort=Chronological",
+      "method": "web click from collection page",
+      "result": "timeout; lot 105"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516633/?sort=Chronological",
+      "method": "web click from collection page",
+      "result": "timeout; lot 106"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516248/?sort=Chronological",
+      "method": "web click from collection page",
+      "result": "timeout; lot 107"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/archive/special-collections/1426/516290/?sort=Chronological",
+      "method": "web click from collection page",
+      "result": "timeout; lot 108"
+    },
+    {
+      "resource": "https://media.noonans.co.uk/database_images/Cataloguing%20System/Internet%20-%20Lots%20%28Images%29/617866/Internet%20Image%201_w500h500.jpg",
+      "method": "web click from lot 101 image link",
+      "result": "media CDN timeout; not downloaded or decoded"
+    },
+    {
+      "resource": "https://media.noonans.co.uk/database_images/Cataloguing%20System/Internet%20-%20Lots%20%28Images%29/617866/Internet%20Image%202_w500h500.jpg",
+      "method": "web click from lot 101 image link",
+      "result": "media CDN timeout; not downloaded or decoded"
+    },
+    {
+      "resource": "https://www.noonans.co.uk/auctions/calendar/854/download-pdf/",
+      "method": "web open",
+      "result": "reported PDF content length 59,581,959 bytes; web tool refused extraction as too large; not downloaded"
     }
   ],
-  "remaining_objects_min": 226,
-  "next_action": "Resume ordinary public access after source state changes, discover visible pagination and exhaust all 227 object pages; use alternate open photos for facts."
+  "rights": {
+    "image_rightsholder": "Noonans Mayfair Ltd",
+    "terms_as_shown": "Personal use only; no commercial use or resale without permission.",
+    "publication_status": "No images saved; no publication right assumed."
+  },
+  "files": {
+    "listing_cache": "sources/cache/noonans_risk1426_20261005/special_collection_listing_page1_web.txt",
+    "object_page_cache": [
+      "sources/cache/noonans_risk1426_20261005/object_pages_101_102_web.txt",
+      "sources/cache/noonans_risk1426_20261005/object_page_103_web.txt"
+    ],
+    "failed_fetch_cache": "sources/cache/noonans_risk1426_20261005/batch_104_108_web_capture.json",
+    "search_excerpt_cache": "sources/cache/noonans_risk1426_20261005/search_result_snippets_105_143_209.jsonl",
+    "search_page_body_cache": "sources/cache/noonans_risk1426_20261005/search_result_lot_141_web.txt",
+    "raw_candidate_files": [
+      "data/raw_candidates/noonans_risk1426_20261005.jsonl",
+      "data/raw_candidates/noonans_risk1426_object_pages_101_103_20261005.jsonl",
+      "data/raw_candidates/noonans_risk1426_search_snippets_20261005.jsonl",
+      "data/raw_candidates/noonans_risk1426_search_snippet_lot104_20261005.jsonl",
+      "data/raw_candidates/noonans_risk1426_search_index_lot141_20261005.jsonl"
+    ],
+    "normalized_drafts": [],
+    "image_directory": "Not created; no image file was downloaded."
+  },
+  "next_action": "Keep this Noonans checkpoint partial. As requested by the parent task, do not retry the blocked pagination or object pages in this batch; proceed with the next accessible source. Resume these remaining lots only when ordinary public access is available, then verify image rights and complete files before any catalogue use."
 }

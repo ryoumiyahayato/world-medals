@@ -14,7 +14,7 @@ specs=[
 ('9515819434261','AUT-FAM-MERIT-CROSS-1850','功绩十字章','Verdienstkreuz','1850年2月16日设立；来源称本件为1875–1914年版','金级、无冠；补配绶带；来源制造商描述冲突，待考',[2,3],'austrian-empire'),
 ('9490202919189','AUT-FAM-MERIT-CROSS-1850','功绩十字章','Verdienstkreuz','1850年2月16日设立；本件约1880年（来源估年）','金级、有冠；来源称18K金及珐琅；补配绶带',[2,1],'austrian-empire'),
 ('9486246936853','AUT-FAM-RED-CROSS-HONOUR-1914','红十字荣誉章','Ehrenzeichen vom Roten Kreuz','1914年8月14日设立；本件制作年代待考','二级十字章、战争装饰；来源称银质及珐琅',[1,2],'austro-hungary'),
-('8522061873429','AUT-FAM-ARMY-CROSS-1813-14','1813—1814年军队十字章','Armeekreuz für 1813/14','1814年5月13日设立','炮铜十字章；来源称铜质镀金；具体实物年代待考',[2,3],'austrian-empire')]
+('8522061873429','AUT-FAM-ARMY-CROSS-1813-14','1813—1814年军队十字章','Armeekreuz für 1813/14','1814年设立；具体日月有来源冲突，待考','炮铜十字章；来源称铜质镀金；具体实物年代待考',[2,3],'austrian-empire')]
 research=load('data/staging/emedals_austria_imperial_20261005/review_candidates.json');research={x['object_id']:x for x in research}
 integration=collections.defaultdict(list)
 for r in records:

@@ -1,0 +1,236 @@
+{
+  "as_of": "2026-10-05",
+  "records": [
+    {
+      "id": "AUT-EM-8515397681429",
+      "family": "AUT-FAM-ARMY-CROSS-1813-14",
+      "country_zh": "奥地利帝国",
+      "name": "1813—1814年军队十字章",
+      "original": "Armeekreuz für 1813/14",
+      "date": "1814年设立；本件制作年代待考",
+      "variant": "铜质章体；金质包边及悬挂环（按来源描述）；顶部有印记；32×33.5毫米",
+      "views": [
+        {
+          "key": "AUT-EM-8515397681429-VIEW1",
+          "label": "完整正面"
+        },
+        {
+          "key": "AUT-EM-8515397681429-VIEW2",
+          "label": "完整背面（同一拍品）"
+        }
+      ],
+      "source_ids": [
+        "AUT-EM-8515397681429-SOURCE"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "publication_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.emedals.com/products/a-scarce-1813-14-austrian-army-cross-with-gold-rim-loop-eu6818",
+          "object_id": "8515397681429",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Description 181314 Austrian Army Cross - (KANONENKREUZ), in bronze, rim and suspension loop in Gold, top of the Cross hallmarked, 32mm(w) x 33.5mm(h), with original ribbon, in very fine condition; scarce version (Marko 357 d)."
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-TERRITORIAL-FORCE-WAR-MEDAL-TNA-TEXT-20261005",
+      "family": "GB-UK-TERRITORIAL-FORCE-WAR-MEDAL",
+      "country_zh": "英国／大英帝国",
+      "name": "领土军战争奖章",
+      "original": "Territorial Force War Medal",
+      "date": "一战时期；设立日期待考",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: Territorial Force War Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-DIAMOND-JUBILEE-MEDAL-1897-TNA-TEXT-20261005",
+      "family": "GB-UK-DIAMOND-JUBILEE-MEDAL-1897",
+      "country_zh": "英国／大英帝国",
+      "name": "维多利亚女王钻禧奖章",
+      "original": "Queen Victoria Diamond Jubilee Medal",
+      "date": "1897",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: Queen Victoria Diamond Jubilee Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-EDWARD-VII-CORONATION-MEDAL-TNA-TEXT-20261005",
+      "family": "GB-UK-EDWARD-VII-CORONATION-MEDAL",
+      "country_zh": "英国／大英帝国",
+      "name": "爱德华七世加冕奖章",
+      "original": "King Edward VII Coronation Medal",
+      "date": "1902年加冕纪念；来源年份冲突待考",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: King Edward VII Coronation Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-GEORGE-V-CORONATION-MEDAL-1911-TNA-TEXT-20261005",
+      "family": "GB-UK-GEORGE-V-CORONATION-MEDAL-1911",
+      "country_zh": "英国／大英帝国",
+      "name": "乔治五世加冕奖章",
+      "original": "King George V Coronation Medal",
+      "date": "1911",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: King George V Coronation Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1903-TNA-TEXT-20261005",
+      "family": "GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1903",
+      "country_zh": "英属印度",
+      "name": "德里杜尔巴奖章",
+      "original": "Delhi Durbar Medal",
+      "date": "1903",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: Delhi Durbar Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1911-TNA-TEXT-20261005",
+      "family": "GB-BRITISH-INDIA-DELHI-DURBAR-MEDAL-1911",
+      "country_zh": "英属印度",
+      "name": "德里杜尔巴奖章",
+      "original": "Delhi Durbar Medal",
+      "date": "1911",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: Delhi Durbar Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-GEORGE-V-SILVER-JUBILEE-MEDAL-1935-TNA-TEXT-20261005",
+      "family": "GB-UK-GEORGE-V-SILVER-JUBILEE-MEDAL-1935",
+      "country_zh": "英国／大英帝国",
+      "name": "乔治五世银禧奖章",
+      "original": "King George V Silver Jubilee Medal",
+      "date": "1935",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: King George V Silver Jubilee Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-GEORGE-VI-CORONATION-MEDAL-1937-TNA-TEXT-20261005",
+      "family": "GB-UK-GEORGE-VI-CORONATION-MEDAL-1937",
+      "country_zh": "英国／大英帝国",
+      "name": "乔治六世加冕奖章",
+      "original": "King George VI Coronation Medal",
+      "date": "1937",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: King George VI Coronation Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    },
+    {
+      "id": "GB-UK-POLAR-MEDAL-TNA-TEXT-20261005",
+      "family": "GB-UK-POLAR-MEDAL",
+      "country_zh": "英国／大英帝国",
+      "name": "极地奖章",
+      "original": "Polar Medal",
+      "date": "1904年起；具体版型待考",
+      "variant": "有记载未配图；具体等级／版型待考",
+      "views": [],
+      "source_ids": [
+        "TNA-BRITISH-CAMPAIGN-SERVICE-20261005"
+      ],
+      "html_eligible": true,
+      "body_eligible": false,
+      "evidence": [
+        {
+          "source_page": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-military-campaign-and-service-medals/",
+          "accessed_at": "2026-10-05",
+          "source_excerpt": "Named award: Polar Medal; institution date and specimen-specific variant not inferred from medal rolls"
+        }
+      ]
+    }
+  ]
+}

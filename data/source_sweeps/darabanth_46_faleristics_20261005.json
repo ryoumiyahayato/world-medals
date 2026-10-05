@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "darabanth_46_faleristics_20261005",
+  "source_id": "user_20261005_darabanth",
+  "source_status": "completed_bounded_batch",
+  "classification_status": "provisional_review_complete; authority_and_identity_crosswalks_pending",
+  "review_counts": {
+    "lot_candidates": 53,
+    "lot_pages_opened": 53,
+    "image_files": 114,
+    "images_downloaded_and_decoded": 114,
+    "visual_reviewed_images": 114,
+    "exact_duplicate_image_hash_groups": 0,
+    "family_hypotheses": 31,
+    "variant_hypotheses": 53,
+    "all_category_candidates_classified": 53
+  },
+  "family_hypothesis_counts": {
+    "possible_existing_family_crosswalks": 3,
+    "provisional_formal_or_affiliated_award_families": 21,
+    "related_annex_or_non_medal_families": 10
+  },
+  "editorial_category_lot_counts": {
+    "affiliated_award_candidate": 13,
+    "association_badge_annex": 3,
+    "award_artifact_non_medal": 1,
+    "commemorative_medal_annex": 1,
+    "event_commemorative_medal": 1,
+    "formal_award_candidate": 26,
+    "local_commemorative_medal": 1,
+    "membership_or_affiliation_badge_annex": 3,
+    "organizational_badge_annex": 1,
+    "recognition_badge_candidate": 1,
+    "religious_order_award_candidate": 2
+  },
+  "crosswalk_lots_to_existing_family_candidates": {
+    "HUN-ORDER-OF-RED-BANNER-OF-LABOUR": [
+      "30825"
+    ],
+    "HUN-ORDER-OF-MERIT-HUNGARIAN-REPUBLIC": [
+      "30831"
+    ],
+    "HUN-BORDER-GUARDS-SERVICE-DECORATION": [
+      "30836"
+    ]
+  },
+  "image_quality_and_rights": {
+    "longest_edge_max_px": 1024,
+    "images_at_or_above_1200px": 0,
+    "rights": "No explicit reuse license captured; retain in local research cache only.",
+    "publication_clearance": "not established"
+  },
+  "date_policy": "Catalogued object/design dates remain seller date candidates; auction dates are not awards dates.",
+  "polity_policy": "Treat 1910-era local Hungarian objects as Kingdom-era/local context rather than an Austro-Hungarian state award. Modern Hungary entries remain assigned to their observed republic/People's Republic period candidates; no successor-state conflation.",
+  "coverage_boundary": {
+    "category": "46th Major Auction / Numismatics / Faleristics: medals, orders, badges",
+    "category_url": "https://www.darabanth.com/en/46-Major-auction/47.1/Numismatics/Faleristics-medals-orders-badges~19673",
+    "pages_processed": 5,
+    "pages_planned": 5,
+    "lots_first_last": [
+      30825,
+      30877
+    ],
+    "lots_processed": 53,
+    "exhaustion": "All five pages and all 53 exposed lot pages processed; no category pagination remains within this bounded auction category."
+  },
+  "remaining_work": [
+    "Independent official/specialist confirmation of names, awarding authorities, statutory status and official grade structures.",
+    "Parent merge review for three possible existing Hungary family crosswalks.",
+    "Determine image reuse/publication license before promoting any Darabanth image to public HTML.",
+    "Review body grade/metal claims against non-auction evidence; hallmarks and color are not generalized beyond seller wording.",
+    "Only assign obverse/reverse/case roles where specifically recorded; no back view is presumed."
+  ],
+  "paths": {
+    "raw_candidates": "data/raw_candidates/darabanth_46_faleristics_20261005.jsonl",
+    "lot_review": "data/source_sweeps/darabanth_46_faleristics_20261005_lot_review.jsonl",
+    "families": "data/normalized_drafts/darabanth_46_faleristics_20261005_families.jsonl",
+    "variants": "data/normalized_drafts/darabanth_46_faleristics_20261005_variants.jsonl",
+    "image_cache": "assets/raw/darabanth_46_faleristics_20261005",
+    "contact_sheet_review": "tmp/darabanth_46_faleristics_20261005_visual_review/review_summary.json"
+  }
+}

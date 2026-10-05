@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-10-05",
+  "batch": "darabanth_46_faleristics_20261005",
+  "status": "bounded_source_sweep_complete_review_pending",
+  "source_boundary": "Darabanth 46th Major Auction / Faleristics category, 5 pages, lots 30825–30877.",
+  "completed": {
+    "category_pages": 5,
+    "category_pages_planned": 5,
+    "object_pages": 53,
+    "object_pages_planned": 53,
+    "original_images_downloaded": 114,
+    "original_images_decoded": 114,
+    "images_visually_reviewed": 114,
+    "provisional_family_hypotheses": 31,
+    "provisional_variant_hypotheses": 53,
+    "possible_existing_family_crosswalks": 3
+  },
+  "partial": {
+    "independent_award_authority_and_grade_verification": "pending",
+    "parent_merge_and_existing_family_dedup": "pending",
+    "publication_rights_clearance": "not located"
+  },
+  "not_started": {
+    "whole_site_other_categories_and_auctions": "not included in this bounded batch",
+    "official_source_crosschecks_for_all_provisional_families": "pending"
+  },
+  "counts_not_claimed_as_accepted": {
+    "net_new_award_families": 0,
+    "public_body_families": 0,
+    "publication_cleared_photos": 0
+  },
+  "unresolved_candidate_count": 53,
+  "unresolved_family_decisions_count": 31,
+  "next_steps": [
+    "Parent review all 30 family and 52 variant hypotheses; resolve crosswalks to existing Hungarian families.",
+    "Source official rules or institutional references for awards with unclear issuer/status/grades.",
+    "Obtain or confirm image publication permission before any public image promotion.",
+    "If continuing Darabanth, select a separately bounded category/auction only after this batch is merged."
+  ],
+  "files": {
+    "source_matrix": "data/source_atlas/darabanth_46_faleristics_20261005_source_matrix.json",
+    "raw_candidates": "data/raw_candidates/darabanth_46_faleristics_20261005.jsonl",
+    "lot_review": "data/source_sweeps/darabanth_46_faleristics_20261005_lot_review.jsonl",
+    "family_drafts": "data/normalized_drafts/darabanth_46_faleristics_20261005_families.jsonl",
+    "variant_drafts": "data/normalized_drafts/darabanth_46_faleristics_20261005_variants.jsonl",
+    "sweep": "data/source_sweeps/darabanth_46_faleristics_20261005.json"
+  }
+}
