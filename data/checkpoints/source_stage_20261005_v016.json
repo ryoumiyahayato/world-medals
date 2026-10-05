@@ -1,6 +1,6 @@
 {
   "as_of": "2026-10-05",
-  "status": "reviewed_built_push_pending_goal_active",
+  "status": "published_verified_goal_active",
   "new_main_families": 1,
   "new_appendix_families": 10,
   "new_variant_rows": 76,
@@ -16,10 +16,15 @@
     "failed": 0,
     "remaining": 0
   },
-  "next": "VerifyGitHubstagepush/release/CI;integrateNoonans,Darabanth,UKarchivebatches;continueeMedalsfamily-variantimagephaseandremainingwebsitequeues",
+  "next": "Review eMedals object evidence and image queue; integrate bounded Darabanth, Noonans and UK archive drafts",
   "limitations": [
     "Currentnewphotosresearchonly;APKpreservesthefactswithoutrestrictedphotos",
     "Wholewebsiteobjectiveincomplete;sourceaccessboundariesretained",
     "PrivateGitHubreleasesnotreadablebyunauthenticatedappclients"
-  ]
+  ],
+  "github_release": "https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-v0.016",
+  "github_asset_digest_verified": true,
+  "ci_run": 37282280247,
+  "ci_conclusion": "success",
+  "apk_zip_crc_verified": true
 }
