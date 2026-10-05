@@ -4,7 +4,7 @@ R=Path(__file__).resolve().parents[1]
 def save(p,x): (R/p).write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 p=R/'data/source_atlas/user_supplied_europe_global_20261005_source_matrix.json';matrix=json.loads(p.read_text(encoding='utf-8'))
 for s in matrix['sources']:
-    if s['source_name']=='london_medal_company':
+    if s['source_name']=='london_medals':
         s.update(status='partial',last_checked='2026-10-05',coverage_boundary='British Miscellaneous page1: 28 listings, 10 readable object pages; page2 and 17 objects timed out; one object 404. Full British/World categories remain queued.')
     if s['source_name']=='spink':
         s.update(status='partial',last_checked='2026-10-05',coverage_boundary='Auction 26001: all 19 list pages and 375 object pages cached; image download/review and family normalization ongoing. Not entire Spink archive.')
@@ -13,6 +13,16 @@ for s in matrix['sources']:
     status=s['status'];k='partial' if status.startswith('partial') else status
     if k in counts:counts[k]+=1
 matrix['coverage_summary']=counts;save(p.relative_to(R),matrix)
+atlas=json.loads((R/'data/source_atlas/global_source_atlas.json').read_text(encoding='utf-8'))
+for s in atlas['sources']:
+    match=next((x for x in matrix['sources'] if x['source_id']==s['source_id']),None)
+    if match and match['source_name'] in ('london_medals','spink'):
+        s.update(status=match['status'],last_checked=match['last_checked'],coverage_boundary=match['coverage_boundary'])
+ac=dict(planned=len(atlas['sources']),completed=0,partial=0,blocked=0,not_started=0)
+for s in atlas['sources']:
+    k='partial' if s['status'].startswith('partial') else s['status']
+    if k in ac:ac[k]+=1
+atlas['coverage']=ac;save('data/source_atlas/global_source_atlas.json',atlas)
 apk=R/'mobile/build/world-medals-0.018.apk'
 with zipfile.ZipFile(apk) as z:
     assert z.testzip() is None

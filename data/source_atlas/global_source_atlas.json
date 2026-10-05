@@ -6,9 +6,9 @@
   "coverage": {
     "planned": 647,
     "completed": 176,
-    "partial": 74,
+    "partial": 76,
     "blocked": 18,
-    "not_started": 379
+    "not_started": 377
   },
   "scopes": [
     {
@@ -10319,9 +10319,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "British Miscellaneous page1: 28 listings, 10 readable object pages; page2 and 17 objects timed out; one object 404. Full British/World categories remain queued.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],
@@ -10430,9 +10430,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted",
+      "coverage_boundary": "Auction 26001: all 19 list pages and 375 object pages cached; image download/review and family normalization ongoing. Not entire Spink archive.",
       "scope_ids": [
         "user_supplied_europe_global_20261005"
       ],

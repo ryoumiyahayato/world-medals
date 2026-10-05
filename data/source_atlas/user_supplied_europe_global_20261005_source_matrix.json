@@ -165,9 +165,9 @@
       "has_pagination": true,
       "download_method": "cached bounded classification/object-page sweep",
       "priority": 2,
-      "status": "not_started",
+      "status": "partial",
       "last_checked": "2026-10-05",
-      "coverage_boundary": "Registered source; no claim that entire site is exhausted"
+      "coverage_boundary": "British Miscellaneous page1: 28 listings, 10 readable object pages; page2 and 17 objects timed out; one object 404. Full British/World categories remain queued."
     },
     {
       "source_id": "user_20261005_legion",
@@ -271,8 +271,8 @@
   "coverage_summary": {
     "planned": 14,
     "completed": 2,
-    "partial": 10,
+    "partial": 11,
     "blocked": 1,
-    "not_started": 1
+    "not_started": 0
   }
 }
