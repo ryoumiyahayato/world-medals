@@ -1,0 +1,18 @@
+{
+  "source": "OneBid RDA auction27 category9246",
+  "accessed_at": "2026-10-05",
+  "category_url": "https://one.bid/en/auction/3987681/9246/Orders-Decorations-Badges-Militaria-Austro-Hungary",
+  "expected_lots": 20,
+  "object_pages_opened": 20,
+  "category_pages": 1,
+  "raw_candidates": 20,
+  "formal_award_lots": 7,
+  "mixed_groups": 2,
+  "related_annex_lots": 7,
+  "non_award_lots": 4,
+  "new_body_families": 0,
+  "new_body_variants": 0,
+  "complete_original_images_downloaded": 0,
+  "boundary": "All20 listed object pages opened. Browser-readable descriptions cached. Direct object-page HTTP403; web-parser cart thumbnail tested HTTP200, decodable300x300, not treated as full original. Image/variant stage partial.",
+  "next": "Resolve original gallery files through permitted public source, then visually verify grade and match existing families; alternatively open-licensed full views."
+}

@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-09-29",
+  "scope": "德意志诸邦与德国联邦奖励：用户提供三站对照补齐",
+  "status": "batch_delivered_source_coverage_partial",
+  "target_version": "0.008",
+  "new_pictured_variant_rows_ready": 48,
+  "reviewed_display_views_ready": 50,
+  "source_matrix": "data/source_atlas/german_user_sources_20260929_source_matrix.json",
+  "reviewed_views": "data/staging/german_completion/views_final.json",
+  "family_facts": "data/staging/german_completion/families_final.json",
+  "merge_script": "scripts/merge_german_completion.py",
+  "image_script": "scripts/prepare_german_views.py",
+  "limitations": [
+    "三站尚未全站耗尽；EH要求自动读取事先许可，已停止抓取",
+    "Ordensmuseum禁止未经许可复制正文/图片，本批仅自写事实摘要与官方来源",
+    "die-deutschen-orden.de图片只允许私人非商业复制，本批只制作本地研究版本，不发布公网",
+    "Commons出现HTTP429，保留未取得图片队列",
+    "SHM两条广义搜索部分完成，错配图库与不完整原图已排除",
+    "未在实体Android手机上安装验证",
+    "未向GitHub或公网发布；当前含仅限私人非商业复制的图片"
+  ],
+  "remaining_actions": [
+    "按data/queues/german_completion_next.json续扫Bremen24页有界目录",
+    "优先为35个正式章种与10个附编主题补可靠完整图片",
+    "不重复下载已缓存图片；保持权限限制和错配排除记录"
+  ],
+  "completed_at": "2026-09-30",
+  "version": "0.008",
+  "statistics": {
+    "verified_families": 50,
+    "related_topics": 10,
+    "new_families": 50,
+    "new_pictured_families": 15,
+    "pictured_variant_rows": 48,
+    "unpictured_records": 35,
+    "display_views": 50,
+    "original_files": 50
+  },
+  "source_plan": {
+    "planned": 5,
+    "completed": 0,
+    "partial": 5,
+    "not_started": 0
+  },
+  "raw_inventory": {
+    "ehrenzeichen_object_pages_read": 16,
+    "ehrenzeichen_unread_object_pages": 1803,
+    "ordensmuseum_metadata_nodes": 174,
+    "ordensmuseum_reviewed_content_nodes": 42,
+    "die_deutschen_object_pages_read": 36,
+    "die_deutschen_unread_object_pages": 2620,
+    "commons_file_candidates": 53,
+    "shm_mixed_object_candidates": 514
+  },
+  "unresolved_candidates": {
+    "unread_object_pages_in_two_professional_catalogues": 4423,
+    "commons_remaining_file_pages": 42,
+    "note": "混合馆藏、元数据节点、版型页不等同章种数量；EH自动抓取已停，不能继续原站自动扫描。"
+  },
+  "verification": [
+    "Search aliases and encyclopedia grouping tests passed",
+    "Mobile 8875 rows checked; no duplicate IDs or unmapped volumes",
+    "83 new main rows = 50 families; 48 pictured rows grouped correctly",
+    "All 50 new source and APK display files decoded; source hashes and image licenses present",
+    "390x844 browser preview: new encyclopedia introduction and real obverse/reverse photos displayed",
+    "APK v2/v3 signature verified"
+  ],
+  "files": [
+    "index.html",
+    "mobile/build/world-medals-0.008.apk",
+    "data/volumes/german_completion_20260929.json",
+    "data/volumes/german_completion_related_20260929.json"
+  ],
+  "apk": {
+    "path": "mobile/build/world-medals-0.008.apk",
+    "bytes": 203184952,
+    "sha256": "2070a155ec6e634d493abbfe039b33e1a0340e9093e215fcf8d44c5fd130cd13",
+    "signature": "v2/v3 verified"
+  }
+}

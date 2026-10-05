@@ -1,0 +1,166 @@
+{
+  "as_of": "2026-10-03",
+  "items": [
+    {
+      "number": 15,
+      "sha256": "e264aabbfc4a9f48adb427ee35471d28a83ec424436125d4da67fd2b96f7f67d",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "多枚保卫奖章共有背文；不能仅凭通用铭文关联某一正面"
+    },
+    {
+      "number": 52,
+      "sha256": "d352324b15f77adb7f05567de624e1040b3861eda028a2c480190525dd6f4caf",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "出现РСФСР国徽而对应奖励为苏联；需核原始来源与图式"
+    },
+    {
+      "number": 53,
+      "sha256": "e1745e35be248b7241fe8e75b336940a8c9c01743d426d1eb3afbf135468b34b",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "正面52归属待核，暂不配对"
+    },
+    {
+      "number": 100,
+      "sha256": "8977b6e452038b7112dea41f952054c854e7ac33cf8e59ecff64bb6a973c8688",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "旗面颜色与已核第二型图式不符，修复颜色待核"
+    },
+    {
+      "number": 109,
+      "sha256": "f0c5eb26e3a5c8dc05220721a9b65021df8a90856b2cd73036196c3ae89b5ef3",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "背面缺前图及制造结构信息，无法判定版型"
+    },
+    {
+      "number": 110,
+      "sha256": "8307847f68004bc2c4bbd2b71c1f43b9e58520e23db056d84b397591e87b09c8",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "列宁早期背面参考；未确认与98对应的同一版型／实物"
+    },
+    {
+      "number": 111,
+      "sha256": "b43f7b0282c5b4e952421a35217b0bca3c09fc6b909761981677a9db5adea6b9",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "列宁早期背面参考；未确认与101对应的同一版型／实物"
+    },
+    {
+      "number": 125,
+      "sha256": "3a91e3edbd5ad0d6d80900d200c494a416897e48a0c8d206b8e2f06c26c088bc",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "РСФСР数字3前身型需要独立对象依据，先保留待核"
+    },
+    {
+      "number": 133,
+      "sha256": "03c7671f3dbcc39be71c73087ca99be1e3cea7d1e12e0be1ece7a38a33a2ba2c",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "光荣勋章背面；无法确定一级／二级／三级关联"
+    },
+    {
+      "number": 135,
+      "sha256": "e0c779f8d1e083a8de8f66bf3696fe9a9bbe0bd3dc5bd8c8f05394d9222210bb",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "光荣勋章背面；无法确定等级关联"
+    },
+    {
+      "number": 140,
+      "sha256": "4906c6e1edc70933366ca82717bf5ddda3ba6a357d46179cb04fa787720cf326",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "背面有W.MILLER标记，复制／私人制造属性未核"
+    },
+    {
+      "number": 147,
+      "sha256": "b19fa7c2c425d0beecde6039bcfaa76b28612724c093b6b0efb56308d2542ca6",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "单独背面，无法确定纳希莫夫勋章等级关联"
+    },
+    {
+      "number": 149,
+      "sha256": "62cb364056af1e0d189622b0dd26aa31c535cec1be4995d9d443708322e8d266",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "单独早期背面，章种／等级关联未核"
+    },
+    {
+      "number": 155,
+      "sha256": "d9e6a8502c836f5f022c512d8c1e628ff1115856f52eef53a4fb1cccba85bddd",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "背面有S.D.字样，复制或私人制造属性未核"
+    },
+    {
+      "number": 169,
+      "sha256": "85078dfa608a7e3a04fae79af98e1559575dba6faac2f2ec95678a7d96afa3e8",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "苏沃洛夫图式的中心环颜色与标准等级图式存在疑点"
+    },
+    {
+      "number": 170,
+      "sha256": "c34c2238129943df67601897c1bd1fbf855ad2a83732f8bb9ce8be72d01c17ec",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "与169关联未核"
+    },
+    {
+      "number": 172,
+      "sha256": "d76a2b480267bfcfe8dee399b30245e96867eae38970fa5d1f94223b4c1a08db",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "单独指挥勋章背面，等级／章种关联待核"
+    },
+    {
+      "number": 191,
+      "sha256": "990f012c351fc1a87040e478c3f2784825c1fda7a751e34f444f94a972b884de",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "重复正面188之外的单独背面；不新增版型"
+    },
+    {
+      "number": 212,
+      "sha256": "179a0b94f8b4dd48f164ea4354c23eed51e2587eb39a376b5bde1ead08f64fa7",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "非苏联国徽且无СССР铭牌，疑似1992年后俄罗斯型；移至归属待核"
+    },
+    {
+      "number": 213,
+      "sha256": "42af5b9d1b26d09cc083e46f5786de4e1ec80c1b5c4df0d5bd8e43bc495cda85",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "与212归属同待核"
+    },
+    {
+      "number": 227,
+      "sha256": "b43760165a6b9873ebc92a77b7a83051cdb1fe4c9ccc6199b6948d49e5ce2efe",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "没有СССР铭牌，疑似1992年后俄罗斯个人英勇勋章型；不入苏联"
+    },
+    {
+      "number": 228,
+      "sha256": "8e1e133c06d35f326db01e2b365a0abd1f145d71fdd5e1b3fd05474847adee35",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "与227归属同待核"
+    },
+    {
+      "number": 237,
+      "sha256": "8c01ab54daf6a838b8a4b15c80c4cc25d35ecce4fe909ea4ac0c9c18d5a2eb74",
+      "status": "held_for_verification",
+      "duplicate_of": null,
+      "reason": "母亲光荣单独背面，无法确定等级关联"
+    }
+  ]
+}

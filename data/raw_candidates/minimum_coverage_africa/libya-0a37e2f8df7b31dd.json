@@ -1,0 +1,49 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-0a37e2f8df7b31dd",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/order-of-good-workmanship.html",
+  "page_title": "Order of Good Workmanship",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/0a37e2f8df7b31dd.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of Good Workmanship Order awarded to whoever performs a good deed for the people of the Great Jamahiriya, the Arab people, or to mankind. This Order may be awarded to local, regional, and international bodies and organisations that provide valuable services in the fields of culture, public health, environmental protection, and the non-proliferation of lethal arms and weapons of destruction. Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/2/5/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/5/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/2/5/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-c545dbcde4c0cd2e08fd.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "27642dfdb82b677bf8ad5002266161c01647d431e84560ac59cf402bbed0e555",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/5/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-97edb6f2f312040edb68.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "d6bd02aea8a21b7d7a47657758441e084f6bebc9ca70077f88f73e5cf9c7c2ca",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/order-of-good-workmanship.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

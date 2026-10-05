@@ -1,0 +1,87 @@
+{
+  "as_of": "2026-09-30",
+  "scope": "用户指定的英国国防部勋奖章指南全文差集核对",
+  "sources": [
+    {
+      "id": "UK-MOD-GUIDE-COMPLETION-20260930",
+      "url": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility",
+      "type": "official military medal guide",
+      "language": [
+        "en"
+      ],
+      "date_coverage": "第一次世界大战至当前官方列示的奖励；含较早创设的英勇勋章",
+      "image_capability": "53个页面图片地址；52完整图复用，1张伊叙拼图曾下载但裁断章体，未纳入",
+      "pagination": "单页；82个二、三级标题节点已提取",
+      "download_method": "现行HTML单次缓存；53图片地址与旧缓存完全一致，复用原图",
+      "priority": "user_supplied_high",
+      "status": "completed_bounded_page",
+      "last_checked": "2026-09-30",
+      "coverage_boundary": "该URL公开可见的完整指南及其奖励章种；不代表已穷尽英国全部历史勋赏制度。申请程序、公告重复、外国奖励须单独判类。",
+      "cache": "sources/cache/uk_mod_completion_20260930/page.html",
+      "raw_candidates": "data/raw_candidates/uk_mod_completion_20260930.jsonl"
+    },
+    {
+      "language": [
+        "en"
+      ],
+      "date_coverage": "本批指定对象",
+      "pagination": "有界对象页集合",
+      "download_method": "HTML缓存与来源提供原图，逐图解码及视觉核对",
+      "priority": "gap_image",
+      "last_checked": "2026-09-30",
+      "id": "UK-NAM-6-OBJECTS",
+      "url": "https://collection.nam.ac.uk/",
+      "type": "museum",
+      "status": "completed_bounded_objects",
+      "coverage_boundary": "六个已登记NAM对象页及全部11张对应可见图；不代表全馆目录耗尽",
+      "object_pages": [
+        "https://collection.nam.ac.uk/detail.php?acc=1995-04-2-2",
+        "https://collection.nam.ac.uk/detail.php?acc=2007-03-66-2",
+        "https://collection.nam.ac.uk/detail.php?acc=2002-02-921-1",
+        "https://collection.nam.ac.uk/detail.php?acc=1998-05-27-4",
+        "https://collection.nam.ac.uk/detail.php?acc=1967-02-22--1",
+        "https://collection.nam.ac.uk/detail.php?acc=1989-03-77-2"
+      ],
+      "image_capability": "11张完整实物照，页面标示Out of Copyright"
+    },
+    {
+      "language": [
+        "en"
+      ],
+      "date_coverage": "本批指定对象",
+      "pagination": "有界对象页集合",
+      "download_method": "HTML缓存与来源提供原图，逐图解码及视觉核对",
+      "priority": "gap_image",
+      "last_checked": "2026-09-30",
+      "id": "UK-AUCKLAND-COMMONS",
+      "url": "https://commons.wikimedia.org/",
+      "type": "museum_image_repository",
+      "status": "partial",
+      "coverage_boundary": "皇家红十字一级成功；1953年加冕章已检查候选均不合格，待找新对象",
+      "image_capability": "1张完整CC BY 4.0原图；遮挡、裁断、关盒图排除"
+    },
+    {
+      "language": [
+        "en"
+      ],
+      "date_coverage": "本批指定对象",
+      "pagination": "有界对象页集合",
+      "download_method": "HTML缓存与来源提供原图，逐图解码及视觉核对",
+      "priority": "gap_image",
+      "last_checked": "2026-09-30",
+      "id": "UK-OSM-IRAQ-SYRIA-GAP",
+      "url": "https://www.gov.uk/guidance/medals-campaigns-descriptions-and-eligibility#operational-service-medal---iraq-and-syria",
+      "type": "alternate_image_discovery",
+      "status": "partial",
+      "coverage_boundary": "本批未取得经核验完整章体照片；公开仪式图、绶带图不充当完整实物",
+      "image_capability": "未取得"
+    }
+  ],
+  "source_plan": {
+    "planned": 4,
+    "completed": 2,
+    "partial": 2,
+    "blocked": 0,
+    "not_started": 0
+  }
+}

@@ -1,0 +1,43 @@
+/* A 7:10 publishing page floats above a separate, fully opened book. */
+.is-loading #book-open{visibility:hidden;pointer-events:none}
+#home-book{top:0;bottom:0;height:100dvh!important;transition:none;overflow:hidden;pointer-events:none}
+body.book-opening #home-book,body.book-is-open #home-book{top:0;bottom:0;height:100dvh!important;pointer-events:none}
+body.book-is-open #book-stage,body.book-opening #book-stage{opacity:1;transform:none;transition:none}
+body.book-is-open #book-open{visibility:visible;width:85%;height:100%;max-height:none;cursor:pointer;pointer-events:none}
+body.book-is-open #reading-book{display:none;top:var(--projection-top,20px);bottom:auto;left:50%;right:auto;margin:0;width:var(--projection-width,300px);height:var(--projection-height,428.57px);max-width:none;padding:0;background:transparent;border:0;border-radius:2px;box-shadow:0 0 0 1px #c8f4ff66,0 0 22px #9bdfff22,0 14px 40px #0003;transform:translateX(-50%);transform-origin:center center;isolation:isolate;z-index:3;touch-action:none}
+body.book-is-open.page-projected #reading-book{display:block}
+#reading-book::before{display:none}
+#page-scroll{border-radius:2px;padding:25px 20px 28px;background-image:linear-gradient(105deg,#fff3,transparent 35%,#b7e9ff12),url(paper.png);background-color:#f3eedf;box-shadow:inset 0 0 0 1px #d7cbb366}
+#projection-next{position:absolute;right:-14px;top:8%;width:27px;height:84%;min-height:0;padding:0;border:0;background:transparent;z-index:8;border-radius:0;cursor:pointer}
+#projection-next:focus-visible{outline:1px solid #94d8ec;outline-offset:0;background:#a4e6ff22}
+#projection-next:hover{background:linear-gradient(90deg,transparent,#a4e6ff22)}
+#projection-beam{display:none;position:fixed;pointer-events:none;left:50%;bottom:calc(125px + env(safe-area-inset-bottom));width:var(--projection-width,300px);height:240px;transform:translateX(-50%);clip-path:polygon(0 0,100% 0,57% 100%,43% 100%);background:linear-gradient(to top,#94e2ff26,transparent);filter:blur(3px);z-index:2}
+.book-is-open.page-projected #projection-beam{display:block;animation:beam-appear .55s ease both}
+@keyframes beam-appear{from{opacity:0}to{opacity:1}}
+.book-is-open #book-fallback{width:140px;height:200px;aspect-ratio:7/10;transform:translate(-8%,-50%) perspective(650px) rotateX(-58deg) rotateY(0deg);filter:drop-shadow(0 12px 12px #0004)}
+.book-is-open .fallback-cover,.book-opening .fallback-cover{transform:rotateY(-180deg);background-color:#f3eedf;background-image:url(paper.png)!important;backface-visibility:visible}
+.book-is-open .fallback-pages{background-image:url(paper.png)}
+.printed-period{font-size:10px}.printed-entry{font-size:15px;min-height:46px;padding:4px 0}
+.award-article .article-hero{gap:10px}.article-hero .award-page-title{font-size:20px}
+.award-article .photo-button img{max-height:min(28vh,170px)}
+body.article-reading .award-article{font-size:13px;line-height:1.75}
+.page-expanding #page-scroll>*{opacity:1}
+.page-expanding #reading-book{pointer-events:none}
+.page-expanding .filters{opacity:1}
+.easter-running #reading-book,.easter-finished #reading-book,.easter-running #projection-beam,.easter-finished #projection-beam{display:none!important}
+@media(max-height:500px){body.book-is-open #home-book,body.book-opening #home-book{height:100dvh!important;bottom:0}#page-scroll{padding:18px 14px 22px}.book-is-open #book-fallback{width:90px;height:128px}.printed-entry{font-size:13px;min-height:38px}.award-article .photo-button img{max-height:70px}.article-hero .award-page-title{font-size:16px}body.article-reading .award-article{font-size:12px}#projection-beam{bottom:90px;height:160px}}
+@media(prefers-reduced-motion:reduce){#home-book{transition:none}#projection-beam{animation:none}}
+
+#book-open{pointer-events:auto}body.book-opening #book-open{pointer-events:none}
+#book-previous,#book-next{display:none;position:absolute;bottom:70px;height:180px;width:min(39vw,150px);border:0;background:transparent;padding:0;z-index:4;touch-action:none;cursor:pointer}
+#book-previous{right:50%}#book-next{left:50%}
+.book-is-open #book-previous,.book-is-open #book-next{display:block;pointer-events:auto}
+#book-previous:focus-visible,#book-next:focus-visible{outline:1px solid #94d8ec}
+#projection-previous{position:absolute;left:-14px;top:8%;width:27px;height:84%;min-height:0;padding:0;border:0;background:transparent;z-index:8;cursor:pointer}
+#projection-previous:focus-visible{outline:1px solid #94d8ec}#projection-previous:hover{background:linear-gradient(90deg,#a4e6ff22,transparent)}
+@media(max-height:500px){#book-previous,#book-next{bottom:65px;height:75px;width:85px}}
+
+.book-is-open #book-fallback,.book-opening #book-fallback{top:calc(100% - 165px)}
+@media(max-height:500px){.book-is-open #book-fallback,.book-opening #book-fallback{top:calc(100% - 100px)}}
+
+#book-stage canvas{will-change:transform}

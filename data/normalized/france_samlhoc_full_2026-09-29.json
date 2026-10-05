@@ -5,8 +5,8 @@
   "counts": {
     "raw_groups": 194,
     "excluded_context_groups": 6,
-    "normalized_family_candidates": 173,
-    "families_with_images": 172,
+    "normalized_family_candidates": 175,
+    "families_with_images": 174,
     "families_without_images": 1,
     "decoded_image_references": 898
   },
@@ -1485,30 +1485,64 @@
       "original_name_candidate": "Médaille",
       "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
       "merged_raw_slugs": [
-        "medaille_commemorative_francaise",
-        "medaille_commemorative_francaise_coree",
-        "medaille_commemorative_francaise_operations_moyen-orient"
+        "medaille_commemorative_francaise"
       ],
-      "page_count": 9,
+      "page_count": 3,
       "page_title_candidates": [
         "Médaille",
         "diplôme",
-        "Médaille commémorative française",
-        "Médaille",
-        "diplôme",
-        "Médaille",
-        "Médaille commémorative française des opérations de l’Organisation des Nations Unies en Corée",
-        "Médaille",
-        "Médaille commémorative française des opérations du Moyen-Orient"
+        "Médaille commémorative française"
       ],
-      "local_decoded_images": 7,
+      "local_decoded_images": 3,
       "image_urls": [
         "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/comfran1tar.jpg",
         "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/comfran2tar.jpg",
-        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/comfrandip.jpg",
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/comfrandip.jpg"
+      ],
+      "status": "normalized_family_candidate_unverified_for_publication",
+      "rights": "SAMLHOC all-rights-reserved research cache; do not publish images without independent permission or an open replacement."
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_FRANCAISE_COREE",
+      "category_tree": "medailles",
+      "canonical_slug": "medaille_commemorative_francaise_coree",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "merged_raw_slugs": [
+        "medaille_commemorative_francaise_coree"
+      ],
+      "page_count": 4,
+      "page_title_candidates": [
+        "Médaille",
+        "diplôme",
+        "Médaille",
+        "Médaille commémorative française des opérations de l’Organisation des Nations Unies en Corée"
+      ],
+      "local_decoded_images": 3,
+      "image_urls": [
         "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/coreear.jpg",
         "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/coreedip.jpg",
-        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/coreeonuar.jpg",
+        "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/coreeonuar.jpg"
+      ],
+      "status": "normalized_family_candidate_unverified_for_publication",
+      "rights": "SAMLHOC all-rights-reserved research cache; do not publish images without independent permission or an open replacement."
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_FRANCAISE_OPERATIONS_MOYEN_ORIENT",
+      "category_tree": "medailles",
+      "canonical_slug": "medaille_commemorative_francaise_operations_moyen-orient",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "merged_raw_slugs": [
+        "medaille_commemorative_francaise_operations_moyen-orient"
+      ],
+      "page_count": 2,
+      "page_title_candidates": [
+        "Médaille",
+        "Médaille commémorative française des opérations du Moyen-Orient"
+      ],
+      "local_decoded_images": 1,
+      "image_urls": [
         "https://www.samlhoc.fr/wp-content/uploads/import/www.france-phaleristique.com/images/moyenorientar.jpg"
       ],
       "status": "normalized_family_candidate_unverified_for_publication",

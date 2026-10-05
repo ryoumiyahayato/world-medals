@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "version": "0.014",
+  "apk": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.014.apk",
+  "sha256": "037fcb539215282082dd40a34fd81bd327ce540242c9d90c239d57bdce239239",
+  "bytes": 285429264,
+  "changes": [
+    "Fixed canvas throughout opening; compositor translation instead of repeated resize",
+    "Cached low allocation paper deformation, 562 vertices per sheet",
+    "Blank open book does not project until search",
+    "Left/right physical and projected page controls",
+    "Cross-family forward/back article paging, including previous family last page",
+    "Swipe up returns directory; swipe down forces close; Android back follows previous-page path",
+    "Explicit system precedence and exact country scope; Russia excludes Belarus",
+    "Reset cancels stale opening/closing timers"
+  ],
+  "tested": [
+    "Directional touch listeners and shipped cross-family controller under VM",
+    "Real catalog country scope and highest known Russia order regression",
+    "Search, directory, family grouping, restored-image preference, catalogue integrity",
+    "Browser: empty open book no projection; right 1/9 to 2/9 and left back; Lenin 9/9 to October Revolution 1/4, reverse to Lenin 9/9; upward return-directory path and downward close path via shared keyboard handlers; nav restored",
+    "Browser Russia first Saint Andrew, no Belarus in country scope",
+    "APK CRC, asset byte equality, v2/v3 signing",
+    "Final responsive DOM inspection: 7:10 paper, no horizontal overflow, physical leaf hit targets below projected paper and above search"
+  ],
+  "remaining_validation": [
+    "Physical Android animation frame rate",
+    "Real device swipe execution; touch event wiring tested with simulated listeners"
+  ],
+  "content_added": {
+    "families": 0,
+    "variants": 0,
+    "images": 0
+  },
+  "screenshot": "C:/Users/agcrf/AppData/Local/Temp/wodm-reader-v014/directory.jpg"
+}

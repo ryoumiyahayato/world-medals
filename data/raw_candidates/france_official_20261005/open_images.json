@@ -1,0 +1,43 @@
+[
+  {
+    "key": "holy-spirit-collar",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ordre_du_Saint_Esprit_1.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ordre_du_Saint_Esprit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "local_path": "assets/raw/france_official_open_20261005/holy-spirit-collar.jpg",
+    "width": 2312,
+    "height": 2848,
+    "sha256": "7219797fd0f1edbde8d2fa9083e090194683db387d191b1254b9a243c8c11a4d",
+    "accessed": "2026-10-05",
+    "description_and_rights": "Summary [ edit ] Description Ordre du Saint Esprit 1.jpg Collier et croix de l'ordre du Saint Esprit Date 18 September 2007 Source Own work Author Aomps - Christophe Soulié Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution 3.0 Unported license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. https://creativecommons.org/licenses/by/3.0 CC BY 3.0 Creative Commons Attribution 3.0 true true",
+    "status": "excluded; modern heraldic drawing not museum object",
+    "visual_review": "complete contour and front verified 2026-10-05; collar is heraldic drawing, excluded from photographic body"
+  },
+  {
+    "key": "holy-spirit-star",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ordensstern_des_Ordre_du_Saint-Esprit.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ordensstern_des_Ordre_du_Saint-Esprit.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "local_path": "assets/raw/france_official_open_20261005/holy-spirit-star.jpg",
+    "width": 2152,
+    "height": 1996,
+    "sha256": "9eca3710d1927562b7f3df34728927a9ff5ab9dd84a3f631b0c0a23742e4c1d5",
+    "accessed": "2026-10-05",
+    "description_and_rights": "Summary [ edit ] Description Ordensstern des Ordre du Saint-Esprit.jpg Deutsch: Ordensstern des Ordre du Saint-Esprit (Orden vom Heiligen Geist), dem höchsten und prestigeträchtigsten Ritterorden des Ancien Régime in Frankreich. Ausgestellt bei den Kronjuwelen im Pariser Louvre. Date 19 June 2025, 12:51:50 Source Own work Author Pedemann Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+    "status": "reviewed complete photograph",
+    "visual_review": "complete contour and front verified 2026-10-05; collar is heraldic drawing, excluded from photographic body",
+    "display_path": "assets/images/france_official_open_20261005/holy-spirit-star.jpg"
+  },
+  {
+    "key": "saint-louis-regence",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ordre_de_Saint_Louis_Regence_AEA_Collections.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ordre_de_Saint_Louis_Regence_AEA_Collections.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "local_path": "assets/raw/france_official_open_20261005/saint-louis-regence.jpg",
+    "width": 4032,
+    "height": 3024,
+    "sha256": "03239334d2926aeda7494796abc3b509c85ed5d1487a90ac9e02c9451226c527",
+    "accessed": "2026-10-05",
+    "description_and_rights": "Summary [ edit ] Description Ordre de Saint Louis Regence AEA Collections.jpg Français : Insigne de Chevalier de l'Ordre de Saint-Louis, époque Régence (1715-1723). Appartient aux Collections Adrià Espineta Arias (AEA Collections).. Date 3 March 2024, 11:46:42 Source Own work Author Alexeinikolayevichromanov Camera location 42° 29′ 05.93″ N, 1° 29′ 20.85″ E View this and other nearby images on: OpenStreetMap 42.484981;    1.489125 Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+    "status": "reviewed complete photograph",
+    "visual_review": "complete contour and front verified 2026-10-05; collar is heraldic drawing, excluded from photographic body",
+    "display_path": "assets/images/france_official_open_20261005/saint-louis-regence.jpg"
+  }
+]

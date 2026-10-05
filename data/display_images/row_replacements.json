@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "rows": {
+    "USSR-ORD-01-TYPE-II-COMPLETE-20260929": {
+      "reference_record": "USSR-ORD-01-USER-REF-20261003-054",
+      "approved": true,
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-03",
+      "match_basis": "列宁勋章第二型，红旗、红星及一体肖像图式；优先采用已审查的用户参考图。"
+    },
+    "USSR-ORD-13-MB-V01": {
+      "reference_record": "USSR-ORD-13-USER-REF-20261003-098",
+      "approved": true,
+      "reviewed_by": "Codex",
+      "reviewed_at": "2026-10-03",
+      "match_basis": "劳动红旗早期三角章体参考；旧目录图在当前展示中停用，原始记录留档。"
+    }
+  }
+}

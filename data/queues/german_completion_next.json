@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-29",
+  "scope": "German award-source continuation queue; source-first bounded packages, image review, and rights-aware merge preparation",
+  "source_inventory": "data/source_atlas/german_user_sources_20260929_source_matrix.json",
+  "source_totals": {
+    "planned_sources": 5,
+    "fully_exhausted_sources": 0,
+    "partial_sources": 5,
+    "restricted_or_rights_blocked_sources": 2
+  },
+  "completed_bounded_packages": [
+    {
+      "source_id": "DE-DIE-DEUTSCHEN-ORDEN",
+      "package": "Bundesverdienstorden current sitemap entries",
+      "boundary_count": 22,
+      "pages_read": 22,
+      "result": "20 grade/form pages and 2 historical design pages reviewed; one award-family draft; 21 unique site images downloaded, decoded and hashed; local private non-commercial research only.",
+      "checkpoint": "data/staging/german_completion/deutschen_bvo_scan_checkpoint.json",
+      "draft": "data/staging/german_completion/deutschen_bundesverdienstorden.json"
+    },
+    {
+      "source_id": "DE-DIE-DEUTSCHEN-ORDEN",
+      "package": "Federal Grubenwehr and Bundeswehr awards",
+      "boundary_count": 14,
+      "pages_read": 14,
+      "result": "12 formal award grade/form pages reviewed and drafted across two families; 2 similarly named Veteranenabzeichen pages were reviewed and excluded from formal award counts; 12 package images decoded and hashed; local private non-commercial research only.",
+      "checkpoint": "data/staging/german_completion/deutschen_federal_other_checkpoint.json",
+      "draft": "data/staging/german_completion/deutschen_federal_other_awards.json"
+    }
+  ],
+  "current_counts": {
+    "german_site_unique_sitemap_urls": 2763,
+    "german_site_object_pages": 2656,
+    "german_site_pages_read": 36,
+    "german_site_pages_not_yet_read": 2620,
+    "formal_award_grade_or_form_pages_read": 32,
+    "historical_design_reference_pages_read": 2,
+    "related_non_award_pages_excluded": 2,
+    "draft_families_not_yet_merged": 0,
+    "decoded_and_hashed_site_images": 33,
+    "site_images_cleared_for_public_redistribution": 0,
+    "commons_tallinn_candidate_file_pages": 53,
+    "commons_tallinn_original_images_retrieved": 11,
+    "commons_tallinn_pages_remaining_rate_limited": 42,
+    "shm_query_sweep": {
+      "queries": 10,
+      "complete": 8,
+      "partial": 2
+    },
+    "shm_mixed_raw_candidates_not_equivalent_to_german_awards": 514,
+    "shm_selected_german_object_records_with_image_references": 12,
+    "shm_candidate_mappings_reviewed": 10,
+    "shm_decoded_local_images": 23,
+    "shm_reviewed_accepted_variant_rows": 10,
+    "shm_accepted_display_views": 11,
+    "ordensmuseum_content_reviewed_nodes": 42
+  },
+  "next_priority": {
+    "source_id": "DE-DIE-DEUTSCHEN-ORDEN",
+    "package": "Bremen Land section",
+    "boundary": "24 current-sitemap object pages under bundeslander/bremen",
+    "status": "not_started",
+    "reason": "Small bounded Land package; Ordensmuseum has no individual Bremen award page. Classify actual grantors and formal-award scope page by page; do not count every listed page as a distinct state award.",
+    "actions": [
+      "Read and classify the full 24-page Bremen source package with a single-threaded, reasonably limited sweep.",
+      "Preserve the exact issuer: Bremen state/city, federal body, association, or other organization.",
+      "Draft only evidence-backed families and specific grade/form variants; deduplicate against existing volumes and source drafts.",
+      "Seek official or individually reusable complete images for missing variants; source-site photos remain private non-commercial research only.",
+      "Save the package checkpoint and image/provenance records in isolated German staging paths before handing to the parent for review."
+    ]
+  },
+  "remaining_work": [
+    {
+      "priority": 1,
+      "task": "Complete the Bremen 24-page bounded package and look for open, complete images for established German families.",
+      "status": "not_started"
+    },
+    {
+      "priority": 2,
+      "task": "Continue the third source by bounded official federal-award and individual Land packages, then broaden to other Land awards without treating grades, manufacturers, fire-service qualification badges, or association awards as independent state award families.",
+      "status": "queued",
+      "current_sitemap_pages_remaining_by_scope": {
+        "bundesauszeichnungen": 1023,
+        "bayern": 429,
+        "baden-wuerttemberg": 104,
+        "berlin": 61,
+        "brandenburg": 64,
+        "bremen": 24,
+        "hamburg": 44,
+        "rheinland-pfalz": 108,
+        "hessen": 180,
+        "mecklenburg-vorpommern": 38,
+        "niedersachsen": 78,
+        "nordrhein-westfalen": 138,
+        "saarland": 62,
+        "sachsen": 83,
+        "sachsen-anhalt": 57,
+        "schleswig-holstein": 72,
+        "thueringen": 55
+      }
+    },
+    {
+      "priority": 3,
+      "task": "限流解除后继续42个Commons文件页；已取得11原图全部审查，已排除重复单面及裁断悬挂环。",
+      "status": "rate_limited_partial",
+      "review_file": "data/staging/german_completion/museum_review.json"
+    },
+    {
+      "priority": 4,
+      "task": "续扫SHM Baden offset150、Sachsen offset250；其他对象继续配图，已审12对象与23原图无需重复下载；错配图不得入正文。",
+      "status": "partial_sweep",
+      "review_file": "data/staging/german_completion/shm_review.json",
+      "selected_records": "data/staging/german_completion/shm_selected.json"
+    },
+    {
+      "priority": 5,
+      "task": "Keep source-level sweeps partial until their advertised bounded sections and pages are either reviewed or explicitly unavailable; do not treat sitemap/page-tree completion as content coverage.",
+      "status": "ongoing"
+    }
+  ],
+  "must_not_do": [
+    "Do not resume automated EH database extraction: the site terms require prior permission.",
+    "Do not copy/store Ordensmuseum protected body text or images; its Impressum requires written permission for storage/reuse.",
+    "Do not mark die-deutschen-orden.de photographs as open or publicly redistributable; its stated allowance is private non-commercial copying.",
+    "Do not copy restricted Ordensmuseum material to fill gaps.",
+    "Do not count SHM's 514 mixed unresolved records as German order candidates or award families.",
+    "Do not equate page, photograph, grade, form, manufacturer, or state recipient counts with independent award-family counts."
+  ],
+  "source_progress_files": [
+    "data/staging/german_completion/deutschen_progress_summary.md",
+    "data/staging/german_completion/deutschen_source_card.json",
+    "data/staging/german_completion/ehrenzeichen_source_matrix.json",
+    "data/staging/german_completion/ordensmuseum_source_matrix.json",
+    "data/staging/german_completion/museum_review.json",
+    "data/staging/german_completion/shm_review.json",
+    "sources/cache/german_shm_20260929/sweep.json",
+    "sources/cache/german_shm_20260929/objects.json"
+  ],
+  "public_index_merge": "本地主任务已合并，v0.008导出中；未对公网发布。"
+}

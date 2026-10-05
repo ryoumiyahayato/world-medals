@@ -1,0 +1,62 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-f9fa2dd1f6c48e32",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/order-of-the-grand-conqueror.html",
+  "page_title": "Order of the Grand Conqueror",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/f9fa2dd1f6c48e32.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of the Grand Conqueror Order awarded to members of foreign official delegations visiting Libya. Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/2/10/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/10/2.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/10/3.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/2/10/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-d82a724e3c68974b7aa0.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "088a0aa06aad421bb5ca373eaafe628f75c9785c97860376a275fd0d5a0a564b",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/10/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-2f239e0ad1bdcad8ca5f.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "601e552ca8c03a0fa8e7579afed6744f44d0385a6b8d84942b8ade58a674c20a",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/10/3.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-b4c96fef969be7640c44.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "dd93dbb81e53a33eea030b378ab3a60ca57345f6ea864726854f4f28b82c5e70",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/order-of-the-grand-conqueror.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

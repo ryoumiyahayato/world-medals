@@ -1,0 +1,35 @@
+{
+  "accessed": "2026-10-03",
+  "scope": [
+    "Soviet Union",
+    "Russian Empire / Russian Federation"
+  ],
+  "policy": "Separate highest distinctions, highest military order, normal order wearing sequence; do not treat highest grade of an individual order as highest national award",
+  "verified_sources": [
+    {
+      "url": "https://www.prlib.ru/history/619172",
+      "summary": "苏联英雄和社会主义劳动英雄是苏联两类最高荣誉称号；金星是苏联英雄的特别标志，与列宁勋章共同授予。"
+    },
+    {
+      "url": "https://mondvor.narod.ru/OLenin.html",
+      "summary": "列宁勋章章程注明它是苏联最高奖励，佩戴在其他常规勋奖章之前。"
+    },
+    {
+      "url": "https://mondvor.narod.ru/OOctRev.html",
+      "summary": "十月革命勋章位于列宁勋章之后。"
+    },
+    {
+      "url": "https://mondvor.narod.ru/OPobeda.html",
+      "summary": "胜利勋章为最高军事勋章，绶带单独位于其他勋章绶带上方。"
+    },
+    {
+      "url": "https://minjust.gov.ru/ru/documents/7992/",
+      "summary": "俄罗斯联邦1099号法令列出圣安德烈使徒勋章的章程和优先位置。"
+    }
+  ],
+  "supporting_sequence_source": {
+    "url": "https://base.garant.ru/183592/",
+    "status": "Search-visible decree excerpt; full text returned403. The available sequence is grouped by each family highest grade, not a claim about all grades."
+  },
+  "cache_warning": "Existing Mondvor source cache body text has obfuscated characters; those garbled excerpts were excluded from verification."
+}

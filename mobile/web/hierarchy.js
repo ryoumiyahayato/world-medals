@@ -12,12 +12,12 @@ for(const [name,id] of [['阿富汗','afghanistan'],['尼泊尔','nepal'],['不�
 for(const [name,id] of [['哈萨克斯坦','kazakhstan'],['吉尔吉斯斯坦','kyrgyzstan'],['塔吉克斯坦','tajikistan'],['土库曼斯坦','turkmenistan'],['乌兹别克斯坦','uzbekistan']])routes('亚洲','中亚',name,id);
 routes('亚洲','西亚','土耳其','ottoman turkey');
 for(const [name,id] of [['伊朗','iran'],['叙利亚','syria'],['阿曼','oman'],['约旦','jordan'],['沙特阿拉伯','saudi-arabia'],['卡塔尔','qatar'],['科威特','kuwait'],['巴林','bahrain'],['阿联酋','united-arab-emirates'],['黎巴嫩','lebanon'],['以色列','israel'],['也门','yemen'],['塞浦路斯','cyprus'],['亚美尼亚','armenia'],['格鲁吉亚','georgia'],['阿塞拜疆','azerbaijan']])routes('亚洲','西亚',name,id);
-routes('欧洲','东欧','俄罗斯','russian-empire soviet-union russian-federation');
+routes('欧洲','东欧','俄罗斯','russian-empire rsfsr-awards soviet-union russian-federation');
 for(const [name,id] of [['乌克兰','ukraine'],['白俄罗斯','belarus'],['摩尔多瓦','moldova'],['罗马尼亚','romania-kingdom']])routes('欧洲','东欧',name,id);
 routes('欧洲','东欧','保加利亚','bulgaria-principality bulgaria-kingdom bulgaria-republic');
 routes('欧洲','中欧','德国','germany-1933-1945 prussia-kingdom bavaria-kingdom');routes('欧洲','中欧','奥地利','habsburg-monarchy austrian-empire austro-hungary austria-republic');routes('欧洲','中欧','匈牙利','hungary');routes('欧洲','中欧','波兰','poland');routes('欧洲','中欧','捷克／斯洛伐克','czechoslovakia czech-republic slovakia');
 for(const [name,id] of [['芬兰','finland'],['瑞典','sweden'],['丹麦','denmark'],['冰岛','iceland'],['挪威','norway'],['爱沙尼亚','estonia'],['拉脱维亚','latvia'],['立陶宛','lithuania']])routes('欧洲','北欧',name,id);
-routes('欧洲','西欧','法国','france-timeline france-first-empire france-bourbon france-july france-second-republic france-second-empire france-third-republic france-fourth-fifth');
+routes('欧洲','西欧','法国','france-kingdom france-timeline france-first-empire france-bourbon france-july france-second-republic france-second-empire france-third-republic france-fourth-fifth');
 routes('欧洲','西欧','英国','uk');routes('欧洲','西欧','荷兰','netherlands');routes('欧洲','西欧','比利时','belgium');
 routes('欧洲','南欧','西班牙','spain-republic spain-kingdom');routes('欧洲','南欧','葡萄牙','portugal');routes('欧洲','南欧','意大利','savoy-italy');routes('欧洲','南欧','希腊','greece');
 for(const [name,id] of [['埃及','egypt'],['苏丹','sudan'],['摩洛哥','morocco'],['阿尔及利亚','algeria']])routes('非洲','北非',name,id);
@@ -57,3 +57,53 @@ routes("非洲","南部非洲","马拉维","minimum-malawi");
 routes("非洲","南部非洲","莫桑比克","minimum-mozambique");
 routes("非洲","南部非洲","莱索托","minimum-lesotho");
 routes("非洲","南部非洲","斯威士兰／埃斯瓦蒂尼","minimum-swaziland");
+
+/* FRANCE_COMPLETION_START */
+window.CATEGORY_ROUTES["france-source-national"]=["欧洲", "西欧", "法国"];
+window.CATEGORY_ROUTES["france-source-italy"]=["欧洲", "南欧", "意大利"];
+window.CATEGORY_ROUTES["france-source-anjouan"]=["非洲", "东非", "科摩罗"];
+window.CATEGORY_ROUTES["france-source-dahomey"]=["非洲", "西非", "贝宁"];
+window.CATEGORY_ROUTES["france-source-cameroon"]=["非洲", "中非", "喀麦隆"];
+window.CATEGORY_ROUTES["france-source-indochina"]=["亚洲", "东南亚", "法属印度支那"];
+window.CATEGORY_ROUTES["france-source-madagascar"]=["非洲", "东非", "马达加斯加"];
+window.CATEGORY_ROUTES["france-source-tadjoura"]=["非洲", "东非", "吉布提"];
+window.CATEGORY_ROUTES["france-source-polynesia"]=["大洋洲", "波利尼西亚", "法属波利尼西亚"];
+window.CATEGORY_ROUTES["france-source-related"]=["欧洲", "西欧", "法国"];
+window.CATEGORY_ROUTES["france-source-algeria"]=["非洲", "北非", "阿尔及利亚"];
+window.CATEGORY_ROUTES["france-source-india"]=["亚洲", "南亚", "印度"];
+window.CATEGORY_ROUTES["france-source-saar"]=["欧洲", "西欧", "德国"];
+/* FRANCE_COMPLETION_END */
+
+/* GERMAN_COMPLETION_START */
+window.CATEGORY_ROUTES["saxony-kingdom"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["saxony-electorate-kingdom"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["hanover-kingdom"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["oldenburg-grand-duchy"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["anhalt-duchies"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["baden-grand-duchy"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["baden-durlach-grand-duchy"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["brunswick-duchy"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["hesse-darmstadt-grand-duchy"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["hesse-kassel-landgraviate-electorate"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["mecklenburg-duchies-shared"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["lippe-detmold-principality"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["saxe-ernestine-duchies"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["wuerttemberg-kingdom"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["germany-federal-republic"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["baden-wuerttemberg-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["bavaria-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["berlin-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["brandenburg-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["hessen-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["mecklenburg-vorpommern-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["lower-saxony-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["north-rhine-westphalia-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["rhineland-palatinate-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["saarland-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["saxony-free-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["saxony-anhalt-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["schleswig-holstein-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["thuringia-free-state"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["germany-related"]=["欧洲", "中欧", "德国"];
+window.CATEGORY_ROUTES["hamburg-state"]=["欧洲", "中欧", "德国"];
+/* GERMAN_COMPLETION_END */

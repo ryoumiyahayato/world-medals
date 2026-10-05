@@ -1,0 +1,143 @@
+{
+  "images": [
+    {
+      "slug": "medaille_honneur_douanes",
+      "variant": "正面悬挂式实物；具体等级与生产时期待考；低清参考",
+      "label": "完整正面",
+      "local_path": "assets/images/france_completion/e5d636e47f5d4e1f.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:M%C3%A9daille_d%27honneur_des_douanes.png",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/M%C3%A9daille_d%27honneur_des_douanes.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "original_path": "assets/images/france_completion/e5d636e47f5d4e1f.png",
+      "crop_region": null,
+      "width": 346,
+      "height": 933,
+      "sha256": "e43dd0870e058e02ca53ecbee798321fc336f0181227473ecf41b97977fd0a45",
+      "license": "CC0",
+      "license_urls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "artist": "Lemedailliste",
+      "object_description": "Français : Médaille d'honneur des douanes",
+      "visual_review": "Root inspected full original: complete medal and suspension. Crops, if any, retain the complete object and original source plate.",
+      "accessed": "2026-09-29",
+      "view_key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES-COMPLETE-20260929-1-VIEW"
+    },
+    {
+      "slug": "medaille_honneur_eaux_forets",
+      "variant": "第二式第二型（来源分类），1905年起；完整正背合图",
+      "label": "完整正背合图",
+      "local_path": "assets/images/france_completion/f3d41b05a4d7d4ba.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1905-maintenant_M%C3%A9daille_d%27honneur_des_Eaux_et_For%C3%AAts_2e_mod%C3%A8le_2e_ty.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/1905-maintenant_M%C3%A9daille_d%27honneur_des_Eaux_et_For%C3%AAts_2e_mod%C3%A8le_2e_ty.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "original_path": "assets/images/france_completion/f3d41b05a4d7d4ba.jpg",
+      "crop_region": null,
+      "width": 6882,
+      "height": 4608,
+      "sha256": "03d34d5fe987deacfbc2ec0be725d98664fdabfc053cf616cdcf217db0b9e073",
+      "license": "CC BY-SA 4.0",
+      "license_urls": [
+        "//creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses",
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "artist": "Aussie Oc",
+      "object_description": "Français : Médaille d'Honneur des Eaux et Forêts, 2e modèle, 2e type mis en service en 1905.",
+      "visual_review": "Root inspected full original: complete medal and suspension. Crops, if any, retain the complete object and original source plate.",
+      "accessed": "2026-09-29",
+      "view_key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_EAUX_FORETS-COMPLETE-20260929-1-VIEW"
+    },
+    {
+      "slug": "medaille_honneur_engagement_ultramarin",
+      "variant": "金级；完整正面；级别名称不推定实金／实银材质",
+      "label": "完整正面",
+      "local_path": "assets/images/france_completion/2a4a11cde08e6216-gold.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "original_path": "assets/images/france_completion/2a4a11cde08e6216.jpg",
+      "crop_region": [
+        0,
+        0,
+        1400,
+        3000
+      ],
+      "width": 1400,
+      "height": 3000,
+      "sha256": "37b4925b7397f544ed9b146aff684fee761f94ac7c992cb83752195a9ae85b71",
+      "license": "CC BY-SA 4.0",
+      "license_urls": [
+        "//creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses",
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "artist": "Fabrunet4",
+      "object_description": "Français : Les médailles d'honneur de l'engagement ultramarin aux échelons or, argent et bronze",
+      "visual_review": "Root inspected full original: complete medal and suspension. Crops, if any, retain the complete object and original source plate.",
+      "accessed": "2026-09-29",
+      "view_key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-1-VIEW"
+    },
+    {
+      "slug": "medaille_honneur_engagement_ultramarin",
+      "variant": "银级；完整正面；级别名称不推定实金／实银材质",
+      "label": "完整正面",
+      "local_path": "assets/images/france_completion/2a4a11cde08e6216-silver.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "original_path": "assets/images/france_completion/2a4a11cde08e6216.jpg",
+      "crop_region": [
+        1450,
+        0,
+        2800,
+        3000
+      ],
+      "width": 1350,
+      "height": 3000,
+      "sha256": "e72a2e083719b3b4d4dca8d7d0bd7c24f66e7f4342da39798e3d6b0a2a56300d",
+      "license": "CC BY-SA 4.0",
+      "license_urls": [
+        "//creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses",
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "artist": "Fabrunet4",
+      "object_description": "Français : Les médailles d'honneur de l'engagement ultramarin aux échelons or, argent et bronze",
+      "visual_review": "Root inspected full original: complete medal and suspension. Crops, if any, retain the complete object and original source plate.",
+      "accessed": "2026-09-29",
+      "view_key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-2-VIEW"
+    },
+    {
+      "slug": "medaille_honneur_engagement_ultramarin",
+      "variant": "铜级；完整正面；级别名称不推定实金／实银材质",
+      "label": "完整正面",
+      "local_path": "assets/images/france_completion/2a4a11cde08e6216-bronze.png",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Les_m%C3%A9dailles_d%27honneur_de_l%27engagement_ultramarin.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "original_path": "assets/images/france_completion/2a4a11cde08e6216.jpg",
+      "crop_region": [
+        2850,
+        0,
+        4000,
+        3000
+      ],
+      "width": 1150,
+      "height": 3000,
+      "sha256": "bca265a6c7c1f21dca8df28f49c1632b425227a487bf4b2fd69ea50995c68ecb",
+      "license": "CC BY-SA 4.0",
+      "license_urls": [
+        "//creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses",
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "artist": "Fabrunet4",
+      "object_description": "Français : Les médailles d'honneur de l'engagement ultramarin aux échelons or, argent et bronze",
+      "visual_review": "Root inspected full original: complete medal and suspension. Crops, if any, retain the complete object and original source plate.",
+      "accessed": "2026-09-29",
+      "view_key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-3-VIEW"
+    }
+  ]
+}

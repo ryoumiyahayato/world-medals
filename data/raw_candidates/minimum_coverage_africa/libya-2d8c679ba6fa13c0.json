@@ -1,0 +1,62 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-2d8c679ba6fa13c0",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/order-of-the-military-star.html",
+  "page_title": "Order of the Military Star",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/2d8c679ba6fa13c0.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of the Military Star وسام النجمة العسكرية Order instituted in 1969. Order awarded for military merits. Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/2/8/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/8/2.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/8/3.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/2/8/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-15985f5ff930f8d6e1fc.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "443ff4f7f466ac924e8b29f5c7ce3c140b6f1fb31538f6ab2ea3108082ca8025",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/8/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-f7d0d7f31bda163356d6.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "8e7beb9c13f1f136e3559c978ef61de25e409fe67cceb8a3cc2acd7297547dcd",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/8/3.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-5dd876015cbd9a5e34da.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "eca779a3e11d9d809fbf89a49cd374a3c2a1acbcbdfd3235acf6ef51dd03820f",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/order-of-the-military-star.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

@@ -9,15 +9,16 @@
       "name": "大西洋星章",
       "original": "Atlantic Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "大西洋星章挂章；单面可见王室花押与冠冕；低清参考",
       "views": [
         {
           "key": "GB-UK-ATLANTIC-STAR-V-ATLANTIC-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ATLANTIC-STAR-1"
       ]
     },
     {
@@ -26,15 +27,16 @@
       "name": "海湾战争奖章（1990–1991）",
       "original": "Gulf Medal 1990-1991",
       "date": "1990–1991",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "海湾奖章双面；左为伊丽莎白二世头像面，右为鹰、锚与机枪图案面；悬挂条可读16 JAN TO 28 FEB 1991。；“16 JAN TO 28 FEB 1991”扣饰；低清参考",
       "views": [
         {
           "key": "GB-UK-GULF-MEDAL-1990-1991-V-GULF-MEDAL-1990-1991-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GULF-MEDAL-1990-1991-1"
       ]
     },
     {
@@ -43,15 +45,16 @@
       "name": "杰出英勇十字勋章",
       "original": "Conspicuous Gallantry Cross (CGC)",
       "date": "1993年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "杰出英勇十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-CONSPICUOUS-GALLANTRY-CROSS-CGC-V-CONSPICUOUS-GALLANTRY-CROSS-CGC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-CONSPICUOUS-GALLANTRY-CROSS-CGC-1"
       ]
     },
     {
@@ -60,15 +63,16 @@
       "name": "国王英勇嘉奖",
       "original": "King’s Commendation for Bravery",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "英勇嘉奖用橡叶佩饰；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-V-KING-S-COMMENDATION-FOR-BRAVERY-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "橡叶佩饰正面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-1"
       ]
     },
     {
@@ -77,15 +81,16 @@
       "name": "伊丽莎白十字章",
       "original": "The Elizabeth Cross: Died on Operations Recognition Award",
       "date": "2009年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "伊丽莎白十字章；同一画面并列标准尺寸十字及微型十字，两者均为同向展示；低清参考",
       "views": [
         {
           "key": "GB-UK-ELIZABETH-CROSS-V-CROSS-THE-SAME-PAGE-ALSO-SHOWS-A-MINIATURE-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "标准尺寸章与微型章并列；非正背配对"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ELIZABETH-CROSS-1"
       ]
     },
     {
@@ -94,15 +99,16 @@
       "name": "杰出飞行十字勋章",
       "original": "Distinguished Flying Cross (DFC)",
       "date": "1918年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "杰出飞行十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-DISTINGUISHED-FLYING-CROSS-DFC-V-DISTINGUISHED-FLYING-CROSS-DFC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-DISTINGUISHED-FLYING-CROSS-DFC-1"
       ]
     },
     {
@@ -111,15 +117,16 @@
       "name": "传令嘉奖佩饰",
       "original": "Mention in Despatches",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "传令嘉奖用橡叶佩饰；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-MENTION-IN-DESPATCHES-V-MENTION-IN-DESPATCHES-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "橡叶佩饰面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-MENTION-IN-DESPATCHES-1"
       ]
     },
     {
@@ -128,15 +135,16 @@
       "name": "一般服务奖章（1918）",
       "original": "General Service Medal 1918-62",
       "date": "1918-62",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "一般服务奖章（1918–1962）双面，图示马来亚扣饰；乔治六世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-1918-62-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GENERAL-SERVICE-MEDAL-1918-1"
       ]
     },
     {
@@ -145,15 +153,16 @@
       "name": "一般服务奖章（1962）",
       "original": "General Service Medal 1962-2007",
       "date": "1962-2007",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "一般服务奖章（1962–2007）双面，图示塞浦路斯扣饰；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-1962-2007-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GENERAL-SERVICE-MEDAL-1962-1"
       ]
     },
     {
@@ -162,15 +171,16 @@
       "name": "一般服务奖章（2008）",
       "original": "General Service Medal 2008",
       "date": "2008",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "一般服务奖章（2008年起型制）双面；伊丽莎白二世头像面与不列颠尼亚图案面；低清参考",
       "views": [
         {
           "key": "GB-UK-GENERAL-SERVICE-MEDAL-V-GENERAL-SERVICE-MEDAL-2008-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GENERAL-SERVICE-MEDAL-2008-1"
       ]
     },
     {
@@ -179,15 +189,16 @@
       "name": "空军十字勋章",
       "original": "Air Force Cross (AFC)",
       "date": "1918年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "空军十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-AIR-FORCE-CROSS-AFC-V-AIR-FORCE-CROSS-AFC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-AIR-FORCE-CROSS-AFC-1"
       ]
     },
     {
@@ -196,15 +207,16 @@
       "name": "1939–1945年星章",
       "original": "1939 to 1945 Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "1939–1945年星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-1939-TO-1945-STAR-V-1939-TO-1945-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-1939-TO-1945-STAR-1"
       ]
     },
     {
@@ -213,15 +225,16 @@
       "name": "非洲星章",
       "original": "Africa Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "非洲星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-AFRICA-STAR-V-AFRICA-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-AFRICA-STAR-1"
       ]
     },
     {
@@ -230,15 +243,19 @@
       "name": "作战服务奖章",
       "original": "Operational Service Medal —Afghanistan",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "Operational Service Medal —Afghanistan战区型；英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "阿富汗作战服务奖章双面，图示阿富汗扣饰；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-AFGHANISTAN-V-OPERATIONAL-SERVICE-MEDAL-AFGHANISTAN-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-2",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-3",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-4"
       ]
     },
     {
@@ -247,15 +264,16 @@
       "name": "皇家空军长期服务与良好品行奖章",
       "original": "Royal Air Force Long Service and Good Conduct Medal",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "皇家空军长期服务与良好品行奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-RAF-LSGC-MEDAL-V-ROYAL-AIR-FORCE-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-RAF-LSGC-MEDAL-1"
       ]
     },
     {
@@ -264,15 +282,16 @@
       "name": "国王有价值服务嘉奖",
       "original": "King’s Commendation for Valuable Service",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "有价值服务嘉奖用橡叶佩饰；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-KING-S-COMMENDATION-FOR-VALUABLE-SERVICE-V-KING-S-COMMENDATION-FOR-VALUABLE-SERVICE-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "橡叶佩饰面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KING-S-COMMENDATION-FOR-VALUABLE-SERVICE-1"
       ]
     },
     {
@@ -281,15 +300,16 @@
       "name": "法国与德国星章",
       "original": "France and Germany Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "法国与德国星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-FRANCE-AND-GERMANY-STAR-V-FRANCE-AND-GERMANY-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-FRANCE-AND-GERMANY-STAR-1"
       ]
     },
     {
@@ -298,15 +318,16 @@
       "name": "查尔斯三世加冕奖章",
       "original": "The King’s Coronation Medal 2023",
       "date": "2023",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "2023年加冕奖章双面；左侧为纪念日期与王室标记面，右侧为查尔斯三世与卡米拉双人头像面；低清参考",
       "views": [
         {
           "key": "GB-UK-KINGS-CORONATION-MEDAL-2023-V-THE-KING-S-CORONATION-MEDAL-2023-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左背面、右正面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KINGS-CORONATION-MEDAL-2023-1"
       ]
     },
     {
@@ -315,15 +336,16 @@
       "name": "陆军长期服务与良好品行奖章",
       "original": "Army Long Service and Good Conduct Medal",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "陆军长期服务与良好品行奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-ARMY-LSGC-MEDAL-V-ARMY-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ARMY-LSGC-MEDAL-1"
       ]
     },
     {
@@ -332,15 +354,19 @@
       "name": "作战服务奖章",
       "original": "Operational Service Medal —Democratic Republic of Congo",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "Operational Service Medal —Democratic Republic of Congo战区型；英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "刚果民主共和国作战服务奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-DEMOCRATIC-REPUBLIC-OF-CONGO-V-OPERATIONAL-SERVICE-MEDAL-DEMOCRATIC-REPUBLIC-OF-CONGO-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-2",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-3",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-4"
       ]
     },
     {
@@ -349,15 +375,16 @@
       "name": "伊丽莎白二世白金禧年奖章",
       "original": "HM The Queen’s Platinum Jubilee Medal",
       "date": "2022",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "白金禧年奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-PLATINUM-JUBILEE-MEDAL-2022-V-HM-THE-QUEEN-S-PLATINUM-JUBILEE-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-PLATINUM-JUBILEE-MEDAL-2022-1"
       ]
     },
     {
@@ -366,15 +393,16 @@
       "name": "非洲一般服务奖章",
       "original": "The Africa General Service Medal with Kenya Clasp",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "肯尼亚扣饰型；英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "非洲一般服务奖章双面；与来源条目所列肯尼亚扣饰型相对应。；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-AFRICA-GENERAL-SERVICE-MEDAL-V-THE-AFRICA-GENERAL-SERVICE-MEDAL-WITH-KENYA-CLASP-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-AFRICA-GENERAL-SERVICE-MEDAL-1"
       ]
     },
     {
@@ -383,15 +411,19 @@
       "name": "作战服务奖章",
       "original": "Operational Service Medal —Sierra Leone",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "Operational Service Medal —Sierra Leone战区型；英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "塞拉利昂作战服务奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-OPERATIONAL-SERVICE-MEDAL-SIERRA-LEONE-V-OPERATIONAL-SERVICE-MEDAL-SIERRA-LEONE-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-2",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-3",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-4"
       ]
     },
     {
@@ -400,15 +432,16 @@
       "name": "国王空中英勇嘉奖",
       "original": "King’s Commendation for Bravery in the Air",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "空中英勇嘉奖用翼形佩饰；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-IN-THE-AIR-V-KING-S-COMMENDATION-FOR-BRAVERY-IN-THE-AIR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "翼形佩饰正面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KING-S-COMMENDATION-FOR-BRAVERY-IN-THE-AIR-1"
       ]
     },
     {
@@ -417,15 +450,17 @@
       "name": "皇家红十字勋章",
       "original": "Royal Red Cross (Class II) (ARRC)",
       "date": "1883年设立；图示二等",
-      "variant": "二等；英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "皇家红十字勋章二等（ARRC）图示正背两面；低清参考",
       "views": [
         {
           "key": "GB-UK-ROYAL-RED-CROSS-V-ROYAL-RED-CROSS-CLASS-II-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ROYAL-RED-CROSS-1",
+        "UK-MOD-20260930-GB-UK-ROYAL-RED-CROSS-2"
       ]
     },
     {
@@ -434,15 +469,16 @@
       "name": "海军一般服务奖章（1915）",
       "original": "Naval General Service Medal 1915",
       "date": "1915年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "海军一般服务奖章（1915）双面，图示运河区扣饰；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-NAVAL-GENERAL-SERVICE-MEDAL-1915-V-NAVAL-GENERAL-SERVICE-MEDAL-1915-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-NAVAL-GENERAL-SERVICE-MEDAL-1915-1"
       ]
     },
     {
@@ -451,15 +487,17 @@
       "name": "累计战役服务奖章",
       "original": "Accumulated Campaign Service Medal",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "累计战役服务奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-V-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-2"
       ]
     },
     {
@@ -468,15 +506,17 @@
       "name": "累计战役服务奖章",
       "original": "Accumulated Campaign Service Medal 2011",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "累计战役服务奖章（2011型）双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-V-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-2011-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-ACCUMULATED-CAMPAIGN-SERVICE-MEDAL-2"
       ]
     },
     {
@@ -485,15 +525,16 @@
       "name": "朝鲜战争奖章",
       "original": "Korea Medal",
       "date": "1950–1953",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "朝鲜战争奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-KOREA-MEDAL-V-KOREA-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KOREA-MEDAL-1"
       ]
     },
     {
@@ -502,15 +543,16 @@
       "name": "埃博拉疫情服务奖章",
       "original": "Ebola Medal",
       "date": "2015年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "埃博拉疫情服务奖章双面；右侧照片同时显示绶带背面的别针；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-EBOLA-MEDAL-V-EBOLA-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-EBOLA-MEDAL-1"
       ]
     },
     {
@@ -519,15 +561,16 @@
       "name": "伊丽莎白二世钻石禧年奖章",
       "original": "HM The Queen’s Diamond Jubilee Medal 2012",
       "date": "2012",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "钻石禧年奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-DIAMOND-JUBILEE-MEDAL-2012-V-HM-THE-QUEEN-S-DIAMOND-JUBILEE-MEDAL-2012-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-DIAMOND-JUBILEE-MEDAL-2012-1"
       ]
     },
     {
@@ -536,15 +579,16 @@
       "name": "乔治奖章",
       "original": "George Medal (GM)",
       "date": "1940年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "乔治奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-GEORGE-MEDAL-GM-V-GEORGE-MEDAL-GM-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GEORGE-MEDAL-GM-1"
       ]
     },
     {
@@ -553,15 +597,16 @@
       "name": "国王志愿预备役奖章",
       "original": "King’s Volunteer Reserves Medal (KVRM)",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "国王志愿预备役奖章页面所配双面照片；图中为伊丽莎白二世时期头像及相应旧版背铭；低清参考",
       "views": [
         {
           "key": "GB-UK-KING-S-VOLUNTEER-RESERVES-MEDAL-KVRM-V-KING-S-VOLUNTEER-RESERVES-MEDAL-KVRM-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KING-S-VOLUNTEER-RESERVES-MEDAL-KVRM-1"
       ]
     },
     {
@@ -570,15 +615,16 @@
       "name": "缅甸星章",
       "original": "Burma Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "缅甸星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-BURMA-STAR-V-BURMA-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-BURMA-STAR-1"
       ]
     },
     {
@@ -587,15 +633,16 @@
       "name": "意大利星章",
       "original": "Italy Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "意大利星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-ITALY-STAR-V-ITALY-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ITALY-STAR-1"
       ]
     },
     {
@@ -604,15 +651,16 @@
       "name": "太平洋星章",
       "original": "Pacific Star: Malaya, Singapore and the Pacific Ocean",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "太平洋星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-PACIFIC-STAR-MALAYA-SINGAPORE-AND-THE-PACIFIC-OCEAN-V-PACIFIC-STAR-MALAYA-SINGAPORE-AND-THE-PACIFIC-OCEAN-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-PACIFIC-STAR-MALAYA-SINGAPORE-AND-THE-PACIFIC-OCEAN-1"
       ]
     },
     {
@@ -621,15 +669,16 @@
       "name": "国王英勇奖章",
       "original": "King’s Gallantry Medal (KGM)",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "国王英勇奖章页面所配双面照片；背面铭文仍为THE QUEEN'S GALLANTRY MEDAL；低清参考",
       "views": [
         {
           "key": "GB-UK-KING-S-GALLANTRY-MEDAL-KGM-V-KING-S-GALLANTRY-MEDAL-KGM-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-KING-S-GALLANTRY-MEDAL-KGM-1"
       ]
     },
     {
@@ -638,15 +687,16 @@
       "name": "乔治十字勋章",
       "original": "George Cross (GC)",
       "date": "1940年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "乔治十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-GEORGE-CROSS-GC-V-GEORGE-CROSS-GC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GEORGE-CROSS-GC-1"
       ]
     },
     {
@@ -655,15 +705,16 @@
       "name": "北极星章",
       "original": "Arctic Star",
       "date": "2012年设立；奖励第二次世界大战北极航线服役",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "北极星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-ARCTIC-STAR-V-ARCTIC-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ARCTIC-STAR-1"
       ]
     },
     {
@@ -672,15 +723,16 @@
       "name": "国防奖章",
       "original": "Defence Medal",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "国防奖章双面；乔治六世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-DEFENCE-MEDAL-V-DEFENCE-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-DEFENCE-MEDAL-1"
       ]
     },
     {
@@ -689,15 +741,16 @@
       "name": "维多利亚十字勋章",
       "original": "Victoria Cross (VC)",
       "date": "1856年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "维多利亚十字勋章挂章；单面，章面可见FOR VALOUR字样；低清参考",
       "views": [
         {
           "key": "GB-UK-VICTORIA-CROSS-VC-V-VICTORIA-CROSS-VC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-VICTORIA-CROSS-VC-1"
       ]
     },
     {
@@ -706,15 +759,16 @@
       "name": "伊丽莎白二世金禧年奖章",
       "original": "HM The Queen’s Golden Jubilee Medal 2002",
       "date": "2002",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "金禧年奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-GOLDEN-JUBILEE-MEDAL-2002-V-HM-THE-QUEEN-S-GOLDEN-JUBILEE-MEDAL-2002-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-GOLDEN-JUBILEE-MEDAL-2002-1"
       ]
     },
     {
@@ -723,15 +777,16 @@
       "name": "学员部队奖章",
       "original": "Cadet Forces Medal",
       "date": "1950年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "学员部队奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-CADET-FORCES-MEDAL-V-CADET-FORCES-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-CADET-FORCES-MEDAL-1"
       ]
     },
     {
@@ -740,15 +795,16 @@
       "name": "伊丽莎白二世银禧年奖章",
       "original": "HM The Queen’s Silver Jubilee Medal 1977",
       "date": "1977",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "银禧年奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-SILVER-JUBILEE-MEDAL-1977-V-HM-THE-QUEEN-S-SILVER-JUBILEE-MEDAL-1977-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-SILVER-JUBILEE-MEDAL-1977-1"
       ]
     },
     {
@@ -757,15 +813,16 @@
       "name": "杰出服务十字勋章",
       "original": "Distinguished Service Cross (DSC)",
       "date": "1901年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "杰出服务十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-DISTINGUISHED-SERVICE-CROSS-DSC-V-DISTINGUISHED-SERVICE-CROSS-DSC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-DISTINGUISHED-SERVICE-CROSS-DSC-1"
       ]
     },
     {
@@ -774,15 +831,16 @@
       "name": "皇家海军长期服务与良好品行奖章",
       "original": "Royal Naval Long Service and Good Conduct Medal",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "皇家海军长期服务与良好品行奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-ROYAL-NAVAL-LSGC-MEDAL-V-ROYAL-NAVAL-LONG-SERVICE-AND-GOOD-CONDUCT-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-ROYAL-NAVAL-LSGC-MEDAL-1"
       ]
     },
     {
@@ -791,15 +849,16 @@
       "name": "伊拉克奖章",
       "original": "Iraq Medal",
       "date": "2003年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "伊拉克奖章双面；左侧为伊丽莎白二世头像面，右侧为翼形公牛与IRAQ字样面；“19 MAR TO 28 APR 2003”扣饰；低清参考",
       "views": [
         {
           "key": "GB-UK-IRAQ-MEDAL-V-IRAQ-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-IRAQ-MEDAL-1"
       ]
     },
     {
@@ -808,15 +867,16 @@
       "name": "志愿预备役服务奖章",
       "original": "Volunteer Reserves Service Medal",
       "date": "制度日期待核；英国国防部现行指南收录",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "志愿预备役服务奖章双面；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-VOLUNTEER-RESERVES-SERVICE-MEDAL-V-VOLUNTEER-RESERVES-SERVICE-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-VOLUNTEER-RESERVES-SERVICE-MEDAL-1"
       ]
     },
     {
@@ -825,15 +885,16 @@
       "name": "欧洲空勤星章",
       "original": "Air Crew Europe Star",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "欧洲空勤星章；单面星章图样；低清参考",
       "views": [
         {
           "key": "GB-UK-AIR-CREW-EUROPE-STAR-V-AIR-CREW-EUROPE-STAR-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；不据此图单独判定正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-AIR-CREW-EUROPE-STAR-1"
       ]
     },
     {
@@ -842,15 +903,16 @@
       "name": "军功十字勋章",
       "original": "Military Cross (MC)",
       "date": "1914年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "军功十字勋章挂章；单面；低清参考",
       "views": [
         {
           "key": "GB-UK-MILITARY-CROSS-MC-V-MILITARY-CROSS-MC-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "单面；未判正背"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-MILITARY-CROSS-MC-1"
       ]
     },
     {
@@ -859,15 +921,16 @@
       "name": "南大西洋奖章",
       "original": "South Atlantic Medal",
       "date": "1982年设立",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "南大西洋奖章双面，正面绶带可见玫瑰花饰；伊丽莎白二世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-SOUTH-ATLANTIC-MEDAL-V-SOUTH-ATLANTIC-MEDAL-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-SOUTH-ATLANTIC-MEDAL-1"
       ]
     },
     {
@@ -876,15 +939,16 @@
       "name": "1939–1945年战争奖章",
       "original": "War Medal 1939 to 1945",
       "date": "第二次世界大战时期（1939–1945）",
-      "variant": "英国国防部页面所示完整章体；官方页面参考图；低清参考",
+      "variant": "1939–1945年战争奖章双面；乔治六世头像型；低清参考",
       "views": [
         {
           "key": "GB-UK-WAR-MEDAL-1939-TO-1945-V-WAR-MEDAL-1939-TO-1945-IMAGE",
-          "label": "完整章体（英国国防部官方页面参考图）"
+          "label": "左正面、右背面"
         }
       ],
       "source_ids": [
-        "uk-mod-medal-guide"
+        "uk-mod-medal-guide",
+        "UK-MOD-20260930-GB-UK-WAR-MEDAL-1939-TO-1945-1"
       ]
     }
   ],

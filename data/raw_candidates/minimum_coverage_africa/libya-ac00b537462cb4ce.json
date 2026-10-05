@@ -1,0 +1,49 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-ac00b537462cb4ce",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/order-of-the-jihad.html",
+  "page_title": "Order of the Jihad",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/ac00b537462cb4ce.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of the Jihad Order instituted in 1973. Order awarded to Arab Libyans who fought to repel the Italian aggression and participated in accordance with their ability to liberate the country from the yoke of colonialism and to whoever played a distinctive role in battles of national jihad to liberate Arab land. Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/2/4/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/4/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/2/4/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-9d9b95503a4cd39de448.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "0ccb9735073bb61d8d5eb688c444894f60fcdf8851cf331d7317db70bb0653f4",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/4/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-ee4328c08aeff5b44b90.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "4ba05196334eb1817252034bd45f8344413b82eda1101520c22edbfbd3f6fbc8",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/order-of-the-jihad.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

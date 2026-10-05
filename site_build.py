@@ -258,13 +258,13 @@ volume_specs=[
   'manifest_files':['poland_wikipedia_master_pictured_2026-09-28_manifest.json'],
   'countries':['波兰'],'unfiltered_record_files':['poland_wikipedia_master_pictured_2026-09-28.json']},
  {'slug':'uk','title':'英国','anchor':'uk','aliases':'英国 大英帝国 United Kingdom Great Britain British Empire England Scotland Wales Northern Ireland',
-  'record_files':['uk_mod_pack1.json','uk_us_gap_round2_2026-09-26.json'],'manifest_files':['uk_mod_pack1_manifest.json','uk_us_gap_round2_2026-09-26_manifest.json'],'countries':['英国／大英帝国'],'unfiltered_record_files':['uk_mod_pack1.json']},
+  'record_files':['uk_mod_pack1.json','uk_us_gap_round2_2026-09-26.json','uk_mod_completion_20260930.json'],'manifest_files':['uk_mod_pack1_manifest.json','uk_us_gap_round2_2026-09-26_manifest.json','uk_mod_completion_20260930_manifest.json'],'countries':['英国／大英帝国'],'unfiltered_record_files':['uk_mod_pack1.json']},
  {'slug':'united_states','title':'美国','anchor':'united-states','aliases':'美国 United States USA U.S. NHHC NARA',
   'record_files':['us_nhhc_pack1.json','uk_us_gap_round2_2026-09-26.json'],'manifest_files':['us_nhhc_pack1_manifest.json','uk_us_gap_round2_2026-09-26_manifest.json'],'countries':['美国'],'unfiltered_record_files':['us_nhhc_pack1.json']},
  {'slug':'russian_empire','title':'俄罗斯帝国','anchor':'russian-empire','aliases':'俄罗斯帝国 Imperial Russia Российская империя',
   'record_files':['russian_empire_pack1.json','russian_empire_gap_2026-09-26.json'],'manifest_files':['russian_empire_pack1_manifest.json','russian_empire_gap_2026-09-26_manifest.json'],'country_group':'russia'},
  {'slug':'soviet_union','title':'苏联','anchor':'soviet-union','aliases':'苏联 USSR Soviet Union СССР',
-  'record_files':['soviet_union_pack1.json','russia_bulk_pack2.json','russia_bulk_pack3.json','soviet_gap_round4_2026-09-26.json','soviet_wikipedia_master_differential_2026-09-28.json','soviet_wikipedia_master_followup_2026-09-28.json'],'manifest_files':['soviet_union_pack1_manifest.json','russia_bulk_pack2_manifest.json','russia_bulk_pack3_manifest.json','soviet_gap_round4_2026-09-26_manifest.json','soviet_wikipedia_master_differential_2026-09-28_manifest.json','soviet_wikipedia_master_followup_2026-09-28_manifest.json'],'exclude_ids':['USSR-MED-08-V-II-WIKI','USSR-MED-10-V-II-WIKI','USSR-MED-54-V-II-WIKI'],'country_group':'russia'},
+  'record_files':['soviet_union_pack1.json','russia_bulk_pack2.json','russia_bulk_pack3.json','soviet_gap_round4_2026-09-26.json','soviet_wikipedia_master_differential_2026-09-28.json','soviet_wikipedia_master_followup_2026-09-28.json','soviet_completion_20260929.json'],'manifest_files':['soviet_union_pack1_manifest.json','russia_bulk_pack2_manifest.json','russia_bulk_pack3_manifest.json','soviet_gap_round4_2026-09-26_manifest.json','soviet_wikipedia_master_differential_2026-09-28_manifest.json','soviet_wikipedia_master_followup_2026-09-28_manifest.json','soviet_completion_20260929_manifest.json'],'exclude_ids':['USSR-MED-08-V-II-WIKI','USSR-MED-10-V-II-WIKI','USSR-MED-54-V-II-WIKI'],'country_group':'russia'},
  {'slug':'russian_federation','title':'俄罗斯联邦','anchor':'russian-federation','aliases':'俄罗斯联邦 Russia Russian Federation Российская Федерация',
   'record_files':['russian_federation_pack1.json'],'manifest_files':['russian_federation_pack1_manifest.json'],'country_group':'russia'},
  {'slug':'qing_empire','title':'大清帝国（1644–1912）','anchor':'qing-empire','aliases':'大清 清朝 清帝国 Qing Imperial China 双龙宝星 宝星功牌',
@@ -340,6 +340,58 @@ volume_specs=[
 ]
 minimum_specs=read('volumes/minimum_east_south_africa_20260929_specs.json')
 volume_specs.extend(minimum_specs)
+france_completion_specs=ROOT/'data/volumes/france_completion_20260929_specs.json'
+if france_completion_specs.exists():
+    volume_specs.extend(json.loads(france_completion_specs.read_text(encoding='utf-8')))
+german_completion_specs=ROOT/'data/volumes/german_completion_20260929_specs.json'
+if german_completion_specs.exists():
+    volume_specs.extend(json.loads(german_completion_specs.read_text(encoding='utf-8')))
+user_soviet_file=ROOT/'data/volumes/user_soviet_20261003.json'
+if user_soviet_file.exists():
+    user_rows=json.loads(user_soviet_file.read_text('utf-8'))['records']
+    for spec in volume_specs:
+        if spec['anchor']=='soviet-union':
+            spec['record_files'].append('user_soviet_20261003.json')
+            spec['manifest_files'].append('user_soviet_20261003_manifest.json')
+            spec.setdefault('file_include_ids',{})['user_soviet_20261003.json']=[r['id'] for r in user_rows if r['family'].startswith('USSR-')]
+            spec.setdefault('unfiltered_record_files',[]).append('user_soviet_20261003.json')
+    volume_specs.append(dict(slug='rsfsr_user_references',title='俄罗斯苏维埃联邦社会主义共和国·红旗勋章前身',anchor='rsfsr-awards',aliases='苏俄 RSFSR РСФСР 红旗勋章',country_group='russia',record_files=['user_soviet_20261003.json'],manifest_files=['user_soviet_20261003_manifest.json'],unfiltered_record_files=['user_soviet_20261003.json'],file_include_ids={'user_soviet_20261003.json':[r['id'] for r in user_rows if r['family'].startswith('RSFSR-')]}))
+france_identify_integration=ROOT/'data/volumes/france_identify_20260930_integration.json'
+if france_identify_integration.exists():
+    integration=json.loads(france_identify_integration.read_text(encoding='utf-8'))
+    volume_specs.extend(integration['new_specs'])
+    for spec in volume_specs:
+        ids=integration['volume_rows'].get(spec['anchor'])
+        if ids:
+            spec['record_files'].append('france_identify_20260930.json')
+            spec['manifest_files'].append('france_identify_20260930_manifest.json')
+            spec.setdefault('unfiltered_record_files',[]).append('france_identify_20260930.json')
+            spec.setdefault('file_include_ids',{})['france_identify_20260930.json']=ids
+user_other_integration=ROOT/'data/volumes/user_other_20261003_integration.json'
+if user_other_integration.exists():
+    integration=json.loads(user_other_integration.read_text('utf-8'))
+    for spec in volume_specs:
+        ids=integration['volume_rows'].get(spec['anchor'])
+        if ids:
+            spec['record_files'].append('user_other_20261003.json')
+            spec['manifest_files'].append('user_other_20261003_manifest.json')
+            spec.setdefault('unfiltered_record_files',[]).append('user_other_20261003.json')
+            spec.setdefault('file_include_ids',{})['user_other_20261003.json']=ids
+            if spec.get('include_ids'):spec['include_ids'].extend(ids)
+for batch_name in ('source_batch_20261005','austria_pending_20261005'):
+    batch_integration=ROOT/f'data/volumes/{batch_name}_integration.json'
+    if not batch_integration.exists():continue
+    integration=json.loads(batch_integration.read_text('utf-8'))
+    if integration['volume_rows'].get('france-kingdom'):
+        volume_specs.append(dict(slug='france-kingdom',title='法国王国·旧制度时期',anchor='france-kingdom',aliases='法国王国 France Kingdom Ancien Régime 圣灵 圣路易',country_group='france',record_files=[],manifest_files=[]))
+    for spec in volume_specs:
+        ids=integration['volume_rows'].get(spec['anchor'])
+        if ids:
+            spec['record_files'].append(batch_name+'.json')
+            spec['manifest_files'].append(batch_name+'_manifest.json')
+            spec.setdefault('unfiltered_record_files',[]).append(batch_name+'.json')
+            spec.setdefault('file_include_ids',{})[batch_name+'.json']=ids
+            if spec.get('include_ids'):spec['include_ids'].extend(ids)
 volumes=[]
 view_paths={}
 for spec in volume_specs:
@@ -383,6 +435,10 @@ for spec in volume_specs:
     country_group=spec.get('country_group') or ('japan' if slug.startswith('japan_') else slug)
     volumes.append({'slug':slug,'title':title,'anchor':anchor,'aliases':aliases,'country':country_group,'records':pictured,'pending':pending,
                     'candidates':[x for meta in metadata for x in meta.get('unpictured_candidates',[])]})
+globally_superseded={r['supersedes_id'] for v in volumes for r in v['records'] if r.get('supersedes_id')}
+for v in volumes:
+    v['records']=[r for r in v['records'] if r['id'] not in globally_superseded]
+    v['pending']=[r for r in v['pending'] if r['id'] not in globally_superseded]
 if len({r['id'] for vol in volumes for r in vol['records']+vol['pending']})!=sum(len(v['records']+v['pending']) for v in volumes):
     raise ValueError('Duplicate volume record ID')
 image_keys={v['key'] for r in catalogue+related for v in r['views']}
@@ -398,6 +454,8 @@ for key,img in manifest.items():
 # Adjacent school, association, qualification and unofficial pieces are useful
 # references, but are deliberately kept out of the official family count.
 related_volume_specs=[
+    ('austria_pending_related_20261005.json','austria_pending_related_20261005_manifest.json'),
+    ('german_completion_related_20260929.json','german_completion_related_20260929_manifest.json'),
     ('ottoman_kuenker299_related.json','ottoman_kuenker299_related_manifest.json'),
     ('ottoman_cng_triple_alliance_related.json','ottoman_cng_triple_alliance_related_manifest.json'),
     ('ottoman_cgb_related.json','ottoman_cgb_related_manifest.json'),
@@ -582,6 +640,9 @@ def row_html(r,family_key=None,collapsed=False):
     context=volume['title'] if volume else '奥斯曼帝国'
     add_search(name,r['id'],alias,context)
     family_attrs=(' class="family-member" data-family-key="'+escape(family_key,quote=True)+'"'+(' hidden' if collapsed else '')) if family_key else ''
+    family_attrs+=' data-award-family="'+escape(r['family'],quote=True)+'"'
+    if r.get('publication_eligible') is False:
+        family_attrs+=' data-publication-eligible="false"'
     return '<tr id="'+escape(r['id'],quote=True)+'"'+family_attrs+' data-source-ids="'+escape(','.join(r['source_ids']),quote=True)+'"><td class="name"><strong>'+escape(r['name'])+'</strong><span class="original">'+escape(r['original'])+'</span><span class="date">'+escape(r['date'])+'</span></td><td class="meta">'+escape(r['variant'])+'</td><td class="pictures"><div class="imagegrid'+(' pair' if len(pics)>1 else '')+'">'+''.join(pics)+'</div></td></tr>'
 def table(records):
     grouped={}
@@ -609,10 +670,14 @@ for volume in volumes:
         pending_id=volume['anchor']+'-unpictured'
         items=[r['name']+' · '+r['date'] for r in volume['pending']+volume['candidates']]
         for item in items:add_search(item,pending_id,volume['aliases'])
-        pending_lines=''.join('<li>'+escape(item)+'</li>' for item in items)
+        pending_lines=''.join('<li data-id="'+escape(r.get('id',r.get('family','')),quote=True)+'" data-family="'+escape(r.get('family',''),quote=True)+'" data-name="'+escape(r['name'],quote=True)+'" data-original="'+escape(r.get('original',''),quote=True)+'" data-date="'+escape(r['date'],quote=True)+'" data-variant="'+escape(r.get('variant','有记载未配图'),quote=True)+'" data-source-ids="'+escape(','.join(r.get('source_ids',[])),quote=True)+'">'+escape(label)+'</li>' for r,label in zip(volume['pending']+volume['candidates'],items))
         sections.append('<section class="period-section" data-country="'+escape(volume['country'],quote=True)+'" id="'+pending_id+'"><h2>'+escape(volume['title']+' · 有记载，暂缺完整图片')+'</h2><ul class="noimage">'+pending_lines+'</ul></section>')
-if related:
-    sections.append('<section class="period-section" id="related"><h2>相关奖励与纪念佩饰</h2><p class="gallery-meta">此附编不计入正式勋奖章章种数；复制品已明示。</p>'+table(sorted(related,key=year))+'</section>')
+german_related=[r for r in related if r.get('country_group')=='germany']
+other_related=[r for r in related if r.get('country_group')!='germany']
+if german_related:
+    sections.append('<section class="period-section" data-country="germany" id="germany-related"><h2>德国 · 团体荣誉与资格徽章（附编）</h2><p class="gallery-meta">有记载，暂缺完整图片；不计入正式勋奖章章种数。</p>'+table(sorted(german_related,key=year))+'</section>')
+if other_related:
+    sections.append('<section class="period-section" id="related"><h2>相关奖励与纪念佩饰</h2><p class="gallery-meta">此附编不计入正式勋奖章章种数；复制品已明示。</p>'+table(sorted(other_related,key=year))+'</section>')
 if unpictured:
     lines=[]
     for item in unpictured:

@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "france_source_national",
+    "title": "法国·勋奖章制度沿革",
+    "anchor": "france-source-national",
+    "aliases": "法国·勋奖章制度沿革 France 法国",
+    "country_group": "france",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法国·勋奖章制度沿革"
+    ]
+  },
+  {
+    "slug": "france_source_italy",
+    "title": "拿破仑时期意大利王国",
+    "anchor": "france-source-italy",
+    "aliases": "拿破仑时期意大利王国 France 意大利王国（拿破仑时期）",
+    "country_group": "italy",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "拿破仑时期意大利王国"
+    ]
+  },
+  {
+    "slug": "france_source_anjouan",
+    "title": "昂儒昂·法国殖民授奖体系",
+    "anchor": "france-source-anjouan",
+    "aliases": "昂儒昂·法国殖民授奖体系 France 昂儒昂苏丹国；法国保护国／殖民政府",
+    "country_group": "anjouan",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "昂儒昂·法国殖民授奖体系"
+    ]
+  },
+  {
+    "slug": "france_source_dahomey",
+    "title": "达荷美·法国殖民授奖体系",
+    "anchor": "france-source-dahomey",
+    "aliases": "达荷美·法国殖民授奖体系 France 波多诺伏王国；法国殖民政府",
+    "country_group": "dahomey",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "达荷美·法国殖民授奖体系"
+    ]
+  },
+  {
+    "slug": "france_source_cameroon",
+    "title": "法属喀麦隆",
+    "anchor": "france-source-cameroon",
+    "aliases": "法属喀麦隆 France 法属喀麦隆托管地政府",
+    "country_group": "cameroon",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属喀麦隆"
+    ]
+  },
+  {
+    "slug": "france_source_indochina",
+    "title": "法属印度支那·地方奖励体系",
+    "anchor": "france-source-indochina",
+    "aliases": "法属印度支那·地方奖励体系 France 法属印度支那总督府",
+    "country_group": "indochina",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属印度支那·地方奖励体系"
+    ]
+  },
+  {
+    "slug": "france_source_madagascar",
+    "title": "法属马达加斯加及属地",
+    "anchor": "france-source-madagascar",
+    "aliases": "法属马达加斯加及属地 France 马达加斯加及属地总督府",
+    "country_group": "madagascar",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属马达加斯加及属地"
+    ]
+  },
+  {
+    "slug": "france_source_tadjoura",
+    "title": "塔朱拉·法国殖民授奖体系",
+    "anchor": "france-source-tadjoura",
+    "aliases": "塔朱拉·法国殖民授奖体系 France 塔朱拉苏丹国；法国保护国／殖民政府",
+    "country_group": "tadjoura",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "塔朱拉·法国殖民授奖体系"
+    ]
+  },
+  {
+    "slug": "france_source_polynesia",
+    "title": "法属波利尼西亚",
+    "anchor": "france-source-polynesia",
+    "aliases": "法属波利尼西亚 France 法属波利尼西亚",
+    "country_group": "polynesia",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属波利尼西亚"
+    ]
+  },
+  {
+    "slug": "france_source_related",
+    "title": "法国·相关历史佩饰与专题",
+    "anchor": "france-source-related",
+    "aliases": "法国·相关历史佩饰与专题 France 法国",
+    "country_group": "france",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法国·相关历史佩饰与专题"
+    ]
+  },
+  {
+    "slug": "france_source_algeria",
+    "title": "法属阿尔及利亚·地方奖励",
+    "anchor": "france-source-algeria",
+    "aliases": "法属阿尔及利亚·地方奖励 France 阿尔及利亚法国行政体系",
+    "country_group": "algeria",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属阿尔及利亚·地方奖励"
+    ]
+  },
+  {
+    "slug": "france_source_india",
+    "title": "法属印度·公共部队奖励",
+    "anchor": "france-source-india",
+    "aliases": "法属印度·公共部队奖励 France 法属印度行政体系",
+    "country_group": "india",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "法属印度·公共部队奖励"
+    ]
+  },
+  {
+    "slug": "france_source_saar",
+    "title": "萨尔·法国管理时期矿业奖励",
+    "anchor": "france-source-saar",
+    "aliases": "萨尔·法国管理时期矿业奖励 France 萨尔盆地矿务管理局（法国管理时期）",
+    "country_group": "saar",
+    "record_files": [
+      "france_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "france_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨尔·法国管理时期矿业奖励"
+    ]
+  }
+]

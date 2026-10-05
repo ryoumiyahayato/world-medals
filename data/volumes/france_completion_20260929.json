@@ -1,0 +1,2160 @@
+{
+  "records": [
+    {
+      "id": "FRA-SAMLHOC-INSTITUTION_MERITE_MILITAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-INSTITUTION_MERITE_MILITAIRE",
+      "name": "军事功绩制度勋章",
+      "original": "Institution du Mérite militaire",
+      "date": "1759年3月10日设立；1784–1785年调整制度",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-institution_merite_militaire-0",
+        "FR-SAMLHOC-COMPLETE-institution_merite_militaire-1",
+        "FR-SAMLHOC-COMPLETE-institution_merite_militaire-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_3_TOISONS_OR-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_3_TOISONS_OR",
+      "name": "帝国三金羊毛勋章",
+      "original": "Ordre impérial des Trois Toisons d’Or",
+      "date": "1809年8月15日颁布设立文件；1813年9月27日解散",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_3_toisons_or-0",
+        "FR-SAMLHOC-COMPLETE-ordre_3_toisons_or-1",
+        "FR-SAMLHOC-COMPLETE-ordre_3_toisons_or-2",
+        "FR-SAMLHOC-COMPLETE-ordre_3_toisons_or-3",
+        "FR-SAMLHOC-COMPLETE-ordre_3_toisons_or-4"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_ARTS_LETTRES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_ARTS_LETTRES",
+      "name": "艺术与文学勋章",
+      "original": "Ordre des Arts et des Lettres",
+      "date": "1957年5月2日设立；1963年重整后延续",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_arts_lettres-0",
+        "FR-SAMLHOC-COMPLETE-ordre_arts_lettres-1",
+        "FR-SAMLHOC-COMPLETE-ordre_arts_lettres-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_COURONNE_FER-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_COURONNE_FER",
+      "name": "铁皇冠勋章",
+      "original": "Ordre de la Couronne de fer",
+      "date": "1805年6月5日设立；其后由奥地利继续授予",
+      "variant": "有记载未配图",
+      "awarding_authority": "拿破仑时期意大利王国",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_couronne_fer-0",
+        "FR-SAMLHOC-COMPLETE-ordre_couronne_fer-1",
+        "FR-SAMLHOC-COMPLETE-ordre_couronne_fer-2",
+        "FR-SAMLHOC-COMPLETE-ordre_couronne_fer-3"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_ECONOMIE_NATIONALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_ECONOMIE_NATIONALE",
+      "name": "国民经济勋章",
+      "original": "Ordre de l’Économie nationale",
+      "date": "1954年1月6日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_economie_nationale-0",
+        "FR-SAMLHOC-COMPLETE-ordre_economie_nationale-1",
+        "FR-SAMLHOC-COMPLETE-ordre_economie_nationale-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_ETOILE_ANJOUAN-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_ETOILE_ANJOUAN",
+      "name": "昂儒昂之星勋章",
+      "original": "Ordre de l’Étoile d’Anjouan",
+      "date": "1874年创设；1896年9月12日改组并成为法国殖民勋章",
+      "variant": "有记载未配图",
+      "awarding_authority": "昂儒昂·法国殖民授奖体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_anjouan-0",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_anjouan-1",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_anjouan-2",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_anjouan-3",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_anjouan-4"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_ETOILE_NOIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_ETOILE_NOIRE",
+      "name": "黑星勋章",
+      "original": "Ordre de l’Étoile noire",
+      "date": "1889年12月1日创设；1896年纳入法国殖民勋章体系",
+      "variant": "有记载未配图",
+      "awarding_authority": "达荷美·法国殖民授奖体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_noire-0",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_noire-1",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_noire-2",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_noire-3",
+        "FR-SAMLHOC-COMPLETE-ordre_etoile_noire-4"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_LIBERATION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_LIBERATION",
+      "name": "解放勋章",
+      "original": "Ordre de la Libération",
+      "date": "1940年11月16日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_liberation-0",
+        "FR-SAMLHOC-COMPLETE-ordre_liberation-1",
+        "FR-SAMLHOC-COMPLETE-ordre_liberation-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_AGRICOLE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_AGRICOLE",
+      "name": "农业功绩勋章",
+      "original": "Ordre du Mérite agricole",
+      "date": "1883年7月7日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_agricole-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_agricole-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_agricole-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_ARTISANAL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_ARTISANAL",
+      "name": "手工业功绩勋章",
+      "original": "Ordre du Mérite artisanal",
+      "date": "1948年6月11日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_artisanal-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_artisanal-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_artisanal-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_CAMEROUN-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_CAMEROUN",
+      "name": "喀麦隆本地居民功绩勋章",
+      "original": "Ordre pour le Mérite indigène (Cameroun)",
+      "date": "1924年4月24日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属喀麦隆",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_cameroun-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_CIVIL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_CIVIL",
+      "name": "内政部民事功绩勋章",
+      "original": "Ordre du Mérite civil du ministère de l’Intérieur",
+      "date": "1957年10月14日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_civil-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_civil-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_civil-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_COMBATTANT-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_COMBATTANT",
+      "name": "战斗员功绩勋章",
+      "original": "Ordre du Mérite combattant",
+      "date": "1953年9月14日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_combattant-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_combattant-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_combattant-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_COMMERCIAL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_COMMERCIAL",
+      "name": "商业与工业功绩勋章",
+      "original": "Ordre du Mérite commercial et industriel",
+      "date": "1939年5月27日设立；1961年更名；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_commercial-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_commercial-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_commercial-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_INDOCHINOIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_INDOCHINOIS",
+      "name": "印度支那功绩勋章",
+      "original": "Ordre du Mérite Indochinois",
+      "date": "1900年4月30日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_indochinois-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_indochinois-1"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_MADAGASCAR_DEPENDANCES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_MADAGASCAR_DEPENDANCES",
+      "name": "马达加斯加及属地功绩勋章",
+      "original": "Ordre du Mérite de Madagascar et Dépendances",
+      "date": "1901年5月14日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属马达加斯加及属地",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_madagascar_dependances-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_MARITIME-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_MARITIME",
+      "name": "海事功绩勋章",
+      "original": "Ordre du Mérite maritime",
+      "date": "1930年2月9日设立；1948年扩展至军事海事领域",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_maritime-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_maritime-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_maritime-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_MILITAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_MILITAIRE",
+      "name": "军事功绩勋章（1957）",
+      "original": "Ordre du Mérite militaire",
+      "date": "1957年3月22日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_militaire-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_militaire-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_militaire-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_POSTAL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_POSTAL",
+      "name": "邮政功绩勋章",
+      "original": "Ordre du Mérite postal",
+      "date": "1953年11月14日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_postal-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_postal-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_postal-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_SAHARIEN-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_SAHARIEN",
+      "name": "撒哈拉功绩勋章",
+      "original": "Ordre du Mérite saharien",
+      "date": "1958年4月4日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_saharien-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_saharien-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_saharien-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_SOCIAL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_SOCIAL",
+      "name": "社会功绩勋章",
+      "original": "Ordre du Mérite social",
+      "date": "1936年10月25日设立；1936年11月16日补充、1937年2月14日修订；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_social-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_social-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_social-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_SPORTIF-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_SPORTIF",
+      "name": "体育功绩勋章",
+      "original": "Ordre du Mérite sportif",
+      "date": "1956年7月6日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_sportif-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_sportif-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_sportif-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_TOURISTIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_TOURISTIQUE",
+      "name": "旅游功绩勋章",
+      "original": "Ordre du Mérite touristique",
+      "date": "1949年5月27日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_touristique-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_touristique-1",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_touristique-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_MERITE_TRAVAIL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_MERITE_TRAVAIL",
+      "name": "劳动功绩勋章",
+      "original": "Ordre du Mérite du travail",
+      "date": "1957年1月21日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_merite_travail-0",
+        "FR-SAMLHOC-COMPLETE-ordre_merite_travail-1"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_NATIONAL_TRAVAIL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_NATIONAL_TRAVAIL",
+      "name": "国家劳动勋章",
+      "original": "Ordre national du Travail",
+      "date": "1942年4月1日设立；1943–1944年有限授予",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_national_travail-0",
+        "FR-SAMLHOC-COMPLETE-ordre_national_travail-1"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_NICHAN_EL_ANOUAR-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_NICHAN_EL_ANOUAR",
+      "name": "光辉之星勋章",
+      "original": "Ordre du Nichan El-Anouar",
+      "date": "1887年10月创设；1896年5月10日成为法国殖民勋章",
+      "variant": "有记载未配图",
+      "awarding_authority": "塔朱拉·法国殖民授奖体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_nichan_el-anouar-0",
+        "FR-SAMLHOC-COMPLETE-ordre_nichan_el-anouar-1",
+        "FR-SAMLHOC-COMPLETE-ordre_nichan_el-anouar-2",
+        "FR-SAMLHOC-COMPLETE-ordre_nichan_el-anouar-3",
+        "FR-SAMLHOC-COMPLETE-ordre_nichan_el-anouar-4"
+      ]
+    },
+    {
+      "id": "FRA-PALMES-ACADEMIQUES-TEXT-20260929",
+      "family": "FRA-PALMES-ACADEMIQUES",
+      "name": "学术棕榈叶勋章",
+      "original": "Ordre des Palmes académiques",
+      "date": "1955年10月4日设为现行勋章；沿革可追溯至1808年",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_palmes_academiques-0",
+        "FR-SAMLHOC-COMPLETE-ordre_palmes_academiques-1",
+        "FR-SAMLHOC-COMPLETE-ordre_palmes_academiques-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_REUNION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_REUNION",
+      "name": "帝国联合勋章",
+      "original": "Ordre impérial de la Réunion",
+      "date": "1811年10月18日设立；波旁复辟时期停止授予",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_reunion-0",
+        "FR-SAMLHOC-COMPLETE-ordre_reunion-1",
+        "FR-SAMLHOC-COMPLETE-ordre_reunion-2",
+        "FR-SAMLHOC-COMPLETE-ordre_reunion-3"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_SAINT_LOUIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_SAINT_LOUIS",
+      "name": "圣路易皇家军事勋章",
+      "original": "Ordre royal et militaire de Saint-Louis",
+      "date": "1693年4月5日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_saint_louis-0",
+        "FR-SAMLHOC-COMPLETE-ordre_saint_louis-1",
+        "FR-SAMLHOC-COMPLETE-ordre_saint_louis-2",
+        "FR-SAMLHOC-COMPLETE-ordre_saint_louis-3"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_SANTE_PUBLIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_SANTE_PUBLIQUE",
+      "name": "公共卫生勋章",
+      "original": "Ordre de la Santé publique",
+      "date": "1938年2月18日设立；1963年撤销",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_sante_publique-0",
+        "FR-SAMLHOC-COMPLETE-ordre_sante_publique-1",
+        "FR-SAMLHOC-COMPLETE-ordre_sante_publique-2"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-ORDRE_TAHITI_NUI-TEXT-20260929",
+      "family": "FRA-SAMLHOC-ORDRE_TAHITI_NUI",
+      "name": "大溪地努伊勋章",
+      "original": "Ordre de Tahiti Nui",
+      "date": "1996年6月5日设立",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属波利尼西亚",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-0",
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-1",
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-2",
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-3",
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-4",
+        "FR-SAMLHOC-COMPLETE-ordre_tahiti_nui-5"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-BRASSARD_BORDEAUX-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-BRASSARD_BORDEAUX",
+      "name": "波尔多袖标勋饰",
+      "original": "Ordre du Brassard de Bordeaux",
+      "date": "1814-06-05",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-BRASSARD_BORDEAUX-P01",
+        "FR-SAMLHOC-DEC-BRASSARD_BORDEAUX-P02",
+        "FR-SAMLHOC-DEC-BRASSARD_BORDEAUX-P03",
+        "FR-SAMLHOC-DEC-BRASSARD_BORDEAUX-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT",
+      "name": "战斗员十字勋章",
+      "original": "Croix du Combattant",
+      "date": "1930-06-28",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT-P01",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT-P02",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE",
+      "name": "志愿战斗员十字勋章",
+      "original": "Croix du Combattant volontaire",
+      "date": "1953-02-04（1939–1945年旧法）；1981-09-08（通用章重设）",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE-P01",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_1914_1918-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_1914_1918",
+      "name": "1914–1918年及1870–1871年自愿参战者十字勋章",
+      "original": "Croix du Combattant volontaire 1914-1918 et 1870-1871",
+      "date": "1935-07-04",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE_1914-1918-P01",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE_1914-1918-P02",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE_1914-1918-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_RESISTANCE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_COMBATTANT_VOLONTAIRE_RESISTANCE",
+      "name": "抵抗运动自愿战斗员十字勋章",
+      "original": "Croix du Combattant Volontaire de la Résistance",
+      "date": "1954-04-15",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE_RESISTANCE-P01",
+        "FR-SAMLHOC-DEC-CROIX_COMBATTANT_VOLONTAIRE_RESISTANCE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_1939_1945-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_1939_1945",
+      "name": "1939–1945年战争十字勋章",
+      "original": "Croix de guerre 1939-1945",
+      "date": "1939-09-26",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_1939-1945-P01",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_1939-1945-P02",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_1939-1945-P03",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_1939-1945-P04",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_1939-1945-P05"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_LEGION_VOLONTAIRES_FRANCAIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_LEGION_VOLONTAIRES_FRANCAIS",
+      "name": "法国志愿军团战争十字佩饰",
+      "original": "Croix de guerre de la Légion des volontaires français (LVF)",
+      "date": "1942年7月",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_LEGION_VOLONTAIRES_FRANCAIS-P01",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_LEGION_VOLONTAIRES_FRANCAIS-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_TOE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_GUERRE_TOE",
+      "name": "海外战区战争十字勋章",
+      "original": "Croix de guerre des Théâtres d’Opérations Extérieurs",
+      "date": "1921-04-30",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_TOE-P01",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_TOE-P02",
+        "FR-SAMLHOC-DEC-CROIX_GUERRE_TOE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_SERVICES_MILITAIRES_VOLONTAIRES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_SERVICES_MILITAIRES_VOLONTAIRES",
+      "name": "志愿军事服务十字勋章",
+      "original": "Croix des Services militaires volontaires",
+      "date": "1934-05-13",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_SERVICES_MILITAIRES_VOLONTAIRES-P01",
+        "FR-SAMLHOC-DEC-CROIX_SERVICES_MILITAIRES_VOLONTAIRES-P02",
+        "FR-SAMLHOC-DEC-CROIX_SERVICES_MILITAIRES_VOLONTAIRES-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-CROIX_VALEUR_MILITAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-CROIX_VALEUR_MILITAIRE",
+      "name": "军事英勇奖章／军事英勇十字勋章",
+      "original": "Médaille de la Valeur militaire / Croix de la Valeur militaire",
+      "date": "1956-04-11（页面题头另标1956-10-12）",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-CROIX_VALEUR_MILITAIRE-P01",
+        "FR-SAMLHOC-DEC-CROIX_VALEUR_MILITAIRE-P02",
+        "FR-SAMLHOC-DEC-CROIX_VALEUR_MILITAIRE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-DECORATION_FIDELITE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-DECORATION_FIDELITE",
+      "name": "忠诚装饰章",
+      "original": "Ordre de la Fidélité",
+      "date": "1816-02-05",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-DECORATION_FIDELITE-P01",
+        "FR-SAMLHOC-DEC-DECORATION_FIDELITE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-DECORATION_LYS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-DECORATION_LYS",
+      "name": "百合花装饰章",
+      "original": "Décoration du Lys (souvent appelée Ordre du Lys)",
+      "date": "1814-04-26",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-DECORATION_LYS-P01",
+        "FR-SAMLHOC-DEC-DECORATION_LYS-P02",
+        "FR-SAMLHOC-DEC-DECORATION_LYS-P03",
+        "FR-SAMLHOC-DEC-DECORATION_LYS-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_JUILLET-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_JUILLET",
+      "name": "七月十字勋章与七月奖章",
+      "original": "Croix et Médaille de Juillet",
+      "date": "1830-12-13（十字勋章）；1831-05-13（奖章）",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-DECORATIONS_JUILLET-P01",
+        "FR-SAMLHOC-DEC-DECORATIONS_JUILLET-P02",
+        "FR-SAMLHOC-DEC-DECORATIONS_JUILLET-P03",
+        "FR-SAMLHOC-DEC-DECORATIONS_JUILLET-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VAINQUEURS_BASTILLE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VAINQUEURS_BASTILLE",
+      "name": "巴士底狱攻占者奖励佩饰",
+      "original": "Décorations des vainqueurs de la Bastille",
+      "date": "1789年7月14日事件后；各项颁授日期未统一",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-DECORATIONS_VAINQUEURS_BASTILLE-P01",
+        "FR-SAMLHOC-DEC-DECORATIONS_VAINQUEURS_BASTILLE-P02",
+        "FR-SAMLHOC-DEC-DECORATIONS_VAINQUEURS_BASTILLE-P03",
+        "FR-SAMLHOC-DEC-DECORATIONS_VAINQUEURS_BASTILLE-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VOLONTAIRES_ROYAUX-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-DECORATIONS_VOLONTAIRES_ROYAUX",
+      "name": "王室志愿者及复辟时期奖励佩饰",
+      "original": "Décoration des Volontaires royaux",
+      "date": "1815年（专题中另涉及1793年里昂围城及1814年巴约讷防御）",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-DECORATIONS_VOLONTAIRES_ROYAUX-P01",
+        "FR-SAMLHOC-DEC-DECORATIONS_VOLONTAIRES_ROYAUX-P02",
+        "FR-SAMLHOC-DEC-DECORATIONS_VOLONTAIRES_ROYAUX-P03",
+        "FR-SAMLHOC-DEC-DECORATIONS_VOLONTAIRES_ROYAUX-P04",
+        "FR-SAMLHOC-DEC-DECORATIONS_VOLONTAIRES_ROYAUX-P05"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-FRANCISQUE_GALLIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-FRANCISQUE_GALLIQUE",
+      "name": "高卢战斧徽记（Francisque）",
+      "original": "Francisque gallique",
+      "date": "1941-05-26",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-FRANCISQUE_GALLIQUE-P01",
+        "FR-SAMLHOC-DEC-FRANCISQUE_GALLIQUE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_BLESSES_CIVILS_GUERRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-INSIGNE_BLESSES_CIVILS_GUERRE",
+      "name": "战争平民伤员徽章",
+      "original": "Insigne des Blessés civils de la guerre",
+      "date": "1918-07-01",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-INSIGNE_BLESSES_CIVILS_GUERRE-P01",
+        "FR-SAMLHOC-DEC-INSIGNE_BLESSES_CIVILS_GUERRE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_MORTS_POUR_LA_FRANCE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-INSIGNE_MORTS_POUR_LA_FRANCE",
+      "name": "“为法国而死”者母亲、遗孀与鳏夫纪念徽章",
+      "original": "Insigne spécial pour les mères, les veuves et les veufs des « Morts pour la France »",
+      "date": "1946-04-30",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-INSIGNE_MORTS_POUR_LA_FRANCE-P01"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_PATRIOTE_REFRACTAIRE_ANNEXION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-INSIGNE_PATRIOTE_REFRACTAIRE_ANNEXION",
+      "name": "拒绝事实吞并爱国者徽章",
+      "original": "Insigne de Patriote réfractaire à l’annexion de fait",
+      "date": "1998-12-07",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-INSIGNE_PATRIOTE_REFRACTAIRE_ANNEXION-P01"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-INSIGNE_REFRACTAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-INSIGNE_REFRACTAIRE",
+      "name": "拒绝强制征工者徽章",
+      "original": "Insigne du Réfractaire",
+      "date": "1963-10-21",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-INSIGNE_REFRACTAIRE-P01",
+        "FR-SAMLHOC-DEC-INSIGNE_REFRACTAIRE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_AERONAUTIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_AERONAUTIQUE",
+      "name": "航空奖章",
+      "original": "Médaille de l’Aéronautique",
+      "date": "1945-02-14",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_AERONAUTIQUE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_AERONAUTIQUE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_BLESSES_GUERRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_BLESSES_GUERRE",
+      "name": "战争伤员徽章／战争伤员奖章",
+      "original": "Insigne des Blessés de guerre / Médaille des Blessés de guerre",
+      "date": "1916-07-27（伤员徽章）；2016-08-17（正式奖章）",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_BLESSES_GUERRE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_BLESSES_GUERRE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_BLESSES_GUERRE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEFENSE_NATIONALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEFENSE_NATIONALE",
+      "name": "国家防务奖章",
+      "original": "Médaille de la Défense nationale",
+      "date": "1982-04-21",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_DEFENSE_NATIONALE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEFENSE_NATIONALE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEFENSE_NATIONALE-P03",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEFENSE_NATIONALE-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE",
+      "name": "政治原因被驱逐与拘禁奖章",
+      "original": "Médaille de la Déportation et de l’Internement politique",
+      "date": "1948-09-09",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_POLITIQUE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE",
+      "name": "抵抗运动人员被驱逐与拘禁奖章",
+      "original": "Médaille de la Déportation et de l’Internement pour faits de Résistance",
+      "date": "1948-08-06",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_DEPORTATION_INTERNEMENT_RESISTANCE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_EVADES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_EVADES",
+      "name": "越狱／逃脱者奖章",
+      "original": "Médaille des Évadés",
+      "date": "1926-08-20",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_EVADES-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_EVADES-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_FRANCE_LIBEREE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_FRANCE_LIBEREE",
+      "name": "解放法国国家认可奖章",
+      "original": "Médaille de reconnaissance de la France libérée / Médaille de la France libérée",
+      "date": "1947-09-12；1948-06-16更名",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_FRANCE_LIBEREE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_FRANCE_LIBEREE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_FRANCE_LIBEREE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_GENDARMERIE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_GENDARMERIE",
+      "name": "国家宪兵队奖章",
+      "original": "Médaille de la Gendarmerie nationale",
+      "date": "1949-09-05；1950-11-30更名",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_GENDARMERIE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_GENDARMERIE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_GENDARMERIE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_MERITE_AFRIQUE_NOIRE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_MERITE_AFRIQUE_NOIRE_FRANCAISE",
+      "name": "法属黑非洲功绩奖章",
+      "original": "Médaille du mérite de l’Afrique noire française",
+      "date": "1941-06-26",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_MERITE_AFRIQUE_NOIRE_FRANCAISE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_MERITE_AFRIQUE_NOIRE_FRANCAISE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_PRISONNIERS_CIVILS_DEPORTES_OTAGES_GRANDE_GUERRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_PRISONNIERS_CIVILS_DEPORTES_OTAGES_GRANDE_GUERRE",
+      "name": "第一次世界大战平民战俘、被驱逐者与人质奖章",
+      "original": "Médaille des Prisonniers civils, déportés et otages de la Grande guerre",
+      "date": "1936-03-14",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_PRISONNIERS_CIVILS_DEPORTES_OTAGES_GRANDE_GUERRE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_PRISONNIERS_CIVILS_DEPORTES_OTAGES_GRANDE_GUERRE-P02"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_FRANCAISE",
+      "name": "法国感恩奖章",
+      "original": "Médaille de la Reconnaissance française",
+      "date": "1917-07-13",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_FRANCAISE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_FRANCAISE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_FRANCAISE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_NATION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RECONNAISSANCE_NATION",
+      "name": "国家认可奖章／北非奖章",
+      "original": "Médaille de Reconnaissance de la Nation / Médaille d’Afrique du Nord",
+      "date": "1997-04-29（北非奖章）；2002-04-12更名并扩展",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_NATION-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_NATION-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_RECONNAISSANCE_NATION-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE",
+      "name": "国防与内部安全志愿预备役人员奖章",
+      "original": "Médaille des Réservistes volontaires de défense et de sécurité intérieure",
+      "date": "2019-07-01",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE-P03",
+        "FR-SAMLHOC-DEC-MEDAILLE_RESERVISTES_VOLONTAIRES_DEFENSE_SECURITE_INTERIEURE-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESISTANCE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_RESISTANCE_FRANCAISE",
+      "name": "法国抵抗运动奖章",
+      "original": "Médaille de la Résistance française",
+      "date": "1943-02-09",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_RESISTANCE_FRANCAISE-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_RESISTANCE_FRANCAISE-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_RESISTANCE_FRANCAISE-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES",
+      "name": "志愿军事服务奖章",
+      "original": "Médaille des Services militaires volontaires",
+      "date": "1975-03-13",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES-P01",
+        "FR-SAMLHOC-DEC-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES-P02",
+        "FR-SAMLHOC-DEC-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES-P03",
+        "FR-SAMLHOC-DEC-MEDAILLE_SERVICES_MILITAIRES_VOLONTAIRES-P04"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-DECORATIONS-MEDAILLON_DEUX_EPEES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-DECORATIONS-MEDAILLON_DEUX_EPEES",
+      "name": "双剑服役纪念章（服役年资章）",
+      "original": "Médaillon des Deux-Épées ou Médaillon de Vétérance",
+      "date": "1771-04-16",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-DEC-MEDAILLON_DEUX_EPEES-P01",
+        "FR-SAMLHOC-DEC-MEDAILLON_DEUX_EPEES-P02",
+        "FR-SAMLHOC-DEC-MEDAILLON_DEUX_EPEES-P03"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_ACTES_COURAGE_DEVOUEMENT-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_ACTES_COURAGE_DEVOUEMENT",
+      "name": "勇气与献身行为奖章",
+      "original": "Médaille pour actes de Courage et de Dévouement",
+      "date": "设立日期：1833年1月31日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_actes_courage_devouement-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_ADMINISTRATION_TERRITORIALE_ETAT-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_ADMINISTRATION_TERRITORIALE_ETAT",
+      "name": "国家领土行政荣誉奖章",
+      "original": "Médaille de l’Administration territoriale de l’État",
+      "date": "设立日期：2022年12月29日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_administration_territoriale_etat-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_BLESSES_1848-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_BLESSES_1848",
+      "name": "1848年伤员奖章",
+      "original": "Médaille des Blessés",
+      "date": "1848年事件纪念；设立日期待考",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_blesses_1848-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_CAMPAGNE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_CAMPAGNE_INDOCHINE",
+      "name": "印度支那战役纪念奖章",
+      "original": "Médaille commémorative de la campagne d’Indochine",
+      "date": "设立日期：1953年8月1日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_campagne_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_CAMPAGNE_ITALIE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_CAMPAGNE_ITALIE",
+      "name": "意大利战役纪念奖章（1943—1944）",
+      "original": "Médaille commémorative de la campagne d’Italie 1943-1944",
+      "date": "设立日期：1953年4月1日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_campagne_italie-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_EXPEDITION_CHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_EXPEDITION_CHINE",
+      "name": "中国远征纪念奖章（1857—1860）",
+      "original": "Médaille commémorative de l’expédition de Chine",
+      "date": "设立日期：1861年1月23日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_expedition_chine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_EXPEDITION_TONKIN-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_EXPEDITION_TONKIN",
+      "name": "北圻远征纪念奖章",
+      "original": "Médaille commémorative de l’expédition du Tonkin",
+      "date": "设立日期：1885年9月6日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_expedition_tonkin-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE",
+      "name": "法国纪念奖章",
+      "original": "Médaille commémorative française",
+      "date": "设立日期：1995年10月9日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_francaise-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE_COREE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE_COREE",
+      "name": "联合国驻朝行动法国纪念奖章",
+      "original": "Médaille commémorative française des opérations de l’Organisation des Nations Unies en Corée",
+      "date": "设立日期：1952年1月8日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_francaise_coree-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE_OPERATIONS_MOYEN_ORIENT-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_FRANCAISE_OPERATIONS_MOYEN_ORIENT",
+      "name": "中东行动法国纪念奖章",
+      "original": "Médaille commémorative française des opérations du Moyen-Orient",
+      "date": "设立日期：1957年5月22日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_francaise_operations_moyen-orient-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_GUERRE_1939_1945-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_GUERRE_1939_1945",
+      "name": "1939—1945年战争纪念奖章",
+      "original": "Médaille commémorative de la guerre 1939-1945",
+      "date": "设立日期：1946年5月21日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_guerre_1939-1945-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_OPERATIONS_SECURITE_MAINTIEN_ORDRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_OPERATIONS_SECURITE_MAINTIEN_ORDRE",
+      "name": "北非安全与维持秩序行动纪念奖章",
+      "original": "Médaille commémorative des opérations de sécurité et de maintien de l’ordre en Afrique du Nord",
+      "date": "设立日期：1958年1月11日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_operations_securite_maintien_ordre-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_SERVICES_VOLONTAIRES_FRANCE_LIBRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_SERVICES_VOLONTAIRES_FRANCE_LIBRE",
+      "name": "自由法国志愿服务纪念奖章",
+      "original": "Médaille commémorative des Services volontaires dans la France Libre",
+      "date": "设立日期：1946年4月4日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_services_volontaires_france_libre-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_TRAVAILLEURS_INDOCHINOIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_COMMEMORATIVE_TRAVAILLEURS_INDOCHINOIS",
+      "name": "印度支那劳工纪念奖章",
+      "original": "Médaille commémorative des travailleurs Indochinois",
+      "date": "设立日期：1945年9月22日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_commemorative_travailleurs_indochinois-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_CONTRIBUTIONS_DIVERSES_ALGERIE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_CONTRIBUTIONS_DIVERSES_ALGERIE",
+      "name": "阿尔及利亚各项税务荣誉奖章",
+      "original": "Médaille d’honneur des Contributions diverses d’Algérie",
+      "date": "设立日期：1907年2月28日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属阿尔及利亚·地方奖励",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_contributions_diverses_algerie-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_DOUANES_REGIES_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_DOUANES_REGIES_INDOCHINE",
+      "name": "印度支那海关及专卖管理奖章",
+      "original": "Médaille des Douanes et régies de l’Indochine",
+      "date": "设立日期：1900年6月26日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_douanes_regies_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_ENSEIGNEMENT_PREMIER_DEGRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_ENSEIGNEMENT_PREMIER_DEGRE",
+      "name": "小学教师荣誉奖章",
+      "original": "Médaille d’honneur des Instituteurs",
+      "date": "设立日期：1886年10月30日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_enseignement_premier_degre-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_ENSEIGNEMENT_TECHNIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_ENSEIGNEMENT_TECHNIQUE",
+      "name": "技术教育奖章",
+      "original": "Médaille de l’Enseignement technique",
+      "date": "设立日期：1921年6月14日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_enseignement_technique-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_EXPOSITION_UNIVERSELLE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_EXPOSITION_UNIVERSELLE",
+      "name": "巴黎万国博览会奖章",
+      "original": "Médaille de l’Exposition universelle",
+      "date": "设立日期：1899年6月9日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·相关历史佩饰与专题",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_exposition_universelle-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_FAMILLE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_FAMILLE_FRANCAISE",
+      "name": "法国家庭奖章",
+      "original": "Médaille de la Famille française",
+      "date": "设立日期：1920年5月26日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_famille_francaise-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_FIDELITE_FRANCAISE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_FIDELITE_FRANCAISE",
+      "name": "法国忠诚奖章",
+      "original": "Médaille de la Fidélité française",
+      "date": "设立日期：1922年7月3日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_fidelite_francaise-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_GARDE_INDIGENE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_GARDE_INDIGENE_INDOCHINE",
+      "name": "印度支那卫队奖章",
+      "original": "Médaille de la Garde indigène de l’Indochine",
+      "date": "设立日期：1929年6月15日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_garde_indigene_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ACTES_DEVOUEMENT_FAITS_SAUVETAGE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ACTES_DEVOUEMENT_FAITS_SAUVETAGE",
+      "name": "勇毅与救援荣誉奖章",
+      "original": "Médaille d’honneur pour actes de Dévouement et faits de Sauvetage",
+      "date": "设立日期待考",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_actes_devouement_faits_sauvetage-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ADMINISTRATION_FORETS_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ADMINISTRATION_FORETS_INDOCHINE",
+      "name": "印度支那林务行政荣誉奖章",
+      "original": "Médaille d’honneur de l’Administration des Forêts de l’Indochine",
+      "date": "设立日期：1928年4月3日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_administration_forets_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ADMINISTRATION_PENITENTIAIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ADMINISTRATION_PENITENTIAIRE",
+      "name": "监狱行政荣誉奖章",
+      "original": "Médaille Pénitentiaire",
+      "date": "设立日期：1896年7月6日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_administration_penitentiaire-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AERONAUTIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AERONAUTIQUE",
+      "name": "航空与航空运输荣誉奖章",
+      "original": "Médaille d’honneur de l’Aéronautique et des transports aériens",
+      "date": "设立日期：1921年1月12日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_aeronautique-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AFFAIRES_ETRANGERES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AFFAIRES_ETRANGERES",
+      "name": "外交事务荣誉奖章",
+      "original": "Médaille d’honneur des Affaires étrangères",
+      "date": "设立日期：1887年7月6日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_affaires_etrangeres-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AGRICOLE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_AGRICOLE",
+      "name": "农业荣誉奖章",
+      "original": "Médaille d’honneur Agricole",
+      "date": "设立日期：1890年6月17日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_agricole-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSISTANCE_MEDICALE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSISTANCE_MEDICALE_INDOCHINE",
+      "name": "印度支那医疗救助荣誉奖章",
+      "original": "Médaille d’honneur de l’Assistance médicale de l’Indochine",
+      "date": "设立日期：1931年9月10日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_assistance_medicale_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSISTANCE_PUBLIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSISTANCE_PUBLIQUE",
+      "name": "公共救济机构荣誉奖章",
+      "original": "Médaille des établissements généraux de bienfaisance",
+      "date": "设立日期：1891年1月15日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_assistance_publique-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSURANCES_SOCIALES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ASSURANCES_SOCIALES",
+      "name": "社会保险荣誉奖章",
+      "original": "Médaille d’honneur des Assurances sociales",
+      "date": "设立日期：1923年2月27日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_assurances_sociales-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER",
+      "name": "铁路荣誉奖章",
+      "original": "Médaille d’honneur des Chemins de fer",
+      "date": "设立日期：1913年8月19日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_chemins_fer-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER_FRANCE_OUTRE_MER-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER_FRANCE_OUTRE_MER",
+      "name": "殖民地铁路荣誉奖章",
+      "original": "Médaille d’honneur des Chemins de fer coloniaux",
+      "date": "设立日期：1936年12月17日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_chemins_fer_france_outre-mer-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CHEMINS_FER_INDOCHINE",
+      "name": "印度支那铁路荣誉奖章",
+      "original": "Médaille d’honneur des Chemins de fer de l’Indochine",
+      "date": "设立日期：1929年6月24日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_chemins_fer_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CONTRIBUTIONS_INDIRECTES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_CONTRIBUTIONS_INDIRECTES",
+      "name": "间接税务荣誉奖章",
+      "original": "Médaille d’honneur des Contributions indirectes",
+      "date": "设立日期：1897年12月29日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_contributions_indirectes-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES-COMPLETE-20260929-1",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES",
+      "name": "海关荣誉奖章",
+      "original": "Médaille d’honneur des Douanes",
+      "date": "设立日期：1894年6月14日（制度日期）",
+      "variant": "正面悬挂式实物；具体等级与生产时期待考；低清参考",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [
+        {
+          "key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES-COMPLETE-20260929-1-VIEW",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_douanes-0",
+        "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES-COMPLETE-20260929-1-PHOTO"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES_COLONIALES_FRANCAISES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_DOUANES_COLONIALES_FRANCAISES",
+      "name": "法国殖民地海关荣誉奖章",
+      "original": "Médaille d’honneur des Douanes coloniales françaises",
+      "date": "设立日期：1939年6月19日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_douanes_coloniales_francaises-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_EAUX_FORETS-COMPLETE-20260929-1",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_EAUX_FORETS",
+      "name": "水务与森林荣誉奖章",
+      "original": "Médaille d’honneur des Eaux et forêts",
+      "date": "设立日期：1883年5月15日（制度日期）",
+      "variant": "第二式第二型（来源分类），1905年起；完整正背合图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [
+        {
+          "key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_EAUX_FORETS-COMPLETE-20260929-1-VIEW",
+          "label": "完整正背合图"
+        }
+      ],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_eaux_forets-0",
+        "FRA-SAMLHOC-MEDAILLE_HONNEUR_EAUX_FORETS-COMPLETE-20260929-1-PHOTO"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-1",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN",
+      "name": "海外服务贡献荣誉奖章",
+      "original": "Médaille d’honneur de l’engagement ultramarin",
+      "date": "法令设立：2022年2月8日；公报发布：2月9日；生效：2月10日（制度日期）",
+      "variant": "金级；完整正面；级别名称不推定实金／实银材质",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [
+        {
+          "key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-1-VIEW",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_engagement_ultramarin-0",
+        "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-1-PHOTO"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-2",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN",
+      "name": "海外服务贡献荣誉奖章",
+      "original": "Médaille d’honneur de l’engagement ultramarin",
+      "date": "法令设立：2022年2月8日；公报发布：2月9日；生效：2月10日（制度日期）",
+      "variant": "银级；完整正面；级别名称不推定实金／实银材质",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [
+        {
+          "key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-2-VIEW",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_engagement_ultramarin-0",
+        "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-2-PHOTO"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-3",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN",
+      "name": "海外服务贡献荣誉奖章",
+      "original": "Médaille d’honneur de l’engagement ultramarin",
+      "date": "法令设立：2022年2月8日；公报发布：2月9日；生效：2月10日（制度日期）",
+      "variant": "铜级；完整正面；级别名称不推定实金／实银材质",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [
+        {
+          "key": "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-3-VIEW",
+          "label": "完整正面"
+        }
+      ],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_engagement_ultramarin-0",
+        "FRA-SAMLHOC-MEDAILLE_HONNEUR_ENGAGEMENT_ULTRAMARIN-COMPLETE-20260929-3-PHOTO"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_FORCES_PUBLIQUES_INDE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_FORCES_PUBLIQUES_INDE",
+      "name": "法属印度公共力量荣誉奖章",
+      "original": "Médaille d’honneur des Forces publiques de l’Inde",
+      "date": "设立日期：1943年8月12日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度·公共部队奖励",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_forces_publiques_inde-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_HALLES_MARCHES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_HALLES_MARCHES",
+      "name": "巴黎食品市场工作人员荣誉奖章",
+      "original": "Médaille d’honneur des Halles et marchés de Paris",
+      "date": "设立日期：1900年6月22日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_halles_marches-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MARINS_COMMERCE_PECHE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MARINS_COMMERCE_PECHE",
+      "name": "商船与渔业船员荣誉奖章",
+      "original": "Médaille des Pilotes et des Navigateurs",
+      "date": "设立日期：1901年12月14日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_marins_commerce_peche-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MINISTERE_COMMERCE_INDUSTRIE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MINISTERE_COMMERCE_INDUSTRIE",
+      "name": "商业与工业部荣誉奖章",
+      "original": "Médaille d’honneur du ministère du Commerce et de l’Industrie",
+      "date": "设立日期：1886年7月16日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_ministere_commerce_industrie-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MINISTERE_TRAVAIL_PREVOYANCE_SOCIALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_MINISTERE_TRAVAIL_PREVOYANCE_SOCIALE",
+      "name": "劳动与社会保障部荣誉奖章",
+      "original": "Médaille d’honneur du ministère du Travail et de la Prévoyance sociale",
+      "date": "设立日期：1913年8月9日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_ministere_travail_prevoyance_sociale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_OCTROIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_OCTROIS",
+      "name": "市政消费税机构荣誉奖章",
+      "original": "Médaille d’honneur des Octrois",
+      "date": "设立日期：1903年11月16日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_octrois-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PENITENTIAIRE_COLONIALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PENITENTIAIRE_COLONIALE",
+      "name": "殖民地监狱行政荣誉奖章",
+      "original": "Médaille d’honneur Pénitentiaire coloniale",
+      "date": "设立日期：1898年10月27日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_penitentiaire_coloniale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PERSONNELS_CIVILS_MINISTERE_DEFENSE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PERSONNELS_CIVILS_MINISTERE_DEFENSE",
+      "name": "国防部文职人员劳动荣誉奖章",
+      "original": "Médaille d’honneur du Travail du ministère de la Guerre",
+      "date": "设立日期：1976年1月15日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_personnels_civils_ministere_defense-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POLICE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POLICE_INDOCHINE",
+      "name": "印度支那警察荣誉奖章",
+      "original": "Médaille d’honneur de la Police de l’Indochine",
+      "date": "设立日期：1918年3月9日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_police_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POLICE_NATIONALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POLICE_NATIONALE",
+      "name": "国家警察荣誉奖章",
+      "original": "Médaille d’honneur de la Police municipale et rurale",
+      "date": "设立日期：1903年4月3日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_police_nationale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POSTES_TELECOMMUNICATIONS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_POSTES_TELECOMMUNICATIONS",
+      "name": "邮政与电报荣誉奖章",
+      "original": "Médaille d’honneur des Postes et télégraphes",
+      "date": "设立日期：1882年3月22日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_postes_telecommunications-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PROTECTION_JUDICIAIRE_JEUNESSE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PROTECTION_JUDICIAIRE_JEUNESSE",
+      "name": "青少年司法保护荣誉奖章",
+      "original": "Médaille de l’Éducation surveillée",
+      "date": "设立日期：1945年4月10日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_protection_judiciaire_jeunesse-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PTT_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PTT_INDOCHINE",
+      "name": "印度支那邮电人员荣誉奖章",
+      "original": "Médaille d’honneur des agents de l’Administration des Postes, des Télégraphes, des Téléphones de l’Indochine",
+      "date": "设立日期：1928年3月24日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_ptt_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PTT_OUTRE_MER-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_PTT_OUTRE_MER",
+      "name": "马达加斯加邮电与无线电报人员荣誉奖章",
+      "original": "Médaille d’honneur des agents de l’Administration des Postes, des Télégraphes, des Téléphones et de la Télégraphie sans fil de Madagascar",
+      "date": "设立日期：1937年9月30日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属马达加斯加及属地",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_ptt_outre-mer-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_REGIONALE_DEPARTEMENTALE_COMMUNALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_REGIONALE_DEPARTEMENTALE_COMMUNALE",
+      "name": "地区、省与市镇荣誉奖章",
+      "original": "Médaille d’honneur Communale",
+      "date": "设立日期：1945年6月7日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_regionale_departementale_communale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SANTE_AFFAIRES_SOCIALES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SANTE_AFFAIRES_SOCIALES",
+      "name": "卫生与社会事务荣誉奖章",
+      "original": "Médaille d’honneur de la Santé et des Affaires sociales",
+      "date": "设立日期：2012年2月2日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_sante_affaires_sociales-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SERVICE_SANTE_ARMEES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SERVICE_SANTE_ARMEES",
+      "name": "军队卫生勤务荣誉奖章",
+      "original": "Médaille d’honneur du Service de Santé militaire de l’armée de Terre",
+      "date": "设立日期：1962年8月30日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_service_sante_armees-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SERVICES_JUDICIAIRES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SERVICES_JUDICIAIRES",
+      "name": "司法系统荣誉奖章",
+      "original": "Médaille d’honneur des Services judiciaires",
+      "date": "设立日期：2011年11月9日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_services_judiciaires-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SOCIETES_MUSICALES_CHORALES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SOCIETES_MUSICALES_CHORALES",
+      "name": "音乐与合唱团体荣誉奖章",
+      "original": "Médaille d’honneur des Sociétés musicales et chorales",
+      "date": "设立日期：1924年7月24日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_societes_musicales_chorales-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SYNDICATS_PROFESSIONNELS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_SYNDICATS_PROFESSIONNELS",
+      "name": "职业工会荣誉奖章",
+      "original": "Médaille d’honneur des Syndicats professionnels",
+      "date": "设立日期：1933年2月14日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_syndicats_professionnels-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRANSPORTS_ROUTIERS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRANSPORTS_ROUTIERS",
+      "name": "道路运输业荣誉奖章",
+      "original": "Médaille d’honneur des Transports routiers",
+      "date": "设立日期：1957年5月25日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_transports_routiers-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAIL-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAIL",
+      "name": "劳动荣誉奖章",
+      "original": "Médaille d’honneur du Travail",
+      "date": "设立日期：1948年5月15日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_travail-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAIL_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAIL_INDOCHINE",
+      "name": "印度支那劳动荣誉奖章",
+      "original": "Médaille d’honneur du Travail de l’Indochine",
+      "date": "设立日期：1936年8月28日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_travail_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS",
+      "name": "公共工程荣誉奖章",
+      "original": "Médaille d’honneur des Cantonniers et agents subalternes",
+      "date": "设立日期：1897年5月1日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_travaux_publics-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_TRAVAUX_PUBLICS_INDOCHINE",
+      "name": "印度支那公共工程荣誉奖章",
+      "original": "Médaille d’honneur des Travaux publics de l’Indochine",
+      "date": "设立日期：1939年11月15日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_travaux_publics_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HONNEUR_VOIRIE_DEPARTEMENTALE_COMMUNALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HONNEUR_VOIRIE_DEPARTEMENTALE_COMMUNALE",
+      "name": "省级与市镇道路维护人员荣誉奖章",
+      "original": "Médaille d’honneur de la Voirie départementale et communale",
+      "date": "设立日期：1898年3月26日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_honneur_voirie_departementale_communale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_HYGIENE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_HYGIENE",
+      "name": "公共卫生奖章",
+      "original": "Médaille d’honneur de l’Hygiène publique",
+      "date": "设立日期：1912年1月13日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_hygiene-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_INSTRUCTION_PUBLIQUE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_INSTRUCTION_PUBLIQUE_INDOCHINE",
+      "name": "印度支那公共教育奖章",
+      "original": "Médaille de l’Instruction publique de l’Indochine",
+      "date": "设立日期：1906年5月16日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_instruction_publique_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_JEUNESSE_SPORTS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_JEUNESSE_SPORTS",
+      "name": "青年、体育与社团参与荣誉奖章",
+      "original": "Médaille d’honneur de l’Éducation physique",
+      "date": "设立日期：2013年12月18日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_jeunesse_sports-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MAZAGRAN-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MAZAGRAN",
+      "name": "马扎格兰纪念奖章",
+      "original": "Médaille de Mazagran",
+      "date": "设立日期：1840年3月11日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_mazagran-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MEILLEUR_OUVRIER_FRANCE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MEILLEUR_OUVRIER_FRANCE",
+      "name": "法国最佳工匠奖章",
+      "original": "Médaille du meilleur ouvrier de France",
+      "date": "1925年开始授予最佳工匠称号；官方奖章模型见1932年",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_meilleur_ouvrier_france-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MERITE_INDOCHINE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MERITE_INDOCHINE",
+      "name": "印度支那功绩奖章",
+      "original": "Médaille du Mérite – Indochine",
+      "date": "设立日期：1890年7月21日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属印度支那·地方奖励体系",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_merite_indochine-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MERITE_TRAVAILLEURS_INDOCHINOIS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MERITE_TRAVAILLEURS_INDOCHINOIS",
+      "name": "印度支那劳工功绩奖章",
+      "original": "Médaille du Mérite des travailleurs Indochinois",
+      "date": "设立日期：1945年9月22日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_merite_travailleurs_indochinois-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MINES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MINES",
+      "name": "矿业奖章",
+      "original": "Médaille des Mines",
+      "date": "设立日期：1953年4月14日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_mines-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_MINES_SARRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_MINES_SARRE",
+      "name": "萨尔煤矿奖章",
+      "original": "Médaille des mines de la Sarre",
+      "date": "设立日期：1921年9月30日",
+      "variant": "有记载未配图",
+      "awarding_authority": "萨尔·法国管理时期矿业奖励",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_mines_sarre-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_PATRIOTE_RESISTANT_OCCUPATION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_PATRIOTE_RESISTANT_OCCUPATION",
+      "name": "被逐或被迫居留敌国的爱国者奖章",
+      "original": "Médaille du Patriote proscrit et contraint à résidence forcée en pays ennemi",
+      "date": "设立日期：1954年12月27日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_patriote_resistant_occupation-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_PREVOYANCE_SOCIALE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_PREVOYANCE_SOCIALE",
+      "name": "社会保障贡献奖章",
+      "original": "Médaille de la Prévoyance sociale",
+      "date": "设立日期：1922年12月1日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_prevoyance_sociale-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_PROTECTION_MILITAIRE_TERRITOIRE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_PROTECTION_MILITAIRE_TERRITOIRE",
+      "name": "领土军事保护奖章",
+      "original": "Médaille de la Protection militaire du territoire",
+      "date": "设立日期：2015年7月13日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_protection_militaire_territoire-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_RECHERCHE_SCIENTIFIQUE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_RECHERCHE_SCIENTIFIQUE",
+      "name": "科学研究奖章",
+      "original": "Médaille de la Recherche scientifique",
+      "date": "设立日期：1937年10月7日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_recherche_scientifique-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_SAINTE_HELENE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_SAINTE_HELENE",
+      "name": "圣赫勒拿奖章",
+      "original": "Médaille de Sainte-Hélène",
+      "date": "设立日期：1857年8月12日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_sainte-helene-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_SECURITE_INTERIEURE-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_SECURITE_INTERIEURE",
+      "name": "国内安全奖章",
+      "original": "Médaille de la Sécurité intérieure",
+      "date": "设立日期：2012年3月28日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_securite_interieure-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_SIEGE_ANVERS-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_SIEGE_ANVERS",
+      "name": "安特卫普围城奖章",
+      "original": "Médaille du siège d’Anvers",
+      "date": "1832年围城战纪念；奖章设立日期待考",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_siege_anvers-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_TOURISME-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_TOURISME",
+      "name": "旅游业奖章",
+      "original": "Médaille du Tourisme",
+      "date": "设立日期：1989年9月21日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_tourisme-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_TRAVAIL_MADAGASCAR_DEPENDANCES-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_TRAVAIL_MADAGASCAR_DEPENDANCES",
+      "name": "马达加斯加及属地劳动奖章",
+      "original": "Médaille du Travail de Madagascar et Dépendances",
+      "date": "设立日期：1920年9月17日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法属马达加斯加及属地",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_travail_madagascar_dependances-0"
+      ]
+    },
+    {
+      "id": "FRA-SAMLHOC-MEDAILLE_VICTIMES_INVASION-TEXT-20260929",
+      "family": "FRA-SAMLHOC-MEDAILLE_VICTIMES_INVASION",
+      "name": "入侵受害者奖章",
+      "original": "Médaille des Victimes de l’invasion",
+      "date": "设立日期：1921年6月30日",
+      "variant": "有记载未配图",
+      "awarding_authority": "法国·勋奖章制度沿革",
+      "views": [],
+      "source_ids": [
+        "FR-SAMLHOC-COMPLETE-medaille_victimes_invasion-0"
+      ]
+    }
+  ]
+}

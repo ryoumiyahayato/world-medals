@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-03",
+  "version": "0.013",
+  "task": "Refine physical book geometry and bound-paper animation",
+  "changes": [
+    "Bevelled rounded cover boards and custom artwork faces",
+    "Curved spine, adaptive head/tail binding bands",
+    "Two flexible paper stacks, curved gutter and ruled cut edges",
+    "Four staggered flexible leaves during cover opening",
+    "Physical leaf lift synchronized with projection, withdrawal and page replacement",
+    "Quintic opening interpolation and matching stage transition"
+  ],
+  "validation": {
+    "tests": [
+      "test_book_surface.cjs",
+      "test_search.cjs",
+      "test_directory.cjs",
+      "test_encyclopedia.cjs",
+      "test_reference_priority.cjs",
+      "validate_mobile.cjs"
+    ],
+    "viewports": [
+      "390x844",
+      "320x568",
+      "380x400",
+      "1248x720"
+    ],
+    "browser": "Codex in-app browser, http://127.0.0.1:8766/?v=0.013-model",
+    "flows": [
+      "Open book -> project paper -> search Labor Red Banner -> direct article -> right-margin next page (1/8 to 2/8)",
+      "Withdraw projection -> physical book remains open -> project same page",
+      "Rapid tapping triggers closing/spinning exit; search and paper hidden"
+    ],
+    "console_errors": 0,
+    "horizontal_overflow": false,
+    "projection_ratio": 0.7,
+    "apk_crc": "passed",
+    "apk_asset_byte_comparison": "passed",
+    "signatures": [
+      "v2",
+      "v3"
+    ],
+    "not_verified": [
+      "Physical Android GPU frame rate and native back gestures",
+      "WebGL unavailable fallback on a real device"
+    ]
+  },
+  "apk": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.013.apk",
+  "bytes": 285425017,
+  "sha256": "ee9f615db5aa5e6325aabe997c68ee9f059dbe9826079645b82505b6824a2617",
+  "screenshots": [
+    "C:/Users/agcrf/AppData/Local/Temp/wodm-book-v013/closed.jpg",
+    "C:/Users/agcrf/AppData/Local/Temp/wodm-book-v013/projected.jpg",
+    "C:/Users/agcrf/AppData/Local/Temp/wodm-book-v013/open.jpg"
+  ],
+  "content_added": {
+    "families": 0,
+    "variants": 0,
+    "images": 0
+  },
+  "next": "User review of v0.013 book materials and timing on physical Android device"
+}

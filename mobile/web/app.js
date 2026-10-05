@@ -30,11 +30,17 @@ $('background-file').onchange=async e=>{
  try{await new Promise((ok,no)=>{img.onload=ok;img.onerror=no;img.src=url;});const canvas=document.createElement('canvas');const ratio=Math.min(1,1600/Math.max(img.width,img.height));canvas.width=Math.round(img.width*ratio);canvas.height=Math.round(img.height*ratio);canvas.getContext('2d').drawImage(img,0,0,canvas.width,canvas.height);if(write('backgroundImage',canvas.toDataURL('image/jpeg',.8)))applyTheme();}
  catch{$('update-status').textContent='无法读取这张图片，请换一张。';}finally{URL.revokeObjectURL(url);}
 };
-const shapes=[['皇冠','M3 9 8 14 12 5 16 14 21 9 19 21H5Z'],['火炬','M10 15h4l-1 8h-2Zm2-13c6 5 7 9 2 11H9C4 10 9 6 12 2Z'],['镰锤','M7 3C21 3 24 17 13 21M13 21 4 12M5 16 17 4M13 3l6 6M4 19l2 2'],['和平鸽','M3 14 10 13 7 4 15 10C20 5 23 9 20 12L23 14 19 15C15 23 8 19 3 21L7 16Z'],['铁十字','M8 2h8l-2 7 8-1v8l-8-2 2 8H8l2-8-8 2V8l8 1Z']];
+const shapes=[
+ ['皇冠','M2 8L6 12 9 4 12 11 15 4 18 12 22 8 20 20H4ZM4 23H20M3 5H3.01M9 2H9.01M15 2H15.01M21 5H21.01M5 17H19'],
+ ['火炬','M10 14H14L13.3 24H10.7ZM8 13H16M10 3C8 7 4 8 8 12H15C20 8 15 5 14 1 14 7 10 9 10 3ZM10 17H14M11 21H13'],
+ ['镰锤','M11 2C23 5 26 16 17 22 12 25 7 24 3 20L5 17C9 22 14 21 17 18 23 11 17 5 11 2ZM4 5L8 1 12 5 9 8 22 21 19 24 6 11 3 13 0 10Z'],
+ ['和平鸽','M3 15C7 15 8 12 7 7L8 2C11 5 13 9 16 10 18 6 21 7 21 10L24 11 21 12C20 19 15 21 10 18L2 21 5 17ZM9 8L13 13M12 6L16 11M18 10H18.1M18 18L21 23M20 21L24 20M21 22L24 24'],
+ ['铁十字','M8 2H16L14 9 21 7V17L14 15 16 24H8L10 15 3 17V7L10 9ZM10 5H14L12.7 10.5 18 9V15L12.7 13.5 14 21H10L11.3 13.5 6 15V9L11.3 10.5Z']
+];
 function makeMotifs(){
  $('motifs').replaceChildren();for(let i=0;i<20;i++){const [name,path]=shapes[i%5],b=document.createElement('button');b.setAttribute('aria-label',name+'，点击掉落');
  const col=i%4,row=Math.floor(i/4);b.style.left=(4+col*24+(row%2)*2)+'%';b.style.top=(5+row*16+(col%2)*3)+'%';b.style.width=b.style.height=(42+(i%3)*5)+'px';b.style.animationDuration=(7+(i%7)*.65)+'s';b.style.animationDelay=(-i*.71)+'s';
- b.innerHTML=`<svg viewBox="0 0 24 26" aria-hidden="true"><path d="${path}"/></svg>`;b.onclick=()=>{b.classList.add('falling');b.disabled=true;setTimeout(()=>b.remove(),motionReduced?0:800);};$('motifs').append(b);}
+ b.innerHTML=`<svg viewBox="-2 -1 28 28" aria-hidden="true"><defs><linearGradient id="motif-${i}" x2="1" y2="1"><stop stop-color="#f2d79d"/><stop offset=".5" stop-color="#b99352"/><stop offset="1" stop-color="#e3c58a"/></linearGradient></defs><path d="${path}" fill="${i%5===2?`url(#motif-${i})`:"none"}" stroke="url(#motif-${i})" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" fill-rule="evenodd"/></svg>`;b.onclick=()=>{b.classList.add('falling');b.disabled=true;setTimeout(()=>b.remove(),motionReduced?0:800);};$('motifs').append(b);}
 }
 let animationFrame=0,animationStarted=0,skipRequested=false;
 function finishSplash(){if(!state.ready){skipRequested=true;return;}$('splash').hidden=true;$('splash').style.display='none';document.body.classList.remove('is-loading');cancelAnimationFrame(animationFrame);}
@@ -42,7 +48,7 @@ function playSplash(){cancelAnimationFrame(animationFrame);skipRequested=false;m
  const resize=()=>{$('track').style.setProperty('--travel',Math.max(0,$('track').clientWidth-56)+'px');};resize();window.addEventListener('resize',resize,{once:true});
  const tick=now=>{if(state.ready&&(skipRequested||now-animationStarted>(motionReduced?150:2650))){finishSplash();return;}animationFrame=requestAnimationFrame(tick);};animationFrame=requestAnimationFrame(tick);
 }
-$('skip').onclick=finishSplash;$('replay').onclick=playSplash;$('reduced').checked=motionReduced;
+$('skip').onclick=finishSplash;$('reduced').checked=motionReduced;
 $('reduced').onchange=e=>{motionReduced=e.target.checked;write('reduced',motionReduced);document.body.classList.toggle('reduce-motion',motionReduced);};document.body.classList.toggle('reduce-motion',motionReduced);playSplash();
 function catalogFailed(){$('load-message').hidden=false;$('skip').hidden=false;$('load-message').textContent='图鉴文件未能读取，请重新安装完整 APK。';$('skip').textContent='查看设置';state.ready=true;}
 function chronologicalKey(row){
@@ -59,10 +65,27 @@ function renderRow(row){
  const bookmark=el('button',state.favorites.has(row.id)?'已收藏':'收藏','bookmark');bookmark.setAttribute('aria-label',(state.favorites.has(row.id)?'取消收藏':'收藏')+row.name);bookmark.setAttribute('aria-pressed',String(state.favorites.has(row.id)));bookmark.onclick=()=>toggleFavorite(row);name.append(bookmark);
  row.photos.forEach((p,i)=>{const b=el('button',null,'photo-button');b.setAttribute('aria-label','放大：'+(p.alt||row.name));const im=el('img');im.src=p.src;im.alt=p.alt||row.name;im.loading='lazy';im.decoding='async';b.append(im,el('span',p.caption));b.onclick=()=>openPhoto(row,i);picture.append(b);});if(!row.photos.length)picture.textContent='有记载未配图';tr.append(name,kind,picture);return tr;
 }
-let expanded=new Set(), selectedAward=null, readerScope="", readerGroups=[], pendingPeriod=null;
-function bookRenderTurn(){requestPageRender();}
-window.readerBack=()=>{if(selectedAward){selectedAward=null;bookRenderTurn();return true;}if($("volume").value){$("volume").value="";bookRenderTurn();return true;}return false;};
-window.readerNext=()=>{if(!selectedAward)return false;const i=readerGroups.findIndex(([key])=>key===selectedAward);if(i<readerGroups.length-1){selectedAward=readerGroups[i+1][0];bookRenderTurn();}return true;};
+let expanded=new Set(), selectedAward=null, readerScope="", readerGroups=[], pendingPeriod=null, directoryPage=0, pendingFolio=null;
+function bookRenderTurn(back=false){requestPageRender(back);}
+function articleTurn(back){
+ const index=readerGroups.findIndex(([key])=>key===selectedAward);if(index<0)return false;
+ const position=window.AtlasFolio?AtlasFolio.position():{page:0,total:1};
+ const step=AtlasReaderMotion.articleStep(index,readerGroups.length,position.page,position.total,back?-1:1);if(!step)return false;
+ if(step.directory){selectedAward=null;bookRenderTurn(true);return true;}
+ if(step.index===index&&window.AtlasFolio)return back?AtlasFolio.previous():AtlasFolio.next();
+ selectedAward=readerGroups[step.index][0];pendingFolio=step.page;bookRenderTurn(back);return true;
+}
+window.readerBack=()=>{if(selectedAward)return articleTurn(true);if(directoryPage>0){directoryPage--;bookRenderTurn(true);return true;}return false;};
+window.readerNext=()=>{if(selectedAward)return articleTurn(false);const size=directorySize();if((directoryPage+1)*size<readerGroups.length){directoryPage++;bookRenderTurn();return true;}return false;};
+window.readerDirectory=()=>{if(!document.body.classList.contains('has-results'))return;cancelQueryTransition();if(selectedAward){const i=readerGroups.findIndex(([key])=>key===selectedAward);directoryPage=Math.max(0,Math.floor(i/directorySize()));}selectedAward=null;pendingFolio=null;requestPageRender('up');};
+function directorySize(){const line=$('results').clientWidth<450?72:53;return Math.max(1,Math.min(9,Math.floor(Math.max(line,($('results').clientHeight||320)-65)/line)));}
+let directoryResize=0;window.addEventListener('resize',()=>{clearTimeout(directoryResize);directoryResize=setTimeout(()=>{if(document.body.classList.contains('has-results')&&!selectedAward)render();},120);});
+function countryOf(row){const route=window.CATEGORY_ROUTES[row.volume.replace(/-unpictured$/,'')];if(route)return route[2];const title=scopeTitle(row.volume);const country=[...new Set(Object.values(window.CATEGORY_ROUTES).map(r=>r[2]))].sort((a,b)=>b.length-a.length).find(c=>title.startsWith(c));return country||title.split(/[·（(]/)[0].trim();}
+function isCountryQuery(query){const q=AtlasSearch.compact(query);if(!q)return false;const known={ussr:'soviet-union',sovietunion:'soviet-union',france:'france-timeline',japan:'japan',egypt:'egypt'};if(known[q])return true;return CATALOG.volumes.some(v=>AtlasSearch.compact(v.title.replace(/[（(].*$/,''))===q)||Object.values(window.CATEGORY_ROUTES).some(route=>AtlasSearch.compact(route[2])===q);}
+function countryVolumes(query){
+ const q=AtlasSearch.compact(query),aliases={ussr:'苏联',sovietunion:'苏联',russia:'俄罗斯',russianfederation:'俄罗斯联邦',france:'法国',japan:'日本',egypt:'埃及'},target=aliases[q]||q;
+ const volumes=CATALOG.volumes.filter(v=>{const route=window.CATEGORY_ROUTES[v.id.replace(/-unpictured$/,'')];return [v.title.replace(/·.*$/,'').replace(/[（(].*$/,'').trim(),...(route?[route[2],route[3]]:[])].some(s=>AtlasSearch.compact(s)===AtlasSearch.compact(target));});return volumes.length?new Set(volumes.map(v=>v.id)):null;
+}
 function render(){
  if(!window.CATALOG)return;
  const query=$('query').value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean),volume=$('volume').value;
@@ -70,66 +93,72 @@ function render(){
  const browsing=!!volume;
  document.body.classList.toggle('has-results',browsing||query.length>0||state.tab==='favorites');
  if((browsing||query.length>0||state.tab==='favorites')&&window.openBookInstant)window.openBookInstant();
- const scope=volume+'|'+$('query').value+'|'+state.tab;if(scope!==readerScope){selectedAward=null;readerScope=scope;}
+ const scope=volume+'|'+$('query').value+'|'+state.tab;if(scope!==readerScope){selectedAward=null;directoryPage=0;readerScope=scope;if(document.body.classList.contains('book-is-open')&&window.projectAtlasPage)window.projectAtlasPage();}
  $('home-book').hidden=false;writeBookQuery('');document.body.classList.remove('query-writing');
  const active=browsing||query.length>0||state.tab==='favorites';
  document.querySelector('.section-heading').hidden=!active;
  $('country-matches').replaceChildren();$('country-matches').hidden=true;$('results').replaceChildren();$('more').hidden=true;$('empty').hidden=true;
- if(!active)return;
- const scoped=matching.filter(r=>!volume||(volume==='france-timeline'?scopeOf(r)===volume:r.volume===volume));
- const allowed=CATALOG.rows.filter(r=>(!volume||(volume==='france-timeline'?scopeOf(r)===volume:r.volume===volume))&&(state.tab!=='favorites'||state.favorites.has(r.id)));
- readerGroups=AtlasBook.groups(scoped,allowed);
+ if(!active){document.body.classList.remove('article-reading','page-projected');$('reading-book').removeAttribute('data-page');return;}
+ const countrySet=!volume&&isCountryQuery($('query').value)?countryVolumes($('query').value):null;
+ const countryPool=countrySet?CATALOG.rows.filter(r=>state.tab!=='favorites'||state.favorites.has(r.id)):matching;
+ const scoped=countryPool.filter(r=>(!countrySet||countrySet.has(r.volume))&&(!volume||(volume==='france-timeline'?scopeOf(r)===volume:r.volume===volume)));
+ const allowed=CATALOG.rows.filter(r=>(!countrySet||countrySet.has(r.volume))&&(!volume||(volume==='france-timeline'?scopeOf(r)===volume:r.volume===volume))&&(state.tab!=='favorites'||state.favorites.has(r.id)));
+ readerGroups=AtlasBook.order(scoped.map(r=>({r,score:countrySet?100:AtlasSearch.score($('query').value,r.searchIndex)})),allowed,{query:$('query').value,countryQuery:!!volume||isCountryQuery($('query').value),countryOf,intros:window.AWARD_INTROS});
  const total=readerGroups.reduce((n,[,items])=>n+items.length,0);$('count').textContent=`${readerGroups.length}章种 · ${total}版型`;
- if(!readerGroups.length){$('empty').hidden=false;return;}
+ if(!readerGroups.length){$('empty').hidden=false;$('reading-book').removeAttribute('data-page');return;}
  if(!selectedAward){
+  document.body.classList.remove('article-reading');
   $('results').append(el('h2','目录','directory-title'));
-  const headings=new Map();readerGroups.forEach(entry=>{const title=AtlasBook.heading(entry[1][0]);if(!headings.has(title))headings.set(title,[]);headings.get(title).push(entry);});
-  headings.forEach((entries,title)=>{
-   const fold=el('details',null,'encyclopedia-directory'),summary=el('summary',title);fold.append(summary);fold.open=!!query.length;
-   entries.forEach(([key,items])=>{const branch=el('div',null,'country-family');const first=items[0],route=window.CATEGORY_ROUTES[first.volume];const country=route?route[2]:scopeTitle(first.volume);
-    const open=el('button',country,'country-family-title');open.onclick=()=>{selectedAward=key;pendingPeriod=null;bookRenderTurn();};branch.append(open);
-    const periods=[...new Set(items.slice().sort((a,b)=>editionKey(a)-editionKey(b)).map(r=>r.volume))];periods.forEach(period=>{const link=el('button',scopeTitle(period),'period-link');link.onclick=()=>{selectedAward=key;pendingPeriod=period;bookRenderTurn();};branch.append(link);});fold.append(branch);
-   });$('results').append(fold);
-  });return;
+  const size=directorySize(),pages=Math.ceil(readerGroups.length/size);directoryPage=Math.min(directoryPage,pages-1);
+  const titles=new Map();readerGroups.forEach(([,items])=>{const h=AtlasBook.heading(items[0]);titles.set(h,(titles.get(h)||0)+1);});
+  readerGroups.slice(directoryPage*size,(directoryPage+1)*size).forEach(([key,items])=>{
+   const title=AtlasBook.heading(items[0]),entry=el('button',null,'printed-entry');
+   entry.append(el('span',title+(titles.get(title)>1?' · '+countryOf(items[0]):''),'printed-name'));
+   const periods=[...new Set(items.map(r=>scopeTitle(r.volume).replace(/\s*·\s*(有记载|暂缺|待核).*$/,'').trim()))];entry.append(el('span',periods.join(' · '),'printed-period'));
+   entry.onclick=()=>{selectedAward=key;pendingPeriod=null;bookRenderTurn();};$('results').append(entry);
+  });
+  $('reading-book').dataset.page=(directoryPage+1)+' / '+pages;
+  return;
  }
+ document.body.classList.add('article-reading');
  const index=readerGroups.findIndex(([key])=>key===selectedAward);if(index<0){selectedAward=null;render();return;}
- const items=readerGroups[index][1];items.sort((a,b)=>editionKey(a)-editionKey(b));
+ const items=AtlasBook.presentationRows(readerGroups[index][1]);items.sort((a,b)=>editionKey(a)-editionKey(b));
  const article=el('article',null,'award-article'),hero=el('div',null,'article-hero'),titleBlock=el('div');
  titleBlock.append(el('h2',AtlasBook.heading(items[0]),'award-page-title'));const route=window.CATEGORY_ROUTES[items[0].volume];titleBlock.append(el('p',scopeTitle(items[0].volume),'article-country'));hero.append(titleBlock);
- const representative=items.find(r=>r.photos.length);if(representative)hero.append(articlePhoto(representative,0));article.append(hero);
+ const representative=items.find(r=>r.photos.some(p=>p.reference))||items.find(r=>r.photos.length);if(representative)hero.append(articlePhoto(representative,0));article.append(hero);
  const originals=[...new Set(items.map(r=>r.original).filter(Boolean))];if(originals.length)article.append(el('p',originals[0],'article-original'));
  $('count').textContent=items.length+'版型';
- const intro=(window.AWARD_INTROS||[]).find(entry=>entry.names.includes(AtlasBook.heading(items[0]))&&(!entry.volumePattern||new RegExp(entry.volumePattern).test(items[0].volume)));
+ const intro=(window.AWARD_INTROS||[]).find(entry=>((entry.families||[]).includes(items[0].family)||entry.names.includes(AtlasBook.heading(items[0])))&&(!entry.volumePattern||new RegExp(entry.volumePattern).test(items[0].volume)));
  if(intro){intro.paragraphs.forEach(text=>article.append(el('p',text,'article-intro')));
-  if(intro.variants&&intro.variants.length){const history=el('section',null,'article-history');history.append(el('h3','版型沿革'));intro.variants.forEach(v=>{history.append(el('h4',v.title),el('p',v.text));});article.append(history);}
+  if(intro.variants&&intro.variants.length){const history=el('section',null,'article-history');history.append(el('h3','版型沿革'));intro.variants.forEach(v=>{const entry=el('section',null,'history-entry');entry.append(el('h4',v.title));const reference=items.find(r=>r.id===v.referenceRecord&&r.photos.length);if(reference){const thumbnail=articlePhoto(reference,0);thumbnail.classList.add('history-thumbnail');entry.append(thumbnail);}entry.append(el('p',v.text));history.append(entry);});article.append(history);}
   if(intro.sources&&intro.sources.length){const refs=el('details',null,'article-references');refs.append(el('summary','参考资料'));intro.sources.forEach(source=>{if(!/^https?:\/\//.test(source.url))return;const link=el('a',source.title);link.href=source.url;link.target='_blank';link.rel='noopener noreferrer';refs.append(link);});article.append(refs);}
  }else{const dates=[...new Set(items.map(r=>r.date).filter(Boolean))];if(dates.length)article.append(el('p',dates.join('；'),'article-intro'));}
 
  const periods=new Map();items.forEach(r=>{if(!periods.has(r.volume))periods.set(r.volume,[]);periods.get(r.volume).push(r);});
  periods.forEach((variants,period)=>{const section=el('section',null,'article-period');section.id='period-'+period;section.append(el('h3',scopeTitle(period)));
-  variants.forEach(row=>{const variant=el('section',null,'article-variant');variant.append(el('h4',row.variant||row.name));if(row.date)variant.append(el('p',row.date,'article-date'));if(row.original)variant.append(el('p',row.original,'article-original'));if(row.note)variant.append(el('p',row.note));
+  variants.forEach(row=>{const variant=el('section',null,'article-variant');variant.append(el('h4',AtlasBook.variantLabel(row.variant)||row.name));if(row.date)variant.append(el('p',row.date,'article-date'));if(row.original)variant.append(el('p',row.original,'article-original'));if(row.note)variant.append(el('p',row.note));
    const pictures=el('div',null,'article-photos');row.photos.forEach((p,i)=>pictures.append(articlePhoto(row,i)));variant.append(pictures);if(!row.photos.length)variant.append(el('p','有记载未配图'));
    const bookmark=el('button',state.favorites.has(row.id)?'已收藏':'收藏','bookmark');bookmark.onclick=()=>toggleFavorite(row);variant.append(bookmark);section.append(variant);
   });article.append(section);
  });$('results').append(article);
- if(pendingPeriod){const id=pendingPeriod;pendingPeriod=null;requestAnimationFrame(()=>{const section=document.getElementById('period-'+id);if(section)$('page-scroll').scrollTop=section.offsetTop-$('page-scroll').offsetTop-10;});}
+ if(window.AtlasFolio){const hint=pendingFolio;pendingFolio=null;requestAnimationFrame(()=>AtlasFolio.layout(selectedAward,hint));}
 
 
 }
 function articlePhoto(row,index){const p=row.photos[index],figure=el('figure'),b=el('button',null,'photo-button'),im=el('img');im.src=p.src;im.alt=p.alt||row.name;im.loading='lazy';b.setAttribute('aria-label','放大：'+(p.alt||row.name));b.append(im);b.onclick=()=>openPhoto(row,index);figure.append(b,el('figcaption',p.caption||''));return figure;}
 function openPhoto(row,index){state.row=row;state.photo=index;updatePhoto();if(!$('viewer').open)$('viewer').showModal();}
-function updatePhoto(){const r=state.row,p=r.photos[state.photo];$('full-photo').classList.remove('zoomed');$('zoom').textContent='放大';$('full-photo').src=p.src;$('full-photo').alt=p.alt||r.name;$('photo-caption').textContent=p.caption||p.alt;$('photo-number').textContent=`${state.photo+1} / ${r.photos.length}`;$('previous').disabled=state.photo===0;$('next').disabled=state.photo===r.photos.length-1;$('save').textContent=state.favorites.has(r.id)?'取消收藏':'收藏';$('detail').replaceChildren(el('p',r.name+' · '+r.original),el('p',r.date),el('p',r.variant));if(r.note)$('detail').append(el('p',r.note));r.sources.forEach(s=>{if(s.summary)$('detail').append(el('p',s.summary));if(/^https?:\/\//.test(s.page||'')){const a=el('a','打开来源网页');a.href=s.page;a.rel='noopener noreferrer';a.target='_blank';$('detail').append(a);}});if(p.originalSrc){const originalButton=el('button','查看来源原图');let showingOriginal=false;originalButton.onclick=()=>{showingOriginal=!showingOriginal;$('full-photo').src=showingOriginal?p.originalSrc:p.src;originalButton.textContent=showingOriginal?'查看处理图':'查看来源原图';};$('detail').append(el('p',p.processing),originalButton);}if(p.rights)$('detail').append(el('p',p.rights));if(p.credit)$('detail').append(el('p',p.credit));if(/^https?:\/\//.test(p.source||'')){const a=el('a','本图来源');a.href=p.source;a.target='_blank';a.rel='noopener noreferrer';$('detail').append(a);}if(!r.sources.length&&!p.source)$('detail').append(el('p','详细出处见原研究库对应条目。'));}
+function updatePhoto(){const r=state.row,p=r.photos[state.photo];$('full-photo').classList.remove('zoomed');$('zoom').textContent='放大';$('full-photo').src=p.src;$('full-photo').alt=p.alt||r.name;$('photo-caption').textContent=p.caption||p.alt;$('photo-number').textContent=`${state.photo+1} / ${r.photos.length}`;$('previous').disabled=state.photo===0;$('next').disabled=state.photo===r.photos.length-1;$('save').textContent=state.favorites.has(r.id)?'取消收藏':'收藏';$('detail').replaceChildren(el('p',r.name+' · '+r.original),el('p',r.date),el('p',r.variant));if(r.note)$('detail').append(el('p',r.note));r.sources.forEach(s=>{if(s.summary&&!r.photos.some(p=>p.reference))$('detail').append(el('p',s.summary));if(/^https?:\/\//.test(s.page||'')){const a=el('a','打开来源网页');a.href=s.page;a.rel='noopener noreferrer';a.target='_blank';$('detail').append(a);}});if(p.originalSrc){const originalButton=el('button','查看来源原图');let showingOriginal=false;originalButton.onclick=()=>{showingOriginal=!showingOriginal;$('full-photo').src=showingOriginal?p.originalSrc:p.src;originalButton.textContent=showingOriginal?'查看处理图':'查看来源原图';};$('detail').append(el('p',p.processing),originalButton);}if(p.credit)$('detail').append(el('p',p.credit));if(/^https?:\/\//.test(p.source||'')){const a=el('a','本图来源');a.href=p.source;a.target='_blank';a.rel='noopener noreferrer';$('detail').append(a);}if(!r.sources.length&&!p.source)$('detail').append(el('p','详细出处见原研究库对应条目。'));}
 $('close-viewer').onclick=()=>$('viewer').close();$('zoom').onclick=()=>{$('full-photo').classList.toggle('zoomed');$('zoom').textContent=$('full-photo').classList.contains('zoomed')?'适应屏幕':'放大';};$('previous').onclick=()=>openPhoto(state.row,state.photo-1);$('next').onclick=()=>openPhoto(state.row,state.photo+1);$('save').onclick=()=>toggleFavorite(state.row);
 let searchTimer=0,queryRevision=0,inkReady=Promise.resolve(),lastQuery=null;
-function requestPageRender(){clearTimeout(searchTimer);if(window.turnAtlasPageForSearch&&document.body.classList.contains('book-is-open'))window.turnAtlasPageForSearch(render);else render();}
+function requestPageRender(back=false){clearTimeout(searchTimer);if(window.turnAtlasPageForSearch&&document.body.classList.contains('book-is-open'))window.turnAtlasPageForSearch(render,back);else render();}
 let composing=false;
 function cancelQueryTransition(){queryRevision++;clearTimeout(searchTimer);if(window.cancelAtlasSearchTurn)window.cancelAtlasSearchTurn();}
 $('query').oncompositionstart=()=>{composing=true;lastQuery=null;cancelQueryTransition();};
 $('query').oncompositionend=()=>{composing=false;$('query').oninput();};
-$('query').oninput=()=>{if(composing)return;const text=$('query').value.trim();if(text===lastQuery)return;lastQuery=text;cancelQueryTransition();const revision=queryRevision;state.limit=30;document.body.classList.add('query-writing');inkReady=Promise.resolve(writeBookQuery($('query').value.trim()));inkReady.then(()=>{if(revision===queryRevision)searchTimer=setTimeout(requestPageRender,120);});};
+$('query').oninput=()=>{if(composing)return;const text=$('query').value.trim();if(text===lastQuery)return;lastQuery=text;cancelQueryTransition();if(!text){if(window.withdrawAtlasPage)window.withdrawAtlasPage();render();return;}document.body.classList.add('has-results');if(document.body.classList.contains('book-is-open')&&window.projectAtlasPage)window.projectAtlasPage();const revision=queryRevision;state.limit=30;document.body.classList.add('query-writing');inkReady=Promise.resolve(writeBookQuery($('query').value.trim()));inkReady.then(()=>{if(revision===queryRevision)searchTimer=setTimeout(requestPageRender,120);});};
 $('query').onkeydown=e=>{if(e.key==='Enter'&&!composing){e.preventDefault();$('query').blur();clearTimeout(searchTimer);const revision=queryRevision;inkReady.then(()=>{if(revision===queryRevision)requestPageRender();});}};
 $('volume').onchange=()=>{state.limit=30;requestPageRender();};$('more').onclick=()=>{state.limit+=30;render();};
-function navigate(tab){lastQuery=null;cancelQueryTransition();state.tab=tab;document.querySelectorAll('nav button').forEach(n=>{n.removeAttribute('aria-current');if(n.dataset.tab===(tab==='favorites'?'categories':tab))n.setAttribute('aria-current','page');});$('browse').hidden=tab==='settings'||tab==='categories';$('settings').hidden=tab!=='settings';$('categories').hidden=tab!=='categories';$('section-title').textContent=tab==='favorites'?'收藏':'图鉴';state.limit=30;render();window.scrollTo(0,0);}
+function navigate(tab){lastQuery=null;cancelQueryTransition();state.tab=tab;document.querySelectorAll('nav button').forEach(n=>{n.removeAttribute('aria-current');if(n.dataset.tab===(tab==='favorites'?'categories':tab))n.setAttribute('aria-current','page');});$('browse').hidden=tab==='settings'||tab==='categories';$('settings').hidden=tab!=='settings';$('categories').hidden=tab!=='categories';$('section-title').textContent=tab==='favorites'?'收藏':'图鉴';state.limit=30;render();window.scrollTo(0,0);if(tab==='categories'||tab==='settings'){document.body.classList.remove('book-is-open','has-results');if(window.resetBook)window.resetBook();}}
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{if(b.dataset.tab==='catalog'){$('query').value='';$('volume').value='';if(window.resetBook)window.resetBook();}navigate(b.dataset.tab);});
 $('favorite-entry').onclick=()=>{$('query').value='';$('volume').value='';navigate('favorites');};
 $('updates').onclick=()=>{if(location.host==='appassets.androidplatform.net'){location.href='medalatlas://updates';}else{window.open('https://github.com/ryoumiyahayato/world-medals/releases','_blank','noopener');$('update-status').textContent='';}};
@@ -142,6 +171,4 @@ async function startCatalog(){if(!window.CATALOG){catalogFailed();return;}const 
 
 
 
-
-$('authorize-updates').onclick=()=>{if(location.host==='appassets.androidplatform.net')location.href='medalatlas://authorize';else{window.open('https://github.com/settings/personal-access-tokens/new?name=World%20Medals%20Android&target_name=ryoumiyahayato&expires_in=90&contents=read','_blank','noopener');$('update-status').textContent='只选择 world-medals，Contents 设为 Read-only；生成后在手机 APK 的本机授权框填写。';}};
 

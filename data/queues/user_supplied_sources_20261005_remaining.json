@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-10-05",
+  "items": [
+    {
+      "source": "emedals_austria_imperial",
+      "raw_records": 1724,
+      "matched_existing_objects": 491,
+      "pending_classification": 774,
+      "annex_or_other": 459,
+      "next": "Read remaining object pages; reconcile grades, periods and makers; select nonduplicate variants; acquire publishable photos"
+    },
+    {
+      "source": "medals_org_austria",
+      "unmapped_pages": 28,
+      "held_rows": 2,
+      "next": "Normalize issuing systems and widow award; replace boundary-cropped Iron Crown image"
+    },
+    {
+      "source": "france_official_world_map",
+      "restricted_image_candidates": 80,
+      "next": "Deduplicate 80 museum image leads; use accessible object evidence and open-license/user-owned photos"
+    },
+    {
+      "source": "onebid_auction3987681_category9246",
+      "unmatched_formal_lots": 1,
+      "formal_candidate_lots": 7,
+      "next": "Resolve WWI commemorative medal issuing body; complete exact-variant original images"
+    }
+  ]
+}

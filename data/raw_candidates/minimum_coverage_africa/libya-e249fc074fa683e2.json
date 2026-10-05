@@ -1,0 +1,49 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-e249fc074fa683e2",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/medal-of-training.html",
+  "page_title": "Medal of Training",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/e249fc074fa683e2.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Training Medal instituted in 1969. Medal awarded to members of the Armed Forces, who achieve a high standard of training or to those injured as a result of training. Medal have III classes. The medal have similar design with Egyptian medal . Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/1/5/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/5/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/1/5/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-af7c0dd91e6b753ac881.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "386b8ef0713ac59f6a5f4198fc72f90eed29e5e8b9e3fa17fd9ba453e37fbb96",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/5/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-e5fce0540d9d25e5d6ce.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "63fb40a3722d072ab3bb16fd14d928e75af5a735671723e2c369fe4a51c586ea",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/medal-of-training.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

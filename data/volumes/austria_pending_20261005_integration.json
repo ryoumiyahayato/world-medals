@@ -1,0 +1,35 @@
+{
+  "volume_rows": {
+    "habsburg-monarchy": [
+      "AUT-WMI-PENDING-006-02",
+      "AUT-WMI-PENDING-007-01",
+      "AUT-WMI-PENDING-024-01",
+      "AUT-WMI-PENDING-024-03",
+      "AUT-WMI-PENDING-024-05",
+      "AUT-WMI-PENDING-024-06"
+    ],
+    "austro-hungary": [
+      "AUT-WMI-PENDING-043-01",
+      "AUT-WMI-PENDING-047-01",
+      "AUT-WMI-PENDING-039-01",
+      "AUT-WMI-PENDING-058-01",
+      "AUT-WMI-PENDING-055-01",
+      "AUT-WMI-PENDING-055-03",
+      "AUT-WMI-PENDING-055-05"
+    ],
+    "austrian-empire": [
+      "AUT-WMI-PENDING-037-01",
+      "AUT-WMI-PENDING-037-02",
+      "AUT-WMI-PENDING-037-04",
+      "AUT-WMI-PENDING-023-01",
+      "AUT-WMI-PENDING-023-03",
+      "AUT-WMI-PENDING-023-05",
+      "AUT-WMI-PENDING-023-07",
+      "AUT-WMI-PENDING-023-09",
+      "AUT-WMI-PENDING-023-11",
+      "AUT-WMI-PENDING-056-01",
+      "AUT-WMI-PENDING-056-03",
+      "AUT-WMI-PENDING-057-01"
+    ]
+  }
+}

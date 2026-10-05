@@ -1,0 +1,75 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-e0aca70edb8c759c",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/medal-of-military-duty.html",
+  "page_title": "Medal of Military Duty",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/e0aca70edb8c759c.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of Military Duty Medal instituted in 1969. Medal awarded to members of the armed forces, regardless of rank, for faithful and courageous performance of non-combattant duty. Medal have III classes. There are two types of the medal: the Libyan Arab Republic from 1969 to 1979 and the Socialist People's Libyan Arab Jamahiriya from 1979 to 2011. The medal have similar design with Egyptian medal . Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/1/2/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/2.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/3.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/4.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/1/2/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-07d197184f3a7b8abe6c.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "ed0fb1d565a6e74fb945b0bc84ae06c2593f8502ef9fb17b11b54536707e5aee",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-401624c8866240300d8c.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "c0f813b9965f3b85dbd4417f163ce1816f58ebb59dd77d24ec1dbc8b8d24007e",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/3.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-2007c39206489626b437.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "6d83996d1f1259f244377d350ddc51ac1ff16ea497806e9b10444c880d792dc1",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/2/4.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-06e18204bb6484943bae.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "fcc409b65b0bfc5ef894c2e66b3528038087df1100a98cf01a23a0cbac2a0656",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/medal-of-military-duty.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

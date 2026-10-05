@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-10-05",
+  "source_id": "NOONANS-RISK-1426",
+  "root": "https://www.noonans.co.uk/archive/special-collections/1426/",
+  "archive_discovery": "https://www.noonans.co.uk/archive/past-catalogues/",
+  "collection_title": "The Collection of the late James C. Risk, C.V.O., F.S.A.",
+  "auction_date": "2026-01-14",
+  "declared_collection_lots": 227,
+  "fully_read_object_pages": 1,
+  "raw_candidates": 1,
+  "images_downloaded": 0,
+  "publication_images": 0,
+  "status": "partial; source access blocked for bulk",
+  "scope": "Full 227-lot special collection intended; not exhausted",
+  "boundary": "First listing shows 40 lots per page; final-page or paging query not yet verified; do not invent remaining page URLs",
+  "failures": [
+    {
+      "url": "https://www.noonans.co.uk/archive/special-collections/1426/",
+      "method": "requests",
+      "status": 403,
+      "reason": "Cloudflare Just a moment page; no bypass attempted"
+    },
+    {
+      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516290/",
+      "method": "web",
+      "reason": "timeout"
+    },
+    {
+      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516292/",
+      "method": "web",
+      "reason": "timeout"
+    },
+    {
+      "url": "https://www.noonans.co.uk/archive/special-collections/1426/516620/",
+      "method": "web",
+      "reason": "timeout"
+    }
+  ],
+  "remaining_objects_min": 226,
+  "next_action": "Resume ordinary public access after source state changes, discover visible pagination and exhaust all 227 object pages; use alternate open photos for facts."
+}

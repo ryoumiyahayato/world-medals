@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-09-30",
+  "pending_images": [
+    {
+      "id": "GB-UK-CORONATION-MEDAL-1953-COMPLETE-20260930",
+      "family": "GB-UK-CORONATION-MEDAL-1953",
+      "name": "伊丽莎白二世加冕纪念奖章（1953）",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-CORONATION-MEDAL-1953-1"
+      ]
+    },
+    {
+      "id": "GB-UK-ROYAL-NAVAL-RESERVE-DECORATION-COMPLETE-20260930",
+      "family": "GB-UK-ROYAL-NAVAL-RESERVE-DECORATION",
+      "name": "皇家海军预备役勋章",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-ROYAL-NAVAL-RESERVE-DECORATION-1"
+      ]
+    },
+    {
+      "id": "GB-UK-RESERVE-LSGC-MEDAL-RN-RM-COMPLETE-20260930",
+      "family": "GB-UK-RESERVE-LSGC-MEDAL-RN-RM",
+      "name": "皇家海军及海军陆战队预备役长期服务与良好品行奖章",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-RESERVE-LSGC-MEDAL-RN-RM-1"
+      ]
+    },
+    {
+      "id": "GB-UK-TERRITORIAL-DECORATION-COMPLETE-20260930",
+      "family": "GB-UK-TERRITORIAL-DECORATION",
+      "name": "领土部队勋章",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-TERRITORIAL-DECORATION-1"
+      ]
+    },
+    {
+      "id": "GB-UK-EFFICIENCY-MEDAL-ARMY-RESERVE-COMPLETE-20260930",
+      "family": "GB-UK-EFFICIENCY-MEDAL-ARMY-RESERVE",
+      "name": "陆军预备役效率奖章",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-EFFICIENCY-MEDAL-ARMY-RESERVE-1"
+      ]
+    },
+    {
+      "id": "GB-UK-AIR-EFFICIENCY-AWARD-RAAF-COMPLETE-20260930",
+      "family": "GB-UK-AIR-EFFICIENCY-AWARD-RAAF",
+      "name": "皇家辅助空军空勤效率奖",
+      "variant": "有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-AIR-EFFICIENCY-AWARD-RAAF-1"
+      ]
+    },
+    {
+      "id": "GB-UK-OPERATIONAL-SERVICE-MEDAL-COMPLETE-20260930",
+      "family": "GB-UK-OPERATIONAL-SERVICE-MEDAL",
+      "name": "作战服务奖章",
+      "variant": "伊拉克与叙利亚型；有记载未配图",
+      "status": "needs_complete_image",
+      "source_ids": [
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-1",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-2",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-3",
+        "UK-MOD-20260930-GB-UK-OPERATIONAL-SERVICE-MEDAL-4"
+      ]
+    }
+  ],
+  "source_matrix": "data/source_atlas/uk_mod_completion_20260930_source_matrix.json",
+  "next_scope": "英国官方奖项专门说明与历史预备役体系；不重复下载现有图片"
+}

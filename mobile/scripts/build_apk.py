@@ -1,7 +1,7 @@
 """Dependency-light SDK build: aapt2 -> javac -> D8 -> zipalign -> apksigner."""
 import hashlib, json, os, secrets, shutil, subprocess, zipfile
 from pathlib import Path
-from export_catalog import ROOT, OUT, export
+from export_catalog import ROOT, OUT, export, stamp_web_assets
 
 MOBILE=ROOT/'mobile'
 BUILD=MOBILE/'build/android'
@@ -22,6 +22,9 @@ def build():
     res=BUILD/'res';shutil.copytree(MOBILE/'android/res',res,dirs_exist_ok=True)
     shutil.copyfile(MOBILE/'web/icon.png',res/'drawable/icon.png')
     ver=json.loads((MOBILE/'version.json').read_text())
+    # SKIP_EXPORT must still refresh the UI edition from the canonical version.
+    (OUT/'version.js').write_text('window.APP_VERSION='+json.dumps(ver)+';',encoding='utf-8')
+    stamp_web_assets()
     tool=lambda name:bt/(name+('.exe' if WIN else ''))
     jtool=lambda name:java/(name+('.exe' if WIN else ''))
     run([tool('aapt2'),'compile','--dir',res,'-o',BUILD/'resources.zip'])

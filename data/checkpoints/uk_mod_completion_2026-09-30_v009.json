@@ -1,0 +1,60 @@
+{
+  "as_of": "2026-09-30",
+  "scope": "用户指定英国MOD指南整页及缺图补充",
+  "status": "batch_delivered_guide_sweep_complete_image_gaps_retained",
+  "version": "0.009",
+  "statistics": {
+    "new_families": 12,
+    "new_pictured_families": 6,
+    "new_variant_rows": 14,
+    "new_pictured_variant_rows": 7,
+    "new_complete_images": 12,
+    "unpictured_rows": 7,
+    "existing_image_rows_reviewed": 52,
+    "guide_families_with_introductions": 61,
+    "total_uk_families": 69,
+    "total_uk_pictured_families": 63,
+    "total_uk_pictured_variant_rows": 67,
+    "total_uk_rows": 74
+  },
+  "source_plan": {
+    "planned": 4,
+    "completed": 2,
+    "partial": 2,
+    "blocked": 0,
+    "not_started": 0
+  },
+  "raw_heading_nodes": 82,
+  "award_fact_items": 68,
+  "normalized_guide_families": 63,
+  "merged_source_objects": 7,
+  "unresolved_image_rows": 7,
+  "source_matrix": "data/source_atlas/uk_mod_completion_20260930_source_matrix.json",
+  "next_queue": "data/queues/uk_mod_completion_next.json",
+  "files": [
+    "index.html",
+    "mobile/build/world-medals-0.009.apk"
+  ],
+  "limitations": [
+    "仅完成该指南正文的有界对照，不等于穷尽英国全部历史奖励",
+    "七项仍缺完整图",
+    "DSO实物页题名与正文日期差异已保留于conflicts",
+    "未在实体安卓设备安装测试",
+    "现有全库含受限图片，只保留本地研究版本，不上传公网"
+  ],
+  "verification": [
+    "Search aliases and encyclopedia family grouping passed",
+    "8889 mobile rows; no unmapped volumes",
+    "14 new rows exported; 7 pictured and 7 pending, variant labels preserved",
+    "12 new original and APK display files decoded and source hashes verified",
+    "390x844 preview: new entry, front/back images loaded; no horizontal overflow",
+    "61 guide family introductions present; museum evidence added to new WWI entries",
+    "Final APK catalog, introductions and version match exported files byte-for-byte; all 12 new packaged photos decode"
+  ],
+  "apk": {
+    "path": "mobile/build/world-medals-0.009.apk",
+    "bytes": 203882400,
+    "sha256": "2a35c99d352df03805a1bd23b8ba239ee82255f7a2889c09721f7a6503d7af68",
+    "signature": "v2/v3 verified"
+  }
+}

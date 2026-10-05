@@ -1,0 +1,35 @@
+{
+  "as_of": "2026-09-29",
+  "scope": "Soviet awards, Mondvor directories",
+  "next_tasks": [
+    {
+      "priority": 1,
+      "task": "Review and merge 88 order classification candidates into existing families; do not count certificate versions as medal variants",
+      "status": "pending"
+    },
+    {
+      "priority": 2,
+      "task": "Locate reusable complete photos for remaining historical types and 10 honorary-title badge families",
+      "status": "pending"
+    },
+    {
+      "priority": 3,
+      "task": "Review auxiliary literature and document references as evidence, not as additional award families",
+      "status": "pending"
+    }
+  ],
+  "completed_this_batch": [
+    "Three known unpictured families supplied with complete original photos",
+    "Lenin Type II front photo added",
+    "All 75 main directory award names map to the local body"
+  ],
+  "variant_image_gaps": [
+    {
+      "family": "USSR-ORD-15",
+      "variant": "1988年更名后的荣誉勋章",
+      "period": "1988-12-28至1991",
+      "status": "no verified local full front photo; same family, not a new award",
+      "evidence": "data/staging/soviet_completion/honour_1988.json"
+    }
+  ]
+}

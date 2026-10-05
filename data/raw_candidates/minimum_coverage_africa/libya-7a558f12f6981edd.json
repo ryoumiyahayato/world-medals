@@ -1,0 +1,62 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-7a558f12f6981edd",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/medal-of-war-wounded.html",
+  "page_title": "Medal of War Wounded",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/7a558f12f6981edd.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Medal of War Wounded Medal instituted in 1969. Medal awarded to members of the Armed Forces wounded in action. The medal have similar design with Egyptian medal . Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/1/4/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/4/2.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/4/3.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/1/4/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-d1c83e352d699d669ace.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "f95fffeb0af0b5bf5254730699e7ff8fb903d750b9f2ad9455099f5aed24f42f",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/4/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-6cdeeab1b48a68e8129c.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "b885c029ed74980118d889cb277a78365e136950f418a7df77b5db7690bd2c48",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/1/4/3.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-a25f6c47925f86e434a8.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "b44c2df2c7c8f4d6856a53af59ee9cdb0287ced04fe3ee804b13386f24be0e56",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/medal-of-war-wounded.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

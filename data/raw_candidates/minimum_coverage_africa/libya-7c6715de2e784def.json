@@ -1,0 +1,49 @@
+{
+  "source_id": "WAW-AFRICA-LIBYA-7c6715de2e784def",
+  "region": "north_africa",
+  "country_scope": "Libya",
+  "country_slug": "libya",
+  "source_page": "https://wawards.org/libya/libyan-arab-republic/order-of-pioneers.html",
+  "page_title": "Order of Pioneers",
+  "parent_page": "discovered_from_same_country_tree",
+  "source_cache": "sources/cache/minimum_coverage_africa/7c6715de2e784def.html",
+  "accessed": "2026-09-29",
+  "page_type": "detail_candidate",
+  "candidate_status": "candidate_unreviewed",
+  "source_text": "Order of Pioneers Order awarded to the first pioneers in various national, regional, and international fields. Libyan Arab Republic",
+  "gallery_refs": [
+    {
+      "url": "https://wawards.org/images/libya/2/7/1.jpg",
+      "caption": ""
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/7/2.jpg",
+      "caption": ""
+    }
+  ],
+  "images": [
+    {
+      "url": "https://wawards.org/images/libya/2/7/1.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-eb7b0323998bba33a8f9.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "89063ad82bc86efcc022d4bce2f429905c70d169276015bf2f7e549c233e5594",
+      "license": "No open reuse license identified; local research cache only"
+    },
+    {
+      "url": "https://wawards.org/images/libya/2/7/2.jpg",
+      "local_path": "assets/images/minimum_coverage_africa/wawards-7cffe030fcf06de81341.jpg",
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "ae47a5c4aafe4c4cb325193f08294a7d7017bed23380cae2b49cbbb5a3c10f53",
+      "license": "No open reuse license identified; local research cache only"
+    }
+  ],
+  "image_failures": [],
+  "linked_pages": [
+    "https://wawards.org/libya/libyan-arab-republic/order-of-pioneers.html"
+  ],
+  "source_boundary": "Wawards country subtree only; candidate not yet curated/independently verified"
+}

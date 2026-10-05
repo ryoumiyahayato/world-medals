@@ -1,0 +1,23 @@
+{
+  "source": "NumisBids V.L.Nummus OnlineAuction31 Austria category343144",
+  "category_url": "https://www.numisbids.com/sale/10985/category/343144?so=2",
+  "accessed_at": "2026-10-05",
+  "status": "description_sweep_complete_image_stage_partial",
+  "category_pages": 1,
+  "category_lots_expected": 34,
+  "object_pages_opened": 34,
+  "raw_candidates": 34,
+  "categories": {
+    "case_only_non_award": 2,
+    "formal_award_candidate": 27,
+    "mixed_group_pending_individual_identification": 1,
+    "related_insignia_or_commemorative_pending_scope": 4
+  },
+  "copy_lots": 1,
+  "complete_original_images": 0,
+  "body_new_family": 0,
+  "body_new_variants": 0,
+  "direct_source_access": "HTTP403; public web text reader accessed all34 pages",
+  "original_auction": "https://numis24.com/auctions/view/6a63216f4326cd11f603cb94",
+  "next": "Resolve full photos from public auction gallery and permission, then verify exact degree, war decoration, swords, manufacturer, replicas. Do not count case-only lots or collector copy as original historical award."
+}

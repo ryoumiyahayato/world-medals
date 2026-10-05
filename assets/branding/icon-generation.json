@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-03",
+  "mode": "built-in image_gen",
+  "master": "assets/branding/wodm-soviet-master.png",
+  "app_name": "WODM-world medals",
+  "concept": "Original Soviet-themed red star, hammer and sickle, golden wheat medal emblem. No typography. Not a historical award reproduction.",
+  "launcher_safe_padding": true
+}

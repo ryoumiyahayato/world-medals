@@ -62,7 +62,7 @@ public class MainActivity extends Activity {
    }
   });
   web.loadUrl("https://"+HOST+"/index.html");
-  
+
  }
  private WebResourceResponse response(int status,String reason,byte[] bytes,String mime){return new WebResourceResponse(mime,"UTF-8",status,reason,Collections.emptyMap(),new ByteArrayInputStream(bytes));}
  private void syncSystemTheme(){boolean dark=(getResources().getConfiguration().uiMode&Configuration.UI_MODE_NIGHT_MASK)==Configuration.UI_MODE_NIGHT_YES;web.evaluateJavascript("window.nativeSystemDark="+dark+";if(typeof applyTheme==='function')applyTheme();",null);}
@@ -79,7 +79,7 @@ public class MainActivity extends Activity {
   long now=System.currentTimeMillis(),last=getPreferences(0).getLong("lastAttempt",0);
   if(checking||(!manual&&now>=last&&now-last<15*60*1000L))return;
   checking=true;getPreferences(0).edit().putLong("lastAttempt",now).apply();
-  
+
   new Thread(()->{
    try{
     String current=getPackageManager().getPackageInfo(getPackageName(),0).versionName;
@@ -121,6 +121,3 @@ public class MainActivity extends Activity {
  @Override public void onBackPressed(){web.evaluateJavascript("(()=>{const d=document.querySelector('dialog[open]');if(d){d.close();return true;}const s=document.getElementById('splash');if(s&&!s.hidden){finishSplash();return true;}if(document.body.classList.contains('book-is-open')&&window.closeReadingBook){closeReadingBook();return true;}if(typeof state!=='undefined'&&(state.tab!=='catalog'||document.body.classList.contains('book-is-open'))){document.getElementById('query').value='';document.getElementById('volume').value='';if(window.resetBook)resetBook();navigate('catalog');return true;}return false;})()",value->{if(!"true".equals(value))super.onBackPressed();});}
  @Override protected void onDestroy(){if(fileResult!=null)fileResult.onReceiveValue(null);web.destroy();super.onDestroy();}
 }
-
-
-

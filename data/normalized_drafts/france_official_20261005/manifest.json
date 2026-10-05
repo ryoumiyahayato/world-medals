@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "view_key": "FRA-ORDER-HOLY-SPIRIT-OPEN-20261005-FRONT",
+      "local_path": "assets/images/france_official_open_20261005/holy-spirit-star.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ordensstern_des_Ordre_du_Saint-Esprit.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ordensstern_des_Ordre_du_Saint-Esprit.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Pedemann",
+      "credit": "Pedemann",
+      "width": 2152,
+      "height": 1996,
+      "sha256": "e82301a738c76de3cbc9eb9473453b4587f63211d14bdca0c19b9f2145efefa1",
+      "accessed": "2026-10-05",
+      "label": "正面",
+      "changes": "EXIF orientation applied to display derivative; original archived unchanged",
+      "complete": true,
+      "original_sha256": "9eca3710d1927562b7f3df34728927a9ff5ab9dd84a3f631b0c0a23742e4c1d5"
+    },
+    {
+      "view_key": "FRA-SAMLHOC-ORDRE_SAINT_LOUIS-OPEN-20261005-FRONT",
+      "local_path": "assets/images/france_official_open_20261005/saint-louis-regence.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ordre_de_Saint_Louis_Regence_AEA_Collections.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ordre_de_Saint_Louis_Regence_AEA_Collections.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "artist": "Alexeinikolayevichromanov",
+      "credit": "Alexeinikolayevichromanov",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "8c8002445ce7c4fa0dfffbf00ed356fddbf5d0e0c005406cfec813cd5a151ccf",
+      "accessed": "2026-10-05",
+      "label": "正面",
+      "changes": "EXIF orientation applied to display derivative; original archived unchanged",
+      "complete": true,
+      "original_sha256": "03239334d2926aeda7494796abc3b509c85ed5d1487a90ac9e02c9451226c527"
+    }
+  ]
+}

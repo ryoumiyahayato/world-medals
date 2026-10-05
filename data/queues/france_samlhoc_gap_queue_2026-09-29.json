@@ -4,9 +4,9 @@
   "source": "FR-SAMLHOC-FULL-PHALERISTIQUE",
   "method": "Exact source-slug crosswalk against the locally known France family ids, including the four-row official-core batch. Unresolved rows remain candidates and are not asserted as confirmed new formal awards.",
   "counts": {
-    "normalized_source_families": 173,
+    "normalized_source_families": 175,
     "mapped_known_families": 21,
-    "unresolved_difference_candidates": 152,
+    "unresolved_difference_candidates": 154,
     "unresolved_without_any_local_image": 1
   },
   "mapped_known_families": [
@@ -453,7 +453,23 @@
       "canonical_slug": "medaille_commemorative_francaise",
       "original_name_candidate": "Médaille",
       "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
-      "local_decoded_images": 7,
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_FRANCAISE_COREE",
+      "canonical_slug": "medaille_commemorative_francaise_coree",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 3,
+      "status": "unresolved_difference_candidate"
+    },
+    {
+      "family_id": "FRA-SAMLHOC-MEDAILLES-MEDAILLE_COMMEMORATIVE_FRANCAISE_OPERATIONS_MOYEN_ORIENT",
+      "canonical_slug": "medaille_commemorative_francaise_operations_moyen-orient",
+      "original_name_candidate": "Médaille",
+      "issuer_scope": "法国国家／历史政权；具体授予主体待逐页核定",
+      "local_decoded_images": 1,
       "status": "unresolved_difference_candidate"
     },
     {

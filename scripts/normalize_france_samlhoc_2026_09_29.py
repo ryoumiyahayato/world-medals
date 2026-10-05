@@ -26,8 +26,6 @@ ALIASES = {
     "medaille_coloniale_textes_officiels": "medaille_coloniale",
     "medaille_militaire_textes_officiels_1": "medaille_militaire",
     "medaille_militaire_textes_officiels_2": "medaille_militaire",
-    "medaille_commemorative_francaise_coree": "medaille_commemorative_francaise",
-    "medaille_commemorative_francaise_operations_moyen-orient": "medaille_commemorative_francaise",
 }
 EXCLUDE = {
     "unknown",

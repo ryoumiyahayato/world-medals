@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict');
+global.Pinyin=require('../web/vendor/tiny-pinyin.js');
+const B=require('../web/encyclopedia.js');
+assert.equal(B.phonetic('劳动红旗'),'laodonghongqi');
+const a={id:'a',family:'red-flag',name:'劳动红旗勋章',volume:'soviet-union'};
+const b={id:'b',family:'lenin',name:'列宁勋章',volume:'soviet-union'};
+const c={id:'c',family:'labour',name:'劳动勋章',volume:'other'};
+const d={id:'d',family:'leopold',name:'列奥波德勋章',volume:'foreign'};
+const unrelated={id:'e',family:'victory',name:'胜利勋章',volume:'soviet-union'};
+const sorted=B.order([{r:a,score:120}],[a,b,c,d,unrelated],{query:'劳动红旗'});
+assert.equal(sorted[0][0],a.family);assert.equal(sorted[1][0],B.familyKey(b));
+assert.equal(sorted[2][0],c.family);assert(!sorted.some(([k])=>k==='victory'));
+const country=B.order([a,b,unrelated].map(r=>({r,score:80})),[a,b,unrelated],{countryQuery:true,intros:[{families:['lenin'],paragraphs:['国家最高勋章。']}]});
+assert.equal(country[0][0],B.familyKey(b));
+console.log('Exact first match, same-country pinyin, foreign phonetic proximity, and sourced highest-award precedence passed.');

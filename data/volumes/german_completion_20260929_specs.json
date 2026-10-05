@@ -1,0 +1,482 @@
+[
+  {
+    "slug": "saxony_kingdom",
+    "title": "萨克森王国（1806—1918）",
+    "anchor": "saxony-kingdom",
+    "aliases": "萨克森王国（1806—1918） Deutschland Germany Königreich Sachsen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨克森王国（1806—1918）"
+    ]
+  },
+  {
+    "slug": "saxony_electorate_kingdom",
+    "title": "萨克森选侯国与王国",
+    "anchor": "saxony-electorate-kingdom",
+    "aliases": "萨克森选侯国与王国 Deutschland Germany Kurfürstentum Sachsen; Königreich Sachsen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨克森选侯国与王国"
+    ]
+  },
+  {
+    "slug": "hanover_kingdom",
+    "title": "汉诺威王国（1814—1866）",
+    "anchor": "hanover-kingdom",
+    "aliases": "汉诺威王国（1814—1866） Deutschland Germany Königreich Hannover",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "汉诺威王国（1814—1866）"
+    ]
+  },
+  {
+    "slug": "oldenburg_grand_duchy",
+    "title": "奥尔登堡大公国（1815—1918）",
+    "anchor": "oldenburg-grand-duchy",
+    "aliases": "奥尔登堡大公国（1815—1918） Deutschland Germany Großherzogtum Oldenburg",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "奥尔登堡大公国（1815—1918）"
+    ]
+  },
+  {
+    "slug": "anhalt_duchies",
+    "title": "安哈尔特诸公国（共同设立）",
+    "anchor": "anhalt-duchies",
+    "aliases": "安哈尔特诸公国（共同设立） Deutschland Germany Herzogtümer Anhalt-Köthen, Anhalt-Dessau und Anhalt-Bernburg; später Herzogtum Anhalt",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "安哈尔特诸公国（共同设立）"
+    ]
+  },
+  {
+    "slug": "baden_grand_duchy",
+    "title": "巴登大公国（1806—1918）",
+    "anchor": "baden-grand-duchy",
+    "aliases": "巴登大公国（1806—1918） Deutschland Germany Großherzogtum Baden",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "巴登大公国（1806—1918）"
+    ]
+  },
+  {
+    "slug": "baden_durlach_grand_duchy",
+    "title": "巴登-杜拉赫藩侯国与巴登大公国",
+    "anchor": "baden-durlach-grand-duchy",
+    "aliases": "巴登-杜拉赫藩侯国与巴登大公国 Deutschland Germany Markgrafschaft Baden-Durlach; später Großherzogtum Baden",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "巴登-杜拉赫藩侯国与巴登大公国"
+    ]
+  },
+  {
+    "slug": "brunswick_duchy",
+    "title": "不伦瑞克公国（1815—1918）",
+    "anchor": "brunswick-duchy",
+    "aliases": "不伦瑞克公国（1815—1918） Deutschland Germany Herzogtum Braunschweig",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "不伦瑞克公国（1815—1918）"
+    ]
+  },
+  {
+    "slug": "hesse_darmstadt_grand_duchy",
+    "title": "黑森-达姆施塔特大公国（1806—1918）",
+    "anchor": "hesse-darmstadt-grand-duchy",
+    "aliases": "黑森-达姆施塔特大公国（1806—1918） Deutschland Germany Großherzogtum Hessen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "黑森-达姆施塔特大公国（1806—1918）"
+    ]
+  },
+  {
+    "slug": "hesse_kassel_landgraviate_electorate",
+    "title": "黑森-卡塞尔伯国与选侯国",
+    "anchor": "hesse-kassel-landgraviate-electorate",
+    "aliases": "黑森-卡塞尔伯国与选侯国 Deutschland Germany Landgrafschaft Hessen-Kassel; Kurfürstentum Hessen-Kassel",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "黑森-卡塞尔伯国与选侯国"
+    ]
+  },
+  {
+    "slug": "mecklenburg_duchies_shared",
+    "title": "梅克伦堡-什未林与施特雷利茨两大公国（共同勋章）",
+    "anchor": "mecklenburg-duchies-shared",
+    "aliases": "梅克伦堡-什未林与施特雷利茨两大公国（共同勋章） Deutschland Germany Großherzogtümer Mecklenburg-Schwerin und Mecklenburg-Strelitz",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "梅克伦堡-什未林与施特雷利茨两大公国（共同勋章）"
+    ]
+  },
+  {
+    "slug": "lippe_detmold_principality",
+    "title": "利珀-代特莫尔德侯国（1890年后）",
+    "anchor": "lippe-detmold-principality",
+    "aliases": "利珀-代特莫尔德侯国（1890年后） Deutschland Germany Fürstentum Lippe-Detmold; 1869–1890 gemeinsam mit Schaumburg-Lippe",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "利珀-代特莫尔德侯国（1890年后）"
+    ]
+  },
+  {
+    "slug": "saxe_ernestine_duchies",
+    "title": "萨克森-恩斯廷诸公国（共同勋章）",
+    "anchor": "saxe-ernestine-duchies",
+    "aliases": "萨克森-恩斯廷诸公国（共同勋章） Deutschland Germany Herzogtümer Sachsen-Altenburg, Sachsen-Coburg-Gotha und Sachsen-Meiningen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨克森-恩斯廷诸公国（共同勋章）"
+    ]
+  },
+  {
+    "slug": "wuerttemberg_kingdom",
+    "title": "符腾堡王国（1806—1918）",
+    "anchor": "wuerttemberg-kingdom",
+    "aliases": "符腾堡王国（1806—1918） Deutschland Germany Königreich Württemberg",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "符腾堡王国（1806—1918）"
+    ]
+  },
+  {
+    "slug": "germany_federal_republic",
+    "title": "德意志联邦共和国",
+    "anchor": "germany-federal-republic",
+    "aliases": "德意志联邦共和国 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "德意志联邦共和国"
+    ]
+  },
+  {
+    "slug": "baden_wuerttemberg_state",
+    "title": "巴登-符腾堡州",
+    "anchor": "baden-wuerttemberg-state",
+    "aliases": "巴登-符腾堡州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "巴登-符腾堡州"
+    ]
+  },
+  {
+    "slug": "bavaria_state",
+    "title": "巴伐利亚州",
+    "anchor": "bavaria-state",
+    "aliases": "巴伐利亚州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "巴伐利亚州"
+    ]
+  },
+  {
+    "slug": "berlin_state",
+    "title": "柏林州／西柏林",
+    "anchor": "berlin-state",
+    "aliases": "柏林州／西柏林 Deutschland Germany Land Berlin",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "柏林州／西柏林"
+    ]
+  },
+  {
+    "slug": "brandenburg_state",
+    "title": "勃兰登堡州",
+    "anchor": "brandenburg-state",
+    "aliases": "勃兰登堡州 Deutschland Germany Land Brandenburg",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "勃兰登堡州"
+    ]
+  },
+  {
+    "slug": "hessen_state",
+    "title": "黑森州",
+    "anchor": "hessen-state",
+    "aliases": "黑森州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "黑森州"
+    ]
+  },
+  {
+    "slug": "mecklenburg_vorpommern_state",
+    "title": "梅克伦堡-前波美拉尼亚州",
+    "anchor": "mecklenburg-vorpommern-state",
+    "aliases": "梅克伦堡-前波美拉尼亚州 Deutschland Germany Land Mecklenburg-Vorpommern",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "梅克伦堡-前波美拉尼亚州"
+    ]
+  },
+  {
+    "slug": "lower_saxony_state",
+    "title": "下萨克森州",
+    "anchor": "lower-saxony-state",
+    "aliases": "下萨克森州 Deutschland Germany Land Niedersachsen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "下萨克森州"
+    ]
+  },
+  {
+    "slug": "north_rhine_westphalia_state",
+    "title": "北莱茵-威斯特法伦州",
+    "anchor": "north-rhine-westphalia-state",
+    "aliases": "北莱茵-威斯特法伦州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "北莱茵-威斯特法伦州"
+    ]
+  },
+  {
+    "slug": "rhineland_palatinate_state",
+    "title": "莱茵兰-普法尔茨州",
+    "anchor": "rhineland-palatinate-state",
+    "aliases": "莱茵兰-普法尔茨州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "莱茵兰-普法尔茨州"
+    ]
+  },
+  {
+    "slug": "saarland_state",
+    "title": "萨尔州",
+    "anchor": "saarland-state",
+    "aliases": "萨尔州 Deutschland Germany Saarland",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨尔州"
+    ]
+  },
+  {
+    "slug": "saxony_free_state",
+    "title": "萨克森自由州",
+    "anchor": "saxony-free-state",
+    "aliases": "萨克森自由州 Deutschland Germany Freistaat Sachsen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨克森自由州"
+    ]
+  },
+  {
+    "slug": "saxony_anhalt_state",
+    "title": "萨克森-安哈尔特州",
+    "anchor": "saxony-anhalt-state",
+    "aliases": "萨克森-安哈尔特州 Deutschland Germany Land Sachsen-Anhalt",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "萨克森-安哈尔特州"
+    ]
+  },
+  {
+    "slug": "schleswig_holstein_state",
+    "title": "石勒苏益格-荷尔斯泰因州",
+    "anchor": "schleswig-holstein-state",
+    "aliases": "石勒苏益格-荷尔斯泰因州 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "石勒苏益格-荷尔斯泰因州"
+    ]
+  },
+  {
+    "slug": "thuringia_free_state",
+    "title": "图林根自由州",
+    "anchor": "thuringia-free-state",
+    "aliases": "图林根自由州 Deutschland Germany Freistaat Thüringen",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "图林根自由州"
+    ]
+  },
+  {
+    "slug": "hamburg_state",
+    "title": "汉堡自由汉萨市",
+    "anchor": "hamburg-state",
+    "aliases": "汉堡自由汉萨市 Deutschland Germany ",
+    "country_group": "germany",
+    "record_files": [
+      "german_completion_20260929.json"
+    ],
+    "manifest_files": [
+      "german_completion_20260929_manifest.json"
+    ],
+    "awarding_authorities": [
+      "汉堡自由汉萨市"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "input_files": 28,
+  "accepted_reference_images": 18,
+  "reference_rows": 17,
+  "matched_families": 10,
+  "new_independent_families": 2,
+  "new_source_photographs": 0,
+  "held_files": 10
+}

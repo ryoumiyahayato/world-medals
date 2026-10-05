@@ -1,0 +1,10 @@
+{
+  "as_of": "2026-10-05",
+  "source_id": "FR-SAMLHOC-FULL-PHALERISTIQUE",
+  "report": "data/source_sweeps/france_phaleristique_alias_20261005.json",
+  "next_action": "No new URLs if delta zero; prioritize existing unresolved family/variant map and open-photo replacement.",
+  "counts": {
+    "new_pages": 0,
+    "source_scope_urls": 777
+  }
+}

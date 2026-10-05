@@ -1,0 +1,29 @@
+/* User sketch: one enlarged paper page and one bottom search line. */
+nav{transition:transform .38s cubic-bezier(.4,0,.2,1),opacity .3s,visibility .38s}
+body.book-is-open nav,body.book-opening nav{transform:translate(-50%,150px);opacity:0;visibility:hidden;pointer-events:none}
+.book-opening .fallback-cover{transform:rotateY(-145deg)}
+body.book-is-open #reading-book{top:max(10px,env(safe-area-inset-top));bottom:calc(88px + env(safe-area-inset-bottom));left:8px;right:10px}
+body.book-is-open .filters,body.has-results .filters,body:not(.has-results).book-is-open .filters{bottom:calc(12px + env(safe-area-inset-bottom));left:12px;right:12px;padding:7px 10px;min-height:56px;border-radius:28px;animation:none}
+body.book-is-open .filters input{height:42px;min-height:42px;border:0!important;box-shadow:none!important;background:transparent;padding:8px 6px}
+#page-scroll{overflow:hidden;display:flex;flex-direction:column;padding:24px 20px 28px 18px;touch-action:none}
+#results{flex:1;min-height:0;overflow:hidden;width:100%}
+#page-scroll .section-heading{top:11px;right:22px}
+#page-scroll .directory-title{font-size:25px;line-height:1.3;margin:8px 0 18px;padding:0;border:0}
+.printed-entry{display:block;width:100%;text-align:left;border:0!important;border-radius:0;background:transparent;padding:5px 0;min-height:48px;line-height:1.45;font-size:16px;color:#39342d}
+.printed-name{display:block}.printed-period{display:block;font-size:11px;color:#8b8172;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+body.article-reading .award-article{height:100%;width:100%;padding:0;margin:0;column-gap:32px;column-fill:auto;font-size:14px;line-height:1.8;transform-origin:left;will-change:transform}
+.award-article .article-hero{break-inside:avoid;gap:12px;margin-bottom:12px}.article-hero .award-page-title{font-size:21px}
+.article-intro{margin:10px 0}.article-period{margin:0}.article-period h3{border:0;padding:0;font-size:16px;line-height:1.5;margin:14px 0 8px;break-after:avoid}
+.article-variant{margin:0 0 15px;break-inside:avoid}.article-variant h4{font-size:14px;line-height:1.5;margin:8px 0}
+.article-history h3{break-after:avoid}.history-entry{break-inside:avoid}.article-photos{gap:8px;flex-wrap:nowrap}
+.award-article .photo-button img{max-height:230px;max-height:min(32vh,230px);width:100%;object-fit:contain}.article-photos figure{flex:1 1 0;margin:4px 0}
+.award-article .article-hero figure{max-width:38%}.award-article p{orphans:3;widows:3}.article-references{break-inside:avoid}
+.easter-running .filters,.easter-finished .filters,.easter-running nav,.easter-finished nav{display:none!important;visibility:hidden!important}
+@media(max-width:350px){#page-scroll{padding:20px 13px 26px}.printed-entry{font-size:15px}.printed-period{font-size:10px}}
+@media(max-height:500px){body.book-is-open #reading-book{top:7px;bottom:72px}body.book-is-open .filters{bottom:8px;padding:4px 8px;min-height:48px}#page-scroll{padding-top:16px;padding-bottom:22px}.award-article .photo-button img{max-height:95px}.printed-entry{min-height:42px;padding:3px 0}}
+@media(prefers-reduced-motion:reduce){nav{transition:none}}
+body.book-is-open #reading-book{transform-origin:top left;animation:none}
+.page-expanding #page-scroll>*{opacity:0}.page-expanding .filters{opacity:0}
+.cover-prompt-actions{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}.cover-prompt-actions button{flex:1;min-width:120px}
+#motifs svg path{stroke-width:1.2!important;filter:drop-shadow(0 1px 1px #0004)}
+.turning-leaf.reverse-leaf{transform-origin:right center;animation-name:turn-leaf-back}@keyframes turn-leaf-back{to{transform:rotateY(175deg);opacity:.1}}
