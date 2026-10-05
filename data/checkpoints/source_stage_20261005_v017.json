@@ -22,6 +22,10 @@
   "next": "Verify release; continue imperial Army Cross and three cold-medal evidence batches; scan remaining site queues",
   "github_release": "https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-v0.017",
   "github_asset_digest_verified": true,
+  "github_release_asset_sha256": "5834906d8bfc37ddc6cbc70c6e54b4973216e7cc497a82808ff5ad66200b03b1",
+  "github_release_build_ci_run": 37287210843,
+  "github_release_build_ci_conclusion": "success",
+  "release_asset_note": "Successful tag CI replaced the original local-build upload. Both builds use the persistent signing identity; local and CI archive bytes differ. Remote digest is recorded separately from local APK digest.",
   "ci_run": 37286997736,
   "ci_conclusion": "success"
 }
