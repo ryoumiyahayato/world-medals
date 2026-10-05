@@ -2,6 +2,7 @@ name: Build private Android atlas
 on:
   workflow_dispatch:
   push:
+    branches: ['main']
     paths: ['mobile/**', 'index.html', 'assets/images/**', 'data/volumes/**', 'data/sources.json', '.github/workflows/mobile-apk.yml']
     tags: ['mobile-v*']
 permissions:
@@ -68,9 +69,14 @@ jobs:
         with:
           name: world-medals-android
           path: release
-      - name: Create draft release for review
+      - name: Publish validated private release
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
           RELEASE_TAG: ${{ github.ref_name }}
-        run: gh release create "$RELEASE_TAG" release/*.apk release/*.sha256 --draft --title "全球勋奖章图鉴 $RELEASE_TAG" --notes '离线图鉴 Android 更新。个人研究使用，保留图片原始权利限制。'
+        run: |
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" release/*.apk release/*.sha256 --clobber
+          else
+            gh release create "$RELEASE_TAG" release/*.apk release/*.sha256 --title "WODM-world medals $RELEASE_TAG" --notes '离线图鉴 Android 更新。私有研究版本，保留图片原始权利限制。'
+          fi

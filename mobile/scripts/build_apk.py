@@ -8,6 +8,24 @@ BUILD=MOBILE/'build/android'
 WIN=os.name=='nt'
 def run(args, **kwargs):
     subprocess.run([str(x) for x in args], check=True, **kwargs)
+
+def remove_obsolete_apks(output):
+    """Keep the validated newest APK and its sidecars, inside this project only."""
+    root=(MOBILE/'build').resolve();output=output.resolve()
+    if not output.is_relative_to(root) or not output.is_file():
+        raise ValueError('Newest APK must exist inside the project build directory')
+    with zipfile.ZipFile(output) as archive:
+        if archive.testzip() is not None:raise ValueError('Newest APK failed CRC verification')
+    removed=[]
+    for candidate in root.rglob('*'):
+        if not candidate.is_file() or not any(candidate.name.endswith(s) for s in ('.apk','.apk.sha256','.apk.idsig')):continue
+        resolved=candidate.resolve()
+        if not resolved.is_relative_to(root):raise ValueError('APK cleanup outside project')
+        if candidate.name in (output.name,output.name+'.sha256',output.name+'.idsig'):continue
+        removed.append(dict(path=str(resolved),bytes=candidate.stat().st_size))
+        candidate.unlink()
+    (root/'apk-cleanup.json').write_text(json.dumps(dict(kept=str(output),removed=removed),indent=2),encoding='utf-8')
+    return removed
 def build():
     if not os.environ.get('SKIP_EXPORT'): export()
     sdk=Path(os.environ.get('ANDROID_HOME') or os.environ.get('ANDROID_SDK_ROOT') or str(Path.home()/'AppData/Local/Android/Sdk'))
@@ -69,5 +87,7 @@ def build():
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','verify','--verbose',output])
     sha=hashlib.sha256(output.read_bytes()).hexdigest()
     output.with_suffix('.apk.sha256').write_text(sha+'  '+output.name+'\n')
+    removed=remove_obsolete_apks(output)
+    print(json.dumps({'obsolete_apk_files_removed':len(removed),'bytes_reclaimed':sum(x['bytes'] for x in removed)}))
     print(json.dumps({'apk':str(output),'bytes':output.stat().st_size,'sha256':sha}))
 if __name__=='__main__':build()

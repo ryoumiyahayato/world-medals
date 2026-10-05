@@ -1,0 +1,69 @@
+{
+  "as_of": "2026-10-05",
+  "kept": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.015.apk",
+  "removed": [
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.011.apk",
+      "bytes": 285420699
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.011.apk.idsig",
+      "bytes": 2258839
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.011.apk.sha256",
+      "bytes": 90
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.012.apk",
+      "bytes": 285424944
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.012.apk.idsig",
+      "bytes": 2258839
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.012.apk.sha256",
+      "bytes": 90
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.013.apk",
+      "bytes": 285425017
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.013.apk.idsig",
+      "bytes": 2258839
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.013.apk.sha256",
+      "bytes": 90
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.014.apk",
+      "bytes": 285429264
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.014.apk.idsig",
+      "bytes": 2258839
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\world-medals-0.014.apk.sha256",
+      "bytes": 90
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\android\\aligned.apk",
+      "bytes": 284189960
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\android\\resources.apk",
+      "bytes": 1483529
+    },
+    {
+      "path": "C:\\Users\\agcrf\\Desktop\\world-medals\\mobile\\build\\android\\unsigned.apk",
+      "bytes": 284189952
+    }
+  ],
+  "removed_files": 15,
+  "bytes_reclaimed": 1720599081,
+  "scope": "Project mobile/build only; newest signature verified before cleanup; CRC verified at cleanup"
+}

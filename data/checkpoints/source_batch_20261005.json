@@ -3,10 +3,10 @@
   "status": "bounded_batch_integrated_overall_request_in_progress",
   "source_coverage": {
     "planned": 14,
-    "completed": 0,
-    "partial": 5,
+    "completed": 1,
+    "partial": 6,
     "blocked": 1,
-    "not_started": 8
+    "not_started": 6
   },
   "raw_candidates": {
     "emedals": 1724,
@@ -63,6 +63,8 @@
     "apk": "mobile/build/world-medals-0.015.apk",
     "sha256": "fef46e5c9954c1b0c747408a59ec8cbf6e7962b551f1cfb92162c93502e397ea",
     "validation": "Signed v2/v3; CRC and asset equality; derived image allowlist; search/catalogue/reader regressions passed",
-    "github_status": "pending push"
+    "github_status": "pushed and non-draft private release uploaded; remote SHA256 verified",
+    "url": "https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-v0.015",
+    "source_commit": "030eb5619b6d94b45c198f74213bb29ebfd3f3d1"
   }
 }

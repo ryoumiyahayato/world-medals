@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-10-05",
+  "status": "stage_published_goal_active",
+  "new_main_families": 8,
+  "new_appendix_families": 2,
+  "new_variant_rows": 55,
+  "complete_views": 94,
+  "apk_version": "0.015",
+  "apk_sha256": "fef46e5c9954c1b0c747408a59ec8cbf6e7962b551f1cfb92162c93502e397ea",
+  "release_url": "https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-v0.015",
+  "source_coverage": {
+    "planned": 14,
+    "completed": 1,
+    "partial": 6,
+    "blocked": 1,
+    "not_started": 6
+  },
+  "in_progress": {
+    "emedals_object_sweep_session": 68748,
+    "planned": 1724
+  },
+  "next": "Poll live sweep handle; integrate Austria republic draft; continue remaining website catalogues; build/push v0.016 after next reviewed batch",
+  "limitations": [
+    "No all-site completion claim",
+    "Private releases require GitHub access; ordinary unauthenticated app update checks cannot read them",
+    "Original research image rights preserved; full legacy corpus not cleared for public redistribution"
+  ]
+}
