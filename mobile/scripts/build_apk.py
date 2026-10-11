@@ -29,7 +29,8 @@ def remove_obsolete_apks(output):
 def build():
     if not os.environ.get('SKIP_EXPORT'): export()
     sdk=Path(os.environ.get('ANDROID_HOME') or os.environ.get('ANDROID_SDK_ROOT') or str(Path.home()/'AppData/Local/Android/Sdk'))
-    java=Path(os.environ.get('JAVA_HOME') or r'C:\Program Files\Android\Android Studio\jbr')/'bin'
+    java=Path(os.environ['JAVA_HOME'])/'bin' if os.environ.get('JAVA_HOME') else Path(shutil.which('java') or '').parent
+    if not (java/('java.exe' if WIN else 'java')).exists():raise RuntimeError('Set JAVA_HOME to JDK 17+ or add java to PATH')
     platform=sdk/'platforms/android-36/android.jar'
     bt=sdk/'build-tools/36.1.0'
     if not bt.exists(): bt=sdk/'build-tools/36.0.0'
@@ -87,7 +88,9 @@ def build():
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','verify','--verbose',output])
     sha=hashlib.sha256(output.read_bytes()).hexdigest()
     output.with_suffix('.apk.sha256').write_text(sha+'  '+output.name+'\n')
-    removed=remove_obsolete_apks(output)
+    # Content delivery checks may run after signing. Keep the previous installer
+    # until those checks finish when the calling batch explicitly defers cleanup.
+    removed=[] if os.environ.get('WORLD_MEDALS_DEFER_APK_CLEANUP') == '1' else remove_obsolete_apks(output)
     print(json.dumps({'obsolete_apk_files_removed':len(removed),'bytes_reclaimed':sum(x['bytes'] for x in removed)}))
     print(json.dumps({'apk':str(output),'bytes':output.stat().st_size,'sha256':sha}))
 if __name__=='__main__':build()

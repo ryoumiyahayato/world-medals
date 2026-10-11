@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Kyrgyz Republic — complete ODM and two-page official portal batch",
-  "status": "odm_complete_official_catalogue_objects_complete_images_partial_formal_batch_merged",
-  "source_coverage": {"planned_sources": 4, "completed_sources": 1, "partial_sources": 1, "blocked_sources": 0, "not_started_sources": 2, "odm_pages": 12, "official_catalogue_pages": 2, "official_catalogue_objects": 31, "downloaded_source_files": 22, "broken_official_image_addresses": 22},
-  "formal_merge": {"new_rows": 19, "represented_families": 16, "net_new_families": 16, "local_complete_views": 21, "unpictured_source_candidates": 24, "duplicate_payloads_promoted": 0, "ribbon_only_views_promoted": 0},
-  "site_after_merge": {"main_rows": 2011, "main_families": 1057, "country_or_period_sections": 109, "decoded_local_files": 3046, "unique_gallery_image_paths": 2971, "reused_image_payloads": 0, "ribbon_only_rows": 0, "validation": "site, regression and browser interaction checks passed"},
-  "next_action": "Advance to Tajikistan; retain the official broken-image and legislative differentials."
-}

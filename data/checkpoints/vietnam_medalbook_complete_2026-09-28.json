@@ -1,7 +1,0 @@
-{
-  "as_of":"2026-09-28","scope":"Vietnam historical polities — MedalBook complete catalogue","status":"source_complete_formal_batch_merged",
-  "source_coverage":{"object_pages_planned":176,"object_pages_completed":176,"downloaded_images":250,"unpictured_named_pages":100},
-  "formal_merge":{"new_rows":76,"independent_families":53,"historical_polities":6,"local_complete_views":118,"source_duplicate_or_mismatched_rows_excluded":2,"duplicate_payloads_promoted":0,"ribbon_only_views_promoted":0},
-  "site_after_merge":{"main_rows":1720,"main_families":866,"country_or_period_sections":74,"decoded_local_files":2549,"unique_gallery_image_paths":2474,"reused_image_payloads":0,"ribbon_only_rows":0,"validation":"site, regression and browser interaction checks passed"},
-  "next_action":"Continue Asia with India and British India complete catalogues, then Pakistan; retain Vietnam ODM/Commons/official sources as finite differential queues."
-}

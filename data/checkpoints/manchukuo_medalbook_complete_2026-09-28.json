@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Manchukuo (1932–1945) — MedalBook complete catalogue",
-  "status": "source_complete_formal_batch_merged",
-  "source_coverage": {"object_pages_planned":44,"object_pages_completed":44,"downloaded_images":115,"unpictured_named_pages":14},
-  "formal_merge": {"new_rows":30,"independent_families":12,"local_complete_views":51,"duplicate_payloads_promoted":0,"ribbon_only_views_promoted":0},
-  "site_after_merge": {"main_rows":1497,"main_families":754,"country_or_period_sections":54,"decoded_local_files":2203,"unique_gallery_image_paths":2128,"reused_image_payloads":0,"ribbon_only_rows":0,"validation":"site, regression and browser interaction checks passed"},
-  "next_action": "Continue Asia with DPRK and Republic of Korea differentials, then return to the Manchukuo Commons/historical-print gap queue."
-}

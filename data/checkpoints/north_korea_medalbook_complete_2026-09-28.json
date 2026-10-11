@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Democratic People's Republic of Korea — MedalBook complete catalogue",
-  "status": "source_complete_formal_batch_merged",
-  "source_coverage": {"object_pages_planned":63,"object_pages_completed":63,"pictured_pages":26,"downloaded_images":81,"unpictured_or_unusable_pages":38},
-  "formal_merge": {"new_rows":25,"source_families_in_rows":19,"net_new_independent_families":18,"local_complete_views":47,"duplicate_payloads_promoted":0,"ribbon_only_views_promoted":0},
-  "site_after_merge": {"main_rows":1522,"main_families":772,"country_or_period_sections":55,"decoded_local_files":2250,"unique_gallery_image_paths":2175,"reused_image_payloads":0,"ribbon_only_rows":0,"validation":"site, regression and browser interaction checks passed"},
-  "next_action": "Run the Republic of Korea official-versus-MedalBook differential, then sweep ODM/Commons North Korea gaps before advancing to China and Vietnam."
-}

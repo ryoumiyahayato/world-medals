@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Republic of China — MedalBook complete catalogue",
-  "status": "source_complete_formal_batch_merged",
-  "source_coverage": {"object_pages_planned": 160, "object_pages_completed": 160, "downloaded_images": 163, "unpictured_named_pages": 111},
-  "formal_merge": {"new_rows": 49, "net_new_rows": 48, "independent_families": 19, "net_new_families": 18, "upgraded_existing_rows": 1, "local_complete_views": 69, "duplicate_payloads_promoted": 0, "ribbon_only_views_promoted": 0},
-  "site_after_merge": {"main_rows": 1643, "main_families": 812, "country_or_period_sections": 60, "decoded_local_files": 2430, "unique_gallery_image_paths": 2355, "reused_image_payloads": 0, "ribbon_only_rows": 0, "validation": "site, regression and browser interaction checks passed"},
-  "next_action": "Continue Asia with PRC and Vietnam complete catalogues; retain official ROC and Commons as finite differential queues."
-}

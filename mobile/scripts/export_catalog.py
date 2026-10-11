@@ -2,8 +2,10 @@
 from pathlib import Path
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
-import hashlib, json, shutil, re
+import hashlib, json, shutil, re, os
+from concurrent.futures import ThreadPoolExecutor
 import display_images
+from prepare_display import prepare, material_root, public_metadata
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / 'mobile/build/site'
@@ -12,13 +14,16 @@ def stamp_web_assets():
     page = OUT / 'index.html'
     def stamp(match):
         attribute, name = match.groups()
-        digest = hashlib.sha256((OUT / name).read_bytes()).hexdigest()[:12]
+        digest = json.loads((ROOT/'mobile/version.json').read_text())['name']
         return f'{attribute}="{name}?v={digest}"'
     page.write_text(re.sub(r'(src|href)="([^"?]+\.(?:js|css))(?:\?[^" ]*)?"', stamp, page.read_text(encoding='utf-8')), encoding='utf-8')
 
 def export():
+    personal_research = os.environ.get('WORLD_MEDALS_LOCAL_RESEARCH') == '1'
+    private_release = os.environ.get('WORLD_MEDALS_PRIVATE_RELEASE') == '1'
+    materials = material_root(ROOT)
     OUT.mkdir(parents=True, exist_ok=True)
-    shutil.copytree(ROOT / 'mobile/web', OUT, dirs_exist_ok=True)
+    shutil.copytree(ROOT / 'mobile/web', OUT, dirs_exist_ok=True, ignore=shutil.ignore_patterns('desktop-template.html'))
     introductions = json.loads((ROOT/'mobile/web/award-intros.json').read_text(encoding='utf-8'))
     entries = []
     for item in introductions['items']:
@@ -27,9 +32,10 @@ def export():
             variants=[dict(title=v['period'],text=v['form'],referenceRecord=v.get('reference_record_id')) for v in item.get('variant_guidance',{}).get('period_forms',[])]))
     (OUT/'award-intros.js').write_text('window.AWARD_INTROS='+json.dumps(entries,ensure_ascii=False).replace('</','<\\/')+';',encoding='utf-8')
     (OUT / 'images').mkdir(exist_ok=True)
-    source = (ROOT / 'index.html').read_bytes()
+    from release_input import source as release_source
+    source, portable = release_source(ROOT) if os.environ.get('WORLD_MEDALS_RELEASE_INPUT')=='1' or not (ROOT/'index.html').exists() else ((ROOT/'index.html').read_bytes(), None)
     soup = BeautifulSoup(source.decode('utf-8'), 'html.parser')
-    sources = json.loads((ROOT / 'data/sources.json').read_text(encoding='utf-8'))
+    sources = portable['sources'] if portable else json.loads((ROOT / 'data/sources.json').read_text(encoding='utf-8'))
     image_records = {}
     def collect_images(value, inherited=None):
         if isinstance(value,list):
@@ -45,9 +51,18 @@ def export():
                         image_records[p]=dict(rights,**value)
             for item in value.values():
                 if isinstance(item,(dict,list)): collect_images(item,rights)
-    for manifest in [ROOT/'image_manifest.json', *sorted((ROOT/'data/volumes').glob('*manifest*.json'))]:
+    for manifest in ([] if portable else [ROOT/'image_manifest.json', *sorted((ROOT/'data/volumes').glob('*manifest*.json'))]):
         collect_images(json.loads(manifest.read_text(encoding='utf-8-sig')))
+    if portable: image_records=portable['images']
     overrides=display_images.load(ROOT)
+    candidates = sorted({im['src'] for im in soup.select('section.period-section td img[src]')})
+    def process(relative):
+        path = (materials / relative).resolve()
+        if not path.is_relative_to(materials) or not path.is_file():
+            raise ValueError('Missing or invalid image: '+relative)
+        return relative, prepare(path, OUT, relative, image_records.get(relative,{}).get('image_kind')=='user_restored_reference')
+    with ThreadPoolExecutor(max_workers=int(os.environ.get('WORLD_MEDALS_IMAGE_WORKERS','8'))) as pool:
+        prepared_images = dict(pool.map(process, candidates))
     rows, volumes, images = [], [], {}
     family_titles = {b.get('data-family-toggle'): txt for b in soup.select('button[data-family-toggle]') if (txt := b.select_one('.family-name')) is not None}
     def txt(node, selector):
@@ -58,39 +73,27 @@ def export():
         volume = section.get('id')
         count = 0
         for tr in section.select('tr[id]'):
-            restricted_images = tr.get('data-publication-eligible') == 'false'
+            local_research_images = private_release or (personal_research and tr.get('data-local-research-eligible') == 'true')
+            restricted_images = tr.get('data-publication-eligible') == 'false' and not local_research_images
             cells = tr.find_all('td', recursive=False)
             if len(cells) != 3:
                 continue
             photos = []
             for im in cells[2].select('img[src]'):
-                if restricted_images or im.get('data-publication-eligible') == 'false':
+                if restricted_images or (im.get('data-publication-eligible') == 'false' and not local_research_images):
                     continue
                 rel = im['src']
-                path = (ROOT / rel).resolve()
-                if not path.is_relative_to(ROOT) or not path.is_file():
+                path = (materials / rel).resolve()
+                if not path.is_relative_to(materials) or not path.is_file():
                     raise ValueError(f'Missing or invalid image: {rel}')
                 if rel not in images:
-                    digest = hashlib.sha256(path.read_bytes()).hexdigest()
-                    dest = 'images/' + digest[:24] + '.webp'
-                    with Image.open(path) as original:
-                        original.load()
-                        dimensions = original.size
-                        has_alpha = original.mode in ('RGBA', 'LA') or 'transparency' in original.info
-                        rebuild = not (OUT / dest).exists()
-                        if has_alpha and not rebuild:
-                            with Image.open(OUT / dest) as prior:
-                                rebuild = prior.mode not in ('RGBA', 'LA')
-                        if rebuild:
-                            preview = ImageOps.exif_transpose(original).convert('RGBA' if has_alpha else 'RGB')
-                            preview.thumbnail((1200, 1200), Image.Resampling.LANCZOS)
-                            preview.save(OUT / dest, 'WEBP', quality=84)
-                    images[rel] = dict(src=dest, original=rel, sha256=digest, originalSize=dimensions, provenance=image_records.get(rel,{}))
-                    replacement=display_images.prepare(ROOT,OUT,rel,digest,overrides.get(rel))
-                    if replacement: images[rel]['display']=replacement
+                    record = image_records.get(rel, {})
+                    prepared = prepared_images[rel]
+                    images[rel] = dict(src=prepared['detail'], thumb=prepared['thumb'], original=rel,
+                                       provenance=public_metadata(record), processing=prepared)
                 fig = im.find_parent('figure')
                 record=images[rel]['provenance']
-                photos.append(dict(src=images[rel].get('display',{}).get('src',images[rel]['src']), alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=record.get('source_page',record.get('page_url','')), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
+                photos.append(dict(src=images[rel]['src'], thumb=images[rel]['thumb'], alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=record.get('source_page',record.get('page_url','')), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
                 if record.get('image_kind')=='user_restored_reference':photos[-1]['reference']=True
                 if images[rel].get('display'):
                     photos[-1]['originalSrc']=images[rel]['src']
@@ -109,7 +112,7 @@ def export():
                 family_key, family_name = 'france-legion-of-honour', '荣誉军团勋章'
             rows.append(dict(id=tr['id'], volume=volume, family=family_key, familyName=family_name, name=txt(cells[0], 'strong') or cells[0].get_text(' ',strip=True),
                 original=txt(cells[0], '.original'), date=txt(cells[0], '.date'), variant=cells[1].get_text(' ',strip=True).replace('用户修复参考图','参考'),
-                photos=photos, sources=refs, note=tr.get('title','')))
+                photos=photos, sources=refs, note=tr.get('title',''), researchOnly=local_research_images))
             count += 1
         for i, li in enumerate(section.select('ul.noimage > li')):
             name=li.get('data-name') or li.get_text(' ',strip=True)
@@ -133,15 +136,15 @@ def export():
     (OUT/'reference-policy.js').write_text('window.REFERENCE_ROW_REPLACEMENTS='+json.dumps(replacements)+';',encoding='utf-8')
     app_version=json.loads((ROOT/'mobile/version.json').read_text(encoding='utf-8'))
     (OUT/'version.js').write_text('window.APP_VERSION='+json.dumps(app_version)+';',encoding='utf-8')
-    data = dict(schema=1, version=hashlib.sha256(source).hexdigest()[:12], appVersion=app_version, volumes=volumes, rows=rows,
-                imageCount=len(images), imagePolicy='手机端等比预览，最长边不超过1200像素；来源原图保留在研究库。')
+    data = dict(schema=1, distribution='private-personal-research' if private_release else 'local-personal-research' if personal_research else 'publication-filtered', version=app_version['name'], appVersion=app_version, volumes=volumes, rows=rows,
+                imageCount=len(images), imagePolicy='列表384像素、详情1200像素上限；透明边界修剪及安全边距；原图仅留本地。')
     (OUT / 'catalog.js').write_text('window.CATALOG=' + json.dumps(data, ensure_ascii=False).replace('</','<\\/') + ';', encoding='utf-8')
     (ROOT / 'mobile/build/image-provenance.json').write_text(json.dumps(images, ensure_ascii=False, indent=2), encoding='utf-8')
     shutil.copyfile(ROOT / 'mobile/build/image-provenance.json', OUT/'image-provenance.json')
     # Preserve the existing source and rights records alongside the derived app data.
-    shutil.copyfile(ROOT / 'data/sources.json', OUT / 'sources.json')
+    (OUT/'sources.json').write_text(json.dumps(public_metadata(sources),ensure_ascii=False),encoding='utf-8')
     # Remove obsolete derived previews; source originals remain untouched.
-    allowed_images = {item['src'] for item in images.values()}
+    allowed_images = {item[key] for item in images.values() for key in ('src','thumb')}
     allowed_images.update(item['display']['src'] for item in images.values() if item.get('display'))
     image_root = (OUT / 'images').resolve()
     for preview in image_root.rglob('*'):
@@ -149,8 +152,10 @@ def export():
             if not preview.resolve().is_relative_to(image_root):
                 raise ValueError('Preview outside export directory')
             preview.unlink()
-    report = dict(rows=len(rows), volumes=len(volumes), uniqueImages=len(images), catalogueVersion=data['version'], imageBytes=sum(p.stat().st_size for p in (OUT/'images').glob('*.webp')))
+    report = dict(distribution=data['distribution'], rows=len(rows), volumes=len(volumes), uniqueImages=len(images), catalogueVersion=data['version'], imageBytes=sum(p.stat().st_size for p in (OUT/'images').rglob('*.webp')))
     (ROOT / 'mobile/build/export-report.json').write_text(json.dumps(report, indent=2), encoding='utf-8')
+    from compact_display import compact
+    compact(ROOT,OUT,materials)
     stamp_web_assets()
     print(json.dumps(report))
 

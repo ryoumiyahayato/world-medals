@@ -1,9 +1,0 @@
-{
-  "scope_id":"uk-tna-british-campaign-service-medals-20261005",
-  "updated":"2026-10-05",
-  "status":"source sweep complete for visible guide; candidate merge and image retrieval remain open",
-  "saved_artifacts":["sources/cache/national_archives_british_military_campaign_service_medals_20261005.html","data/raw_candidates/national_archives_british_military_campaign_service_medals_20261005.jsonl","data/normalized_drafts/national_archives_british_military_campaign_service_medals_20261005.json","data/conflicts/uk_edward_vii_coronation_medal_1901_1902_20261005.json","data/source_sweeps/national_archives_british_military_campaign_service_medals_20261005.json","data/source_atlas/national_archives_british_military_campaign_service_medals_20261005_source_matrix.json"],
-  "counts":{"raw_records":18,"new_family_drafts":9,"new_family_variants":12,"existing_family_variant_drafts":2,"body_families":0,"images_saved":0,"decoded_images":0,"open_conflicts":1,"unresolved_leads":1},
-  "remaining":["Verify Edward VII coronation medal date against primary official instrument/Gazette","Resolve Royal Victorian Medal crosswalk against RVO family definition","Confirm exact family id for 1914-15 Star","Revisit TNA Discovery catalogue if public access changes; do not bypass robot gate","Find/download/decode full official public images before body inclusion","Follow individual roll leads only after deciding whether name/type coverage needs expanding"],
-  "resume_from":"data/source_sweeps/national_archives_british_military_campaign_service_medals_20261005.json"
-}

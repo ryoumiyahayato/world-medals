@@ -1,8 +1,0 @@
-{
-  "as_of": "2026-09-26",
-  "input_rows": 2293,
-  "metadata_resolved": 2027,
-  "metadata_unresolved": 266,
-  "batch_failures": [],
-  "output": "data/raw_candidates/commons_core_deep_enriched_2026-09-26.jsonl"
-}

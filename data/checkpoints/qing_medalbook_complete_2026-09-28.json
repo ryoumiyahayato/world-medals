@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Qing Empire (1644–1912) — MedalBook complete Imperial China catalogue",
-  "status": "source_complete_formal_batch_merged",
-  "source_coverage": {"object_pages_planned": 61, "object_pages_completed": 61, "downloaded_images": 178, "unpictured_named_pages": 19},
-  "formal_merge": {"new_rows": 42, "independent_families": 7, "local_complete_views": 60, "duplicate_payloads_promoted": 0, "ribbon_only_views_promoted": 0},
-  "site_after_merge": {"main_rows": 1595, "main_families": 794, "country_or_period_sections": 59, "decoded_local_files": 2362, "unique_gallery_image_paths": 2287, "reused_image_payloads": 0, "ribbon_only_rows": 0, "validation": "site, regression and browser interaction checks passed"},
-  "next_action": "Continue Asia with the Republic of China complete catalogue, then PRC and Vietnam; retain Qing Commons and historical print as a finite differential queue."
-}

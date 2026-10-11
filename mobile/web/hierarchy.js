@@ -24,6 +24,23 @@ routes('欧洲','西欧','英国','uk');routes('欧洲','西欧','荷兰','nethe
 routes('欧洲','南欧','西班牙','spain-republic spain-kingdom');routes('欧洲','南欧','葡萄牙','portugal');routes('欧洲','南欧','意大利','savoy-italy');routes('欧洲','南欧','希腊','greece');
 for(const [name,id] of [['埃及','egypt'],['苏丹','sudan'],['摩洛哥','morocco'],['阿尔及利亚','algeria']])routes('非洲','北非',name,id);
 routes('北美洲','北美地区','美国','united-states');
+routes('欧洲','南欧','阿尔巴尼亚','albania-socialist');
+routes('欧洲','南欧','南斯拉夫·历史授奖体系','yugoslavia-socialist');
+routes('非洲','西非','加纳','ghana');routes('非洲','西非','尼日利亚','nigeria');
+routes('南美洲','南美地区','智利','chile');
+routes('南美洲','南美地区','秘鲁','peru-republic peru-viceroyalty');
+routes('南美洲','南美地区','哥伦比亚','colombia');
+routes('欧洲','中欧','匈牙利','hungary-socialist-v020 hungary-republic-v020');
+routes('欧洲','西欧','法国','france-national-ministerial-v020');
+routes('欧洲','中欧','波兰','poland-third-v021 poland-peoples-v021 poland-second-v021');
+routes('南美洲','南美地区','巴西','v021-brazil-republic v021-brazil-empire');
+routes('北美洲','北美地区','墨西哥','v021-mexico');
+routes('南美洲','南美地区','阿根廷','v021-argentina v021-argentina-official-national v021-argentina-official-navy');
+routes('南美洲','南美地区','玻利维亚','v021-bolivia');
+routes('南美洲','南美地区','厄瓜多尔','v021-ecuador');
+routes('北美洲','北美地区','加拿大','canada commonwealth-v020-8b03bef2 commonwealth-v020-b7fd15f8 commonwealth-v020-6cfa6874 commonwealth-v020-68a8fa84');
+routes('北美洲','北美地区','纽芬兰·历史授奖体系','commonwealth-v020-1b0050f6');
+routes('大洋洲','澳大利亚及周边','澳大利亚','commonwealth-v020-6c07eb01 commonwealth-v020-482b51e7 commonwealth-v020-d3c790f7 commonwealth-v020-ac6a5312');
 window.buildCategoryTree=function(volumes,onChoose){
  const tree=new Map(['亚洲','欧洲','非洲','北美洲','南美洲','大洋洲','国际组织'].map(c=>[c,new Map()])),appendices=[];
  volumes.forEach(v=>{const route=CATEGORY_ROUTES[v.id.replace(/-unpictured$/,'')];if(!route){appendices.push(v);return;}const [continent,region,country]=route;const regions=tree.get(continent);if(!regions.has(region))regions.set(region,new Map());const countries=regions.get(region);if(!countries.has(country))countries.set(country,[]);countries.get(country).push(v);});
@@ -109,3 +126,31 @@ window.CATEGORY_ROUTES["thuringia-free-state"]=["欧洲", "中欧", "德国"];
 window.CATEGORY_ROUTES["germany-related"]=["欧洲", "中欧", "德国"];
 window.CATEGORY_ROUTES["hamburg-state"]=["欧洲", "中欧", "德国"];
 /* GERMAN_COMPLETION_END */
+/* V022_SOUTH_AFRICA_START */
+window.CATEGORY_ROUTES["south-africa-v022-national"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-v022-union-republic"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-v022-apla"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-v022-mk"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-v022-ciskei"]=["非洲", "南部非洲", "西斯凯·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-bophuthatswana"]=["非洲", "南部非洲", "博普塔茨瓦纳·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-venda"]=["非洲", "南部非洲", "文达·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-transkei"]=["非洲", "南部非洲", "特兰斯凯·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-kwazulu"]=["非洲", "南部非洲", "夸祖鲁·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-gazankulu"]=["非洲", "南部非洲", "加赞库卢·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-kwandebele"]=["非洲", "南部非洲", "夸恩德贝勒·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-v022-lebowa"]=["非洲", "南部非洲", "莱博瓦·历史授奖体系"];
+window.CATEGORY_ROUTES["uk-south-africa-coronation-1953"]=["欧洲", "西欧", "英国及英联邦"];
+window.CATEGORY_ROUTES["south-africa-v022-qwaqwa"]=["非洲", "南部非洲", "夸夸·历史授奖体系"];
+/* V022_SOUTH_AFRICA_END */
+
+// Source continuation v0.023; awarding authorities remain historical.
+window.CATEGORY_ROUTES["bulgaria-kingdom-v023"]=["欧洲", "东欧", "保加利亚"];
+window.CATEGORY_ROUTES["bulgaria-peoples-republic-v023"]=["欧洲", "东欧", "保加利亚"];
+window.CATEGORY_ROUTES["bulgaria-republic-v023"]=["欧洲", "东欧", "保加利亚"];
+window.CATEGORY_ROUTES["rhodesia-udi-v023"]=["非洲", "南部非洲", "罗得西亚·历史授奖体系"];
+window.CATEGORY_ROUTES["south-africa-modern-v023"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-supplement-v023-union"]=["非洲", "南部非洲", "南非"];
+window.CATEGORY_ROUTES["south-africa-supplement-v023-natal"]=["非洲", "南部非洲", "纳塔尔殖民地·历史授奖体系"];
+
+// Existing v024-v027 catalogue routes; navigation only.
+Object.assign(window.CATEGORY_ROUTES,{"qatar-v024": ["亚洲", "西亚", "卡塔尔"], "lebanon-v024": ["亚洲", "西亚", "黎巴嫩"], "israel-v024": ["亚洲", "西亚", "以色列"], "kuwait-v024": ["亚洲", "西亚", "科威特"], "bahrain-v024": ["亚洲", "西亚", "巴林"], "germany-ddr-v025": ["欧洲", "中欧", "德国"], "romania-socialist-v025": ["欧洲", "东欧", "罗马尼亚"], "croatia-republic-v025": ["欧洲", "南欧", "克罗地亚"], "serbia-historical-v025": ["欧洲", "南欧", "塞尔维亚"], "ukraine-republic-v025": ["欧洲", "东欧", "乌克兰"], "cuba-v026": ["北美洲", "加勒比地区", "古巴"], "greece-v026": ["欧洲", "南欧", "希腊"], "vietnam-south-v026": ["亚洲", "东南亚", "越南"], "jordan-v026": ["亚洲", "西亚", "约旦"], "estonia-v026": ["欧洲", "北欧", "爱沙尼亚"], "syria-v026": ["亚洲", "西亚", "叙利亚"], "guatemala-v027": ["北美洲", "中美洲", "危地马拉"], "panama-v027": ["北美洲", "中美洲", "巴拿马"], "dominican-republic-v027": ["北美洲", "加勒比地区", "多米尼加"], "venezuela-v027": ["南美洲", "南美洲", "委内瑞拉"], "uruguay-v027": ["南美洲", "南美洲", "乌拉圭"], "tunisia-v027": ["非洲", "北非", "突尼斯"], "vatican-v027": ["欧洲", "南欧", "圣座与梵蒂冈"], "monaco-v027": ["欧洲", "西欧", "摩纳哥"], "san-marino-v027": ["欧洲", "南欧", "圣马力诺"], "liechtenstein-v027": ["欧洲", "中欧", "列支敦士登"], "ivory-coast-v027": ["非洲", "西非", "科特迪瓦"], "senegal-v027": ["非洲", "西非", "塞内加尔"], "uae-v027": ["亚洲", "西亚", "阿联酋"]});

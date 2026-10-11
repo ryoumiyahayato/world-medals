@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Bangladesh — complete MedalBook and ODM batch",
-  "status": "two_sources_complete_formal_batch_merged",
-  "source_coverage": {"planned_sources": 4, "completed_sources": 2, "partial_sources": 0, "not_started_sources": 2, "medalbook_object_pages": 29, "odm_pages": 45, "downloaded_source_files": 145},
-  "formal_merge": {"new_rows": 50, "represented_families": 43, "net_new_families": 43, "local_complete_views": 100, "unpictured_source_candidates": 29, "duplicate_payloads_promoted": 0, "ribbon_only_views_promoted": 0},
-  "site_after_merge": {"main_rows": 1972, "main_families": 1026, "country_or_period_sections": 103, "decoded_local_files": 2997, "unique_gallery_image_paths": 2922, "reused_image_payloads": 0, "ribbon_only_rows": 0, "validation": "site, regression and browser interaction checks passed"},
-  "next_action": "Advance to Sri Lanka/Ceylon; keep two finite Bangladesh differential sources queued."
-}

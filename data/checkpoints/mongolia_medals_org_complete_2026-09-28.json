@@ -1,9 +1,0 @@
-{
-  "as_of": "2026-09-28",
-  "scope": "Mongolian People's Republic and Mongolia — ODM complete directory",
-  "status": "source_complete_formal_batch_merged",
-  "source_coverage": {"award_pages_planned":40,"award_pages_completed":40,"pictured_pages":38,"downloaded_images":99,"unpictured_named_pages":2},
-  "formal_merge": {"new_rows":55,"independent_families":37,"local_complete_views":86,"ribbon_only_views_promoted":0},
-  "site_after_merge": {"main_rows":1467,"main_families":742,"country_or_period_sections":52,"decoded_local_files":2152,"unique_gallery_image_paths":2077,"reused_image_payloads":0,"ribbon_only_rows":0,"validation":"site, regression and browser interaction checks passed"},
-  "next_action": "Start MedalBook Manchukuo as a separate historical polity, then DPRK and Republic of Korea source differentials."
-}

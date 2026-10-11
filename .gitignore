@@ -11,7 +11,7 @@ tmp/
 outputs/
 assets/raw/
 assets/embeds/
-# Only images referenced by the current offline HTML are force-added to Git.
+# Display medal images ship only in private Release artifacts.
 assets/images/**
 data/review/
 data/staging/
@@ -22,3 +22,32 @@ System.Collections.Specialized.OrderedDictionary
 .DS_Store
 Thumbs.db
 *.log
+
+# Private source-only repository; display assets ship in Releases only.
+assets/processed/
+assets/design/
+assets/display/
+我搜索到的东西/
+data/raw_candidates/
+data/checkpoints/
+data/completeness_audit/
+data/image_harvest/
+data/normalized_drafts/
+index.html
+image_manifest.json
+mobile/design/
+
+# Keep research records local; portable release index is the build input.
+/data/**
+!/data/release-input.json
+!/data/display_images/
+/data/display_images/*
+!/data/display_images/row_replacements.json
+/assets/**
+!/assets/site.css
+/scripts/
+/*.py
+/build_excel.mjs
+/validate_interactions.mjs
+
+.venv/
