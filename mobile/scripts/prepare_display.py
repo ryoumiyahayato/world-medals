@@ -44,16 +44,7 @@ def prepare(path, out, relative, reference=False):
         dest = Path('images') / label / (relative + '.webp')
         target = out / dest
         target.parent.mkdir(parents=True, exist_ok=True)
-        rebuild = not target.exists() or target.stat().st_mtime < path.stat().st_mtime
-        if not rebuild:
-            try:
-                with Image.open(target) as previous:
-                    previous.load()
-                    rebuild = previous.size != image.size
-            except (OSError, ValueError):
-                rebuild = True
-        if rebuild:
-            image.save(target, 'WEBP', quality=quality, method=4, exact=True)
+        image.save(target, 'WEBP', quality=quality, method=4, exact=True)
         with Image.open(target) as check:
             check.load()
             if check.size != image.size:
