@@ -39,6 +39,8 @@ $env:SKIP_EXPORT = '1'
 
 `data/release-input.json` 保存既有行、ID、版型及来源映射；`mobile/web/desktop-template.html` 保存原桌面布局模板。手机和桌面由同一索引导出，使用同一套展示图片。`index.html` 是本地生成的桌面成品，不进 Git。`mobile/build/site/index.html` 是手机界面；`desktop.html` 是桌面三列表格。
 
+APK脚本在打包前从当前索引刷新桌面HTML，包含使用 `SKIP_EXPORT=1` 的构建，避免携带旧版桌面文件。桌面HTML可以直接以文件打开；手机页的笔顺和3D纸纹使用本地fetch，完整行为需要本地HTTP服务或APK的appassets协议。用 `py -m http.server 8000 --directory mobile/build/site --bind 127.0.0.1` 可在本机浏览器检查手机页；运行图片不依赖互联网。
+
 既有目录内容完成审核并更新时，在优化前运行 `release_input.py` 更新可移植索引。本批索引已生成，不应在根目录轻量化后再次直接拍快照。内容录入、身份鉴定不是图片处理算法的能力。
 
 无素材的源码检出只能验证依赖安装、脚本语法、索引结构和构建逻辑。导出遇到缺失素材会报错，不能声称完整重建成功。完整重建必须提供外部素材和签名。

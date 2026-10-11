@@ -44,6 +44,10 @@ def build():
     # SKIP_EXPORT must still refresh the UI edition from the canonical version.
     (OUT/'version.js').write_text('window.APP_VERSION='+json.dumps(ver)+';',encoding='utf-8')
     stamp_web_assets()
+    # Refresh the shared desktop artifact before bundling, including SKIP_EXPORT.
+    # Otherwise a prior edition's desktop.html can survive beside a new catalogue.
+    from package_release import desktop
+    desktop()
     tool=lambda name:bt/(name+('.exe' if WIN else ''))
     jtool=lambda name:java/(name+('.exe' if WIN else ''))
     run([tool('aapt2'),'compile','--dir',res,'-o',BUILD/'resources.zip'])
