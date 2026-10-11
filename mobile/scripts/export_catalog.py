@@ -33,7 +33,7 @@ def export():
     (OUT/'award-intros.js').write_text('window.AWARD_INTROS='+json.dumps(entries,ensure_ascii=False).replace('</','<\\/')+';',encoding='utf-8')
     (OUT / 'images').mkdir(exist_ok=True)
     from release_input import source as release_source
-    source, portable = release_source(ROOT) if os.environ.get('WORLD_MEDALS_RELEASE_INPUT')=='1' or not (ROOT/'index.html').exists() else ((ROOT/'index.html').read_bytes(), None)
+    source, portable = release_source(ROOT) if (ROOT/'data/release-input.json').exists() else ((ROOT/'index.html').read_bytes(), None)
     soup = BeautifulSoup(source.decode('utf-8'), 'html.parser')
     sources = portable['sources'] if portable else json.loads((ROOT / 'data/sources.json').read_text(encoding='utf-8'))
     image_records = {}
@@ -55,12 +55,14 @@ def export():
         collect_images(json.loads(manifest.read_text(encoding='utf-8-sig')))
     if portable: image_records=portable['images']
     overrides=display_images.load(ROOT)
+    from background_trim import load_rules
+    background_rules=load_rules(ROOT)
     candidates = sorted({im['src'] for im in soup.select('section.period-section td img[src]')})
     def process(relative):
         path = (materials / relative).resolve()
         if not path.is_relative_to(materials) or not path.is_file():
             raise ValueError('Missing or invalid image: '+relative)
-        return relative, prepare(path, OUT, relative, image_records.get(relative,{}).get('image_kind')=='user_restored_reference')
+        return relative, prepare(path, OUT, relative, image_records.get(relative,{}).get('image_kind')=='user_restored_reference',background_rules.get(relative))
     with ThreadPoolExecutor(max_workers=int(os.environ.get('WORLD_MEDALS_IMAGE_WORKERS','8'))) as pool:
         prepared_images = dict(pool.map(process, candidates))
     rows, volumes, images = [], [], {}
@@ -94,6 +96,10 @@ def export():
                 fig = im.find_parent('figure')
                 record=images[rel]['provenance']
                 photos.append(dict(src=images[rel]['src'], thumb=images[rel]['thumb'], alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=record.get('source_page',record.get('page_url','')), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
+                if images[rel]['processing']['status']=='background-removed-reviewed':
+                    photos[-1]['caption'] += ' · 背景已处理'
+                    if max(images[rel]['processing']['sourceSize']) < 768:
+                        photos[-1]['caption'] += ' · 低清参考'
                 if record.get('image_kind')=='user_restored_reference':photos[-1]['reference']=True
                 if images[rel].get('display'):
                     photos[-1]['originalSrc']=images[rel]['src']

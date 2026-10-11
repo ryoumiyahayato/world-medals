@@ -22,6 +22,7 @@ $env:WORLD_MEDALS_IMAGE_WORKERS = '8'
 $env:WORLD_MEDALS_DEFER_APK_CLEANUP = '1'
 .venv/Scripts/python.exe mobile/scripts/inventory_materials.py
 .venv/Scripts/python.exe mobile/scripts/export_catalog.py
+.venv/Scripts/python.exe mobile/scripts/verify_background_batch.py
 node mobile/scripts/validate_mobile.cjs
 $env:SKIP_EXPORT = '1'
 .venv/Scripts/python.exe mobile/scripts/build_apk.py
@@ -41,3 +42,11 @@ $env:SKIP_EXPORT = '1'
 无素材的源码检出只能验证依赖安装、脚本语法、索引结构和构建逻辑。导出遇到缺失素材会报错，不能声称完整重建成功。完整重建必须提供外部素材和签名。
 
 输出位于 `mobile/build/`。原始图片和研究记录保留原地。发布前实际打开 HTML、检查详情图，并在可用设备上检查 APK 离线行为。没有设备时只报告签名、包内资源和浏览器断网验证，不能称实机安装通过。
+
+## 已核验浅色背景规则
+
+`data/display_images/background_rules.json` 仅保存逐件对照批准的规则，不保存原图。处理器只移除与画布外沿连通、RGB最小通道≥242且通道差≤12的浅色区域。孤立的内部浅色区域保留；不重建纹理或铭文，不旋转、改色或消除来源水印。源尺寸或文件字节数变化时停止该项，重新核验。苏联修复参考不使用此规则。输出仍是有损展示衍生物。
+
+导出优先使用仓库中的可移植索引，避免把上一次生成的展示图再次当作原图输入。
+
+已完成完整导出后，只更新已批准背景规则时，可运行 `.venv/Scripts/python.exe mobile/scripts/refresh_reviewed_backgrounds.py`，然后重建 APK 和 Release。该命令不改变章种、等级或历史版型 ID；正式全量重建仍使用上面的完整顺序。

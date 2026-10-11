@@ -20,6 +20,15 @@ def desktop():
         im['src']=entry['thumb']
         im['data-detail']=entry['src']
         im['loading']='lazy'
+        if entry['processing']['status']=='background-removed-reviewed':
+            figure=im.find_parent('figure')
+            if figure:
+                caption=figure.find('figcaption')
+                if caption is None:
+                    caption=soup.new_tag('figcaption');figure.append(caption)
+                caption.append(' · 背景已处理')
+                if max(entry['processing']['sourceSize']) < 768:
+                    caption.append(' · 低清参考')
     for script in soup.find_all('script'):
         if script.string:
             script.string=script.string.replace('viewerImage\').src=im.src','viewerImage\').src=im.dataset.detail||im.src')
@@ -46,7 +55,7 @@ def package():
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     metadata={'version':version,'commit':commit,'python':platform.python_version(),
               'platform':platform.platform(),'Pillow':package_version('Pillow'),'beautifulsoup4':package_version('beautifulsoup4'),
-              'androidPlatform':36,'androidBuildTools':'36.1.0 or 36.0.0 selected by build_apk.py','imageAlgorithm':'alpha-nonzero-bounds / exact-white rectangular margins, margin 3.5%, WebP 384/1200 q86/q90 method4',
+              'androidPlatform':36,'androidBuildTools':'36.1.0 or 36.0.0 selected by build_apk.py','imageAlgorithm':'reviewed edge-connected neutral-light backgrounds 242/12; alpha/white margins; margin 3.5%; WebP 384/1200 q86/q90 method4',
               'limitations':['Opaque backgrounds and uncertain identities require manual review.',
                               'Device installation is not verified unless separately reported.']}
     (ROOT/'mobile/build/release-info.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2),encoding='utf-8')

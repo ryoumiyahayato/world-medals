@@ -51,3 +51,5 @@ mobile/design/
 /validate_interactions.mjs
 
 .venv/
+
+!/data/display_images/background_rules.json

@@ -1,0 +1,460 @@
+{
+  "schema": 1,
+  "images": {
+    "assets/images/ottoman_kuenker299_batch5/lot_7359_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        228
+      ],
+      "sourceBytes": 16449,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7359_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        225,
+        225
+      ],
+      "sourceBytes": 16834,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7360_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        107,
+        107
+      ],
+      "sourceBytes": 4426,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7360_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        106,
+        106
+      ],
+      "sourceBytes": 4324,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7183_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        324,
+        474
+      ],
+      "sourceBytes": 20711,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7183_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        323,
+        464
+      ],
+      "sourceBytes": 21779,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7185_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        289,
+        476
+      ],
+      "sourceBytes": 19772,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7185_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        291,
+        490
+      ],
+      "sourceBytes": 17777,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7186_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        223,
+        366
+      ],
+      "sourceBytes": 14223,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7186_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        223,
+        353
+      ],
+      "sourceBytes": 14273,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7190_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        200,
+        567
+      ],
+      "sourceBytes": 23130,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7190_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        200,
+        568
+      ],
+      "sourceBytes": 24293,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7238_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        234
+      ],
+      "sourceBytes": 14670,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7238_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        234
+      ],
+      "sourceBytes": 15261,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7194_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        271,
+        273
+      ],
+      "sourceBytes": 18968,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7194_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        180,
+        183
+      ],
+      "sourceBytes": 8953,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7195_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        186,
+        189
+      ],
+      "sourceBytes": 10262,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7195_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        186,
+        189
+      ],
+      "sourceBytes": 11012,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7198_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        185,
+        317
+      ],
+      "sourceBytes": 13458,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7198_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        187,
+        317
+      ],
+      "sourceBytes": 13723,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7200_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        217,
+        573
+      ],
+      "sourceBytes": 28172,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7200_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        216,
+        529
+      ],
+      "sourceBytes": 25225,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7201_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        188,
+        190
+      ],
+      "sourceBytes": 8852,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7201_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        187,
+        188
+      ],
+      "sourceBytes": 9142,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7202_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        189,
+        190
+      ],
+      "sourceBytes": 8529,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7202_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        188,
+        189
+      ],
+      "sourceBytes": 9613,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图逐件并排检查；章体、链条、钩、悬挂结构、绶带和铭文保留；未改色或补画。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7203_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        318,
+        318
+      ],
+      "sourceBytes": 25321,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7204_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        320,
+        320
+      ],
+      "sourceBytes": 21451,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_sinop_mdc/sinop_lot1439_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        750,
+        748
+      ],
+      "sourceBytes": 95068,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_batch6/lot_7406_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        303,
+        299
+      ],
+      "sourceBytes": 21431,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/egypt_commons_batch1/EGY-COMMONS-005.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        568,
+        566
+      ],
+      "sourceBytes": 88627,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_cambodia/022_royal-order-of-moniseraphon-knight-7_02.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        348,
+        348
+      ],
+      "sourceBytes": 11387,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/italy_medalbook_pack5_2026-09-26/it-koi-049-v38-view-1-2d4c1e0c0e9b.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        735,
+        750
+      ],
+      "sourceBytes": 88886,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_kuenker299_related/lot_7399_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        180,
+        179
+      ],
+      "sourceBytes": 8967,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_cng_triple_alliance/hart_triple_alliance_1854_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        400,
+        399
+      ],
+      "sourceBytes": 94910,
+      "reviewedAt": "2026-10-11",
+      "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
+      "kind": "edge-connected-light"
+    }
+  }
+}

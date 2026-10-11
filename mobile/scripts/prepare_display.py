@@ -6,11 +6,18 @@ from PIL import Image, ImageOps, ImageChops
 def material_root(default):
     return Path(os.environ.get('WORLD_MEDALS_MATERIAL_ROOT', default)).resolve()
 
-def prepare(path, out, relative, reference=False):
+def prepare(path, out, relative, reference=False, background=None):
     with Image.open(path) as source:
         source.load()
         frame = ImageOps.exif_transpose(source).convert('RGBA')
     size = frame.size
+    applied_background = False
+    if background and background.get('approved') is True and not reference:
+        if list(size) != background['sourceSize'] or path.stat().st_size != background['sourceBytes']:
+            raise ValueError('Reviewed source changed: '+relative)
+        from background_trim import remove_edge_light
+        frame = remove_edge_light(frame, background['minimum'], background['chroma'])
+        applied_background = True
     alpha = frame.getchannel('A')
     transparent = alpha.getextrema()[0] < 255
     bounds = alpha.getbbox() if transparent else (0, 0, *size)
@@ -35,7 +42,7 @@ def prepare(path, out, relative, reference=False):
         frame = canvas
     result = {'sourceSize': size, 'crop': crop, 'margin': margin,
               'referenceReused': reference,
-              'status': 'reference-reused' if reference else 'alpha-trimmed' if transparent else 'opaque-margin-trimmed' if white_margin else 'opaque-background-review'}
+              'status': 'reference-reused' if reference else 'background-removed-reviewed' if applied_background else 'alpha-trimmed' if transparent else 'opaque-margin-trimmed' if white_margin else 'opaque-background-review'}
     for label, limit, quality in [('thumb', 384, 86), ('detail', 1200, 90)]:
         image = frame.copy()
         image.thumbnail((limit, limit), Image.Resampling.LANCZOS)
