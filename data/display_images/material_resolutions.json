@@ -1,0 +1,409 @@
+{
+  "schema": 1,
+  "candidates": {
+    "中国_八一勋章_一级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Bayi_1st_Class.svg",
+      "sourceFile": "File:Order of Bayi 1st Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Bayi 1st Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_八一勋章_二级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Bayi_2nd_Class.svg",
+      "sourceFile": "File:Order of Bayi 2nd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Bayi 2nd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_八一勋章_三级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Bayi_3rd_Class.svg",
+      "sourceFile": "File:Order of Bayi 3rd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Bayi 3rd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_独立自由勋章_一级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Independence_and_Freedom_1st_Class.svg",
+      "sourceFile": "File:Order of Independence and Freedom 1st Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Independence and Freedom 1st Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_独立自由勋章_二级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Independence_and_Freedom_2nd_Class.svg",
+      "sourceFile": "File:Order of Independence and Freedom 2nd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Independence and Freedom 2nd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_独立自由勋章_三级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Independence_and_Freedom_3rd_Class.svg",
+      "sourceFile": "File:Order of Independence and Freedom 3rd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Independence and Freedom 3rd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_解放勋章_一级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Liberation_1st_Class.svg",
+      "sourceFile": "File:Order of Liberation 1st Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Liberation 1st Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_解放勋章_二级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Liberation_2nd_Class.svg",
+      "sourceFile": "File:Order of Liberation 2nd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Liberation 2nd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_解放勋章_三级": {
+      "status": "excluded-ribbon-only",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Liberation_3rd_Class.svg",
+      "sourceFile": "File:Order of Liberation 3rd Class.svg",
+      "sourceDescription": "Chinese military medal: Order of Liberation 3rd Class",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source and local view are a ribbon bar, not a complete medal."
+    },
+    "中国_共和国勋章": {
+      "status": "blocked-unofficial-drawing",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Republic_Medal_of_China_badge.svg",
+      "sourceFile": "File:Republic Medal of China badge.svg",
+      "sourceDescription": "中華人民共和國「共和國勳章」，由中華人民共和國主席根據中華人民共和國全國人民代表大會常務委員會決定，向在中國特色社會主義建設和保衛國家中作出巨大貢獻、建立卓越功勳的傑出人士授予勳章，簽發證書。",
+      "license": "CC BY 4.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Self-published SVG badge drawing; no evidence that it is an official awarded-object photograph."
+    },
+    "中国_七一勋章": {
+      "status": "blocked-source-ribbon-cut",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Orden_des_1._Juli_VR_China.png",
+      "sourceFile": "File:Orden des 1. Juli VR China.png",
+      "sourceDescription": "Der Orden des 1. Juli von der VR China. \"Mit dem Orden sollen Mitglieder der KP Chinas feierlich geehrt werden, die herausragende Leistungen für die Partei und das Volk erbracht und wertvolle geistige Werte geschaffen haben. Die ersten 29 Orden-Empfänger kommen aus allen Gesellschaftsschichten Chinas.\n\nXi Jinping hat während der Zeremonie eine wichtige Rede gehalten. Er wies darauf hin, dass in den vergangenen 100 Jahren Generationen von chinesischen Kommunisten hart für die nationale Unabhängigkeit und die Befreiung des Volkes sowie für den nationalen Wohlstand und das Glück des Volkes gearbeitet und heroische Lieder geschrieben haben. Alle Parteimitglieder sollten darauf bestehen, den ursprünglichen Zielen treuzubleiben.\n\nEr betonte, die chinesischen Kommunisten müssten immer das Volk im Herzen haben, beharrlich praktische und gute Arbeit für die Massen leisten und immer die engste Verbindung mit dem Volk aufrechterhalten. Nur mit Charakterstärke könnten die Kommunisten die Herzen des Volkes gewinnen. Alle Parteigenossen müssten sauber und ehrlich bleiben, unbestechlich arbeiten, um ihre politische Integrität zu wahren. Er sagte, dass die neue Ära eine Phase sei, die Helden brauche und diese sicherlich hervorbringen könne. Die Kommunistische Partei Chinas müsse immer der Wegbereiter der Zeit und das Rückgrat der Nation bleiben, um das Ziel „Zweimal hundert Jahre“ zu verwirklichen. Demzufolge soll der Aufbau einer Gesellschaft mit bescheidenem Wohlstand zum hundertjährigen Bestehen der Partei umfassend vollendet und der Aufbau eines wohlhabenden, mächtigen, demokratischen, zivilisierten und harmonischen modernen sozialistischen Landes zum hundertjährigen Bestehen der Volksrepublik China, also im Jahr 2049, realisiert werden.\" (China Radio International)",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Neck ribbon extends beyond the top edge of the source image; cannot certify a complete image."
+    },
+    "中国_八一勋章_军委2017版": {
+      "status": "blocked-new-family-record",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_August_the_First_at_PRC70_Exhibition_(20191203164657).jpg",
+      "sourceFile": "File:Order of August the First at PRC70 Exhibition (20191203164657).jpg",
+      "sourceDescription": "Military order.",
+      "license": "CC BY-SA 4.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Exhibition photograph supports the object view; establishment and version facts require an institutional record before a new family is inserted."
+    },
+    "德意志民主共和国_德意志民主共和国英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Held_der_DDR.png",
+      "sourceFile": "File:Held der DDR.png",
+      "sourceDescription": "Gold star to a rank of the Hero of the German Democratic Republic.",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-HERO_OF_THE_GERMAN_DEMOCRATIC_REPUBLIC"
+    },
+    "德意志民主共和国_劳动英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Held_der_Arbeit.jpg",
+      "sourceFile": "File:Held der Arbeit.jpg",
+      "sourceDescription": "Honorary title \"Hero of the Lebour\" of the German Democratic Republic.",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-HERO_OF_LABOUR"
+    },
+    "德意志民主共和国_祖国功勋勋章_全套三级": {
+      "status": "confirmed-multiple-object-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GDR_Patriotic_Order_of_Merit_all_3_classes.jpg",
+      "sourceFile": "File:GDR Patriotic Order of Merit all 3 classes.jpg",
+      "sourceDescription": "GDR Patriotic Order of Merit all 3 classes, form as awarded from 1972",
+      "license": "CC BY-SA 4.0",
+      "scope": "Comparative source contains multiple grades/objects; not one grade and not new families.",
+      "family": "V025-DDR-FATHERLAND_S_ORDER_OF_MERIT"
+    },
+    "德意志民主共和国_祖国功勋勋章荣誉金扣": {
+      "status": "confirmed-illustrated-clasp-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ehrenspange.png",
+      "sourceFile": "File:Ehrenspange.png",
+      "sourceDescription": "Honor clasp of the \"Vaterländischen Verdienstorden\" der DDR - in Gold.",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-FATHERLAND_S_ORDER_OF_MERIT",
+      "reason": "Gold honour clasp drawing; retained as illustration, not as a photograph."
+    },
+    "德意志民主共和国_沙恩霍斯特勋章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bartel0012c2.jpg",
+      "sourceFile": "File:Bartel0012c2.jpg",
+      "sourceDescription": "シャルンホルスト勲章",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-ORDER_OF_SCHARNHORST"
+    },
+    "德意志民主共和国_布鲁歇尔英勇勋章_三级实物": {
+      "status": "confirmed-multiple-object-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bartel0016gsb.jpg",
+      "sourceFile": "File:Bartel0016gsb.jpg",
+      "sourceDescription": "Blücher Order of the German Democratic Republic (GDR)",
+      "license": "CC BY 3.0",
+      "scope": "Comparative source contains multiple grades/objects; not one grade and not new families.",
+      "family": "V025-DDR-BLU_CHER_ORDER"
+    },
+    "德意志民主共和国_劳动旗帜勋章_三等级": {
+      "status": "confirmed-multiple-object-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GDR_Banner_of_Labour_3_classes.jpg",
+      "sourceFile": "File:GDR Banner of Labour 3 classes.jpg",
+      "sourceDescription": "GDR Banner of Labour 3 classes",
+      "license": "CC BY-SA 4.0",
+      "scope": "Comparative source contains multiple grades/objects; not one grade and not new families.",
+      "family": "V025-DDR-ORDER_OF_THE_BANNER_OF_LABOUR"
+    },
+    "德意志民主共和国_星空人民友谊勋章_全套": {
+      "status": "confirmed-multiple-object-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sterne_der_V%C3%B6lkerfreundschaft_Gro%C3%9F_Gold_Silber.png",
+      "sourceFile": "File:Sterne der Völkerfreundschaft Groß Gold Silber.png",
+      "sourceDescription": "Stern der Völkerfreundschaft: Großer Stern, Stern in Gold, Stern in Silber",
+      "license": "Public domain",
+      "scope": "Comparative source contains multiple grades/objects; not one grade and not new families.",
+      "family": "V025-DDR-ORDER_OF_THE_STAR_OF_FRIENDSHIP_OF_NATIONS"
+    },
+    "德意志民主共和国_国家人民军功绩奖章": {
+      "status": "confirmed-multiple-object-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GDR_Medal_of_Merit_of_the_National_People%27s_Army.jpg",
+      "sourceFile": "File:GDR Medal of Merit of the National People's Army.jpg",
+      "sourceDescription": "GDR Medal of Merit of the National People's Army",
+      "license": "CC BY-SA 4.0",
+      "scope": "Comparative source contains multiple grades/objects; not one grade and not new families.",
+      "family": "V025-DDR-NATIONAL_PEOPLE_S_ARMY_MEDAL_OF_MERIT"
+    },
+    "德意志民主共和国_人民功勋医师佩章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Verdienter_Arzt_des_Volkes.jpg",
+      "sourceFile": "File:Verdienter Arzt des Volkes.jpg",
+      "sourceDescription": "Medaille des Ehrentitels Verdienter Arzt des Volkes in der Variante nach 1978",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-HONOUR_TITLE_OF_MERITORIOUS_MEDICAL_DOCTOR"
+    },
+    "德意志民主共和国_功勋军事飞行员佩章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Medaille_zum_Ehrentitel_Verdienter_Militaerflieger_der_DDR.jpg",
+      "sourceFile": "File:Medaille zum Ehrentitel Verdienter Militaerflieger der DDR.jpg",
+      "sourceDescription": "Medal Meritorious Military Pilot of the GDR given to LtCol Gustav Beutel (commander: Fighter squadron / Fighter Wing 7) in 1982.",
+      "license": "CC BY-SA 4.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-MERITORIOUS_MILITARY_PILOT"
+    },
+    "德意志民主共和国_功勋人民警察佩章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GDR_Meritorious_Policeman.jpg",
+      "sourceFile": "File:GDR Meritorious Policeman.jpg",
+      "sourceDescription": "Médaille Verdienter Volkspolizist der Deutschen Demokratischen Republik",
+      "license": "CC BY-SA 4.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-HONOUR_TITLE_OF_MERITORIOUS_PEOPLE_S_POLICEMAN_OF_THE_GDR"
+    },
+    "古巴_古巴共和国英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Held_van_de_Republiek_Cuba.gif",
+      "sourceFile": "File:Held van de Republiek Cuba.gif",
+      "sourceDescription": "Hero of the Republic of Cuba",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "CUB-HERO_OF_THE_REPUBLIC_OF_CUBA"
+    },
+    "古巴_劳动英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hero_of_Labour_of_the_Republic_of_Cuba.jpg",
+      "sourceFile": "File:Hero of Labour of the Republic of Cuba.jpg",
+      "sourceDescription": "Hero of Labour of the Republic of Cuba",
+      "license": "CC BY-SA 4.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "CUB-HERO_OF_LABOUR_OF_THE_REPUBLIC_OF_CUBA"
+    },
+    "古巴_何塞·马蒂勋章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Jose_Marti.png",
+      "sourceFile": "File:Order of Jose Marti.png",
+      "sourceDescription": "Один из высших орденов республики Куба - орден Хосе Марти",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "CUB-ORDER_OF_JOS_MARTI"
+    },
+    "古巴_普拉亚吉隆勋章": {
+      "status": "blocked-distinct-order-record",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Orden_Playa_Gir%C3%B3n.jpg",
+      "sourceFile": "File:Orden Playa Girón.jpg",
+      "sourceDescription": "Национальный орден Плайя-Хирон 1971г.",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Order of Playa Giron is not the 1961 battle commemorative medal; do not merge. Institutional record and family registration remain required."
+    },
+    "古巴_卡米洛·西恩富戈斯勋章": {
+      "status": "blocked-source-crop",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Orden_cubana_de_Cienfuegos.jpg",
+      "sourceFile": "File:Orden cubana de Cienfuegos.jpg",
+      "sourceDescription": "Order of Cienfuegos, Cuba",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "CUB-ORDER_OF_CAMILO_CIENFUEGOS",
+      "reason": "Source shows a cropped badge with a separate ribbon-bar graphic; complete badge outline is unavailable."
+    },
+    "古巴_军事功绩勋章": {
+      "status": "blocked-historical-system",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cuban_Order_of_Military_Merit_4th_class_cross_for_good_conduct.jpg",
+      "sourceFile": "File:Cuban Order of Military Merit 4th class cross for good conduct.jpg",
+      "sourceDescription": "The 4th class cross of the Cuban order of military merit",
+      "license": "CC0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "reason": "Source identifies a fourth-class Cuban military-merit cross for good conduct. Do not merge into socialist-era awards without regime/date evidence."
+    },
+    "罗马尼亚_罗马尼亚社会主义共和国英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hero_Romania.png",
+      "sourceFile": "File:Hero Romania.png",
+      "sourceDescription": "The badge of the \"Hero of the Socialist Republic of Romania\" honorary title, gold version with ruby",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-ROU-GOLD_STAR_MEDAL_OF_HERO_OF_THE_SOCIALIST_REPUBLIC_OF_ROMANIA"
+    },
+    "罗马尼亚_社会主义劳动英雄金星奖章": {
+      "status": "confirmed-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hero_soc_work_Romania.png",
+      "sourceFile": "File:Hero soc work Romania.png",
+      "sourceDescription": "The \"Hammer and sickle\" Medal, badge of the \"Hero of Socialist Labour\" honorary title, gold version",
+      "license": "Public domain",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-ROU-ORDER_OF_THE_HERO_OF_SOCIALIST_LABOUR"
+    },
+    "罗马尼亚_罗马尼亚之星勋章_一级": {
+      "status": "confirmed-grade-view",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RO_Ordinul_Steaua_Republicii_Socialiste_Romania_Cl.1.jpg",
+      "sourceFile": "File:RO Ordinul Steaua Republicii Socialiste Romania Cl.1.jpg",
+      "sourceDescription": "Order of the Star of Socialist Republic of Romania 1st class",
+      "license": "CC BY-SA 4.0",
+      "scope": "Class and historical inscription are supported by the cited source description. Actual metal is not inferred from colour.",
+      "family": "V025-ROU-ORDER_OF_THE_STAR_OF_THE_SOCIALIST_REPUBLIC_OF_ROMANIA",
+      "rejectedFamily": "ROM-FAM-STAR-ROMANIA",
+      "catalogueRows": [
+        "V025-ROU-ORDER_OF_THE_STAR_OF_THE_SOCIALIST_REPUBLIC_OF_ROMANIA-COMMONS-CLASS-I"
+      ],
+      "integrated": true
+    },
+    "罗马尼亚_罗马尼亚之星勋章_四级": {
+      "status": "confirmed-grade-view",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RO_Ordinul_Steaua_Republicii_Socialiste_Romania_Cl.4.jpg",
+      "sourceFile": "File:RO Ordinul Steaua Republicii Socialiste Romania Cl.4.jpg",
+      "sourceDescription": "Order of the Star of Socialist Republic of Romania 4th class",
+      "license": "CC BY-SA 4.0",
+      "scope": "Class and historical inscription are supported by the cited source description. Actual metal is not inferred from colour.",
+      "family": "V025-ROU-ORDER_OF_THE_STAR_OF_THE_SOCIALIST_REPUBLIC_OF_ROMANIA",
+      "rejectedFamily": "ROM-FAM-STAR-ROMANIA",
+      "catalogueRows": [
+        "V025-ROU-ORDER_OF_THE_STAR_OF_THE_SOCIALIST_REPUBLIC_OF_ROMANIA-COMMONS-CLASS-IV"
+      ],
+      "integrated": true
+    },
+    "罗马尼亚_八月二十三日勋章_一级": {
+      "status": "confirmed-grade-view",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_the_23_August_1st_class_(Romania)_-_Tallinn_Museum_of_Orders.jpg",
+      "sourceFile": "File:Order of the 23 August 1st class (Romania) - Tallinn Museum of Orders.jpg",
+      "sourceDescription": "Order of the 23 August 1st class. Socialist Republic of Romania.\nThe exhibition of the Tallinn Museum of Orders of Knighthood, Estonia.",
+      "license": "CC BY-SA 4.0",
+      "scope": "Class and historical inscription are supported by the cited source description. Actual metal is not inferred from colour.",
+      "family": "V025-ROU-ORDER_OF_23_AUGUST",
+      "catalogueRows": [
+        "V025-ROU-ORDER_OF_23_AUGUST-COMMONS-CLASS-I"
+      ],
+      "integrated": true
+    },
+    "罗马尼亚_图多尔·弗拉基米列斯库勋章_一级": {
+      "status": "blocked-grade-evidence",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_Tudor_Vladimirescu_1.jpg",
+      "sourceFile": "File:Order Tudor Vladimirescu 1.jpg",
+      "sourceDescription": "Order Tudor Vladimirescu",
+      "license": "CC BY-SA 3.0",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-ROU-ORDER_OF_TUDOR_VLADIMIRESKU",
+      "reason": "Source description says Order Tudor Vladimirescu but does not state class; filename numeral alone does not establish first class."
+    },
+    "罗马尼亚_劳动勋章_一级实物": {
+      "status": "confirmed-grade-view",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ordinul_Muncii_I-1.jpg",
+      "sourceFile": "File:Ordinul Muncii I-1.jpg",
+      "sourceDescription": "Order of Labor, 1st class, Romanian People's Republic (till 1965)",
+      "license": "Public domain",
+      "scope": "Class and historical inscription are supported by the cited source description. Actual metal is not inferred from colour.",
+      "family": "V025-ROU-ORDER_OF_LABOUR",
+      "catalogueRows": [
+        "V025-ROU-ORDER_OF_LABOUR-COMMONS-RPR-CLASS-I"
+      ],
+      "integrated": true
+    },
+    "德意志民主共和国_卡尔_马克思勋章": {
+      "status": "confirmed-illustrated-family-reference",
+      "reviewedAt": "2026-10-11",
+      "sourcePage": "https://de.wikipedia.org/wiki/Datei:Karl-Marx-Orden_W2.png",
+      "sourceFile": "Datei:Karl-Marx-Orden W2.png",
+      "sourceDescription": "Karl-Marx-Orden. Credit: Eigene Konstruktion gemaess Kuenker archive object 137167. Author Rudolf Oelzner; image reconstruction, not an object photograph.",
+      "license": "PD-Schoepfungshoehe (German file page)",
+      "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
+      "family": "V025-DDR-ORDER_OF_KARL_MARX",
+      "reason": "Local image visually matches the verified source. Source describes own construction; supplied claim of object photograph is rejected. No metal purity or subtype inferred.",
+      "imageKind": "illustration",
+      "integrated": false
+    }
+  }
+}

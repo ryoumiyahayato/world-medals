@@ -53,3 +53,8 @@ mobile/design/
 .venv/
 
 !/data/display_images/background_rules.json
+
+# User-supplied originals stay local.
+/我搜索到的东西/
+
+!data/display_images/material_resolutions.json

@@ -455,6 +455,440 @@
       "reviewedAt": "2026-10-11",
       "review": "原图与处理图并排检查；未改色、补画或裁掉主体结构。",
       "kind": "edge-connected-light"
+    },
+    "assets/images/egypt_khedive_star/khedive_star_1884_86_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        395,
+        654
+      ],
+      "sourceBytes": 125276,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/egypt_khedive_star/khedive_star_1884_86_reverse.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        281,
+        450
+      ],
+      "sourceBytes": 13578,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/mena7-0ceef923107e.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        960,
+        478
+      ],
+      "sourceBytes": 777637,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/mena7-1baca74ccc46.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        960,
+        495
+      ],
+      "sourceBytes": 952512,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/mena7-954616c90918.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        960,
+        478
+      ],
+      "sourceBytes": 969377,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/core7-9843fdbc081a.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        330,
+        394
+      ],
+      "sourceBytes": 268009,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/mena7-67d292bacb08.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        960,
+        472
+      ],
+      "sourceBytes": 823502,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/mena_round7/mena7-b59f4c3e3ed9.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        960,
+        1551
+      ],
+      "sourceBytes": 965978,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_british_india_core/006_04.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        464,
+        348
+      ],
+      "sourceBytes": 22225,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_india/058_01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        1000,
+        750
+      ],
+      "sourceBytes": 177104,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_india/063_02.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        398,
+        750
+      ],
+      "sourceBytes": 24034,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_india/042_01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        1000,
+        750
+      ],
+      "sourceBytes": 123896,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/medalbook_india/129_01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        348,
+        348
+      ],
+      "sourceBytes": 11564,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-030-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        134,
+        212
+      ],
+      "sourceBytes": 3341,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-016-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        123,
+        193
+      ],
+      "sourceBytes": 2802,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-017-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        135,
+        223
+      ],
+      "sourceBytes": 3076,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-018-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        128,
+        196
+      ],
+      "sourceBytes": 2668,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-019-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        134,
+        199
+      ],
+      "sourceBytes": 2755,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/luxembourg_official_book_2007/lu-off-020-01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        132,
+        193
+      ],
+      "sourceBytes": 2697,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/italy_medalbook_pack5_2026-09-26/it-koi-046-v20-view-1-922aab0ef84f.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        464,
+        348
+      ],
+      "sourceBytes": 22341,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/italy_medalbook_pack5_2026-09-26/it-koi-046-v20-view-2-4d8fcf5b709e.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        464,
+        348
+      ],
+      "sourceBytes": 21685,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/italy_medalbook_pack5_2026-09-26/it-koi-046-v21-view-2-4f51b42554bf.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        464,
+        348
+      ],
+      "sourceBytes": 24208,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/italy_medalbook_pack2_2026-09-26/war_merit_cross_michele_pisani_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        3456,
+        3456
+      ],
+      "sourceBytes": 4769895,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/raw/darabanth_46_faleristics_20261005/3563150_1_3563150.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        724,
+        800
+      ],
+      "sourceBytes": 97989,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/raw/darabanth_46_faleristics_20261005/3563150_2_3563150a.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        696,
+        800
+      ],
+      "sourceBytes": 77029,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/uk_mod_completion_alt/rrc_first_class_auckland.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        5472,
+        3648
+      ],
+      "sourceBytes": 9798902,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/soviet_wikipedia_master_followup_2026-09-28/USSR-HON-06-V01-Pilot-Cosmonaut_of_the_USSR.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        468,
+        772
+      ],
+      "sourceBytes": 236675,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ottoman_cng_triple_alliance/hart_triple_alliance_1854_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        400,
+        399
+      ],
+      "sourceBytes": 84694,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/raw/darabanth_46_faleristics_20261005/3557585_2_3557585a.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        526,
+        800
+      ],
+      "sourceBytes": 85690,
+      "reviewedAt": "2026-10-11",
+      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
+      "kind": "edge-connected-light"
+    },
+    "assets/images/ireland_defence_forces_medals_2010/ie-df-2010-071-v01.png": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        144,
+        325
+      ],
+      "sourceBytes": 77547,
+      "reviewedAt": "2026-10-11",
+      "kind": "edge-connected-light-with-manual-ribbon-protection",
+      "keepPolygons": [
+        [
+          [
+            7,
+            7
+          ],
+          [
+            135,
+            7
+          ],
+          [
+            136,
+            137
+          ],
+          [
+            118,
+            160
+          ],
+          [
+            107,
+            179
+          ],
+          [
+            100,
+            191
+          ],
+          [
+            50,
+            193
+          ],
+          [
+            40,
+            178
+          ],
+          [
+            24,
+            157
+          ],
+          [
+            10,
+            141
+          ]
+        ]
+      ],
+      "review": "Full-resolution original/mask comparison. Protect white ribbon fabric using reviewed source coordinates; retain a small pale halo rather than clip fabric. RGB unchanged. Low-resolution source not enlarged."
     }
   }
 }

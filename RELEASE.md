@@ -23,3 +23,7 @@ gh release view $tag --repo ryoumiyahayato/world-medals --json url,tagName,asset
 Release 备注必须区分已处理、已验证和待核验。受限图片保留来源权利说明；Private 不代表取得出版许可。此版只用于用户授权的私有研究分发。
 
 APK 旧包清理在本版验证后进行，使用现有 `remove_obsolete_apks`，只删除本项目构建目录中的旧 APK 及其签名/校验旁文件。原图和来源档案不删。
+
+v0.030：7,311项完成缩略总览和局部遮罩分析，30张新增背景处理获准，17张非完整勋章展示撤下；7,264张遮罩未获准，保留原展示。38条候选中22条确认参考关系、9条勋略排除、7条阻塞；其中4条明确等级参考进入正文。8个失败项中5项得到补下载／本地替代／受限预览处置，3项阻塞。不得把总览审核称为7,311张全分辨率精修完成。模型建议未发布。
+
+本地逐项清单位于 `mobile/build/background-continuation/dispositions.json`、`mobile/build/recovery/failure-dispositions.json` 和 `data/display_images/material_resolutions.json`。只向Release上传HTML ZIP、APK、SHA256SUMS和release-info；处理预览、模型、原素材及含工作站路径的内部清单不上传。

@@ -15,7 +15,7 @@ def verify():
         if rule.get('approved') is not True:continue
         with Image.open(materials/relative) as source:
             original=ImageOps.exif_transpose(source).convert('RGBA')
-            processed=remove_edge_light(original,rule['minimum'],rule['chroma'])
+            processed=remove_edge_light(original,rule['minimum'],rule['chroma'],rule.get('keepPolygons'))
         assert processed.convert('RGB').tobytes()==original.convert('RGB').tobytes(),relative
         red,green,blue=original.convert('RGB').split()
         low=ImageChops.darker(ImageChops.darker(red,green),blue)

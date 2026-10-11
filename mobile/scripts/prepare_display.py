@@ -16,7 +16,7 @@ def prepare(path, out, relative, reference=False, background=None):
         if list(size) != background['sourceSize'] or path.stat().st_size != background['sourceBytes']:
             raise ValueError('Reviewed source changed: '+relative)
         from background_trim import remove_edge_light
-        frame = remove_edge_light(frame, background['minimum'], background['chroma'])
+        frame = remove_edge_light(frame, background['minimum'], background['chroma'],background.get('keepPolygons'))
         applied_background = True
     alpha = frame.getchannel('A')
     transparent = alpha.getextrema()[0] < 255

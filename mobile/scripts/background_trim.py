@@ -6,7 +6,7 @@ def load_rules(root):
     path=root/'data/display_images/background_rules.json'
     return json.loads(path.read_text(encoding='utf-8'))['images'] if path.exists() else {}
 
-def remove_edge_light(frame, minimum=248, chroma=8):
+def remove_edge_light(frame, minimum=248, chroma=8, keep_polygons=None):
     rgb=frame.convert('RGB');red,green,blue=rgb.split()
     low=ImageChops.darker(ImageChops.darker(red,green),blue)
     high=ImageChops.lighter(ImageChops.lighter(red,green),blue)
@@ -22,6 +22,12 @@ def remove_edge_light(frame, minimum=248, chroma=8):
         for x in (0,frame.width-1):
             if candidate.getpixel((x,y))==255:ImageDraw.floodfill(candidate,(x,y),128)
     mask=candidate.point(lambda value:0 if value==128 else 255)
+    # Reviewed coordinates protect pale real parts connected to the exterior.
+    # A small source-background halo is preferable to clipping ribbon fabric.
+    if keep_polygons:
+        draw=ImageDraw.Draw(mask)
+        for polygon in keep_polygons:
+            draw.polygon([tuple(point) for point in polygon],fill=255)
     rgba=frame.convert('RGBA')
     rgba.putalpha(ImageChops.multiply(rgba.getchannel('A'),mask))
     if not rgba.getchannel('A').getbbox():raise ValueError('Background removal produced an empty image')

@@ -8,11 +8,12 @@
 
 ## 完整顺序（PowerShell）
 
-在仓库根目录运行。外部素材目录必须保留索引所指的相对结构，例如 `assets/images/`、`assets/processed/`、`originals/`。不要把素材复制进 Git 索引。
+在仓库根目录运行。外部素材目录必须保留索引所指的相对结构，包括 `assets/images/`、`assets/processed/`、`originals/`、`我搜索到的东西/`。不要把素材复制进 Git 索引。
 
 ```powershell
 py -3.14 -m venv .venv
 .venv/Scripts/python.exe -m pip install -r mobile/requirements.txt
+# 没有 pip 的现有虚拟环境可用：uv pip install --python .venv/Scripts/python.exe -r mobile/requirements.txt
 $env:WORLD_MEDALS_MATERIAL_ROOT = Read-Host '外部原始素材根目录'
 $env:JAVA_HOME = Read-Host 'JDK 根目录'
 $env:ANDROID_HOME = Read-Host 'Android SDK 根目录'
@@ -32,7 +33,7 @@ $env:SKIP_EXPORT = '1'
 
 在 `mobile/.local/` 恢复现有 `atlas.keystore` 和 `signing.json`，或通过 `SIGNING_KEYSTORE`、`SIGNING_ALIAS`、`SIGNING_PASSWORD` 提供同一签名。凭证不提交、不发布。
 
-目录清点会识别引用、无图行、中文素材元数据 ID、未匹配素材、解码失败和按字节相等的重复文件，不用重命名合并章种。待核验素材不会自动加入正文。巨大原图触发 Pillow 安全限制时保留为失败记录，不关闭限制。
+目录清点会识别引用、无图行、中文素材元数据 ID、未匹配素材、解码失败和按字节相等的重复文件，不用重命名合并章种。待核验素材不会自动加入正文。巨大原图触发 Pillow 安全限制时保留原文件，不关闭全局限制。
 
 透明图只裁去所有非零 alpha 像素包围盒以外的画布。保留每个非零 alpha 像素、3.5% 长边安全边距和原色。不透明图只删除完全纯白的外围矩形行列；复杂背景、散点及方向校正需要人工审查，本版不猜测背景。苏联用户修复参考图保留画布和像素内容，仅加展示安全边距、缩小和压缩，不作为新摄影证据。列表 WebP 长边≤384、质量86；详情≤1200、质量90；不放大。衍生物不能无损恢复原图。
 
@@ -53,3 +54,32 @@ $env:SKIP_EXPORT = '1'
 中文素材目录的 `metadata.json` 用于补充关联核对，不是引用图片重建的必要条件。外部素材只有索引所需原图时，该核对步骤会说明跳过；HTML/APK 仍按已保存的正式索引重建。
 
 已完成完整导出后，只更新已批准背景规则时，可运行 `.venv/Scripts/python.exe mobile/scripts/refresh_reviewed_backgrounds.py`，然后重建 APK 和 Release。该命令不改变章种、等级或历史版型 ID；正式全量重建仍使用上面的完整顺序。
+
+## 背景接续与素材补救
+
+`data/display_images/material_resolutions.json` 保存38条候选的来源核验与处置。明确等级的4条已写入正式索引；名称关联不证明实物材质、亚型或年代。普通构建直接使用已批准规则，不需要分割模型。总览审查与全分辨率遮罩批准分开记录；未批准的遮罩不会进入成品。
+
+需要继续生成局部遮罩建议时，先按上文清点，再执行：
+
+```powershell
+uv pip install --python .venv/Scripts/python.exe -r mobile/requirements-segmentation.txt
+New-Item -ItemType Directory -Force mobile/.local/models | Out-Null
+$env:WORLD_MEDALS_MODEL_DIR = (Resolve-Path mobile/.local/models).Path
+curl.exe -L --fail --retry 2 --max-time 300 -o "$env:WORLD_MEDALS_MODEL_DIR/u2netp.onnx" https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2netp.onnx
+.venv/Scripts/python.exe mobile/scripts/review_backgrounds.py --model --workers 8 --start 0 --count 100
+```
+
+U2NETP只生成alpha建议，不生成RGB、文字或结构。输出在 `mobile/build/background-continuation/items/`，不提交。该模型会漏掉水印、悬挂结构或浅色部件；需要逐张原图对照和必要的人工遮罩。脚本不自动批准。更换输入或模型后用 `--output mobile/build/新批次目录`，不能把旧建议当作新审核。
+
+已批准规则可用 `keepPolygons` 记录源像素坐标，保护与背景相连的白色勋带。处理器保留这些坐标内的原始alpha和RGB；允许留下少量原背景边缘。坐标仅适用于已核验的源尺寸和字节数。v0.030的一张低清勋带采用此保护，未使用模型遮罩。
+
+超大法国历史合图的单文件预览使用 Node.js 22.23.1、Sharp 0.35.5。安装目录和预览均留本地：
+
+```powershell
+npm install --no-save --prefix mobile/.local/preview sharp@0.35.5
+$env:NODE_PATH = (Resolve-Path mobile/.local/preview/node_modules).Path
+New-Item -ItemType Directory -Force mobile/build/recovery | Out-Null
+node mobile/scripts/bounded_preview.cjs "$env:WORLD_MEDALS_MATERIAL_ROOT/originals/france_legion_honour_open_batch2/commons-design-through-years.png" mobile/build/recovery/legion-design-bounded.png 520000000
+```
+
+该命令只将一个507,076,515像素PNG降采样为最长边1200的预览，单线程、128MB缓存、显式像素上限；不替换原图，不自动加入图鉴。失败原文件保留，补下载副本另存于本地原始素材区。源图本身裁断的结构不重建。

@@ -55,9 +55,11 @@ def package():
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     metadata={'version':version,'commit':commit,'python':platform.python_version(),
               'platform':platform.platform(),'Pillow':package_version('Pillow'),'beautifulsoup4':package_version('beautifulsoup4'),
-              'androidPlatform':36,'androidBuildTools':'36.1.0 or 36.0.0 selected by build_apk.py','imageAlgorithm':'reviewed edge-connected neutral-light backgrounds 242/12; alpha/white margins; margin 3.5%; WebP 384/1200 q86/q90 method4',
+              'androidPlatform':36,'androidBuildTools':'36.1.0 or 36.0.0 selected by build_apk.py','imageAlgorithm':'reviewed edge-connected neutral-light backgrounds 242/12 with optional reviewed keepPolygons; alpha/white margins; margin 3.5%; WebP 384/1200 q86/q90 method4; no model masks in release',
               'limitations':['Opaque backgrounds and uncertain identities require manual review.',
                               'Device installation is not verified unless separately reported.']}
+    summary=ROOT/'mobile/build/background-continuation/summary.json'
+    if summary.exists():metadata['backgroundReview']=json.loads(summary.read_text(encoding='utf-8'))
     (ROOT/'mobile/build/release-info.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2),encoding='utf-8')
     lines=[]
     for path in (archive,apk):
