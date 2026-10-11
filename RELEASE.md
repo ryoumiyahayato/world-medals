@@ -27,3 +27,5 @@ APK 旧包清理在本版验证后进行，使用现有 `remove_obsolete_apks`�
 v0.030：7,311项完成缩略总览和局部遮罩分析，30张新增背景处理获准，17张非完整勋章展示撤下；7,264张遮罩未获准，保留原展示。38条候选中22条确认参考关系、9条勋略排除、7条阻塞；其中4条明确等级参考进入正文。8个失败项中5项得到补下载／本地替代／受限预览处置，3项阻塞。不得把总览审核称为7,311张全分辨率精修完成。模型建议未发布。
 
 本地逐项清单位于 `mobile/build/background-continuation/dispositions.json`、`mobile/build/recovery/failure-dispositions.json` 和 `data/display_images/material_resolutions.json`。只向Release上传HTML ZIP、APK、SHA256SUMS和release-info；处理预览、模型、原素材及含工作站路径的内部清单不上传。
+
+v0.031保留上述处理结果，并将两条参考图的“另一件实物”改为“来源参考图正面”。不同照片来源不能证明实物不同；不移动已发布的v0.030标签。
