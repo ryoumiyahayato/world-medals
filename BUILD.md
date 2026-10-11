@@ -22,6 +22,7 @@ $env:WORLD_MEDALS_IMAGE_WORKERS = '8'
 $env:WORLD_MEDALS_DEFER_APK_CLEANUP = '1'
 .venv/Scripts/python.exe mobile/scripts/inventory_materials.py
 .venv/Scripts/python.exe mobile/scripts/export_catalog.py
+.venv/Scripts/python.exe mobile/scripts/reconcile_local_metadata.py
 .venv/Scripts/python.exe mobile/scripts/verify_background_batch.py
 node mobile/scripts/validate_mobile.cjs
 $env:SKIP_EXPORT = '1'
