@@ -50,4 +50,6 @@ $env:SKIP_EXPORT = '1'
 
 导出优先使用仓库中的可移植索引，避免把上一次生成的展示图再次当作原图输入。
 
+中文素材目录的 `metadata.json` 用于补充关联核对，不是引用图片重建的必要条件。外部素材只有索引所需原图时，该核对步骤会说明跳过；HTML/APK 仍按已保存的正式索引重建。
+
 已完成完整导出后，只更新已批准背景规则时，可运行 `.venv/Scripts/python.exe mobile/scripts/refresh_reviewed_backgrounds.py`，然后重建 APK 和 Release。该命令不改变章种、等级或历史版型 ID；正式全量重建仍使用上面的完整顺序。

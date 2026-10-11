@@ -11,6 +11,9 @@ def normalized(name):
 
 def reconcile():
     local=material_root(ROOT)/'我搜索到的东西/metadata.json'
+    if not local.exists():
+        print(json.dumps({'metadataAssociations':'skipped','reason':'External materials have no optional Chinese metadata'}))
+        return
     metadata={item['id']:item for item in json.loads(local.read_text(encoding='utf-8'))}
     raw=(ROOT/'mobile/build/site/catalog.js').read_text(encoding='utf-8')
     catalogue=json.loads(raw[len('window.CATALOG='):-1])
@@ -20,6 +23,8 @@ def reconcile():
         'unmatchedMetadata':json.loads((ROOT/'mobile/build/material-inventory.json').read_text(encoding='utf-8'))['unmatchedMetadata']}
     matches=[]
     for candidate in pending['unmatchedMetadata']:
+        if candidate['candidateId'] not in metadata:
+            continue
         supplied=metadata[candidate['candidateId']]
         rows=[row for row in catalogue['rows'] if normalized(row['name'])==normalized(supplied['name_zh'])
               and supplied['country'] in titles.get(row['volume'],'')]
