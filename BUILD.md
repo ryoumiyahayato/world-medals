@@ -4,7 +4,7 @@
 
 ## 工具链
 
-本版使用 Python 3.14.6、Pillow 12.1.1、BeautifulSoup 4.14.3。APK 需要 JDK 17+、Android SDK platform 36、build-tools 36.1.0（或36.0.0）。Node.js 用于现有目录检查。保留原持久签名，不创建替代签名来冒充可覆盖安装。
+本版使用 Python 3.14.6、Pillow 12.3.0、BeautifulSoup 4.15.0。APK 需要 JDK 17+、Android SDK platform 36、build-tools 36.1.0（或36.0.0）。Node.js 用于现有目录检查。保留原持久签名，不创建替代签名来冒充可覆盖安装。
 
 ## 完整顺序（PowerShell）
 
