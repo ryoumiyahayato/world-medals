@@ -1,7 +1,7 @@
 """Package the existing desktop gallery and Android WebView site for private release."""
 import hashlib, json, platform, subprocess, zipfile
 from pathlib import Path
-from importlib.metadata import version
+from importlib.metadata import version as package_version
 from bs4 import BeautifulSoup
 from release_input import source
 
@@ -45,7 +45,7 @@ def package():
     apk=ROOT/'mobile/build'/('world-medals-'+version+'.apk')
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     metadata={'version':version,'commit':commit,'python':platform.python_version(),
-              'platform':platform.platform(),'Pillow':version('Pillow'),'beautifulsoup4':version('beautifulsoup4'),
+              'platform':platform.platform(),'Pillow':package_version('Pillow'),'beautifulsoup4':package_version('beautifulsoup4'),
               'androidPlatform':36,'androidBuildTools':'36.1.0 or 36.0.0 selected by build_apk.py','imageAlgorithm':'alpha-nonzero-bounds / exact-white rectangular margins, margin 3.5%, WebP 384/1200 q86/q90 method4',
               'limitations':['Opaque backgrounds and uncertain identities require manual review.',
                               'Device installation is not verified unless separately reported.']}
