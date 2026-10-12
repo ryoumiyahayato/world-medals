@@ -2062,8 +2062,8 @@
     },
     "assets/images/egypt_medals_org/bravery_1913_obverse.jpg": {
       "approved": true,
-      "maximum": 8,
-      "chroma": 6,
+      "maximum": 24,
+      "chroma": 24,
       "sourceSize": [
         162,
         250
@@ -2071,12 +2071,12 @@
       "sourceBytes": 13452,
       "kind": "edge-connected-dark",
       "reviewedAt": "2026-10-12",
-      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains."
+      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains. Refined to24/24 after native original/matte/deletion-overlay and mobile preview; JPEG background speckles reduced, source outline and metalwork retained."
     },
     "assets/images/egypt_medals_org/bravery_1913_reverse.jpg": {
       "approved": true,
-      "maximum": 8,
-      "chroma": 6,
+      "maximum": 24,
+      "chroma": 24,
       "sourceSize": [
         167,
         250
@@ -2084,7 +2084,7 @@
       "sourceBytes": 11297,
       "kind": "edge-connected-dark",
       "reviewedAt": "2026-10-12",
-      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains."
+      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains. Refined to24/24 after native original/matte/deletion-overlay and mobile preview; JPEG background speckles reduced, source outline and metalwork retained."
     }
   }
 }
