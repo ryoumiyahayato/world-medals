@@ -6669,6 +6669,65 @@
       "maximum": 8,
       "chroma": 8,
       "review": "Native source and compressed preview reviewed. Suspension and miniature accessories preserved. Source RGB unchanged; source ribbon truncation retained and labeled."
+    },
+    "assets/images/sudan_spink21001/1330_two_niles_breast_badge.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        533,
+        1200
+      ],
+      "sourceBytes": 112618,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and exterior-connected near-black matte compared; no component removal or source RGB changes.",
+      "keepPolygons": [
+        [
+          [
+            235,
+            520
+          ],
+          [
+            310,
+            520
+          ],
+          [
+            310,
+            553
+          ],
+          [
+            235,
+            553
+          ]
+        ]
+      ]
+    },
+    "assets/images/mena_round7/medalbook-sudan-28eaa3cb81e170ba.png": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        268,
+        348
+      ],
+      "sourceBytes": 143441,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and exterior-connected near-black matte compared; no component removal or source RGB changes."
+    },
+    "assets/images/mena_round7/medalbook-sudan-4668e5224ec25276.png": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        348,
+        348
+      ],
+      "sourceBytes": 191759,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and exterior-connected near-black matte compared; no component removal or source RGB changes."
     }
   }
 }
