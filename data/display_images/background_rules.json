@@ -2085,6 +2085,19 @@
       "kind": "edge-connected-dark",
       "reviewedAt": "2026-10-12",
       "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains. Refined to24/24 after native original/matte/deletion-overlay and mobile preview; JPEG background speckles reduced, source outline and metalwork retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7375_back_pdf230_native.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        286,
+        278
+      ],
+      "sourceBytes": 9533,
+      "kind": "edge-connected-light",
+      "reviewedAt": "2026-10-12",
+      "review": "Native embedded Im7 JPEG compared with PDF page230 and original/matte/deletion overlay. Full ball-ended points and horizontal pin retained; alpha-only removal adds safe margins without enlarging source detail."
     }
   }
 }
