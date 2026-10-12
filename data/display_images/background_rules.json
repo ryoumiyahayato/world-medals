@@ -3303,6 +3303,19 @@
       ],
       "reviewedAt": "2026-10-12",
       "review": "Native original and matte compared. Full crossbar, suspension, circular medal rim and eagle/inscriptions retained. Exterior-connected beige hue9/10,red floor120 and0.5px alpha edge; enclosed background gaps retained conservatively. Original source watermark protected. Frozen alpha only; original RGB unchanged."
+    },
+    "assets/images/egypt_medals_org_republic/labour-class-3-01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        130,
+        250
+      ],
+      "sourceBytes": 11366,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original compared; complete red/yellow ribbon, fittings, all rays and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged."
     }
   }
 }
