@@ -967,6 +967,604 @@
       "reviewedAt": "2026-10-12",
       "kind": "edge-connected-light",
       "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7224_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        201,
+        203
+      ],
+      "sourceBytes": 10976,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7224_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        201,
+        205
+      ],
+      "sourceBytes": 10824,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7225_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        201,
+        203
+      ],
+      "sourceBytes": 10294,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7225_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        200,
+        203
+      ],
+      "sourceBytes": 10251,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7267_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        197,
+        208
+      ],
+      "sourceBytes": 9220,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7267_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        192,
+        206
+      ],
+      "sourceBytes": 10923,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7268_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        295,
+        374
+      ],
+      "sourceBytes": 25257,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7268_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        198,
+        253
+      ],
+      "sourceBytes": 12805,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7227_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        234
+      ],
+      "sourceBytes": 14519,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7227_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        236
+      ],
+      "sourceBytes": 13999,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7230_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        232,
+        236
+      ],
+      "sourceBytes": 15907,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7230_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        236
+      ],
+      "sourceBytes": 16873,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7231_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        234
+      ],
+      "sourceBytes": 12940,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7231_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        236
+      ],
+      "sourceBytes": 14358,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7232_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        232,
+        233
+      ],
+      "sourceBytes": 14402,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7232_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        234
+      ],
+      "sourceBytes": 16091,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7233_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        260,
+        240
+      ],
+      "sourceBytes": 14710,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7233_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        286,
+        234
+      ],
+      "sourceBytes": 13232,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7236_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        235
+      ],
+      "sourceBytes": 13663,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7236_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        235
+      ],
+      "sourceBytes": 15210,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7226_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        234
+      ],
+      "sourceBytes": 12848,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7226_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        235
+      ],
+      "sourceBytes": 14461,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7235_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        233,
+        233
+      ],
+      "sourceBytes": 10975,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7235_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        234,
+        235
+      ],
+      "sourceBytes": 12829,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7258_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        226
+      ],
+      "sourceBytes": 13693,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7258_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        224
+      ],
+      "sourceBytes": 12670,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7246_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        279,
+        277
+      ],
+      "sourceBytes": 18247,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7246_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        280,
+        278
+      ],
+      "sourceBytes": 19384,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7247_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        227
+      ],
+      "sourceBytes": 12593,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7247_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        225
+      ],
+      "sourceBytes": 12251,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7250_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        229,
+        228
+      ],
+      "sourceBytes": 11028,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch4/lot_7250_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        231,
+        230
+      ],
+      "sourceBytes": 10367,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7252_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        197,
+        195
+      ],
+      "sourceBytes": 9027,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7252_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        198,
+        196
+      ],
+      "sourceBytes": 9484,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7253_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        198,
+        195
+      ],
+      "sourceBytes": 8887,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7253_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        198,
+        195
+      ],
+      "sourceBytes": 9928,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7281_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        183,
+        182
+      ],
+      "sourceBytes": 8271,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7281_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        182,
+        182
+      ],
+      "sourceBytes": 8883,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7282_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        144,
+        143
+      ],
+      "sourceBytes": 6747,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7282_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        146,
+        145
+      ],
+      "sourceBytes": 6066,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7287_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        152
+      ],
+      "sourceBytes": 7172,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7287_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        153
+      ],
+      "sourceBytes": 6754,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7296_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        282,
+        281
+      ],
+      "sourceBytes": 18118,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch3/lot_7296_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        282,
+        281
+      ],
+      "sourceBytes": 19292,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7299_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        281,
+        279
+      ],
+      "sourceBytes": 18968,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7299_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        282,
+        279
+      ],
+      "sourceBytes": 20442,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
     }
   }
 }
