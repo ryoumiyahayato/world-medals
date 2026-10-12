@@ -33,6 +33,12 @@ def snapshot(root):
     needed={im['src'] for cells in rows.values() for im in BeautifulSoup(cells[2],'html.parser').select('img[src]')}
     data={'schema':1,'rows':rows,'images':{key:value for key,value in records.items() if key in needed},
           'sources':public_metadata(json.loads((root/'data/sources.json').read_text(encoding='utf-8')))}
+    prior_path = root/'data/release-input.json'
+    if prior_path.exists():
+        prior = json.loads(prior_path.read_text(encoding='utf-8'))
+        for key in ('legacyRowFamilies', 'familySearchAliases', 'cloudReuse'):
+            if key in prior:
+                data[key] = prior[key]
     (root/'data/release-input.json').write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8')
     (root/'mobile/web/desktop-template.html').write_text(str(soup),encoding='utf-8')
 
