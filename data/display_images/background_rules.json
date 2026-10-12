@@ -3055,6 +3055,39 @@
       ],
       "reviewedAt": "2026-10-12",
       "review": "Native original and matte compared. Complete ribbon, crossbar, rings, rectangular hanger, medal rays and rear inscriptions retained. Exterior-connected beige hue9/10,red floor120 and0.5px alpha edge; source watermark protected. Frozen alpha only; original RGB unchanged."
+    },
+    "assets/images/egypt_medals_org_republic/military-courage-class-1-01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "keepPolygons": [
+        [
+          [
+            10,
+            4
+          ],
+          [
+            106,
+            4
+          ],
+          [
+            106,
+            99
+          ],
+          [
+            10,
+            99
+          ]
+        ]
+      ],
+      "sourceSize": [
+        122,
+        250
+      ],
+      "sourceBytes": 8653,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and matte compared. Complete black/red ribbon protected explicitly; all black stripes retained. Crossbar, suspension, complete medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. No watermark present in source."
     }
   }
 }
