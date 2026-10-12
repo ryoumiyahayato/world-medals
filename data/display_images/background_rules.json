@@ -3088,6 +3088,105 @@
       "sourceBytes": 8653,
       "reviewedAt": "2026-10-12",
       "review": "Native original and matte compared. Complete black/red ribbon protected explicitly; all black stripes retained. Crossbar, suspension, complete medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. No watermark present in source."
+    },
+    "assets/images/egypt_medals_org_republic/military-courage-class-1-02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "keepPolygons": [
+        [
+          [
+            10,
+            3
+          ],
+          [
+            115,
+            3
+          ],
+          [
+            115,
+            106
+          ],
+          [
+            10,
+            106
+          ]
+        ]
+      ],
+      "sourceSize": [
+        125,
+        250
+      ],
+      "sourceBytes": 8925,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and matte compared. Complete black/red ribbon protected explicitly; crossbar,suspension,medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. Low-resolution source retained without upscale."
+    },
+    "assets/images/egypt_medals_org_republic/military-courage-class-2-01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "keepPolygons": [
+        [
+          [
+            10,
+            3
+          ],
+          [
+            111,
+            3
+          ],
+          [
+            111,
+            106
+          ],
+          [
+            10,
+            106
+          ]
+        ]
+      ],
+      "sourceSize": [
+        121,
+        250
+      ],
+      "sourceBytes": 9649,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and matte compared. Complete black/red ribbon protected explicitly; crossbar,suspension,medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. Low-resolution source retained without upscale."
+    },
+    "assets/images/egypt_medals_org_republic/military-courage-class-2-02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "keepPolygons": [
+        [
+          [
+            10,
+            3
+          ],
+          [
+            113,
+            3
+          ],
+          [
+            113,
+            106
+          ],
+          [
+            10,
+            106
+          ]
+        ]
+      ],
+      "sourceSize": [
+        123,
+        250
+      ],
+      "sourceBytes": 9661,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and matte compared. Complete black/red ribbon protected explicitly; crossbar,suspension,medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. Low-resolution source retained without upscale."
     }
   }
 }
