@@ -3329,6 +3329,47 @@
       "sourceBytes": 10169,
       "reviewedAt": "2026-10-12",
       "review": "Native original and matte compared. Complete white/blue/yellow ribbon, crossbar, suspension, medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. No source upscale."
+    },
+    "assets/images/egypt_medals_org_republic/distinguished-service-type-4-02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        125,
+        250
+      ],
+      "sourceBytes": 10074,
+      "reviewedAt": "2026-10-12",
+      "review": "Native ribbon crop enlarged for inspection. Side speckles may include actual fabric selvedge; preserve entire ribbon border and crossbar rather than deleting fibers. Exterior-connected dark24/24 matte removes outer canvas only. Full suspension, medal rim and inscriptions retained; original RGB unchanged.",
+      "keepPolygons": [
+        [
+          [
+            9,
+            4
+          ],
+          [
+            115,
+            4
+          ],
+          [
+            118,
+            102
+          ],
+          [
+            113,
+            109
+          ],
+          [
+            14,
+            108
+          ],
+          [
+            8,
+            104
+          ]
+        ]
+      ]
     }
   }
 }
