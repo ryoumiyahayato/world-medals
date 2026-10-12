@@ -1,7 +1,7 @@
 """Focused verification of the explicitly reviewed background rules."""
 import argparse,json
 from pathlib import Path
-from PIL import Image,ImageOps,ImageChops
+from PIL import Image,ImageOps,ImageChops,ImageDraw
 from background_trim import load_rules,apply_rule
 from prepare_display import material_root
 
@@ -21,9 +21,15 @@ def verify(only=None):
         red,green,blue=original.convert('RGB').split()
         low=ImageChops.darker(ImageChops.darker(red,green),blue)
         high=ImageChops.lighter(ImageChops.lighter(red,green),blue)
-        tonal = high.point(lambda v:255 if v>rule['maximum'] else 0) if rule.get('kind')=='edge-connected-dark' else low.point(lambda v:255 if v<rule['minimum'] else 0)
-        protected=ImageChops.lighter(tonal,
-                      ImageChops.subtract(high,low).point(lambda v:255 if v>rule['chroma'] else 0))
+        if rule.get('kind')=='reviewed-runs':
+            protected=Image.new('L',original.size,0)
+            draw=ImageDraw.Draw(protected)
+            for polygon in rule.get('protectedPolygons',[]):
+                draw.polygon([tuple(point) for point in polygon],fill=255)
+        else:
+            tonal = high.point(lambda v:255 if v>rule['maximum'] else 0) if rule.get('kind')=='edge-connected-dark' else low.point(lambda v:255 if v<rule['minimum'] else 0)
+            protected=ImageChops.lighter(tonal,
+                          ImageChops.subtract(high,low).point(lambda v:255 if v>rule['chroma'] else 0))
         removed=ImageChops.subtract(original.getchannel('A'),processed.getchannel('A'))
         assert ImageChops.multiply(protected,removed).getbbox() is None,relative
         entry=mapping[relative]

@@ -1,5 +1,5 @@
 """Reviewed deterministic matte removal. No image synthesis or recolouring."""
-import json
+import json,re
 from PIL import Image, ImageChops, ImageDraw, ImageOps
 
 def remove_edge_dark(frame, maximum=8, chroma=6, keep_polygons=None):
@@ -12,6 +12,30 @@ def remove_edge_dark(frame, maximum=8, chroma=6, keep_polygons=None):
     return result
 
 def apply_rule(frame, rule):
+    if rule.get('kind') == 'reviewed-runs':
+        rows = rule['retainedRuns']
+        if len(rows) != frame.height:
+            raise ValueError('Reviewed mask height does not match source')
+        mask = Image.new('L', frame.size, 0)
+        draw = ImageDraw.Draw(mask)
+        for y, runs in enumerate(rows):
+            previous = 0
+            for run in runs:
+                if len(run) not in (2,3):
+                    raise ValueError('Invalid reviewed mask run length')
+                start, end = run[:2]
+                opacity = run[2] if len(run)==3 else 255
+                if not isinstance(start, int) or not isinstance(end, int) or not 0 <= previous <= start < end <= frame.width:
+                    raise ValueError('Invalid reviewed mask run')
+                if not isinstance(opacity,int) or not 1 <= opacity <= 255:
+                    raise ValueError('Invalid reviewed mask opacity')
+                draw.line((start, y, end-1, y), fill=opacity)
+                previous = end
+        result = frame.convert('RGBA')
+        result.putalpha(ImageChops.multiply(result.getchannel('A'), mask))
+        if not result.getchannel('A').getbbox():
+            raise ValueError('Reviewed mask is empty')
+        return result
     if rule.get('kind') == 'edge-connected-dark':
         return remove_edge_dark(frame, rule['maximum'], rule['chroma'], rule.get('keepPolygons'))
     return remove_edge_light(frame, rule['minimum'], rule['chroma'], rule.get('keepPolygons'))
@@ -19,6 +43,15 @@ def apply_rule(frame, rule):
 def load_rules(root):
     path=root/'data/display_images/background_rules.json'
     return json.loads(path.read_text(encoding='utf-8'))['images'] if path.exists() else {}
+
+def save_rules(root, document):
+    """Keep reviewed alpha coordinates compact while retaining readable rules."""
+    text=json.dumps(document,ensure_ascii=False,indent=2)
+    decoder=json.JSONDecoder()
+    for match in reversed(list(re.finditer(r'"retainedRuns":\s*',text))):
+        value,end=decoder.raw_decode(text,match.end())
+        text=text[:match.end()]+json.dumps(value,separators=(',',':'))+text[end:]
+    (root/'data/display_images/background_rules.json').write_text(text+'\n',encoding='utf-8')
 
 def remove_edge_light(frame, minimum=248, chroma=8, keep_polygons=None):
     rgb=frame.convert('RGB');red,green,blue=rgb.split()
