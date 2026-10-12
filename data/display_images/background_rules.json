@@ -3316,6 +3316,19 @@
       "sourceBytes": 11366,
       "reviewedAt": "2026-10-12",
       "review": "Native original compared; complete red/yellow ribbon, fittings, all rays and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged."
+    },
+    "assets/images/egypt_medals_org_republic/distinguished-service-type-4-01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        138,
+        250
+      ],
+      "sourceBytes": 10169,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original and matte compared. Complete white/blue/yellow ribbon, crossbar, suspension, medal rim and inscriptions retained. Exterior-connected dark24/24 alpha only; original RGB unchanged. No source upscale."
     }
   }
 }
