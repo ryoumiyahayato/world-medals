@@ -5,8 +5,8 @@
  const compact=s=>fold(s).replace(/[\s'’·.\-／/]/g,'');
  function canonical(raw){const key=compact(raw);return aliases.get(key)||fold(raw);}
  function prepare(row,scope){
-  const fields=[row.name,row.original,row.familyName,row.variant,row.date,scope].map(fold);
-  const named=[fields[0],fields[1],fields[2]];
+  const fields=[row.name,row.original,row.familyName,row.variant,row.date,scope,...(row.searchAliases||[])].map(fold);
+  const named=[fields[0],fields[1],fields[2],...(row.searchAliases||[]).map(fold)];
   const extra=[];if(named.some(s=>/荣誉军团|legion d.honneur|legion of hono[u]?r/.test(s)))extra.push('荣誉军团','荣军','legion d honneur','legion of honour','legion of honor');
   const all=fields.concat(extra);return {fields:all,names:named.concat(extra),text:all.join(' '),compactFields:all.map(compact),compactNames:named.concat(extra).map(compact),compactText:compact(all.join(' '))};
  }

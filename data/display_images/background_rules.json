@@ -1565,6 +1565,58 @@
       "reviewedAt": "2026-10-12",
       "kind": "edge-connected-light",
       "review": "Native source, deterministic matte and removed-pixel overlay compared with the existing Kuenker 299 PDF page. Entire contour, suspension, pin, enamel, pale inscriptions and enclosed light regions preserved; no source mark removed. RGB unchanged; no model proposal used. Native low resolution retained and labelled in the display."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7323_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        174,
+        449
+      ],
+      "sourceBytes": 16018,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/removed-pixel overlay and Kuenker 299 PDF page 208 compared. Full ribbon, suspension, medal and inscriptions retained. No watermark or RGB edited. Low source resolution not enlarged."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7323_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        172,
+        440
+      ],
+      "sourceBytes": 17360,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/removed-pixel overlay and Kuenker 299 PDF page 208 compared. Full ribbon, suspension, medal and inscriptions retained. No watermark or RGB edited. Low source resolution not enlarged."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7324_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        223,
+        224
+      ],
+      "sourceBytes": 12427,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/removed-pixel overlay and Kuenker 299 PDF page 208 compared. Full ribbon, suspension, medal and inscriptions retained. No watermark or RGB edited. Low source resolution not enlarged."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7324_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        223,
+        224
+      ],
+      "sourceBytes": 12253,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/removed-pixel overlay and Kuenker 299 PDF page 208 compared. Full ribbon, suspension, medal and inscriptions retained. No watermark or RGB edited. Low source resolution not enlarged."
     }
   }
 }

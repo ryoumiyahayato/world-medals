@@ -128,6 +128,11 @@ def export():
         if count:
             volumes.append(dict(id=volume, title=title, count=count))
     assert rows and images
+    # Reuse historical catalogue names as search leads, without reviving old rows.
+    family_aliases = (portable or {}).get('familySearchAliases', {})
+    for row in rows:
+        if row['family'] in family_aliases:
+            row['searchAliases'] = family_aliases[row['family']]
     policy_path=ROOT/'data/display_images/row_replacements.json'
     policy=json.loads(policy_path.read_text(encoding='utf-8')) if policy_path.exists() else {'rows':{}}
     by_id={r['id']:r for r in rows}
