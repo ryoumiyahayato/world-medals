@@ -497,42 +497,42 @@
     },
     "assets/images/mena_round7/mena7-1baca74ccc46.png": {
       "approved": true,
-      "minimum": 242,
-      "chroma": 12,
+      "kind": "edge-connected-light",
+      "minimum": 235,
+      "chroma": 8,
       "sourceSize": [
         960,
         495
       ],
       "sourceBytes": 952512,
-      "reviewedAt": "2026-10-11",
-      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
-      "kind": "edge-connected-light"
+      "reviewedAt": "2026-10-12",
+      "review": "Native source and revised gray composite inspected. Both circular faces, inscriptions, rims, cloth and suspension retained. No component removal, recoloring or identity change; alpha only."
     },
     "assets/images/mena_round7/mena7-954616c90918.png": {
       "approved": true,
-      "minimum": 242,
-      "chroma": 12,
+      "kind": "edge-connected-light",
+      "minimum": 235,
+      "chroma": 32,
       "sourceSize": [
         960,
         478
       ],
       "sourceBytes": 969377,
-      "reviewedAt": "2026-10-11",
-      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
-      "kind": "edge-connected-light"
+      "reviewedAt": "2026-10-12",
+      "review": "Native source and revised gray composite inspected. Both circular faces, inscriptions, rims, cloth and suspension retained. No component removal, recoloring or identity change; alpha only."
     },
     "assets/images/mena_round7/core7-9843fdbc081a.png": {
       "approved": true,
-      "minimum": 242,
-      "chroma": 12,
+      "kind": "edge-connected-light",
+      "minimum": 210,
+      "chroma": 32,
       "sourceSize": [
         330,
         394
       ],
       "sourceBytes": 268009,
-      "reviewedAt": "2026-10-11",
-      "review": "Compared source and full-resolution matte; hanging structures, edges and source marks retained. RGB unchanged.",
-      "kind": "edge-connected-light"
+      "reviewedAt": "2026-10-12",
+      "review": "Native source and revised gray composite inspected. Both circular faces, inscriptions, rims, cloth and suspension retained. No component removal, recoloring or identity change; alpha only."
     },
     "assets/images/mena_round7/mena7-67d292bacb08.png": {
       "approved": true,
