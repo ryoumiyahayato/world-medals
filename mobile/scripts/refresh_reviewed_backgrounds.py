@@ -1,5 +1,5 @@
 """Refresh approved local mattes in the existing export, retaining all row IDs."""
-import json
+import argparse,json
 from pathlib import Path
 from background_trim import load_rules
 from prepare_display import prepare,material_root
@@ -7,12 +7,13 @@ from prepare_display import prepare,material_root
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'mobile/build/site'
 
-def refresh():
+def refresh(only=None):
     materials=material_root(ROOT)
     mapping_path=ROOT/'mobile/build/image-provenance.json'
     mapping=json.loads(mapping_path.read_text(encoding='utf-8'))
     rules=load_rules(ROOT);captions={}
     for relative,rule in rules.items():
+        if only and relative not in only:continue
         if rule.get('approved') is not True:continue
         entry=mapping[relative]
         if entry['provenance'].get('image_kind')=='user_restored_reference':
@@ -35,8 +36,11 @@ def refresh():
     mapping_path.write_text(json.dumps(mapping,ensure_ascii=False,indent=2),encoding='utf-8')
     (OUT/'image-provenance.json').write_bytes(mapping_path.read_bytes())
     report_path=ROOT/'mobile/build/export-report.json';report=json.loads(report_path.read_text())
-    report.update(reviewedBackgrounds=len(captions),imageBytes=sum(p.stat().st_size for p in (OUT/'images').rglob('*.webp')))
+    report.update(catalogueVersion=data['version'],reviewedBackgrounds=sum(rule.get('approved') is True for rule in rules.values()),imageBytes=sum(p.stat().st_size for p in (OUT/'images').rglob('*.webp')))
     report_path.write_text(json.dumps(report,indent=2),encoding='utf-8')
     print(json.dumps(report))
 
-if __name__=='__main__':refresh()
+if __name__=='__main__':
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--only',nargs='+',help='Refresh only these reviewed source-relative paths')
+    refresh(parser.parse_args().only)
