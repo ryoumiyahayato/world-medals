@@ -2517,6 +2517,32 @@
       "sourceBytes": 10973,
       "reviewedAt": "2026-10-12",
       "review": "Native original compared; complete medal rim, suspension and blue/red ribbon retained. Exterior-connected dark matte only; original RGB unchanged; no watermark present in source."
+    },
+    "assets/images/egypt_medals_org_republic/military-duty-class-2-02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        127,
+        250
+      ],
+      "sourceBytes": 10466,
+      "reviewedAt": "2026-10-12",
+      "review": "Native full-size original compared. Complete ribbon, hardware, medal rim and inscriptions retained; visible mobilisation ribbon frays preserved. Exterior-connected dark matte only; original RGB unchanged. No watermark present in source."
+    },
+    "assets/images/egypt_medals_org_republic/military-duty-class-3-01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        128,
+        250
+      ],
+      "sourceBytes": 11425,
+      "reviewedAt": "2026-10-12",
+      "review": "Native full-size original compared. Complete ribbon, hardware, medal rim and inscriptions retained; visible mobilisation ribbon frays preserved. Exterior-connected dark matte only; original RGB unchanged. No watermark present in source."
     }
   }
 }
