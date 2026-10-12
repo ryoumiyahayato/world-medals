@@ -9,8 +9,10 @@ WIN=os.name=='nt'
 def run(args, **kwargs):
     subprocess.run([str(x) for x in args], check=True, **kwargs)
 
-def remove_obsolete_apks(output):
-    """Keep the validated newest APK and its sidecars, inside this project only."""
+def remove_obsolete_apks(output, *, confirm_permanent_delete=False):
+    """Delete only after specific user confirmation; unlink bypasses Recycle Bin."""
+    if confirm_permanent_delete is not True:
+        raise PermissionError("Permanent APK cleanup requires specific user confirmation")
     root=(MOBILE/'build').resolve();output=output.resolve()
     if not output.is_relative_to(root) or not output.is_file():
         raise ValueError('Newest APK must exist inside the project build directory')
@@ -92,9 +94,8 @@ def build():
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','verify','--verbose',output])
     sha=hashlib.sha256(output.read_bytes()).hexdigest()
     output.with_suffix('.apk.sha256').write_text(sha+'  '+output.name+'\n')
-    # Content delivery checks may run after signing. Keep the previous installer
-    # until those checks finish when the calling batch explicitly defers cleanup.
-    removed=[] if os.environ.get('WORLD_MEDALS_DEFER_APK_CLEANUP') == '1' else remove_obsolete_apks(output)
+    # Preserve installers and intermediates. Cleanup is a separate confirmed action.
+    removed=[]  # Building or publishing does not authorize permanent deletion.
     print(json.dumps({'obsolete_apk_files_removed':len(removed),'bytes_reclaimed':sum(x['bytes'] for x in removed)}))
     print(json.dumps({'apk':str(output),'bytes':output.stat().st_size,'sha256':sha}))
 if __name__=='__main__':build()
