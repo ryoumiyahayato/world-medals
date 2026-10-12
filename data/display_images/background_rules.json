@@ -6139,6 +6139,374 @@
       ],
       "reviewedAt": "2026-10-12",
       "review": "Reuse original deterministic gray matte; refine native cloth and small medal regions with local alpha-only segmentation. Preserve central enamel/reflective disc and original watermark. No RGB synthesis or source upscaling; native silhouette compared and approved. Small medal body is low-resolution reference; released detail is not upscaled."
+    },
+    "assets/images/sudan_spink21001/1331_republic_first_class_star.jpg": {
+      "approved": true,
+      "sourceSize": [
+        1100,
+        1079
+      ],
+      "sourceBytes": 202316,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-dark",
+      "maximum": 8,
+      "chroma": 8,
+      "review": "Conservative exterior-connected dark8/chroma8 matte. Complete visible medal, suspension and textile compared against source; no RGB editing. Three dark round caps explicitly protected with native-coordinate polygons; visible glass/cap contours compared.",
+      "keepPolygons": [
+        [
+          [
+            227,
+            207
+          ],
+          [
+            226,
+            212
+          ],
+          [
+            224,
+            216
+          ],
+          [
+            221,
+            220
+          ],
+          [
+            218,
+            223
+          ],
+          [
+            213,
+            225
+          ],
+          [
+            208,
+            226
+          ],
+          [
+            203,
+            225
+          ],
+          [
+            198,
+            223
+          ],
+          [
+            195,
+            220
+          ],
+          [
+            192,
+            216
+          ],
+          [
+            190,
+            212
+          ],
+          [
+            189,
+            207
+          ],
+          [
+            190,
+            202
+          ],
+          [
+            192,
+            198
+          ],
+          [
+            195,
+            194
+          ],
+          [
+            198,
+            191
+          ],
+          [
+            203,
+            189
+          ],
+          [
+            208,
+            188
+          ],
+          [
+            213,
+            189
+          ],
+          [
+            218,
+            191
+          ],
+          [
+            221,
+            194
+          ],
+          [
+            224,
+            198
+          ],
+          [
+            226,
+            202
+          ]
+        ],
+        [
+          [
+            1025,
+            403
+          ],
+          [
+            1024,
+            408
+          ],
+          [
+            1023,
+            412
+          ],
+          [
+            1020,
+            416
+          ],
+          [
+            1016,
+            419
+          ],
+          [
+            1012,
+            420
+          ],
+          [
+            1007,
+            421
+          ],
+          [
+            1002,
+            420
+          ],
+          [
+            998,
+            419
+          ],
+          [
+            994,
+            416
+          ],
+          [
+            991,
+            412
+          ],
+          [
+            990,
+            408
+          ],
+          [
+            989,
+            403
+          ],
+          [
+            990,
+            398
+          ],
+          [
+            991,
+            394
+          ],
+          [
+            994,
+            390
+          ],
+          [
+            998,
+            387
+          ],
+          [
+            1002,
+            386
+          ],
+          [
+            1007,
+            385
+          ],
+          [
+            1012,
+            386
+          ],
+          [
+            1016,
+            387
+          ],
+          [
+            1020,
+            390
+          ],
+          [
+            1023,
+            394
+          ],
+          [
+            1024,
+            398
+          ]
+        ],
+        [
+          [
+            459,
+            991
+          ],
+          [
+            458,
+            996
+          ],
+          [
+            457,
+            1000
+          ],
+          [
+            454,
+            1004
+          ],
+          [
+            450,
+            1007
+          ],
+          [
+            446,
+            1008
+          ],
+          [
+            441,
+            1009
+          ],
+          [
+            436,
+            1008
+          ],
+          [
+            432,
+            1007
+          ],
+          [
+            428,
+            1004
+          ],
+          [
+            425,
+            1000
+          ],
+          [
+            424,
+            996
+          ],
+          [
+            423,
+            991
+          ],
+          [
+            424,
+            986
+          ],
+          [
+            425,
+            982
+          ],
+          [
+            428,
+            978
+          ],
+          [
+            432,
+            975
+          ],
+          [
+            436,
+            974
+          ],
+          [
+            441,
+            973
+          ],
+          [
+            446,
+            974
+          ],
+          [
+            450,
+            975
+          ],
+          [
+            454,
+            978
+          ],
+          [
+            457,
+            982
+          ],
+          [
+            458,
+            986
+          ]
+        ]
+      ]
+    },
+    "assets/images/sudan_spink21001/1332_republic_rhino_neck_badge.jpg": {
+      "approved": true,
+      "sourceSize": [
+        797,
+        1200
+      ],
+      "sourceBytes": 162494,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-dark",
+      "maximum": 8,
+      "chroma": 8,
+      "review": "Conservative exterior-connected dark8/chroma8 matte. Complete visible medal, suspension and textile compared against source; no RGB editing."
+    },
+    "assets/images/mena_round7/medalbook-sudan-3ddcb35c061e180e.png": {
+      "approved": true,
+      "sourceSize": [
+        339,
+        348
+      ],
+      "sourceBytes": 111456,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-dark",
+      "maximum": 8,
+      "chroma": 8,
+      "review": "Conservative exterior-connected dark8/chroma8 matte. Complete visible medal, suspension and textile compared against source; no RGB editing."
+    },
+    "assets/images/sudan_commons_variants/sdn-commons-upgrade-mena7-order-of-merit-of-the-sudanese-republic-c7eed759bfc1-1.jpg": {
+      "approved": true,
+      "sourceSize": [
+        250,
+        535
+      ],
+      "sourceBytes": 48388,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "minimum": 240,
+      "chroma": 32,
+      "keepPolygons": [
+        [
+          [
+            22,
+            0
+          ],
+          [
+            227,
+            0
+          ],
+          [
+            228,
+            246
+          ],
+          [
+            21,
+            246
+          ]
+        ]
+      ],
+      "review": "Exterior-connected near-white matte with entire source-cropped textile protected. Original ribbon clipping remains labeled. No RGB editing or source upscaling."
     }
   }
 }
