@@ -2543,6 +2543,39 @@
       "sourceBytes": 11425,
       "reviewedAt": "2026-10-12",
       "review": "Native full-size original compared. Complete ribbon, hardware, medal rim and inscriptions retained; visible mobilisation ribbon frays preserved. Exterior-connected dark matte only; original RGB unchanged. No watermark present in source."
+    },
+    "assets/images/egypt_medals_org_republic/military-duty-class-3-02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        129,
+        250
+      ],
+      "sourceBytes": 10740,
+      "reviewedAt": "2026-10-12",
+      "review": "Native original compared. Dark suspension crossbar protected explicitly; complete ribbon, medal rim and inscriptions retained. Exterior-connected dark matte24/24 only; original RGB unchanged.",
+      "keepPolygons": [
+        [
+          [
+            6,
+            98
+          ],
+          [
+            122,
+            98
+          ],
+          [
+            122,
+            113
+          ],
+          [
+            6,
+            113
+          ]
+        ]
+      ]
     }
   }
 }
