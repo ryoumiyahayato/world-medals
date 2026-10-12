@@ -99,7 +99,9 @@
       "sourceDescription": "中華人民共和國「共和國勳章」，由中華人民共和國主席根據中華人民共和國全國人民代表大會常務委員會決定，向在中國特色社會主義建設和保衛國家中作出巨大貢獻、建立卓越功勳的傑出人士授予勳章，簽發證書。",
       "license": "CC BY 4.0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
-      "reason": "Self-published SVG badge drawing; no evidence that it is an official awarded-object photograph."
+      "reason": "Self-published SVG badge drawing; no evidence that it is an official awarded-object photograph.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing Commons file page still identifies uploader own-work SVG, not an institutional official design or object photograph."
     },
     "中国_七一勋章": {
       "status": "blocked-source-ribbon-cut",
@@ -109,7 +111,9 @@
       "sourceDescription": "Der Orden des 1. Juli von der VR China. \"Mit dem Orden sollen Mitglieder der KP Chinas feierlich geehrt werden, die herausragende Leistungen für die Partei und das Volk erbracht und wertvolle geistige Werte geschaffen haben. Die ersten 29 Orden-Empfänger kommen aus allen Gesellschaftsschichten Chinas.\n\nXi Jinping hat während der Zeremonie eine wichtige Rede gehalten. Er wies darauf hin, dass in den vergangenen 100 Jahren Generationen von chinesischen Kommunisten hart für die nationale Unabhängigkeit und die Befreiung des Volkes sowie für den nationalen Wohlstand und das Glück des Volkes gearbeitet und heroische Lieder geschrieben haben. Alle Parteimitglieder sollten darauf bestehen, den ursprünglichen Zielen treuzubleiben.\n\nEr betonte, die chinesischen Kommunisten müssten immer das Volk im Herzen haben, beharrlich praktische und gute Arbeit für die Massen leisten und immer die engste Verbindung mit dem Volk aufrechterhalten. Nur mit Charakterstärke könnten die Kommunisten die Herzen des Volkes gewinnen. Alle Parteigenossen müssten sauber und ehrlich bleiben, unbestechlich arbeiten, um ihre politische Integrität zu wahren. Er sagte, dass die neue Ära eine Phase sei, die Helden brauche und diese sicherlich hervorbringen könne. Die Kommunistische Partei Chinas müsse immer der Wegbereiter der Zeit und das Rückgrat der Nation bleiben, um das Ziel „Zweimal hundert Jahre“ zu verwirklichen. Demzufolge soll der Aufbau einer Gesellschaft mit bescheidenem Wohlstand zum hundertjährigen Bestehen der Partei umfassend vollendet und der Aufbau eines wohlhabenden, mächtigen, demokratischen, zivilisierten und harmonischen modernen sozialistischen Landes zum hundertjährigen Bestehen der Volksrepublik China, also im Jahr 2049, realisiert werden.\" (China Radio International)",
       "license": "Public domain",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
-      "reason": "Neck ribbon extends beyond the top edge of the source image; cannot certify a complete image."
+      "reason": "Neck ribbon extends beyond the top edge of the source image; cannot certify a complete image.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing source retained: upper neck ribbon is cut by the source border. No complete same-source view found in existing records."
     },
     "中国_八一勋章_军委2017版": {
       "status": "blocked-new-family-record",
@@ -119,7 +123,9 @@
       "sourceDescription": "Military order.",
       "license": "CC BY-SA 4.0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
-      "reason": "Exhibition photograph supports the object view; establishment and version facts require an institutional record before a new family is inserted."
+      "reason": "Exhibition photograph supports the object view; establishment and version facts require an institutional record before a new family is inserted.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing exhibition image records remain insufficient for institutional establishment/version evidence. No new award family created."
     },
     "德意志民主共和国_德意志民主共和国英雄金星奖章": {
       "status": "confirmed-family-reference",
@@ -280,7 +286,9 @@
       "sourceDescription": "Национальный орден Плайя-Хирон 1971г.",
       "license": "CC BY-SA 3.0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
-      "reason": "Order of Playa Giron is not the 1961 battle commemorative medal; do not merge. Institutional record and family registration remain required."
+      "reason": "Order of Playa Giron is not the 1961 battle commemorative medal; do not merge. Institutional record and family registration remain required.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing Commons description identifies a distinct national order and gives 1971; it does not validate the supplied 1961 establishment claim. No merge or new family."
     },
     "古巴_卡米洛·西恩富戈斯勋章": {
       "status": "blocked-source-crop",
@@ -291,7 +299,9 @@
       "license": "CC BY-SA 3.0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
       "family": "CUB-ORDER_OF_CAMILO_CIENFUEGOS",
-      "reason": "Source shows a cropped badge with a separate ribbon-bar graphic; complete badge outline is unavailable."
+      "reason": "Source shows a cropped badge with a separate ribbon-bar graphic; complete badge outline is unavailable.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing cached object view remains cropped; live Commons page could not be retrieved with the current web tool. No substitute source added."
     },
     "古巴_军事功绩勋章": {
       "status": "blocked-historical-system",
@@ -301,7 +311,9 @@
       "sourceDescription": "The 4th class cross of the Cuban order of military merit",
       "license": "CC0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
-      "reason": "Source identifies a fourth-class Cuban military-merit cross for good conduct. Do not merge into socialist-era awards without regime/date evidence."
+      "reason": "Source identifies a fourth-class Cuban military-merit cross for good conduct. Do not merge into socialist-era awards without regime/date evidence.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing cached Commons description states fourth-class good-conduct cross without regime or date evidence; live page unavailable in current web tool. Socialist-era attribution remains unsupported."
     },
     "罗马尼亚_罗马尼亚社会主义共和国英雄金星奖章": {
       "status": "confirmed-family-reference",
@@ -376,7 +388,9 @@
       "license": "CC BY-SA 3.0",
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
       "family": "V025-ROU-ORDER_OF_TUDOR_VLADIMIRESKU",
-      "reason": "Source description says Order Tudor Vladimirescu but does not state class; filename numeral alone does not establish first class."
+      "reason": "Source description says Order Tudor Vladimirescu but does not state class; filename numeral alone does not establish first class.",
+      "recheckedAt": "2026-10-12",
+      "recheck": "Existing Commons page still names the order only. Filename numeral does not establish first class."
     },
     "罗马尼亚_劳动勋章_一级实物": {
       "status": "confirmed-grade-view",

@@ -29,3 +29,6 @@ v0.030：7,311项完成缩略总览和局部遮罩分析，30张新增背景处�
 本地逐项清单位于 `mobile/build/background-continuation/dispositions.json`、`mobile/build/recovery/failure-dispositions.json` 和 `data/display_images/material_resolutions.json`。只向Release上传HTML ZIP、APK、SHA256SUMS和release-info；处理预览、模型、原素材及含工作站路径的内部清单不上传。
 
 v0.031保留上述处理结果，并将两条参考图的“另一件实物”改为“来源参考图正面”。不同照片来源不能证明实物不同；不移动已发布的v0.030标签。
+
+
+v0.032：接续v0.031既定背景队列，34张逐件原尺寸对照后，6张启用既有242/12外沿连通浅色规则；28张因低清边界、图式背景、来源字样或阴影继续保留原展示。累计71张背景规则，7,258张遮罩仍未获准。未启用模型遮罩，未新增章种或版型。7条候选与3条失败项仅回看既有证据，仍阻塞；两条原图地址在2026-10-12再次返回404。原图和旧未提交修改保留。

@@ -889,6 +889,84 @@
         ]
       ],
       "review": "Full-resolution original/mask comparison. Protect white ribbon fabric using reviewed source coordinates; retain a small pale halo rather than clip fabric. RGB unchanged. Low-resolution source not enlarged."
+    },
+    "assets/images/medalbook_brunei/000_armed-forces-service-medal-1_01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        348,
+        348
+      ],
+      "sourceBytes": 14265,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/images/medalbook_malaysia/202_02.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        383,
+        750
+      ],
+      "sourceBytes": 52595,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/images/medalbook_malaysia/202_01.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        185,
+        348
+      ],
+      "sourceBytes": 12783,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/images/medalbook_indonesia/041_02.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        348,
+        348
+      ],
+      "sourceBytes": 13503,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/images/italy_medalbook_pack5_2026-09-26/it-koi-046-v21-view-1-daa7166fb813.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        464,
+        348
+      ],
+      "sourceBytes": 25745,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
+    },
+    "assets/raw/german_deutschen_20260929/38adc660b0c5f99b6961ebb3057b935dfaae52df383144c2405e10ce2fb75736.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        693,
+        1000
+      ],
+      "sourceBytes": 225034,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Individually compared native-resolution source, deterministic edge matte and removed-pixel overlay. Complete badge tips, ribbon fabric, suspension and inscriptions retained; no source mark removed. RGB unchanged. Model suggestion not used; small source shadows retained."
     }
   }
 }
