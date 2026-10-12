@@ -1877,6 +1877,214 @@
       "reviewedAt": "2026-10-12",
       "kind": "edge-connected-light",
       "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 217 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7367_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        374,
+        363
+      ],
+      "sourceBytes": 15342,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and deletion overlay plus Kuenker 299 PDF page228 compared. Star points, ball terminals, pin, ribbon and clasp preserved. Existing maker/material/source-condition statements retained. No RGB editing, restoration or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7367_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        370,
+        359
+      ],
+      "sourceBytes": 11739,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and deletion overlay plus Kuenker 299 PDF page228 compared. Star points, ball terminals, pin, ribbon and clasp preserved. Existing maker/material/source-condition statements retained. No RGB editing, restoration or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7369_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        356,
+        449
+      ],
+      "sourceBytes": 26937,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and deletion overlay plus Kuenker 299 PDF page228 compared. Star points, ball terminals, pin, ribbon and clasp preserved. Existing maker/material/source-condition statements retained. No RGB editing, restoration or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7376_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        350,
+        335
+      ],
+      "sourceBytes": 15601,
+      "kind": "edge-connected-light",
+      "reviewedAt": "2026-10-12",
+      "review": "Native original/matte/deleted-pixel overlay compared with PDF page231; star points, ball terminals and pin retained. No RGB editing or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7376_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        357,
+        341
+      ],
+      "sourceBytes": 13222,
+      "kind": "edge-connected-light",
+      "reviewedAt": "2026-10-12",
+      "review": "Native original/matte/deleted-pixel overlay compared with PDF page231; star points, ball terminals and pin retained. No RGB editing or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7377_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        345,
+        335
+      ],
+      "sourceBytes": 10127,
+      "kind": "edge-connected-light",
+      "reviewedAt": "2026-10-12",
+      "review": "Native original/matte/deleted-pixel overlay compared with PDF page231; star points, ball terminals and pin retained. No RGB editing or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7381_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        228,
+        263
+      ],
+      "sourceBytes": 15643,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7381_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        230,
+        262
+      ],
+      "sourceBytes": 15963,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch6/lot_7382_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        230,
+        229
+      ],
+      "sourceBytes": 11743,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch6/lot_7382_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        229,
+        229
+      ],
+      "sourceBytes": 11442,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7379_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        404,
+        401
+      ],
+      "sourceBytes": 34621,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7379_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        405,
+        402
+      ],
+      "sourceBytes": 37381,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7380_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        405,
+        401
+      ],
+      "sourceBytes": 34051,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7380_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        406,
+        402
+      ],
+      "sourceBytes": 34011,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay compared with Kuenker299 PDF pages232/233; complete rims, loop and inscriptions retained. No RGB editing, synthesis or model mask; stable object IDs and source filenames preserved."
+    },
+    "assets/images/egypt_medals_org/bravery_1913_obverse.jpg": {
+      "approved": true,
+      "maximum": 8,
+      "chroma": 6,
+      "sourceSize": [
+        162,
+        250
+      ],
+      "sourceBytes": 13452,
+      "kind": "edge-connected-dark",
+      "reviewedAt": "2026-10-12",
+      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains."
+    },
+    "assets/images/egypt_medals_org/bravery_1913_reverse.jpg": {
+      "approved": true,
+      "maximum": 8,
+      "chroma": 6,
+      "sourceSize": [
+        167,
+        250
+      ],
+      "sourceBytes": 11297,
+      "kind": "edge-connected-dark",
+      "reviewedAt": "2026-10-12",
+      "review": "Native original/matte/deletion overlay checked. Exterior-connected near-black only; metal suspension scrolls, loop and inscriptions retained. Source ribbon top retained as provided; no reconstruction or RGB changes. Low-resolution reference remains."
     }
   }
 }

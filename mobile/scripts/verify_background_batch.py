@@ -1,26 +1,28 @@
 """Focused verification of the explicitly reviewed background rules."""
-import json
+import argparse,json
 from pathlib import Path
 from PIL import Image,ImageOps,ImageChops
-from background_trim import load_rules,remove_edge_light
+from background_trim import load_rules,apply_rule
 from prepare_display import material_root
 
 ROOT=Path(__file__).resolve().parents[2]
 
-def verify():
+def verify(only=None):
     rules=load_rules(ROOT);materials=material_root(ROOT)
     mapping=json.loads((ROOT/'mobile/build/image-provenance.json').read_text(encoding='utf-8'))
     count=0
     for relative,rule in rules.items():
+        if only and relative not in only:continue
         if rule.get('approved') is not True:continue
         with Image.open(materials/relative) as source:
             original=ImageOps.exif_transpose(source).convert('RGBA')
-            processed=remove_edge_light(original,rule['minimum'],rule['chroma'],rule.get('keepPolygons'))
+            processed=apply_rule(original,rule)
         assert processed.convert('RGB').tobytes()==original.convert('RGB').tobytes(),relative
         red,green,blue=original.convert('RGB').split()
         low=ImageChops.darker(ImageChops.darker(red,green),blue)
         high=ImageChops.lighter(ImageChops.lighter(red,green),blue)
-        protected=ImageChops.lighter(low.point(lambda v:255 if v<rule['minimum'] else 0),
+        tonal = high.point(lambda v:255 if v>rule['maximum'] else 0) if rule.get('kind')=='edge-connected-dark' else low.point(lambda v:255 if v<rule['minimum'] else 0)
+        protected=ImageChops.lighter(tonal,
                       ImageChops.subtract(high,low).point(lambda v:255 if v>rule['chroma'] else 0))
         removed=ImageChops.subtract(original.getchannel('A'),processed.getchannel('A'))
         assert ImageChops.multiply(protected,removed).getbbox() is None,relative
@@ -35,4 +37,7 @@ def verify():
         count+=1
     print(json.dumps({'reviewedBackgroundImages':count,'retainedRGB':'unchanged','protectedPixels':'retained','displayDecodeAndMargins':'passed'}))
 
-if __name__=='__main__':verify()
+if __name__=='__main__':
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--only',nargs='+',help='Check only these source-relative paths')
+    verify(parser.parse_args().only)

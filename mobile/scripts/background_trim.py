@@ -1,6 +1,20 @@
 """Reviewed deterministic matte removal. No image synthesis or recolouring."""
 import json
-from PIL import Image, ImageChops, ImageDraw
+from PIL import Image, ImageChops, ImageDraw, ImageOps
+
+def remove_edge_dark(frame, maximum=8, chroma=6, keep_polygons=None):
+    """Remove only reviewed exterior-connected near-black pixels."""
+    inverted = ImageOps.invert(frame.convert('RGB')).convert('RGBA')
+    inverted.putalpha(frame.convert('RGBA').getchannel('A'))
+    matte = remove_edge_light(inverted, 255-maximum, chroma, keep_polygons)
+    result = frame.convert('RGBA')
+    result.putalpha(matte.getchannel('A'))
+    return result
+
+def apply_rule(frame, rule):
+    if rule.get('kind') == 'edge-connected-dark':
+        return remove_edge_dark(frame, rule['maximum'], rule['chroma'], rule.get('keepPolygons'))
+    return remove_edge_light(frame, rule['minimum'], rule['chroma'], rule.get('keepPolygons'))
 
 def load_rules(root):
     path=root/'data/display_images/background_rules.json'
