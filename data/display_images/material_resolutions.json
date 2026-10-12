@@ -125,7 +125,9 @@
       "scope": "Family/view association only. Material and unsupported subtype claims are not adopted.",
       "reason": "Exhibition photograph supports the object view; establishment and version facts require an institutional record before a new family is inserted.",
       "recheckedAt": "2026-10-12",
-      "recheck": "Existing exhibition image records remain insufficient for institutional establishment/version evidence. No new award family created."
+      "recheck": "Existing Commons object page reopened: 2019-12-03 exhibition photograph by N509FZ, CC BY-SA 4.0. Its metadata identifies an example (例). Establishment/version institutional evidence still required. No new award family created.",
+      "imageNature": "Exhibition example; source metadata short title reads 八一勋章（例）. Not evidence of an individually awarded specimen.",
+      "sourceRevision": "1121543101"
     },
     "德意志民主共和国_德意志民主共和国英雄金星奖章": {
       "status": "confirmed-family-reference",

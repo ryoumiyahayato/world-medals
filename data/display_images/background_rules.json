@@ -1617,6 +1617,266 @@
       "reviewedAt": "2026-10-12",
       "kind": "edge-connected-light",
       "review": "Native original/matte/removed-pixel overlay and Kuenker 299 PDF page 208 compared. Full ribbon, suspension, medal and inscriptions retained. No watermark or RGB edited. Low source resolution not enlarged."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7327_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        359,
+        405
+      ],
+      "sourceBytes": 37558,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 209. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch2/lot_7327_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        239,
+        269
+      ],
+      "sourceBytes": 18417,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 209. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7332_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        279,
+        278
+      ],
+      "sourceBytes": 17713,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 211. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7332_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        279,
+        278
+      ],
+      "sourceBytes": 19606,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 211. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7333_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        273,
+        271
+      ],
+      "sourceBytes": 18512,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 211. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7333_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        273,
+        272
+      ],
+      "sourceBytes": 20584,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original, matte and removed-pixel comparison plus Kuenker 299 PDF page 211. Complete contour and inscriptions retained. No RGB edits or model mask. Source low resolution retained."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7337_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        175,
+        305
+      ],
+      "sourceBytes": 12728,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 213 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7337_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        175,
+        311
+      ],
+      "sourceBytes": 12748,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 213 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7339_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        167,
+        300
+      ],
+      "sourceBytes": 10729,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 214 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7339_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        167,
+        305
+      ],
+      "sourceBytes": 11478,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 214 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7340_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        167,
+        164
+      ],
+      "sourceBytes": 8374,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 214 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7340_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        167,
+        164
+      ],
+      "sourceBytes": 8684,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 214 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7343_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        180,
+        417
+      ],
+      "sourceBytes": 14962,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 215 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7343_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        189,
+        337
+      ],
+      "sourceBytes": 13942,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 215 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7346_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        171
+      ],
+      "sourceBytes": 6851,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 216 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7346_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        170
+      ],
+      "sourceBytes": 6892,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 216 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7347_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        172,
+        170
+      ],
+      "sourceBytes": 8512,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 216 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7347_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        172,
+        169
+      ],
+      "sourceBytes": 8291,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 216 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7348_front.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        152
+      ],
+      "sourceBytes": 7641,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 217 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
+    },
+    "assets/images/ottoman_kuenker299_batch5/lot_7348_back.jpg": {
+      "approved": true,
+      "minimum": 242,
+      "chroma": 12,
+      "sourceSize": [
+        153,
+        152
+      ],
+      "sourceBytes": 7331,
+      "reviewedAt": "2026-10-12",
+      "kind": "edge-connected-light",
+      "review": "Native original/matte/deletion overlay and existing Kuenker 299 PDF page 217 compared. Preserve object contour, hardware and inscriptions; existing removed-loop or reversed-assembly attributes retained. No RGB edits, upscaling or model mask."
     }
   }
 }
