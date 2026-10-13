@@ -60,6 +60,12 @@ def package():
                               'Device installation is not verified unless separately reported.']}
     summary=ROOT/'mobile/build/background-continuation/summary.json'
     if summary.exists():metadata['backgroundReview']=json.loads(summary.read_text(encoding='utf-8'))
+    from background_trim import load_rules
+    rules = load_rules(ROOT)
+    approved = [rule for rule in rules.values() if rule.get('approved') is True]
+    metadata['approvedBackgroundRules'] = len(approved)
+    metadata['reviewedAlphaRunRules'] = sum(rule.get('kind') == 'reviewed-runs' for rule in approved)
+    metadata['imageAlgorithm'] += '; reviewed-runs retain frozen per-source alpha coordinates and original RGB'
     (ROOT/'mobile/build/release-info.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2),encoding='utf-8')
     lines=[]
     for path in (archive,apk):
