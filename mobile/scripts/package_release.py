@@ -26,8 +26,9 @@ def desktop():
                 caption=figure.find('figcaption')
                 if caption is None:
                     caption=soup.new_tag('figcaption');figure.append(caption)
-                caption.append(' · 背景已处理')
-                if max(entry['processing']['sourceSize']) < 768:
+                if '背景已处理' not in caption.get_text():
+                    caption.append(' · 背景已处理')
+                if max(entry['processing']['sourceSize']) < 768 and '低清参考' not in caption.get_text():
                     caption.append(' · 低清参考')
     for script in soup.find_all('script'):
         if script.string:
