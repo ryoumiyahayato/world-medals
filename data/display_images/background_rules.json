@@ -18228,6 +18228,156 @@
       "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
       "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh026.htm",
       "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/038_parliamentary-election-2001-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        142,
+        250
+      ],
+      "sourceBytes": 11565,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh039.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/037_operation-naf-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        158,
+        250
+      ],
+      "sourceBytes": 13191,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh038.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/037_operation-naf-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        157,
+        250
+      ],
+      "sourceBytes": 12985,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh038.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/039_parliamentary-election-2008-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        142,
+        250
+      ],
+      "sourceBytes": 10258,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh040.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/039_parliamentary-election-2008-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        141,
+        250
+      ],
+      "sourceBytes": 10724,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh040.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/040_parliamentary-election-2014-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        144,
+        250
+      ],
+      "sourceBytes": 11477,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh041.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/040_parliamentary-election-2014-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        144,
+        250
+      ],
+      "sourceBytes": 11019,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh041.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/041_parliamentary-election-2018-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        147,
+        250
+      ],
+      "sourceBytes": 11151,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh042.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/041_parliamentary-election-2018-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        148,
+        250
+      ],
+      "sourceBytes": 11663,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh042.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/044_golden-jubilee-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        142,
+        250
+      ],
+      "sourceBytes": 13252,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh045.htm",
+      "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
     }
   }
 }
