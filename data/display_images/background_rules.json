@@ -17838,6 +17838,396 @@
       ],
       "retainedRuns": [[[9,134]],[[9,135]],[[9,135]],[[9,134]],[[9,135]],[[9,134]],[[9,134]],[[9,135]],[[9,135]],[[9,134]],[[8,135]],[[9,134]],[[9,134]],[[9,134]],[[9,135]],[[9,134]],[[9,135]],[[9,134]],[[9,135]],[[9,134]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,135]],[[9,134]],[[9,134]],[[9,134]],[[9,135]],[[9,135]],[[8,135]],[[9,135]],[[9,134]],[[9,134]],[[8,134]],[[9,134]],[[9,135]],[[8,134]],[[8,134]],[[9,134]],[[9,134]],[[9,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[7,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,9],[11,118],[120,121],[122,134]],[[10,12],[48,94],[129,130]],[[54,90]],[[57,87]],[[58,86]],[[59,85]],[[60,84]],[[61,83]],[[61,82]],[[62,82]],[[62,81]],[[63,82]],[[62,80]],[[63,80]],[[64,80]],[[64,80]],[[64,80]],[[64,80]],[[64,80]],[[64,80]],[[64,80]],[[63,80]],[[63,80]],[[63,82]],[[62,81]],[[62,82]],[[61,82]],[[60,83]],[[59,84]],[[58,86]],[[56,87]],[[54,89]],[[52,92]],[[50,93]],[[49,95]],[[49,95]],[[48,96]],[[48,96]],[[48,96]],[[48,96]],[[48,96]],[[48,96]],[[47,96]],[[46,96]],[[47,96]],[[46,97]],[[46,97]],[[44,99]],[[42,100]],[[41,103]],[[38,104]],[[37,106]],[[35,107]],[[34,109]],[[32,110]],[[31,113]],[[29,114]],[[27,116]],[[25,118]],[[24,119]],[[22,121]],[[21,123]],[[19,125]],[[16,127]],[[15,128]],[[13,130]],[[12,131]],[[11,133]],[[10,134]],[[9,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,136]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[8,135]],[[9,135]],[[10,135]],[[11,134]],[[12,133]],[[13,133]],[[14,131]],[[16,129]],[[18,127]],[[19,126]],[[21,124]],[[22,123]],[[24,121]],[[26,119]],[[28,118]],[[29,116]],[[31,114]],[[33,114]],[[34,111]],[[36,109]],[[38,107]],[[39,107]],[[41,104],[105,106]],[[41,103]],[[44,101]],[[46,99]],[[47,98]],[[49,96]],[[51,94]],[[52,92]],[[54,91]],[[54,55],[56,89]],[[57,87]],[[59,86]],[[60,84]],[[62,82]],[[64,80]],[[66,78]],[[67,76]],[[70,71],[72,73]],[],[],[],[]],
       "reviewedAt": "2026-10-13"
+    },
+    "assets/images/medals_org_bangladesh/044_golden-jubilee-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        142,
+        250
+      ],
+      "sourceBytes": 13511,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh045.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/042_parliamentary-election-2024-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        150,
+        250
+      ],
+      "sourceBytes": 10321,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh043.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/042_parliamentary-election-2024-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        150,
+        250
+      ],
+      "sourceBytes": 10411,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh043.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/024_air-force-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        171,
+        250
+      ],
+      "sourceBytes": 14354,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh025.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/024_air-force-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        172,
+        250
+      ],
+      "sourceBytes": 13915,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh025.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/022_army-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        149,
+        250
+      ],
+      "sourceBytes": 12462,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh023.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/022_army-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        149,
+        250
+      ],
+      "sourceBytes": 12429,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh023.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/027_army-medal-of-glory_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        172,
+        250
+      ],
+      "sourceBytes": 10936,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh028.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/027_army-medal-of-glory_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        171,
+        250
+      ],
+      "sourceBytes": 11857,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh028.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/029_distinguished-flying-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        183,
+        250
+      ],
+      "sourceBytes": 13055,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh030.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/029_distinguished-flying-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        174,
+        250
+      ],
+      "sourceBytes": 12242,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh030.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_air-force_06.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        160,
+        250
+      ],
+      "sourceBytes": 11378,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_air-force_07.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        160,
+        250
+      ],
+      "sourceBytes": 11170,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_army_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        170,
+        250
+      ],
+      "sourceBytes": 11346,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_army_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        162,
+        250
+      ],
+      "sourceBytes": 11262,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_navy_04.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        164,
+        250
+      ],
+      "sourceBytes": 11408,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/031_navy_05.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        168,
+        250
+      ],
+      "sourceBytes": 11678,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh032.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_air-force_06.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        163,
+        250
+      ],
+      "sourceBytes": 13286,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_air-force_07.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        165,
+        250
+      ],
+      "sourceBytes": 12498,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_army_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        170,
+        250
+      ],
+      "sourceBytes": 13860,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_army_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        166,
+        250
+      ],
+      "sourceBytes": 12913,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_navy_04.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        168,
+        250
+      ],
+      "sourceBytes": 12994,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/030_navy_05.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        170,
+        250
+      ],
+      "sourceBytes": 13085,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh031.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/025_tri-service_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        186,
+        250
+      ],
+      "sourceBytes": 12051,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh026.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/025_tri-service_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        145,
+        250
+      ],
+      "sourceBytes": 11972,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh026.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
+    },
+    "assets/images/medals_org_bangladesh/025_tri-service_05.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        148,
+        250
+      ],
+      "sourceBytes": 12456,
+      "reviewedAt": "2026-10-13",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh026.htm",
+      "note": "Remove only exterior-connected neutral near-black pixels. Retain ribbon texture, metal suspension, rays and inscriptions. Source ribbon upper edge is cropped; no reconstruction. Low-resolution reference."
     }
   }
 }
