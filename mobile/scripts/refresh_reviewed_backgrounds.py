@@ -21,22 +21,25 @@ def refresh(only=None):
         previous=entry['src']
         processed=prepare(materials/relative,OUT,relative,False,rule)
         entry.update(src=processed['detail'],thumb=processed['thumb'],processing=processed)
-        captions[previous]=(entry['src'],entry['thumb'],max(processed['sourceSize'])<768)
+        captions[previous]=(entry['src'],entry['thumb'],max(processed['sourceSize'])<768,processed['status'])
     path=OUT/'catalog.js';raw=path.read_text(encoding='utf-8')
     data=json.loads(raw[len('window.CATALOG='):-1])
     row_ids=[row['id'] for row in data['rows']]
     for row in data['rows']:
         for photo in row['photos']:
             if photo['src'] in captions:
-                photo['src'],photo['thumb'],low=captions[photo['src']]
-                if '背景已处理' not in photo['caption']:photo['caption']+=' · 背景已处理'
+                photo['src'],photo['thumb'],low,status=captions[photo['src']]
+                if status=='crop-reviewed':
+                    for label in ('裁去冗余画布','原背景保留'):
+                        if label not in photo['caption']:photo['caption']+=' · '+label
+                elif '背景已处理' not in photo['caption']:photo['caption']+=' · 背景已处理'
                 if low and '低清参考' not in photo['caption']:photo['caption']+=' · 低清参考'
     assert row_ids==[row['id'] for row in data['rows']]
     path.write_text('window.CATALOG='+json.dumps(data,ensure_ascii=False).replace('</','<\\/')+';',encoding='utf-8')
     mapping_path.write_text(json.dumps(mapping,ensure_ascii=False,indent=2),encoding='utf-8')
     (OUT/'image-provenance.json').write_bytes(mapping_path.read_bytes())
     report_path=ROOT/'mobile/build/export-report.json';report=json.loads(report_path.read_text())
-    report.update(catalogueVersion=data['version'],reviewedBackgrounds=sum(rule.get('approved') is True for rule in rules.values()),imageBytes=sum(p.stat().st_size for p in (OUT/'images').rglob('*.webp')))
+    report.update(catalogueVersion=data['version'],reviewedBackgrounds=sum(rule.get('approved') is True and rule.get('kind')!='crop-only' for rule in rules.values()),reviewedCrops=sum(rule.get('approved') is True and rule.get('kind')=='crop-only' for rule in rules.values()),imageBytes=sum(p.stat().st_size for p in (OUT/'images').rglob('*.webp')))
     report_path.write_text(json.dumps(report,indent=2),encoding='utf-8')
     print(json.dumps(report))
 

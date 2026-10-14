@@ -12,6 +12,15 @@ def remove_edge_dark(frame, maximum=8, chroma=6, keep_polygons=None):
     return result
 
 def apply_rule(frame, rule):
+    if rule.get('kind') == 'crop-only':
+        x0,y0,x1,y1 = rule['crop']
+        if not all(type(v) is int for v in (x0,y0,x1,y1)) or not 0 <= x0 < x1 <= frame.width or not 0 <= y0 < y1 <= frame.height:
+            raise ValueError('Reviewed crop is outside source')
+        mask=Image.new('L',frame.size,0)
+        ImageDraw.Draw(mask).rectangle((x0,y0,x1-1,y1-1),fill=255)
+        result=frame.convert('RGBA')
+        result.putalpha(ImageChops.multiply(result.getchannel('A'),mask))
+        return result
     if rule.get('kind') == 'reviewed-runs':
         rows = rule['retainedRuns']
         if len(rows) != frame.height:

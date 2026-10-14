@@ -42,7 +42,7 @@ def prepare(path, out, relative, reference=False, background=None):
         frame = canvas
     result = {'sourceSize': size, 'crop': crop, 'margin': margin,
               'referenceReused': reference,
-              'status': 'reference-reused' if reference else 'background-removed-reviewed' if applied_background else 'alpha-trimmed' if transparent else 'opaque-margin-trimmed' if white_margin else 'opaque-background-review'}
+              'status': 'reference-reused' if reference else 'crop-reviewed' if applied_background and background.get('kind')=='crop-only' else 'background-removed-reviewed' if applied_background else 'alpha-trimmed' if transparent else 'opaque-margin-trimmed' if white_margin else 'opaque-background-review'}
     for label, limit, quality in [('thumb', 384, 86), ('detail', 1200, 90)]:
         image = frame.copy()
         image.thumbnail((limit, limit), Image.Resampling.LANCZOS)

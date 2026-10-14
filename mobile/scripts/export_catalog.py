@@ -101,6 +101,9 @@ def export():
                         photos[-1]['caption'] += ' · 背景已处理'
                     if max(images[rel]['processing']['sourceSize']) < 768 and '低清参考' not in photos[-1]['caption']:
                         photos[-1]['caption'] += ' · 低清参考'
+                if images[rel]['processing']['status']=='crop-reviewed':
+                    if '裁去冗余画布' not in photos[-1]['caption']:photos[-1]['caption']+=' · 裁去冗余画布'
+                    if '原背景保留' not in photos[-1]['caption']:photos[-1]['caption']+=' · 原背景保留'
                 if record.get('image_kind')=='user_restored_reference':photos[-1]['reference']=True
                 if images[rel].get('display'):
                     photos[-1]['originalSrc']=images[rel]['src']

@@ -20,6 +20,14 @@ def desktop():
         im['src']=entry['thumb']
         im['data-detail']=entry['src']
         im['loading']='lazy'
+        if entry['processing']['status']=='crop-reviewed':
+            figure=im.find_parent('figure')
+            if figure:
+                caption=figure.find('figcaption')
+                if caption is None:
+                    caption=soup.new_tag('figcaption');figure.append(caption)
+                for label in ('裁去冗余画布','原背景保留'):
+                    if label not in caption.get_text():caption.append(' · '+label)
         if entry['processing']['status']=='background-removed-reviewed':
             figure=im.find_parent('figure')
             if figure:
@@ -64,9 +72,11 @@ def package():
     from background_trim import load_rules
     rules = load_rules(ROOT)
     approved = [rule for rule in rules.values() if rule.get('approved') is True]
-    metadata['approvedBackgroundRules'] = len(approved)
+    metadata['approvedBackgroundRules'] = sum(rule.get('kind')!='crop-only' for rule in approved)
+    metadata['reviewedCropRules'] = sum(rule.get('kind')=='crop-only' for rule in approved)
     metadata['reviewedAlphaRunRules'] = sum(rule.get('kind') == 'reviewed-runs' for rule in approved)
     metadata['imageAlgorithm'] += '; reviewed-runs retain frozen per-source alpha coordinates and original RGB'
+    metadata['imageAlgorithm'] += '; crop-only retains the photographic background inside reviewed bounds and is counted separately'
     build_info=ROOT/'mobile/build/apk-build-info.json'
     if build_info.exists():
         info=json.loads(build_info.read_text(encoding='utf-8'))
