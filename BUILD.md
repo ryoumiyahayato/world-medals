@@ -106,3 +106,36 @@ node mobile/scripts/bounded_preview.cjs "$env:WORLD_MEDALS_MATERIAL_ROOT/origina
 
 
 v0.041：4张背景处理（1张近黑背景、3张浅棕背景），累计737条；另2张仅裁去冗余画布，累计3张裁剪，原背景保留。浅棕背景采用逐张原尺寸审核后冻结的reviewed-runs；水印和周围矩形原背景保留，内部封闭背景及少量轮廓边缘保留，不重绘、不改RGB。6张原图保留，未新增章种或版型行。其余复杂边界继续待核，不以水印弱化的候选替代原图。
+
+## Android模拟器离线检查
+
+本轮使用SDK Command-Line Tools22.0、现有Emulator、API35 default x86_64 revision2和Pixel5配置。按[官方工具下载页](https://developer.android.com/studio)取得命令行工具，解压到SDK的 `cmdline-tools/22.0/`，该目录内应有 `bin/avdmanager.bat`。工具放在项目目录时，avdmanager不能按相对位置找到SDK镜像。
+
+```powershell
+$tools = Join-Path $env:ANDROID_HOME 'cmdline-tools/22.0/bin'
+& (Join-Path $tools 'sdkmanager.bat') "--sdk_root=$env:ANDROID_HOME" 'system-images;android-35;default;x86_64'
+New-Item -ItemType Directory -Force mobile/.local/avd | Out-Null
+$env:ANDROID_AVD_HOME = (Resolve-Path mobile/.local/avd).Path
+$avdPath = Join-Path $env:ANDROID_AVD_HOME 'world_medals_offline_api35.avd'
+& (Join-Path $tools 'avdmanager.bat') create avd -n world_medals_offline_api35 -k 'system-images;android-35;default;x86_64' -d pixel_5 -p $avdPath
+$emulator = Join-Path $env:ANDROID_HOME 'emulator/emulator.exe'
+Start-Process -FilePath $emulator -WindowStyle Hidden -ArgumentList '-avd world_medals_offline_api35 -no-window -no-audio -no-snapshot -no-boot-anim -gpu swiftshader -memory 2048 -cores 2 -port 5560'
+$adb = Join-Path $env:ANDROID_HOME 'platform-tools/adb.exe'
+& $adb -s emulator-5560 wait-for-device
+& $adb -s emulator-5560 shell getprop sys.boot_completed
+```
+
+上一命令返回1后执行：
+
+```powershell
+$edition = (Get-Content mobile/version.json | ConvertFrom-Json).name
+& $adb -s emulator-5560 install -r "mobile/build/world-medals-$edition.apk"
+& $adb -s emulator-5560 shell cmd connectivity airplane-mode enable
+& $adb -s emulator-5560 shell svc wifi disable
+& $adb -s emulator-5560 shell svc data disable
+& $adb -s emulator-5560 shell settings get global airplane_mode_on
+& $adb -s emulator-5560 shell dumpsys connectivity | Select-String 'Active default network'
+& $adb -s emulator-5560 shell am start -W -n org.worldmedals.atlas/.MainActivity
+```
+
+实际检查搜索、缩略图和详情图，不能仅凭启动返回ok判定图片已显示。本轮实际查看Military Brotherhood Medal；原背景保留、低清提示及悬挂结构可见。当前塔吉克正背面在断外网浏览器检查，包内文件与浏览器版本一致；未逐项模拟器检查全部图片。完成后用 `& $adb -s emulator-5560 emu kill` 关闭该模拟器。AVD、系统镜像、截图和工具缓存不提交或发布。实体手机仍未验证。
