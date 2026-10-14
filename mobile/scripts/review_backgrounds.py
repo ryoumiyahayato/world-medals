@@ -86,7 +86,7 @@ def run():
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         for done,result in enumerate(pool.map(process,selected),1):
             if done%100==0:print(json.dumps({'processed':done,'total':len(selected),'lastIndex':result['index']}),flush=True)
-    results=[json.loads(p.read_text(encoding='utf-8')) for p in sorted((OUT/'items').glob('*.json'))]
+    results=[json.loads(p.read_text(encoding='utf-8')) for p in sorted((OUT/'items').glob('[0-9][0-9][0-9][0-9][0-9].json'))]
     (OUT/'dispositions.json').write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'dispositions':len(results),'queue':len(files),'model':bool(session)}))
 
