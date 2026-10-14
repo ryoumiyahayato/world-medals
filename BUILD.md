@@ -10,7 +10,7 @@
 
 ## 完整顺序（PowerShell）
 
-在仓库根目录运行。外部素材目录必须保留索引所指的相对结构，包括 `assets/images/`、`assets/processed/`、`originals/`、`我搜索到的东西/`。不要把素材复制进 Git 索引。
+在仓库根目录运行。外部素材目录必须保留索引所指的相对结构，包括 `assets/images/`、`assets/raw/`、`assets/processed/`、`originals/`、`我搜索到的东西/`。不要把素材复制进 Git 索引。
 
 ```powershell
 py -3.14 -m venv .venv
