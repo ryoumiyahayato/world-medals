@@ -18378,6 +18378,456 @@
       "reviewedBy": "Codex native-size source/candidate comparison",
       "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh045.htm",
       "note": "Exterior-connected near-black removal only; retain ribbon black stripes, suspension and inscriptions. Source ribbon upper edge cropped; no reconstruction."
+    },
+    "assets/images/medals_org_bangladesh/025_tri-service_07.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        144,
+        250
+      ],
+      "sourceBytes": 11291,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh026.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/018_the-foremost-braves_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        214,
+        250
+      ],
+      "sourceBytes": 15182,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh019.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图未示勋带"
+    },
+    "assets/images/medals_org_bangladesh/032_hill-tracts-campaign-medal-upliftment_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        149,
+        250
+      ],
+      "sourceBytes": 14192,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh033.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/032_hill-tracts-campaign-medal-upliftment_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        149,
+        250
+      ],
+      "sourceBytes": 12237,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh033.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/009_hill-tracts-campaign-medal-wildfire_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        158,
+        250
+      ],
+      "sourceBytes": 12342,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh010.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/009_hill-tracts-campaign-medal-wildfire_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        154,
+        250
+      ],
+      "sourceBytes": 11890,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh010.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/019_the-immortal-braves_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        192,
+        250
+      ],
+      "sourceBytes": 12987,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh020.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图未示勋带"
+    },
+    "assets/images/medals_org_bangladesh/020_the-incorruptible-braves_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        195,
+        250
+      ],
+      "sourceBytes": 13095,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh021.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图未示勋带"
+    },
+    "assets/images/medals_org_bangladesh/021_the-indomitable-braves_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        202,
+        250
+      ],
+      "sourceBytes": 15353,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh022.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图未示勋带"
+    },
+    "assets/images/medals_org_bangladesh/013_military-seniority-medal-3_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        164,
+        250
+      ],
+      "sourceBytes": 17482,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh014.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/013_military-seniority-medal-3_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        163,
+        250
+      ],
+      "sourceBytes": 17556,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh014.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/014_military-seniority-medal-2_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        148,
+        250
+      ],
+      "sourceBytes": 14240,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh015.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/014_military-seniority-medal-2_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        148,
+        250
+      ],
+      "sourceBytes": 14413,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh015.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/015_military-seniority-medal-1_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        157,
+        250
+      ],
+      "sourceBytes": 15583,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh016.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/015_military-seniority-medal-1_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        159,
+        250
+      ],
+      "sourceBytes": 14258,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh016.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/023_navy-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        155,
+        250
+      ],
+      "sourceBytes": 13715,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh024.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/023_navy-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        157,
+        250
+      ],
+      "sourceBytes": 13184,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh024.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/028_navy-glorious-service-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        173,
+        250
+      ],
+      "sourceBytes": 10592,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh029.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/028_navy-glorious-service-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        174,
+        250
+      ],
+      "sourceBytes": 10370,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh029.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/005_war-medal_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        147,
+        250
+      ],
+      "sourceBytes": 13834,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh006.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_bangladesh/005_war-medal_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        147,
+        250
+      ],
+      "sourceBytes": 13964,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/bangladesh/bangladesh006.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. 原图勋带触及上缘"
+    },
+    "assets/images/medals_org_sri_lanka/000_supreme-heroism_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        108,
+        250
+      ],
+      "sourceBytes": 10730,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka001.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/000_supreme-heroism_03.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        106,
+        250
+      ],
+      "sourceBytes": 10777,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka001.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/018_son-nation_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        129,
+        250
+      ],
+      "sourceBytes": 11573,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka019.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/018_son-nation_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        125,
+        250
+      ],
+      "sourceBytes": 12406,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka019.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/009_meritorious-service_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        106,
+        250
+      ],
+      "sourceBytes": 12772,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka010.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/009_meritorious-service_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        107,
+        250
+      ],
+      "sourceBytes": 12888,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka010.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/014_civil-war-service_01.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        129,
+        250
+      ],
+      "sourceBytes": 12316,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka015.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/014_civil-war-service_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        123,
+        250
+      ],
+      "sourceBytes": 11671,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka015.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
+    },
+    "assets/images/medals_org_sri_lanka/016_independence-50_02.jpg": {
+      "approved": true,
+      "kind": "edge-connected-dark",
+      "maximum": 24,
+      "chroma": 24,
+      "sourceSize": [
+        117,
+        250
+      ],
+      "sourceBytes": 9632,
+      "reviewedAt": "2026-10-14",
+      "reviewedBy": "Codex native-size source/candidate/deleted-pixel comparison",
+      "sourcePage": "https://www.medals.org.uk/sri-lanka/sri-lanka017.htm",
+      "note": "Exterior-connected neutral near-black only. Native source and deleted pixels checked; preserve ribbon texture, suspension, rays and inscriptions. No RGB reconstruction. "
     }
   }
 }

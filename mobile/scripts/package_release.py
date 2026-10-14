@@ -67,6 +67,13 @@ def package():
     metadata['approvedBackgroundRules'] = len(approved)
     metadata['reviewedAlphaRunRules'] = sum(rule.get('kind') == 'reviewed-runs' for rule in approved)
     metadata['imageAlgorithm'] += '; reviewed-runs retain frozen per-source alpha coordinates and original RGB'
+    build_info=ROOT/'mobile/build/apk-build-info.json'
+    if build_info.exists():
+        info=json.loads(build_info.read_text(encoding='utf-8'))
+        if info.get('artifact')==apk.name and info.get('version',{}).get('name')==version:
+            metadata['apkBuild']=info
+    if 'apkBuild' not in metadata:
+        metadata['limitations'].append('APK source commit was not recorded by this build.')
     (ROOT/'mobile/build/release-info.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2),encoding='utf-8')
     lines=[]
     for path in (archive,apk):

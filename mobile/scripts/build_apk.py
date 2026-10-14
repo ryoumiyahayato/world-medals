@@ -29,6 +29,11 @@ def remove_obsolete_apks(output, *, confirm_permanent_delete=False):
     (root/'apk-cleanup.json').write_text(json.dumps(dict(kept=str(output),removed=removed),indent=2),encoding='utf-8')
     return removed
 def build():
+    try:
+        source_commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True,stderr=subprocess.DEVNULL).strip()
+        source_modified=subprocess.run(['git','diff','--quiet','HEAD','--','mobile','data/release-input.json','data/display_images','assets/site.css'],cwd=ROOT).returncode!=0
+    except (OSError,subprocess.CalledProcessError):
+        source_commit=source_modified=None
     if not os.environ.get('SKIP_EXPORT'): export()
     sdk=Path(os.environ.get('ANDROID_HOME') or os.environ.get('ANDROID_SDK_ROOT') or str(Path.home()/'AppData/Local/Android/Sdk'))
     java=Path(os.environ['JAVA_HOME'])/'bin' if os.environ.get('JAVA_HOME') else Path(shutil.which('java') or '').parent
@@ -94,6 +99,11 @@ def build():
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','verify','--verbose',output])
     sha=hashlib.sha256(output.read_bytes()).hexdigest()
     output.with_suffix('.apk.sha256').write_text(sha+'  '+output.name+'\n')
+    (MOBILE/'build/apk-build-info.json').write_text(json.dumps({
+        'artifact':output.name,'version':ver,'sourceCommit':source_commit,
+        'trackedBuildSourcesModified':source_modified,'androidPlatform':36,
+        'androidBuildTools':bt.name,'apksignerVerification':'passed',
+        'bytes':output.stat().st_size},indent=2),encoding='utf-8')
     # Preserve installers and intermediates. Cleanup is a separate confirmed action.
     removed=[]  # Building or publishing does not authorize permanent deletion.
     print(json.dumps({'obsolete_apk_files_removed':len(removed),'bytes_reclaimed':sum(x['bytes'] for x in removed)}))

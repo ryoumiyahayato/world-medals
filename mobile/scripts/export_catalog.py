@@ -97,8 +97,9 @@ def export():
                 record=images[rel]['provenance']
                 photos.append(dict(src=images[rel]['src'], thumb=images[rel]['thumb'], alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=record.get('source_page',record.get('page_url','')), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
                 if images[rel]['processing']['status']=='background-removed-reviewed':
-                    photos[-1]['caption'] += ' · 背景已处理'
-                    if max(images[rel]['processing']['sourceSize']) < 768:
+                    if '背景已处理' not in photos[-1]['caption']:
+                        photos[-1]['caption'] += ' · 背景已处理'
+                    if max(images[rel]['processing']['sourceSize']) < 768 and '低清参考' not in photos[-1]['caption']:
                         photos[-1]['caption'] += ' · 低清参考'
                 if record.get('image_kind')=='user_restored_reference':photos[-1]['reference']=True
                 if images[rel].get('display'):
