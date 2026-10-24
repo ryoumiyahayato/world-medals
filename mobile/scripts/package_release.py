@@ -8,18 +8,58 @@ from release_input import source
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'mobile/build/site'
 
+def refresh_search_index(soup):
+    prefix = 'window.WORLD_MEDALS_SEARCH='
+    script = next((s for s in soup.find_all('script')
+                   if s.string and s.string.strip().startswith(prefix)), None)
+    if script is None:
+        return {'removed_targets': 0, 'updated_labels': 0}
+    entries = json.loads(script.string.strip()[len(prefix):].rstrip(';'))
+    targets = {node['id'] for node in soup.find_all(id=True)}
+    rows = {}
+    for row in soup.select('section.period-section tr[id]'):
+        cells = row.find_all('td', recursive=False)
+        if len(cells) == 3:
+            rows[row['id']] = ' '.join(cell.get_text(' ', strip=True) for cell in cells[:2]).strip()
+    current, removed, updated = [], 0, 0
+    for entry in entries:
+        target = entry.get('target')
+        if target not in targets:
+            removed += 1
+            continue
+        if target in rows:
+            label = rows[target]
+            text = (label + ' ' + entry.get('context', '')).strip()
+            updated += entry.get('label') != label or entry.get('text') != text
+            entry = dict(entry, label=label, text=text)
+        current.append(entry)
+    script.string = prefix + json.dumps(current, ensure_ascii=False).replace('</', '<\\/') + ';'
+    return {'removed_targets': removed, 'updated_labels': updated}
+
 def desktop():
     raw,_=source(ROOT)
     soup=BeautifulSoup(raw.decode('utf-8'),'html.parser')
+    refresh_search_index(soup)
     mapping=json.loads((ROOT/'mobile/build/image-provenance.json').read_text(encoding='utf-8'))
     for im in soup.select('td.pictures img[src]'):
         relative=im['src']
         entry=mapping.get(relative)
+        if entry and not (OUT/entry['src']).is_file():
+            figure=im.find_parent('figure')
+            if figure: figure.string='Image pending'
+            else: im.decompose()
+            continue
         if not entry: raise ValueError('Missing display mapping: '+relative)
         im['data-original']=relative
         im['src']=entry['thumb']
         im['data-detail']=entry['src']
         im['loading']='lazy'
+        if entry['processing']['status']=='user-ai-display':
+            figure=im.find_parent('figure')
+            if figure:
+                caption=figure.find('figcaption')
+                if caption is None: caption=soup.new_tag('figcaption');figure.append(caption)
+                caption.string='AI处理展示图'
         if entry['processing']['status']=='crop-reviewed':
             figure=im.find_parent('figure')
             if figure:

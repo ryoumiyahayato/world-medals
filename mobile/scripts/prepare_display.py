@@ -1,19 +1,21 @@
 """Read-only source -> conservative alpha trim -> two WebP display sizes."""
-import json, os
+import io, json, os
 from pathlib import Path
 from PIL import Image, ImageOps, ImageChops
 
 def material_root(default):
     return Path(os.environ.get('WORLD_MEDALS_MATERIAL_ROOT', default)).resolve()
 
-def prepare(path, out, relative, reference=False, background=None):
-    with Image.open(path) as source:
+def prepare(path, out, relative, reference=False, background=None, source_bytes=None):
+    image_source = io.BytesIO(source_bytes) if source_bytes is not None else path
+    with Image.open(image_source) as source:
         source.load()
         frame = ImageOps.exif_transpose(source).convert('RGBA')
     size = frame.size
     applied_background = False
     if background and background.get('approved') is True and not reference:
-        if list(size) != background['sourceSize'] or path.stat().st_size != background['sourceBytes']:
+        source_length = len(source_bytes) if source_bytes is not None else path.stat().st_size
+        if list(size) != background['sourceSize'] or source_length != background['sourceBytes']:
             raise ValueError('Reviewed source changed: '+relative)
         from background_trim import apply_rule
         frame = apply_rule(frame, background)

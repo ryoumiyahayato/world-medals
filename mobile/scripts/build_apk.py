@@ -48,6 +48,16 @@ def build():
     res=BUILD/'res';shutil.copytree(MOBILE/'android/res',res,dirs_exist_ok=True)
     shutil.copyfile(MOBILE/'web/icon.png',res/'drawable/icon.png')
     ver=json.loads((MOBILE/'version.json').read_text())
+    catalogue_path=OUT/'catalog.js'
+    catalogue=json.loads(catalogue_path.read_text(encoding='utf-8')[len('window.CATALOG='):-1])
+    catalogue.update(version=ver['name'],appVersion=ver)
+    display_images = {photo[key] for row in catalogue['rows'] for photo in row.get('photos', [])
+                      for key in ('src', 'thumb', 'originalSrc') if photo.get(key)}
+    catalogue['imageCount'] = len({photo['src'] for row in catalogue['rows']
+                                  for photo in row.get('photos', [])})
+    for volume in catalogue['volumes']:
+        volume['count'] = sum(row['volume'] == volume['id'] for row in catalogue['rows'])
+    catalogue_path.write_text('window.CATALOG='+json.dumps(catalogue,ensure_ascii=False).replace('</','<\\/')+';',encoding='utf-8')
     # SKIP_EXPORT must still refresh the UI edition from the canonical version.
     (OUT/'version.js').write_text('window.APP_VERSION='+json.dumps(ver)+';',encoding='utf-8')
     stamp_web_assets()
@@ -74,10 +84,16 @@ def build():
         for p in classes.rglob('*.class'):z.write(p,p.relative_to(classes).as_posix())
     run([jtool('java'),'-cp',bt/'lib/d8.jar','com.android.tools.r8.D8','--lib',platform,'--min-api','26','--output',dex,jar])
     unsigned=BUILD/'unsigned.apk';shutil.copyfile(BUILD/'resources.apk',unsigned)
+    omitted_display_images = 0
     with zipfile.ZipFile(unsigned,'a',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
         for p in dex.glob('*.dex'):z.write(p,p.name)
         for p in OUT.rglob('*'):
-            if p.is_file():z.write(p,'assets/site/'+p.relative_to(OUT).as_posix())
+            if p.is_file():
+                relative = p.relative_to(OUT).as_posix()
+                if relative.startswith(('images/detail/', 'images/thumb/')) and relative not in display_images:
+                    omitted_display_images += 1
+                    continue
+                z.write(p,'assets/site/'+relative)
     run([tool('zipalign'),'-f','-p','4',unsigned,BUILD/'aligned.apk'])
     local=MOBILE/'.local';local.mkdir(exist_ok=True)
     store=Path(os.environ.get('SIGNING_KEYSTORE',local/'atlas.keystore'))
@@ -94,18 +110,17 @@ def build():
     if not store.exists():
         if os.environ.get('CI'):raise RuntimeError('Signing keystore missing')
         run([jtool('keytool'),'-genkeypair','-keystore',store,'-storepass:env','ATLAS_KEY_PASSWORD','-keypass:env','ATLAS_KEY_PASSWORD','-alias',alias,'-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=World Medals Personal Research'],env=env)
-    output=MOBILE/'build'/f'world-medals-{ver["name"]}.apk'
+    output=MOBILE/'build/world-medals-current.apk'
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','sign','--ks',store,'--ks-key-alias',alias,'--ks-pass','env:ATLAS_KEY_PASSWORD','--key-pass','env:ATLAS_KEY_PASSWORD','--out',output,BUILD/'aligned.apk'],env=env)
     run([jtool('java'),'-jar',bt/'lib/apksigner.jar','verify','--verbose',output])
-    sha=hashlib.sha256(output.read_bytes()).hexdigest()
-    output.with_suffix('.apk.sha256').write_text(sha+'  '+output.name+'\n')
     (MOBILE/'build/apk-build-info.json').write_text(json.dumps({
         'artifact':output.name,'version':ver,'sourceCommit':source_commit,
         'trackedBuildSourcesModified':source_modified,'androidPlatform':36,
         'androidBuildTools':bt.name,'apksignerVerification':'passed',
+        'unusedDisplayImagesOmitted':omitted_display_images,
         'bytes':output.stat().st_size},indent=2),encoding='utf-8')
     # Preserve installers and intermediates. Cleanup is a separate confirmed action.
     removed=[]  # Building or publishing does not authorize permanent deletion.
     print(json.dumps({'obsolete_apk_files_removed':len(removed),'bytes_reclaimed':sum(x['bytes'] for x in removed)}))
-    print(json.dumps({'apk':str(output),'bytes':output.stat().st_size,'sha256':sha}))
+    print(json.dumps({'apk':str(output),'bytes':output.stat().st_size}))
 if __name__=='__main__':build()

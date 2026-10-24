@@ -10,6 +10,29 @@ from prepare_display import prepare, material_root, public_metadata
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / 'mobile/build/site'
 
+def photo_source(record):
+    for key in ('source_page', 'source_page_url', 'page_url', 'page', 'object_page'):
+        value = record.get(key)
+        if isinstance(value, str) and value.startswith(('https://', 'http://')):
+            return value
+    return ''
+
+def require_source(path, relative, materials):
+    if not path.is_relative_to(materials):
+        raise ValueError('Invalid image path: '+relative)
+    if path.is_file():
+        return
+    if path.is_relative_to(ROOT):
+        import sys
+        sys.path.insert(0, str(ROOT/'scripts'))
+        from research_cache import cloud_location
+        archived = cloud_location(path.relative_to(ROOT).as_posix())
+        if archived:
+            raise FileNotFoundError('Source original is archived in private cloud storage. '
+                'Restore it before regenerating display images: '
+                'scripts/research_cache.py lookup "'+relative+'"')
+    raise ValueError('Missing image: '+relative)
+
 def stamp_web_assets():
     page = OUT / 'index.html'
     def stamp(match):
@@ -57,12 +80,15 @@ def export():
     overrides=display_images.load(ROOT)
     from background_trim import load_rules
     background_rules=load_rules(ROOT)
+    user_path=ROOT/'data/display_images/user_processed.json'
+    user_processed=json.loads(user_path.read_text(encoding='utf-8')) if user_path.exists() else {}
     candidates = sorted({im['src'] for im in soup.select('section.period-section td img[src]')})
     def process(relative):
-        path = (materials / relative).resolve()
-        if not path.is_relative_to(materials) or not path.is_file():
-            raise ValueError('Missing or invalid image: '+relative)
-        return relative, prepare(path, OUT, relative, image_records.get(relative,{}).get('image_kind')=='user_restored_reference',background_rules.get(relative))
+        path = (ROOT / user_processed[relative]['path']).resolve() if relative in user_processed else (materials / relative).resolve()
+        require_source(path, relative, materials)
+        prepared=prepare(path, OUT, relative, image_records.get(relative,{}).get('image_kind')=='user_restored_reference',None if relative in user_processed else background_rules.get(relative))
+        if relative in user_processed: prepared['status']='user-ai-display'
+        return relative, prepared
     with ThreadPoolExecutor(max_workers=int(os.environ.get('WORLD_MEDALS_IMAGE_WORKERS','8'))) as pool:
         prepared_images = dict(pool.map(process, candidates))
     rows, volumes, images = [], [], {}
@@ -85,9 +111,8 @@ def export():
                 if restricted_images or (im.get('data-publication-eligible') == 'false' and not local_research_images):
                     continue
                 rel = im['src']
-                path = (materials / rel).resolve()
-                if not path.is_relative_to(materials) or not path.is_file():
-                    raise ValueError(f'Missing or invalid image: {rel}')
+                path = (ROOT / user_processed[rel]['path']).resolve() if rel in user_processed else (materials / rel).resolve()
+                require_source(path, rel, materials)
                 if rel not in images:
                     record = image_records.get(rel, {})
                     prepared = prepared_images[rel]
@@ -95,7 +120,9 @@ def export():
                                        provenance=public_metadata(record), processing=prepared)
                 fig = im.find_parent('figure')
                 record=images[rel]['provenance']
-                photos.append(dict(src=images[rel]['src'], thumb=images[rel]['thumb'], alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=record.get('source_page',record.get('page_url','')), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
+                photos.append(dict(src=images[rel]['src'], thumb=images[rel]['thumb'], alt=im.get('alt', ''), caption=txt(fig, 'figcaption') if fig else '', source=photo_source(record), rights=record.get('license',record.get('rights','')), credit=record.get('artist',record.get('institution',''))))
+                if rel in user_processed:
+                    photos[-1]['caption']='AI处理展示图'
                 if images[rel]['processing']['status']=='background-removed-reviewed':
                     if '背景已处理' not in photos[-1]['caption']:
                         photos[-1]['caption'] += ' · 背景已处理'
@@ -152,7 +179,7 @@ def export():
     app_version=json.loads((ROOT/'mobile/version.json').read_text(encoding='utf-8'))
     (OUT/'version.js').write_text('window.APP_VERSION='+json.dumps(app_version)+';',encoding='utf-8')
     data = dict(schema=1, distribution='private-personal-research' if private_release else 'local-personal-research' if personal_research else 'publication-filtered', version=app_version['name'], appVersion=app_version, volumes=volumes, rows=rows,
-                imageCount=len(images), imagePolicy='列表384像素、详情1200像素上限；透明边界修剪及安全边距；原图仅留本地。')
+                imageCount=len(images), imagePolicy='列表384像素、详情1200像素上限；透明边界修剪及安全边距；原始来源另行归档。')
     (OUT / 'catalog.js').write_text('window.CATALOG=' + json.dumps(data, ensure_ascii=False).replace('</','<\\/') + ';', encoding='utf-8')
     (ROOT / 'mobile/build/image-provenance.json').write_text(json.dumps(images, ensure_ascii=False, indent=2), encoding='utf-8')
     shutil.copyfile(ROOT / 'mobile/build/image-provenance.json', OUT/'image-provenance.json')
