@@ -2,6 +2,7 @@
 import os,json,zipfile,subprocess,base64,shutil,re,io
 from pathlib import Path
 from PIL import Image
+from ingest import apply_image
 R=Path.cwd();T=Path(os.environ["RUNNER_TEMP"])/"world-medals";T.mkdir(exist_ok=True)
 REPO=os.environ["GITHUB_REPOSITORY"];TAG="mobile-current";STATE="world-medals-cloud-state.zip"
 def gh(*args,raw=False):
@@ -64,6 +65,37 @@ if (R/"cloud/portable.json").exists():
  assert (R/"cloud/base-portable.json").read_bytes()==git_portable_bytes,"Catalogue source changed: refresh the canonical cloud catalogue before image-only updates"
  portable=json.loads((R/"cloud/portable.json").read_text())
 else:portable=json.loads(portable_path.read_text())
+
+# Real private inbox transport; the view update is isolated from the real catalogue.
+import copy
+fixture=T/"image-routing-check";fixture.mkdir(exist_ok=True)
+sample=next(r for r in C["rows"] if r["photos"] and r["id"] in portable["rows"])
+sample_photo=sample["photos"][0];test_input=T/("transport-check-"+os.environ["GITHUB_RUN_ID"]+"-"+os.environ["GITHUB_RUN_ATTEMPT"]+".png")
+with Image.open(site/sample_photo["src"]) as im:im.save(test_input,"PNG")
+test_inbox=release("image-inbox")
+if test_inbox is None:
+ test_inbox=api(f"repos/{REPO}/releases","POST",{"tag_name":"image-inbox","target_commitish":os.environ["GITHUB_SHA"],"name":"待接入图片","body":"私有图片接入区；已接入当前状态的附件会移除。","draft":False,"make_latest":"false"})
+gh("release","upload","image-inbox",str(test_input),"--repo",REPO)
+test_asset=next(a for a in api(f"repos/{REPO}/releases/{test_inbox['id']}")["assets"] if a["name"]==test_input.name)
+try:
+ replay=T/"downloaded-test-image";download(dict(test_asset,tag="image-inbox"),replay)
+ assert replay.read_bytes()==test_input.read_bytes()
+ tc,tp,tb=copy.deepcopy(C),copy.deepcopy(prov),copy.deepcopy(portable)
+ before=[(r["id"],r["family"],[p["src"] for p in r["photos"]]) for r in tc["rows"]]
+ result=apply_image(fixture,tc,tp,tb,{"row_id":sample["id"],"expected_src":sample_photo["src"]},replay,"transport-check")
+ target=next(r for r in tc["rows"] if r["id"]==sample["id"])
+ assert result["row_id"]==sample["id"] and target["photos"][0]["src"]!=sample_photo["src"]
+ for row,old in zip(tc["rows"],before):
+  assert (row["id"],row["family"])==old[:2]
+  if row["id"]!=sample["id"]:assert [p["src"] for p in row["photos"]]==old[2]
+ for key,edge in [("src",1200),("thumb",384)]:
+  with Image.open(fixture/"mobile/build/site"/target["photos"][0][key]) as im:im.load();assert max(im.size)<=edge
+ try:apply_image(fixture,tc,tp,tb,{"row_id":sample["id"],"expected_src":"missing-image"},replay,"invalid-target")
+ except ValueError:pass
+ else:raise AssertionError("Invalid target must be rejected")
+ print("Cloud image transport and isolated target routing passed")
+finally:api(f"repos/{REPO}/releases/assets/{test_asset['id']}","DELETE",{})
+
 applied=list(prior.get("applied_batches",[]));changed=0;consumed=[]
 inbox=None
 for descriptor in sorted((R/"cloud/updates").glob("*.json")) if (R/"cloud/updates").exists() else []:
@@ -73,40 +105,9 @@ for descriptor in sorted((R/"cloud/updates").glob("*.json")) if (R/"cloud/update
  if inbox is None:inbox=release("image-inbox")
  assert inbox,"Image inbox missing"
  for i,item in enumerate(batch["images"]):
-  row=next(r for r in C["rows"] if r["id"]==item["row_id"])
-  photo=next(p for p in row["photos"] if p["src"]==item["expected_src"])
-  origin=next(k for k,v in prov.items() if v["src"]==photo["src"])
   asset=next(a for a in inbox["assets"] if a["id"]==item["asset_id"])
-  local=T/("image-"+str(i)+"-"+bid)
-  download(dict(asset,tag="image-inbox"),local)
-  with Image.open(local) as im:
-   im.load();assert im.format in ("PNG","JPEG","WEBP")
-   ext={"PNG":"png","JPEG":"jpg","WEBP":"webp"}[im.format]
-   canonical=R/"cloud/processed"/(row["id"]+"-"+str(row["photos"].index(photo))+"."+ext)
-   canonical.parent.mkdir(parents=True,exist_ok=True)
-   for old in canonical.parent.glob(canonical.stem+".*"):old.unlink()
-   shutil.copyfile(local,canonical)
-   image=im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
-   for key,edge,quality in [("src",1200,90),("thumb",384,86)]:
-    out=site/photo[key];out.parent.mkdir(parents=True,exist_ok=True);display=image.copy();display.thumbnail((edge,edge),Image.Resampling.LANCZOS);display.save(out,"WEBP",quality=quality,method=6)
-    prov[origin]["processing"][("detailSize" if key=="src" else "thumbSize")]=list(display.size)
-   entry=prov[origin];entry["processing"].update(status="user-processed-display",sourceSize=list(im.size),cloudProcessedSource=canonical.relative_to(R).as_posix())
-  label="用户处理展示图"
-  if label not in photo["caption"]:photo["caption"]+=" · "+label
-  entry["provenance"]["display_note"]=label
-  entry["provenance"]["approved_batch"]=bid
-  portable["images"][origin].update(display_note=label,approved_batch=bid)
-  # Update the existing row's picture caption, without changing its award identity.
-  from bs4 import BeautifulSoup
-  cell=BeautifulSoup(portable["rows"][row["id"]][2],"html.parser")
-  for image_tag in cell.select("img[src]"):
-   if image_tag["src"]==origin:
-    fig=image_tag.find_parent("figure")
-    if fig:
-     caption=fig.find("figcaption")
-     if caption is None:caption=cell.new_tag("figcaption");fig.append(caption)
-     caption.string=photo["caption"]
-  portable["rows"][row["id"]][2]=str(cell);consumed.append(asset["id"]);changed+=1
+  local=T/("image-"+str(i)+"-"+bid);download(dict(asset,tag="image-inbox"),local)
+  apply_image(R,C,prov,portable,item,local,bid);consumed.append(asset["id"]);changed+=1
  applied.append(bid)
 version=json.loads((R/"mobile/version.json").read_text())
 code=max(version["code"],prior["version"]["code"]+1)
@@ -151,7 +152,7 @@ with zipfile.ZipFile(state_zip,"w",zipfile.ZIP_DEFLATED,compresslevel=1) as z:
  for p in [prov_path,R/"mobile/web/icon.png",*list((R/"cloud").glob("*.json")),*(list((R/"cloud/processed").glob("*")) if (R/"cloud/processed").exists() else [])]:
   z.write(p,p.relative_to(R).as_posix())
 info=json.loads((R/"mobile/build/apk-build-info.json").read_text())
-info.update(cloudRun=f"https://github.com/{REPO}/actions/runs/"+os.environ["GITHUB_RUN_ID"],cloud_state=state,updated_images=changed,persistent_signer_matches_previous=True,offline_apk_file_set_verified=True)
+info.update(cloudRun=f"https://github.com/{REPO}/actions/runs/"+os.environ["GITHUB_RUN_ID"],cloud_state=state,updated_images=changed,persistent_signer_matches_previous=True,offline_apk_file_set_verified=True,image_transport_and_isolated_routing_verified=True)
 info_file=T/("candidate-info-"+run_id+".json");info_file.write_text(json.dumps(info,ensure_ascii=False,indent=2))
 apk_stage=R/"mobile/build"/("candidate-apk-"+run_id+".apk");os.link(apk,apk_stage)
 if not current:
