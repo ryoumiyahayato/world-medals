@@ -28,7 +28,16 @@ def extract_selected(archive,wanted):
 def wanted(n):
  return n.startswith("mobile/build/site/") or n=="mobile/build/image-provenance.json" or n=="mobile/web/icon.png" or n.startswith("mobile/android/res/") or n=="mobile/build/apk-build-info.json" or n=="mobile/build/world-medals-current.apk"
 assert api(f"repos/{REPO}")["private"],"Private repository required"
-current=release(TAG);previous=T/"previous.apk";prior={}
+current=release(TAG)
+if current is None:
+ page=1
+ while True:
+  releases=api(f"repos/{REPO}/releases?per_page=100&page={page}")
+  current=next((r for r in releases if r["tag_name"]==TAG),None)
+  if current or len(releases)<100:break
+  page+=1
+previous=T/"previous.apk";prior={}
+git_portable_bytes=(R/"data/release-input.json").read_bytes()
 if current and any(a["name"]==STATE for a in current["assets"]):
  state_asset=next(a for a in current["assets"] if a["name"]==STATE);download(dict(state_asset,tag=TAG),T/"input.zip")
  extract_selected(T/"input.zip",lambda n:True);(T/"input.zip").unlink()
@@ -50,7 +59,11 @@ else:
 site=R/"mobile/build/site";catalog=site/"catalog.js"
 C=json.loads(catalog.read_text()[len("window.CATALOG="):-1])
 prov_path=R/"mobile/build/image-provenance.json";prov=json.loads(prov_path.read_text())
-portable_path=R/"data/release-input.json";portable=json.loads(portable_path.read_text())
+portable_path=R/"data/release-input.json"
+if (R/"cloud/portable.json").exists():
+ assert (R/"cloud/base-portable.json").read_bytes()==git_portable_bytes,"Catalogue source changed: refresh the canonical cloud catalogue before image-only updates"
+ portable=json.loads((R/"cloud/portable.json").read_text())
+else:portable=json.loads(portable_path.read_text())
 applied=list(prior.get("applied_batches",[]));changed=0;consumed=[]
 inbox=None
 for descriptor in sorted((R/"cloud/updates").glob("*.json")) if (R/"cloud/updates").exists() else []:
@@ -125,6 +138,8 @@ with zipfile.ZipFile(apk) as z:
 (R/"cloud").mkdir(exist_ok=True)
 state=dict(version=version,applied_batches=applied,rows=len(C["rows"]),photo_paths=C["imageCount"])
 (R/"cloud/state.json").write_text(json.dumps(state))
+(R/"cloud/base-portable.json").write_bytes(git_portable_bytes)
+(R/"cloud/portable.json").write_text(json.dumps(portable,ensure_ascii=False))
 run_id=os.environ["GITHUB_RUN_ID"]+"-"+os.environ["GITHUB_RUN_ATTEMPT"]
 state_zip=T/("candidate-state-"+run_id+".zip")
 with zipfile.ZipFile(state_zip,"w",zipfile.ZIP_DEFLATED,compresslevel=1) as z:
@@ -133,15 +148,14 @@ with zipfile.ZipFile(state_zip,"w",zipfile.ZIP_DEFLATED,compresslevel=1) as z:
   rel=p.relative_to(site).as_posix()
   if rel.startswith(("images/detail/","images/thumb/")) and rel not in refs:continue
   z.write(p,p.relative_to(R).as_posix())
- for p in [prov_path,R/"mobile/web/icon.png",R/"cloud/state.json",*(list((R/"cloud/processed").glob("*")) if (R/"cloud/processed").exists() else [])]:
+ for p in [prov_path,R/"mobile/web/icon.png",*list((R/"cloud").glob("*.json")),*(list((R/"cloud/processed").glob("*")) if (R/"cloud/processed").exists() else [])]:
   z.write(p,p.relative_to(R).as_posix())
 info=json.loads((R/"mobile/build/apk-build-info.json").read_text())
 info.update(cloudRun=f"https://github.com/{REPO}/actions/runs/"+os.environ["GITHUB_RUN_ID"],cloud_state=state,updated_images=changed,persistent_signer_matches_previous=True,offline_apk_file_set_verified=True)
 info_file=T/("candidate-info-"+run_id+".json");info_file.write_text(json.dumps(info,ensure_ascii=False,indent=2))
 apk_stage=R/"mobile/build"/("candidate-apk-"+run_id+".apk");os.link(apk,apk_stage)
 if not current:
- gh("release","create",TAG,"--repo",REPO,"--draft","--target",os.environ["GITHUB_SHA"],"--title","全球勋奖章图鉴 · 最新版","--notes","云端构建；固定下载地址。")
- current=next(r for r in api(f"repos/{REPO}/releases") if r["tag_name"]==TAG)
+ current=api(f"repos/{REPO}/releases","POST",{"tag_name":TAG,"target_commitish":os.environ["GITHUB_SHA"],"name":"全球勋奖章图鉴 · 最新版","body":"云端构建；固定下载地址。","draft":True,"make_latest":"false"})
 candidates=[(apk_stage,"world-medals-current.apk"),(state_zip,STATE),(info_file,"build-info.json")]
 for path,target in candidates:gh("release","upload",TAG,str(path),"--repo",REPO)
 assets=api(f"repos/{REPO}/releases/{current['id']}")["assets"];moves=[]
