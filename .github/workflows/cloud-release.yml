@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           lfs: false
+      - name: Fetch only Android icon resources
+        run: git lfs pull --include="mobile/android/res/**,mobile/web/icon.png"
       - uses: actions/setup-python@v6
         with:
           python-version: '3.14'

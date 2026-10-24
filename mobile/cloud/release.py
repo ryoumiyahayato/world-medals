@@ -27,7 +27,7 @@ def extract_selected(archive,wanted):
    if not p.is_relative_to(R):raise ValueError("Unsafe archive path")
    p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(z.read(n))
 def wanted(n):
- return n.startswith("mobile/build/site/") or n=="mobile/build/image-provenance.json" or n=="mobile/web/icon.png" or n.startswith("mobile/android/res/") or n=="mobile/build/apk-build-info.json" or n=="mobile/build/world-medals-current.apk"
+ return n.startswith("mobile/build/site/") or n=="mobile/build/image-provenance.json" or n=="mobile/web/icon.png" or n=="mobile/build/apk-build-info.json" or n=="mobile/build/world-medals-current.apk"
 assert api(f"repos/{REPO}")["private"],"Private repository required"
 current=release(TAG)
 if current is None:
@@ -160,6 +160,8 @@ if not current:
 candidates=[(apk_stage,"world-medals-current.apk"),(state_zip,STATE),(info_file,"build-info.json")]
 for path,target in candidates:gh("release","upload",TAG,str(path),"--repo",REPO)
 assets=api(f"repos/{REPO}/releases/{current['id']}")["assets"];moves=[]
+tag_refs=api(f"repos/{REPO}/git/matching-refs/tags/{TAG}")
+old_tag=next((r for r in tag_refs if r["ref"]=="refs/tags/"+TAG),None)
 try:
  for path,target in candidates:
   new=next(a for a in assets if a["name"]==path.name);assert new["size"]==path.stat().st_size
@@ -167,12 +169,14 @@ try:
   if old:api(f"repos/{REPO}/releases/assets/{old['id']}","PATCH",{"name":"previous-"+run_id+"-"+target})
   moves.append((new,old,target))
   api(f"repos/{REPO}/releases/assets/{new['id']}","PATCH",{"name":target})
+ if old_tag:api(f"repos/{REPO}/git/refs/tags/{TAG}","PATCH",{"sha":os.environ["GITHUB_SHA"],"force":True})
+ else:api(f"repos/{REPO}/git/refs","POST",{"ref":"refs/tags/"+TAG,"sha":os.environ["GITHUB_SHA"]})
 except Exception:
  for new,old,target in reversed(moves):
   api(f"repos/{REPO}/releases/assets/{new['id']}","PATCH",{"name":new["name"]})
   if old:api(f"repos/{REPO}/releases/assets/{old['id']}","PATCH",{"name":target})
  raise
-gh("release","edit",TAG,"--repo",REPO,"--draft=false","--latest","--notes",f"云端版本 {version['name']}；{len(C['rows'])}行，{C['imageCount']}张图。持久签名与上一包一致。APK包内离线图片集合核对通过。")
+gh("release","edit",TAG,"--repo",REPO,"--draft=false","--latest","--target",os.environ["GITHUB_SHA"],"--notes",f"云端版本 {version['name']}；{len(C['rows'])}行，{C['imageCount']}张图。持久签名与上一包一致。APK包内离线图片集合核对通过。")
 for new,old,target in moves:
  if old:api(f"repos/{REPO}/releases/assets/{old['id']}","DELETE",{})
 for asset_id in consumed:api(f"repos/{REPO}/releases/assets/{asset_id}","DELETE",{})
