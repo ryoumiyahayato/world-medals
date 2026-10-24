@@ -6,7 +6,7 @@
 ## 交付与位置
 
 - 私有仓库：https://github.com/ryoumiyahayato/world-medals
-- 默认分支：main。
+- 默认分支：main。现已清理为唯一分支，日常更新直接提交main。
 - 固定最新版：https://github.com/ryoumiyahayato/world-medals/releases/tag/mobile-current
 - 固定APK下载：https://github.com/ryoumiyahayato/world-medals/releases/download/mobile-current/world-medals-current.apk
 - 当前版本：0.075，versionCode 75，channel dev。
@@ -129,3 +129,9 @@
 - 本状态文档直接写入GitHub，不创建本地MD副本。后续云端更新不依赖上述本地残留。
 
 本轮现状文档直接提交到GitHub main，README已加入入口。没有创建本地MD副本，也没有执行成功的新增本地删除。用户要求本地全部删除尚未实现，阻塞是系统自动审批拒绝，而不是资料未上传。后续不可把本轮文档交付记成本地清理完成。
+
+## 2026-10-24分支整理
+
+已核对main包含最新版0.075的全部构建代码及后续现状文档。两个临时分支均无未合并内容，已删除codex/cloud-updates和codex/github-backup-20261024。当前只保留main，不需要重新创建这两个临时分支来更新图片。
+
+mobile-current标签与0.075构建信息仍指向已验证的源码提交bf01d9908df7692a651f846183c4fdb100ae5928。main后续仅增加文档提交，不因此重新封装APK。完整迁移备份Release的target_commitish已改为固定提交1d02631d47795b6e6b936ad6075eb8e263155c94，不再依赖删除的备份分支。Release附件、备份标签及签名Secrets均保留。
