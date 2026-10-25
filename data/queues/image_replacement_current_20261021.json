@@ -2288,7 +2288,23 @@
       "view": "完整正面",
       "source": "https://www.dpmc.govt.nz/image-galleries/2468/media?page=8",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          1200,
+          748
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "已重开DPMC成员级对象页与制度史，成员级银质绿珐琅及1996-05-30与目录相符；原图网址经网页工具可打开，未另下载素材文件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-1c075d62d222.png",
@@ -58931,7 +58947,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia010.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          130,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/35b315bbfc02b1896d3b6a4c.jpg",
@@ -58942,7 +58974,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia014.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          111,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/b81028f9ed1bc1b83bc515e6.jpg",
@@ -58953,7 +59001,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia002.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          151,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/1a0b85705c3eda96c930bf56.jpg",
@@ -58964,7 +59028,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          252,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/2d0fa5614d69281dbcb4dcfa.jpg",
@@ -58975,7 +59055,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          341,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/583e5a0181d9eef2b0afeeb9.jpg",
@@ -58986,7 +59082,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          237,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/7020bdd3c58890fdb2872c08.jpg",
@@ -58997,7 +59109,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          123,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/c7cdca4c151548169b23baa3.jpg",
@@ -59008,7 +59136,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          161,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/d449d1bf63a39d55ff5d906b.jpg",
@@ -59019,7 +59163,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          172,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e54efe89da10148e10735789.jpg",
@@ -59030,7 +59190,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          107,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/fdeccde4d910a0ff7e1d9742.jpg",
@@ -59041,7 +59217,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          270,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/3b3c1d2e8335e87f15e5c716.jpg",
@@ -59052,7 +59244,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          315,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/40fca8b0fbf5bb6b4321ced3.jpg",
@@ -59063,7 +59271,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          272,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/44fbcf248307788fbe1d2420.jpg",
@@ -59074,7 +59298,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          146,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/4621f4b2a559546ad7d01f6b.jpg",
@@ -59085,7 +59325,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          234,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/61181a6022ebd7263267edd2.jpg",
@@ -59096,7 +59352,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          129,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/9b8e90aa3455a8c7dd2faf75.jpg",
@@ -59107,7 +59379,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia005.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          111,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/5b876640e488a3bb245dce4a.jpg",
@@ -59118,7 +59406,22 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          237,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/a739507be0a88212d16f2d5e.jpg",
@@ -59129,7 +59432,22 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          152,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/efafbb348e855ade7dfcdd6d.jpg",
@@ -59140,7 +59458,22 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          253,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/4bd2b9fe7705cea79c2fe4d6.jpg",
@@ -59151,7 +59484,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia018.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          166,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/c9c3537e57a62ab09e124a7d.jpg",
@@ -59162,7 +59511,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia019.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          142,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/8dd797091fba25a8ed0addd3.jpg",
@@ -59173,7 +59538,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia033.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          118,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/225fe0fd762a73042d1e9fa5.jpg",
@@ -59184,7 +59565,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia034.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          120,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/70004536d671b2c5d6ec13be.jpg",
@@ -59195,7 +59592,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia013.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          116,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/2d4de52e7caa1130f0db5886.jpg",
@@ -59206,7 +59619,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia008.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          160,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/81c69e24c3fec1d04e051053.jpg",
@@ -59217,7 +59646,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia026.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          167,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/9443a5448e720dd71d554ae1.jpg",
@@ -59228,7 +59673,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia035.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          120,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/25294b595d85702b2cfdf29d.jpg",
@@ -59239,7 +59700,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia011.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          157,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/fb2942a20d219a3f8362bc85.jpg",
@@ -59250,7 +59727,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia031.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          117,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/3c8980b6206d0d044c9d9a9e.jpg",
@@ -59261,7 +59754,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia012.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          163,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/da9460b3c753e2afdf3166aa.jpg",
@@ -59272,7 +59781,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia028.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          165,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e54ef56bbbb2a26fb6e1fee4.jpg",
@@ -59283,7 +59808,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia025.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          157,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/05392cdf3706bffb22dd0c85.jpg",
@@ -59294,7 +59835,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia022.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          167,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/1aaf57705b5ac7e130608dfa.jpg",
@@ -59305,7 +59862,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia023.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          151,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/59e3ac172c88a4a6d8f7f436.jpg",
@@ -59316,7 +59889,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia024.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          148,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e38178b9fbbc69c5c9275fbc.jpg",
@@ -59327,7 +59916,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia007.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          152,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/a89230d185ddec4a01c93f63.jpg",
@@ -59338,7 +59943,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia001.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          121,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/dbcf43731aacf9c9d49927ae.jpg",
@@ -59349,7 +59970,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia032.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          106,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/dbba3c9a2aa5b396510f0e41.jpg",
@@ -59360,7 +59997,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia021.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          158,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/2f8605169622a0723b1517d1.jpg",
@@ -59371,7 +60024,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia006.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          162,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/fcec2f9634d5a2e4712b0542.jpg",
@@ -59382,7 +60051,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia020.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          162,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e6170436efe503dcb587a7c2.jpg",
@@ -59393,7 +60078,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia017.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          152,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/21650c4d1247fad8619b9485.jpg",
@@ -59404,7 +60105,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia030.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          168,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/07e809ea5a416dfe0e28c101.jpg",
@@ -59415,7 +60132,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia027.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          108,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/b46b619215f471ce86fb1714.jpg",
@@ -59426,7 +60159,35 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia055.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          129,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ],
+        "conflict": {
+          "field": "date",
+          "current": "1998年5月16日设立（来源记载）",
+          "current_source": "https://www.medals.org.uk/australia/australia055.htm",
+          "official_statement": "1998年5月26日正式设立；PM&C正文及总督府Letters Patent附件目录一致",
+          "official_sources": [
+            "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal",
+            "https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/defence-long-service-medal",
+            "https://www.gg.gov.au/sites/default/files/2020-01/defence_long_service_medal_-_letters_patent_-_19980526_-_embossed_with_great_seal_of_australia.pdf"
+          ],
+          "disposition": "来源冲突写回待核；建议下一实体内容批将设立日改为26日，同时刷新权威目录及cloud/portable.json；本批未改运行目录。"
+        }
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/67940397a24bad8e87c4f0d4.jpg",
@@ -59437,7 +60198,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia039.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          177,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/6de8f0ed39e62c10d5ac8d08.jpg",
@@ -59448,7 +60225,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia036.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          154,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/7236ba1748d0ba400ca613da.jpg",
@@ -59459,7 +60252,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia042.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          120,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/bb950bd719858ae0887910f4.jpg",
@@ -59470,7 +60279,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia040.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          172,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/ecf4cbe6e5e000cdd76da8b3.jpg",
@@ -59481,7 +60306,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia037.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          119,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/5568858fc5fa9fc24b3832c0.jpg",
@@ -59492,7 +60333,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia052.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          133,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/8f5550ef31c273a25768b215.jpg",
@@ -59503,7 +60360,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia038.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          154,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/3121bfa7ecc1ec0f0492c263.jpg",
@@ -59514,7 +60387,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia043.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          121,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/868c428a97b1ee39ed548e36.jpg",
@@ -59525,7 +60414,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia061.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          107,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/0b40cc5efa6fb4d191caa91f.jpg",
@@ -59536,7 +60441,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia046.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          168,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/3fec840b10afc5c74314cc7a.jpg",
@@ -59547,7 +60468,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia047.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          168,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e173a2f6dc313be134881126.jpg",
@@ -59558,7 +60495,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia057.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          116,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/6b8fd52cdae727bc697a3557.jpg",
@@ -59569,7 +60522,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia054.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          159,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/6c67fd2783d00d67a24b4d11.jpg",
@@ -59580,7 +60549,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia053.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          136,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/f1112adf16100d1b6714d51b.jpg",
@@ -59591,7 +60576,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia048.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          106,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/5c10d8f07f99e760044fbb8a.jpg",
@@ -59602,7 +60603,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia049.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          156,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/bbde9230f7ddaac3508db01f.jpg",
@@ -59613,7 +60630,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia050.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          106,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/2f1de6936c9c0d0bf0f4da43.jpg",
@@ -59624,7 +60657,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia051.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          105,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/6b86b3525fc1919eaa3c267c.jpg",
@@ -59635,7 +60684,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia094.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          170,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/4f4a8fba426de83fb22e5ef8.jpg",
@@ -59646,7 +60711,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia095.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          166,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/be9e19b369e17a18c85016be.jpg",
@@ -59657,7 +60738,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia029.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          164,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/a1a614935dda5959228d7fa1.jpg",
@@ -59668,7 +60765,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia073.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          165,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/1b146085247ff75140185502.jpg",
@@ -59679,7 +60792,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia087.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          165,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/3964456a9558872c5551ca81.jpg",
@@ -59690,7 +60819,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia088.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          162,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/9a0ffd16a47e537a5e987fa3.jpg",
@@ -59701,7 +60846,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia074.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          149,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/95d3c8a00872aa530657649d.jpg",
@@ -59712,7 +60873,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia070.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          158,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/effaa9ed61494b5ec83def04.jpg",
@@ -59723,7 +60900,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia071.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          161,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/a51cf5d590689690cb838e84.jpg",
@@ -59734,7 +60927,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia077.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          162,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/5821731bb0d66e583954d916.jpg",
@@ -59745,7 +60954,24 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia092.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          160,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "本次重开来源仍为Instituted: Unknown，保持日期待考；来源列有背面，未下载或接入。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/d8c1c4a935d6ea464132346b.jpg",
@@ -59756,7 +60982,24 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia083.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          159,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "本次重开来源仍为Instituted: Unknown，保持日期待考；来源列有背面，未下载或接入。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/2e18b3c7c830c82386b63086.jpg",
@@ -59767,7 +61010,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia069.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          151,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/b2173cc9a0d78247c4d5bdeb.jpg",
@@ -59778,7 +61037,23 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/australia/australia068.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "oceania_review_20261025": {
+        "reviewed_at": "2026-10-25",
+        "scope": "current-cloud-state-display-overview-and-record-crosscheck",
+        "display_decoded": true,
+        "display_size": [
+          189,
+          250
+        ],
+        "visual_observation": "已查看当前完整展示总览，未见明显章体/金属悬挂结构被裁断；部分绶带上端止于来源画框。未作原图像素级边缘、真伪或全部来源身份确认。",
+        "source_trace": "当前照片来源页可在本行sources中定位；原图URL存在于image-provenance的image_url/original_url等既有字段。记录可追溯不等于本次已取回原图。",
+        "decision": "保留当前展示，不默认抠图或替换；原队列状态保持待逐图审查。",
+        "followups": [
+          "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
+          "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
+        ]
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/e550dd48273eec708d1b1b3b.jpg",
@@ -92469,5 +93744,61 @@
     },
     "remaining": "All regional individual image reviews retain existing queue status. Metadata followups listed in report; 6542 historical pending member mapping unresolved.",
     "delivery": "Report/checkpoint only; no APK rebuild. Device not tested."
+  },
+  "continuation_20261025_oceania": {
+    "date": "2026-10-25 Asia/Taipei",
+    "request": "聚焦大洋洲已收录内容，以报告供后续修改；不扩章种、不改界面。",
+    "baseline": {
+      "version": "0.075",
+      "code": 75,
+      "sourceCommit": "bf01d9908df7692a651f846183c4fdb100ae5928",
+      "rows": 7803,
+      "photo_paths": 8155,
+      "build_info_read": true
+    },
+    "scope": {
+      "existing_rows": 80,
+      "existing_family_ids": 59,
+      "pictured_family_ids": 58,
+      "display_views": 79,
+      "unpictured_rows": 1,
+      "note": "family为现有分组编号，未独立重鉴全部章种；数量不代表本批新增。"
+    },
+    "completed": {
+      "display_views_decoded_and_overviewed": 79,
+      "existing_queue_items_annotated": 79,
+      "catalogue_fact_changes": 0,
+      "image_processing": 0,
+      "image_replacements": 0,
+      "new_families": 0,
+      "new_rows": 0
+    },
+    "findings": {
+      "low_resolution_labelled_views": 78,
+      "generic_variant_rows": 61,
+      "date_conflict": {
+        "field": "date",
+        "current": "1998年5月16日设立（来源记载）",
+        "current_source": "https://www.medals.org.uk/australia/australia055.htm",
+        "official_statement": "1998年5月26日正式设立；PM&C正文及总督府Letters Patent附件目录一致",
+        "official_sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal",
+          "https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/defence-long-service-medal",
+          "https://www.gg.gov.au/sites/default/files/2020-01/defence_long_service_medal_-_letters_patent_-_19980526_-_embossed_with_great_seal_of_australia.pdf"
+        ],
+        "disposition": "来源冲突写回待核；建议下一实体内容批将设立日改为26日，同时刷新权威目录及cloud/portable.json；本批未改运行目录。"
+      },
+      "processing_sourceSize": "79项均记录1200×1200，但本批78项展示高度250，另1项1200×748；需核对字段语义与生成环节，不改原图。"
+    },
+    "unpictured_followup": {
+      "rowId": "FRA-SAMLHOC-ORDRE_TAHITI_NUI-TEXT-20260929",
+      "decision": "原条目继续未配图。SAMLHOC正文复开，设立日1996-06-05及地区授予主体与既有记录相符；不能凭正文插图链接将其标作已配完整图。",
+      "next": "沿既有Croix/Commandeur/Grand-croix/plaque子页核对图像性质和完整性，只补现有章种。"
+    },
+    "remaining": "79项原队列状态均不变；本轮仅完成展示总览及部分来源复开，全部来源/原图核对仍未完成。",
+    "next_entry": "V020-AUSTRALIA-AUSTRALIA055-B46B619215的日期冲突先行；随后澳大利亚勋章004页三项已列背面及005页佩戴形式；新西兰保留；Tahiti Nui沿原来源子页查现有条目缺图。",
+    "prior_global_entry_preserved": "OTT/Osmanieh旧入口仍在continuation_20261025_source_followups，本批按用户指定范围暂转大洋洲，未关闭其他待办。",
+    "report": "CLOUD_STATUS.md：2026-10-25大洋洲已收录内容报告",
+    "build": "仅报告、checkpoint和原队列备注变化；不构建，保留0.075。实体手机未验证。"
   }
 }

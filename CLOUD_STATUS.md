@@ -180,3 +180,53 @@ mobile-current标签与0.075构建信息仍指向已验证的源码提交bf01d99
 报告见[NORTH_AMERICA_REVIEW_20261025.md](NORTH_AMERICA_REVIEW_20261025.md)，逐行列出名称、版型、展示尺寸、出处和待核任务。加拿大跨卷同名family暂不归并；墨西哥等级保留；美国墨西哥服役奖章仍按美国授予主体记录。代表来源请求在代理隧道阶段403，不把阻塞当成错图。6542成员关系仍未确定，历史背景处理记录不计本批成果。
 
 本批目录事实修正、背景处理和图片替换均0，只更新报告与进度，不封装APK。下一批先CAN-ORDER-CANADA-COMPANION-OFFICIAL，再美国内战奖章与两组实物配对，随后沿原队列核对其余加拿大和墨西哥；原奥斯曼未完成任务保留。未跑全量测试；实体手机未验证。
+
+## 2026-10-25大洋洲已收录内容报告
+
+本批按用户指定暂转大洋洲，以现状报告和后续修改入口为主。已读README、本文、CLOUD_BUILD、BUILD顶部及AGENTS；不执行旧任务书新增至少51种的历史要求。未扩章种、版型或界面。
+
+### 当前基线与既有进度
+
+实际下载并读取mobile-current的build-info.json：0.075/code75，sourceCommit为bf01d9908df7692a651f846183c4fdb100ae5928；7803行、8155个照片路径，updated_images为0，applied_batches为空。当前cloud/state.json一致。本批仅提取cloud-state内catalog.js、portable.json、sources.json、image-provenance.json、state.json，逐图读取本范围展示资源；未恢复整套迁移备份或原图库。
+
+原checkpoint及图片队列已从最新main接续。本批读取时的全局历史口径为8155项：已集成用户处理展示10项、来源已审338项、待逐图审查7807项；处理/替换口径8145并非错图数，也不表示全要抠图。6542定位于0.043的背景待处理记录；其旧成员表仍缺，不能证明它与后来8155项逐项对应。已有788条背景、3条裁剪规则和后续队列交叠，不能相加。本范围79个原路径没有命中这791条规则；当前processing状态均为existing-display，不代表本批处理或替换。
+
+按当前导航中的大洋洲既有卷及其未配图附录定位，不按资料收藏机构所在地归类，不把澳大利亚馆藏的外国章算入大洋洲授奖体系。
+
+| 现有卷 | 版型行 | 既有family编号 | 当前展示图 |
+| --- | ---: | ---: | ---: |
+| 澳大利亚·联邦 | 66 | 45 | 66 |
+| 澳大利亚／新西兰·越南服役共同奖励 | 1 | 1 | 1 |
+| 澳大利亚·联邦警察 | 9 | 9 | 9 |
+| 澳大利亚·首都领地 | 2 | 2 | 2 |
+| 新西兰 | 1 | 1 | 1 |
+| 法属波利尼西亚·未配图 | 1 | 1 | 0 |
+| 合计 | 80 | 59 | 79 |
+
+59是当前family分组数，含58个有图分组及1个未配图分组，尚非本批独立重鉴过的59种。澳大利亚勋章17行、服役奖章两行、实战服役奖章两行、行动服役奖章四行分别保留既有等级/版型关系，不合并。本表只描述当前已收录范围，不代表大洋洲资料完整；未另建扩充名单。
+
+### 本批实际完成与保留事项
+
+- 79张当前详情WebP均实际解码，并在七张总览中逐项查看。总览未见明显章体或金属悬挂结构裁断；部分绶带上端止于原图框。低清和总览限制使本批不能确认细小铭文、复制、补配、修补或全部边缘。没有据照片颜色鉴定材质。
+- 79张均为单独标作正面的展示，没有已集成背面；有来源背面可查不等于已下载、同件或已接入。
+- 78张澳大利亚范围图片已标低清，当前展示高度均250像素，宽105—341像素；保留低清提示，不放大补细节。新西兰图展示为1200×748，原出处记录4000×2667；画布尺寸不等于章体有效尺寸。
+- 79张来源页链接均能在本行sources中找到，原图地址可在image-provenance既有字段追溯，共65个不同照片来源页。其中78张集中于Medals of the World，1张来自新西兰DPMC。这里只验证记录链可追溯，没有宣称65页都已重开或原图都已重新下载。
+- 61行仍使用“佩章；具体版型按图”等笼统描述，需要按实物和来源具体化。该数不是61张错配。
+- 79项processing.sourceSize统一为1200×1200，与实际展示尺寸及部分来源尺寸字段不一致。暂列元数据语义/生成环节待核，不据此声称原图高清，也不改写原始尺寸字段。
+- 79项观察及各项后续入口已写回原image_replacement_current_20261021.json的对应项目，未把总览查看自动升级为来源审查通过；本批不改原状态与总数；提交时保留其他地区同期接续更新。未另建队列。
+
+### 可供下一批直接修改的具体事项
+
+1. **国防长期服役奖章日期冲突，优先处理。** 行ID：V020-AUSTRALIA-AUSTRALIA055-B46B619215。当前目录和[原商业目录](https://www.medals.org.uk/australia/australia055.htm)写1998年5月16日；本次打开的[PM&C正文](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal)写正式设立于5月26日，[总督府附件目录](https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/defence-long-service-medal)及其1998年诏书附件亦标5月26日。已在原项目记录双方依据，建议后续改为5月26日。本批为报告，尚未改变权威目录或运行包，不把建议记成已集成修正。
+2. **澳大利亚勋章17行保留，按原对象页继续核对。** [普通部004页](https://www.medals.org.uk/australia/australia004.htm)的八项等级/佩式图注可对应现有分项；军官男式、奖章男式及奖章女式列有背面入口，下一批先核同件与完整性。[军事部005页](https://www.medals.org.uk/australia/australia005.htm)列出现有六项正面，并说明女性穿制服可用男式佩法，不能将性别佩式另算等级。[003页](https://www.medals.org.uk/australia/australia003.htm)自身的2014年恢复日期与当前条目不同，不能照抄其日期覆盖现有更细记录。等级级别的设立/恢复时间应与全章1975年设立分开，下一批核诏书，不凭系列总日期推断OAM等各级日期。
+3. **服役与实战服役的1945—1975版保留独立行。** 已重开[011页](https://www.medals.org.uk/australia/australia011.htm)与[028页](https://www.medals.org.uk/australia/australia028.htm)，正文区分服役资格时期与1988/1997年的设立日期；不可因为名称相似删行。现有横杠和具体版型描述仍需逐图复核。
+4. **长期服役三项1982年日期未发现本次反证。** [033页](https://www.medals.org.uk/australia/australia033.htm)、[034页](https://www.medals.org.uk/australia/australia034.htm)可读，[PM&C预备役荣誉佩饰正文](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/reserve-force-decoration)支持1982年4月20日设立，不能误把1975年资格起算改成设立年。013页本次超时，未因此宣布其来源复核通过。替代奖章设立与旧章资格结束日期需分开记录。
+5. **两项AFP日期继续待考。** 行ID尾段AUSTRALIA092-5821731BB0与AUSTRALIA083-D8C1C4A935对应的[合作伙伴奖章](https://www.medals.org.uk/australia/australia092.htm)、[福利服务奖章](https://www.medals.org.uk/australia/australia083.htm)来源仍标未知，不补造年份。两页有背面入口，未接入。
+6. **新西兰功绩勋章成员级保留。** 已重开[DPMC对象页](https://www.dpmc.govt.nz/image-galleries/2468/media?page=8)、原图链接及[制度史](https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/history)，成员级、银质绿珐琅及1996年5月30日与现有文字相符。没有另下载素材文件，没有改照片或授权标注。
+7. **大溪地努伊勋章仍为原条目缺图。** [SAMLHOC正文](https://www.samlhoc.fr/phaleristique/ordres-chevalerie/ordre_tahiti_nui/)支持1996年6月5日设立及法属波利尼西亚地区授予主体。原有Croix、Commandeur、Grand-croix、plaque子页继续作为补现有章种的入口；本批未逐一核图，不把正文中存在图片链接记成已配完整图，不归入法国国家勋章。
+
+### 接续和交付
+
+原checkpoint新增本次大洋洲段，保留之前奥斯曼入口。下一批先接国防长期服役奖章日期冲突，再接004页三项现有版型的背面及005页佩式核对；其余逐项沿原队列，未配图章沿原SAMLHOC子页。普通事项继续保留当前正确展示，不安排一律抠图。
+
+本批实际新增章种0、版型0、背景处理0、图片替换0、运行目录事实修正0；完成79个展示视图总览、80行现状整理及79项原队列备注，记录1项具体日期冲突。只更新本文、原checkpoint和原队列，因此不触发APK封装，最新版保留0.075。未运行全量测试或全仓库回归；本批局部检查仅限所述解码、记录对应和总览。实体手机未验证。

@@ -18634,5 +18634,61 @@
     },
     "build": "Documentation/review records only; no rebuild or APK replacement; physical phone not verified",
     "visibility": "GitHub reports public; private release workflow protection preserved; no image uploads"
+  },
+  "continuation_20261025_oceania": {
+    "date": "2026-10-25 Asia/Taipei",
+    "request": "聚焦大洋洲已收录内容，以报告供后续修改；不扩章种、不改界面。",
+    "baseline": {
+      "version": "0.075",
+      "code": 75,
+      "sourceCommit": "bf01d9908df7692a651f846183c4fdb100ae5928",
+      "rows": 7803,
+      "photo_paths": 8155,
+      "build_info_read": true
+    },
+    "scope": {
+      "existing_rows": 80,
+      "existing_family_ids": 59,
+      "pictured_family_ids": 58,
+      "display_views": 79,
+      "unpictured_rows": 1,
+      "note": "family为现有分组编号，未独立重鉴全部章种；数量不代表本批新增。"
+    },
+    "completed": {
+      "display_views_decoded_and_overviewed": 79,
+      "existing_queue_items_annotated": 79,
+      "catalogue_fact_changes": 0,
+      "image_processing": 0,
+      "image_replacements": 0,
+      "new_families": 0,
+      "new_rows": 0
+    },
+    "findings": {
+      "low_resolution_labelled_views": 78,
+      "generic_variant_rows": 61,
+      "date_conflict": {
+        "field": "date",
+        "current": "1998年5月16日设立（来源记载）",
+        "current_source": "https://www.medals.org.uk/australia/australia055.htm",
+        "official_statement": "1998年5月26日正式设立；PM&C正文及总督府Letters Patent附件目录一致",
+        "official_sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal",
+          "https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/defence-long-service-medal",
+          "https://www.gg.gov.au/sites/default/files/2020-01/defence_long_service_medal_-_letters_patent_-_19980526_-_embossed_with_great_seal_of_australia.pdf"
+        ],
+        "disposition": "来源冲突写回待核；建议下一实体内容批将设立日改为26日，同时刷新权威目录及cloud/portable.json；本批未改运行目录。"
+      },
+      "processing_sourceSize": "79项均记录1200×1200，但本批78项展示高度250，另1项1200×748；需核对字段语义与生成环节，不改原图。"
+    },
+    "unpictured_followup": {
+      "rowId": "FRA-SAMLHOC-ORDRE_TAHITI_NUI-TEXT-20260929",
+      "decision": "原条目继续未配图。SAMLHOC正文复开，设立日1996-06-05及地区授予主体与既有记录相符；不能凭正文插图链接将其标作已配完整图。",
+      "next": "沿既有Croix/Commandeur/Grand-croix/plaque子页核对图像性质和完整性，只补现有章种。"
+    },
+    "remaining": "79项原队列状态均不变；本轮仅完成展示总览及部分来源复开，全部来源/原图核对仍未完成。",
+    "next_entry": "V020-AUSTRALIA-AUSTRALIA055-B46B619215的日期冲突先行；随后澳大利亚勋章004页三项已列背面及005页佩戴形式；新西兰保留；Tahiti Nui沿原来源子页查现有条目缺图。",
+    "prior_global_entry_preserved": "OTT/Osmanieh旧入口仍在continuation_20261025_source_followups，本批按用户指定范围暂转大洋洲，未关闭其他待办。",
+    "report": "CLOUD_STATUS.md：2026-10-25大洋洲已收录内容报告",
+    "build": "仅报告、checkpoint和原队列备注变化；不构建，保留0.075。实体手机未验证。"
   }
 }
