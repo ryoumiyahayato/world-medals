@@ -2317,6 +2317,15 @@
           "已重开DPMC成员级对象页与制度史，成员级银质绿珐琅及1996-05-30与目录相符；原图网址经网页工具可打开，未另下载素材文件。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "existing_family_coverage_gap",
+        "finding": "成员级本身未发现文字反证；DPMC列五级，现只收MNZM，缺其余四级的展示。2000—2008年前两级称PCNZM/DCNZM，与1996—1999及2009后称谓须按时期区分。只记录已有family内部覆盖缺口，不扩新章种。",
+        "sources": [
+          "https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/components-new-zealand-royal-honours-system/new-zealand-order-merit"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -61727,6 +61736,16 @@
           "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "confirmed_level_date_omission",
+        "finding": "当前1975-02-14作为全章设立日期正确，但本行OAM级在1976年加入，缺少级别设立时间。建议并列“勋章1975-02-14设立；奖章级1976-05-24增设”，不把四个佩戴版型计成四个章种。总督府手册印刷页6及22、诏书日期与新南威尔士总督官方说明互证。",
+        "sources": [
+          "https://www.gg.gov.au/sites/default/files/2025-11/Order%20of%20Australia_Booklet_2023_updated_Oct_2025.pdf",
+          "https://www.governor.nsw.gov.au/governor/selected-speeches-and-messages/show/3716"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -61835,6 +61854,15 @@
           "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "missing_reverse_lead",
+        "finding": "普通部军官男式现只有正面，004页另列Reverse链接；与奖章男女式两行共3个现有版型可继续核背面。仅链接存在，未确认同件、原图完整性或取回文件，不标作已补图。",
+        "sources": [
+          "https://www.medals.org.uk/australia/australia004.htm"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -61862,6 +61890,16 @@
           "本次重开普通部来源页，8项等级/佩戴形式有分项图注；军官男式、奖章男式和女式列有背面链接。需核对具体实物及图像后再接入；不默认同件。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "confirmed_level_date_omission",
+        "finding": "当前1975-02-14作为全章设立日期正确，但本行OAM级在1976年加入，缺少级别设立时间。建议并列“勋章1975-02-14设立；奖章级1976-05-24增设”，不把四个佩戴版型计成四个章种。总督府手册印刷页6及22、诏书日期与新南威尔士总督官方说明互证。",
+        "sources": [
+          "https://www.gg.gov.au/sites/default/files/2025-11/Order%20of%20Australia_Booklet_2023_updated_Oct_2025.pdf",
+          "https://www.governor.nsw.gov.au/governor/selected-speeches-and-messages/show/3716"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -61916,6 +61954,16 @@
           "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "confirmed_level_date_omission",
+        "finding": "当前1975-02-14作为全章设立日期正确，但本行OAM级在1976年加入，缺少级别设立时间。建议并列“勋章1975-02-14设立；奖章级1976-05-24增设”，不把四个佩戴版型计成四个章种。总督府手册印刷页6及22、诏书日期与新南威尔士总督官方说明互证。",
+        "sources": [
+          "https://www.gg.gov.au/sites/default/files/2025-11/Order%20of%20Australia_Booklet_2023_updated_Oct_2025.pdf",
+          "https://www.governor.nsw.gov.au/governor/selected-speeches-and-messages/show/3716"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -62051,6 +62099,16 @@
           "军事部来源页列6项现有正面；女性穿制服使用男式佩法，性别佩式不是独立等级。来源尚缺其他版型图；本批不扩行。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "confirmed_level_date_omission",
+        "finding": "当前1975-02-14作为全章设立日期正确，但本行OAM级在1976年加入，缺少级别设立时间。建议并列“勋章1975-02-14设立；奖章级1976-05-24增设”，不把四个佩戴版型计成四个章种。总督府手册印刷页6及22、诏书日期与新南威尔士总督官方说明互证。",
+        "sources": [
+          "https://www.gg.gov.au/sites/default/files/2025-11/Order%20of%20Australia_Booklet_2023_updated_Oct_2025.pdf",
+          "https://www.governor.nsw.gov.au/governor/selected-speeches-and-messages/show/3716"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -62318,6 +62376,15 @@
           "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "no_problem_found_for_checked_date",
+        "finding": "现有1987-06-02与PM&C正文一致。",
+        "sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-antarctic-medal"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -62372,6 +62439,17 @@
           "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "confirmed_date_problem",
+        "finding": "当前1988-09-13是1975年以后版的设立日；1945—1975版官方设立日为1995-02-22。商业来源011页同样写错；上轮仅复开商业站不足以确认日期，本次纠正该审查结论。",
+        "sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-service-medal-1945-1975",
+          "https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/australian-service-medal-1945-75",
+          "https://www.medals.org.uk/australia/australia011.htm"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -62843,6 +62921,15 @@
           ],
           "disposition": "来源冲突写回待核；建议下一实体内容批将设立日改为26日，同时刷新权威目录及cloud/portable.json；本批未改运行目录。"
         }
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "prior_conflict_reconfirmed",
+        "finding": "前轮已记录的日期冲突再次获PM&C正文支持：应为1998-05-26，不是当前05-16；这是既有问题复核，不计为新发现。",
+        "sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -63086,6 +63173,15 @@
           "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "no_problem_found_for_checked_date",
+        "finding": "当前2001-02-14获总督府诏书目录支持，不凭其他馆藏的公告日期修改。",
+        "sources": [
+          "https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/centenary-medal"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -63356,6 +63452,15 @@
           "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "no_problem_found_for_checked_date",
+        "finding": "现有2017-06-19与PM&C专题正文一致；新南威尔士总督演说脚注写2021，不能用该脚注覆盖。2021年另有规则修订，不等于原设立年。",
+        "sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-corrections-medal"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -63410,6 +63515,15 @@
           "需按来源具体化版型、横杠/附饰及适用时期；不得凭颜色或文件名补写。",
           "processing.sourceSize为1200×1200，与本图展示尺寸/来源尺寸字段不一致；作为元数据待核，不能据此称原图1200像素。"
         ]
+      },
+      "oceania_online_review_20261025": {
+        "accessed": "2026-10-25",
+        "kind": "no_problem_found_for_checked_date",
+        "finding": "现有1968-06-08与PM&C正文一致；1964—1973是资格时期，不改成设立日期。",
+        "sources": [
+          "https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/vietnam-medal"
+        ],
+        "disposition": "本批联网核查报告；未改权威目录、云端输入或图片，不记为已集成修正；原审核状态保留。"
       }
     },
     {
@@ -96965,5 +97079,36 @@
     "source_access": "Commons、WorldAwards及既有MedalBook对象页均CONNECT代理403；未取得正文，未绕过策略。",
     "apk": "仅报告和审查记录改变，不打包；固定0.075保持。实体手机未验证。",
     "concurrent_progress": "保留main上其他地区报告和南美来源状态推进；本批起始总队列359/7786，提交时总队列380/7765，21项差额不计本批成果。"
+  },
+  "continuation_20261025_oceania_online": {
+    "as_of": "2026-10-25 Asia/Taipei",
+    "baseline": "mobile-current build-info正文重读：0.075/code75；运行目录未改",
+    "scope": "沿上一批大洋洲，针对日期、现有family等级及背面缺口联网复核；非全部79图身份审定。",
+    "existing_queue_items_annotated": 12,
+    "new_findings": {
+      "date_error_rows": 1,
+      "level_date_omission_rows": 4,
+      "distinct_new_problem_types": 2
+    },
+    "prior_problem_reconfirmed_rows": 1,
+    "preserved_dates_no_problem_found": 4,
+    "coverage_gaps": [
+      "NZ-ORDER-MERIT现有1/5级，缺4级展示；称谓须分2000—2008时期。",
+      "澳大利亚勋章普通部现8项，军事部来源的同伴女式与军官男式无图；仅记同章版型缺口。",
+      "004页军官男式、奖章男式及女式共3个现有版型有背面链接，尚未取得/核同件。"
+    ],
+    "source_cautions": [
+      "PM&C的1945—1975服役奖章页背面图片替代文字误指Korea，未据此下载或配对。",
+      "新南威尔士总督演说脚注将惩教奖章写成2021；专题官方页面支持当前2017年，保留现有值。",
+      "总督府手册PDF文本已检索，截图工具返回图片占位而无可供本地逐像素检查的文件；不把本次PDF查阅说成新原图审核。"
+    ],
+    "applied_changes": {
+      "catalogue_facts": 0,
+      "image_replacements": 0,
+      "background_processing": 0,
+      "new_award_families": 0
+    },
+    "next_entry": "先将011页日期、OAM四行的级别日期和055页既有日期问题纳入下一次权威目录/云端输入同步修改；再核004页三项背面；其余缺口仅保留记录。",
+    "build": "只有报告和进度变化，不打包；实体手机未验证。"
   }
 }

@@ -18830,5 +18830,36 @@
     "source_access": "Commons、WorldAwards及既有MedalBook对象页均CONNECT代理403；未取得正文，未绕过策略。",
     "apk": "仅报告和审查记录改变，不打包；固定0.075保持。实体手机未验证。",
     "concurrent_progress": "保留main上其他地区报告和南美来源状态推进；本批起始总队列359/7786，提交时总队列380/7765，21项差额不计本批成果。"
+  },
+  "continuation_20261025_oceania_online": {
+    "as_of": "2026-10-25 Asia/Taipei",
+    "baseline": "mobile-current build-info正文重读：0.075/code75；运行目录未改",
+    "scope": "沿上一批大洋洲，针对日期、现有family等级及背面缺口联网复核；非全部79图身份审定。",
+    "existing_queue_items_annotated": 12,
+    "new_findings": {
+      "date_error_rows": 1,
+      "level_date_omission_rows": 4,
+      "distinct_new_problem_types": 2
+    },
+    "prior_problem_reconfirmed_rows": 1,
+    "preserved_dates_no_problem_found": 4,
+    "coverage_gaps": [
+      "NZ-ORDER-MERIT现有1/5级，缺4级展示；称谓须分2000—2008时期。",
+      "澳大利亚勋章普通部现8项，军事部来源的同伴女式与军官男式无图；仅记同章版型缺口。",
+      "004页军官男式、奖章男式及女式共3个现有版型有背面链接，尚未取得/核同件。"
+    ],
+    "source_cautions": [
+      "PM&C的1945—1975服役奖章页背面图片替代文字误指Korea，未据此下载或配对。",
+      "新南威尔士总督演说脚注将惩教奖章写成2021；专题官方页面支持当前2017年，保留现有值。",
+      "总督府手册PDF文本已检索，截图工具返回图片占位而无可供本地逐像素检查的文件；不把本次PDF查阅说成新原图审核。"
+    ],
+    "applied_changes": {
+      "catalogue_facts": 0,
+      "image_replacements": 0,
+      "background_processing": 0,
+      "new_award_families": 0
+    },
+    "next_entry": "先将011页日期、OAM四行的级别日期和055页既有日期问题纳入下一次权威目录/云端输入同步修改；再核004页三项背面；其余缺口仅保留记录。",
+    "build": "只有报告和进度变化，不打包；实体手机未验证。"
   }
 }

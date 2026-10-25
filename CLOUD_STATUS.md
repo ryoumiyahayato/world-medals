@@ -254,3 +254,34 @@ mobile-current标签与0.075构建信息仍指向已验证的源码提交bf01d99
 接续北美洲报告，网页工具可读部分加拿大官方、medals.org.uk及国家档案馆正文；命令行403不代表这些页面都不可读。记录中国服役奖章1942授权性质、优异飞行十字1927签署成法说法两条日期问题；四个加拿大背面及一个墨西哥大十字级挂章补图候选。候选未下载或集成，不计逐图完成。官方支持特别服役奖章缺横杠限定，并确认查理三世追思十字改用背针，无绶带不据此判残缺。警察功绩勋章当前Commander正确，不沿用商业页Companion冲突。上轮加拿大勋章五行family未归一判断撤回，实际共用CAN-ORDER-CANADA。
 
 详见NORTH_AMERICA_REVIEW_20261025.md联网续查节。13行原队列追加结果、checkpoint保存下一入口，原队列成员、顺序和状态保持。下一批先核中国服役奖章原刊，再按目录及云端输入同步流程修正日期；随后DFC来源冲突与五个补图候选。目录事实实改、图片处理/接入均0，仅报告与进度更新，未打包APK，实体手机未验证。
+
+### 2026-10-25大洋洲联网复核续报
+
+继续上一轮，按用户要求查询已收录内容的缺漏和问题，不以必须找出错误为目标。本次再次读取mobile-current/build-info.json，仍为0.075/code75。本次只更新报告和原有待核记录，不改运行目录或图片。
+
+**两类新发现，涉及5个现有行：**
+
+| 条目 | 当前记录 | 本次联网依据及建议 |
+| --- | --- | --- |
+| 澳大利亚服役奖章1945—1975版（V020-AUSTRALIA-AUSTRALIA011-25294B595D） | 1988年9月13日设立 | [PM&C专题](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-service-medal-1945-1975)及[总督府诏书目录](https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/australian-service-medal-1945-75)均为1995年2月22日。1988年日期属于1975年以后版，不能移用。原Medals of the World 011页也写1988；上一轮仅按该商业页核对不足以确认，本次撤回对该日期的沿用判断。 |
+| 澳大利亚勋章OAM级4个佩戴版型（004-2D0FA5614D、004-E54EFE89DA、005-3B3C1D2E83、005-9B8E90AA34，均沿原完整rowId） | 仅写全章1975年2月14日设立 | 全章日期本身正确，但遗漏奖章级在1976年加入。[总督府手册](https://www.gg.gov.au/sites/default/files/2025-11/Order%20of%20Australia_Booklet_2023_updated_Oct_2025.pdf)第16版、2025年10月更新，印刷页6及22，说明两部的OAM均在1976年增设；[新南威尔士总督官方说明脚注14](https://www.governor.nsw.gov.au/governor/selected-speeches-and-messages/show/3716)具体列1976年5月24日诏书。建议分开写全章设立与级别增设，不将四个佩戴版型另算四种。 |
+
+前轮国防长期服役奖章的5月16日／26日问题再次复核：[PM&C正文](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/defence-long-service-medal)明确1998年5月26日。沿用原冲突记录，不计本批新问题。
+
+**既有章种内部的缺漏，尚未补入：**
+
+- 新西兰功绩勋章目前只有MNZM成员级。[DPMC专题](https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/components-new-zealand-royal-honours-system/new-zealand-order-merit)列五级，其他四级展示尚缺；2000—2008年的前两级称Principal/Distinguished Companion，1996—1999及2009后称Knight/Dame Grand Companion及Knight/Dame Companion，后续不能跨时期随意套名。现有成员级本身本次没有发现反证。
+- [澳大利亚勋章普通部004页](https://www.medals.org.uk/australia/australia004.htm)列出军官男式、奖章男式、奖章女式三个既有版型的背面链接，当前均仅正面；只记可核入口，未取得文件或确认同件，不说成已配对。[军事部005页](https://www.medals.org.uk/australia/australia005.htm)缺同伴女式和军官男式图片，这是现有章种的佩戴版型覆盖缺口，未新增空行或新队列。
+
+**本次核查未发现日期问题，保留：**
+
+- 越南奖章1968年6月8日，获[PM&C专题](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/vietnam-medal)支持；1964—1973年是资格时期。
+- 澳大利亚南极奖章1987年6月2日，获[PM&C专题](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-antarctic-medal)支持。
+- 百年纪念奖章2001年2月14日，获[总督府诏书目录](https://www.gg.gov.au/australian-honours-and-awards/operational-and-service-awards/centenary-medal)支持。
+- 澳大利亚惩教奖章2017年6月19日，获[PM&C专题](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/australian-corrections-medal)支持。上述总督演说的另一脚注写成2021，不能因其为官方网页就覆盖现有值；2021年另有规则修订。
+
+本次还注意到PM&C的1945—1975服役奖章页背面替代文字写成Korea；这只说明来源页本身有需警惕的标注，不能由链接位置认定背面对应。未据该图注替换任何图片。PDF文本和相关官方说明已查阅；本次未进行原图像素级或实体真伪鉴定，没有确认新的错配、复制品漏标或残件漏标。
+
+已给原队列12项追加联网依据，原checkpoint保存两类新问题、前轮问题复核、四项保留日期及同章缺口。全部原队列身份、路径、状态和总数保持，本批未将文字查证自动升级为逐图来源审查完成。实际目录事实修正0、图片处理0、图片替换0、新增章种0；这是供后续修改的报告，不能计作APK已修复。未打包，保留0.075，实体手机未验证。
+
+下一批从011页1995年日期、OAM四行级别增设日期及055页既有日期问题接续；发生实际修正时同步权威目录和云端输入，按既有流程构建。其后核004页三项背面，来源无法确认则继续保留原展示。未运行全量测试或全仓库回归。
