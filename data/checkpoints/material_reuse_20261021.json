@@ -18754,5 +18754,19 @@
     "cloud_blocker": "GitHub get_repo本轮确认visibility=public；现有工作流仅对private运行。没有更改可见性、取消保护或上传公开图像/构建输入。",
     "concurrent_main_progress": "已保留main e09eda04及此前北美、东南亚、非洲、大洋洲报告与原队列审查记录；这些内容不计本批南美洲成果。",
     "other_scope_next_step_preserved": "用户指定东南亚：先读docs/southeast-asia-existing-content-20261025.md；原图片队列从KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA-MEDALBOOK-010指挥官级正面接续。599行/731路径为本批目录记录整理，未完成逐图来源鉴定；23行文字待核候选保留。"
+  },
+  "india_review_20261025": {
+    "rows": 108,
+    "views": 186,
+    "family_ids": 65,
+    "report": "INDIA_REVIEW_20261025.md",
+    "completed": "108行186展示视图定位、解码与总览初查；12行记录具体后续重点。未完成原图和对象页逐件鉴定。",
+    "status_changes": 0,
+    "catalogue_fact_changes": 0,
+    "background_processing": 0,
+    "image_replacements": 0,
+    "remaining": "186视图来源与原图复核；264条无图目录候选仅保留既有状态；6542旧成员队列仍未找回。",
+    "next_entry": "IND-MB-045-V01；其后IND-MB-004-V01，再回原队列BIND-MB-005-V01顺序。",
+    "apk": "仍0.075/code75；仅报告与记录变化，不打包；实体手机未验证。"
   }
 }
