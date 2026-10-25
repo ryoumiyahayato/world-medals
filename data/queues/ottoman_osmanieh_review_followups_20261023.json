@@ -9,7 +9,18 @@
       "status": "documented_variant_without_current_gallery_photo",
       "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-i-class-1.html",
       "source_archive": "active-source-pack-58.zip",
-      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count",
+      "last_checked": "2026-10-25",
+      "last_check_result": "对象页经网页工具重开，图库仍为Add an image占位；不把占位图或版型文字当成实物照片。保持待核。",
+      "candidate_dispositions": [
+        {
+          "page": "https://www.noonans.co.uk/archive/past-catalogues/642/catalogue/426652/",
+          "object": "Noonans 2022-07-27 lot571",
+          "accessed": "2026-10-25",
+          "summary": "一等套章；拍品明确注明挂章剑饰后加，章尖有缺失、弯折及粗糙修补，珐琅有损。",
+          "decision": "不能补作原装完整军用一等标准实物。不下载接入；若未来作为改装/残损参考，须单独如实标注，不替换现有等级或视图。"
+        }
+      ]
     },
     {
       "id": "MBOSM-military-division-i-class-breast-star-2",
@@ -18,7 +29,9 @@
       "status": "documented_variant_without_current_gallery_photo",
       "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-i-class-breast-star-2.html",
       "source_archive": "active-source-pack-58.zip",
-      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count",
+      "last_checked": "2026-10-25",
+      "last_check_result": "对象页经网页工具重开，图库仍为Add an image占位；不把占位图或版型文字当成实物照片。保持待核。"
     },
     {
       "id": "MBOSM-military-division-ii-class-3",
@@ -27,7 +40,9 @@
       "status": "documented_variant_without_current_gallery_photo",
       "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-ii-class-3.html",
       "source_archive": "active-source-pack-58.zip",
-      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count",
+      "last_checked": "2026-10-25",
+      "last_check_result": "对象页经网页工具重开，图库仍为Add an image占位；不把占位图或版型文字当成实物照片。保持待核。"
     },
     {
       "id": "MBOSM-military-division-ii-class-breast-star-4",
@@ -36,7 +51,9 @@
       "status": "documented_variant_without_current_gallery_photo",
       "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-ii-class-breast-star-4.html",
       "source_archive": "active-source-pack-58.zip",
-      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count",
+      "last_checked": "2026-10-25",
+      "last_check_result": "对象页经网页工具重开，图库仍为Add an image占位；不把占位图或版型文字当成实物照片。保持待核。"
     },
     {
       "id": "MBOSM-military-division-iii-class-5",
@@ -45,13 +62,17 @@
       "status": "documented_variant_without_current_gallery_photo",
       "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-iii-class-5.html",
       "source_archive": "active-source-pack-58.zip",
-      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count",
+      "last_checked": "2026-10-25",
+      "last_check_result": "对象页经网页工具重开，图库仍为Add an image占位；不把占位图或版型文字当成实物照片。保持待核。"
     },
     {
       "id": "OMB2-1215A16CCA8C",
       "family": "OTT-OSM",
       "status": "old_photo_exact_specimen_and_grade_pending",
-      "action": "Find original auction or museum record for the old composite; currentMedalBookgalleryempty"
+      "action": "Find original auction or museum record for the old composite; currentMedalBookgalleryempty",
+      "last_checked": "2026-10-25",
+      "last_check_result": "当前旧正背/局部合图已目视复看；编号662仅是找回原图录线索，不据此认定拍卖行或等级。现行四等对象页仍无图库，原出处与等级保持待核。"
     },
     {
       "id": "OTT-IFTIHAR-ORDER-458A6B0EB686",

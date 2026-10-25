@@ -335,15 +335,20 @@
       "name": "工业／技艺奖章",
       "variant": "工业奖章；银质；31毫米；替换绶带",
       "view": "正面",
-      "source": "",
-      "status": "awaiting_individual_image_review",
+      "source": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+      "status": "source_reviewed_awaiting_image_processing",
       "processedPath": null,
       "visual_review_20261025": {
         "display_version": "0.075",
         "result": "章体与绶带未见明显裁断；正背面视觉标签相符；eMedals水印保留；不处理或替换。",
         "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
         "source_access": "HTTP403；未独立确认名称、材质、日期或同件配对，原状态保持待逐图审查。"
-      }
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "原站EU23880对象正文经网页工具打开；记银质、31毫米、替换绶带和深色包浆；正面阿卜杜勒哈米德二世花押、背面空白。对象页两张图库URL与当前目录保存的原图URL分别一致，当前展示正背两图目视复看，章体与绶带未见裁断，水印保留。日期仅维持原行的1884（拍品说明），不扩展为独立制度史核定。",
+      "source_image_url": "https://www.emedals.com/cdn/shop/files/MNC3256_2034f12a-b2cd-4afd-9711-5d3290d6aad8.jpg?v=1755103291&width=1946",
+      "processing_decision": "保留当前展示；本批无需抠图或替换。沿用既有状态枚举记录来源审查完成，不表示必须处理，也不计入integrated_user_ai_display。",
+      "source_access_20261025": "shell此前403；本批网页工具已读对象正文和图库链接。未新下载或替换原图。"
     },
     {
       "originalPath": "assets/images/ottoman/SANAYI-2.jpg",
@@ -352,15 +357,20 @@
       "name": "工业／技艺奖章",
       "variant": "工业奖章；银质；31毫米；替换绶带",
       "view": "背面",
-      "source": "",
-      "status": "awaiting_individual_image_review",
+      "source": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
+      "status": "source_reviewed_awaiting_image_processing",
       "processedPath": null,
       "visual_review_20261025": {
         "display_version": "0.075",
         "result": "章体与绶带未见明显裁断；正背面视觉标签相符；eMedals水印保留；不处理或替换。",
         "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
         "source_access": "HTTP403；未独立确认名称、材质、日期或同件配对，原状态保持待逐图审查。"
-      }
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "原站EU23880对象正文经网页工具打开；记银质、31毫米、替换绶带和深色包浆；正面阿卜杜勒哈米德二世花押、背面空白。对象页两张图库URL与当前目录保存的原图URL分别一致，当前展示正背两图目视复看，章体与绶带未见裁断，水印保留。日期仅维持原行的1884（拍品说明），不扩展为独立制度史核定。",
+      "source_image_url": "https://www.emedals.com/cdn/shop/files/MNC3258_0fdb669c-2d96-4c36-8e2d-a514006cd790.jpg?v=1755103293&width=1946",
+      "processing_decision": "保留当前展示；本批无需抠图或替换。沿用既有状态枚举记录来源审查完成，不表示必须处理，也不计入integrated_user_ai_display。",
+      "source_access_20261025": "shell此前403；本批网页工具已读对象正文和图库链接。未新下载或替换原图。"
     },
     {
       "originalPath": "assets/images/ottoman_medalbook_pack2/omb2-e178b608f433.jpg",
@@ -371,7 +381,12 @@
       "view": "完整实物图",
       "source": "https://www.medalbook.com/europe-east/turkey/medals-decorations/sanayi-medal/sanayi-medal-in-silver-2",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "visual_review_20261025_followup": {
+        "display_version": "0.075",
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      }
     },
     {
       "originalPath": "assets/images/ottoman_kuenker299_batch3/lot_7280_front.jpg",
@@ -382,7 +397,12 @@
       "view": "正面完整实物图",
       "source": "https://kuenker.s3.eu-central-1.amazonaws.com/media/31/1d/22/1736866624/299_kuenker-katalog_web.pdf#page=195",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "visual_review_20261025_followup": {
+        "display_version": "0.075",
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      }
     },
     {
       "originalPath": "assets/images/ottoman_kuenker299_batch3/lot_7280_back.jpg",
@@ -393,7 +413,12 @@
       "view": "背面完整实物图",
       "source": "https://kuenker.s3.eu-central-1.amazonaws.com/media/31/1d/22/1736866624/299_kuenker-katalog_web.pdf#page=195",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "visual_review_20261025_followup": {
+        "display_version": "0.075",
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      }
     },
     {
       "originalPath": "assets/images/ottoman_kuenker299_batch3/lot_7281_front.jpg",
@@ -404,7 +429,12 @@
       "view": "正面完整实物图 · 背景已处理 · 低清参考",
       "source": "https://kuenker.s3.eu-central-1.amazonaws.com/media/31/1d/22/1736866624/299_kuenker-katalog_web.pdf#page=195",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "visual_review_20261025_followup": {
+        "display_version": "0.075",
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      }
     },
     {
       "originalPath": "assets/images/ottoman_kuenker299_batch3/lot_7281_back.jpg",
@@ -415,7 +445,12 @@
       "view": "背面完整实物图 · 背景已处理 · 低清参考",
       "source": "https://kuenker.s3.eu-central-1.amazonaws.com/media/31/1d/22/1736866624/299_kuenker-katalog_web.pdf#page=195",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "visual_review_20261025_followup": {
+        "display_version": "0.075",
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      }
     },
     {
       "originalPath": "assets/images/ottoman_medalbook_pack2/omb2-20378fe7859f.jpg",
@@ -90455,8 +90490,8 @@
     }
   ],
   "pending": 8145,
-  "source_reviewed": 336,
-  "individual_review_pending": 7809,
+  "source_reviewed": 338,
+  "individual_review_pending": 7807,
   "replacement_pending": 8145,
   "previous_row_entries_0_069": [
     {
@@ -91323,5 +91358,12 @@
     "processing_counter_change": 0,
     "next": "先取得二等慈善勋章完整背面原图录；继续原Osmanieh待核项；普通逐图队列从OTT-LEG-SANAYI的来源核查接续。",
     "scope": "14视图为旧073批次当前集成结果核查；不得记成本批新集成或新替换。"
+  },
+  "continuation_20261025_source_followups": {
+    "completed_source_reviews": 2,
+    "additional_visual_only_views": 5,
+    "next_row": "OMB2-E178B608F433",
+    "processing_and_replacement": 0,
+    "note": "前次两项来源阻塞本次通过网页工具解决；原图及当前展示保留。"
   }
 }

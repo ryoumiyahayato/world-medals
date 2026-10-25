@@ -15718,7 +15718,7 @@
   "current_unpictured_rows": 1823,
   "current_unique_images": 8155,
   "cloud_report_id": "1EWd2bzeHzaIi03Be92ErOR9rgYSFbGU0",
-  "replacement_scope": "Current queue8155 photo paths;10 user displays integrated;336 source views reviewed;7809 individual reviews pending;8145 processing/replacement pending does not mean wrong images or mandatory replacements. Latest continuation is continuation_20261025; older APK and source-review blocks remain historical.",
+  "replacement_scope": "Current queue8155 photo paths;10 user displays integrated;338 source views reviewed;7807 individual reviews pending. Processing/replacementpending8145 is not wrong-image count or mandatory replacement. Current continuation: continuation_20261025_source_followups; earlier dated blocks remain historical.",
   "next_work": {
     "view_label_review_queue": "data/queues/v025_view_label_review_20261021.json",
     "remaining_families": 0,
@@ -15731,28 +15731,27 @@
     "local_source_removal_status": "batch deletion blocked by automatic approval; originals retained",
     "source_table_review_complete": true,
     "cross_volume_identity_candidate": "UKR-WA-ORDER_OF_PRINCESS_OLGA versus V025-UKR-ORDER_OF_PRINCESS_OLHA; object page inaccessible",
-    "next_step": "data/queues/ottoman_osmanieh_review_followups_20261023.json；二等慈善背面完整来源；其后image_replacement_current_20261021.json中OTT-LEG-SANAYI。",
+    "next_step": "普通队列先完成OMB2-E178B608F433旧图与MedalBook图库实物对应；随后Künker299图录PDF第195页的7280/7281。Osmanieh与二等慈善背面保留来源阻塞，不反复重试相同失败地址。",
     "local_build_cleanup_status": "CurrentAPK0.072 overwrote previouscurrentartifact. No deletionattempted; olderblocked originalfiles,APKs,ZIP55/56 untouched. Fixed uploadbuffer57 safelyreused for58 after priorcloudverification; cachefile shrank49.4MiB, no netprojectdiskclaim.",
     "next_image_review": {
-      "originalPath": "assets/images/ottoman/SANAYI-1.jpg",
-      "rowId": "OTT-LEG-SANAYI",
+      "originalPath": "assets/images/ottoman_medalbook_pack2/omb2-e178b608f433.jpg",
+      "rowId": "OMB2-E178B608F433",
       "family": "OTT-SANAYI",
-      "name": "工业／技艺奖章",
-      "variant": "工业奖章；银质；31毫米；替换绶带",
-      "view": "正面",
-      "source": "",
+      "name": "工艺功绩奖章",
+      "variant": "银质／银色版；完整实物图；商业目录图像，仅限本地研究",
+      "view": "完整实物图",
+      "source": "https://www.medalbook.com/europe-east/turkey/medals-decorations/sanayi-medal/sanayi-medal-in-silver-2",
       "status": "awaiting_individual_image_review",
       "processedPath": null,
-      "visual_review_20261025": {
+      "visual_review_20261025_followup": {
         "display_version": "0.075",
-        "result": "章体与绶带未见明显裁断；正背面视觉标签相符；eMedals水印保留；不处理或替换。",
-        "source_page": "https://www.emedals.com/products/turkey-ottoman-empire-a-sanayi-medal-in-silver-eu23880",
-        "source_access": "HTTP403；未独立确认名称、材质、日期或同件配对，原状态保持待逐图审查。"
+        "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
+        "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
       }
     },
-    "remaining_individual_image_review_items": 7809,
-    "source_images_reviewed_current_queue": 336,
-    "next_image_review_name": "工业／技艺奖章（来源核查待完成）",
+    "remaining_individual_image_review_items": 7807,
+    "source_images_reviewed_current_queue": 338,
+    "next_image_review_name": "工艺功绩奖章（MedalBook旧图实物匹配）",
     "new_source_storage_rule": "For future new sources, avoid saving returned ZIPs. Where practical keep newly fetched originals directly in initial source ZIP and derive images in memory, avoiding duplicate raw originals on disk. Never overwrite/delete older policy-blocked targets.",
     "unmerged_raw_source_objects": [],
     "source_followup_queue": "data/queues/ottoman_osmanieh_review_followups_20261023.json",
@@ -17154,7 +17153,7 @@
     "total_bytes_removed": 0,
     "old_policy_blocked_targets_untouched": true
   },
-  "current_individual_image_review_pending": 7809,
+  "current_individual_image_review_pending": 7807,
   "latest_source_input_delta": {
     "edition": "0.072",
     "old_display_paths_no_longer_referenced": 11,
@@ -18405,5 +18404,35 @@
       "project-part-15-of-15.zip中的review073方案和tmp/source-upload-current.zip缓存；只提取必要成员"
     ],
     "checks": "仅073方案与当前11行/14视图路径、family、variant及3条历史合并结果局部核对；未运行全量测试或重验APK。"
+  },
+  "continuation_20261025_source_followups": {
+    "current_version": "0.075/code75，build-info正文再次读取",
+    "completed_this_batch": {
+      "source_reviewed_current_views": 2,
+      "additional_visual_only_views": 5,
+      "old_osmanieh_composite_views_rechecked": 1,
+      "empty_gallery_followups_rechecked": 5,
+      "unsuitable_candidate_records": 1,
+      "new_image_processing": 0,
+      "new_image_replacements": 0,
+      "catalogue_fact_changes": 0
+    },
+    "decisions": [
+      "OTT-LEG-SANAYI两图原拍品EU23880正文与图库链接已核对；保留当前展示，不抠图、不替换。",
+      "五项Osmanieh目录图库仍空；Noonans642/571的剑饰后加且实物残损，排除其作为原装完整军用版补图。",
+      "OMB2-1215A16CCA8C旧合图与其现行对象页复看，编号662仅作原图录检索线索，出处/等级未解决。",
+      "OMB2-E178B608F433及OK299-7280/7281五视图完成目视，实物来源对应关系仍待核，未改状态。",
+      "二等慈善原Thies PDF网页工具仍无法读取；完整背面仍待补，不重复接入残图。"
+    ],
+    "queue_after": {
+      "total": 8155,
+      "integrated_user_ai_display": 10,
+      "source_reviewed": 338,
+      "individual_review_pending": 7807,
+      "processing_replacement_pending": 8145
+    },
+    "next_entry": "普通队列先完成OMB2-E178B608F433旧图与MedalBook图库实物对应；随后Künker299图录PDF第195页的7280/7281。Osmanieh与二等慈善背面保留来源阻塞，不反复重试相同失败地址。",
+    "build": "只更新审查及待核记录，当前目录事实和图片未修改，不重新打包。实体手机未验证。",
+    "access": "shell受限网络不允许原站下载；网页工具可读取部分对象页。不得将网页正文可读说成原图已下载。"
   }
 }
