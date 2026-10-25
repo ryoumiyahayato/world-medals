@@ -18810,5 +18810,25 @@
     "images_integrated": 0,
     "next_entry": "US-CSM-1937-1942-STANDARD：核对原刊并同步目录/云端输入修正日期；随后DFC来源冲突及五个补图候选",
     "apk": "仅审查报告更新，不打包；实体手机未验证"
+  },
+  "middle_east_review_20261025": {
+    "report": "MIDDLE_EAST_REVIEW_20261025.md",
+    "baseline": "mobile-current/build-info.json及cloud/state.json：0.075/code75，7803行8155照片路径",
+    "inventory_rows": 739,
+    "inventory_photo_paths": 1065,
+    "overview_rows": 76,
+    "display_views_decoded_and_visually_overviewed": 74,
+    "queue_items_annotated": 74,
+    "status_changes": 0,
+    "catalogue_fact_changes": 0,
+    "background_processing": 0,
+    "image_replacements": 0,
+    "new_families": 0,
+    "completed": "当前中东既有16卷目录盘点，7卷76行74视图解码及总览目视；来源/图像性质冲突写回原队列，未另建队列。",
+    "unfinished": "74视图仍需来源与原图逐件审查；其他范围仅做目录盘点。739行1065路径不是本批图片审查完成数。6542历史成员队列仍未找回。",
+    "next_entry": "OMB2-E178B608F433，沿既有奥斯曼入口；其次Künker299第195页7280/7281与原Osmanieh followups。中东报告后续优先处理Iran Jiladat名称冲突、Nezamnameh及TC Devlet图像性质，再核伊朗29条泛称。",
+    "source_access": "Commons、WorldAwards及既有MedalBook对象页均CONNECT代理403；未取得正文，未绕过策略。",
+    "apk": "仅报告和审查记录改变，不打包；固定0.075保持。实体手机未验证。",
+    "concurrent_progress": "保留main上其他地区报告和南美来源状态推进；本批起始总队列359/7786，提交时总队列380/7765，21项差额不计本批成果。"
   }
 }

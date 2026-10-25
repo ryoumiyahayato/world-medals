@@ -386,6 +386,12 @@
         "display_version": "0.075",
         "result": "本批已查看当前展示；章体轮廓保留。7280绶带磨损与7281无悬环现状不修补，7281背景已处理标识保留。",
         "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
+      },
+      "middle_east_followup_20261025": {
+        "action": "重开既有精确MedalBook对象页",
+        "result": "CONNECT代理403；未取得正文，不改变来源状态；旧实物与现行图库对应仍待核",
+        "next": "保留原入口，待来源访问可用后继续；Künker299第195页7280/7281随后",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
       }
     },
     {
@@ -2260,7 +2266,14 @@
       "view": "完整正面",
       "source": "https://commons.wikimedia.org/wiki/File:%D9%86%D9%88%D8%B7_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9_%D9%84%D9%84%D8%AE%D8%AF%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2%D8%A9.jpg",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/minimum_coverage_root/canada_front.png",
@@ -8012,7 +8025,14 @@
       "view": "参考·正面",
       "source": "https://www.iranicaonline.org/articles/decorations/",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "保留用户处理参考性质及一级/二级待考，不凭处理图鉴材质、真伪或具体等级；1925/1926来源差异已在原说明中保留。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-8f2ddfb6f07c.png",
@@ -8023,7 +8043,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-0ceef923107e.png",
@@ -8034,7 +8061,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-1baca74ccc46.png",
@@ -8045,7 +8079,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现用“铜质／铜色”仍混合材质和外观口径；本次未重开来源，不将铜色照片鉴为铜质。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-954616c90918.png",
@@ -8056,7 +8097,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-9843fdbc081a.png",
@@ -8067,7 +8115,14 @@
       "view": "完整实物图 · 背景已处理 · 低清参考",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "中文名为狮子与太阳勋章，original为Mohammad Shah Qajar order of Jiladat，familyName又为Mohammad Ali Qajar Jiladat order 1326；三者不一致。图为带绶带正背合图；不得凭狮纹裁决名称。重开文件页和专业图录后决定中文名与family关系。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-c85c2ecd2d81.png",
@@ -8078,7 +8133,14 @@
       "view": "历史图录插图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现图为包含多个不同图样的整版，不是单一四等文武两组对应图；现有“历史图录插图”性质应保留。须查1820图版XXVI图例，定位本章后再决定裁片和等级，不按整版内容改判章种。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-1b5b81a9fe63.png",
@@ -8089,7 +8151,14 @@
       "view": "历史图录插图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-67d292bacb08.png",
@@ -8100,7 +8169,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "正背合图与1980文件题名仅作线索；当前“四等”须独立对象记录证明，不能凭照片颜色或文件名确认。纪念性质与主编/附编边界待核，不直接搬移或删除。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-8f0e40c4a8dd.png",
@@ -8111,7 +8187,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-dc8c9a1e6ee4.png",
@@ -8122,7 +8205,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-f6c8bf8cef6c.png",
@@ -8133,7 +8223,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-31530e74af6b.png",
@@ -8144,7 +8241,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-70d15c0220be.png",
@@ -8155,7 +8259,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-af7c78480729.png",
@@ -8166,7 +8277,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-c4b8a1d6483c.png",
@@ -8177,7 +8295,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-035548714a83.png",
@@ -8188,7 +8313,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-0f6cb1f21174.png",
@@ -8199,7 +8331,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-dea2fddcaddc.png",
@@ -8210,7 +8349,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-958d335f6b19.png",
@@ -8221,7 +8367,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-b0230cf69230.png",
@@ -8232,7 +8385,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-b6ab9e948008.png",
@@ -8243,7 +8403,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-b76420e2b720.png",
@@ -8254,7 +8421,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-449f3e67b7ab.png",
@@ -8265,7 +8439,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-6eb94196da70.png",
@@ -8276,7 +8457,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-70bfa73ec44a.png",
@@ -8287,7 +8475,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-2c84a0bdcda9.png",
@@ -8298,7 +8493,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-406b5a2c4474.png",
@@ -8309,7 +8511,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-3dad5fa9bf8c.png",
@@ -8320,7 +8529,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-9e93ce31e53e.png",
@@ -8331,7 +8547,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-a516048e9e3d.png",
@@ -8342,7 +8565,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-46caccaff3be.png",
@@ -8353,7 +8583,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-4c4037f9eebc.png",
@@ -8364,7 +8601,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-51448f989004.png",
@@ -8375,7 +8619,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-b1271bb7ee90.png",
@@ -8386,7 +8637,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-c05ad021ea53.png",
@@ -8397,7 +8655,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-0fde89a8f89c.png",
@@ -8408,7 +8673,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-8872f791de01.png",
@@ -8419,7 +8691,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-c74e1606cb41.png",
@@ -8430,7 +8709,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-0297564d48cd.png",
@@ -8441,7 +8727,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现图为两页文字及多枚星章线描的文献图页，caption和variant却写完整实物图；图像性质存在可见冲突。需找回文献出处、页码和图例后修正图像性质与对应范围，不能当实物摄影或单一等级。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-47fe3613d47e.png",
@@ -8452,7 +8745,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-4c9e1d4ba485.png",
@@ -8463,7 +8763,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-e2334efcdfe5.png",
@@ -8474,7 +8781,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-735f37f6e845.png",
@@ -8485,7 +8799,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现中文为泛称，须按对象页确认具体章名；原文中的Medal/Order及不同等级分别保留，不合并Effort、Endeavour、Pleiades等条目。现公开图式标签保留，官方性质待核。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-bb73f86416a4.png",
@@ -8496,7 +8817,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-dce8152bae4e.png",
@@ -8507,7 +8835,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-de320b9674bd.png",
@@ -8518,7 +8853,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-bbddd4bb0c53.png",
@@ -8529,7 +8871,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "展柜场景中章体占图较小且有反光；文件总像素不代表章体有效像素。重开馆藏/文件页核对具体章种及悬挂，保留现图，不自动抠图。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-9148086240d4.png",
@@ -8540,7 +8889,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-44b7111cfbc2.png",
@@ -8551,7 +8907,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现图为黑白轮廓线图；已有公开图式标签保留。来源未重开，不能保证其为官方发布的正式图样。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-bd9ad8ba6a8e.png",
@@ -8562,7 +8925,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-cc2191c95467.png",
@@ -8573,7 +8943,14 @@
       "view": "完整实物图",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "现图为正背线描并有DEVLET NISANI字样，caption却写完整实物图；图像性质存在可见冲突。需文件页确认其为官方图式还是其他绘图，不直接称摄影实物或官方图式。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-e4e069342510.png",
@@ -8584,7 +8961,14 @@
       "view": "公开图式",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "已定位现图和旧来源；对象页、具体等级/版型及正背同件关系仍待确认；保留当前展示。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_syria/order-of-devotion.jpg",
@@ -8595,7 +8979,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/syria/order-of-devotion.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/mena7-b59f4c3e3ed9.png",
@@ -8606,7 +8997,14 @@
       "view": "完整实物图 · 背景已处理",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_oman/order-of-appreciation.jpg",
@@ -8617,7 +9015,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/oman/order-of-appreciation.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_jordan/004.jpg",
@@ -9585,7 +9990,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/military-service-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/order-of-military-duty.jpg",
@@ -9596,7 +10008,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/order-of-military-duty.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/order-of-national-defence.jpg",
@@ -9607,7 +10026,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/order-of-national-defence.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/order-of-kuwait.jpg",
@@ -9618,7 +10044,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/order-of-kuwait.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/order-of-mubarak-the-great.jpg",
@@ -9629,7 +10062,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/order-of-mubarak-the-great.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/kuwait-liberation-medal.jpg",
@@ -9640,7 +10080,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/kuwait-liberation-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/parliamentary-medal.jpg",
@@ -9651,7 +10098,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/parliamentary-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_kuwait/order-of-the-wall.jpg",
@@ -9662,7 +10116,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/en/kuwait/order-of-the-wall.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/order-of-achievement.jpg",
@@ -9673,7 +10134,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/order-of-achievement.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/order-of-bahrain.jpg",
@@ -9684,7 +10152,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/order-of-bahrain.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/order-of-sheikh-isa-bin-salman-al-khalifa.jpg",
@@ -9695,7 +10170,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/order-of-sheikh-isa-bin-salman-al-khalifa.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/kuwait-liberation-medal.jpg",
@@ -9706,7 +10188,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/kuwait-liberation-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/medal-of-military-duty.jpg",
@@ -9717,7 +10206,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/medal-of-military-duty.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/public-security-forces-sheikh-issa-memorial-medal.jpg",
@@ -9728,7 +10224,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/public-security-forces-sheikh-issa-memorial-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/police-bravery-medal.jpg",
@@ -9739,7 +10242,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/police-bravery-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/police-long-service-medal.jpg",
@@ -9750,7 +10260,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/police-long-service-medal.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_bahrain/police-medal-for-devotion-to-duty.jpg",
@@ -9761,7 +10278,14 @@
       "view": "完整图样 · 背景已处理 · 低清参考",
       "source": "https://wawards.org/bahrain/police-medal-for-devotion-to-duty.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "middle_east_review_20261025": {
+        "level": "current_display_overview_only",
+        "source_reopened": false,
+        "disposition": "retain_current_pending_source_review",
+        "finding": "代表实物不能证明全部等级覆盖；具体等级仍待考。保留来源水印及悬挂结构；重开原对象页确认名称、等级、完整性和残损/改装说明。",
+        "report": "MIDDLE_EAST_REVIEW_20261025.md"
+      }
     },
     {
       "originalPath": "assets/images/wawards_united_arab_emirates/abu-dhabi-defense-force-inauguration-medal.jpg",
@@ -96421,5 +96945,25 @@
     "images_integrated": 0,
     "next_entry": "US-CSM-1937-1942-STANDARD：核对原刊并同步目录/云端输入修正日期；随后DFC来源冲突及五个补图候选",
     "apk": "仅审查报告更新，不打包；实体手机未验证"
+  },
+  "middle_east_review_20261025": {
+    "report": "MIDDLE_EAST_REVIEW_20261025.md",
+    "baseline": "mobile-current/build-info.json及cloud/state.json：0.075/code75，7803行8155照片路径",
+    "inventory_rows": 739,
+    "inventory_photo_paths": 1065,
+    "overview_rows": 76,
+    "display_views_decoded_and_visually_overviewed": 74,
+    "queue_items_annotated": 74,
+    "status_changes": 0,
+    "catalogue_fact_changes": 0,
+    "background_processing": 0,
+    "image_replacements": 0,
+    "new_families": 0,
+    "completed": "当前中东既有16卷目录盘点，7卷76行74视图解码及总览目视；来源/图像性质冲突写回原队列，未另建队列。",
+    "unfinished": "74视图仍需来源与原图逐件审查；其他范围仅做目录盘点。739行1065路径不是本批图片审查完成数。6542历史成员队列仍未找回。",
+    "next_entry": "OMB2-E178B608F433，沿既有奥斯曼入口；其次Künker299第195页7280/7281与原Osmanieh followups。中东报告后续优先处理Iran Jiladat名称冲突、Nezamnameh及TC Devlet图像性质，再核伊朗29条泛称。",
+    "source_access": "Commons、WorldAwards及既有MedalBook对象页均CONNECT代理403；未取得正文，未绕过策略。",
+    "apk": "仅报告和审查记录改变，不打包；固定0.075保持。实体手机未验证。",
+    "concurrent_progress": "保留main上其他地区报告和南美来源状态推进；本批起始总队列359/7786，提交时总队列380/7765，21项差额不计本批成果。"
   }
 }
