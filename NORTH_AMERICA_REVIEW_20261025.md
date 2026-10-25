@@ -15,7 +15,7 @@
 |加拿大|40|40|23|39|
 |墨西哥|6|6|2|6|
 
-family ID仅为当前目录分组键；加拿大跨旧卷的同名章尚未归一，因此不能把ID数当作已确认独立章种数。长边统计仅指现有展示文件，不是原图或章体有效像素，也不是替换清单。
+family ID仅为当前目录分组键，不能直接当作已确认独立章种数。续查已确认：官方及商业来源加拿大勋章五行共用CAN-ORDER-CANADA，不存在这五行family尚未归一的问题；保留不同来源和佩式行。长边统计仅指现有展示文件，不是原图或章体有效像素，也不是替换清单。
 
 ## 后续修改重点
 1. 加拿大：官方图式与商业目录的加拿大勋章同伴级分行保留，核对同名family的跨卷关系后再考虑归并；不得合并不同等级、男女佩式。官方图式画面上缘截断绶带，章体和悬挂可见；不因这张图声称完整绶带或摄影实物。追思十字章四种君主纪号需对象页逐件确认；查理三世纪号图未展示绶带，不能生成补齐。
@@ -108,3 +108,41 @@ family ID仅为当前目录分组键；加拿大跨旧卷的同名章尚未归�
 
 ## 保存与交付
 报告及原队列、checkpoint写入GitHub；没有修改权威目录、云端构建输入或图片，因此不触发封装、不上传图片、不替换当前APK。未跑全量测试或全仓库回归；实体手机未验证。
+
+## 2026-10-25 联网续查：问题、缺漏与保留项
+
+本节接续上轮总览，使用联网查询及正文阅读，未重新对75图全量审查。命令行代理403与网页读取能力分别记录：本次网页工具能读取加拿大官方及medals.org.uk部分正文；NHHC若干对象页仍超时/502，不能笼统称全部来源不可读。本批只写报告和待核记录，不修改运行目录，不新增章种、不接入候选图片。
+
+### 两条日期问题
+
+- **US-CSM-1937-1942-STANDARD：中国服役奖章。** 当前“1937年首段服役期；1942年7月1日扩大授权”将1942年的性质写成扩大授权，存在较明确问题。1953年海军陆战队授奖手册原第162页的转录明确区分：1942年7月1日第176号总令设立并授权；战后延展另见1947年1月22日ALNAV25及1948年1月28日第255号总令。建议改为“1937—1939年首段服役期；1942年7月1日第176号总令设立；战后另有扩大适用”。此处已读完整相关转录段落；NHHC原站正文及1943年原刊PDF未能打开，转录与原刊逐字核对仍待做，不把搜索摘要算作原件已读。[手册转录，第162页](https://www.ibiblio.org/hyperwar/USN/ref/Awards/Awards-IV-17.html)；[NHHC原来源（本次正文未成功打开）](https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/china-service-medal.html)。
+- **US-DFC-1926-V-STANDARD：优异飞行十字勋章。** 当前“1926年设立（1927年签署成法）”沿用NHHC说明，但与国家档案馆保存的第4601号行政命令正文存在冲突：命令以1926年7月2日已获批准的国会法第12节为授权，命令本身日期为1927年3月1日。建议正文简写“1926年7月2日国会法授权”；1927年相关说法先保留为来源冲突，不能径自给它改配一个签署日期。NHHC对象页本次502，搜索索引仍显示旧说法，未当作已重新读取全文。[国家档案馆第4601号行政命令](https://www.archives.gov/federal-register/codification/executive-order/04601.html)。
+
+### 五个同章补图候选，不是五张已取得或已集成图片
+
+原来源对象页列有下列视图，而当前相应行只有一张正面。这里确认的是网页上的视图说明和链接，不证明正背同一实物、完整度、原图尺寸或许可。本次网页工具未提供可供实际像素核验的这些图像，未下载接入，不计逐图审查完成。
+
+|当前条目|来源已列出的补图候选|图片链接|下一步|
+|---|---|---|---|
+|V020-CANADA-CANADA001-42F68931B7 加拿大勋章同伴级|背面|https://www.medals.org.uk/canada/images/canada012.jpg|核对是否与当前男式正面同件|
+|V020-CANADA-CANADA001-DDD5093DD9 加拿大勋章军官级男式|背面|https://www.medals.org.uk/canada/images/canada013.jpg|不能自动用于女式行|
+|V020-CANADA-CANADA001-4EEF2FD1E1 加拿大勋章成员级|背面|https://www.medals.org.uk/canada/images/canada014.jpg|核对物件及完整画面|
+|V020-CANADA-CANADA025-79879A580F 追思十字章乔治六世纪号版|背面|https://www.medals.org.uk/canada/images/canada025-04.jpg|图片地址本次复开失败；保留来源页线索|
+|V021-MEXICO-MEXICO001-9D7E04FC 阿兹特克鹰大十字级|同等级挂章；是不同组件，不是星章背面|https://www.medals.org.uk/mexico/images/mexico002.jpg|核对旧制对应及对象后另配组件，不冒充新章种|
+
+对象页：[加拿大勋章](https://www.medals.org.uk/canada/canada001.htm)、[追思十字章](https://www.medals.org.uk/canada/canada025.htm)、[阿兹特克鹰](https://www.medals.org.uk/mexico/mexico001.htm)。这些网页正文均已打开；页面列出视图不等于候选已经验收。
+
+### 核对后应保留，以及上轮报告修正
+
+- **追思十字章查理三世版** V020-CANADA-CANADA025-C0282A5473：无绶带不能据此视为缺件。加拿大国防部明确说明新式改为章背竖直别针，自2024年4月1日相关死亡/决定起使用。建议将未来版型说明补为“查理三世纪号版；别针佩式”，而不是寻找绶带来补齐；尚未查看当前该件背针，不能保证这张展示图已证明全部背部结构。[官方历史说明](https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/memorial-cross.html)。
+- **特别服役奖章** V020-CANADA-CANADA014-C7D566B0F6：官方明确只随任务横杠颁发，现有“未附任务横杠（非完整获授组合）”标注正确，保留。官方另记查理三世版2025年首次颁发及DISTANTIA横杠；这是已收录章种的版型/附件覆盖缺口，当前无对应行，但本批不扩充，不据此称现图错误。[加拿大国防部](https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/special-service-medal-ssm.html)。
+- **加拿大勋章同伴级**：官方确认1967年设立、颈佩及CC。官方与商业来源五行已共用CAN-ORDER-CANADA；上轮“跨卷同名family尚未归一”判断撤回，不能据它安排合并。是否同一来源实物另待核。[官方说明](https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/companion-order-canada-cc.html)。
+- **警察部队功绩勋章指挥官级** V020-CANADA-CANADA023-5E807ADF0E：当前Commander对应正确。商业目录正文把最高级写成Companion，但同页图片alt写Commander，属来源自身冲突；加拿大官方明确Commander/COM，不能照商业页将现有正确名称改错。[官方指挥官级](https://www.canada.ca/en/department-national-defence/services/medals/medals-chart-index/commander-order-merit-police-forces-com.html)；[存在冲突的商业页](https://www.medals.org.uk/canada/canada023.htm)。
+- **墨西哥长期服役三个等级**：原页明确Especial35年、一级30年、二级25年，与当前文字一致，未找到这三项需要修改的证据；原页列九级，不代表本批必须补全其余等级，更不能直接套用墨西哥海军另有差异的等级编号。[原来源](https://www.medals.org.uk/mexico/mexico019.htm)。
+- **阿兹特克鹰旧制等级**：原页标大十字星章、二级星章、四级挂章，支持目前的窄标签。页面最后更新于2008年，仍不足以把旧编号自动对应到今日制度；保持旧制限定。
+
+### 未解决项与保存边界
+
+Ah Foy与U.S.S. New York两组实物正背面原对象页仍不可读，没有证实错配，也没有完成同件复核。特别优异服役奖章摄影页仍超时，本次未作真实性、材质或残损新鉴定。五个补图候选需取得可检查图片后再核对；两条日期建议先记录，未来修改目录时须同步权威索引与cloud/portable.json，并按既有云端流程更新APK，不能只改缓存。
+
+本批实际成果：新增两条日期问题记录、五个既有章种补图候选记录；保存现有内容的保留结论；修正上轮报告的family判断。新增章种0、目录事实实改0、图片处理0、图片接入0；没有把候选数量算作已取得图片。原队列状态不升级，不以对象页正文可读代替逐图完成。仅报告和进度变化，未封装APK，实体手机未验证。

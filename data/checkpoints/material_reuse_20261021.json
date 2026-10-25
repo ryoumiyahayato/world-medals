@@ -18800,5 +18800,15 @@
     "baseline": "实时mobile-current/build-info.json及cloud/state.json确认0.075/code75；7803行8155照片路径",
     "source_access": "military.ie图册HTTP403；gg.gov.au说明页CONNECT403；未升级来源审查状态",
     "apk": "仅报告与接续记录变化，未重包；实体手机未验证"
+  },
+  "north_america_web_followup_20261025": {
+    "date_issues": 2,
+    "same_award_image_candidates": 5,
+    "queue_rows_annotated": 13,
+    "report": "NORTH_AMERICA_REVIEW_20261025.md",
+    "catalogue_changes": 0,
+    "images_integrated": 0,
+    "next_entry": "US-CSM-1937-1942-STANDARD：核对原刊并同步目录/云端输入修正日期；随后DFC来源冲突及五个补图候选",
+    "apk": "仅审查报告更新，不打包；实体手机未验证"
   }
 }
