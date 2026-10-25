@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-10-23",
+  "edition": "0.072",
+  "items": [
+    {
+      "id": "MBOSM-military-division-i-class-1",
+      "family": "OTT-OSM",
+      "page": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-i-class-1",
+      "status": "documented_variant_without_current_gallery_photo",
+      "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-i-class-1.html",
+      "source_archive": "active-source-pack-58.zip",
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+    },
+    {
+      "id": "MBOSM-military-division-i-class-breast-star-2",
+      "family": "OTT-OSM",
+      "page": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-i-class-breast-star-2",
+      "status": "documented_variant_without_current_gallery_photo",
+      "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-i-class-breast-star-2.html",
+      "source_archive": "active-source-pack-58.zip",
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+    },
+    {
+      "id": "MBOSM-military-division-ii-class-3",
+      "family": "OTT-OSM",
+      "page": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-ii-class-3",
+      "status": "documented_variant_without_current_gallery_photo",
+      "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-ii-class-3.html",
+      "source_archive": "active-source-pack-58.zip",
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+    },
+    {
+      "id": "MBOSM-military-division-ii-class-breast-star-4",
+      "family": "OTT-OSM",
+      "page": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-ii-class-breast-star-4",
+      "status": "documented_variant_without_current_gallery_photo",
+      "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-ii-class-breast-star-4.html",
+      "source_archive": "active-source-pack-58.zip",
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+    },
+    {
+      "id": "MBOSM-military-division-iii-class-5",
+      "family": "OTT-OSM",
+      "page": "https://www.medalbook.com/europe-east/turkey/ottoman-empire-1299-1922/orders/order-of-osmania/military-division/order-of-osmania-military-division-iii-class-5",
+      "status": "documented_variant_without_current_gallery_photo",
+      "source_cache": "sources/pages/image_review_osmanieh_20261022/mbosm-military-division-iii-class-5.html",
+      "source_archive": "active-source-pack-58.zip",
+      "action": "Find a complete attributed specimen in a museum or auction source; no new family count"
+    },
+    {
+      "id": "OMB2-1215A16CCA8C",
+      "family": "OTT-OSM",
+      "status": "old_photo_exact_specimen_and_grade_pending",
+      "action": "Find original auction or museum record for the old composite; currentMedalBookgalleryempty"
+    },
+    {
+      "id": "OTT-IFTIHAR-ORDER-458A6B0EB686",
+      "family": "RELATED-OTTOMAN-IMTIYAZ-1896-DRAWING",
+      "status": "historical_drawing_already_reclassified_in_current_catalogue",
+      "action": "已按既有073方案核对0.075云端目录：OTT-IMTIYAZ-HIGH-1878；1896年图录第489页未裁页；等级待考。历史插图不作实物照片；本批未新增归属判定。",
+      "previous_status_20261023": "unreviewed_against_new1878family",
+      "reviewed_at": "2026-10-25"
+    }
+  ],
+  "missing_current_gallery_variant_candidates": 5,
+  "old_photo_identity_pending": 1,
+  "historical_drawing_pending": 0
+}
