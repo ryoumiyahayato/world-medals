@@ -18588,7 +18588,20 @@
       "processedPath": null
     },
     "remaining": "All regional individual image reviews retain existing queue status. Metadata followups listed in report; 6542 historical pending member mapping unresolved.",
-    "delivery": "Report/checkpoint only; no APK rebuild. Device not tested."
+    "delivery": "Report/checkpoint only; no APK rebuild. Device not tested.",
+    "online_followup": {
+      "as_of": "2026-10-25",
+      "requested": "联网查已收录内容缺漏与问题；不强求发现",
+      "attempted_hosts": [
+        "www.pmo.gov.sg",
+        "www.medalbook.com",
+        "www.medals.org.uk"
+      ],
+      "result": "HTTPS proxy CONNECT 403 Forbidden; no source body or images retrieved",
+      "confirmed_new_findings": 0,
+      "source_review_status_changes": 0,
+      "next": "允许资料站点网络访问后从原队列柬埔寨王家勋章指挥官对象页接续；不得把23行静态待核候选说成联网确认问题"
+    }
   },
   "africa_report_20261025": {
     "report": "reports/africa_existing_content_20261025.md",

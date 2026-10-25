@@ -107,3 +107,17 @@ README历史段和BUILD.md的v0.043明确记载：累计背景处理788条、裁
 仅报告与接续记录发生变化，权威release-input.json、当前cloud portable/catalog和图片均未改，不更新APK；固定最新版保持0.075。实体手机未验证。未跑全量测试、全仓库回归或全库图片鉴定，未主动计算文件哈希。
 
 读取出处：mobile-current/build-info.json与cloud-state内catalog.js、cloud/state.json、cloud/portable.json；当前main原checkpoint及图片审查队列；local-backup-20261024/migration.json定位的project-part-07中的地区checkpoint、project-part-08中的来源矩阵与扫描记录。另检查project-final-delta.zip成员目录，未发现覆盖本轮地区checkpoint、来源矩阵和扫描记录的同名项。备份记录为历史线索，当前收录表仅取现行cloud-state。
+
+## 后续联网核查尝试（2026-10-25）
+
+用户要求联网寻找已收录内容的缺漏或问题，不强求发现。本次实际尝试：
+
+- 新加坡总理公署：https://www.pmo.gov.sg/national-day-awards
+- 既有队列柬埔寨王家勋章指挥官对象页：https://www.medalbook.com/asia/cambodia/cambodia-french-protectorate-1863-1948/orders/royal-order-of-cambodia/royal-order-of-cambodia-commander-5
+- 越南专业目录入口：https://www.medals.org.uk/vietnam/vietnam.htm
+
+上述三站均在建立HTTPS代理连接时被当前云环境拒绝（403 Forbidden），没有读到对象页正文或图片。当前工具中没有可用的网页搜索或浏览器工具。环境网络配置为restricted，未列入这些资料站点。未改动代理、未绕过限制。
+
+因此本次联网核查没有形成新的可靠发现；这既不说明已有目录无误，也不说明不存在缺漏。前文23行仍是目录文字/结构待核候选，不能提升为联网确认问题。没有完成新的来源鉴定，没有变更队列status、目录、图片或APK。
+
+下一步仍使用原队列和前文对象页；待云环境允许相关资料站点访问，先核查柬埔寨王家勋章指挥官级，再查新加坡官方名单与当前20行的覆盖差异，以及南越占位版型的原对象页。只报告来源能支持的结论。
