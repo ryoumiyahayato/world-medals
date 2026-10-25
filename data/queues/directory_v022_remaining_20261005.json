@@ -1,0 +1,2911 @@
+{
+  "as_of": "2026-10-05",
+  "scope_id": "source_batch_v022_20261005",
+  "confirmed_unpictured_records": [
+    {
+      "id": "V022-SA-146-MISSING",
+      "family": "ZA-WMI-146",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "门迪勇敢勋章",
+      "original": "Order of Mendi for Bravery",
+      "date": "2003年11月30日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-146"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa146.htm",
+          "object_id": "south-africa146",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/6e480bdc46a12e64470fe728.htm",
+          "source_summary": "ODM of South Africa: Order of Mendi for Bravery Republic of South Africa: Order of Mendi for Bravery Ribbon: Gold with cream lion paw-prints. Instituted: 30 November 2003 as the Mendi Decoration for Bravery and renamed on 22 October 2004 (the insignia did not change). Awarded: For outstanding courage displayed whilst saving life or property in the face of danger. Grades: 3 (Gold, Silver and Bronze). Post-nominal letters: Gold - OMBG; Silver - OMBS; Bronze - OMBB. Gold Sorry - no picture of obverse Sorry - no picture of reverse Silver Sorry - no picture of obverse Sorry - no picture of reverse Bronze Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 2 January 2024",
+          "directory_rank": 9
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false,
+      "current_catalogue_review_20261025": {
+        "version": "0.075",
+        "finding": "Same family now has pictured rows; exact missing grade/type/view not yet reconciled",
+        "decision": "retain historical missing record pending variant-level review",
+        "current_pictured_row_ids": [
+          "V023-ZA-MENDI-OFFICIAL"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "id": "V022-SA-004-MISSING",
+      "family": "ZA-WMI-004",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非之星勋章",
+      "original": "Order of the Star of South Africa",
+      "date": "1975年6月30日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-004"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa004.htm",
+          "object_id": "south-africa004",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/6c20152a726353bdb4bf4985.htm",
+          "source_summary": "ODM of South Africa: Order of the Star of South Africa Republic of South Africa: Order of the Star of South Africa Orde van die Sterven Suid-Afrika Ribbon: Blue, with a narrow central white stripe for the Silver class. Instituted: 30 June 1975. A civilian division was added on 17 October 1978. Discontinued: 2 December 2002. Awarded: For services connected with national defence and security. Grades: 2 (Gold and Silver). Post-nominal letters: Gold - SSA; Silver - SSAS. Gold: Chain Discontinued 23 March 1988 Sorry - no picture of obverse Sorry - no picture of reverse Gold: Badge Sorry - no picture of obverse Sorry - no picture of reverse Gold: Star Sorry - no picture of obverse Sorry - no picture of reverse Silver: Badge Silver: Star Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 January 2024",
+          "directory_rank": 11
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false,
+      "current_catalogue_review_20261025": {
+        "version": "0.075",
+        "finding": "Same family now has pictured rows; exact missing grade/type/view not yet reconciled",
+        "decision": "retain historical missing record pending variant-level review",
+        "current_pictured_row_ids": [
+          "V022-SA-043-01"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "id": "V022-SA-165-MISSING",
+      "family": "ZA-WMI-165",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "勋章·特兰斯凯",
+      "original": "Order of Transkei",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-165"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa165.htm",
+          "object_id": "south-africa165",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/616ec173cf99e363113cd196.htm",
+          "source_summary": "ODM of South Africa: Order of Transkei South Africa: Order of Transkei Ribbon: Unknown. Instituted: 1987. Discontinued: 1994. Awarded: For distinguished service to Transkei. Grades: 4 (Grand Cross, Grand Officer, Commander, Officer and Member). Post-nominal letters: Grand Cross - GCT, Grand Officer - GOT, Commander - CT, Officer - OT, and Member - MT. Grand Cross: Badge Sorry - no picture of obverse Sorry - no picture of reverse Grand Cross: Star Sorry - no picture of obverse Sorry - no picture of reverse Grand Officer: Badge Sorry - no picture of obverse Sorry - no picture of reverse Grand Officer: Star Sorry - no picture of obverse Sorry - no picture of reverse Commander Sorry - no picture of obverse Sorry - no picture of reverse Officer Sorry - no picture of obverse Sorry - no picture of reverse Member Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 1 April 2012",
+          "directory_rank": 16
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-176-MISSING",
+      "family": "ZA-WMI-176",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "勋章·Ntaba-ka-Ndoda",
+      "original": "Order of Ntaba-ka-Ndoda",
+      "date": "1981年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-176"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa176.htm",
+          "object_id": "south-africa176",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/c2d63b880c7a5eb4057649a5.htm",
+          "source_summary": "ODM of South Africa: Order of Ntaba-ka-Ndoda Republic of South Africa: Order of Ntaba-ka-Ndoda Ribbon: White with blue edges. Instituted: 1981. Discontinued: 1995. Awarded: To general officers of the Ciskei Police for exceptional acts of national magnitude and meritorious foresight. Sorry - no picture Sorry - no picture World Medals Index Text List Ribbon Chart References Page last updated: 19 January 2024",
+          "directory_rank": 24
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-055-MISSING",
+      "family": "ZA-WMI-055",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非警察星章·卓越领导",
+      "original": "South African Police Star for Distinguished Leadership",
+      "date": "1979年5月1日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-055"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa055.htm",
+          "object_id": "south-africa055",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/5e110ebc3f8aba0c03428ca9.htm",
+          "source_summary": "ODM of South Africa: South African Police Star for Distinguished Leadership Republic of South Africa: South African Police Star for Distinguished Leadership Stella Excellentus Ductus Ribbon: Yellow with a white-edged blue central stripe. Instituted: 1 May 1979. Discontinued: 1 September 1986. Awarded: To general officers of the South African Police for distinguished leadership, meritorious service contributing to state security, and outstanding service to heads of state or government. Post-nominal letters: SED Chain (worn on ceremonal occasions) Sorry - no picture of reverse Badge Sorry - no picture of obverse Sorry - no picture of reverse Star Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 9 January 2024",
+          "directory_rank": 27
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-067-MISSING",
+      "family": "ZA-WMI-067",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非铁路警察星章·卓越领导",
+      "original": "South African Railway Police Star for Distinguished Leadership",
+      "date": "1980年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-067"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa067.htm",
+          "object_id": "south-africa067",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/8ada940af5f736b52b30ddd8.htm",
+          "source_summary": "ODM of South Africa: South African Railway Police Star for Distinguished Leadership Republic of South Africa: South African Railway Police Star for Distinguished Leadership Stella Eximii Emperii Ribbon: Green. Instituted: 1980. Discontinued: 1986. Awarded: To general officers for distinguished leadership, meritorious service to national security, or outstanding service to heads of state, dynatsties, or government. Post-nominal letters: SEE Chain Sorry - no picture of reverse Badge Sorry - no picture of obverse Sorry - no picture of reverse Star Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 23 January 2024",
+          "directory_rank": 28
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-174-MISSING",
+      "family": "ZA-WMI-174",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯警察星章·卓越领导",
+      "original": "Ciskei Police Star for Distinguished Leadership",
+      "date": "1981年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-174"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa174.htm",
+          "object_id": "south-africa174",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/8fdf73c432d2ad544f284bde.htm",
+          "source_summary": "ODM of South Africa: Ciskei Police Star for Distinguished Leadership Republic of South Africa: Ciskei Police Star for Distinguished Leadership Ribbon: Yellow with a wide white-edged blue central stripe and narrow blue edge stripes. Instituted: 1981. Discontinued: 1995. Awarded: To general officers of the Ciskei Police in recognition of distinguished leadership or meritorious service in support of national security. Chain (for ceremonail occasions) Badge Sorry - no picture of obverse Sorry - no picture of reverse Star Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 16 January 2024",
+          "directory_rank": 29
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-076-MISSING",
+      "family": "ZA-WMI-076",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "惩教署优秀星章",
+      "original": "Department of Correctional Services Star for Excellence",
+      "date": "1980年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-076"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa076.htm",
+          "object_id": "south-africa076",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d67ca0e9a88fe3ed5aa61073.htm",
+          "source_summary": "ODM of South Africa: Department of Correctional Services Star for\nExcellence Republic of South Africa: Department of Correctional Services Star for Excellence Stella Pro Excellentia Ribbon: Green. Instituted: 1980. Discontinued: 1996. Awarded: To general officers for excellent service which promoted Department of Correctional Services efficiency. Post-nominal letters: SPE Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 21 January 2024",
+          "directory_rank": 31
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-068-MISSING",
+      "family": "ZA-WMI-068",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非铁路警察星章·卓越奉献",
+      "original": "South African Railway Police Star for Distinguished Devotion",
+      "date": "1980年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-068"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa068.htm",
+          "object_id": "south-africa068",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/9d2b0c0ba033370bc7db4711.htm",
+          "source_summary": "ODM of South Africa: South African Railway Police Star for Distinguished Devotion Republic of South Africa: South African Railway Police Star for Distinguished Devotion Stella Diligentiae Egregiae Ribbon: Green with yellow edges. Instituted: 28 Apri 1980 as the South African Railways Police Star for Distinguished Service/Stella Officii Egregi. Renamed:9 February 1983. Discontinued: 1986. Awarded: To senior officers for meritorious service promoting efficiency or contributing to national security. Post-nominal letters: SDE Collar (for ceremonial occasions) Sorry - no picture Badge Sorry - no picture Sorry - no picture World Medals Index Text List Ribbon Chart References Page last updated: 11 January 2024",
+          "directory_rank": 32
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-178-MISSING",
+      "family": "ZA-WMI-178",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯警察星章·卓越服务",
+      "original": "Ciskei Police Star for Distinguished Service",
+      "date": "1980年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-178"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa178.htm",
+          "object_id": "south-africa178",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/09c0c714c1a5ca6294f22afc.htm",
+          "source_summary": "ODM of South Africa: Ciskei Police Star for Distinguished Service Republic of South Africa: Ciskei Police Star for Distinguished Service Stella Pro Meritis Excellentibus Ribbon: Green with a red edged yellow central stripe that bears a cenral green stripe. Instituted: 1980. Discontinued: 1996. Awarded: To general officers for distinguished service to the Ciskei Police and homeland. Post-nominal letters: SPME Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 22 January 2024",
+          "directory_rank": 33
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-179-MISSING",
+      "family": "ZA-WMI-179",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "国家情报局勋饰·卓越领导",
+      "original": "National Intelligence Service Decoration for Distinguished Leadership",
+      "date": "1981年7月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-179"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa179.htm",
+          "object_id": "south-africa179",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/0547017f67e4b98bfa144bde.htm",
+          "source_summary": "ODM of South Africa: National Intelligence Service Decoration for Distinguished Leadership Republic of South Africa: National Intelligence Service Decoration for Distinguished Leadership Ribbon: Turquoise. Instituted: July 1981. Discontinued: December 1994. Awarded: To top-ranking officials for distinguished leadership, exceptional contributions to state security, and outstanding service. Post-nominal letters: OD Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 24 January 2024",
+          "directory_rank": 34
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-180-MISSING",
+      "family": "ZA-WMI-180",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁警察星章·卓越领导",
+      "original": "KwaZulu Police Star for Distinguished Leadership",
+      "date": "1982年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-180"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa180.htm",
+          "object_id": "south-africa180",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/c723b22fcd2983e3aac0f044.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Police Star for Distinguished Leadership Republic of South Africa: KwaZulu Police Star for Distinguished Leadership Ribbon: Red with a green-edged orange central stripe. Instituted: 1982. Discontinued: December 1994. Awarded: To the Commissioner of the KwaZulu Police for distinguished leadership, meritorious service which contributed to KwaZulu security, and outstanding service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 25 January 2024",
+          "directory_rank": 35
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-181-MISSING",
+      "family": "ZA-WMI-181",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯警察勋饰·卓越服务",
+      "original": "Transkei Police Decoration for Distinguished Service",
+      "date": "约1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-181"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa181.htm",
+          "object_id": "south-africa181",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/aab33c6ecae9a380e6f5276d.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Decoration for Distinguished Service Republic of South Africa: Transkei Police Decoration for Distinguished Service Ribbon: White with a red central stripe, blue edge stripes, and green edges. Instituted: c.1985. Discontinued: December 1994. Awarded: For particularly notable and distinguished services to the Transkei Police. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 2 February 2024",
+          "directory_rank": 37
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-182-MISSING",
+      "family": "ZA-WMI-182",
+      "country_zh": "夸恩德贝勒",
+      "awarding_authority": "夸恩德贝勒",
+      "name": "夸恩德贝勒警察Order卓越领导",
+      "original": "KwaNdebele Police Order for Distinguished Leadership",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-182"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa182.htm",
+          "object_id": "south-africa182",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/0ab320c0255b92972ae448fb.htm",
+          "source_summary": "ODM of South Africa: KwaNdebele Police Order for Distinguished Leadership Republic of South Africa: KwaNdebele Police Order for Distinguished Leadership Ribbon: Golden-yellow with a narrow central black stripe and narrow green edged white edges. Instituted: 1987. Discontinued: January 1995. Awarded: For distinguished service to the KwaNdebele Police in a leadership position. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 2 February 2024",
+          "directory_rank": 39
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-183-MISSING",
+      "family": "ZA-WMI-183",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯监狱署优秀星章",
+      "original": "Transkei Prisons Service Star for Excellence",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-183"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa183.htm",
+          "object_id": "south-africa183",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/8271e597d57bf43c3a46586b.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Decoration for Distinguished Service Republic of South Africa: Transkei Prisons Service Star for Excellence Ribbon: Unknown. Instituted: Unknown. Discontinued: 1994. Awarded: Unknown. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 28 January 2024",
+          "directory_rank": 40
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-184-MISSING",
+      "family": "ZA-WMI-184",
+      "country_zh": "莱博瓦",
+      "awarding_authority": "莱博瓦",
+      "name": "莱博瓦警察星章·卓越领导",
+      "original": "Lebowa Police Star for Distinguished Leadership",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-184"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa184.htm",
+          "object_id": "south-africa184",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/b2c9ede161ffe7c78b0a2127.htm",
+          "source_summary": "ODM of South Africa: Lebowa Police Star for Distinguished Leadership Republic of South Africa: Lebowa Police Star for Distinguished Leadership Ribbon: Green with a wide white-edged central red stripe. Instituted: 1990. Discontinued: January 1995. Awarded: Unknown. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 29 January 2024",
+          "directory_rank": 41
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-185-MISSING",
+      "family": "ZA-WMI-185",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署优秀星章",
+      "original": "KwaZulu Department of Correctional Services Star of Excellence",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-185"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa185.htm",
+          "object_id": "south-africa185",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/ff9fab0f06d39327dc618618.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department of Correctional Services Star of Excellence Republic of South Africa: KwaZulu Department of Correctional Services Star of Excellence Ribbon: Unknown. Instituted: 1990. Discontinued: January 1994. Awarded: Unknown. Post-nominal letters: SPA Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 30 January 2024",
+          "directory_rank": 42
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-187-MISSING",
+      "family": "ZA-WMI-187",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯警察勇敢十字章",
+      "original": "Transkei Police Cross for Bravery",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-187"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa187.htm",
+          "object_id": "south-africa187",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/336b25dfc76fb4bf40616b3d.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Cross for Bravery Republic of South Africa: Transkei Police Cross for Bravery Ribbon: Unknown. Instituted: Unknown. Discontinued: January 1995. Awarded: Unknown. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 2 February 2024",
+          "directory_rank": 45
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-188-MISSING",
+      "family": "ZA-WMI-188",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达国家武装力量英勇十字章",
+      "original": "Venda National Force Gallantry Cross",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-188"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa188.htm",
+          "object_id": "south-africa188",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/bfa2e038c4e891eaea82ccd3.htm",
+          "source_summary": "ODM of South Africa: Venda National Force Gallantry Cross Republic of South Africa: Venda National Force Gallantry Cross Ribbon: Blue with narrow green, yellow, and brown edges, with a white central stripe for the Silver Cross. Instituted: 1985. Discontinued: February 1985. Awarded: For valour in the line of duty, or in saving life or property. VNF Gallantry Cross in Gold Sorry - no picture of obverse Sorry - no picture of reverse VNF Gallantry Cross in Silver Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 3 February 2024",
+          "directory_rank": 46
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-190-MISSING",
+      "family": "ZA-WMI-190",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "King's勇敢十字章夸祖鲁Homel与",
+      "original": "King's Cross for Bravery of the KwaZulu Homeland",
+      "date": "1982年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-190"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa190.htm",
+          "object_id": "south-africa190",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/9302c32d23749c926c31c30f.htm",
+          "source_summary": "ODM of South Africa: King's Cross for Bravery of the KwaZulu Homeland Republic of South Africa: King's Cross for Bravery of the KwaZulu Homeland Ribbon: Grey/green with red edge stripes. Instituted: 1982. Discontinued: January 1995. Awarded: To both members of the KwaZulu Police and civilians for conspicuous and exceptional gallantry in protecting or saving property or life. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 5 February 2024",
+          "directory_rank": 48
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-191-MISSING",
+      "family": "ZA-WMI-191",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "勇武勋饰博普塔茨瓦纳监狱署",
+      "original": "Decoration for Valour in the Bophuthatswana Prisons Service",
+      "date": "1984年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-191"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa191.htm",
+          "object_id": "south-africa191",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/46a7e6d7adfdd6c8bf8312f5.htm",
+          "source_summary": "ODM of South Africa: Decoration for Valour in the Bophuthatswana Prisons Service Republic of South Africa: Decoration for Valour in the Bophuthatswana Prisons Service Ribbon: Golden-yellow with red edges. Instituted: April 1984. Discontinued: 1994. Awarded: To officers for conspicuous and exceptional bravery in the line of duty or in protecting or saving life or property. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 6 February 2024",
+          "directory_rank": 49
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-193-MISSING",
+      "family": "ZA-WMI-193",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达警察英勇十字章",
+      "original": "Venda Police Gallantry Cross",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-193"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa193.htm",
+          "object_id": "south-africa193",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/bd5ecaccc7a681b1a2562de7.htm",
+          "source_summary": "ODM of South Africa: Venda Police Gallantry Cross Republic of South Africa: Venda Police Gallantry Cross Ribbon: Possibly light blue with a yellow-edged brown central stripe. Instituted: Unknown. Discontinued: January 1995. Awarded: For courageous acts. VP Gallantry Cross in Gold Sorry - no picture of obverse Sorry - no picture of reverse VP Gallantry Cross in Silver Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 February 2024",
+          "directory_rank": 51
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-194-MISSING",
+      "family": "ZA-WMI-194",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达监狱署英勇十字章",
+      "original": "Venda Prisons Service Gallantry Cross",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-194"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa194.htm",
+          "object_id": "south-africa194",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/dc8398e46a10aa491dee1a0f.htm",
+          "source_summary": "ODM of South Africa: Venda Prisons Service Gallantry Cross Republic of South Africa: Venda Prisons Service Gallantry Cross Ribbon: Unknown. Instituted: 1985. Discontinued: 1996. Awarded: For courageous acts. VPS Gallantry Cross in Gold Sorry - no picture of obverse Sorry - no picture of reverse VPS Gallantry Cross in Silver Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 9 February 2024",
+          "directory_rank": 52
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-195-MISSING",
+      "family": "ZA-WMI-195",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯警察英勇十字章",
+      "original": "Transkei Police Gallantry Cross",
+      "date": "1984年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-195"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa195.htm",
+          "object_id": "south-africa195",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/23c462d1c3e4f27770333207.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Gallantry Cross Republic of South Africa: Transkei Police Gallantry Cross Ribbon: Unknown. Instituted: 1984. Discontinued: 1994. Awarded: For acts of courage. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 10 February 2024",
+          "directory_rank": 53
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-198-MISSING",
+      "family": "ZA-WMI-198",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯监狱署英勇十字章",
+      "original": "Transkei Prisons Service Gallantry Cross",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-198"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa198.htm",
+          "object_id": "south-africa198",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/95d4b1a0f432196035ebd002.htm",
+          "source_summary": "ODM of South Africa: Transkei Prisons Service Gallantry Cross Republic of South Africa: Transkei Prisons Service Gallantry Cross Ribbon: Unknown. Instituted: Unknown. Discontinued: 1994. Awarded: For acts of courage. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 13 February 2024",
+          "directory_rank": 56
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-199-MISSING",
+      "family": "ZA-WMI-199",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯监狱署英勇十字章",
+      "original": "Ciskei Prisons Service Gallantry Cross",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-199"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa199.htm",
+          "object_id": "south-africa199",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/b76cb4e582ab345e499731c7.htm",
+          "source_summary": "ODM of South Africa: Ciskei Prisons Service Gallantry Cross Republic of South Africa: Ciskei Prisons Service Gallantry Cross Ribbon: Unknown. Instituted: 1988. Discontinued: 1994. Awarded: For acts of courage. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 February 2024",
+          "directory_rank": 60
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-201-MISSING",
+      "family": "ZA-WMI-201",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署英勇十字章",
+      "original": "KwaZulu Department of Correctional Services Cross for Gallantry",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-201"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa201.htm",
+          "object_id": "south-africa201",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/374bfeaecab05eb1438c142a.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department of Correctional Services Cross for Gallantry Republic of South Africa: KwaZulu Department of Correctional Services Cross for Gallantry Ribbon: Unknown. Instituted: 1990. Discontinued: 1994. Awarded: Unknown. Post-nominal letters: CPV. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 20 February 2024",
+          "directory_rank": 67
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-203-MISSING",
+      "family": "ZA-WMI-203",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "国家总统's勋饰·卓越服务",
+      "original": "State President's Decoration for Distinguished Service",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-203"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa203.htm",
+          "object_id": "south-africa203",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/2721155bbcbeb7ac13441c65.htm",
+          "source_summary": "ODM of South Africa: State President's Decoration for Distinguished Service Republic of South Africa: State President's Decoration for Distinguished Service Ribbon: Orange with wide red, white, and blue edges. Instituted: 1987. Discontinued: 1994. Awarded: For distinguished service by Public Service directors-general (department heads) and equivalent ranks. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 3 March 2024",
+          "directory_rank": 79
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-097-MISSING",
+      "family": "ZA-WMI-097",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "国家情报局勋饰",
+      "original": "National Intelligence Service Decoration",
+      "date": "1981年7月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-097"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa097.htm",
+          "object_id": "south-africa097",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/83ac602c3765b1db1067b2c4.htm",
+          "source_summary": "ODM of South Africa: National Intelligence Service Decoration Republic of South Africa: National Intelligence Service Decoration Ribbon: Turquoise with red and white central stripes depending on grade. Instituted: July 1981. Discontinued: December 1994. Awarded: To members of foreign intelligence services for assistance or exceptional goodwill to the NIS, the class depending on the recipient's rank. Grades: 3 (Gold, Silver, and Bronze). Post-nominal letters: CV and CVS National Intelligence Service Decoration, Gold Sorry - no picture of obverse Sorry - no picture of reverse National Intelligence Service Decoration, Silver Sorry - no picture of obverse Sorry - no picture of reverse National Intelligence Service Decoration, Bronze Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 7 March 2024",
+          "directory_rank": 83
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-208-MISSING",
+      "family": "ZA-WMI-208",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "勋饰·功绩博普塔茨瓦纳监狱署",
+      "original": "Decoration for Merit in the Bophuthatswana Prisons Service",
+      "date": "1984年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-208"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa208.htm",
+          "object_id": "south-africa208",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/884afd652c80cd4ff4c1e748.htm",
+          "source_summary": "ODM of South Africa: Decoration for Merit in the Bophuthatswana Prisons Service Republic of South Africa: Decoration for Merit in the Bophuthatswana Prisons Service Ribbon: Blue with orange edges. Instituted: April 1984. Discontinued: 1994. Awarded: To officers for particularly meritorious or exemplary service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 11 March 2024",
+          "directory_rank": 86
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-212-MISSING",
+      "family": "ZA-WMI-212",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达监狱署卓越服务奖章",
+      "original": "Venda Prisons Service Distinguished Service Medal",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-212"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa212.htm",
+          "object_id": "south-africa212",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/a26ce22504886d2e6341e4b4.htm",
+          "source_summary": "ODM of South Africa: Venda Prisons Service Distinguished Service Medal Republic of South Africa: Venda Prisons Service Distinguished Service Medal Ribbon: Greeb wutg a yellow (gold) or white (silver) central stripe. Instituted: 1985. Discontinued: 1994. Awarded: For exceptionally meritorious service and particular devotion to duty (Gold) or outstanding service and devotion to duty (Silver). Venda Prisons Service Distinguished Service Medal, Gold Sorry - no picture of obverse Sorry - no picture of reverse Venda Prisons Service Distinguished Service Medal, Silver Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 March 2024",
+          "directory_rank": 91
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-213-MISSING",
+      "family": "ZA-WMI-213",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯监狱署优秀星章",
+      "original": "Ciskei Prisons Service Star for Excellence",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-213"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa213.htm",
+          "object_id": "south-africa213",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/80ca78b47dab7e8cf7c8e4f2.htm",
+          "source_summary": "ODM of South Africa: Ciskei Prisons Service Star for Excellence Republic of South Africa: Ciskei Prisons Service Star for Excellence Ribbon: Unknown. Instituted: 1988. Discontinued: 1994. Awarded: Unknown. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 16 March 2024",
+          "directory_rank": 93
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-214-MISSING",
+      "family": "ZA-WMI-214",
+      "country_zh": "莱博瓦",
+      "awarding_authority": "莱博瓦",
+      "name": "莱博瓦警察星章·卓越服务",
+      "original": "Lebowa Police Star for Distinguished Service",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-214"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa214.htm",
+          "object_id": "south-africa214",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/4a7b7331fc1491c62d2e9200.htm",
+          "source_summary": "ODM of South Africa: Lebowa Police Star for Distinguished Service Republic of South Africa: Lebowa Police Star for Distinguished Service Ribbon: Green with a wide white central stripe bearing two red stripes. Instituted: 1990. Discontinued: January 1995. Awarded: To general officers for distinguished service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 17 March 2024",
+          "directory_rank": 95
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-096-MISSING",
+      "family": "ZA-WMI-096",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "国家情报局奖章·卓越服务",
+      "original": "National Intelligence Service Medal for Distinguished Service",
+      "date": "1981年7月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-096"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa096.htm",
+          "object_id": "south-africa096",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/64d5b099c5667f0e1e10f171.htm",
+          "source_summary": "ODM of South Africa: National Intelligence Service Medal for Distinguished Service Republic of South Africa: National Intelligence Service Medal for Distinguished Service Ribbon: White with wide turquoise edges and central stripes according to grade. Instituted: July 1981. Amended: 1987. Discontinued: December 1994. Awarded: To members of the National Intelligence Service in recognition of notable service, diligence, and devotion to duty. Grades: 3 (Gold, Silver, and Bronze). Post-nominal letters: OO (Gold), OOS (Silver), and OOB (Bronze). Type 1 1981-1987 Type 2 1987-1994 National Intelligence Service Medal for Distinguished Service, Gold Sorry - no picture of obverse Sorry - no picture of reverse National Intelligence Service Medal for Distinguished Service, Silver Sorry - no picture of obverse Sorry - no picture of reverse National Intelligence Service Medal for Distinguished Service, Bronze Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 21 March 2024",
+          "directory_rank": 99
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-218-MISSING",
+      "family": "ZA-WMI-218",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "奖章·Valour博普塔茨瓦纳监狱署",
+      "original": "Medal for Valour in the Bophuthatswana Prisons Service",
+      "date": "1984年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-218"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa218.htm",
+          "object_id": "south-africa218",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/c2a3f61bfd46d34ba8837ec2.htm",
+          "source_summary": "ODM of South Africa: Medal for Valour in the Bophuthatswana Prisons Service Republic of South Africa: Medal for Valour in the Bophuthatswana Prisons Service Ribbon: Red with two orange stripes. Instituted: April 1984. Discontinued: 1994. Awarded: To all ranks of the Bophuthatswana Prisons Service (excluding Officers) for exceptional gallantry in the line of duty or protecting or saving a life. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 25 March 2024",
+          "directory_rank": 104
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-015-MISSING",
+      "family": "ZA-WMI-015",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "陆军十字章",
+      "original": "Army Cross",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-015"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa015.htm",
+          "object_id": "south-africa015",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/186b68a71bf2747a865c1002.htm",
+          "source_summary": "ODM of South Africa: Army Cross Republic of South Africa: Army Cross Crux Militaria Ribbon: White with a red central stripe. Instituted: 1987. Discontinued: 27 April 2003. Awarded: For acts of courage originally in non-combat situations but after 1993 in any dangerous or critical situations. Post-nominal letters: CM. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 27 March 2024",
+          "directory_rank": 106
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-220-MISSING",
+      "family": "ZA-WMI-220",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非警察署奖章·杰出服务",
+      "original": "South African Police Service Medal for Outstanding Service",
+      "date": "2004年5月4日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-220"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa220.htm",
+          "object_id": "south-africa220",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/186c9cd05f8bef91d5d094e1.htm",
+          "source_summary": "ODM of South Africa: South African Police Service Medal for Outstanding Service Republic of South Africa: South African Police Service Medal for Outstanding Service Ribbon: Yellow (Gold) or grey (Silver) with blue edges, a red central stripe, and green edge stripes. Instituted: 4 May 2004. Awarded: For exceptionally meritorious service and particular devotion to duty (Gold) or outstanding service and devotion to duty (Silver). South African Police Service Medal for Outstanding Service, Gold Sorry - no picture of obverse Sorry - no picture of reverse South African Police Service Medal for Outstanding Service, Silver Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 4 April 2024",
+          "directory_rank": 114
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-098-MISSING",
+      "family": "ZA-WMI-098",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达国家武装力量杰出服务奖章",
+      "original": "Venda National Force Outstanding Service Medal",
+      "date": "1985年2月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-098"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa098.htm",
+          "object_id": "south-africa098",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d9507f8a873e1c616800630f.htm",
+          "source_summary": "ODM of South Africa: Venda National Force Outstanding Service Medal Republic of South Africa: Venda National Force Outstanding Service Medal Ribbon: Green with a brown-edged yellow central stripe. Instituted: February 1985. Discontinued: April 1985. Awarded: For outstanding service. Post-nominal letters: SOE. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 6 April 2024",
+          "directory_rank": 116
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-221-MISSING",
+      "family": "ZA-WMI-221",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达警察星章·杰出服务",
+      "original": "Venda Police Star for Outstanding Service",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-221"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa221.htm",
+          "object_id": "south-africa221",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/7d18a8938d6c9baeb6b0cbd8.htm",
+          "source_summary": "ODM of South Africa: Venda Police Star for Outstanding Service Republic of South Africa: Venda Police Star for Outstanding Service Ribbon: Unknown. Instituted: 1985. Discontinued: January 1995. Awarded: To members of the Venda Police for outstanding service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 April 2024",
+          "directory_rank": 118
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-222-MISSING",
+      "family": "ZA-WMI-222",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯警察奖章·高效服务",
+      "original": "Transkei Police Medal for Efficient Service",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-222"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa222.htm",
+          "object_id": "south-africa222",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/a4db9156d95f446a9028dda9.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Medal for Efficient Service Republic of South Africa: Transkei Police Medal for Efficient Service Ribbon: Unknown. Instituted: Unknown. Discontinued: January 1995. Awarded: To members of the Transkei Police for efficient service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 9 April 2024",
+          "directory_rank": 119
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-223-MISSING",
+      "family": "ZA-WMI-223",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯监狱署杰出星章",
+      "original": "Transkei Prisons Service Star for Distinction",
+      "date": "设立年代待考",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-223"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa223.htm",
+          "object_id": "south-africa223",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/cac96b061cc82efda3f53afc.htm",
+          "source_summary": "ODM of South Africa: Transkei Prisons Service Star for Distinction Republic of South Africa: Transkei Prisons Service Star for Distinction Ribbon: Unknown. Instituted: Unknown. Discontinued: 1994. Awarded: To members of the Transkei Prison Service who have distinguished themselves. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 10 April 2024",
+          "directory_rank": 120
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-224-MISSING",
+      "family": "ZA-WMI-224",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署杰出星章",
+      "original": "KwaZulu Department of Corrections Star for Distinction",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-224"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa224.htm",
+          "object_id": "south-africa224",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/be79aa973ca9332e09f53b6c.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department of Corrections Star for Distinction Republic of South Africa: KwaZulu Department of Corrections Star for Distinction Ribbon: Unknown. Instituted: 1990. Discontinued: 1994. Awarded: To members of the KwaZulu Department of Corrections who have distinguished themselves. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 11 April 2024",
+          "directory_rank": 121
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-225-MISSING",
+      "family": "ZA-WMI-225",
+      "country_zh": "莱博瓦",
+      "awarding_authority": "莱博瓦",
+      "name": "莱博瓦警察星章·杰出服务",
+      "original": "Lebowa Police Star for Outstanding Service",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-225"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa225.htm",
+          "object_id": "south-africa225",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/fa79a7b655d1be17502a75f4.htm",
+          "source_summary": "ODM of South Africa: Lebowa Police Star for Outstanding Service Republic of South Africa: Lebowa Police Star for Outstanding Service Ribbon: Unknown. Instituted: 1990. Discontinued: 1995. Awarded: To members of the Lebowa Police for outstanding service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 12 April 2024",
+          "directory_rank": 122
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-083-MISSING",
+      "family": "ZA-WMI-083",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "奖章·功绩南非监狱署",
+      "original": "Medal for Merit of the South African Prisons Service",
+      "date": "1968年2月26日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-083"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa083.htm",
+          "object_id": "south-africa083",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/b963203aa1b3f30608ad2955.htm",
+          "source_summary": "ODM of South Africa: Medal for Merit of the South African Prisons Service Republic of South Africa: Medal for Merit of the South African Prisons Service Ribbon: White with a double orange central stripe and blue edges. Instituted: 26 February 1968. Discontinued: 24 April 1980. Awarded: For particularly exemplary or meritorious service or 35 years' irreproachable service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 April 2024",
+          "directory_rank": 125
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-227-MISSING",
+      "family": "ZA-WMI-227",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "奖章·功绩博普塔茨瓦纳监狱署",
+      "original": "Medal for Merit in the Bophuthatswana Prisons Service",
+      "date": "1984年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-227"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa227.htm",
+          "object_id": "south-africa227",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d397d58373cc79f06d54b85d.htm",
+          "source_summary": "ODM of South Africa: Medal for Merit in the Bophuthatswana Prisons Service Republic of South Africa: Medal for Merit in the Bophuthatswana Prisons Service Ribbon: Dark blue with orange edges and an orange central stripe. Instituted: April 1984. Discontinued: 27 April 1994. Awarded: To other ranks of the Bophuthatswana Prisons Service for particularly meritorious or exemplary service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 18 April 2024",
+          "directory_rank": 128
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-229-MISSING",
+      "family": "ZA-WMI-229",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "监狱署功绩星章",
+      "original": "Prisons Service Star for Merit",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-229"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa229.htm",
+          "object_id": "south-africa229",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/2553e227e2617b1ade6505ac.htm",
+          "source_summary": "ODM of South Africa: Prisons Service Star for Merit Republic of South Africa: Prisons Service Star for Merit Ribbon: Unknown. Instituted: 1988. Discontinued: 27 April 1994. Awarded: To members of the Ciskei Prisons Service for meritorious service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 20 April 2024",
+          "directory_rank": 130
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-230-MISSING",
+      "family": "ZA-WMI-230",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "矛奖章",
+      "original": "Marumo Medal",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-230"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa230.htm",
+          "object_id": "south-africa230",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/3d566bd2de6f38941573b7fb.htm",
+          "source_summary": "ODM of South Africa: Marumo Medal Republic of South Africa: Marumo Medal Ribbon: Varies with grade. Instituted: 1988. Discontinued: 27 April 1994. Awarded: To members of the Bophuthatswana Defence Force for merit in action. Class 1 Sorry - no picture of obverse Sorry - no picture of reverse Class 2 Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 21 April 2024",
+          "directory_rank": 131
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-231-MISSING",
+      "family": "ZA-WMI-231",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署功绩星章",
+      "original": "KwaZulu Department for Correctional Services Star for Merit",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-231"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa231.htm",
+          "object_id": "south-africa231",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/66c8685f72c7d6a22391e4b5.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department for Correctional Services Star for Merit Republic of South Africa: KwaZulu Department for Correctional Services Star for Merit Ribbon: Unknown. Instituted: 1990. Discontinued: 27 April 1994. Awarded: To officers of the KwaZulu Department for Correctional Services for merit. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 22 April 2024",
+          "directory_rank": 132
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-232-MISSING",
+      "family": "ZA-WMI-232",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "博普塔茨瓦纳警察勋饰·卓越服务",
+      "original": "Bophuthatswana Police Decoration for Distinguished Service",
+      "date": "1983年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-232"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa232.htm",
+          "object_id": "south-africa232",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/069ae4ae85a48b88244f567d.htm",
+          "source_summary": "ODM of South Africa: Bophuthatswana Police Decoration for Distinguished Service Republic of South Africa: Bophuthatswana Police Decoration for Distinguished Service Ribbon: Unknown. Instituted: 1983. Discontinued: January 1995. Awarded: Unknown. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 23 April 2024",
+          "directory_rank": 133
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-085-MISSING",
+      "family": "ZA-WMI-084",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "惩教署军官功绩奖章",
+      "original": "Department of Correctional Services Medal for Merit (NCOs)",
+      "date": "1980年4月24日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-085"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa085.htm",
+          "object_id": "south-africa085",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/adb46726dd08a60befc478d5.htm",
+          "source_summary": "ODM of South Africa: Department of Correctional Services Medal for Merit (NCOs) Republic of South Africa: Department of Correctional Services Medal for Merit (NCOs) Ribbon: Green with 3 white central stripes and white edges. Instituted: 24 April 1980. Discontinued: 1996. Awarded: To warrant officers, sergeants, and warders for special services, characterised by ability, efficiency, perseverance or devotion. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 26 April 2024",
+          "directory_rank": 136
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false,
+      "current_catalogue_review_20261025": {
+        "version": "0.075",
+        "finding": "Same family now has pictured rows; exact missing grade/type/view not yet reconciled",
+        "decision": "retain historical missing record pending variant-level review",
+        "current_pictured_row_ids": [
+          "V022-SA-084-01"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "id": "V022-SA-233-MISSING",
+      "family": "ZA-WMI-233",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "监狱署奖章·功绩",
+      "original": "Prisons Service Medal for Merit",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-233"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa233.htm",
+          "object_id": "south-africa233",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/43fcfbbf682eb290d2a50e83.htm",
+          "source_summary": "ODM of South Africa: Prisons Service Medal for Merit Republic of South Africa: Prisons Service Medal for Merit Ribbon: Unknown. Instituted: 1988. Discontinued: 27 April 1994. Awarded: To members of the Ciskei Prisons Service for meritorious service. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 27 April 2024",
+          "directory_rank": 137
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-234-MISSING",
+      "family": "ZA-WMI-234",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署奖章·功绩",
+      "original": "KwaZulu Department for Correctional Services Medal for Merit",
+      "date": "1991年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-234"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa234.htm",
+          "object_id": "south-africa234",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d0850ccf7bc1a19714888c77.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department for Correctional Services Medal for Merit Republic of South Africa: KwaZulu Department for Correctional Services Medal for Merit Ribbon: Red with yellow edges and a white-edged green central stripe. Instituted: 1991. Discontinued: 27 April 1994. Awarded: To warrant officers, NCOs, and warders of the KwaZulu Department for Correctional Services for merit. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 28 April 2024",
+          "directory_rank": 138
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-049-MISSING",
+      "family": "ZA-WMI-049",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "民防奖章·功绩服务",
+      "original": "Civil Protection Medal for Meritorious Service",
+      "date": "1976年5月7日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-049"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa049.htm",
+          "object_id": "south-africa049",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/bd1c49be944179b844924663.htm",
+          "source_summary": "ODM of South Africa: Civil Protection Medal for Meritorious Service Republic of South Africa: Civil Protection Medal for Meritorious Service Ribbon: Yellow with white-edged red edge stripes. Instituted: 7 May 1976 as the Civil Defence Medal for Meritorious Service. Amended: 1993 to its final name. Discontinued: 1994. Awarded: To civil defence officials, first aid workers and, until 1993, fire services, for exceptionally meritorious service and particular devotion to duty. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 2 May 2024",
+          "directory_rank": 142
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-235-MISSING",
+      "family": "ZA-WMI-235",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "国防军表彰奖章",
+      "original": "Defence Force Commendation Medal",
+      "date": "1982年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-235"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa235.htm",
+          "object_id": "south-africa235",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/e082122d1dc40f36345bf4b6.htm",
+          "source_summary": "ODM of South Africa: Defence Force Commendation Medal Republic of South Africa: Defence Force Commendation Medal Ribbon: Cobalt blue with two yellow stripes. Instituted: 1982. Discontinued: 27 April 1994. Awarded: To all ranks of the Bophuthatswana Defence Force for service of a high standard. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 3 May 2024",
+          "directory_rank": 143
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-110-MISSING",
+      "family": "ZA-WMI-108",
+      "country_zh": "南非·前阿扎尼亚人民解放军人员奖励",
+      "awarding_authority": "南非·前阿扎尼亚人民解放军人员奖励",
+      "name": "阿扎尼亚人民解放军功绩奖励",
+      "original": "Bronze Medal for Merit",
+      "date": "1996年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-110"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa110.htm",
+          "object_id": "south-africa110",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/b15d8fe7d6691d13e223866d.htm",
+          "source_summary": "ODM of South Africa: Bronze Medal for Merit Republic of South Africa: Bronze Medal for Merit Ribbon: Dark blue with two dark yellow central stripes. Instituted: April 1996. Discontinued: 27 April 2003. Awarded: To members of the Azanian People's Liberation Army who had rendered service of a high order during the \"struggle\". Post-nominal letters: BMM. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 May 2024",
+          "directory_rank": 148
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false,
+      "current_catalogue_review_20261025": {
+        "version": "0.075",
+        "finding": "Same family now has pictured rows; exact missing grade/type/view not yet reconciled",
+        "decision": "retain historical missing record pending variant-level review",
+        "current_pictured_row_ids": [
+          "V022-SA-108-01",
+          "V022-SA-109-01"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "id": "V022-SA-242-MISSING",
+      "family": "ZA-WMI-242",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达国家武装力量奖章·反恐",
+      "original": "Venda National Force Medal for Combating Terrorism",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-242"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa242.htm",
+          "object_id": "south-africa242",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d3ca0c9fdae494c2faa8ba20.htm",
+          "source_summary": "ODM of South Africa: Venda National Force Medal for Combating Terrorism Republic of South Africa: Venda National Force Medal for Combating Terrorism Ribbon: Brown with wide yellow-edged green edges. Instituted: 1985. Discontinued: 1985. Awarded: For counter-insurgency service for a minimum of 90 days. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 May 2024",
+          "directory_rank": 155
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-071-MISSING",
+      "family": "ZA-WMI-071",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非铁路警察奖章·反恐",
+      "original": "South African Railway Police Medal for Combating Terrorism",
+      "date": "1980年4月28日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-071"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa071.htm",
+          "object_id": "south-africa071",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/14c58d2a0411d79592218316.htm",
+          "source_summary": "ODM of South Africa: South African Railway Police Medal for Combating Terrorism Republic of South Africa: South African Railway Police Medal for Combating Terrorism Ribbon: White with green edges, a green central stripe, and narrow red, blue, red edge stripes. Instituted: 28 April 1980. Discontinued: 1986. Awarded: For combat with terrorists, prevention of terrorism, or involvement in counter-insurgency actions. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 16 May 2024",
+          "directory_rank": 156
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-246-MISSING",
+      "family": "ZA-WMI-246",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯警察奖章·反恐",
+      "original": "Transkei Police Medal for Combating Terrorism",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-246"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa246.htm",
+          "object_id": "south-africa246",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/0c000ecc0d4b5e62763df63f.htm",
+          "source_summary": "ODM of South Africa: Transkei Police Medal for Combating Terrorism Republic of South Africa: Transkei Police Medal for Combating Terrorism Ribbon: Yellow with a red central stripe flanked by blue and white stripes. Instituted: 1987. Discontinued: January 1995. Awarded: To members of the Transkei Police for preventing or combating terrorism. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 20 May 2024",
+          "directory_rank": 160
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-111-MISSING",
+      "family": "ZA-WMI-111",
+      "country_zh": "南非·前阿扎尼亚人民解放军人员奖励",
+      "awarding_authority": "南非·前阿扎尼亚人民解放军人员奖励",
+      "name": "特兰斯凯独立纪念奖章",
+      "original": "Transkei Independence Medal",
+      "date": "1976年10月26日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-111"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa111.htm",
+          "object_id": "south-africa111",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/42afff2ebc621d17caa0cfae.htm",
+          "source_summary": "ODM of South Africa: Transkei Independence Medal Republic of South Africa: Transkei Independence Medal Ribbon: Green with brown and white edges. Instituted: 26 October 1976. Awarded: To all ranks who were on the active strength of the Transkei Defence Force upon independence, including members on detached duty from the South African Defence Force. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 30 May 2024",
+          "directory_rank": 170
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-093-MISSING",
+      "family": "ZA-WMI-093",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达独立纪念奖章",
+      "original": "Venda Independence Medal",
+      "date": "1979年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-093"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa093.htm",
+          "object_id": "south-africa093",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/3f8d57ba161f5fe617dc191d.htm",
+          "source_summary": "ODM of South Africa: Venda Independence Medal Republic of South Africa: Venda Independence Medal Ribbon: Blue with a yellow edged green central stripe and brown and yellow edges. Instituted: 1979. Awarded: To all ranks of the Venda National Force in commemoration of the independence of Venda on 13 September 1979. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 1 June 2024",
+          "directory_rank": 173
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-150-MISSING",
+      "family": "ZA-WMI-150",
+      "country_zh": "加赞库卢",
+      "awarding_authority": "加赞库卢",
+      "name": "加赞库卢警察成立纪念奖章",
+      "original": "Gazankulu Police Establishment Medal",
+      "date": "1983年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-150"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa150.htm",
+          "object_id": "south-africa150",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/4f8a7745ac0e70b3ad0dc4b3.htm",
+          "source_summary": "ODM of South Africa: Gazankulu Police Establishment Medal Republic of South Africa: Gazankulu Police Establishment Medal Ribbon: Dark red with a black and yellow edged central stripes and black edges.. Instituted: 1983. Awarded: To founder members of the Gazankulu Police, which was established in 1982. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 3 June 2024",
+          "directory_rank": 175
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-251-MISSING",
+      "family": "ZA-WMI-251",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯独立纪念奖章",
+      "original": "Ciskei Independence Medal",
+      "date": "1981年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-251"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa251.htm",
+          "object_id": "south-africa251",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/2dfa0fcdf3dad4390c60ff6b.htm",
+          "source_summary": "ODM of South Africa: Ciskei Independence Medal Republic of South Africa: Ciskei Independence Medal Ribbon: White with brown, green, and blue edges. Instituted: 1981. Awarded: To all serving members of the Ciskei Defence Force on 4 December 1981 to commemorate the independence of the Republic of Ciskei. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 4 June 2024",
+          "directory_rank": 176
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-254-MISSING",
+      "family": "ZA-WMI-254",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "监狱署成立纪念奖章",
+      "original": "Department of Prisons Establishment Medal",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-254"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa254.htm",
+          "object_id": "south-africa254",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/d1887994ae7262b19ca45062.htm",
+          "source_summary": "ODM of South Africa: Department of Prisons Establishment Medal Republic of South Africa: Department of Prisons Establishment Medal Ribbon: White with a green and yellow edged blue central stripe and brown edges. Instituted: 1985. Awarded: To founder members of the Venda Prisons Service, which was established in April 1985 on the dissolution of the Venda National Force. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 7 June 2024",
+          "directory_rank": 179
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-255-MISSING",
+      "family": "ZA-WMI-255",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "KaNgwane警察成立纪念奖章",
+      "original": "KaNgwane Police Establishment Medal",
+      "date": "1994年4月15日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-255"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa255.htm",
+          "object_id": "south-africa255",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/4d0c2a0236bee8a0e6229237.htm",
+          "source_summary": "ODM of South Africa: KaNgwane Police Establishment Medal Republic of South Africa: KaNgwane Police Establishment Medal Ribbon: Red with a blue central stripe and narrow yellow edges. Instituted: 15 April 1994. Awarded: To founder members of the KaNgwane Police, which was established on 10 June 1986. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 June 2024",
+          "directory_rank": 180
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-256-MISSING",
+      "family": "ZA-WMI-256",
+      "country_zh": "夸恩德贝勒",
+      "awarding_authority": "夸恩德贝勒",
+      "name": "夸恩德贝勒警察成立纪念奖章",
+      "original": "KwaNdebele Police Establishment Medal",
+      "date": "1986年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-256"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa256.htm",
+          "object_id": "south-africa256",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/ff5c5d43b61f22a8432f5fe9.htm",
+          "source_summary": "ODM of South Africa: KwaNdebele Police Establishment Medal Republic of South Africa: KwaNdebele Police Establishment Medal Ribbon: Green with a central red stripe flanked by yellow-edged blue stripes and white edge stripes. Instituted: 1986. Awarded: To founder members of the KwaNdebele Police, which was established on 1 April 1986. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 9 June 2024",
+          "directory_rank": 181
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-257-MISSING",
+      "family": "ZA-WMI-257",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁监狱署成立纪念奖章",
+      "original": "KwaZulu Department of Prisons Establishment Medal",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-257"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa257.htm",
+          "object_id": "south-africa257",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/ce67a3a3c559adc7c40418a1.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department of Prisons Establishment Medal Republic of South Africa: KwaZulu Department of Prisons Establishment Medal Ribbon: Unknown. Instituted: 1990. Awarded: To founder members of the correctional services, which were established in 1990. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 12 June 2024",
+          "directory_rank": 184
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-090-MISSING",
+      "family": "ZA-WMI-090",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "MilitaryRule奖章",
+      "original": "Military Rule Medal",
+      "date": "1987年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-090"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa090.htm",
+          "object_id": "south-africa090",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/f4d12de8c58ea920591a3705.htm",
+          "source_summary": "ODM of South Africa: Military Rule Medal Republic of South Africa: Military Rule Medal Ribbon: Green with a white edged brown central stripe. Instituted: 1987. Awarded: To members of the Transkei Defence Force loyal to their Commander, Major-General Bantu Holomisa, when he staged a coup against the civilain government of Transkei on 30 November 1987. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 14 June 2024",
+          "directory_rank": 186
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-259-MISSING",
+      "family": "ZA-WMI-259",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "南非警察署SoccerWorldCup2010Support奖章",
+      "original": "South African Police Service Soccer World Cup 2010 Support Medal",
+      "date": "2011年2月21日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-259"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa259.htm",
+          "object_id": "south-africa259",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/c73ee20fde997bb071589625.htm",
+          "source_summary": "ODM of South Africa: South African Police Service Soccer World Cup 2010 Support Medal Republic of South Africa: South African Police Service Soccer World Cup 2010 Support Medal Ribbon: Striped black, gold, red, white, green, and dark blue. Instituted: 21 February 2011. Awarded: To members of the South African Polce Service, its reserve, and civilian employees who served at the World Cup. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 February 2024",
+          "directory_rank": 190
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-112-MISSING",
+      "family": "ZA-WMI-112",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "忠诚服役奖章",
+      "original": "Medalje vir Troue Diens/Medal for Loyal Service",
+      "date": "2003年4月16日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-112"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa112.htm",
+          "object_id": "south-africa112",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/5f827b10b0da118e68aa2b7c.htm",
+          "source_summary": "ODM of South Africa: Medalje vir Troue Diens/Medal for Loyal Service Republic of South Africa: Medalje vir Troue Diens/Medal for Loyal Service Ribbon: Green with one red and white edge and one blue and red edge. Instituted: 16 April 2003. Awarded: To all ranks of the South African National Defence Force for long service, including in the former constituent permanent or part-time forces of the SANDF as well as other former uniformed establishments, such as the Police forces and Prisons services of South Africa, the Republics of Transkei, Bophuthatswana, Venda and Ciskei and the Self-Governing Territories. 50 Years Sorry - no picture of obverse Sorry - no picture of reverse 40 Years Sorry - no picture of obverse Sorry - no picture of reverse 30 Years Sorry - no picture of obverse Sorry - no picture of reverse 20 Years Sorry - no picture of obverse Sorry - no picture of reverse 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 21 June 2024",
+          "directory_rank": 193
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-264-MISSING",
+      "family": "ZA-WMI-264",
+      "country_zh": "特兰斯凯",
+      "awarding_authority": "特兰斯凯",
+      "name": "特兰斯凯监狱署奖章·忠实服务",
+      "original": "Transkei Prisons Service Medal for Faithful Service",
+      "date": "1975年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-264"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa264.htm",
+          "object_id": "south-africa264",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/cb5c44c3db4e95214b07f98a.htm",
+          "source_summary": "ODM of South Africa: Transkei Prisons Service Medal for Faithful Service Republic of South Africa: Transkei Prisons Service Medal for Faithful Service Ribbon: Unknown. Instituted: 1975. Discontinued: 1994. Awarded: For long and faithful service in the Transkei Prisons Service. Type 1 1975-1987 Type 2 1987-1994 35 Years Sorry - no picture of obverse Sorry - no picture of reverse 30 Years Sorry - no picture of obverse Sorry - no picture of reverse 20 Years Sorry - no picture of obverse Sorry - no picture of reverse 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 24 June 2024",
+          "directory_rank": 196
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-072-MISSING",
+      "family": "ZA-WMI-072",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "功绩星章南非铁路警察",
+      "original": "Star for Merit in the South African Railway Police",
+      "date": "1966年7月13日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-072"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa072.htm",
+          "object_id": "south-africa072",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/ec146e40af8d2c9706536630.htm",
+          "source_summary": "ODM of South Africa: Star for Merit in the South African Railway Police Republic of South Africa: Star for Merit in the South African Railway Police Ribbon: White with a blue-edged khaki central stripe and black edges (Type 1) or green with khaki edges and a white-edged red central stripe (Type 2). Instituted: 13 July 1966. Amended: 1980. Discontinued: 2004. Awarded: For meritorious or exemplary service or 30 years' irreproachable service. Type 1 Sorry - no picture of obverse Sorry - no picture of reverse Type 2 Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 26 June 2024",
+          "directory_rank": 198
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-269-MISSING",
+      "family": "ZA-WMI-269",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "博普塔茨瓦纳奖章·长期服役与优良品行",
+      "original": "Bophuthatswana Medal for Long Service and Good Conduct",
+      "date": "1982年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-269"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa269.htm",
+          "object_id": "south-africa269",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/5eb689b334bcfca8182d93dd.htm",
+          "source_summary": "ODM of South Africa: Bophuthatswana Medal for Long Service and Good Conduct Republic of South Africa: Bophuthatswana Medal for Long Service and Good Conduct Ribbon: Yellow with green central stripes depending on grade. Instituted: 1982. Discontinued: 1994. Awarded: For long service and good conduct in the Bophuthatswana Defence Force. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 4 July 2024",
+          "directory_rank": 206
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-272-MISSING",
+      "family": "ZA-WMI-272",
+      "country_zh": "博普塔茨瓦纳",
+      "awarding_authority": "博普塔茨瓦纳",
+      "name": "奖章·忠实服务博普塔茨瓦纳监狱署",
+      "original": "Medal for Faithful Service in the Bophuthatswana Prisons Service",
+      "date": "1984年4月设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-272"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa272.htm",
+          "object_id": "south-africa272",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/74611fad9d914a6c0469eea4.htm",
+          "source_summary": "ODM of South Africa: Medal for Faithful Service in the Bophuthatswana Prisons Service Republic of South Africa: Medal for Faithful Service in the Bophuthatswana Prisons Service Ribbon: Blue and orange depending on grade. Instituted: April 1984. Discontinued: 1994. Awarded: For long service in the Bophuthatswana Prisons Service. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 7 July 2024",
+          "directory_rank": 209
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-273-MISSING",
+      "family": "ZA-WMI-273",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达国防军LongService奖章",
+      "original": "Venda Defence Force Long Service Medal",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-273"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa273.htm",
+          "object_id": "south-africa273",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/4eff6f509c34f87ac7189881.htm",
+          "source_summary": "ODM of South Africa: Venda Defence Force Long Service Medal Republic of South Africa: Venda Defence Force Long Service Medal Ribbon: Green with blue edges and a central stripe depending on grade. Instituted: 1985. Discontinued: 27 April 1994. Awarded: For long and exemplary service in the Venda Defence Force. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 July 2024",
+          "directory_rank": 210
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-275-MISSING",
+      "family": "ZA-WMI-275",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达监狱署LongService奖章",
+      "original": "Venda Department of Prisons Long Service Medal",
+      "date": "1985年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-275"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa275.htm",
+          "object_id": "south-africa275",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/a20066c6f5eb3b89541a269a.htm",
+          "source_summary": "ODM of South Africa: Venda Department of Prisons Long Service Medal Republic of South Africa: Venda Department of Prisons Long Service Medal Ribbon: Blue with yellow edges and a central stripe depending on grade. Instituted: 1985. Discontinued: 27 April 1994. Awarded: For long and exemplary service in the Venda Prisons Service. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 8 July 2024",
+          "directory_rank": 212
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-277-MISSING",
+      "family": "ZA-WMI-277",
+      "country_zh": "西斯凯",
+      "awarding_authority": "西斯凯",
+      "name": "西斯凯监狱署奖章·忠实服务",
+      "original": "Ciskei Prisons Service Medal for Faithful Service",
+      "date": "1988年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-277"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa277.htm",
+          "object_id": "south-africa277",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/5e14c366a1386f5fe5735285.htm",
+          "source_summary": "ODM of South Africa: Ciskei Prisons Service Medal for Faithful Service Republic of South Africa: Ciskei Prisons Service Medal for Faithful Service Ribbon: Dark blue with yellow, white, or btown stripes according to grade. Instituted: 1988. Discontinued: 1994. Awarded: For long and exemplary service in the Ciskei Prisons Service. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 12 July 2024",
+          "directory_rank": 214
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-278-MISSING",
+      "family": "ZA-WMI-278",
+      "country_zh": "夸祖鲁",
+      "awarding_authority": "夸祖鲁",
+      "name": "夸祖鲁惩教署奖章·忠实服务",
+      "original": "KwaZulu Department of Correctional Services Medal for Faithful Service",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-278"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa278.htm",
+          "object_id": "south-africa278",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/239e3df2df6f17581dbe0d68.htm",
+          "source_summary": "ODM of South Africa: KwaZulu Department of Correctional Services Medal for Faithful Service Republic of South Africa: KwaZulu Department of Correctional Services Medal for Faithful Service Ribbon: Green with 3 central yellow stripes (Gold), 2 central white stripes (Silver), or a white-edged brown stripe (Bronze). Instituted: 1990. Discontinued: 1994. Awarded: For long and exemplary service in the KwaZulu Department of Correctional Services. Gold Medal 30 Years Sorry - no picture of obverse Sorry - no picture of reverse Silver Medal 20 Years Sorry - no picture of obverse Sorry - no picture of reverse Bronze Medal 10 Years Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 July 2024",
+          "directory_rank": 216
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-034-MISSING",
+      "family": "ZA-WMI-034",
+      "country_zh": "南非",
+      "awarding_authority": "南非",
+      "name": "德韦特勋饰",
+      "original": "De Wet Decoration",
+      "date": "1965年10月28日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-034"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa034.htm",
+          "object_id": "south-africa034",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/aea704b6b6b3782285754aa5.htm",
+          "source_summary": "ODM of South Africa:  De Wet Decoration Republic of South Africa:  De Wet Decoration Ribbon: Yellow with blue central stripe and green and white edges. Instituted: 28 October 1965. Discontinued: 27 April 2003. Awarded: To officers (after 1986, all ranks) of the Commandos, the rural civil defence component of the South African Defence Force, for twenty years of efficient service and good conduct. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 19 July 2024",
+          "directory_rank": 220
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-293-MISSING",
+      "family": "ZA-WMI-293",
+      "country_zh": "莱博瓦",
+      "awarding_authority": "莱博瓦",
+      "name": "莱博瓦警察星章·忠实服务",
+      "original": "Lebowa Police Star for Faithful Service",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-293"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa293.htm",
+          "object_id": "south-africa293",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/4e7ac46c444a6f552cae17e9.htm",
+          "source_summary": "ODM of South Africa: Lebowa Police Star for Faithful Service Republic of South Africa: Lebowa Police Star for Faithful Service Ribbon: Unknown. Instituted: 1990. Discontinued: January 1995. Awarded: For twenty years of exemplary service in the Lebowa Police. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 20 August 2024",
+          "directory_rank": 231
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-292-MISSING",
+      "family": "ZA-WMI-292",
+      "country_zh": "文达",
+      "awarding_authority": "文达",
+      "name": "文达警察奖章·忠实服务",
+      "original": "Venda Police Medal for Faithful Service",
+      "date": "1988年7月13日设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-292"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa292.htm",
+          "object_id": "south-africa292",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/1e3067e1b93296d71bce7388.htm",
+          "source_summary": "ODM of South Africa: Venda Police Medal for Faithful Service Republic of South Africa: Venda Police Medal for Faithful Service Ribbon: Half blue, half brown. Instituted: 13 July 1988. Discontinued: 1994. Awarded: For ten years of exemplary service in the Venda Police since 1 April 1983. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 15 August 2024",
+          "directory_rank": 246
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    },
+    {
+      "id": "V022-SA-296-MISSING",
+      "family": "ZA-WMI-296",
+      "country_zh": "莱博瓦",
+      "awarding_authority": "莱博瓦",
+      "name": "莱博瓦警察忠实服务奖章",
+      "original": "Lebowa Police Faithful Service Medal",
+      "date": "1990年设立",
+      "variant": "等级／版别待考",
+      "views": [],
+      "source_ids": [
+        "V022-WMI-SA-296"
+      ],
+      "html_eligible": true,
+      "body_eligible": true,
+      "evidence": [
+        {
+          "source_page": "https://www.medals.org.uk/south-africa/south-africa296.htm",
+          "object_id": "south-africa296",
+          "accessed": "2026-10-05",
+          "page_cache": "sources/pages/batch_v022_south_africa/67f5f695faf09758c6338fb0.htm",
+          "source_summary": "ODM of South Africa: Lebowa Police Faithful Service Medal Republic of South Africa: Lebowa Police Faithful Service Medal Ribbon: Unknown. Instituted: 1990. Discontinued: January 1995. Awarded: For ten years of exemplary service in the Lebowa Police. Sorry - no picture of obverse Sorry - no picture of reverse World Medals Index Text List Ribbon Chart References Page last updated: 21 August 2024",
+          "directory_rank": 250
+        }
+      ],
+      "publication_eligible": false,
+      "research_only": true,
+      "local_research_eligible": false
+    }
+  ],
+  "supplementary_and_unlinked_candidates": [
+    {
+      "rank_in_directory": 23,
+      "label": "Order of the Aloe",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 64,
+      "label": "King's/Queen's Police Medal for Bravery",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 65,
+      "label": "King's/Queen's Police Medal for Distinguished Service",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 70,
+      "label": "Intelligence Services Medal for Valour",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 252,
+      "label": "Decoration for Devoted Service",
+      "url": "https://www.medals.org.uk/south-africa/south-africa123.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 253,
+      "label": "Medal for Distinguished Conduct in the Field",
+      "url": "https://www.medals.org.uk/south-africa/south-africa125.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 254,
+      "label": "National Intelligence Service Star for Distinguished service",
+      "url": "https://www.medals.org.uk/south-africa/south-africa091.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 255,
+      "label": "President's Decoration for Distinguished Service",
+      "url": "https://www.medals.org.uk/south-africa/south-africa048.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 256,
+      "label": "National Intelligence Service Civil Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa101.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 257,
+      "label": "South African Police Service Commendation Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa151.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 258,
+      "label": "Cape of Good Hope General Service Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa126.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 259,
+      "label": "South African Republic and Orange Free State War Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa127.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 260,
+      "label": "Wound Ribbon",
+      "url": "https://www.medals.org.uk/south-africa/south-africa128.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 261,
+      "label": "Natal Native Rebellion Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa129.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 262,
+      "label": "1914 Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 263,
+      "label": "1914-15 Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 264,
+      "label": "British War Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 265,
+      "label": "Victory Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa130.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 266,
+      "label": "1939-45 Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 267,
+      "label": "Atlantic Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 268,
+      "label": "Air Crew Europe Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 269,
+      "label": "Africa Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 270,
+      "label": "Pacific Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 271,
+      "label": "Burma Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 272,
+      "label": "Italy Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 273,
+      "label": "France and Germany Star",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 274,
+      "label": "Defence Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 275,
+      "label": "Africa Service Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa131.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 276,
+      "label": "War Medal 1939-45",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 277,
+      "label": "South African Medal for War Services",
+      "url": "https://www.medals.org.uk/south-africa/south-africa140.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 278,
+      "label": "General Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 279,
+      "label": "Medal for Long Service and Good Conduct: Cape",
+      "url": "https://www.medals.org.uk/south-africa/south-africa133.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 280,
+      "label": "Medal for Long Service and Good Conduct: Natal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa134.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 281,
+      "label": "Medal for Long Service and Good Conduct: Union of South Africa",
+      "url": "https://www.medals.org.uk/south-africa/south-africa135.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 282,
+      "label": "Medal for Long Service and Good Conduct: Military",
+      "url": "https://www.medals.org.uk/south-africa/south-africa132.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 283,
+      "label": "Medal for Meritorious Service: Cape",
+      "url": "https://www.medals.org.uk/south-africa/south-africa136.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 284,
+      "label": "Medal for Meritorious Service: Natal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa137.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 285,
+      "label": "Medal for Meritorious Service: Union of South Africa",
+      "url": "https://www.medals.org.uk/south-africa/south-africa138.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 286,
+      "label": "Medal for Faithful Service",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 287,
+      "label": "Volunteer Officers' Decoration",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 288,
+      "label": "Volunteer Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 289,
+      "label": "Colonial Auxiliary Forces Officers' Decoration",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 290,
+      "label": "Colonial Auxiliary Forces Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 291,
+      "label": "Efficiency Decoration",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 292,
+      "label": "Efficiency Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 293,
+      "label": "RNVR Volunteer Officers' Decoration",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 294,
+      "label": "RNVR Medal for Long Service and Good Conduct",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 295,
+      "label": "Air Efficiency Award",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 296,
+      "label": "National Intelligence Service Medal for Faithful Service (Silver)",
+      "url": "https://www.medals.org.uk/south-africa/south-africa103.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 297,
+      "label": "Department of Correctional Services Medal for Faithful Service (Bronze)",
+      "url": "https://www.medals.org.uk/south-africa/south-africa090.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 298,
+      "label": "Union of South Africa Commemoration Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa139.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 299,
+      "label": "SANDF Champion Shot Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa038.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 300,
+      "label": "Cadet Champion Shot Medal",
+      "url": "https://www.medals.org.uk/south-africa/south-africa039.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 301,
+      "label": "State President's Sport Award",
+      "url": "https://www.medals.org.uk/south-africa/south-africa050.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 302,
+      "label": "South African Sport Merit Award",
+      "url": "https://www.medals.org.uk/south-africa/south-africa051.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 303,
+      "label": "Presidential Sport Award",
+      "url": "https://www.medals.org.uk/south-africa/south-africa052.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 304,
+      "label": "South African Police Service Canine and Equine Star for Bravery",
+      "url": "https://www.medals.org.uk/south-africa/south-africa156.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 305,
+      "label": "Western Cape Golden Cross",
+      "url": "https://www.medals.org.uk/south-africa/south-africa053.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 306,
+      "label": "Order of the Disa",
+      "url": "https://www.medals.org.uk/south-africa/south-africa054.htm",
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 307,
+      "label": "National Parks Board Kruger Cross",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 308,
+      "label": "Security Officers' Board Bravery Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 309,
+      "label": "Cape Town Bravery Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 310,
+      "label": "Cape Town Fire Brigade Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 311,
+      "label": "Cape Town Traffic Department Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 312,
+      "label": "Pretoria Annual Award to Mayor and Mayoress",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 313,
+      "label": "East London Fire Brigade Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 314,
+      "label": "Germiston Fire Brigade Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 315,
+      "label": "Germiston Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 316,
+      "label": "Johannesburg Bravery Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 317,
+      "label": "South African Fire Services Institute Long Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 318,
+      "label": "South African Life Saving Society Medal for Valour",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 319,
+      "label": "South African Life Saving Society Distinguished Service Award",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 320,
+      "label": "South African Life Saving Society Long Service Award",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 321,
+      "label": "South African Red Cross Society Exceptional First Aid Award",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 322,
+      "label": "South African Red Cross Society Conspicuous Service Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 323,
+      "label": "South African Red Cross Society Proficiency Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    },
+    {
+      "rank_in_directory": 324,
+      "label": "South African Red Cross Society Efficiency Medal",
+      "url": null,
+      "reason": "supplementary scope or no linked object; retained for next normalization"
+    }
+  ],
+  "excluded_or_caption_uncertain_images": [
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa141-03.jpg",
+      "decision": "defer",
+      "inspection": "Pendant lower tip at frame boundary; seek a more complete gold view",
+      "review_sheet": "fronts-00.jpg",
+      "review_index": 0
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa004-07.jpg",
+      "decision": "defer",
+      "inspection": "Source row says Silver Badge but two obverse alts cover different view; targeted identity review needed",
+      "review_sheet": "fronts-00.jpg",
+      "review_index": 15
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa004-08.jpg",
+      "decision": "defer",
+      "inspection": "Image shows star rear/attachment structure although alt says badge obverse; mismatched caption",
+      "review_sheet": "fronts-00.jpg",
+      "review_index": 16
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa055-01.jpg",
+      "decision": "defer",
+      "inspection": "Only part of neck chain visible",
+      "review_sheet": "fronts-01.jpg",
+      "review_index": 33
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa067-01.jpg",
+      "decision": "defer",
+      "inspection": "Only part of neck chain visible",
+      "review_sheet": "fronts-01.jpg",
+      "review_index": 34
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa174-01.jpg",
+      "decision": "defer",
+      "inspection": "Only part of neck chain visible",
+      "review_sheet": "fronts-01.jpg",
+      "review_index": 35
+    },
+    {
+      "image_url": "https://www.medals.org.uk/south-africa/images/south-africa068-01.jpg",
+      "decision": "defer",
+      "inspection": "Only part of neck chain visible",
+      "review_sheet": "fronts-01.jpg",
+      "review_index": 36
+    }
+  ],
+  "directory_crosswalk": "data/normalized_drafts/batch_v022_south_africa/directory_crosswalk.json",
+  "official_precedence_baseline": "data/completeness_audit/20261005/south_africa_v022/official_precedence_baseline.json",
+  "previous_queue": "data/queues/directory_v021_remaining_20261005.json",
+  "next_action": "Complete modern official national-order booklet collection; reconcile remaining rank rows with rendered Gazette, distinguish institution dates from period starts; batch-scan alternate specialist/museum sources for the 78 missing families; normalize WMI supplement and unlinked entries without counting UK cross-references or non-award badges as new families. Previous Polish and Americas pending queues remain active."
+}

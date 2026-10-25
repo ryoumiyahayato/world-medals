@@ -2299,7 +2299,15 @@
       "view": "完整正面",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review",
+        "retained_original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Khedives_star%2C_Tokar_bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "issue": "Current photo.source empty; original URL is a lead, not completed object-page verification"
+      }
     },
     {
       "originalPath": "assets/images/mena_round7/core7-2fd1a0cb6779.png",
@@ -2310,7 +2318,15 @@
       "view": "完整正面",
       "source": "",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review",
+        "retained_original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Khedives_Star_Obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "issue": "Current photo.source empty; original URL is a lead, not completed object-page verification"
+      }
     },
     {
       "originalPath": "assets/images/egypt_khedive_star/khedive_star_1884_86_front.jpg",
@@ -2321,7 +2337,13 @@
       "view": "完整正面 · 背景已处理 · 低清参考",
       "source": "https://www.awm.gov.au/collection/C134468",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_khedive_star/khedive_star_1884_86_reverse.jpg",
@@ -2332,7 +2354,13 @@
       "view": "完整反面 · 背景已处理 · 低清参考",
       "source": "https://www.awm.gov.au/collection/C134468",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/bravery_1913_obverse.jpg",
@@ -2343,7 +2371,13 @@
       "view": "完整正面 · 背景已处理 · 低清参考",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom016.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/bravery_1913_reverse.jpg",
@@ -2354,7 +2388,13 @@
       "view": "完整反面 · 背景已处理 · 低清参考",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom016.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/agriculture-knight-01.jpg",
@@ -2365,7 +2405,13 @@
       "view": "完整正面",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom020.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/agriculture-knight-02.jpg",
@@ -2376,7 +2422,13 @@
       "view": "完整反面",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom020.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_wawards_medal_variants/15-order-of-agriculture-01.jpg",
@@ -2387,7 +2439,13 @@
       "view": "完整正面",
       "source": "https://wawards.org/egypt/kingdom-of-egypt/order-of-agriculture.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_wawards_medal_variants/15-order-of-agriculture-02.jpg",
@@ -2398,7 +2456,13 @@
       "view": "完整反面",
       "source": "https://wawards.org/egypt/kingdom-of-egypt/order-of-agriculture.html",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/ismail-grand-officer-badge-01.jpg",
@@ -2409,7 +2473,13 @@
       "view": "挂章完整正面",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/ismail-grand-officer-star-01.jpg",
@@ -2420,7 +2490,13 @@
       "view": "星章完整正面 · 背景已处理 · 低清参考",
       "source": "https://medals.org.uk/egypt/egypt-kingdom/egypt-kingdom004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "africa_report_review_20261025": {
+        "scope": "current display overview only; original photograph and source identity not fully revalidated",
+        "report": "reports/africa_existing_content_20261025.md",
+        "decision": "retain current image and existing pending status",
+        "next": "Verify object page, exact grade/type and view binding before closing source review"
+      }
     },
     {
       "originalPath": "assets/images/egypt_medals_org/ismail-officer-01.jpg",

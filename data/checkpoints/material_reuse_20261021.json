@@ -18589,5 +18589,50 @@
     },
     "remaining": "All regional individual image reviews retain existing queue status. Metadata followups listed in report; 6542 historical pending member mapping unresolved.",
     "delivery": "Report/checkpoint only; no APK rebuild. Device not tested."
+  },
+  "africa_report_20261025": {
+    "report": "reports/africa_existing_content_20261025.md",
+    "scope": "existing African awarding-authority volumes; no expansion",
+    "version": "0.075",
+    "counts_basis": "current cloud-state catalogue; family keys are not newly verified independent awards",
+    "inventory": {
+      "rows": 888,
+      "pictured_rows": 719,
+      "unpictured_rows": 169,
+      "family_ids": 583,
+      "pictured_family_ids": 425,
+      "unpictured_only_family_ids": 158,
+      "photo_references": 1055,
+      "unique_photo_paths": 1055,
+      "queue_items": 1055,
+      "queue_status": {
+        "awaiting_individual_image_review": 1055
+      },
+      "empty_photo_source": 50
+    },
+    "completed_this_batch": {
+      "catalogue_rows_inventoried": 888,
+      "photo_fields_inventoried": 1055,
+      "display_views_overviewed": 12,
+      "historical_missing_records_annotated": 4,
+      "catalogue_fact_changes": 0,
+      "image_replacements": 0,
+      "background_processing": 0,
+      "new_award_families": 0
+    },
+    "remaining": [
+      "First 12 views still require object-page/source binding; original pending statuses retained",
+      "Other 1043 African queue items not individually reviewed in this batch",
+      "169 unpictured rows; 4 South African historical missing entries require grade/view reconciliation",
+      "6542 historical background members not recovered; no equality/subset claim",
+      "Source fields: 42 original-URL leads and 8 user-processed references need distinct handling"
+    ],
+    "next_entry": {
+      "queue": "data/queues/image_replacement_current_20261021.json",
+      "row_id": "EGY-KHEDIVE-STAR-TOKAR-BAR",
+      "then": "EGY-KHEDIVE-STAR-1882-OBVERSE, remaining first 12 source bindings, and four annotated v022 missing records"
+    },
+    "build": "Documentation/review records only; no rebuild or APK replacement; physical phone not verified",
+    "visibility": "GitHub reports public; private release workflow protection preserved; no image uploads"
   }
 }
