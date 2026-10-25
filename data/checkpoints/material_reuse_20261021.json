@@ -15731,7 +15731,7 @@
     "local_source_removal_status": "batch deletion blocked by automatic approval; originals retained",
     "source_table_review_complete": true,
     "cross_volume_identity_candidate": "UKR-WA-ORDER_OF_PRINCESS_OLGA versus V025-UKR-ORDER_OF_PRINCESS_OLHA; object page inaccessible",
-    "next_step": "继续南美洲：原image_replacement_current_20261021.json中COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01（colombia028.htm）；秘鲁2项来源冲突留在原记录待核。",
+    "next_step": "用户指定东南亚：先读docs/southeast-asia-existing-content-20261025.md；原图片队列从KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA-MEDALBOOK-010指挥官级正面接续。599行/731路径为本批目录记录整理，未完成逐图来源鉴定；23行文字待核候选保留。",
     "local_build_cleanup_status": "CurrentAPK0.072 overwrote previouscurrentartifact. No deletionattempted; olderblocked originalfiles,APKs,ZIP55/56 untouched. Fixed uploadbuffer57 safelyreused for58 after priorcloudverification; cachefile shrank49.4MiB, no netprojectdiskclaim.",
     "next_image_review": {
       "originalPath": "assets/images/ottoman_medalbook_pack2/omb2-e178b608f433.jpg",
@@ -15762,7 +15762,8 @@
       "source_page": "https://www.medals.org.uk/colombia/colombia028.htm",
       "instruction": "下批先接续哥伦比亚原队列；秘鲁上述两项保留待核，不重复从头审智利3图/秘鲁20图。其后按当前南美洲卷ID过滤同一原队列，保留原顺序。"
     },
-    "prior_next_step_before_south_america_20261025": "普通队列先完成OMB2-E178B608F433旧图与MedalBook图库实物对应；随后Künker299图录PDF第195页的7280/7281。Osmanieh与二等慈善背面保留来源阻塞，不反复重试相同失败地址。"
+    "prior_next_step_before_south_america_20261025": "普通队列先完成OMB2-E178B608F433旧图与MedalBook图库实物对应；随后Künker299图录PDF第195页的7280/7281。Osmanieh与二等慈善背面保留来源阻塞，不反复重试相同失败地址。",
+    "prior_next_step_before_southeast_asia_report_20261025": "继续南美洲：原image_replacement_current_20261021.json中COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01（colombia028.htm）；秘鲁2项来源冲突留在原记录待核。"
   },
   "duplicate_cleanup": {
     "removed_files": 2260,
@@ -18523,5 +18524,70 @@
     "next_entry": "CAN-ORDER-CANADA-COMPANION-OFFICIAL",
     "next_steps": "先官方加拿大同伴级，再美国内战奖章与两组配对；依原队列顺序继续其余加拿大及墨西哥。原奥斯曼未完成事项保留。",
     "apk": "未打包，仍0.075；实体手机未验证"
+  },
+  "southeast_asia_report_20261025": {
+    "as_of": "2026-10-25",
+    "report": "docs/southeast-asia-existing-content-20261025.md",
+    "baseline": "mobile-current build-info 0.075/code75; 7803 rows/8155 photo paths",
+    "scope_volumes": [
+      "cambodia-protectorate",
+      "cambodia-kingdom",
+      "kampuchea-peoples-republic",
+      "laos-kingdom",
+      "laos-pdr",
+      "brunei",
+      "singapore",
+      "malaysia-federal",
+      "sabah",
+      "sarawak",
+      "johor",
+      "kedah",
+      "kelantan",
+      "pahang",
+      "perak",
+      "philippines-republic",
+      "philippines-insular",
+      "myanmar-modern",
+      "konbaung",
+      "indonesia",
+      "thailand",
+      "annam-protectorate",
+      "tai-federation",
+      "democratic-vietnam",
+      "state-south-vietnam",
+      "south-vietnam",
+      "socialist-vietnam",
+      "vietnam-south-v026"
+    ],
+    "catalogue_rows_reconciled": 599,
+    "queue_photo_records_reconciled": 731,
+    "family_identifiers": 367,
+    "queue_catalogue_binding_conflicts": [],
+    "metadata_followup_rows": 23,
+    "source_review_completed_this_batch": 0,
+    "image_processing": 0,
+    "image_replacement": 0,
+    "catalogue_fact_changes": 0,
+    "new_families": 0,
+    "new_rows": 0,
+    "queue_status_changes": 0,
+    "source_matrix_historical_counts": {
+      "completed": 15,
+      "not_started": 24,
+      "partial": 3
+    },
+    "next_entry": {
+      "originalPath": "assets/images/medalbook_cambodia/010_royal-order-of-cambodia-commander-5_03.jpg",
+      "rowId": "KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA-MEDALBOOK-010",
+      "family": "KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA",
+      "name": "柬埔寨王家勋章",
+      "variant": "指挥官级",
+      "view": "完整正面",
+      "source": "https://www.medalbook.com/asia/cambodia/cambodia-french-protectorate-1863-1948/orders/royal-order-of-cambodia/royal-order-of-cambodia-commander-5",
+      "status": "awaiting_individual_image_review",
+      "processedPath": null
+    },
+    "remaining": "All regional individual image reviews retain existing queue status. Metadata followups listed in report; 6542 historical pending member mapping unresolved.",
+    "delivery": "Report/checkpoint only; no APK rebuild. Device not tested."
   }
 }
