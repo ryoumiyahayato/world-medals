@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "egypt_normalization_batch3",
+  "as_of": "2026-09-26",
+  "conflicts": [
+    {
+      "conflict_id": "EGY-CONFLICT-001",
+      "family_id": "EGY-ORDER-ISMAIL",
+      "kind": "institution_date_conflict",
+      "sources": [
+        "Wawards: Order of Ismail",
+        "OMSA: EGY-OMSA-ISMAIL"
+      ],
+      "values": {
+        "wawards": [
+          1915
+        ],
+        "omsa_appendix_table": [
+          1922
+        ]
+      },
+      "resolution": "Keep 1915 and 1922 as separate dated source variants; do not collapse into one establishment date."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-002",
+      "family_id": "EGY-ORDER-AGRICULTURE",
+      "kind": "period_and_institution_date_conflict",
+      "sources": [
+        "Wawards Kingdom/Republic Order of Agriculture",
+        "OMSA EGY-OMSA-AGRICULTURE"
+      ],
+      "values": {
+        "wawards": [
+          1932,
+          1953
+        ],
+        "omsa_appendix_table": [
+          1923
+        ]
+      },
+      "resolution": "Retain one family with dated Kingdom/Republic/OMSA variants; legal continuity and the 1923 entry require independent review.",
+      "online_review_20261025": {
+        "accessed": "2026-10-25",
+        "finding": "WMI Type1 states1915 and2classes; Type2 states1915 with1932 redesign and3classes; Wawards gives1932institution. OMSA appendix lists Filaha separately fromAgriculture. No decree-level reconciliation; preserve conflict.",
+        "sources": [
+          "https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom002.htm",
+          "https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom020.htm",
+          "https://wawards.org/en/egypt/kingdom-of-egypt/order-of-agriculture.html",
+          "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-003",
+      "family_id": "EGY-ORDER-MOHAMMED-ALI",
+      "kind": "grade_count_conflict",
+      "sources": [
+        "Wawards Order of Muhammad Ali",
+        "OMSA EGY-OMSA-MOHAMMED-ALI"
+      ],
+      "values": {
+        "wawards": "III classes plus Gold and Silver Medal; two types",
+        "omsa_appendix_table": "5 classes"
+      },
+      "resolution": "Keep source-specific grade/period variants; no grade equivalence asserted."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-004",
+      "family_id": "EGY-PRES-ORDER-REPUBLIC",
+      "kind": "grade_and_type_conflict",
+      "sources": [
+        "Wawards Order of the Republic",
+        "Presidency official Order of the Republic"
+      ],
+      "values": {
+        "wawards": "VI classes; types I-IV with dated suspensions",
+        "official": "Five listed classes in the official page capture"
+      },
+      "resolution": "Keep Wawards period/types and official grade text as separate variants pending statute-level reconciliation."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-005",
+      "family_id": "EGY-PALESTINE-MEDAL",
+      "kind": "period_design_variant",
+      "sources": [
+        "Wawards Kingdom/Republic Palestine Medal",
+        "OMSA EGY-OMSA-PALESTINE-WAR"
+      ],
+      "values": {
+        "institution": 1948,
+        "republic_design_note": "after 1952 King Farouk portrait removed"
+      },
+      "resolution": "Same family; preserve 1948 Kingdom issue and post-1952 Republic design as distinct period variants."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-006",
+      "family_id": "EGY-PRES-ORDER-VIRTUES",
+      "kind": "name_translation_match",
+      "sources": [
+        "Wawards Order of the Virtues",
+        "OMSA EGY-OMSA-AL-KEMAL",
+        "Presidency Order of the Virtues"
+      ],
+      "values": {
+        "names": [
+          "Order of the Virtues",
+          "Order of Al Kemal",
+          "Order of Perfection"
+        ]
+      },
+      "resolution": "Treat as one family because the source Arabic/alias is Nishan al-Kemal; retain all names and period variants."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-007",
+      "family_id": "EGY-PRES-MEDAL-SPORTS",
+      "kind": "name_translation_match_pending",
+      "sources": [
+        "Wawards Medal for Sport",
+        "Wawards Order of Sport",
+        "Presidency Medal of Sports"
+      ],
+      "values": {
+        "names": [
+          "Medal for Sport",
+          "Order of Sport",
+          "Medal of Sports"
+        ]
+      },
+      "resolution": "Provisional same-family mapping by subject, class count and period; retain naming conflict for official legal review."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-008",
+      "family_id": "EGY-PRES-NILE-COLLAR",
+      "kind": "collar_order_label_conflict",
+      "sources": [
+        "Wawards Collar of the Nile",
+        "Wawards Republic Order of the Nile",
+        "Presidency official Nile collar"
+      ],
+      "values": {
+        "wawards": [
+          "Collar of the Nile",
+          "Order of the Nile",
+          "Kiladat El Nil"
+        ],
+        "official": "قلادة النيل / Collar of the Nile"
+      },
+      "resolution": "Map the Republic Wawards row to the collar family; do not create a second 1953 Nile family."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-009",
+      "family_id": "EGY-ORDER-CULTURE / EGY-ORDER-PUBLIC-INSTRUCTION",
+      "kind": "possible_synonym_not_merged",
+      "sources": [
+        "Wawards Order of Culture",
+        "OMSA EGY-OMSA-PUBLIC-INSTRUCTION"
+      ],
+      "values": {
+        "date": [
+          1932
+        ],
+        "domains": [
+          "education/culture",
+          "public instruction"
+        ]
+      },
+      "resolution": "Keep separate candidate families; no exact naming or statute evidence in this batch proves identity."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-010",
+      "family_id": "EGY-ORDER-FILAHA / EGY-ORDER-AGRICULTURE",
+      "kind": "possible_predecessor_not_merged",
+      "sources": [
+        "OMSA EGY-OMSA-FILAHA",
+        "Wawards/OMSA Agriculture"
+      ],
+      "values": {
+        "omsa_filaha": 1915,
+        "agriculture_entries": [
+          1923,
+          1932,
+          1953
+        ]
+      },
+      "resolution": "Keep Filaha as a separate new candidate; possible institutional relationship requires independent evidence.",
+      "online_review_20261025": {
+        "accessed": "2026-10-25",
+        "finding": "WMI Type1 states1915 and2classes; Type2 states1915 with1932 redesign and3classes; Wawards gives1932institution. OMSA appendix lists Filaha separately fromAgriculture. No decree-level reconciliation; preserve conflict.",
+        "sources": [
+          "https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom002.htm",
+          "https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom020.htm",
+          "https://wawards.org/en/egypt/kingdom-of-egypt/order-of-agriculture.html",
+          "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf"
+        ],
+        "report": "reports/africa_existing_content_20261025.md"
+      }
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-011",
+      "family_id": "UNCONFIRMED-EGY-OMSA-CONTEXT",
+      "kind": "speculative_context",
+      "sources": [
+        "OMSA EGY-OMSA-CROWN-EGYPT",
+        "OMSA EGY-OMSA-IBRAHIM-PASHA"
+      ],
+      "values": {
+        "language": "it is believed / apparently"
+      },
+      "resolution": "Remain unconfirmed and excluded from admitted family count."
+    },
+    {
+      "conflict_id": "EGY-CONFLICT-012",
+      "family_id": "ALL-EGYPT-FAMILIES",
+      "kind": "image_evidence_scope",
+      "sources": [
+        "Wawards",
+        "Presidency",
+        "OMSA"
+      ],
+      "values": {
+        "wawards": "chrome-only URLs",
+        "official": "no object image in page captures",
+        "omsa": "Figure 21 reverse-only scan"
+      },
+      "resolution": "No complete object image is counted; Figure 21 is retained only as historical reverse-photo support."
+    }
+  ],
+  "unconfirmed_rows": [
+    {
+      "source_file": "data/raw_candidates/omsa_egypt_awards_appendix.jsonl",
+      "source_label": "OMSA/JOMSA",
+      "line_number": 27,
+      "source_record_id": "omsa_egypt_awards_appendix",
+      "source_title": "Parliamentary awards",
+      "family_id": null,
+      "mapping_status": "non_specific_award_group_not_admitted",
+      "admission_status": "not_admitted",
+      "periods": [
+        "period unknown / contextual mention"
+      ],
+      "date_candidates_clean": [],
+      "grades_or_classes_normalized": [
+        "Council of Senators",
+        "Council of Deputies"
+      ],
+      "variant_keys": [],
+      "source_page": "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf",
+      "source_cache": "sources/books/omsa_egypt_awards_appendix.pdf",
+      "raw_image_status": {
+        "status": "no_object_image_on_appendix_page",
+        "valid_object_image": false
+      },
+      "source_notes_excerpt": "Parliamentary awards - for the Council of Senators and the Council of Deputies",
+      "proposed_candidate_key": "EGY-OMSA-PARLIAMENTARY",
+      "uncertainty_note": "No confirmed family admission in this batch."
+    },
+    {
+      "source_file": "data/raw_candidates/omsa_egypt_awards_appendix.jsonl",
+      "source_label": "OMSA/JOMSA",
+      "line_number": 28,
+      "source_record_id": "omsa_egypt_awards_appendix",
+      "source_title": "Order of the Crown of Egypt",
+      "family_id": null,
+      "mapping_status": "proposed_only_uncertain",
+      "admission_status": "not_admitted",
+      "periods": [
+        "period unknown / contextual mention"
+      ],
+      "date_candidates_clean": [],
+      "grades_or_classes_normalized": [
+        "unknown"
+      ],
+      "variant_keys": [],
+      "source_page": "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf",
+      "source_cache": "sources/books/omsa_egypt_awards_appendix.pdf",
+      "raw_image_status": {
+        "status": "no_object_image_in_source",
+        "valid_object_image": false
+      },
+      "source_notes_excerpt": "it is believed that an Order of the Crown of Egypt exists ... the ribbon is apparently of three equal stripes of blue, white and blue",
+      "proposed_candidate_key": "EGY-OMSA-CROWN-EGYPT",
+      "uncertainty_note": "The article uses 'it is believed' and 'apparently'; no establishment date, statute, or object image is supplied. The paragraph concerns a post-1953 claimant context, not a confirmed Kingdom award."
+    },
+    {
+      "source_file": "data/raw_candidates/omsa_egypt_awards_appendix.jsonl",
+      "source_label": "OMSA/JOMSA",
+      "line_number": 29,
+      "source_record_id": "omsa_egypt_awards_appendix",
+      "source_title": "Order of Ibrahim Pasha",
+      "family_id": null,
+      "mapping_status": "proposed_only_uncertain",
+      "admission_status": "not_admitted",
+      "periods": [
+        "period unknown / contextual mention"
+      ],
+      "date_candidates_clean": [],
+      "grades_or_classes_normalized": [
+        "bust suspended from red ribbon",
+        "three-class order (early 1990s claim)"
+      ],
+      "variant_keys": [],
+      "source_page": "https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf",
+      "source_cache": "sources/books/omsa_egypt_awards_appendix.pdf",
+      "raw_image_status": {
+        "status": "no_object_image_in_source",
+        "valid_object_image": false
+      },
+      "source_notes_excerpt": "have an Order of Ibrahim Pasha - this was, it was believed, a bust of Ibrahim Pasha suspended from a red ribbon - in the early 1990's this became a three class order",
+      "proposed_candidate_key": "EGY-OMSA-IBRAHIM-PASHA",
+      "uncertainty_note": "The article uses 'it was believed' and describes a later early-1990s claim; do not normalize as a confirmed Khedivate/Sultanate/Kingdom award without independent evidence."
+    }
+  ]
+}

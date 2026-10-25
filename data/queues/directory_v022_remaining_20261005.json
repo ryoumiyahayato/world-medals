@@ -38,6 +38,16 @@
           "V023-ZA-MENDI-OFFICIAL"
         ],
         "report": "reports/africa_existing_content_20261025.md"
+      },
+      "online_review_20261025": {
+        "result": "no_new_evidence",
+        "finding": "Presidency old object URL timed out; retain distinction between official design and specimen photograph.",
+        "sources": [
+          "https://www.thepresidency.gov.za/node/5270"
+        ],
+        "accessed": "2026-10-25",
+        "report": "reports/africa_existing_content_20261025.md",
+        "catalogue_change_applied": false
       }
     },
     {
@@ -76,6 +86,16 @@
           "V022-SA-043-01"
         ],
         "report": "reports/africa_existing_content_20261025.md"
+      },
+      "online_review_20261025": {
+        "result": "specific_military_views_still_missing",
+        "finding": "Current pictured V022-SA-043-01 is non-military Officer; source004 military division cannot be closed by that image. Source004 exposes silver badge views; no new image integrated.",
+        "sources": [
+          "https://www.medals.org.uk/south-africa/south-africa004.htm"
+        ],
+        "accessed": "2026-10-25",
+        "report": "reports/africa_existing_content_20261025.md",
+        "catalogue_change_applied": false
       }
     },
     {
@@ -1477,6 +1497,18 @@
           "V022-SA-084-01"
         ],
         "report": "reports/africa_existing_content_20261025.md"
+      },
+      "online_review_20261025": {
+        "result": "confirmed_name_mistranslation",
+        "proposed_name": "惩教署非军官人员功绩奖章",
+        "finding": "085 explicitly NCOs (warrant officers, sergeants, warders); 084 commissioned officers. Existing 084 image does not resolve 085 missing view. Shared family must be reviewed at variant level.",
+        "sources": [
+          "https://www.medals.org.uk/south-africa/south-africa085.htm",
+          "https://www.medals.org.uk/south-africa/south-africa084.htm"
+        ],
+        "accessed": "2026-10-25",
+        "report": "reports/africa_existing_content_20261025.md",
+        "catalogue_change_applied": false
       }
     },
     {
@@ -1632,6 +1664,17 @@
           "V022-SA-109-01"
         ],
         "report": "reports/africa_existing_content_20261025.md"
+      },
+      "online_review_20261025": {
+        "result": "unresolved_source_access",
+        "finding": "110 could not be read; gold108 and silver109 remain insufficient to close110.",
+        "sources": [
+          "https://www.medals.org.uk/south-africa/south-africa108.htm",
+          "https://www.medals.org.uk/south-africa/south-africa109.htm"
+        ],
+        "accessed": "2026-10-25",
+        "report": "reports/africa_existing_content_20261025.md",
+        "catalogue_change_applied": false
       }
     },
     {

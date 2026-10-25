@@ -95,3 +95,46 @@ v022原队列81条与当前family对照后，有4条已存在同family配图：
 当前GitHub元数据返回visibility=public，和历史“私有仓库”说明不同。现有云端流程要求仓库为私有；本批不修改该保护，不上传图片或构建输入，不改变仓库可见性。下次若实际改图，需先解决现有私有Release流程与当前可见性的冲突。
 
 主要依据：当前mobile-current的build-info.json、world-medals-cloud-state.zip内catalog.js及cloud/portable.json；现有data/queues/image_replacement_current_20261021.json、data/checkpoints/material_reuse_20261021.json；local-backup-20261024第07／08包内上述原checkpoint、来源矩阵、原缺图队列。历史记录不自动视为本批验证通过。
+
+## 联网复查补记（2026-10-25）
+
+本轮按用户要求联网查已有条目的缺漏和问题，不以必须找出错误为目标。范围限定在上一轮列出的埃及来源、南非四项旧缺图及三个日期疑点；没有声称审完非洲全部内容。以下链接为本轮实际打开的对象页或文献，访问日期均为2026-10-25。网页可读不等于已经下载、核对原摄影图。
+
+### 已确认：一条中文名称与来源对象不符
+
+`V022-SA-085-MISSING` 当前写“惩教署军官功绩奖章”，英文却是 NCOs，来源085页明确授予准尉、士官和狱警；084页才是军官版。两页的绶带说明也不同。因此085不应沿用“军官”译名；建议名称为“惩教署非军官人员功绩奖章”。当前085与084共用ZA-WMI-084 family，是否保持为同章的不同人员版型还需制度资料核对，不能直接按照片路径拆删或把已有084照片替给085。
+
+这也修正上一轮“四项同family已有图”的解释：它只是索引交叉结果，085的具体非军官版仍缺图。已在原v022队列中补入联网依据和建议名称，不销项、不改变正式云端目录。
+
+来源：[085非军官版](https://www.medals.org.uk/south-africa/south-africa085.htm)、[084军官版](https://www.medals.org.uk/south-africa/south-africa084.htm)。两者属于同一专业目录，不冒称两个独立来源。
+
+### 已确认：两类缺图不能用同family照片结案
+
+- `V022-SA-004-MISSING`：来源004页是1975年设立的军事分部；当前同family配图行`V022-SA-043-01`写的是1978年增设的非军事分部军官级。后者不能填补军事分部的金级挂章／星章等视图。原站004目前列出银级挂章图片，但仍需逐图确认；没有因此直接接入或宣称所有缺图已补齐。[原对象页](https://www.medals.org.uk/south-africa/south-africa004.htm)
+- `V022-SA-110-MISSING`：本轮未成功读取110对象页，不能把已有108金级、109银级等同于110所需对象。108、109页可读，原缺图状态保留。[108对象页](https://www.medals.org.uk/south-africa/south-africa108.htm)、[109对象页](https://www.medals.org.uk/south-africa/south-africa109.htm)
+
+门迪官方旧链接本轮超时，未获得新的图像或等级证据；仍保留已有官方图式与实物照片的区别。
+
+### 已有日期问题仍需保留，不能硬选一个年份
+
+- Thohoyandou：专业目录162页记1979；政府公报27376列1981—1994。公报确实存在该年份范围，但本轮未找到能解释两者关系的设立法令，维持待考。[目录162](https://www.medals.org.uk/south-africa/south-africa162.htm)、[政府公报27376，PDF第2—3页](https://www.gov.za/sites/default/files/gcis_document/201409/27376.pdf)
+- 夸祖鲁警察成立纪念奖章：目录100页明确区分奖章设立1982与警队成立1980。这个来源支持避免把机构成立日直接抄作奖章设立日；但旧官方表的年代范围仍需核对，不能仅凭一个二级来源消除现有冲突。[目录100](https://www.medals.org.uk/south-africa/south-africa100.htm)
+- Good Service Medal：031总页写1975—1993／1993以后，链接的157型制页写1975—1986／1986以后。冲突在原站内部仍存在；不能凭一页替另一页定案，现有“使用终年待考”有必要保留。[031总页](https://www.medals.org.uk/south-africa/south-africa031.htm)、[157型制页](https://www.medals.org.uk/south-africa/south-africa157.htm)
+
+### 埃及：找到来源补全线索，一项日期／归并疑点仍未解决
+
+- `EGY-KHEDIVE-STAR-TOKAR-BAR`：Commons对象页实际可读，作者字段为Helensq、许可为CC BY-SA 4.0，原文件370×581；当前云端条目photo.source和credit为空，索引所载330×518与原站原文件尺寸不同。可补对象页与署名，但不能未经像素对照把现有330×518文件改记为原分辨率原图。Commons页面的2017日期是图像日期，不能写成章的设立或颁发日期。页面自身未给出足以证明横条真伪、是否原配的说明。[Commons对象页](https://commons.wikimedia.org/wiki/File:Khedives_star,_Tokar_bar.jpg)
+- `EGY-KHEDIVE-STAR-1882-OBVERSE`：具体文件页本轮工具无法读取，Commons分类页只证明该文件被列出，不能代替对象页作者和许可核对；继续待核。[分类入口](https://commons.wikimedia.org/wiki/Category:Khedive%27s_Star)
+- 王国农业勋章两行分别写1915设立和1932年11月21日设立。WMI把1915—1932列为第一型、1932—1953列为第二型；Wawards则把1932写为设立日。OMSA附录还把Filaha与Agriculture分别列名。原`egypt_normalization_batch3.json`的EGY-CONFLICT-002／010早已保留这类日期和身份问题。本轮补入现行来源，不能把它算成新发现，也不能据此强行合并1915的Filaha与1932的Agriculture。后续应核查原文法令或历史图录，区分前身、改制与设立。[WMI第二型页](https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom020.htm)、[WMI第一型页](https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom002.htm)、[Wawards对象页](https://wawards.org/en/egypt/kingdom-of-egypt/order-of-agriculture.html)、[OMSA附录，印刷页23](https://www.omsa.org/files/jomsa_arch/Splits/2006/28560_JOMSA_Vol57_4_25.pdf)
+
+### 本次核对后没有发现需改动的内容
+
+AWM C134468与现有1884—1886赫迪夫星章行的馆藏号RELAWM14684、青铜材质、制造商H Jenkins & Sons及伯明翰产地相符；馆方另记约1886年制作，不能把该制作年当作全章设立年。本次未发现文字错配，保留现有展示。[AWM馆藏对象页](https://www.awm.gov.au/collection/C134468)
+
+WMI伊斯梅尔勋章页把Grand Officer挂章与星章分别列出，与当前两行角色相符；没有依据将其改成同件正反面。[伊斯梅尔对象页](https://www.medals.org.uk/egypt/egypt-kingdom/egypt-kingdom004.htm)
+
+### 本轮交付和下一步
+
+本轮确认1条名称问题，厘清2项旧缺图的结案边界，补得1个Commons对象页的来源／署名资料；其余记录属于既有冲突复核、未发现问题或访问失败，不混算成新错误。未确认新增漏收章种，也未确认错图、复制品或残损误标。
+
+已更新原报告、v022原缺图队列、既有埃及冲突记录、原图片队列对应备注及checkpoint。正式目录、云端输入和图片均未改变，按本轮主要报告的范围留待后续内容修订；APK保留0.075，未重打包、未作实体手机验证。下一步先按085来源纠正非军官版译名并核对family／版型关系，再处理004军事分部缺图与Commons署名；农业与三个南非年代问题保留待考。本轮不新增章种、不抠图、不改界面。

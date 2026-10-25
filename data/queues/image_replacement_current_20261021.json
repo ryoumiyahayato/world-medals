@@ -2345,6 +2345,18 @@
         "next": "Verify object page, exact grade/type and view binding before closing source review",
         "retained_original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Khedives_star%2C_Tokar_bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "issue": "Current photo.source empty; original URL is a lead, not completed object-page verification"
+      },
+      "online_review_20261025": {
+        "accessed": "2026-10-25",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Khedives_star,_Tokar_bar.jpg",
+        "author_as_stated": "Helensq",
+        "license_as_stated": "CC BY-SA 4.0",
+        "source_dimensions": [
+          370,
+          581
+        ],
+        "finding": "Source metadata recovered; current photo source/credit missing. Current330x518 record not silently replaced with source dimensions. No original-image pixel comparison or authenticity finding.",
+        "report": "reports/africa_existing_content_20261025.md"
       }
     },
     {
@@ -2381,6 +2393,12 @@
         "report": "reports/africa_existing_content_20261025.md",
         "decision": "retain current image and existing pending status",
         "next": "Verify object page, exact grade/type and view binding before closing source review"
+      },
+      "online_review_20261025": {
+        "accessed": "2026-10-25",
+        "source_page": "https://www.awm.gov.au/collection/C134468",
+        "finding": "Text metadata matches accessionRELAWM14684,1884-6design,bronze,HJenkins,Birmingham. Museumc1886is manufacture date. No new original-image comparison.",
+        "report": "reports/africa_existing_content_20261025.md"
       }
     },
     {
@@ -2398,6 +2416,12 @@
         "report": "reports/africa_existing_content_20261025.md",
         "decision": "retain current image and existing pending status",
         "next": "Verify object page, exact grade/type and view binding before closing source review"
+      },
+      "online_review_20261025": {
+        "accessed": "2026-10-25",
+        "source_page": "https://www.awm.gov.au/collection/C134468",
+        "finding": "Text metadata matches accessionRELAWM14684,1884-6design,bronze,HJenkins,Birmingham. Museumc1886is manufacture date. No new original-image comparison.",
+        "report": "reports/africa_existing_content_20261025.md"
       }
     },
     {

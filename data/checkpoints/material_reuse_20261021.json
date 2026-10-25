@@ -18861,5 +18861,21 @@
     },
     "next_entry": "先将011页日期、OAM四行的级别日期和055页既有日期问题纳入下一次权威目录/云端输入同步修改；再核004页三项背面；其余缺口仅保留记录。",
     "build": "只有报告和进度变化，不打包；实体手机未验证。"
+  },
+  "africa_online_review_20261025": {
+    "report": "reports/africa_existing_content_20261025.md",
+    "confirmed_name_issues": 1,
+    "missing_record_boundaries_clarified": 2,
+    "commons_object_metadata_recovered": 1,
+    "new_missing_award_families_confirmed": 0,
+    "catalogue_changes": 0,
+    "image_replacements": 0,
+    "next_entry": "V022-SA-085-MISSING: correct NCO translation in next content revision and review shared family/variant mapping; then004military missing views andTokar attribution.",
+    "unresolved": [
+      "Agriculture/Filaha identity and dates; original conflict002/010 updated",
+      "Thohoyandou1979/1981,KwaZulu1980/1982,GoodService1986/1993 retained",
+      "110,Presidency5270,1882Commons file access failed"
+    ],
+    "build": "Report and original review records only; retainedAPK0.075; physical phone not tested"
   }
 }
