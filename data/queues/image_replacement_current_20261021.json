@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-25",
   "scope": "Current catalogue photo paths after duplicate-display merges; rows are not independent award counts",
   "total": 8155,
   "integrated": 10,
@@ -56690,8 +56690,29 @@
       "variant": "第二式（1820—1824）；大军官级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/chile/chile001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/cb38fe392a830a08296cbbbe.jpg.webp",
+        "source_page": "https://www.medals.org.uk/chile/chile001.htm",
+        "image_url": "https://www.medals.org.uk/chile/images/chile013.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/chile_candidates.json",
+        "archived_image_label": "Grand Officer: Star, Obverse",
+        "archived_row_context": [
+          "Grand Officer: Star Grandes Oficiale de la Legion",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/ba4271a04bd3949587b801c0.jpg",
@@ -56701,8 +56722,28 @@
       "variant": "第六式（1939年起，按来源）；大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/chile/chile002.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/ba4271a04bd3949587b801c0.jpg.webp",
+        "source_page": "https://www.medals.org.uk/chile/chile002.htm",
+        "image_url": "https://www.medals.org.uk/chile/images/chile002-05.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/chile_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/8eda6e4270f6adaf02e0f10f.jpg",
@@ -56712,8 +56753,28 @@
       "variant": "第二式（1967年起，按来源）；大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/chile/chile003.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/8eda6e4270f6adaf02e0f10f.jpg.webp",
+        "source_page": "https://www.medals.org.uk/chile/chile003.htm",
+        "image_url": "https://www.medals.org.uk/chile/images/chile030.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/chile_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/6ad5dc42c50181eba8401f27.jpg",
@@ -56723,8 +56784,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/6ad5dc42c50181eba8401f27.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru001.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru014.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/9fc79508f5591b505d8696ca.jpg",
@@ -56734,8 +56816,29 @@
       "variant": "大军官级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru005.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/9fc79508f5591b505d8696ca.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru005.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru035.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Officer: Star, Obverse",
+        "archived_row_context": [
+          "Grand Officer: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/d55257669991fa38602faebb.jpg",
@@ -56745,8 +56848,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru007.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/d55257669991fa38602faebb.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru007.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru038.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/3bcf22487195f609f41da96d.jpg",
@@ -56756,8 +56880,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru006.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/3bcf22487195f609f41da96d.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru006.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru049.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/22509c40d96362b49b4244d1.jpg",
@@ -56768,7 +56913,26 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru004.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/22509c40d96362b49b4244d1.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru004.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru068.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Officer: Star, Obverse",
+        "archived_row_context": [
+          "Grand Officer: Star"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_pending_source_confirmation",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "followup": "2026-10-05存档将peru068.jpg记为Grand Officer: Star, Obverse，行上下文为Grand Officer: Star；本轮网页提取的大军官图注却显示Grand Cross: Officer, Reverse。现用图可见正面铭文，不能据此单独裁决来源标签变更/错误；保留原图、原等级和原队列待核状态，待直接复核对象页原HTML及对应正背文件。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/4cc242148ba9310afea37635.jpg",
@@ -56778,8 +56942,28 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru002.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/4cc242148ba9310afea37635.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru002.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru025.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/c904335cc40fa80b4054158b.jpg",
@@ -56789,8 +56973,28 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru009.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/c904335cc40fa80b4054158b.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru009.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru029.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/6f78ec4e60ebb4f215840301.jpg",
@@ -56800,8 +57004,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru017.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/6f78ec4e60ebb4f215840301.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru017.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru017-03.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/aa3089e59a69bf80b276b812.jpg",
@@ -56812,7 +57037,27 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru021.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/aa3089e59a69bf80b276b812.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru021.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru045.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_pending_source_confirmation",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "followup": "来源页与存档将peru045.jpg置于Grand Cross: Star；现用图为带悬挂开口的圆形章饰。当前版型已注明“来源标星章；形制待考”，继续保留，不凭轮廓改判挂章或等级；需官方制度图式或独立实物目录确认。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/04c36a65fa026f32db2f6632.jpg",
@@ -56822,8 +57067,29 @@
       "variant": "特等大十字级镶钻星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru022.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/04c36a65fa026f32db2f6632.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru022.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru022-03.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Special Grand Cross with Brilliants: Star, Obverse",
+        "archived_row_context": [
+          "Special Grand Cross with Brilliants: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/e07f603c869fbcbfcd27b83e.jpg",
@@ -56833,8 +57099,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru019.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/e07f603c869fbcbfcd27b83e.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru019.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru041.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/0f0710a60a43b631439b4b6b.jpg",
@@ -56844,8 +57131,29 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru013.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/0f0710a60a43b631439b4b6b.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru013.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru015.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Obverse",
+        "archived_row_context": [
+          "Ribbon: Blue with a red-edged white central stripe. Instituted: Unknown Awarded: To Air Force personnel.",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/ce822f29eb91889a46b5e302.jpg",
@@ -56855,8 +57163,29 @@
       "variant": "将官版奖章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru016.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/ce822f29eb91889a46b5e302.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru016.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru058.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Medal for Generals, Obverse",
+        "archived_row_context": [
+          "Medal for Generals",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/68e0037b7ed4878c919fa80d.jpg",
@@ -56866,8 +57195,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru020.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/68e0037b7ed4878c919fa80d.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru020.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru044.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/0e0e35b00ff8b23ff7290491.jpg",
@@ -56877,8 +57227,28 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru015.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/0e0e35b00ff8b23ff7290491.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru015.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru050.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Obverse",
+        "archived_row_context": [
+          "Ribbon: Half white, half red. Instituted: Unknown. Awarded: For participation in the Battle of Ayacucho, 9 December 1824."
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/fb73266ccd4e771d2e0ac1b0.jpg",
@@ -56888,8 +57258,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru026.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/fb73266ccd4e771d2e0ac1b0.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru026.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru063.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/44fdc43d6ad7388fe3080343.jpg",
@@ -56899,8 +57290,28 @@
       "variant": "银质奖章（来源描述）；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru025.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/44fdc43d6ad7388fe3080343.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru025.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru061.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Silver Medal, Obverse",
+        "archived_row_context": [
+          "Silver Medal"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/995ef22d81ac970509cfe659.jpg",
@@ -56910,8 +57321,29 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru023.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/995ef22d81ac970509cfe659.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru023.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru053.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Obverse",
+        "archived_row_context": [
+          "Ribbon: Red with a central white stripe. Instituted: Unknown. Awarded: For participation in the defence of Huchumayo in the Arequipa Province, on 4 February 1836.",
+          "Sorry - no picture of reverse"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/088be30ce2883840fccc1867.jpg",
@@ -56921,8 +57353,28 @@
       "variant": "鎏金银质奖章（来源描述）；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru024.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/088be30ce2883840fccc1867.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru024.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru054.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Silver-gilt Medal, Obverse",
+        "archived_row_context": [
+          "Silver-gilt"
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/c9c6ff80b155c4bb7f5714f4.jpg",
@@ -85917,8 +86369,28 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/peru/peru027.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/4c8b087197c0888728a0e602.jpg.webp",
+        "source_page": "https://www.medals.org.uk/peru/peru027.htm",
+        "image_url": "https://www.medals.org.uk/peru/images/peru066.jpg",
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/peru_candidates.json",
+        "archived_image_label": "Obverse",
+        "archived_row_context": [
+          "Ribbon: Red. Instituted: 2 May 1966. Awarded: To mark the centenary of the Peruvian victory on May 2 1866 in a battle between the Spanish fleet and the Peruvian Costal Artillery emplacements of the port city of Callao during the Chincha Islands War."
+        ],
+        "visual_result": "已打开当前cloud-state内实际展示图；可见章体及金属悬挂轮廓未见裁断，正面铭文/纹饰与存档所指对象相符。保留低清参考说明；未新增背面、未配对不同实物。",
+        "source_access": "本轮已用网页工具读取对象页正文/等级行，并核对2026-10-05来源索引的精确图片URL与行上下文。shell直连原站HTTP403；未声称重新下载或检查高清原图。",
+        "copy_damage_scope": "已读对象页提取正文和存档未见该选中视图明确标copy/复制品/残件；这不构成真品鉴定或对未见页面内容的保证。未据照片颜色认定材质。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current 0.075 display, exact archived source image URL and grade/view row checked; retain current low-resolution image. No processing/replacement required for this review; authenticity and high-resolution original not independently verified."
     },
     {
       "originalPath": "assets/raw/austria_republic_20261005/1184e1f3b8c23e8f0aac.jpg",
@@ -90490,8 +90962,8 @@
     }
   ],
   "pending": 8145,
-  "source_reviewed": 338,
-  "individual_review_pending": 7807,
+  "source_reviewed": 359,
+  "individual_review_pending": 7786,
   "replacement_pending": 8145,
   "previous_row_entries_0_069": [
     {
@@ -91365,5 +91837,39 @@
     "next_row": "OMB2-E178B608F433",
     "processing_and_replacement": 0,
     "note": "前次两项来源阻塞本次通过网页工具解决；原图及当前展示保留。"
+  },
+  "south_america_review_20261025": {
+    "as_of": "2026-10-25",
+    "baseline": "mobile-current/build-info.json 0.075/code75；cloud-state当前目录7803行、8155照片路径。",
+    "scope": "用户指定南美洲既有内容；原队列顺序中智利3项、秘鲁20项（含位于队列末段的卡亚俄百周年奖章）。不新增章种，不改界面。",
+    "south_america_existing": {
+      "rows": 267,
+      "family_identifiers": 189,
+      "photo_paths": 153,
+      "note": "family标识数不是本轮新增或经独立去重证明的独立章种数；此范围来自当前南美洲卷，加related附编中的既有秘鲁卡亚俄百周年奖章1行1图；附编不计主编独立章种。"
+    },
+    "completed_this_batch": {
+      "display_views_reviewed": 23,
+      "existing_rows_reviewed": 23,
+      "source_reviews_completed_retain_current": 21,
+      "source_conflicts_retained_pending": 2,
+      "catalogue_fact_changes": 0,
+      "background_processing": 0,
+      "image_replacements": 0,
+      "new_families": 0,
+      "new_rows": 0
+    },
+    "south_america_individual_review_remaining": 132,
+    "next_entry": {
+      "queue": "data/queues/image_replacement_current_20261021.json",
+      "row_id": "COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01",
+      "source_page": "https://www.medals.org.uk/colombia/colombia028.htm",
+      "instruction": "下批先接续哥伦比亚原队列；秘鲁上述两项保留待核，不重复从头审智利3图/秘鲁20图。其后按当前南美洲卷ID过滤同一原队列，保留原顺序。"
+    },
+    "counting": "沿用原队列三种status。source_reviewed_awaiting_image_processing沿用历史状态名；本轮21项disposition明确保留原图且无需处理，并非必须替换。integrated仍10；processing/replacement pending仍8145，仅为历史未集成处理图口径，不是错图数。",
+    "historical_6542": "BUILD.md v0.043背景pending数；与8155项后续照片路径审查队列不可等同/相加。既有checkpoint称迁移成员索引未含旧背景队列；本轮仍无法建立逐项映射。788条背景处理与3条裁剪是历史规则，不能作为本批成果或当前全部已集成证明。",
+    "checks": "仅23行family/variant、当前唯一视图src、来源图片URL/存档图注对应及展示图解码/实际查看；全23行路径与当前cloud-state一致。未跑全量测试、未重验全部图库、未执行实体手机验证。",
+    "delivery": "仅原队列与checkpoint审查记录变更，权威目录/云端portable/catalog及图片均未改，不重新封装APK。固定最新版保持0.075。",
+    "cloud_blocker": "GitHub get_repo实测visibility=public；当前云端工作流仅在private仓库构建。未关闭保护、未改变仓库可见性、未上传图像或构建输入到公开Release。将来实际目录/图片改动需在现有私有云端流程可用时构建。"
   }
 }
