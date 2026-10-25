@@ -18768,5 +18768,24 @@
     "remaining": "186视图来源与原图复核；264条无图目录候选仅保留既有状态；6542旧成员队列仍未找回。",
     "next_entry": "IND-MB-045-V01；其后IND-MB-004-V01，再回原队列BIND-MB-005-V01顺序。",
     "apk": "仍0.075/code75；仅报告与记录变化，不打包；实体手机未验证。"
+  },
+  "international_organizations_review_20261025": {
+    "as_of": "2026-10-25",
+    "report": "INTERNATIONAL_ORGANIZATIONS_REVIEW_20261025.md",
+    "rows": 57,
+    "display_views": 88,
+    "boundary_index_rows": 12,
+    "boundary_index_views": 15,
+    "completed": "当前目录／来源索引／原队列88项一一定位、展示解码和总览初查；12行国家相关条目仅索引整理",
+    "status_changes": 0,
+    "catalogue_fact_changes": 0,
+    "background_processing": 0,
+    "image_replacements": 0,
+    "new_families": 0,
+    "unfinished": "88视图原图册逐页与原尺寸原图核对；日期性质、通用背面关联、074扣饰、073授予主体；6542成员关系仍未确定",
+    "next_entry": "IE-DF-2010-019；按原队列顺序继续同批国际组织行，优先另核IE-DF-2010-074及073",
+    "baseline": "实时mobile-current/build-info.json及cloud/state.json确认0.075/code75；7803行8155照片路径",
+    "source_access": "military.ie图册HTTP403；gg.gov.au说明页CONNECT403；未升级来源审查状态",
+    "apk": "仅报告与接续记录变化，未重包；实体手机未验证"
   }
 }
