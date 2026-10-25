@@ -18511,5 +18511,17 @@
     "delivery": "仅原队列与checkpoint审查记录变更，权威目录/云端portable/catalog及图片均未改，不重新封装APK。固定最新版保持0.075。",
     "cloud_blocker": "GitHub get_repo实测visibility=public；当前云端工作流仅在private仓库构建。未关闭保护、未改变仓库可见性、未上传图像或构建输入到公开Release。将来实际目录/图片改动需在现有私有云端流程可用时构建。",
     "concurrent_main_progress": "已保留main 7d5b37c7的Sanayi两图核对及奥斯曼待核记录；仅更新总队列口径359/7786，该两图不计本批23张成果。"
+  },
+  "north_america_review_20261025": {
+    "rows": 73,
+    "views": 75,
+    "queue_items": 75,
+    "report": "NORTH_AMERICA_REVIEW_20261025.md",
+    "status_changes": 0,
+    "completed": "三国七个现有分卷73行75视图定位、解码和总览初查；报告已保存；事实修正/背景处理/替换均0",
+    "unfinished": "75视图对象页与原图、等级、版型及完整性逐件复核；6542成员对应关系仍未确定",
+    "next_entry": "CAN-ORDER-CANADA-COMPANION-OFFICIAL",
+    "next_steps": "先官方加拿大同伴级，再美国内战奖章与两组配对；依原队列顺序继续其余加拿大及墨西哥。原奥斯曼未完成事项保留。",
+    "apk": "未打包，仍0.075；实体手机未验证"
   }
 }
