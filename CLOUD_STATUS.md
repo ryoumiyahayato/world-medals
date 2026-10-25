@@ -97,6 +97,21 @@
 
 云端流程跑通不等于全部图片已经替换或资料已审完。
 
+### 2026-10-25接续核查（Asia/Taipei；附件访问阻塞）
+
+本次只整理已经收录的内容，不扩充章种，不改手机界面和三列图鉴；本次要求优先于AGENTS.md历史任务书中的至少51种要求。
+
+- 已读取README.md、本文、CLOUD_BUILD.md、BUILD.md顶部和AGENTS.md。Git远端HEAD与检出一致，为8d47d57820d2de433c90b190bda15cbb61844e53。
+- GitHub连接实时读取mobile-current的Release元数据成功：仍列出0.075、三个固定附件，源码目标bf01d9908df7692a651f846183c4fdb100ae5928。尚未取得build-info.json正文，不能宣称已经按该附件确认版本或重新验证APK。
+- 当前受跟踪background_rules.json共791条：788条背景规则和3条crop-only。仅表示源码保存了规则；未与当前cloud-state逐项比对，不能算作本次处理数量或当前APK已集成数量。row_replacements.json保存2条行替换记录，material_resolutions.json保存38条候选处置，也不能直接作为当前集成数量。
+- 6542可定位到BUILD.md的v0.043背景待处理记录；review_backgrounds.py从mobile/build/pending-review.json的backgroundReview复制生成mobile/build/background-continuation/queue.json。未取得当时队列及后续8155项队列，尚不能建立成员对应关系或确认“6000多张”的唯一统计来源。背景待处理、来源待审、替换待办均不是错图数。
+- 当前源码中的release-input.json有6021个rows键、8221个images键、3155个sources键。这些是索引键数量，不是独立章种数，也不能替代运行目录的7803行、8155个照片路径；差异须在取得当前catalog.js及cloud/portable.json后按导出逻辑核对，不据此删图或合并等级/视图。
+- 本次实际逐图审查、背景处理、图片替换及目录事实修正均为0。没有运行全量测试，没有构建或替换APK，实体手机未验证。
+
+阻塞：云环境gh读取Release的REST及GraphQL请求均返回Forbidden，gh auth status报告GH_TOKEN无法认证；GitHub连接可以读取Release元数据，但fetch不支持二进制下载，固定build-info.json下载URL返回404。环境未提供可用浏览器工具。未读取或输出凭据值，未绕过访问控制。已请求在云环境Secrets中配置私有Release下载、上传和Actions所需凭据，密钥不得发送到聊天。
+
+下一批入口：凭据就绪后先下载mobile-current/build-info.json确认实时版本，再从当前cloud-state读取catalog.js、cloud/state.json及cloud/portable.json；通过local-backup-20261024/migration.json仅提取最新checkpoint、原图片审查队列、来源索引和处置记录（必要时覆盖final-delta中的同名记录）。按原队列优先级完成尚未完成批次，先核实6542项与后续队列的成员关系，保留已核对正确图片。原checkpoint目前不在检出中且备份附件不可读，本次未改写它；本节暂存接续结果，取得原记录后写回既有checkpoint，不另建队列。发生实际内容改动后再按当前云端流程封装；仅本节进度变化不触发打包。
+
 2026-10-23的0.073集成检查点曾记录：队列共8,155项，已集成处理图10项，来源审查336项，待逐图审查7,809项，处理/替换待办8,145项。这是历史检查点口径，本轮云端验证未重新审计。待办数不等于已证实错图数，也不能直接解释为所有图片都必须替换。
 
 早期“6000多张”说法的唯一来源仍未确定。BUILD.md的0.043历史记录有“6542项背景队列待处理”，该数字不等于6542张错误图片。
