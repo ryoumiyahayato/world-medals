@@ -57656,8 +57656,34 @@
       "variant": "军官版（将官以外）；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia028.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/c9c6ff80b155c4bb7f5714f4.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia028.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia028-03.jpg",
+        "image_label": "Cross of Boyacá; Other Officers, Obverse",
+        "display_dimensions": [
+          155,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Other Officers, Obverse",
+        "archived_row_context": [
+          "Other Officers",
+          "Sorry - no picture of reverse"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/63da9db8c84a5a565c44d6b7.jpg",
@@ -57667,8 +57693,33 @@
       "variant": "第一级；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia010.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/63da9db8c84a5a565c44d6b7.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia010.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia010-01.jpg",
+        "image_label": "Military Order of the Cross of St Matthew; Class 1, Obverse",
+        "display_dimensions": [
+          192,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Class 1, Obverse",
+        "archived_row_context": [
+          "Class 1"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/a2d5ad444442fadeca2e18d2.jpg",
@@ -57678,8 +57729,34 @@
       "variant": "1922年修订式；第三级（铜章等级，来源标Bronze）；博亚卡勋章前身；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia021.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/a2d5ad444442fadeca2e18d2.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia021.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia021-05.jpg",
+        "image_label": "Centennial Cross of Boyacá; Class 3, Obverse",
+        "display_dimensions": [
+          178,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Class 3, Obverse",
+        "archived_row_context": [
+          "Bronze"
+        ],
+        "variant_note": "来源将该图列为Bronze/Class3，并说明1919设立、1922修订、1927由博亚卡勋章替代；保留已经归并的family，不因旧rowId不同重建章种。"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/35f0c3d756f471751c615a6b.jpg",
@@ -57689,8 +57766,33 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia012.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/35f0c3d756f471751c615a6b.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia012.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia012-09.jpg",
+        "image_label": "Order of Boyacá; Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          249,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/b3205578b3c41419b1277c77.jpg",
@@ -57700,8 +57802,34 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/b3205578b3c41419b1277c77.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia001.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia005.jpg",
+        "image_label": "National Order of Merit 'Antonio Nariño'; Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          273,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/a2fe117c7a55f45300526206.jpg",
@@ -57711,8 +57839,34 @@
       "variant": "大军官级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia003.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/a2fe117c7a55f45300526206.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia003.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia018.jpg",
+        "image_label": "Order of Medical Merit 'José Fernández Madrid'; Grand Officer: Star, Obverse",
+        "display_dimensions": [
+          252,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Officer: Star, Obverse",
+        "archived_row_context": [
+          "Grand Officer: Star",
+          "Sorry - no picture of reverse"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/912d8eb083bedb712c4dcd93.jpg",
@@ -57722,8 +57876,33 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia002.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/912d8eb083bedb712c4dcd93.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia002.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia002-03.jpg",
+        "image_label": "Order of Military Merit 'José María Córdova'; Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          250,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/a6232351762295be5fe1208a.jpg",
@@ -57733,8 +57912,33 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia011.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/a6232351762295be5fe1208a.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia011.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia011-09.jpg",
+        "image_label": "Order of San Carlos; Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          258,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/29c6a6d84b17f165a8924e2c.jpg",
@@ -57744,8 +57948,34 @@
       "variant": "指挥官级；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia016.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/29c6a6d84b17f165a8924e2c.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia016.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia016-09.jpg",
+        "image_label": "Miliary Order 13th of June; Commander, Obverse",
+        "display_dimensions": [
+          133,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Commander, Obverse",
+        "archived_row_context": [
+          "Commander",
+          "Sorry - no picture of reverse"
+        ]
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v019_20261005/9729da1b30d2686c5f974967.jpg",
@@ -57755,8 +57985,35 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/colombia/colombia025.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v019_20261005/9729da1b30d2686c5f974967.jpg.webp",
+        "source_page": "https://www.medals.org.uk/colombia/colombia025.htm",
+        "image_url": "https://www.medals.org.uk/colombia/images/colombia025-07.jpg",
+        "image_label": "National Order of Merit; Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          266,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v019_americas/colombia_candidates.json",
+        "archived_image_label": "Grand Cross: Star, Obverse",
+        "archived_row_context": [
+          "Grand Cross: Star",
+          "Sorry - no picture of reverse"
+        ],
+        "page_extraction_discrepancy": "首次网页提取返回2012版且无图；同一对象页再次读取返回2026-07-23版，并明确列出Grand Cross: Star, Obverse。与既有精确图片URL/存档等级一致，保留该图；不将网页提取缺图直接判为当前图像错误。"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v020_20261005/1f1fa7c64a6be5a5cc9f2129.jpg",
@@ -62955,8 +63212,29 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil027.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/a720297c1428d018256c8083.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil027.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil027-01.jpg",
+        "image_label": "Obverse",
+        "display_dimensions": [
+          194,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/6943b5b1e1ae834604b7e044.jpg",
@@ -62966,8 +63244,29 @@
       "variant": "挂章；具体等级待考；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil028.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/6943b5b1e1ae834604b7e044.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil028.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil028-01.jpg",
+        "image_label": "Obverse",
+        "display_dimensions": [
+          123,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/e50e7cdb25ff66e71999b29f.jpg",
@@ -62978,7 +63277,48 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/e50e7cdb25ff66e71999b29f.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil034.jpg",
+        "image_label": "Knight",
+        "display_dimensions": [
+          90,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_pending_catalogue_date_resolution",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json",
+        "date_conflict": {
+          "current_catalogue": "1932年1月13日设立（来源记载）",
+          "commercial_source_claim": "1932-01-13；WMI当前对象页与既有目录采用此日期。",
+          "primary_sources": [
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22165-5-dezembro-1932-560264-publicacaooriginal-82948-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.165, 5 dezembro 1932, art.1；DOU 1932-12-07 p.22270",
+              "summary": "法令以南十字国家勋章之名恢复旧十字勋章，日期为1932-12-05。"
+            },
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22610-4-abril-1933-558463-publicacaooriginal-79763-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.610, 4 abril 1933, regulamento arts.1-3；DOU 1933-04-07 p.6930",
+              "summary": "条例第1条再次引用1932-12-05恢复法令；第2条规定正面为星座，背面为共和国像，支持现用图的正面方向；1933-04-04是条例颁行日。"
+            }
+          ],
+          "proposed_date_text": "1932年12月5日恢复（第22,165号法令）；1933年4月4日颁行条例",
+          "integration_status": "未修改权威目录、cloud/portable或APK；须同步修正两类目录，不能仅改Git源文件后让旧云端缓存覆盖。",
+          "blocker": "仓库当前public，现有cloud-release仅在private运行；不关闭保护或公开上传受限制图片/云端状态。"
+        },
+        "direction_check": "已读取1933条例第2条，星座为正面，共和国像为背面；未凭照片颜色或旧聊天猜测。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/6e69c197a71040003a17a5d5.jpg",
@@ -62989,7 +63329,48 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/6e69c197a71040003a17a5d5.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil032.jpg",
+        "image_label": "Grand Officer: Badge",
+        "display_dimensions": [
+          166,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_pending_catalogue_date_resolution",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json",
+        "date_conflict": {
+          "current_catalogue": "1932年1月13日设立（来源记载）",
+          "commercial_source_claim": "1932-01-13；WMI当前对象页与既有目录采用此日期。",
+          "primary_sources": [
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22165-5-dezembro-1932-560264-publicacaooriginal-82948-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.165, 5 dezembro 1932, art.1；DOU 1932-12-07 p.22270",
+              "summary": "法令以南十字国家勋章之名恢复旧十字勋章，日期为1932-12-05。"
+            },
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22610-4-abril-1933-558463-publicacaooriginal-79763-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.610, 4 abril 1933, regulamento arts.1-3；DOU 1933-04-07 p.6930",
+              "summary": "条例第1条再次引用1932-12-05恢复法令；第2条规定正面为星座，背面为共和国像，支持现用图的正面方向；1933-04-04是条例颁行日。"
+            }
+          ],
+          "proposed_date_text": "1932年12月5日恢复（第22,165号法令）；1933年4月4日颁行条例",
+          "integration_status": "未修改权威目录、cloud/portable或APK；须同步修正两类目录，不能仅改Git源文件后让旧云端缓存覆盖。",
+          "blocker": "仓库当前public，现有cloud-release仅在private运行；不关闭保护或公开上传受限制图片/云端状态。"
+        },
+        "direction_check": "已读取1933条例第2条，星座为正面，共和国像为背面；未凭照片颜色或旧聊天猜测。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/0e9551d49b2a1e5faafe304f.jpg",
@@ -63000,7 +63381,49 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/0e9551d49b2a1e5faafe304f.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil003-09.jpg",
+        "image_label": "Grand Officer: Star, Obverse",
+        "display_dimensions": [
+          261,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_pending_catalogue_date_resolution",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json",
+        "date_conflict": {
+          "current_catalogue": "1932年1月13日设立（来源记载）",
+          "commercial_source_claim": "1932-01-13；WMI当前对象页与既有目录采用此日期。",
+          "primary_sources": [
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22165-5-dezembro-1932-560264-publicacaooriginal-82948-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.165, 5 dezembro 1932, art.1；DOU 1932-12-07 p.22270",
+              "summary": "法令以南十字国家勋章之名恢复旧十字勋章，日期为1932-12-05。"
+            },
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22610-4-abril-1933-558463-publicacaooriginal-79763-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.610, 4 abril 1933, regulamento arts.1-3；DOU 1933-04-07 p.6930",
+              "summary": "条例第1条再次引用1932-12-05恢复法令；第2条规定正面为星座，背面为共和国像，支持现用图的正面方向；1933-04-04是条例颁行日。"
+            }
+          ],
+          "proposed_date_text": "1932年12月5日恢复（第22,165号法令）；1933年4月4日颁行条例",
+          "integration_status": "未修改权威目录、cloud/portable或APK；须同步修正两类目录，不能仅改Git源文件后让旧云端缓存覆盖。",
+          "blocker": "仓库当前public，现有cloud-release仅在private运行；不关闭保护或公开上传受限制图片/云端状态。"
+        },
+        "direction_check": "已读取1933条例第2条，星座为正面，共和国像为背面；未凭照片颜色或旧聊天猜测。",
+        "edge_followup": "原尺寸现用图261×250，下方星芒接近画框；后续与原文件核对末端完整性，不主动抠图。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/cda3251417f6485b034b7a19.jpg",
@@ -63011,7 +63434,49 @@
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
       "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/cda3251417f6485b034b7a19.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil003.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil003-05.jpg",
+        "image_label": "Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          259,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_pending_catalogue_date_resolution",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json",
+        "date_conflict": {
+          "current_catalogue": "1932年1月13日设立（来源记载）",
+          "commercial_source_claim": "1932-01-13；WMI当前对象页与既有目录采用此日期。",
+          "primary_sources": [
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22165-5-dezembro-1932-560264-publicacaooriginal-82948-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.165, 5 dezembro 1932, art.1；DOU 1932-12-07 p.22270",
+              "summary": "法令以南十字国家勋章之名恢复旧十字勋章，日期为1932-12-05。"
+            },
+            {
+              "page": "https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-22610-4-abril-1933-558463-publicacaooriginal-79763-pe.html",
+              "accessed": "2026-10-25",
+              "reference": "Decreto 22.610, 4 abril 1933, regulamento arts.1-3；DOU 1933-04-07 p.6930",
+              "summary": "条例第1条再次引用1932-12-05恢复法令；第2条规定正面为星座，背面为共和国像，支持现用图的正面方向；1933-04-04是条例颁行日。"
+            }
+          ],
+          "proposed_date_text": "1932年12月5日恢复（第22,165号法令）；1933年4月4日颁行条例",
+          "integration_status": "未修改权威目录、cloud/portable或APK；须同步修正两类目录，不能仅改Git源文件后让旧云端缓存覆盖。",
+          "blocker": "仓库当前public，现有cloud-release仅在private运行；不关闭保护或公开上传受限制图片/云端状态。"
+        },
+        "direction_check": "已读取1933条例第2条，星座为正面，共和国像为背面；未凭照片颜色或旧聊天猜测。",
+        "edge_followup": "原尺寸现用图259×250，左侧和下方星芒紧贴画框；不以此图宣称全部星芒末端已证实完整。需比对来源原文件或更宽画框视图，保留当前图，不抠图、不补画。"
+      }
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/b699288a52efb969fd293793.jpg",
@@ -63021,8 +63486,29 @@
       "variant": "骑士级男式挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/b699288a52efb969fd293793.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-15.jpg",
+        "image_label": "Knight (Male), Obverse",
+        "display_dimensions": [
+          115,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/705bbd13bd5c089abee033ae.jpg",
@@ -63032,8 +63518,29 @@
       "variant": "军官级女式挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/705bbd13bd5c089abee033ae.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-13.jpg",
+        "image_label": "Officer (Female), Obverse",
+        "display_dimensions": [
+          276,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/ac510dd9b22432e8a6fb0728.jpg",
@@ -63043,8 +63550,29 @@
       "variant": "大军官级挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/ac510dd9b22432e8a6fb0728.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-05.jpg",
+        "image_label": "Grand Officer: Badge, Obverse",
+        "display_dimensions": [
+          141,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/e6a402990a6c2de1f1f2cd8c.jpg",
@@ -63054,8 +63582,29 @@
       "variant": "大军官级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/e6a402990a6c2de1f1f2cd8c.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-07.jpg",
+        "image_label": "Grand Officer: Star, Obverse",
+        "display_dimensions": [
+          253,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/a5b31adc663d39f241bf5a04.jpg",
@@ -63065,8 +63614,29 @@
       "variant": "大十字级星章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/a5b31adc663d39f241bf5a04.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-03.jpg",
+        "image_label": "Grand Cross: Star, Obverse",
+        "display_dimensions": [
+          251,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/e64a2b7d130276a697c1765b.jpg",
@@ -63076,8 +63646,29 @@
       "variant": "指挥官级挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/e64a2b7d130276a697c1765b.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-09.jpg",
+        "image_label": "Commander, Obverse",
+        "display_dimensions": [
+          171,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/e2e09281b030150549c7997b.jpg",
@@ -63087,8 +63678,29 @@
       "variant": "骑士级女式挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/e2e09281b030150549c7997b.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-17.jpg",
+        "image_label": "Knight (Female), Obverse",
+        "display_dimensions": [
+          276,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/212ff65be9c108de41865ffe.jpg",
@@ -63098,8 +63710,29 @@
       "variant": "军官级男式挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/212ff65be9c108de41865ffe.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-11.jpg",
+        "image_label": "Officer (Male), Obverse",
+        "display_dimensions": [
+          110,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/d31c06b3df3cce7b55d565de.jpg",
@@ -63109,8 +63742,29 @@
       "variant": "大十字级挂章；低清参考",
       "view": "完整正面（低清参考）",
       "source": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
-      "status": "awaiting_individual_image_review",
-      "processedPath": null
+      "status": "source_reviewed_awaiting_image_processing",
+      "processedPath": null,
+      "review_20261025_south_america_batch2": {
+        "display_version": "0.075",
+        "display_src": "images/detail/assets/images/source_batch_v021_20261005/d31c06b3df3cce7b55d565de.jpg.webp",
+        "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil001.htm",
+        "image_url": "https://www.medals.org.uk/brazil/fr-brazil/images/fr-brazil001-01.jpg",
+        "image_label": "Grand Cross: Badge, Obverse",
+        "display_dimensions": [
+          290,
+          250
+        ],
+        "visual_result": "已打开并查看当前cloud-state的实际低清展示图；章体、铭文/纹饰、金属悬挂结构与所指对象相符；保持现有等级/男女式/星章与挂章各行，不合并视图。",
+        "source_review_scope": "本轮用网页工具读取对象页正文和具体等级/视图行，核对云端来源索引中的精确图片URL。未声称本轮重新下载高清原图、实物鉴定或独立确定材质。",
+        "copy_damage_scope": "已读网页提取正文未见对该视图的明确copy/复制品/残件说明；不因此保证真品。当前图片保留低清参考，不进行抠图、替换或生成缺失结构。",
+        "disposition": "retain_current_no_processing_required",
+        "catalogue_change": false,
+        "image_processing": false,
+        "image_replacement": false,
+        "archive_record": "当前cloud-state/cloud/portable.json对应图片元数据；历史扫描状态见local-backup-20261024/project-part-08-of-15.zip:data/raw_candidates/batch_v021_americas/brazil-republic_sweep.json"
+      },
+      "reviewed_at": "2026-10-25",
+      "source_review": "Current0.075 display checked against exact source index and object-page grade/view; retain current image without processing or replacement. Low-resolution reference retained; no authenticity/high-resolution original verification claimed."
     },
     {
       "originalPath": "assets/images/source_batch_v021_20261005/c41d09e55c13b14f8e96722c.jpg",
@@ -92763,8 +93417,8 @@
     }
   ],
   "pending": 8145,
-  "source_reviewed": 359,
-  "individual_review_pending": 7786,
+  "source_reviewed": 380,
+  "individual_review_pending": 7765,
   "replacement_pending": 8145,
   "previous_row_entries_0_069": [
     {
@@ -93800,5 +94454,34 @@
     "prior_global_entry_preserved": "OTT/Osmanieh旧入口仍在continuation_20261025_source_followups，本批按用户指定范围暂转大洋洲，未关闭其他待办。",
     "report": "CLOUD_STATUS.md：2026-10-25大洋洲已收录内容报告",
     "build": "仅报告、checkpoint和原队列备注变化；不构建，保留0.075。实体手机未验证。"
+  },
+  "south_america_review_20261025_batch2": {
+    "as_of": "2026-10-25",
+    "baseline": "已再次读取mobile-current/build-info.json，仍0.075/code75；复用上一轮下载的同版cloud-state，不恢复整套备份。",
+    "completed_this_batch": {
+      "display_views_reviewed": 25,
+      "existing_rows_reviewed": 25,
+      "colombia_views": 10,
+      "brazil_views": 15,
+      "source_reviews_completed_retain_current": 21,
+      "date_conflict_rows_retained_pending": 4,
+      "catalogue_fact_changes": 0,
+      "background_processing": 0,
+      "image_replacements": 0,
+      "new_families": 0,
+      "new_rows": 0
+    },
+    "date_issue": "南十字勋章4行现目录/WMI的1932-01-13与官方1932-12-05恢复法令冲突；建议修正文案、原法令/条例及各行画框疑问写回同一原队列。未声称已集成修正。",
+    "south_america_individual_review_remaining": 111,
+    "remaining_scope": "沿用上批153照片路径范围；111包括此前秘鲁2项与本批南十字4项，尚未审的其余105项。不是错图数。",
+    "next_entry": {
+      "queue": "data/queues/image_replacement_current_20261021.json",
+      "row_id": "V021-BRAZIL-REPUBLIC-FR-BRAZIL002-263454E5",
+      "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil002.htm",
+      "instruction": "接续巴西军事功绩勋章原队列；保留秘鲁2项及南十字4行待核。哥伦比亚10图与本批巴西前15图已审，勿从头重复。"
+    },
+    "checks": "仅本批25行family/variant/唯一视图src与来源索引对应，25张展示图解码、原尺寸查看；14个对象页正文与等级/视图行（哥伦比亚10页、巴西4页）实际读取，另读巴西官方2份法令/条例。未跑全量测试/全仓回归或重验全部图库。",
+    "build": "仅既有队列和checkpoint记录变更；未更改权威目录、图片、云端输入或界面，不重新封装APK；固定最新版仍0.075。实体手机未验证。",
+    "cloud_blocker": "GitHub get_repo本轮确认visibility=public；现有工作流仅对private运行。没有更改可见性、取消保护或上传公开图像/构建输入。"
   }
 }

@@ -15718,7 +15718,7 @@
   "current_unpictured_rows": 1823,
   "current_unique_images": 8155,
   "cloud_report_id": "1EWd2bzeHzaIi03Be92ErOR9rgYSFbGU0",
-  "replacement_scope": "Current queue8155 photo paths;10 user displays integrated;359 source views reviewed;7786 individual reviews pending. Historical processing/replacement pending8145 is not a wrong-image count or mandatory replacement instruction; South America 21 reviewed views explicitly retain existing images. Includes concurrent main Sanayi review2; those2 are not South America batch results.",
+  "replacement_scope": "Current queue8155 photo paths;10 integrated user displays;380 source views reviewed;7765 individual reviews pending. Historical processing/replacement pending8145 is not a wrong-image count or a requirement to replace all images. South America batch2:25 reviewed,21 retain unchanged,4 date-conflict rows pending;no image/catalogue changes.",
   "next_work": {
     "view_label_review_queue": "data/queues/v025_view_label_review_20261021.json",
     "remaining_families": 0,
@@ -15731,7 +15731,7 @@
     "local_source_removal_status": "batch deletion blocked by automatic approval; originals retained",
     "source_table_review_complete": true,
     "cross_volume_identity_candidate": "UKR-WA-ORDER_OF_PRINCESS_OLGA versus V025-UKR-ORDER_OF_PRINCESS_OLHA; object page inaccessible",
-    "next_step": "用户指定东南亚：先读docs/southeast-asia-existing-content-20261025.md；原图片队列从KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA-MEDALBOOK-010指挥官级正面接续。599行/731路径为本批目录记录整理，未完成逐图来源鉴定；23行文字待核候选保留。",
+    "next_step": "继续南美洲：巴西军事功绩勋章V021-BRAZIL-REPUBLIC-FR-BRAZIL002-263454E5；原队列中保留南十字4行日期/画框待核及秘鲁2项。",
     "local_build_cleanup_status": "CurrentAPK0.072 overwrote previouscurrentartifact. No deletionattempted; olderblocked originalfiles,APKs,ZIP55/56 untouched. Fixed uploadbuffer57 safelyreused for58 after priorcloudverification; cachefile shrank49.4MiB, no netprojectdiskclaim.",
     "next_image_review": {
       "originalPath": "assets/images/ottoman_medalbook_pack2/omb2-e178b608f433.jpg",
@@ -15749,8 +15749,8 @@
         "source_boundary": "MedalBook Sanayi对象页可读且列出eMedals供图；尚未完成当前旧文件与图库实物逐项匹配。Künker7280/7281原PDF网页读取失败；仅历史文字候选与页面级图片索引不证明实物绑定。均保持原待逐图审查状态。"
       }
     },
-    "remaining_individual_image_review_items": 7786,
-    "source_images_reviewed_current_queue": 359,
+    "remaining_individual_image_review_items": 7765,
+    "source_images_reviewed_current_queue": 380,
     "next_image_review_name": "工艺功绩奖章（MedalBook旧图实物匹配）",
     "new_source_storage_rule": "For future new sources, avoid saving returned ZIPs. Where practical keep newly fetched originals directly in initial source ZIP and derive images in memory, avoiding duplicate raw originals on disk. Never overwrite/delete older policy-blocked targets.",
     "unmerged_raw_source_objects": [],
@@ -15758,9 +15758,9 @@
     "missing_current_gallery_variant_candidates": 5,
     "south_america_resume": {
       "queue": "data/queues/image_replacement_current_20261021.json",
-      "row_id": "COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01",
-      "source_page": "https://www.medals.org.uk/colombia/colombia028.htm",
-      "instruction": "下批先接续哥伦比亚原队列；秘鲁上述两项保留待核，不重复从头审智利3图/秘鲁20图。其后按当前南美洲卷ID过滤同一原队列，保留原顺序。"
+      "row_id": "V021-BRAZIL-REPUBLIC-FR-BRAZIL002-263454E5",
+      "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil002.htm",
+      "instruction": "接续巴西军事功绩勋章原队列；保留秘鲁2项及南十字4行待核。哥伦比亚10图与本批巴西前15图已审，勿从头重复。"
     },
     "prior_next_step_before_south_america_20261025": "普通队列先完成OMB2-E178B608F433旧图与MedalBook图库实物对应；随后Künker299图录PDF第195页的7280/7281。Osmanieh与二等慈善背面保留来源阻塞，不反复重试相同失败地址。",
     "prior_next_step_before_southeast_asia_report_20261025": "继续南美洲：原image_replacement_current_20261021.json中COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01（colombia028.htm）；秘鲁2项来源冲突留在原记录待核。"
@@ -17161,7 +17161,7 @@
     "total_bytes_removed": 0,
     "old_policy_blocked_targets_untouched": true
   },
-  "current_individual_image_review_pending": 7786,
+  "current_individual_image_review_pending": 7765,
   "latest_source_input_delta": {
     "edition": "0.072",
     "old_display_paths_no_longer_referenced": 11,
@@ -18690,5 +18690,69 @@
     "prior_global_entry_preserved": "OTT/Osmanieh旧入口仍在continuation_20261025_source_followups，本批按用户指定范围暂转大洋洲，未关闭其他待办。",
     "report": "CLOUD_STATUS.md：2026-10-25大洋洲已收录内容报告",
     "build": "仅报告、checkpoint和原队列备注变化；不构建，保留0.075。实体手机未验证。"
+  },
+  "south_america_review_20261025_batch2": {
+    "as_of": "2026-10-25",
+    "baseline": "已再次读取mobile-current/build-info.json，仍0.075/code75；复用上一轮下载的同版cloud-state，不恢复整套备份。",
+    "completed_this_batch": {
+      "display_views_reviewed": 25,
+      "existing_rows_reviewed": 25,
+      "colombia_views": 10,
+      "brazil_views": 15,
+      "source_reviews_completed_retain_current": 21,
+      "date_conflict_rows_retained_pending": 4,
+      "catalogue_fact_changes": 0,
+      "background_processing": 0,
+      "image_replacements": 0,
+      "new_families": 0,
+      "new_rows": 0
+    },
+    "reviewed_rows": [
+      "COLOMBIA-WMI-FAM-BFEB27D8AD3B-V01",
+      "COLOMBIA-WMI-FAM-3840726124D1-V01",
+      "COLOMBIA-WMI-FAM-12EACB01B82A-V01",
+      "COLOMBIA-WMI-FAM-9E48C1EBD0CD-V01",
+      "COLOMBIA-WMI-FAM-F4ECC7A802EB-V01",
+      "COLOMBIA-WMI-FAM-0B8DC8DD5A73-V01",
+      "COLOMBIA-WMI-FAM-123351163BA2-V01",
+      "COLOMBIA-WMI-FAM-35857BE57BCA-V01",
+      "COLOMBIA-WMI-FAM-D67532C970A4-V01",
+      "COLOMBIA-WMI-FAM-83B91BCCFE52-V01",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL027-82ED7BAF",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL028-64FBFCEF",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-297CA51C",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-2F2DAF4F",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-4D89CFA2",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-AB5732A7",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-02F5C6B4",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-15F22389",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-1FE2A4C3",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-852CBBFC",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-C42A4C17",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-C99BC3A9",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-D0686684",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-D6CA813D",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL001-E2F856D0"
+    ],
+    "pending_rows": [
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-297CA51C",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-2F2DAF4F",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-4D89CFA2",
+      "V021-BRAZIL-REPUBLIC-FR-BRAZIL003-AB5732A7"
+    ],
+    "date_issue": "南十字勋章4行现目录/WMI的1932-01-13与官方1932-12-05恢复法令冲突；建议修正文案、原法令/条例及各行画框疑问写回同一原队列。未声称已集成修正。",
+    "south_america_individual_review_remaining": 111,
+    "remaining_scope": "沿用上批153照片路径范围；111包括此前秘鲁2项与本批南十字4项，尚未审的其余105项。不是错图数。",
+    "next_entry": {
+      "queue": "data/queues/image_replacement_current_20261021.json",
+      "row_id": "V021-BRAZIL-REPUBLIC-FR-BRAZIL002-263454E5",
+      "source_page": "https://www.medals.org.uk/brazil/fr-brazil/fr-brazil002.htm",
+      "instruction": "接续巴西军事功绩勋章原队列；保留秘鲁2项及南十字4行待核。哥伦比亚10图与本批巴西前15图已审，勿从头重复。"
+    },
+    "checks": "仅本批25行family/variant/唯一视图src与来源索引对应，25张展示图解码、原尺寸查看；14个对象页正文与等级/视图行（哥伦比亚10页、巴西4页）实际读取，另读巴西官方2份法令/条例。未跑全量测试/全仓回归或重验全部图库。",
+    "build": "仅既有队列和checkpoint记录变更；未更改权威目录、图片、云端输入或界面，不重新封装APK；固定最新版仍0.075。实体手机未验证。",
+    "cloud_blocker": "GitHub get_repo本轮确认visibility=public；现有工作流仅对private运行。没有更改可见性、取消保护或上传公开图像/构建输入。",
+    "concurrent_main_progress": "已保留main e09eda04及此前北美、东南亚、非洲、大洋洲报告与原队列审查记录；这些内容不计本批南美洲成果。",
+    "other_scope_next_step_preserved": "用户指定东南亚：先读docs/southeast-asia-existing-content-20261025.md；原图片队列从KHM-AWARD-ROYAL-ORDER-OF-CAMBODIA-MEDALBOOK-010指挥官级正面接续。599行/731路径为本批目录记录整理，未完成逐图来源鉴定；23行文字待核候选保留。"
   }
 }
